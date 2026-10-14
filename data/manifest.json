@@ -1,0 +1,1362 @@
+{
+  "schemaVersion": 1,
+  "repository": "https://github.com/elora-grid/elora-electrical-cad-library",
+  "canonical": "https://eloragrid.ai/tools/cad-library",
+  "sourceFeed": "https://eloragrid.ai/tools/cad-library/catalogue.json?all=1",
+  "counts": {
+    "entries": 329,
+    "manufacturers": 98,
+    "categories": 18,
+    "listedFiles": 840,
+    "hostedFileEntries": 265,
+    "distinctHostedOriginals": 261
+  },
+  "sourceAuditAt": "2026-10-14T03:00:31.984078+00:00",
+  "licensing": {
+    "catalogue": "CC-BY-4.0",
+    "code": "MIT",
+    "manufacturerCad": "Per-file rights; no blanket licence"
+  },
+  "files": {
+    "data/catalogue.json": {
+      "sha256": "31a0b48753fea60a6a8d117b034e89554d37a9169eca7da983c7f64ac2f72f51",
+      "bytes": 2559286
+    },
+    "schema/catalogue.schema.json": {
+      "sha256": "bf516353882d83372a20531302d13c04c7488d8fbf79a211ac00ba6b758ef662",
+      "bytes": 11278
+    },
+    "openapi.json": {
+      "sha256": "d89c8619d19ab1d6ab642ea41a290635db409c5028ec807cdc21ea236fa73543",
+      "bytes": 10372
+    },
+    "data/catalogue.csv": {
+      "sha256": "1100928e07d6eba8f1165cda2671fd085652d6eed865cc656858d869904309d1",
+      "bytes": 137382
+    },
+    "data/files.csv": {
+      "sha256": "e8284544564cba5417154294ae722f0b7904f6e37f3bdcd885a5f22bda8e7216",
+      "bytes": 396541
+    },
+    "equipment/ad-22mm_enc_legend.md": {
+      "sha256": "1919c7c318350168fa1f5c0c38c8c5f15097bfe9a0acce849a6232b561c3a134",
+      "bytes": 31790
+    },
+    "equipment/ad-22mm_metal_pilot.md": {
+      "sha256": "e0105ce1233a0271f4956ac065426786137b5543741d6493dcfd6c2defd87684",
+      "bytes": 10528
+    },
+    "equipment/ad-22mm_nonmetal_pilot.md": {
+      "sha256": "f6a1e2b64330adf58d76e04d05036b094dd97e661fa72e46703ea000acf4048d",
+      "bytes": 51579
+    },
+    "equipment/ad-mccb.md": {
+      "sha256": "cc171666fc90799ff9c3404314060de3918ab27bdc1927cb41d3307f33eb3c0a",
+      "bytes": 8534
+    },
+    "equipment/ad-ac_linereactors.md": {
+      "sha256": "ec11996d16b94f34b228c5c129f0e7d642551adf6ce0457db03bd48073e3d9da",
+      "bytes": 22623
+    },
+    "equipment/ad-brx.md": {
+      "sha256": "a840d36fdef9bd6f2d164672f581885a98f383548af0c66e380ed9ae8b87c420",
+      "bytes": 13187
+    },
+    "equipment/ad-femccb.md": {
+      "sha256": "09d983e09644d00186e6b2e6aa53102cfbf42a6b7439bda36b88822f89eb5aba",
+      "bytes": 8283
+    },
+    "equipment/ad-cmore_acc.md": {
+      "sha256": "768a1044e8a3656dea69fdf5d64ee88225611c097a6e6274eecc915f019f4dc1",
+      "bytes": 2566
+    },
+    "equipment/ad-cmore_micro.md": {
+      "sha256": "6a259614cda0cd37647b66ad196c34998b594575ce5ba76b87e9ca9c698eccd4",
+      "bytes": 4655
+    },
+    "equipment/ad-cmore.md": {
+      "sha256": "2ab71a49c0588c51393da32a14594be7d9d643b2365e1b7e71710ba0a4060445",
+      "bytes": 6440
+    },
+    "equipment/ad-cableentry.md": {
+      "sha256": "b62012092d1a915f87b1a291091c866157f52c1d771a8d5a703969bb5633c956",
+      "bytes": 9003
+    },
+    "equipment/ad-click.md": {
+      "sha256": "26f4b56bf3ff1c2453d7b9b16f07d80610392d6736178141658dd5052bb17ced",
+      "bytes": 8191
+    },
+    "equipment/ad-dpcontactors.md": {
+      "sha256": "ad432301803105a32daad2237c68b07ed5e02e0eaffd93fbaf0cbe56b06638ab",
+      "bytes": 7748
+    },
+    "equipment/ad-dinnectors.md": {
+      "sha256": "d8052f66cddc30216756c1f42e161133b6151b601e80240b457d3be89e13c432",
+      "bytes": 30414
+    },
+    "equipment/ad-tfuses.md": {
+      "sha256": "0bb5137884845c93e97a259c9ae0e40ff1144d12b7cc36789f203c36d9fd4e83",
+      "bytes": 4134
+    },
+    "equipment/ad-edisonpdb.md": {
+      "sha256": "7706ff7425633e52015300915ea9ba9692620dd03997c5b597ad5538b5d07455",
+      "bytes": 7224
+    },
+    "equipment/ad-enclacc.md": {
+      "sha256": "b2903d93a41d72ec301a2ad8f4e5a01b93e820903401d4b8d6b75bb2302f7666",
+      "bytes": 22854
+    },
+    "equipment/ad-enclosurefans.md": {
+      "sha256": "8b1e53f41449735da5f94c715f26ebb5dfd60b33978678405e01b1c9dcefb22e",
+      "bytes": 7080
+    },
+    "equipment/ad-stratusheat.md": {
+      "sha256": "5cb7a78423cb47580c768a21a5f3c135be9be8f5c694e72feb8af74ad19bd7cf",
+      "bytes": 3526
+    },
+    "equipment/ad-encsubpanels.md": {
+      "sha256": "da929af48312d51bcc3052ffb401412945ff7d0ae941534ad9b5c97421e94c08",
+      "bytes": 12731
+    },
+    "equipment/ad-enclosurethermmgmt.md": {
+      "sha256": "5164161eb9b3a620120ff6e025f5382447817598b3229f123f448e9bbb46427a",
+      "bytes": 8107
+    },
+    "equipment/ad-estopstation.md": {
+      "sha256": "74b7840e6615ea224570f3c272c21457acff3a265e14a3bfac3ee5d268e9391a",
+      "bytes": 5130
+    },
+    "equipment/ad-cfsdisconnects.md": {
+      "sha256": "4e50c9ff2f64bdedea49684e2b580c1c04b62494f1ef214a0c56a2689879cb0c",
+      "bytes": 3084
+    },
+    "equipment/ad-gs_durapulse.md": {
+      "sha256": "669b4b651a57d62143e81f08991d2e268cb11d01c90159d92db0bfa258ba76a1",
+      "bytes": 2938
+    },
+    "equipment/ad-junctionblocks.md": {
+      "sha256": "ec11950af89caa0759f3f7d1d2f5cebd80b133f917c8aac8e35e58e1c7f4c2f8",
+      "bytes": 8338
+    },
+    "equipment/ad-konnect.md": {
+      "sha256": "b8b2b916e77cc8feeed4e5b93104feb75bbd64d53de85ca5134a0415b305330f",
+      "bytes": 30217
+    },
+    "equipment/ad-nonfused_disconnects.md": {
+      "sha256": "d99cd53e543d63f4777ea37ad96d663042408385fd668646a19628e0b1acf0d2",
+      "bytes": 2265
+    },
+    "equipment/ad-panelmeters.md": {
+      "sha256": "5d45044d5b532de4570b6d038346408edfc935f1e271af2e721738ceadaa4ee3",
+      "bytes": 2215
+    },
+    "equipment/ad-powersupplies.md": {
+      "sha256": "b18dcff05281c55dc43cfb20eda0aed4cd8e6f45c356e971a77c658cf471fc6f",
+      "bytes": 8296
+    },
+    "equipment/ad-powersurgefilters.md": {
+      "sha256": "f2b96b748db75727a9c2794e32e900fce4ee8eed5befb57a345ff35f8b41f9e1",
+      "bytes": 11022
+    },
+    "equipment/ad-p1000.md": {
+      "sha256": "4472d2f744fddfef4b79353177a17b2940ce1b374048e8c960042f697de95001",
+      "bytes": 5325
+    },
+    "equipment/ad-p2000.md": {
+      "sha256": "1654f298a60b6ffd53b018e5f1a2d2e55e40fb1eb2aa9b2d063f7edfcea80e42",
+      "bytes": 7071
+    },
+    "equipment/ad-p3000pac.md": {
+      "sha256": "6e4c879096b8f4b0e8b00afed1ae1cb6c7a08b90ea292c0d46e3d50d40817951",
+      "bytes": 5791
+    },
+    "equipment/ad-pxio.md": {
+      "sha256": "25fb558e9f99669f224520720080a5973569e30a2f71534bab4f6fc37fb8e362",
+      "bytes": 5659
+    },
+    "equipment/ad-softstarters.md": {
+      "sha256": "b21a206c0ebe195d5f57074b0340d6b51cb8a2e02f204bf5720c30cceced3ddd",
+      "bytes": 11573
+    },
+    "equipment/ad-surgepd.md": {
+      "sha256": "45dba1cb4d1fb79a39aa41f92b74a81eb8574ba88d9ac164e77af2a7d5bfd7ce",
+      "bytes": 4714
+    },
+    "equipment/ad-tio.md": {
+      "sha256": "0df4db791a970acd6d5b4f7c64b10b4a344eb68c3769c457b7e3690a37db1251",
+      "bytes": 6588
+    },
+    "equipment/ad-timers.md": {
+      "sha256": "589b042fc9c47e8cd5d036f3e2e30d98934e93e4ef544269c8219f8780932efa",
+      "bytes": 12939
+    },
+    "equipment/ad-trappedkey.md": {
+      "sha256": "0d4e1e00dcc2bf95452680be26e4af3ce4a1a86a163b295897295b989b767021",
+      "bytes": 2767
+    },
+    "equipment/ad-wireduct.md": {
+      "sha256": "ffdd51334d1a04e92d81e6ffdd5eed0b13c21989047b114394a10e964809d1c4",
+      "bytes": 29570
+    },
+    "equipment/ad-wmztmcb.md": {
+      "sha256": "dcbb2e4c993463327b94378680c7043f50bd3de213607e86e1d22d908109654e",
+      "bytes": 18308
+    },
+    "equipment/ad-zipportmultiwireconn.md": {
+      "sha256": "a66889eac52b454c06185e4e1fe9c036326b816df7287a463ceeaa75504aca1b",
+      "bytes": 58354
+    },
+    "equipment/ad-pic.md": {
+      "sha256": "65194677b69f980fc06c6b60ff1f005cea1d50e595092056d0226ee11accd465",
+      "bytes": 5315
+    },
+    "equipment/audit-power-clevertronics-glider-and-glider-sm-exit-light-revit-models.md": {
+      "sha256": "02a39628e8b7e88c63749afc83213c670653d4a2d182852df906e8430a5d7625",
+      "bytes": 4370
+    },
+    "equipment/deif-ie-250-controllers-and-ie-local-display.md": {
+      "sha256": "a1c28b95500f7b36e333fb946dc9bf1f805385b64246a47e92763553353fb566",
+      "bytes": 7383
+    },
+    "equipment/audit-power-fantech-australian-ventilation-revit-model-library.md": {
+      "sha256": "2db4eabf207c53697759290be01e146b89df36175539a899f63078ab006ec76c",
+      "bytes": 28831
+    },
+    "equipment/fuji-combination-starters.md": {
+      "sha256": "51141ce8da737e3abc99528a64db4dcf88bbc9144cadf4f507832a308dc8f4b4",
+      "bytes": 24788
+    },
+    "equipment/fuji-contactors---thermal-overload-relays.md": {
+      "sha256": "11676d2d10f8f593e7619b2ee6bbbe744f8b775a3781b1f355c491450d9b4b53",
+      "bytes": 31228
+    },
+    "equipment/fuji-ea-ul-sa-ul-series.md": {
+      "sha256": "01a75af2f14859e79617984d4d4b2822b1725ca76dcaf580e4d33713478ed7a2",
+      "bytes": 14366
+    },
+    "equipment/fuji-g-twin-lambda-series-circuit-breakers.md": {
+      "sha256": "9b2e43b39cd985b15d17fdbcbec06707191badbf02a6a1b7e5d1eb098a34c6ce",
+      "bytes": 5469
+    },
+    "equipment/fuji-g-twin-series-circuit-breakers.md": {
+      "sha256": "721bac371af38d4cbd68f8aa548a0748bce0488a2ceaf505fa9a95801a6643e7",
+      "bytes": 39703
+    },
+    "equipment/fuji-manual-motor-sarters.md": {
+      "sha256": "c048c34a84d1ae499939dae5d2323377da440b091266f2a2e30c7d693138e520",
+      "bytes": 9542
+    },
+    "equipment/fuji-orange-line---odyssey-series.md": {
+      "sha256": "9c66594c0f1f21f24e40eeb6dc19dfa860520df7b362e6139b53da898af9a335",
+      "bytes": 13934
+    },
+    "equipment/fuji-sc-next-series.md": {
+      "sha256": "12c84347a4abf4a7aeb55628574eee2f269cad87d556913aa8428083aa354ebe",
+      "bytes": 11998
+    },
+    "equipment/greenheck-afl-501-louvers.md": {
+      "sha256": "63d62e285ec6c3e2b28e6487b67c9e32616608c59df751ebd7741e80df20b844",
+      "bytes": 2399
+    },
+    "equipment/greenheck-aph-fans.md": {
+      "sha256": "3fc0bc5ceec4d570a642a5513a5e2dd42efa6552cbf436e74cae66ffa51cb6a7",
+      "bytes": 4731
+    },
+    "equipment/greenheck-esd-435-louvers.md": {
+      "sha256": "82a42024550bbec4b0684ff058ac5317c96e6ab6d7ac41dc35e0e0025aade3f3",
+      "bytes": 3576
+    },
+    "equipment/greenheck-esd-635-louvers.md": {
+      "sha256": "8f314b29cf27dca6663fd18090684c6fce279703346a5325a514c050c0480450",
+      "bytes": 3576
+    },
+    "equipment/greenheck-fd-150-dampers.md": {
+      "sha256": "acf109d6ee816fb5ad74d2ad0a3017e9555efff74fa8276606d55b7de071346a",
+      "bytes": 2317
+    },
+    "equipment/greenheck-fsd-211-dampers.md": {
+      "sha256": "6406ac5037bad4d134248a6e086eace37932074efa5d5af54bda080beb8189f7",
+      "bytes": 3577
+    },
+    "equipment/greenheck-fsd-311-dampers.md": {
+      "sha256": "a2fee8927ff02d797ed7fcc828ca1df15a518c66cddf5234a63b93d86e99cc9e",
+      "bytes": 3577
+    },
+    "equipment/greenheck-ip-fans.md": {
+      "sha256": "4e7785fa31e46b059b8f43d0501c1ac515268ddd0252d07a1ec6c5c66d33acdf",
+      "bytes": 4683
+    },
+    "equipment/greenheck-qei-fans.md": {
+      "sha256": "8eb8d161644f7fe2f8aacd40a734129f2b2e90b1274d10563b77b33af0254083",
+      "bytes": 3665
+    },
+    "equipment/greenheck-qeid-fans.md": {
+      "sha256": "8deefd92b4e9e4373baf65fc04fc474be2d483795022d9db5d33884a4e5c64d8",
+      "bytes": 4796
+    },
+    "equipment/greenheck-sbe-fans.md": {
+      "sha256": "9a18e2efd394151acea7950bd60934f7f9a8728995dc3061c3064862735a3026",
+      "bytes": 4691
+    },
+    "equipment/greenheck-sbs-fans.md": {
+      "sha256": "95e6cfb9517a21fe8a4f8f37cd9c7781a8df636e24a73ec346d853869324295b",
+      "bytes": 4691
+    },
+    "equipment/greenheck-se-fans.md": {
+      "sha256": "02e9f183d59df2d3d4841009a5bd6fa4d3fd8fba50d9b994dd854a350d44f799",
+      "bytes": 4674
+    },
+    "equipment/greenheck-tbi-fs-fans.md": {
+      "sha256": "4586c3b8a7b78a050c4e63087339c960491d589fe84e0d2a7d5f9de8f7f43282",
+      "bytes": 4870
+    },
+    "equipment/greenheck-usf-fans.md": {
+      "sha256": "fac3397df9775e0d06300b997a6839e31ee5f42dcf0d5753dca3193b71c6ad49",
+      "bytes": 6068
+    },
+    "equipment/greenheck-vab-fans.md": {
+      "sha256": "71694e129cc2da370a237cfd7ff130c4b41538a156a1c9a54a4f2c1b66e67bb9",
+      "bytes": 4763
+    },
+    "equipment/greenheck-vad-fans.md": {
+      "sha256": "f6f861cdaf457ea3b595968a54f8c3d984b44a8454cf788292e1c0c523a88aa9",
+      "bytes": 4763
+    },
+    "equipment/miratech-rchd-3000-3-stainless-steel-exhaust-rain-cap.md": {
+      "sha256": "e0acc95134fd0b40664f048de31874e2612857d96d347df18c4bd8ace5bce754",
+      "bytes": 2580
+    },
+    "equipment/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer.md": {
+      "sha256": "261daa337ce27bbc817885c61e5e5dd5733c53d449d56a41c251cf86bf37f4dc",
+      "bytes": 2648
+    },
+    "equipment/miratech-suige0-06pf-1-0000002d-industrial-engine-exhaust-silencer.md": {
+      "sha256": "b798d813c719f9e0f51616c0612369d72798e3d76ab05d5963a6ff530f9a685c",
+      "bytes": 2703
+    },
+    "equipment/miratech-suige0-18pf-2-0000005f-industrial-engine-exhaust-silencer.md": {
+      "sha256": "57d98d8237a49831b687b14822917c4af65eec50c599c4e9352ce26a9c7c1801",
+      "bytes": 2703
+    },
+    "equipment/audit-power-opw-211v-47-aboveground-fuel-system-drawing.md": {
+      "sha256": "cfe79c2adb0e80995d42bfdb523beefb5bfb120063ace885ab1a03f35df80e03",
+      "bytes": 2096
+    },
+    "equipment/audit-power-opw-99asv-aboveground-fuel-system-drawing.md": {
+      "sha256": "4fd1d459917967641c9585ab0e80f2823cf1e0babdb29bb80ed219dcccfe8117",
+      "bytes": 2085
+    },
+    "equipment/audit-pfan-dtfs.md": {
+      "sha256": "71ce3bd4207ac2b9097bc4d23f58b0ed390d6fea3d3ea51399b64b499bcfcb8e",
+      "bytes": 7427
+    },
+    "equipment/post-glover-neutral-grounding-resistor-enclosure-outline.md": {
+      "sha256": "a0f3a20292dc06c5e0daefbba01a1c13aad146aa8494c9011c5be603fa8dc2f0",
+      "bytes": 1880
+    },
+    "equipment/puls-qs20-241.md": {
+      "sha256": "5bda9d4d32013e4784806c7527c919d6ca32ab5643179a051ba4cecac216fb73",
+      "bytes": 3744
+    },
+    "equipment/audit-power-sens-microgenius-2-enclosed-generator-battery-charger.md": {
+      "sha256": "4b5cdbd4d0d911085246e88716b6aa45243f43412c50cb21f9ec8d709e95f539",
+      "bytes": 1988
+    },
+    "equipment/audit-power-sens-powercab2-10-vrla-battery-two-cabinet-dc-ups.md": {
+      "sha256": "cbee13b43b75d8345c2e162ae6f2d48c05b4891f36a1d2da57eeee68df6df776",
+      "bytes": 2023
+    },
+    "equipment/stamford-avk-p80-hv-s-core-sae00-coupling21.md": {
+      "sha256": "7fd3d3207a4ebebd867f1b046f3a6e5835261976239c8be1b819688f91bb2ce2",
+      "bytes": 1868
+    },
+    "equipment/nhp-terasaki-tembreak1.md": {
+      "sha256": "596019fe9c06db4fbc2819cafb1bb8793c579e73a631238a696a5b8845d2b464",
+      "bytes": 66656
+    },
+    "equipment/victron-energy-cerbo-gx.md": {
+      "sha256": "bc940d779b16e772f8bdccb4d0fec2612737f36cbabdb413ebb1df4671f68a97",
+      "bytes": 2747
+    },
+    "equipment/victron-energy-din35-adapters.md": {
+      "sha256": "eadab0ea3c334df312488bbf63d80985a02953c76b92d3f7373cd3dc93571fc3",
+      "bytes": 10615
+    },
+    "equipment/victron-energy-lithium-ng-batteries.md": {
+      "sha256": "b774f5a6ab5e6357138e228d475ca973d6fb25de14941a59a7497f96d6fe2a90",
+      "bytes": 15288
+    },
+    "equipment/victron-energy-lynx-distributor.md": {
+      "sha256": "1e9b332c40ab7dc7cb0e6300d2c6b6d2336f4aa78b2387ade19d9ed8dd7e876f",
+      "bytes": 4354
+    },
+    "equipment/victron-energy-lynx-smart-bms-ng.md": {
+      "sha256": "4dd8059ed409d184805bed4cfca3c149285aae87a1915fcf6fe1c9010e5378bb",
+      "bytes": 4374
+    },
+    "equipment/victron-energy-multi-rs-solar.md": {
+      "sha256": "14ca50161df44ec59b6d573587b06b56178f679c9f4cbe0e74808306cc6450c1",
+      "bytes": 4382
+    },
+    "equipment/victron-energy-multiplus-ii.md": {
+      "sha256": "6e46ac58bb93f89784195201e63dd5043b9bae3fab0a86b330d4d409da8dcdf2",
+      "bytes": 32698
+    },
+    "equipment/victron-energy-multiplus-ii-2x-120v.md": {
+      "sha256": "bd4efbc9c423cbccbadcfa3f4234c0f2e674b4753c5e2b94065175f7293105e2",
+      "bytes": 7541
+    },
+    "equipment/victron-energy-quattro.md": {
+      "sha256": "48ad546d8c0fccf537000c5f67744434b9427363f2a17bd21f30a2b5d9ace39e",
+      "bytes": 10775
+    },
+    "equipment/victron-energy-skylla-ip65.md": {
+      "sha256": "46b5f4574d0d862442457eccb7d15120c7af40e5c88e41a2a11d8cc0bfb3c293",
+      "bytes": 4272
+    },
+    "equipment/victron-energy-smartshunt.md": {
+      "sha256": "eef5c77d53655f0d07ba30d92bf4f50fab42566eceec61f4c1c5090c61c76cfd",
+      "bytes": 13701
+    },
+    "equipment/victron-energy-smartsolar-mppt-rs.md": {
+      "sha256": "da4605bd6654d413eb434260d9fa19f2782569a7531d3e30eb9ab77bcf14822d",
+      "bytes": 4428
+    },
+    "equipment/westermo-lynx-5612-e-f4g-t8g-lv.md": {
+      "sha256": "60fb81ce3f1e6aa97255f4397322742c4b0e4cd1b9d04d03dcd1cb3d4d871722",
+      "bytes": 1908
+    },
+    "equipment/westermo-ps-260-power-supply.md": {
+      "sha256": "c7602758ef86cc49819d2ea265ff202d790c6c9ab60c8bc2b38b8cdb3ac74333",
+      "bytes": 1811
+    },
+    "equipment/abb-drives.md": {
+      "sha256": "3e334e92a91f8d8e19f9621fbce4d5ed020004e99f780ade767bdebb2d3d76e3",
+      "bytes": 1199
+    },
+    "equipment/abb-us-panel-builder.md": {
+      "sha256": "8e0d758cc827bcbf49a157302fa0ffe0fa71ca89052e30fdc712b2053c181c5e",
+      "bytes": 1190
+    },
+    "equipment/abb-library.md": {
+      "sha256": "3d17aa8d4e69515eb6a2697f37de7a18a6107659c0572e62e44bd0aba9d28b84",
+      "bytes": 1207
+    },
+    "equipment/audit-abb-emax-mfg.md": {
+      "sha256": "697d9666f00499004f6499de4bc73ae360ed84ef8d433514dd06b3a4f38a5531",
+      "bytes": 1617
+    },
+    "equipment/asco-asco-exact-catalogue-transfer-switch-drawings.md": {
+      "sha256": "6690e200534f0d443f80b9aed70c63386d96c4e9b6db769ed7fedd9843226620",
+      "bytes": 1348
+    },
+    "equipment/ad-30mm_nema.md": {
+      "sha256": "231cb07304d8b4af56ce5c97f68536de1134573853bd7554813ced060b8ac39d",
+      "bytes": 1298
+    },
+    "equipment/ad-acuamp.md": {
+      "sha256": "b64c456b70bab96c300ae5211faf62ef1272892323988e3953fe864169f52fe8",
+      "bytes": 1292
+    },
+    "equipment/ad-bimedglands.md": {
+      "sha256": "f1ce33fb2de54b860e42092baecd0ef01370aa2861eea1d513890709df05eb95",
+      "bytes": 1306
+    },
+    "equipment/ad-comm.md": {
+      "sha256": "c59208ce672648160e7b3f79a7b79c8e195cf62d3dbf6812b1d5dd6124608e36",
+      "bytes": 1300
+    },
+    "equipment/ad-transformers.md": {
+      "sha256": "a8a3d1243782745f54ccf331790481a72ccd85f2b193a39f19c5840dbe9976a0",
+      "bytes": 1314
+    },
+    "equipment/ad-disconnectenclosures.md": {
+      "sha256": "e4051a0f04a17fc4802916d7f7df639a434f7b31a9d4e9345ec3b5c9fe030652",
+      "bytes": 1321
+    },
+    "equipment/ad-fuses.md": {
+      "sha256": "695ea726a533cf7a5c53252d79b68b3b4fcfe90c8229dc44f35da4e6a24b0ad8",
+      "bytes": 1308
+    },
+    "equipment/ad-stratusac.md": {
+      "sha256": "c8c0688077ff7b8fbdb2b6605135e3032bdd43fb0bb36d97f953d9b88f3b889d",
+      "bytes": 1313
+    },
+    "equipment/ad-metalenclosures.md": {
+      "sha256": "cc4f126886c25c166f1eefcf29859e336c9a4ded0293821616926d0777cd616d",
+      "bytes": 1311
+    },
+    "equipment/ad-motorcontrols_contactors.md": {
+      "sha256": "0afcc4fb17cec492dbaa7acaf5b1dca032599f0cb5df05b30fab9182476e026b",
+      "bytes": 1333
+    },
+    "equipment/ad-nonmetalenclosures.md": {
+      "sha256": "1f4e008ed67a2d823745f38e45342a31c712081df54870cdf6ed8ec09aa5161b",
+      "bytes": 1318
+    },
+    "equipment/ad-polycarbenc.md": {
+      "sha256": "bef9106f7f35dd110aa8d1abd27666aa1aa102c16e37454445f108bb3d9d429a",
+      "bytes": 1315
+    },
+    "equipment/ad-relays.md": {
+      "sha256": "76054ed78ed5493c124de7bc3dac8eef81f3e43352290d8ebfecf62b98d066b8",
+      "bytes": 1310
+    },
+    "equipment/ad-safetycomponents.md": {
+      "sha256": "206e1b42d676545eca64726125f6c710c5d0cc592864b260a325714d377e0da8",
+      "bytes": 1313
+    },
+    "equipment/ad-signalconditioners.md": {
+      "sha256": "9fb476819f7407bb580be77f0684d9c42584e19f824f100f75ec72e556d4ab78",
+      "bytes": 1317
+    },
+    "equipment/ad-disconnects.md": {
+      "sha256": "bf966f42825f180036c8733d64992d6ecbea43b6d216be4584086ac5f2eb1615",
+      "bytes": 1314
+    },
+    "equipment/ad-seslvpn.md": {
+      "sha256": "90b1510a0e6247dbcbb7fb26653428a1eaff0ba41c5942a73fcef50ab7bf6457",
+      "bytes": 1290
+    },
+    "equipment/ad-ziplinks.md": {
+      "sha256": "7d9341ffcdcbb0f9af503807baa42e5a43f662709cb4c65d769db8e9a9a99760",
+      "bytes": 1296
+    },
+    "equipment/audit-power-avtron-built-to-order-radiator-load-bank-outline-source.md": {
+      "sha256": "8a98fabebdc4acf810275c31fc8511ce78952387b58e5e3325fde298d1a97048",
+      "bytes": 1668
+    },
+    "equipment/audit-bender-cad.md": {
+      "sha256": "1ed7cdc7565a226e95d4096845735d24626e9b7a390d06a871408cef96f666e9",
+      "bytes": 1415
+    },
+    "equipment/bopla-request.md": {
+      "sha256": "91523342156e0c3901521e7aa0e509a012d3dbe8b9a97f3d035f554a38272251",
+      "bytes": 1255
+    },
+    "equipment/bopla-cad.md": {
+      "sha256": "f40e237635768fc319ab36806f3e55b1f157999d39171c0f508bb79c921a23e4",
+      "bytes": 1273
+    },
+    "equipment/audit-carlo-rsgd.md": {
+      "sha256": "56265fecac2bc0dc1902e717f7159884bc449b16cb16ca7ed3b181873b4eb959",
+      "bytes": 1546
+    },
+    "equipment/caterpillar-power-hub-generator-configuration-drawings.md": {
+      "sha256": "e55baabbecd0d29fa0850acbdc49916fb9c51c4b096ebaeca046b86ac23ffc4a",
+      "bytes": 1379
+    },
+    "equipment/comap-comap-design-studio.md": {
+      "sha256": "a9c17b8cadec95eef3f2217e04bc8976335041d352b3ebe3b56b242ad80939fa",
+      "bytes": 1361
+    },
+    "equipment/comap-inteligen-1000-cad-and-eplan.md": {
+      "sha256": "04793a4b22ffe82234ebdfbe4e98360db45200cdcba04840dad6dc0679b3962e",
+      "bytes": 1397
+    },
+    "equipment/audit-power-cressall-neutral-earthing-resistors-and-generator-earthing-technical-source.md": {
+      "sha256": "6fc841b25d15488a8eefde9cc8bcf0be8146403756182e5fedba90588f9ed510",
+      "bytes": 1542
+    },
+    "equipment/cubic-galaxy.md": {
+      "sha256": "652f0b2e4adddc527c1e891b5d49f475687c56c73886057eaa3b9f52e195377d",
+      "bytes": 1388
+    },
+    "equipment/cummins-powersuite-generator-and-transfer-system-drawings.md": {
+      "sha256": "9ee3296900b0f45cb4b90611d44e4b8bda5082b890cc73f8280a86ccb4e0eb55",
+      "bytes": 1441
+    },
+    "equipment/dagartech-bgpsw-15-st-complete-diesel-genset.md": {
+      "sha256": "535e794c58aea064b906b37bdf234f5074ae9e64b60b07e4c82aabafc150cca7",
+      "bytes": 1482
+    },
+    "equipment/dagartech-dgb-415-st-complete-diesel-genset.md": {
+      "sha256": "b9ed8eb9ba7b2ea9f22c3d1cfceb805fdedbeeb96789b08b0a3bde6e3481bce1",
+      "bytes": 1514
+    },
+    "equipment/audit-power-eaton-93pm-480v-industrial-ups-engineering-source.md": {
+      "sha256": "6a05ea0af3a1f5b27f95906f8059e50b05cf453f8e88c279a04deed32b846438",
+      "bytes": 1464
+    },
+    "equipment/eaton-b-line-cable-ladder-and-tray-cospec.md": {
+      "sha256": "918244c46369ff4fcb6128bd769def6333f2aa0b851117fd23c3277fce5b833b",
+      "bytes": 1508
+    },
+    "equipment/eaton-request-switchboards.md": {
+      "sha256": "893c4290938725de67016d0a966f01d67915b0d931dc0e6e61a5754358e9e0b8",
+      "bytes": 1348
+    },
+    "equipment/eaton-request-mcc.md": {
+      "sha256": "8409f6c63f39b4c0c5e17a5e66360361e84c1bedcb6a947e795f71d95bffc924",
+      "bytes": 1349
+    },
+    "equipment/eaton-request-lv-switchgear.md": {
+      "sha256": "acbfe41cba0f7965d62c2b91eb867c5e0fa80c6fa22885a1e83609f67cb6c563",
+      "bytes": 1348
+    },
+    "equipment/eaton-request-mv-switches.md": {
+      "sha256": "6d7bccbf088e452a99b69041dec140bbaa0566d286fab6bb46f8649b1c58b270",
+      "bytes": 1347
+    },
+    "equipment/eaton-request-mv-switchgear.md": {
+      "sha256": "482ebe28a3e34840acee86b74ec2e961e074abe298a7a36be6b9271186ac9b85",
+      "bytes": 1351
+    },
+    "equipment/eaton-power-center.md": {
+      "sha256": "3c40899b70bf27951d8aecf16aacddb0d85a481f9061200677b149003b8bdca9",
+      "bytes": 1347
+    },
+    "equipment/eaton-us-bim.md": {
+      "sha256": "0bab7f4e76b3c7ef6d0cbf1f49e738e898390f2ab9036373f911a5b1c37c07b2",
+      "bytes": 1325
+    },
+    "equipment/eaton-bline.md": {
+      "sha256": "e6f1c536a50441439a4337c5d794ea367781221d7ba8eba434e044cc5fd16db6",
+      "bytes": 1294
+    },
+    "equipment/eaton-crouse-hinds.md": {
+      "sha256": "d1c9edc3f32d2aa7e343ca33455b03edc8c79216347d41466782c7a1157346f3",
+      "bytes": 1162
+    },
+    "equipment/fronius-fronius-inverter-engineering-geometry-request.md": {
+      "sha256": "0d60ad90c127cb56ff0ebd4230b23c363fd8d27f73000be53686c08af61c593e",
+      "bytes": 1336
+    },
+    "equipment/fuji-eg-ul-sg-ul-series.md": {
+      "sha256": "72c3c10266ae9c1361c96f9d5bd12d91ddd8d4424d08242e314b7298c614ba4d",
+      "bytes": 1378
+    },
+    "equipment/genelite-australia-purpose-built-generator-drawings-request.md": {
+      "sha256": "9266871179bec236a5f734caeb3f72cdccdab5e1633505bccf84f15f021a7035",
+      "bytes": 1399
+    },
+    "equipment/generac-bi-fuel-generators-bim.md": {
+      "sha256": "146e0b599218004fe43798e5a27b390577d298c0c82bcce88e074a4f640cd436",
+      "bytes": 1300
+    },
+    "equipment/generac-diesel-generators-bim.md": {
+      "sha256": "52c920d7871673c246e2491538315f7df7b9c816f14caa33eb172e4b8a46f7cf",
+      "bytes": 1297
+    },
+    "equipment/generac-gaseous-generators-bim.md": {
+      "sha256": "1944818c3140869dcb861d8b8b0096b6b455b469b227732b2e713bd66765f18f",
+      "bytes": 1300
+    },
+    "equipment/generac-transfer-switches-bim.md": {
+      "sha256": "8e274cb46ec583f02e604b2ca651a3755de1ffc1ffbc4bc47bfed399a49dfaac",
+      "bytes": 1300
+    },
+    "equipment/greenheck-ventilation-configured-models-and-specialty-drawing-requests.md": {
+      "sha256": "a1af082243d1a36e7fdad24bd97214450c4092ceaf7cd566de71957938bb34bd",
+      "bytes": 1424
+    },
+    "equipment/hager-bim.md": {
+      "sha256": "560509f690b43a64b3c0c825702babbfe8ac62deb5b18d1d02917e074d220014",
+      "bytes": 1301
+    },
+    "equipment/hagercad.md": {
+      "sha256": "0c917e151c3d0b54604bfe54c0f14e573e1c3b63246b9bbb6a845c5d62ff77ed",
+      "bytes": 1311
+    },
+    "equipment/hammond-enclosures.md": {
+      "sha256": "60c0be4818278f4a680519f9348b5b6ddf686d2c18f3cfd81c4c61fc1bc8c2f4",
+      "bytes": 1317
+    },
+    "equipment/hammond-power-solutions-control-and-distribution-transformer-configuration-drawings.md": {
+      "sha256": "707d947ce54b01590d0de7adec8e13a3dcd39c3217b55c72c4c44b97f1730c45",
+      "bytes": 1445
+    },
+    "equipment/honeywell-notifier-notifier-fire-system-bim-cad-portal.md": {
+      "sha256": "5706bdc0885617aa90e0e43180194919e993652c2d1dea11483d85a6bab277ba",
+      "bytes": 1297
+    },
+    "equipment/hubbell-drawings.md": {
+      "sha256": "6c65d7a4e2a761a78e5cea8ba913e43e252a4034994a940540378aa1748f0082",
+      "bytes": 1200
+    },
+    "equipment/icotek-cad.md": {
+      "sha256": "9e1eb7d2e983a3af0f21fd9db9aac5ef82f755301482f52610876e7a71b80d8a",
+      "bytes": 1109
+    },
+    "equipment/icotek-request.md": {
+      "sha256": "8201490f5589543c735ce7ee369bf08b88529bef4e7a7f5a921cc15b179a3e98",
+      "bytes": 1228
+    },
+    "equipment/audit-power-ingeteam-ingegrid-storage-utility-pcs-and-container-solution.md": {
+      "sha256": "5b2e58cd8d7f1b14e76c2df185c27a4f0d2ffbc758b154b561adbad8dd2821c4",
+      "bytes": 1559
+    },
+    "equipment/innio-jenbacher-gas-biogas-chp-package-geometry-request.md": {
+      "sha256": "849a9c7d50a3a840fd0aea06213fdf80094c30efe533c6669724f172b444ba33",
+      "bytes": 1412
+    },
+    "equipment/invertek-eco.md": {
+      "sha256": "eb5f352d3da0b91d2233b8d6d1ad7f342ac85ab27eabf6f3d0dd7fd0c8056727",
+      "bytes": 1335
+    },
+    "equipment/ipd-cad.md": {
+      "sha256": "185c0560c691808ca47edb4c9c67d4bc6888471d0e058c177bc9a0b9aad950c0",
+      "bytes": 1103
+    },
+    "equipment/ipd-techno.md": {
+      "sha256": "fb7adf63cc3306c199d52d965177cba838c7c1d223880340ca0113d2f14ebd53",
+      "bytes": 1368
+    },
+    "equipment/audit-legrand-037480.md": {
+      "sha256": "5fbdd1f5658e0c61d0e806cb942205bcd886de483446df95ecf8e8fd37b126a2",
+      "bytes": 1389
+    },
+    "equipment/legrand-cablofil-cable-management-engineering-library.md": {
+      "sha256": "39736d8e70fb3ac70307ab9ead140a7546f1cef6d27dee350755ae8bf57024f3",
+      "bytes": 1370
+    },
+    "equipment/legrand-australia-emergency-lighting-bim-library-australia.md": {
+      "sha256": "2f249e3b97c59c70a1763733dea408660794358079748b38868e521cb3d1525e",
+      "bytes": 1423
+    },
+    "equipment/audit-power-lithonia-lighting-acuity-brands-elm2l-emergency-unit-usa-bim-source.md": {
+      "sha256": "d3cc4bd8e5d43f422c00687129772e4890e20e6f9ba77e51a35a1d0da00249ca",
+      "bytes": 1683
+    },
+    "equipment/littelfuse-library.md": {
+      "sha256": "d53f84d2fa0cc11db7fdf62318518f2d04aff839a923ff331c436bf1bd9d0cda",
+      "bytes": 1256
+    },
+    "equipment/lovato-library.md": {
+      "sha256": "90af8daac7c347635450a13d93b49326b31b695f2745e287b11ebe3831f0d1b0",
+      "bytes": 1266
+    },
+    "equipment/miratech-emissions-control-housings-and-scr-dpf-engineering.md": {
+      "sha256": "1f7b5c167160d8d759de93ab1229f9eb48bd526079b0dcbbb99bbbb57b7e6273",
+      "bytes": 1454
+    },
+    "equipment/miratech-engine-exhaust-silencers-and-accessories.md": {
+      "sha256": "cc0002ed9cb2c0775bf9942e0ecf58082bb5641c17ea4234f95c0162d313da24",
+      "bytes": 1404
+    },
+    "equipment/mitsubishi-fa.md": {
+      "sha256": "0623abe37773065cb050d164f08e457ed7a527f060d2800c601d5de053b5574d",
+      "bytes": 1220
+    },
+    "equipment/mtu-rolls-royce-ps-spec-generator-selection.md": {
+      "sha256": "b3ae78c41230d792f9d645b07420f1e70dc24f53c316767cfa04825b3f87eb62",
+      "bytes": 1400
+    },
+    "equipment/mtu-rolls-royce-series-1600-2000-and-4000-generator-bim.md": {
+      "sha256": "3f275eeecbeb6d0227177731378d847b2df2a127e4c15403d42773d22d85625d",
+      "bytes": 1471
+    },
+    "equipment/nhp-concept.md": {
+      "sha256": "ec5b4f4b0b49cb98f71b42d05a10c48464d7643385a30989a38f4b090623dcbb",
+      "bytes": 1253
+    },
+    "equipment/nvent-erico-ground.md": {
+      "sha256": "58af2a8eaf66112ab0cffe2d7e7993ee50930cfa9964762b55fbc1192a631c3e",
+      "bytes": 1326
+    },
+    "equipment/nvent-eriflex.md": {
+      "sha256": "64f144145c671e9ce3f30d01c772373df7f7b3579e2c6f674cfdf6a1a56e73cb",
+      "bytes": 1156
+    },
+    "equipment/nvent-flexbus.md": {
+      "sha256": "662ddaae1de83ece10e81826a6356debc8ced9f544fa802a5b9f7b91427d7818",
+      "bytes": 1284
+    },
+    "equipment/nvent-flexibar-engineering.md": {
+      "sha256": "4a7bb4637e8b70e6a3e78d4c0d9c98ec3ca74ccf43157aef154e5c37149bc09f",
+      "bytes": 1290
+    },
+    "equipment/nvent-hoffman-a726036.md": {
+      "sha256": "548805597cdc3522b9dfb8b9d2476ad4ee5c18af0750106b01ed884caf5ba654",
+      "bytes": 1298
+    },
+    "equipment/obo-bettermann-obo-cable-management-bim-library.md": {
+      "sha256": "e0b60d0baa547b5f5d7c8f9a9385c9a8df9948792baf64b555635a82ee8cd358",
+      "bytes": 1390
+    },
+    "equipment/obo-bim.md": {
+      "sha256": "c43e5efac0af7e6ba646a2392474dc6a81cda89f27722709c56269745fa6d7d0",
+      "bytes": 1237
+    },
+    "equipment/panduit-design.md": {
+      "sha256": "b0957dcffcc174b349d5e984c1909b7d740f25759a76a25e55671bedc0c2df82",
+      "bytes": 1187
+    },
+    "equipment/audit-pepperl-fuchs.md": {
+      "sha256": "d3fa3e757c82282bbf8c0e06e1ceb66592125ed91a7d27309fde801bec31979e",
+      "bytes": 1561
+    },
+    "equipment/audit-pfan-native.md": {
+      "sha256": "0ab1e76b6b68f6039a1d810e68bbfd38f612303d51c7548031c235c840c0fa14",
+      "bytes": 1408
+    },
+    "equipment/audit-pfan-signalling.md": {
+      "sha256": "da71dfaf06320e1a3111538f8bc81eeae5f54dca9b54c87f4c435b1a4f2cf9e0",
+      "bytes": 1385
+    },
+    "equipment/phoenix-products.md": {
+      "sha256": "5d17bf646e804b860189fe22322c51492fa46e62a9b765293a6bb9a3dd439257",
+      "bytes": 1227
+    },
+    "equipment/post-glover-grounding-transformer-and-resistor-assemblies.md": {
+      "sha256": "2025e6109a16adb82405ec3cdd985cedbd24d6f99deed01a8f52ee0706ec6ed3",
+      "bytes": 1404
+    },
+    "equipment/post-glover-low-resistance-neutral-grounding-certified-drawings.md": {
+      "sha256": "9e45f1f864a7e0469aa32d4010553ec9323e5c903dd94b1280d1fb65b1508e6e",
+      "bytes": 1455
+    },
+    "equipment/rehlko-automatic-transfer-switches-bim.md": {
+      "sha256": "e489b4dc16cf0ad886c715f2f90d61d41121cb793f77c4588804f733a58411f7",
+      "bytes": 1271
+    },
+    "equipment/rehlko-diesel-generators-bim.md": {
+      "sha256": "239408d1f9cba94faabc1fd14bf35f61fab84599c32b0269325d67858818a2a2",
+      "bytes": 1250
+    },
+    "equipment/rehlko-exhaust-silencers-bim.md": {
+      "sha256": "93195d6853a015ec79dcdd7f54de93810e764bf52a611f39cb0c4b873b7be65c",
+      "bytes": 1247
+    },
+    "equipment/rehlko-gaseous-generators-bim.md": {
+      "sha256": "bf347c0efd64412839ae422be65e8fe58efa06eb52b9d3bfa9c76b109f6388b9",
+      "bytes": 1252
+    },
+    "equipment/rehlko-remote-serial-annunciators-bim.md": {
+      "sha256": "31902c21f9d6ab48b6dc2a1c276944feea8550fa5cf099e786a33a31d2f38364",
+      "bytes": 1265
+    },
+    "equipment/rittal-cad.md": {
+      "sha256": "a20ca236e3349e354328c3da18aedf82fa11e301b2dbc499372cc590bfc631ba",
+      "bytes": 1224
+    },
+    "equipment/rockwell-drawings.md": {
+      "sha256": "2570f53af7cc1c5227087515c14b894a4f0d6ac426e546299ed63e06941a4461",
+      "bytes": 1288
+    },
+    "equipment/roxtec-cable-and-pipe-penetration-seal-cad.md": {
+      "sha256": "48e9a438638eb82279416930fe65158d651bd8eac1d424b23da8009a83110deb",
+      "bytes": 1390
+    },
+    "equipment/audit-sc-erection.md": {
+      "sha256": "24bab4bc34a607b6bede529c3b4b225a253b0f9d1b74e9bf24d557a4fc6fcfd2",
+      "bytes": 1415
+    },
+    "equipment/saginaw-cad.md": {
+      "sha256": "ce7fdab781821c5c31978c94ca5b17945e28757f2250278e328b03b944ad0fb9",
+      "bytes": 1257
+    },
+    "equipment/audit-schmersal-psc1.md": {
+      "sha256": "488ffa7799622b422f9f7c0ac7994fce15031d9e23f5b108679ec95ec723c107",
+      "bytes": 1395
+    },
+    "equipment/audit-schmersal-lockout.md": {
+      "sha256": "0d157be83b609214241d4186559b031a273c5d1aea9d9ed6f65d4ced89e17c15",
+      "bytes": 1313
+    },
+    "equipment/schneider-controls.md": {
+      "sha256": "84a301791b7cc13323ea5089e59e5950ef7bef63742e924dc0c255c081f8ab21",
+      "bytes": 1187
+    },
+    "equipment/schneider-distribution.md": {
+      "sha256": "e214ebe51042d47b4561e4939ba68ffc97c5a5d7a119d5535d13f0de5125a25d",
+      "bytes": 1270
+    },
+    "equipment/audit-tesys-contactor.md": {
+      "sha256": "9c65fa19bbb177d799917b7670cb8762dedc82cb911f8a44ad3f85f8ca8218dd",
+      "bytes": 2567
+    },
+    "equipment/schneider-micom.md": {
+      "sha256": "730533e30bab139432d73ea942991f2b951672ad04bdc9be1316c4326de7ca43",
+      "bytes": 1394
+    },
+    "equipment/audit-climasys-grille.md": {
+      "sha256": "41ba9d49d48cbe489b6b18f30ead98afb9b137a3d70dfbaa3d6a5d7844f72820",
+      "bytes": 3473
+    },
+    "equipment/schneider-us-cad.md": {
+      "sha256": "e46e2553241e96c7939579a21c1864e913c86e39c3420af5876f8173aad012f8",
+      "bytes": 1213
+    },
+    "equipment/schurter-cad.md": {
+      "sha256": "701467cf4bd037a764710f1354a661e7620c8634815798accc66ad2687200870",
+      "bytes": 1155
+    },
+    "equipment/sel-drawings.md": {
+      "sha256": "4bd07a88944a0a2c348c9dfbec28e98092ebf1cfb6f54cd89828dd93093467e9",
+      "bytes": 1381
+    },
+    "equipment/audit-sel751-drawings.md": {
+      "sha256": "1281f73048104e65ede8ac6ea231f792efd8763c868ac990f3b2f9d12b5df95c",
+      "bytes": 1501
+    },
+    "equipment/audit-power-sens-microgenius-s4-battery-charger.md": {
+      "sha256": "c78ba8fcf75e7fb64a3a0074b7e89f3280fbff84d0341dbd09d7b88c197c883c",
+      "bytes": 1914
+    },
+    "equipment/siemens-cax.md": {
+      "sha256": "e9357d6377913212e445db5f44da7946275933cb9f2704a93b80420415d50807",
+      "bytes": 1281
+    },
+    "equipment/siemens-bim.md": {
+      "sha256": "92d42dfddab43c4928a50dda17ed6649368d23a4149a46520278a3dfc2cf3123",
+      "bytes": 1252
+    },
+    "equipment/simplex-fuel-supply-engineering-resources.md": {
+      "sha256": "45046ba54ac67d822dd2316fb956d81e4760d6221b08b1051c203b09c9d0d103",
+      "bytes": 1308
+    },
+    "equipment/simplex-load-banks-engineering-documents.md": {
+      "sha256": "44a4842cd03fa3faf1413aae5672f58de276b10894ac65d500d57b4686c18cae",
+      "bytes": 1385
+    },
+    "equipment/sma-solar-inverter-and-battery-inverter-official-documents.md": {
+      "sha256": "39ab788b0ba905963c10f638b4f806b63c3ca1261d4b8657c1015c1b6f4f41fa",
+      "bytes": 1427
+    },
+    "equipment/audit-power-sma-sunny-central-storage-up-utility-battery-inverter.md": {
+      "sha256": "ee72b99a3b333999e9800eb00d57af71357f69251d3667ed6307068e17747696",
+      "bytes": 1499
+    },
+    "equipment/socomec-request-39990701.md": {
+      "sha256": "94833695d3c421123a95153938929827bf8825341f6e43012592673db375dfc0",
+      "bytes": 1230
+    },
+    "equipment/socomec-request-39990702.md": {
+      "sha256": "3064e90bb0b96f477b0970187db28effb03c358527bc0340210469456d9ce44d",
+      "bytes": 1230
+    },
+    "equipment/socomec-request-39990041.md": {
+      "sha256": "e993935998ce2a3fc317f6c56981cc503565d156e4c663f1beba308cb2357087",
+      "bytes": 1232
+    },
+    "equipment/socomec-request-39990040.md": {
+      "sha256": "9ba066c5e1b88e822bdae195ea721918df6d8221bf9a54736736abbf25b61537",
+      "bytes": 1246
+    },
+    "equipment/socomec-request-39990141.md": {
+      "sha256": "3fa5ceb20f472f3b9668125f16b50500732772a8cdaf3dc6ea1e93541c33d512",
+      "bytes": 1233
+    },
+    "equipment/audit-socomec-corect.md": {
+      "sha256": "3f84a0ab3462f5092bc8e2b3d4821f48e2a227d61678a88522ae01eaf741d96f",
+      "bytes": 1409
+    },
+    "equipment/audit-socomec-dirisa40.md": {
+      "sha256": "976efaa805c445c65b586700705c1cd30f416a0928a37963481f1245529a16d2",
+      "bytes": 1321
+    },
+    "equipment/audit-socomec-displaymount.md": {
+      "sha256": "886ef8565d2e4b389282c7f86200572ac29f38ceaf24e304ed6d8ec3e419fbf6",
+      "bytes": 1422
+    },
+    "equipment/socomec-resource.md": {
+      "sha256": "06360f8eabb68dc9e98513e5a1e48c57aae27f21d51ee19959eef53d96d44bb7",
+      "bytes": 1242
+    },
+    "equipment/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue.md": {
+      "sha256": "4673cd187e4de4f8af2f2dc9abf150c8ebf49542f7a433537d8242fb13e29942",
+      "bytes": 1704
+    },
+    "equipment/stamford-avk-general-arrangement-alternator-drawing-finder.md": {
+      "sha256": "d49397432732204ca2e9fe61d3b1d09a4aa6d453933e506ac4c2ee15a173e9b9",
+      "bytes": 1349
+    },
+    "equipment/stego-cad.md": {
+      "sha256": "9756cd989899b9e560cfe80478246c7cad48c43b949bde58081c6bdc19d1e4e4",
+      "bytes": 1190
+    },
+    "equipment/audit-power-sungrow-sc5000ud-mv-us-p3-utility-pcs-discovery.md": {
+      "sha256": "076a4163bc1d9444e82dfce51dd802bf3262ddb13e550e1be34259d324b12488",
+      "bytes": 1525
+    },
+    "equipment/audit-power-sungrow-st2752ux-au-utility-storage-blocks-discovery.md": {
+      "sha256": "3b546b07877dccf81ef6c4fd32682299c0da0edd63b8b46b80f3aaced0030af3",
+      "bytes": 1431
+    },
+    "equipment/sungrow-sungrow-inverter-and-storage-official-documents.md": {
+      "sha256": "0c0ec55bce2a4f5b0f4b221d7df2f16323e28c779a293e073248bda4a6f17427",
+      "bytes": 1399
+    },
+    "equipment/tdk-d1se120-24-a3.md": {
+      "sha256": "55ba220dc31a03d86be4f88dc52e192342c32ab1195485fab5d5d11aa9284ace",
+      "bytes": 1963
+    },
+    "equipment/tdk-d1se240-24-a3.md": {
+      "sha256": "2ad31a62a218501824154a914f1e013a5382f66bb252b7c71ddbdc34f0fc2196",
+      "bytes": 1963
+    },
+    "equipment/tdk-d1se480-24-a3.md": {
+      "sha256": "5970c69bb81ba777d00c50f00ffc21e12768c22c47f748901142830900884cbb",
+      "bytes": 1963
+    },
+    "equipment/tdk-dbm20.md": {
+      "sha256": "a8c5b9dd7dcef4e804075faf232417eade211f208227c2f75a26352686c96d1c",
+      "bytes": 1954
+    },
+    "equipment/tdk-drb15.md": {
+      "sha256": "cb43674ee7d5d2afc995b3030c903d4258fb35ae3fa031b5f362f48aa6184336",
+      "bytes": 1910
+    },
+    "equipment/tdk-drb30.md": {
+      "sha256": "91689748ed47a728e655e78f71b10ca1004f8c4ff572672b419488f5504c3459",
+      "bytes": 1910
+    },
+    "equipment/tdk-drb480.md": {
+      "sha256": "88122d29c45d999d3fd5d1e0e573caeb606b148fdf7fcbae1b4db3ff52ca5d72",
+      "bytes": 1915
+    },
+    "equipment/tdk-drf960.md": {
+      "sha256": "9022536dca542b42a45a48f282187b97fef5243e70f98fa3ae92b734532ce9e1",
+      "bytes": 1917
+    },
+    "equipment/tdk-drm40.md": {
+      "sha256": "c926795a9f84998f28c4e7628031989fd6cdf620905fbc3147d1e9eb1ba713f3",
+      "bytes": 1900
+    },
+    "equipment/tdk-dush960-1248-1m.md": {
+      "sha256": "33fdf8bce29e33b8b137bbd2e369577d42df45449e0be2c6e007f1460c41a8d3",
+      "bytes": 1958
+    },
+    "equipment/tdk-library.md": {
+      "sha256": "8c82503b4b785315be540574eb6310fa331393fbfe5ff9bee1d25e37a2e3091d",
+      "bytes": 1206
+    },
+    "equipment/terasaki-tempower.md": {
+      "sha256": "87c5fe16b6eef7a30bf1a10eeac538782e42a54581b58e1b6e8b16a2a9e0ffbb",
+      "bytes": 1272
+    },
+    "equipment/tesla-megapack-engineering-geometry-request.md": {
+      "sha256": "8e850885e59c30c58ce57db032f72fc60dbfbd27b4ed6bbe1e4b3a8677a6ed81",
+      "bytes": 1406
+    },
+    "equipment/audit-power-thycon-australian-industrial-ups-and-energy-storage-source.md": {
+      "sha256": "a9fcfe19329c5ffd3c6eafae399a74c8a3bc55d658bcc92e6801e2788c14a93a",
+      "bytes": 1508
+    },
+    "equipment/audit-power-tramont-day-main-subbase-tank-and-fuel-transfer-engineering-source.md": {
+      "sha256": "c40a22bb714d8ef591b4c897dfc2ed87dad560e2de8ec090fa3f9bb103dc1f2c",
+      "bytes": 1527
+    },
+    "equipment/wago-smartdesigner.md": {
+      "sha256": "724200f5631a23bfc01fd9124adfef841c715aef79ab3c2ac5cadd422eebe4ef",
+      "bytes": 1255
+    },
+    "equipment/wago-cad.md": {
+      "sha256": "822c704c56a0598efa5d2804b5b49808fc74a8b363abc0435b0398ad54ab00f8",
+      "bytes": 1209
+    },
+    "equipment/weidmuller-wmc.md": {
+      "sha256": "6751d99ebfb68e8f88eb46c22669551fb07448031d639cae63c986215c765d3e",
+      "bytes": 1254
+    },
+    "equipment/audit-power-wilson-transformer-company-power-distribution-transformer-and-compact-mv-substation-engineering-source.md": {
+      "sha256": "7143d677dd79ec1bcb4d81359a4a5da812c4859685fc742fe0a96f88854a83b0",
+      "bytes": 1672
+    },
+    "equipment/audit-woehner-01357.md": {
+      "sha256": "3131363c3d12cf2620ccd080046add4c5daa28a572182aa60a6336e0365d24b3",
+      "bytes": 1482
+    },
+    "equipment/woehner-cad.md": {
+      "sha256": "8eb037f0f44fd8763f892b3fe98d1de1f0f45739db1b2ebc73ad237d4b76b97a",
+      "bytes": 1182
+    },
+    "equipment/audit-power-xtralis-vesda-vesda-e-detector-cad-and-imperial-metric-revit-families.md": {
+      "sha256": "cd75dbd48c1b636b5802562edd5ce429f6987e01b819fdd468aec00dd5afa8ab",
+      "bytes": 1615
+    },
+    "equipment/yaskawa-drives.md": {
+      "sha256": "0e58e686212ae02fe550cb8c855d86d1d43efb466ff38c4c3792e39bdb98ea40",
+      "bytes": 1203
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-40.md": {
+      "sha256": "d4bb832d3b253a5ad88ceb26e67630edfbdcbd12e8a98b82c4326789703050e7",
+      "bytes": 40665
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-42-3.md": {
+      "sha256": "03b8a7375a5507e9b61e529436218fe1ccde8f6f7a04f6d37cfd63c6b9873eea",
+      "bytes": 45060
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-44-3.md": {
+      "sha256": "991f590b9b1250476f818f5ac86f59e3a46bd67ab472b0afa810ff3e30d892ce",
+      "bytes": 28844
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-46-3.md": {
+      "sha256": "11f2cb1cc234e06733f78d219d3d363fd0b08aacc0b0e209f3aa4682724b17c2",
+      "bytes": 13227
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-47-3.md": {
+      "sha256": "b3e640c6f98424ca47d38de7eb1f3d601ec7db0c6956d0fe5c256fbfee4045e3",
+      "bytes": 13905
+    },
+    "equipment/europe-nidec-leroysomeralternatorlsa493.md": {
+      "sha256": "fe454b9a359d5521ce181b752e63c03f490bba90a2348fdbdfbb5e02e1d535b7",
+      "bytes": 10725
+    },
+    "equipment/europe-nidec-leroysomeralternatorlsa502.md": {
+      "sha256": "471c2876eefee005bb8b926c471357b375dcde986c67bd53ad5379a40dd74187",
+      "bytes": 3826
+    },
+    "equipment/europe-nidec-leroysomeralternatorlsa523.md": {
+      "sha256": "687a2af129cd70ab496e54012ebf8a95111d5aa292c0671a74cd22e7b75a0913",
+      "bytes": 1395
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-53-2.md": {
+      "sha256": "df47811dc6d250f3744d69427eed103d0dcb2349440612c8990b8865b8154b1e",
+      "bytes": 1405
+    },
+    "equipment/europe-nidec-leroy-somer-alternator-lsa-54.md": {
+      "sha256": "e7762a334620d03891804dc15bb19cd0124038347a3300f59a6acca3dcb06a02",
+      "bytes": 1401
+    },
+    "equipment/uk-abtech-bpg.md": {
+      "sha256": "5cc1d6f72d6ce916a0089c3e72b9fe03d6b6c1070292092309b9dfb1be8c2eda",
+      "bytes": 23175
+    },
+    "equipment/uk-abtech-sx.md": {
+      "sha256": "508e4d849d29f743e9abfee653c1fc22dddbaeaab58506a00bd9483cd7d7eead",
+      "bytes": 20052
+    },
+    "equipment/uk-abtech-zag.md": {
+      "sha256": "da9ea537f7dc0119e46ff0c0aece1941aa0eb4759e84d18b32116e5fc8b90a44",
+      "bytes": 20687
+    },
+    "equipment/uk-abtech-zp.md": {
+      "sha256": "c562f16c7c063d48e9fbb4d595105bd59ee2191f4c07a5b9c7418a98d8dbe5c9",
+      "bytes": 27823
+    },
+    "equipment/europe-lovato-rgk600sa.md": {
+      "sha256": "f9bbea773ea800f7728a29e8030f074137ccfcd39c18b034b95c0ef8a3a6f400",
+      "bytes": 4384
+    },
+    "equipment/europe-lovato-rgk400sa.md": {
+      "sha256": "213aa1a98dae8cf3e6208da91ff02e2748d8d14c94bd6b0f2161e068b7a7a735",
+      "bytes": 4301
+    },
+    "equipment/europe-lovato-adxl0060600.md": {
+      "sha256": "e0b1a07d1dd175ffa32ded5b85cfca31f40d5cb7fb712e093a984db8d7f42c10",
+      "bytes": 4412
+    },
+    "equipment/europe-lovato-fb01b3n.md": {
+      "sha256": "f5c430f8ebfc9b33b0e9b6335fb6a058b17740a11dd181943b0a8a5416390377",
+      "bytes": 4291
+    },
+    "equipment/europe-lovato-hr6xs41s.md": {
+      "sha256": "82ea71f81b430364dad478e48e45f6c36ad4e742b99c3c6e5d559d99c3622f38",
+      "bytes": 4016
+    },
+    "equipment/europe-lovato-exccon02.md": {
+      "sha256": "852f87210c101e104f758bdfe67f80e3a21efd91ad856556f382877872a6a367",
+      "bytes": 4268
+    },
+    "equipment/europe-lovato-ffl700dp.md": {
+      "sha256": "6bcefddc51327a031ca6f49987af01a5cd7024e1a88462042bf3fdd5d7170116",
+      "bytes": 4037
+    },
+    "equipment/uk-dse-dseg8660.md": {
+      "sha256": "73e853b50accce83bdc66a8b7e4fc7faa7da55edbc6568126cf4e1228807b3b9",
+      "bytes": 1779
+    },
+    "equipment/uk-dse-dseg8900.md": {
+      "sha256": "73d471ded4ebacb17247f56269024ba232d4776ef7f26d2ccbe45a15695b4222",
+      "bytes": 2264
+    },
+    "equipment/uk-dse-dse4520-mkii.md": {
+      "sha256": "a7954560608b760b4e9ebc70f7f424421b877dd273ae57ce960f94139a66fe86",
+      "bytes": 1802
+    },
+    "equipment/uk-dse-dse6020mkii.md": {
+      "sha256": "86ae9876e46b85997428793d66b5600f0eb91b1a593c93417ac5397ece9e9772",
+      "bytes": 1797
+    },
+    "equipment/uk-dse-dse6120-mkiii.md": {
+      "sha256": "190495b6bf24c0c9bb794e3ca1a1181cdb6008527741c9027f7b711f1a74a121",
+      "bytes": 1808
+    },
+    "equipment/uk-dse-dse7320-mkii.md": {
+      "sha256": "112f0adafb1a3f0edeed123dbaa6beebc50f71cd738e8510a1f2b6f640ecbabf",
+      "bytes": 1802
+    },
+    "equipment/uk-dse-dse7420-mkii.md": {
+      "sha256": "7eda7f562b5764a8c59f07eca2cad1f28d40c9009608694715130e6820c0a525",
+      "bytes": 1802
+    },
+    "equipment/uk-dse-dsea106-mkii.md": {
+      "sha256": "add74ebb7dc4d6bb72bf84ea8a3fa9e51e23c10562063da8af126ac9c4060907",
+      "bytes": 1799
+    },
+    "equipment/uk-dse-dsea109.md": {
+      "sha256": "d67d246f7df3581ddc5b5534fcba5932322556ea375f95d5161a5772686b7824",
+      "bytes": 1774
+    },
+    "equipment/uk-dse-dse2131.md": {
+      "sha256": "68621036cfeeaeffad69f6fe8f02cf02f0f08d069af5304d604821e87d24215b",
+      "bytes": 1727
+    },
+    "equipment/uk-dse-dse2133.md": {
+      "sha256": "c4c67abaa0886b07b51f74d3f294e1966fbaa1b9fa60ca4082335768b1f8e6ad",
+      "bytes": 1727
+    },
+    "equipment/uk-dse-dse2152.md": {
+      "sha256": "fad782a73ae55914168f8f15754d66cbc2033370bbed67004837eff58e4add06",
+      "bytes": 1727
+    },
+    "equipment/uk-dse-dse2157.md": {
+      "sha256": "7f6b4de13f8aae9d1faad0a7876ea93049cae46db66befbca10ad5f4f52d296e",
+      "bytes": 1727
+    },
+    "equipment/uk-dse-dse2160.md": {
+      "sha256": "dece818c8536922b63e5408db2b9ceac0e6fda344d8277b19b4c2414edd91046",
+      "bytes": 1728
+    },
+    "equipment/uk-dse-dse2170.md": {
+      "sha256": "5183fc683e396d940fccab8d89c1677d3e02320a47dd773089421101fab324cc",
+      "bytes": 1728
+    },
+    "equipment/uk-dse-dse2548.md": {
+      "sha256": "b900f96ff2dc332dc5e407eb5907cc689508cd53d6fe3cc927ee0cfc566fdf68",
+      "bytes": 1727
+    },
+    "equipment/uk-dse-dseg0123.md": {
+      "sha256": "a1cb64dd2b080b6b9d9868d850d989aaf7134ee05796f62d0b1f8aa57f7ed08e",
+      "bytes": 1733
+    },
+    "equipment/uk-dse-dsel401-mkii.md": {
+      "sha256": "6aae277880bfc70cccaa93930ef48acb05f3d74feb99c85131237da8699c496d",
+      "bytes": 1778
+    },
+    "equipment/uk-dse-dse8610-mkii.md": {
+      "sha256": "1d6d706ccefd233430f2c58d0e3f896cdc7f21193cf75a85aaf8541e079c6cc0",
+      "bytes": 1802
+    },
+    "equipment/uk-dse-dse8620-mkii.md": {
+      "sha256": "b47d909b8b1993d276bc7d09c235f8110058a6354e51a57b2e60500cbf1f7ee4",
+      "bytes": 1803
+    },
+    "equipment/uk-dse-dse8660-mkii.md": {
+      "sha256": "868962b8ea2e65477c9ed767774a2b82c92dc099a1bbf8a702df0248d0f897b4",
+      "bytes": 1802
+    },
+    "equipment/uk-dse-dse8680.md": {
+      "sha256": "2eb0ebcd0f36a4b22e48625880663c86fdaa6249814349480d653588974f80f8",
+      "bytes": 1777
+    },
+    "equipment/uk-dse-dsep100.md": {
+      "sha256": "e283ccf1fe66413a713a3d598d936df82f2fde4d7d0ff10c4681e5e4d0aa9526",
+      "bytes": 1781
+    },
+    "equipment/uk-dse-dse3110.md": {
+      "sha256": "63dc1e2070322b8a06e50ab74b0c267a7c50f5520f84f8905ec1f399c2ea7233",
+      "bytes": 1759
+    },
+    "equipment/uk-dse-dse6110-mkiii.md": {
+      "sha256": "05ee64e157e74edcc64fd6aa51d756387aa44449adf59b95fbf84030efb5cb8c",
+      "bytes": 1790
+    },
+    "equipment/uk-dse-dse7310-mkii.md": {
+      "sha256": "1660283978437e8dc2f3256ccefa66f4d865ad85408f0c98ee85ec88a4cfed2b",
+      "bytes": 2270
+    },
+    "equipment/uk-dse-dse7410-mkii.md": {
+      "sha256": "6e32cb055c79c3e1b295082bef166cfa0200ad2ef3231ae2c0b79dc8f5533494",
+      "bytes": 1784
+    },
+    "equipment/uk-dse-dse8003-mkii.md": {
+      "sha256": "0ee861fce8d1aa3479a165261a34626e3bc968623b44c9faf3eba0a662ec3a25",
+      "bytes": 1790
+    },
+    "equipment/uk-dse-dse857.md": {
+      "sha256": "4877912cfad419520712d5918c0eabe63abe20505b9405f5dea8bf03dcfb5abe",
+      "bytes": 1760
+    },
+    "equipment/uk-dse-dse890-mkii.md": {
+      "sha256": "a5dc716a6956bafecf2a849ecd7f78f21952862766f9511978231adee2633c23",
+      "bytes": 1785
+    },
+    "equipment/uk-dse-dse892.md": {
+      "sha256": "d5288a558e5ecc8b8e9674a62d2f185e95f1befd07c2148f364a0b2d02c0ff6f",
+      "bytes": 1760
+    },
+    "equipment/open-hardware-bms-c1.md": {
+      "sha256": "44aa142b2f1d55069cf45eac538475515776b04a829dc35b8b90d17f99949485",
+      "bytes": 136204
+    },
+    "equipment/open-hardware-bms-8s50-ic.md": {
+      "sha256": "d998409a72a4837ca15fb2e203b3bcc5d08438e20637db1877f9360cd5fa8751",
+      "bytes": 14583
+    },
+    "equipment/open-hardware-mppt-2420-hc.md": {
+      "sha256": "00fcec2d74347e5360f892132effd287071dd39de2decf7d00c58c957684a05d",
+      "bytes": 10568
+    },
+    "equipment/open-hardware-mppt-1210-hus.md": {
+      "sha256": "6da11b01f567e04941db3f7e5e01e1cdff1dca9a0c9fd03b843203e3e8bd9e4f",
+      "bytes": 7991
+    },
+    "equipment/open-hardware-mppt-2420-lc.md": {
+      "sha256": "792f8f50f68c204d2cea6e65fe76ed2f83706c9eb0d7d0389569606832bb2bc0",
+      "bytes": 10540
+    },
+    "equipment/open-hardware-emontx3.md": {
+      "sha256": "2330c2095efaf752c9f55455cb8f2d518097de829b621011f172527e10f4081c",
+      "bytes": 20431
+    },
+    "equipment/open-hardware-emonpi2.md": {
+      "sha256": "67f407458c460d7df7e650b9cf2c4add5d34a1dd5f1c242f2db2bc100bfff401",
+      "bytes": 21862
+    },
+    "equipment/europe-hensel-enycase.md": {
+      "sha256": "3be355f8113686a1d72e1862b8b5e2b987bdb8487d7b9c750af5a74e1a5a89ec",
+      "bytes": 8724
+    },
+    "equipment/europe-hensel-enyflex.md": {
+      "sha256": "d40805dc1243b537817cd04d2039746150f6baa41862303a3b46d152917743e8",
+      "bytes": 2354
+    },
+    "equipment/europe-hensel-enystar.md": {
+      "sha256": "8c164dbcf6a67fc1ebc5013e3d7a119f06f32102e64d742eeb4a1a0955533811",
+      "bytes": 22375
+    },
+    "equipment/europe-hensel-enymod-mi.md": {
+      "sha256": "1c4f0c179ef4f9d1707516eddf02df35ed9ef3efd1b99826264acea0bfb35494",
+      "bytes": 17428
+    },
+    "equipment/uk-dorman-smith-assembly.md": {
+      "sha256": "98a2699092fd3d6f59ea76921fb1daa843889fdb550469020ddf3af5152608d1",
+      "bytes": 1395
+    },
+    "equipment/europe-zpas-cad.md": {
+      "sha256": "c0ecd61bf059fdf8d14f643c1106012611e83af40163a01eafc4495a6d57f31d",
+      "bytes": 1405
+    },
+    "equipment/europe-spelsberg-cad.md": {
+      "sha256": "ed682a11478b9965fe9534f3b0356d9821ecfb17820b7203d94d0dec8dfecc98",
+      "bytes": 1394
+    },
+    "equipment/europe-mecc-alte-engineering.md": {
+      "sha256": "cd3d569990852e3d068cd1cfa2ba7486f98aef27c14d104de5596d768ed7fbf7",
+      "bytes": 1375
+    },
+    "equipment/uk-lucy-electric-secondary.md": {
+      "sha256": "6387ff8b0c2a226e9bd9ea6ed253944130fb3a533968b2e0acf9b7137c93b4b5",
+      "bytes": 1565
+    },
+    "equipment/uk-fg-wilson-power-centre.md": {
+      "sha256": "60d702bea9434f9157901d587f36fc774321db0d7beb8c745beb2b3d93c81088",
+      "bytes": 1550
+    },
+    "equipment/europe-schneider-prismaset-g.md": {
+      "sha256": "8c0960ba6e24def781df571061c22d21056d2570d7c6b5a14073f86f0853e985",
+      "bytes": 1578
+    },
+    "equipment/europe-socomec-sunsys-iec.md": {
+      "sha256": "a740c2e4ca6eb817c7f92bd9acbbcd975272e7b9ca93eb3c2591f66e711bcaa5",
+      "bytes": 1561
+    },
+    "equipment/README.md": {
+      "sha256": "7317ffdb5483f05491aa8ac89879a0d4e77b74a159ab7b6aa93a90f578e324ee",
+      "bytes": 27827
+    }
+  }
+}

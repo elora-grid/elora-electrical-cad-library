@@ -1,0 +1,279 @@
+# AutomationDirect — AC Line Reactors (LR Series) CAD package
+
+Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/ad-ac_linereactors) · [Official manufacturer source](https://support.automationdirect.com/docs/drawings.html)
+
+- Category: Power quality & drives
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG
+- Discovery markets: US, Global
+- Access: direct
+- Checked: 2026-10-13T05:24:41.677487+00:00
+
+Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
+US and Canada supplier catalogue; globally discoverable. Regional suitability must be verified for exact part.
+Archive spans multiple parts; no assembly or product compatibility inferred.
+
+## Files
+
+### ac\_linereactors.zip
+
+- Format: ZIP
+- Purpose: Product-family CAD archive (DWG)
+- [Official source](https://ftp.automationdirect.com/support/drawings/ac_linereactors.zip)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: 497f09da39e7b0d1621a9c66339a497adbdfbb2ecaf123a8df172efea1091a2c
+- Original bytes: 31044056
+- Revision: Not recorded
+- Retrieved: 2026-10-13T05:24:41.677487+00:00
+- Rights review: The drawing page limits the documents to exclusive use by AutomationDirect customers.
+- [Rights evidence](https://support.automationdirect.com/docs/drawings.html)
+
+<details>
+<summary>Archive members</summary>
+
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-10P2-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-10P2-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-10P5-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-10P5-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-11P0-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-11P0-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2010.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2010.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2015.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2015.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2020.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2020.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2025.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2025.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2030.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2030.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2040.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2040.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2050.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2050.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2060.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2060.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2075.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2075.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-20P5-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-20P5-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-20P5.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-20P5.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2100.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-2100.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-21P0-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-21P0-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-21P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-21P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-22P0-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-22P0-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-22P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-22P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-23P0-1PH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-23P0-1PH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-23P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-23P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-25P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-25P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-27P5.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-27P5.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4010.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4010.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4015.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4015.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4020.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4020.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4025.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4025.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4030.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4030.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4040.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4040.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4050.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4050.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4060.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4060.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4075.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4075.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4100.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4100.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4125.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4125.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4150.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4150.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-41P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-41P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4200.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4200.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4250.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4250.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-42P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-42P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4300.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-4300.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-43P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-43P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-45P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-45P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-47P5.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-47P5.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-5010.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-5010.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-51P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-51P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-52P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-52P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-53P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-53P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-55P0.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR-55P0.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-10P2-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-10P2-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-10P5-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-10P5-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-11P0-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-11P0-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-11P5-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-11P5-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P2-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P2-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P2.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P2.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P5-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P5-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P7.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-20P7.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P0-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P0-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P5-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P5-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-21P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-22P0-1PH.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-22P0-1PH.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-22P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-22P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P2.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P2.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P3.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P3.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P7.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-40P7.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-41P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-41P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-41P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-41P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-42P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-42P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-43P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-43P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-44P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-44P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-45P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-45P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-47P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-47P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-51P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-51P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-51P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-51P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-52P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-52P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-53P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-53P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-54P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-54P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-55P0.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-55P0.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-57P5.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-57P5.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-AP1.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-AP1.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-AP2.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-AP2.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-DR1.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-DR1.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-DR2.DWG
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\LR2-DR2.PDF
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-FH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-FH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-FH\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-FH\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-JL.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-JL.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-JL\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-24-JL\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-CFG M.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-CFG.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-CFG\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-CFG\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-DGH.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-DGH.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-DGH\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-DGH\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-GJJ.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-GJJ.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-GJJ\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-GJJ\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-HKL.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-HKL.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-HKL\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-HKL\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-KMN.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-KMN.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-KMN\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-KMN\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-LPQ.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-LPQ.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-LPQ\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-LPQ\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-MQR.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-MQR.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-MQR\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-MQR\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-NRS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-NRS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-NRS\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-NRS\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-PSU.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-PSU.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-PSU\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-PSU\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-RUV.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-RUV.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-RUV\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-RUV\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-SVW.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-SVW.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-SVW\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-246-SVW\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-4-M.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-4-M.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-4-M\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-4-M\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-DE.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-DE.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-DE\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-DE\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-LM.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-LM.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-LM\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-LM\_WIREDIAGS AND CALLOUTS.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-NP.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-NP.pdf
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-NP\_WIREDIAGS AND CALLOUTS.dwg
+- Drives-Motors-Motion\\GS and Durapulse AC Drives\\AC Line Reactors\\VTF-46-NP\_WIREDIAGS AND CALLOUTS.pdf
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

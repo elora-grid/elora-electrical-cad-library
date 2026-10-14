@@ -1,0 +1,388 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Elora Grid official CAD discovery",
+    "version": "3.0.0",
+    "description": "Free read-only discovery of official CAD sources. Metadata, official publisher routes and direct-site official CAD downloads with recorded rights status for USA, Australia, UK and Europe."
+  },
+  "servers": [
+    {
+      "url": "https://eloragrid.ai"
+    }
+  ],
+  "paths": {
+    "/tools/cad-library/download/{record}/{file}": {
+      "get": {
+        "operationId": "downloadOfficialCad",
+        "summary": "Download unchanged official CAD; licences and ZIP delivery are recorded per file",
+        "parameters": [
+          {
+            "name": "record",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "file",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "302": {
+            "description": "Redirect to a five-minute signed attachment URL; use the stable site URL on later visits"
+          },
+          "404": {
+            "description": "Unknown file, explicitly restricted file or revoked publication"
+          },
+          "503": {
+            "description": "Storage temporarily unavailable; use the official publisher URL"
+          }
+        }
+      }
+    },
+    "/tools/cad-library/catalogue.json": {
+      "get": {
+        "operationId": "searchOfficialCad",
+        "summary": "Search source entries and official file URLs",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "maxLength": 160
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "switchgear",
+                "breakers",
+                "enclosures",
+                "busbar",
+                "protection",
+                "automation",
+                "wiring",
+                "power-supplies",
+                "thermal",
+                "power-quality",
+                "transformers",
+                "generation",
+                "generator-auxiliaries",
+                "storage",
+                "solar",
+                "communications",
+                "cable-management",
+                "switchroom-services"
+              ]
+            }
+          },
+          {
+            "name": "manufacturer",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "abb",
+                "asco",
+                "abtech",
+                "automationdirect",
+                "avtron",
+                "bopla",
+                "bender",
+                "cubic",
+                "carlo-gavazzi",
+                "caterpillar",
+                "clevertronics",
+                "comap",
+                "cressall",
+                "cummins",
+                "deif",
+                "dagartech",
+                "deep-sea-electronics",
+                "dorman-smith",
+                "eaton",
+                "eaton-b-line",
+                "eaton-crouse-hinds",
+                "fg-wilson",
+                "fantech",
+                "fronius",
+                "fuji-electric",
+                "genelite",
+                "generac",
+                "greenheck",
+                "hager",
+                "hammond-manufacturing",
+                "hammond-power-solutions",
+                "hensel",
+                "honeywell-notifier",
+                "hubbell",
+                "innio",
+                "ipd",
+                "ingeteam",
+                "invertek-drives",
+                "lovato-electric",
+                "legrand",
+                "legrand-australia",
+                "libre-solar",
+                "lithonia-lighting-acuity-brands",
+                "littelfuse",
+                "lucy-electric",
+                "miratech",
+                "mecc-alte",
+                "mitsubishi-electric",
+                "nhp",
+                "nidec-leroy-somer",
+                "obo-bettermann",
+                "opw",
+                "openenergymonitor",
+                "puls",
+                "panduit",
+                "pepperl-fuchs",
+                "pfannenberg",
+                "phoenix-contact",
+                "post-glover",
+                "rehlko",
+                "rittal",
+                "rockwell-automation",
+                "roxtec",
+                "s-c-electric",
+                "schurter",
+                "sens",
+                "sma",
+                "stamford-avk",
+                "stego",
+                "saginaw-control-and-engineering",
+                "schmersal",
+                "schneider-electric",
+                "schweitzer-engineering-laboratories",
+                "siemens",
+                "simplex",
+                "socomec",
+                "southern-states",
+                "spelsberg",
+                "sungrow",
+                "tdk-lambda",
+                "thycon",
+                "terasaki",
+                "tesla",
+                "tramont",
+                "victron-energy",
+                "wago",
+                "weidmuller",
+                "westermo",
+                "wilson-transformer-company",
+                "wohner",
+                "xtralis",
+                "yaskawa",
+                "zpas",
+                "icotek",
+                "mtu-rolls-royce",
+                "nvent-erico",
+                "nvent-eriflex",
+                "nvent-hoffman"
+              ]
+            }
+          },
+          {
+            "name": "format",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "2D CAD",
+                "2D drawings",
+                "3D CAD",
+                "3D drawings",
+                "AVEVA",
+                "AutoCAD",
+                "BIM",
+                "BRD",
+                "CAD",
+                "CAD package",
+                "CSV",
+                "DGN",
+                "DWFX",
+                "DWG",
+                "DXF",
+                "EPLAN",
+                "EPLAN EDZ",
+                "FCSTD",
+                "IGES",
+                "IGS",
+                "Intergraph",
+                "KICAD_PCB",
+                "KICAD_SCH",
+                "PDF",
+                "PDMS",
+                "Parasolid",
+                "RFA",
+                "RVT",
+                "Revit",
+                "Revit BIM",
+                "SAT",
+                "SCH",
+                "STEP",
+                "STL",
+                "STP",
+                "WSCAD",
+                "ZIP",
+                "Zuken E3",
+                "engineering drawings",
+                "outline drawings"
+              ]
+            }
+          },
+          {
+            "name": "market",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "US",
+                "AU",
+                "UK",
+                "Europe",
+                "EU"
+              ]
+            }
+          },
+          {
+            "name": "kind",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "product",
+                "family",
+                "library",
+                "configurator"
+              ]
+            }
+          },
+          {
+            "name": "acquired",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "hosted",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "all",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "audit",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "1"
+              ]
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 99999,
+              "default": 1
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 24
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Equipment metadata or requested coverage audit",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid filter or pagination value"
+          }
+        }
+      }
+    },
+    "/tools/cad-library/entries/{asset}": {
+      "get": {
+        "operationId": "readOfficialCadSource",
+        "summary": "Read an equipment source as JSON or Markdown",
+        "parameters": [
+          {
+            "name": "asset",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "pattern": "^[a-z0-9_-]+\\.(md|json)$"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Equipment provenance, file URLs, access requirements and configuration notes",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              },
+              "text/markdown": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Source entry not found"
+          }
+        }
+      }
+    }
+  }
+}

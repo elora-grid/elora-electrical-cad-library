@@ -1,0 +1,25 @@
+name: Missing official CAD source
+description: Suggest an official manufacturer source or exact product.
+title: "[Source] "
+labels: ["missing-source"]
+body:
+  - type: input
+    id: manufacturer
+    attributes:
+      label: Manufacturer and model/part number
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official source URL
+      description: Manufacturer page or an officially endorsed CAD portal.
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Formats, equipment category, regions and evidence
+      description: State whether this is an exact product, family archive, library or configurator. Do not attach customer files.
+    validations:
+      required: true

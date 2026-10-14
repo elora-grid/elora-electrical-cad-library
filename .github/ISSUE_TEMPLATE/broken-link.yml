@@ -1,0 +1,17 @@
+name: Broken link or updated drawing
+description: Report an unavailable source, wrong format or new revision.
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or equipment page URL
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: Problem and official replacement evidence
+    validations:
+      required: true

@@ -1,0 +1,24 @@
+# Elora Electrical CAD Library
+
+> Open catalogue of official manufacturer CAD/BIM sources for switchboards, switchgear, switchrooms, generators and microgrids. USA, Australia, UK and Europe have equal research priority. CAD download rights are recorded per file.
+
+## Canonical website
+
+- [Search and download](https://eloragrid.ai/tools/cad-library): free engineering tool.
+- [Full live JSON](https://eloragrid.ai/tools/cad-library/catalogue.json?all=1): source of truth, including stable site download URLs.
+- [Live OpenAPI](https://eloragrid.ai/tools/cad-library/openapi.json): search filters and download endpoints.
+- [Coverage](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and limitations.
+
+## Repository resources
+
+- [Agent guide](docs/agents.md): field interpretation, rights and checksum handling.
+- [Catalogue JSON](data/catalogue.json): complete public snapshot.
+- [Equipment CSV](data/catalogue.csv): one row per source.
+- [Files CSV](data/files.csv): one row per listed file, original and delivery checksums.
+- [Equipment directory](equipment/README.md): readable entry pages with provenance.
+- [Schema](schema/catalogue.schema.json): public record structure.
+- [Manifest](data/manifest.json): snapshot counts and content hashes.
+- [Contributing](CONTRIBUTING.md): missing sources, revisions and rights corrections.
+- [Licence scope](LICENSE.md): CC BY 4.0 metadata, MIT code, separate manufacturer CAD rights.
+
+Family archives and manufacturer portals are not exact configured products. Global discovery tags do not establish certification. Unknown rights remain unknown. Use stable Elora downloadUrl values, not temporary signed attachment links. Contact/request data is private.

@@ -1,0 +1,297 @@
+# AutomationDirect — WMZT Series Miniature Circuit Breakers CAD package
+
+Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/ad-wmztmcb) · [Official manufacturer source](https://support.automationdirect.com/docs/drawings.html)
+
+- Category: Breakers & accessories
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG
+- Discovery markets: US, Global
+- Access: direct
+- Checked: 2026-10-13T05:24:41.677487+00:00
+
+Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
+US and Canada supplier catalogue; globally discoverable. Regional suitability must be verified for exact part.
+Archive spans multiple parts; no assembly or product compatibility inferred.
+
+## Files
+
+### wmztmcb.zip
+
+- Format: ZIP
+- Purpose: Product-family CAD archive (DWG)
+- [Official source](https://ftp.automationdirect.com/support/drawings/wmztmcb.zip)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: b100a7c39091360e570d741f53abfcc9b51c4f8f6694224e16b9eb23972d1b8b
+- Original bytes: 19564360
+- Revision: Not recorded
+- Retrieved: 2026-10-13T05:24:41.677487+00:00
+- Rights review: The drawing page limits the documents to exclusive use by AutomationDirect customers.
+- [Rights evidence](https://support.automationdirect.com/docs/drawings.html)
+
+<details>
+<summary>Archive members</summary>
+
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C01.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C01.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C02.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C02.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C03.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C03.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C04.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C04.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C05.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C05.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C06.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C06.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C07.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C07.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C08.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C08.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C10.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C10.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C13.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C13.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C15.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C15.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C16.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C16.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C20.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C20.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C25.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C25.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C30.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C30.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C32.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C32.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C40.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1C40.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1CX0.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1CX0.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1CX1.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1CX1.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D01.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D01.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D02.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D02.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D03.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D03.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D04.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D04.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D05.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D05.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D06.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D06.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D07.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D07.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D08.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D08.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D10.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D10.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D13.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D13.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D15.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D15.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D16.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D16.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D20.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D20.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D25.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D25.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D30.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D30.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D32.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D32.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D40.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1D40.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1DX0.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1DX0.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1DX1.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1DX1.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1P12TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1P12TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1P18TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1P18TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1P6TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT1P6TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C01.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C01.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C02.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C02.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C03.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C03.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C04.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C04.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C05.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C05.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C06.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C06.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C07.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C07.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C08.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C08.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C10.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C10.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C13.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C13.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C15.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C15.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C16.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C16.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C20.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C20.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C25.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C25.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C30.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C30.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C32.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C32.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C40.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2C40.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2CX0.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2CX0.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2CX1.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2CX1.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D01.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D01.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D02.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D02.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D03.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D03.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D04.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D04.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D05.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D05.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D06.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D06.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D07.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D07.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D08.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D08.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D10.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D10.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D13.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D13.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D15.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D15.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D16.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D16.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D20.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D20.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D25.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D25.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D30.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D30.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D32.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D32.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D40.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2D40.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2DX0.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2DX0.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2DX1.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2DX1.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2P12TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2P12TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2P18TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2P18TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2P6TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT2P6TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT35EXT.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT35EXT.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C01.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C01.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C02.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C02.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C03.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C03.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C04.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C04.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C05.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C05.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C06.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C06.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C07.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C07.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C08.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C08.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C10.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C10.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C13.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C13.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C15.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C15.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C16.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C16.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C20.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C20.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C25.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C25.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C30.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C30.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C32.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C32.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C40.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3C40.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3CX0.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3CX0.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3CX1.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3CX1.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D01.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D01.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D02.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D02.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D03.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D03.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D04.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D04.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D05.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D05.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D06.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D06.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D07.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D07.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D08.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D08.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D10.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D10.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D13.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D13.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D15.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D15.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D16.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D16.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D20.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D20.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D25.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D25.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D30.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D30.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D32.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D32.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D40.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3D40.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3DX0.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3DX0.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3DX1.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3DX1.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3P12TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3P12TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3P18TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3P18TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3P6TSP.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3P6TSP.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3PSHROUD.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZT3PSHROUD.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZTAUX.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZTAUX.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZTST110.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZTST110.pdf
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZTST415.dwg
+- Power Products\\WMZT Miniature Circuit Breakers\\WMZTST415.pdf
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

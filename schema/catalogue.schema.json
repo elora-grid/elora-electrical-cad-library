@@ -1,0 +1,417 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/elora-grid/elora-electrical-cad-library/main/schema/catalogue.schema.json",
+  "title": "Elora official electrical CAD catalogue",
+  "description": "Public metadata only. Manufacturer CAD licences are recorded per file and are separate from the catalogue licence.",
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 3
+    },
+    "canonical": {
+      "const": "https://eloragrid.ai/tools/cad-library"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "query": {
+      "const": ""
+    },
+    "total": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "page": {
+      "const": 1
+    },
+    "limit": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "returned": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "equipment": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9_-]+$"
+          },
+          "name": {
+            "type": "string"
+          },
+          "manufacturer": {
+            "type": "string"
+          },
+          "category": {
+            "type": "string",
+            "enum": [
+              "switchgear",
+              "breakers",
+              "enclosures",
+              "busbar",
+              "protection",
+              "automation",
+              "wiring",
+              "power-supplies",
+              "thermal",
+              "power-quality",
+              "transformers",
+              "generation",
+              "generator-auxiliaries",
+              "storage",
+              "solar",
+              "communications",
+              "cable-management",
+              "switchroom-services"
+            ]
+          },
+          "description": {
+            "type": "string"
+          },
+          "equipment": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "markets": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "US",
+                "AU",
+                "UK",
+                "Europe",
+                "Global"
+              ]
+            }
+          },
+          "marketNote": {
+            "type": "string"
+          },
+          "kind": {
+            "type": "string",
+            "enum": [
+              "product",
+              "family",
+              "library",
+              "configurator"
+            ]
+          },
+          "partNumber": {
+            "type": "string"
+          },
+          "sourceUrl": {
+            "type": "string",
+            "pattern": "^https://[^\\s]+$"
+          },
+          "officialEvidenceUrl": {
+            "type": "string",
+            "pattern": "^https://[^\\s]+$"
+          },
+          "sourcePublisher": {
+            "type": "string"
+          },
+          "formats": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "availability": {
+            "type": "string",
+            "enum": [
+              "direct",
+              "account",
+              "configurator",
+              "request",
+              "catalogue"
+            ]
+          },
+          "accessNote": {
+            "type": "string"
+          },
+          "checkedAt": {
+            "type": "string"
+          },
+          "files": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9_-]+$"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "format": {
+                  "type": "string"
+                },
+                "purpose": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                },
+                "availability": {
+                  "type": "string",
+                  "enum": [
+                    "direct",
+                    "account",
+                    "request"
+                  ]
+                },
+                "bytes": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "sha256": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                },
+                "retrievedAt": {
+                  "type": "string"
+                },
+                "revision": {
+                  "type": "string"
+                },
+                "archiveContents": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "validation": {
+                  "type": "string",
+                  "enum": [
+                    "signature-checked",
+                    "archive-inspected",
+                    "link-verified"
+                  ]
+                },
+                "hosted": {
+                  "type": "boolean"
+                },
+                "downloadUrl": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                },
+                "redistribution": {
+                  "type": "string",
+                  "enum": [
+                    "unknown",
+                    "permitted",
+                    "restricted"
+                  ]
+                },
+                "license": {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string",
+                      "pattern": "^https://[^\\s]+$"
+                    },
+                    "attribution": {
+                      "type": "string"
+                    },
+                    "notice": {
+                      "type": "string"
+                    },
+                    "sourceCommit": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "url",
+                    "attribution",
+                    "notice"
+                  ],
+                  "additionalProperties": false
+                },
+                "rightsReview": {
+                  "type": "object",
+                  "properties": {
+                    "checkedAt": {
+                      "type": "string"
+                    },
+                    "sources": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "pattern": "^https://[^\\s]+$"
+                      }
+                    },
+                    "note": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "checkedAt",
+                    "sources",
+                    "note"
+                  ],
+                  "additionalProperties": false
+                },
+                "hostingBasis": {
+                  "type": "object",
+                  "properties": {
+                    "policy": {
+                      "type": "string",
+                      "enum": [
+                        "explicit-license",
+                        "no-explicit-prohibition"
+                      ]
+                    },
+                    "checkedAt": {
+                      "type": "string"
+                    },
+                    "evidenceUrl": {
+                      "type": "string",
+                      "pattern": "^https://[^\\s]+$"
+                    },
+                    "attribution": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "policy",
+                    "checkedAt",
+                    "evidenceUrl",
+                    "attribution"
+                  ],
+                  "additionalProperties": false
+                },
+                "delivery": {
+                  "type": "object",
+                  "properties": {
+                    "kind": {
+                      "type": "string",
+                      "enum": [
+                        "licensed-bundle",
+                        "source-bundle",
+                        "original"
+                      ]
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "format": {
+                      "type": "string"
+                    },
+                    "sha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "bytes": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "includes": {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    }
+                  },
+                  "required": [
+                    "format",
+                    "sha256",
+                    "bytes",
+                    "includes"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "format",
+                "purpose",
+                "url",
+                "availability",
+                "redistribution"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "standards": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "standardNote": {
+            "type": "string"
+          },
+          "fileClasses": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "configurationNote": {
+            "type": "string"
+          },
+          "canonicalUrl": {
+            "type": "string",
+            "pattern": "^https://[^\\s]+$"
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "manufacturer",
+          "category",
+          "description",
+          "equipment",
+          "keywords",
+          "markets",
+          "marketNote",
+          "kind",
+          "sourceUrl",
+          "officialEvidenceUrl",
+          "sourcePublisher",
+          "formats",
+          "availability",
+          "accessNote",
+          "checkedAt",
+          "files",
+          "fileClasses",
+          "canonicalUrl"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "canonical",
+    "scope",
+    "query",
+    "total",
+    "page",
+    "limit",
+    "returned",
+    "equipment"
+  ],
+  "additionalProperties": false
+}

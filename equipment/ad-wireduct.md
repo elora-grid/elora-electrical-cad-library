@@ -1,0 +1,489 @@
+# AutomationDirect — Wire Duct CAD package
+
+Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/ad-wireduct) · [Official manufacturer source](https://support.automationdirect.com/docs/drawings.html)
+
+- Category: Cable management
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG
+- Discovery markets: US, Global
+- Access: direct
+- Checked: 2026-10-13T05:24:41.677487+00:00
+
+Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
+US and Canada supplier catalogue; globally discoverable. Regional suitability must be verified for exact part.
+Archive spans multiple parts; no assembly or product compatibility inferred.
+
+## Files
+
+### wireduct.zip
+
+- Format: ZIP
+- Purpose: Product-family CAD archive (DWG)
+- [Official source](https://ftp.automationdirect.com/support/drawings/wireduct.zip)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: b8c7cf9f74ad957337812fc4939962a8e2a3b5cba7eddce13ea1c0b6c9c9eab3
+- Original bytes: 57965651
+- Revision: Not recorded
+- Retrieved: 2026-10-13T05:24:41.677487+00:00
+- Rights review: The drawing page limits the documents to exclusive use by AutomationDirect customers.
+- [Rights evidence](https://support.automationdirect.com/docs/drawings.html)
+
+<details>
+<summary>Archive members</summary>
+
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-1515.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-1515.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-1522.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-1522.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-1530.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-1530.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2215.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2215.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2222.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2222.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2230.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2230.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2240.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-2240.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-3022.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-3022.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-3030.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-3030.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-3040.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-3040.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-4022.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-4022.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-4030.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-4030.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-4040.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-4040.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-6040.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\CL-6040.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\R4.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\R4.PDF
+- Enclosures and Wiring\\Wire Duct\\Accessories\\R6.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\R6.PDF
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-15E-1.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-15E-1.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-15E.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-15E.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-22E-1.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-22E-1.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-22E.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-22E.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-30E-1.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-30E-1.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-30E.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\SEP-30E.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\ZP1.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\ZP1.pdf
+- Enclosures and Wiring\\Wire Duct\\Accessories\\ZP2.DWG
+- Enclosures and Wiring\\Wire Duct\\Accessories\\ZP2.pdf
+- Enclosures and Wiring\\Wire Duct\\DINOSAUR Flexible Duct\\DN25AG.dwg
+- Enclosures and Wiring\\Wire Duct\\DINOSAUR Flexible Duct\\DN25AG.pdf
+- Enclosures and Wiring\\Wire Duct\\DINOSAUR Flexible Duct\\DN35AG.dwg
+- Enclosures and Wiring\\Wire Duct\\DINOSAUR Flexible Duct\\DN35AG.pdf
+- Enclosures and Wiring\\Wire Duct\\DINOSAUR Flexible Duct\\DN45AG.dwg
+- Enclosures and Wiring\\Wire Duct\\DINOSAUR Flexible Duct\\DN45AG.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0506G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0506G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0506G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0506G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0510G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0510G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0510G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-0510G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1010W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1015W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1022W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1030W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1040W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1515W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1522W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1530W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-1540W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2215B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2215B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2215G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2215G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2215G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2215G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2222W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2230W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-2240W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3015G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3015G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3015G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3022W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3030W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3040W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-3050W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4015G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4015G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4015G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4022W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4030W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040B-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040B-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4040W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050K-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050K-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-4050W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1 Series\\T1-6040W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1015W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1022G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1022G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1022G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1022G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1022W-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1022W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1030W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1515W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1522W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1530W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-1540W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2215G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2215G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2215G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2215G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2222W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2230W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-2240W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3015G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3015G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3015G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3022W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3030W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-3040W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4015G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4015G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4015G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4022G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4022G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4022G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4022G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030W-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030W.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4030W.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4040G-1.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4040G.dwg
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4040G.pdf
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4040W-1.DWG
+- Enclosures and Wiring\\Wire Duct\\T1E Series\\T1E-4040W-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-0506G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-0506G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-0506G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-0506G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1010G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1010G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1010G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1010G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1015G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1015G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1015G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1015G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1515G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1515G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1515G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-1515G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2222G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2222G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2222G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2222G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2230G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2230G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2230G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-2230G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-3030G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-3030G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-3030G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-3030G.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-4040G-1.DWG
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-4040G-1.pdf
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-4040G.dwg
+- Enclosures and Wiring\\Wire Duct\\TSH Series\\TSH-4040G.pdf
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

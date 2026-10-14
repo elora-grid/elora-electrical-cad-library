@@ -1,0 +1,1358 @@
+# Terasaki — TemBreak 1 MCCB legacy CAD collection
+
+Official Australian supplier family CAD packages. Source product is marked no longer available; retained for retrofit design.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/nhp-terasaki-tembreak1) · [Official manufacturer source](https://www.nhp.com.au/product/tl1250ne12503fc)
+
+- Category: Breakers & accessories
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG, STP, STEP
+- Discovery markets: AU, Global
+- Access: direct
+- Checked: 2026-10-13T05:27:16.593583+00:00
+
+Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
+Australian NHP official source; verify exact variant and replacement availability.
+Legacy package covers multiple family products; match drawing to exact part.
+
+## Files
+
+### Tembreak-1-MCCB-XS2000-XS2500-XS3200-3D-CAD-Blocks-STP-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Terasaki product family CAD (STP)
+- [Official source](https://www.nhp.com.au/public/assets/pim/Original/10027/Tembreak-1-MCCB-XS2000-XS2500-XS3200-3D-CAD-Blocks-STP-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/nhp-terasaki-tembreak1/nhp-terasaki-tembreak1-0)
+- Redistribution: unknown
+- Original SHA-256: 8346db7f31a47b3534a7b2cdfa5260f9e7087e848d41f1e49d6b0fb01f820803
+- Original bytes: 698440
+- Revision: Not recorded
+- Retrieved: 2026-10-13T05:27:16.593583+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhp.com.au/product/tl1250ne12503fc)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted. Linked sale/supply terms discuss drawings supplied under a contract; their application to publicly downloadable CAD is unclear.
+- [Rights evidence](https://www.nhp.com.au/product/tl1250ne12503fc)
+- [Rights evidence](https://www.nhp.com.au/)
+- [Rights evidence](https://www.nhp.com.au/Terms-and-Conditions)
+- [Rights evidence](https://www.nhp.com.au/Disclaimer)
+- Delivery: original; ZIP; 698440 bytes
+- Delivery SHA-256: 8346db7f31a47b3534a7b2cdfa5260f9e7087e848d41f1e49d6b0fb01f820803
+
+<details>
+<summary>Archive members</summary>
+
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE3D.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE3F.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE3P.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE3R.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE4D.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE4F.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE4P.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2000NE XS2000NN/XS2000NE4R.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2500NE XS2500NN XS3200NE/
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2500NE XS2500NN XS3200NE/XS2500NE3P.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2500NE XS2500NN XS3200NE/XS2500NE3R.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2500NE XS2500NN XS3200NE/XS2500NE4P.stp
+- Tembreak1\_MCCB\_2000\_to\_3200Amp-3D.STP/Terasaki MCCB 2000 to 3200 Amp 3D/Terasaki XS2500NE XS2500NN XS3200NE/XS2500NE4R.stp
+
+</details>
+
+### Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Terasaki product family CAD (DWG)
+- [Official source](https://www.nhp.com.au/public/assets/pim/Original/10028/Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/nhp-terasaki-tembreak1/nhp-terasaki-tembreak1-1)
+- Redistribution: unknown
+- Original SHA-256: a300645966ff7c6a2f99f211e8516c11c769fdd821cf08b2835b0f59cfde8ed6
+- Original bytes: 11250128
+- Revision: Not recorded
+- Retrieved: 2026-10-13T05:27:16.593583+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhp.com.au/product/tl1250ne12503fc)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted. Linked sale/supply terms discuss drawings supplied under a contract; their application to publicly downloadable CAD is unclear.
+- [Rights evidence](https://www.nhp.com.au/product/tl1250ne12503fc)
+- [Rights evidence](https://www.nhp.com.au/)
+- [Rights evidence](https://www.nhp.com.au/Terms-and-Conditions)
+- [Rights evidence](https://www.nhp.com.au/Disclaimer)
+- Delivery: original; ZIP; 11250128 bytes
+- Delivery SHA-256: a300645966ff7c6a2f99f211e8516c11c769fdd821cf08b2835b0f59cfde8ed6
+
+<details>
+<summary>Archive members</summary>
+
+- Tembreak 1/
+- Tembreak 1/BTS/
+- Tembreak 1/BTS/BTS WITH XMD/
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P3P-LH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P3P-RH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P4P-LH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P4P-RH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1250\_1250-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P3P-LH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P3P-RH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P4P-LH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P4P-RH-Side.dwg
+- Tembreak 1/BTS/BTS WITH XMD/BTS-1600\_1600-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P3P-LH-Side.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P3P-RH-Side.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P4P-LH-Side.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P4P-RH-Side.dwg
+- Tembreak 1/BTS/BTS-1250\_1250-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-125\_125-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-125\_125-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-125\_125-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-125\_125-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-125\_125-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-125\_125-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-125\_125-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-125\_125-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-125\_125-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-125\_125-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-125\_125-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-125\_125-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-125\_125-LH-Side.dwg
+- Tembreak 1/BTS/BTS-125\_125-RH-Side.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P3P-LH-Side.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P3P-RH-Side.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P4P-LH-Side.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P4P-RH-Side.dwg
+- Tembreak 1/BTS/BTS-1600\_1600-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-LH-Side.dwg
+- Tembreak 1/BTS/BTS-2000\_2000-RH-Side.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-LH-Side.dwg
+- Tembreak 1/BTS/BTS-2500\_2500-RH-Side.dwg
+- Tembreak 1/BTS/BTS-250\_250-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-250\_250-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-250\_250-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-250\_250-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-250\_250-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-250\_250-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-250\_250-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-250\_250-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-250\_250-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-250\_250-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-250\_250-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-250\_250-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-250\_250-LH-Side.dwg
+- Tembreak 1/BTS/BTS-250\_250-RH-Side.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-LHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-LHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-LHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-RHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-RHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-RHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-LHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-LHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-LHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-RHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-RHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-RHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-LHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-LHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-LHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-RHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-RHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-RHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-LHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-LHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-LHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-RHclsbb-bottom.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-RHclsbb-front.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-RHclsbb-side.dwg
+- Tembreak 1/BTS/BTS-400\_400-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-400\_400-LH-Side.dwg
+- Tembreak 1/BTS/BTS-400\_400-RH-Side.dwg
+- Tembreak 1/BTS/BTS-600\_600-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-600\_600-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-600\_600-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-600\_600-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-600\_600-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-600\_600-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-600\_600-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-600\_600-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-600\_600-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-600\_600-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-600\_600-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-600\_600-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-600\_600-LH-Side.dwg
+- Tembreak 1/BTS/BTS-600\_600-RH-Side.dwg
+- Tembreak 1/BTS/BTS-800\_800-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-800\_800-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-800\_800-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-800\_800-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-800\_800-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-800\_800-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-800\_800-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-800\_800-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-800\_800-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-800\_800-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-800\_800-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-800\_800-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-800\_800-LH-Side.dwg
+- Tembreak 1/BTS/BTS-800\_800-RH-Side.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-3P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-3P3P-Front.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-3P3P-Top.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-3P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-3P4P-Front.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-3P4P-Top.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-4P3P-Bottom.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-4P3P-Front.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-4P3P-Top.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-4P4P-Bottom.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-4P4P-Front.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-4P4P-Top.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-LH-Side.dwg
+- Tembreak 1/BTS/BTS-XH250\_XH250-RH-Side.dwg
+- Tembreak 1/MCCB/
+- Tembreak 1/MCCB/plot.log
+- Tembreak 1/MCCB/TL1250-3p-bottom.DWG
+- Tembreak 1/MCCB/TL1250-3p-front.DWG
+- Tembreak 1/MCCB/TL1250-3p-side.DWG
+- Tembreak 1/MCCB/TL1250-3p-top.DWG
+- Tembreak 1/MCCB/TL1250-4p-bottom.DWG
+- Tembreak 1/MCCB/TL1250-4p-front.DWG
+- Tembreak 1/MCCB/TL1250-4p-side.DWG
+- Tembreak 1/MCCB/TL1250-4p-top.DWG
+- Tembreak 1/MCCB/TL250NJ-3p-bottom.DWG
+- Tembreak 1/MCCB/TL250NJ-3p-front.DWG
+- Tembreak 1/MCCB/TL250NJ-3p-side.DWG
+- Tembreak 1/MCCB/TL250NJ-3p-top.DWG
+- Tembreak 1/MCCB/TL250NJ-4p-bottom.DWG
+- Tembreak 1/MCCB/TL250NJ-4p-front.DWG
+- Tembreak 1/MCCB/TL250NJ-4p-side.DWG
+- Tembreak 1/MCCB/TL250NJ-4p-top.DWG
+- Tembreak 1/MCCB/TL400NE-3p-bottom.DWG
+- Tembreak 1/MCCB/TL400NE-3p-front.DWG
+- Tembreak 1/MCCB/TL400NE-3p-side.DWG
+- Tembreak 1/MCCB/TL400NE-3p-top.DWG
+- Tembreak 1/MCCB/TL400NE-4p-bottom.DWG
+- Tembreak 1/MCCB/TL400NE-4p-front.DWG
+- Tembreak 1/MCCB/TL400NE-4p-side.DWG
+- Tembreak 1/MCCB/TL400NE-4p-top.DWG
+- Tembreak 1/MCCB/TL630-3p-bottom.DWG
+- Tembreak 1/MCCB/TL630-3p-front.DWG
+- Tembreak 1/MCCB/TL630-3p-side.DWG
+- Tembreak 1/MCCB/TL630-3p-top.DWG
+- Tembreak 1/MCCB/TL630-4p-bottom.DWG
+- Tembreak 1/MCCB/TL630-4p-front.DWG
+- Tembreak 1/MCCB/TL630-4p-side.DWG
+- Tembreak 1/MCCB/TL630-4p-top.DWG
+- Tembreak 1/MCCB/TL800-3p-bottom.DWG
+- Tembreak 1/MCCB/TL800-3p-front.DWG
+- Tembreak 1/MCCB/TL800-3p-side.DWG
+- Tembreak 1/MCCB/TL800-3p-top.DWG
+- Tembreak 1/MCCB/TL800-4p-bottom.DWG
+- Tembreak 1/MCCB/TL800-4p-front.DWG
+- Tembreak 1/MCCB/TL800-4p-side.DWG
+- Tembreak 1/MCCB/TL800-4p-top.DWG
+- Tembreak 1/MCCB/XH125NJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XH125NJ-3p-front.DWG
+- Tembreak 1/MCCB/XH125NJ-3p-side.DWG
+- Tembreak 1/MCCB/XH125NJ-3p-top.DWG
+- Tembreak 1/MCCB/XH125NJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XH125NJ-4p-front.DWG
+- Tembreak 1/MCCB/XH125NJ-4p-side.DWG
+- Tembreak 1/MCCB/XH125NJ-4p-top.DWG
+- Tembreak 1/MCCB/XH125PJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XH125PJ-3p-front.DWG
+- Tembreak 1/MCCB/XH125PJ-3p-side.DWG
+- Tembreak 1/MCCB/XH125PJ-3p-top.DWG
+- Tembreak 1/MCCB/XH125PJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XH125PJ-4p-front.DWG
+- Tembreak 1/MCCB/XH125PJ-4p-side.DWG
+- Tembreak 1/MCCB/XH125PJ-4p-top.DWG
+- Tembreak 1/MCCB/XH160PJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XH160PJ-3p-front.DWG
+- Tembreak 1/MCCB/XH160PJ-3p-side.DWG
+- Tembreak 1/MCCB/XH160PJ-3p-top.DWG
+- Tembreak 1/MCCB/XH160PJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XH160PJ-4p-front.DWG
+- Tembreak 1/MCCB/XH160PJ-4p-side.DWG
+- Tembreak 1/MCCB/XH160PJ-4p-top.DWG
+- Tembreak 1/MCCB/XH250NJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XH250NJ-3p-front.DWG
+- Tembreak 1/MCCB/XH250NJ-3p-side.DWG
+- Tembreak 1/MCCB/XH250NJ-3p-top.DWG
+- Tembreak 1/MCCB/XH250NJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XH250NJ-4p-front.DWG
+- Tembreak 1/MCCB/XH250NJ-4p-side.DWG
+- Tembreak 1/MCCB/XH250NJ-4p-top.DWG
+- Tembreak 1/MCCB/XH250PJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XH250PJ-3p-front.DWG
+- Tembreak 1/MCCB/XH250PJ-3p-side.DWG
+- Tembreak 1/MCCB/XH250PJ-3p-top.DWG
+- Tembreak 1/MCCB/XH250PJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XH250PJ-4p-front.DWG
+- Tembreak 1/MCCB/XH250PJ-4p-side.DWG
+- Tembreak 1/MCCB/XH250PJ-4p-top.DWG
+- Tembreak 1/MCCB/XH400-3p-bottom.DWG
+- Tembreak 1/MCCB/XH400-3p-front.DWG
+- Tembreak 1/MCCB/XH400-3p-side.DWG
+- Tembreak 1/MCCB/XH400-3p-top.DWG
+- Tembreak 1/MCCB/XH400-4p-bottom.DWG
+- Tembreak 1/MCCB/XH400-4p-front.DWG
+- Tembreak 1/MCCB/XH400-4p-side.DWG
+- Tembreak 1/MCCB/XH400-4p-top.DWG
+- Tembreak 1/MCCB/XH630-3p-bottom.DWG
+- Tembreak 1/MCCB/XH630-3p-front.DWG
+- Tembreak 1/MCCB/XH630-3p-side.DWG
+- Tembreak 1/MCCB/XH630-3p-top.DWG
+- Tembreak 1/MCCB/XH630-4p-bottom.DWG
+- Tembreak 1/MCCB/XH630-4p-front.DWG
+- Tembreak 1/MCCB/XH630-4p-side.DWG
+- Tembreak 1/MCCB/XH630-4p-top.DWG
+- Tembreak 1/MCCB/XH800-3p-bottom.DWG
+- Tembreak 1/MCCB/XH800-3p-front.DWG
+- Tembreak 1/MCCB/XH800-3p-side.DWG
+- Tembreak 1/MCCB/XH800-3p-top.DWG
+- Tembreak 1/MCCB/XH800-4p-bottom.DWG
+- Tembreak 1/MCCB/XH800-4p-front.DWG
+- Tembreak 1/MCCB/XH800-4p-side.DWG
+- Tembreak 1/MCCB/XH800-4p-top.DWG
+- Tembreak 1/MCCB/XM30PB-3p-bottom.DWG
+- Tembreak 1/MCCB/XM30PB-3p-front.DWG
+- Tembreak 1/MCCB/XM30PB-3p-side.DWG
+- Tembreak 1/MCCB/XM30PB-3p-top.DWG
+- Tembreak 1/MCCB/XM30PB-3pRC-bottom.DWG
+- Tembreak 1/MCCB/XM30PB-3pRC-front.DWG
+- Tembreak 1/MCCB/XM30PB-3pRC-side.DWG
+- Tembreak 1/MCCB/XM30PB-3pRC-top.DWG
+- Tembreak 1/MCCB/XS1250-3p-bottom.DWG
+- Tembreak 1/MCCB/XS1250-3p-front.DWG
+- Tembreak 1/MCCB/XS1250-3p-side.DWG
+- Tembreak 1/MCCB/XS1250-3p-top.DWG
+- Tembreak 1/MCCB/XS1250-4p-bottom.DWG
+- Tembreak 1/MCCB/XS1250-4p-front.DWG
+- Tembreak 1/MCCB/XS1250-4p-side.DWG
+- Tembreak 1/MCCB/XS1250-4p-top.DWG
+- Tembreak 1/MCCB/XS125CJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XS125CJ-3p-front.DWG
+- Tembreak 1/MCCB/XS125CJ-3p-side.DWG
+- Tembreak 1/MCCB/XS125CJ-3p-top.DWG
+- Tembreak 1/MCCB/XS125CJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XS125CJ-4p-front.DWG
+- Tembreak 1/MCCB/XS125CJ-4p-side.DWG
+- Tembreak 1/MCCB/XS125CJ-4p-top.DWG
+- Tembreak 1/MCCB/XS125CS-1p-bottom.DWG
+- Tembreak 1/MCCB/XS125CS-1p-front.DWG
+- Tembreak 1/MCCB/XS125CS-1p-side.DWG
+- Tembreak 1/MCCB/XS125CS-1p-top.DWG
+- Tembreak 1/MCCB/XS125NJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XS125NJ-3p-front.DWG
+- Tembreak 1/MCCB/XS125NJ-3p-side.DWG
+- Tembreak 1/MCCB/XS125NJ-3p-top.DWG
+- Tembreak 1/MCCB/XS125NJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XS125NJ-4p-front.DWG
+- Tembreak 1/MCCB/XS125NJ-4p-side.DWG
+- Tembreak 1/MCCB/XS125NJ-4p-top.DWG
+- Tembreak 1/MCCB/XS125NS-1p-bottom.DWG
+- Tembreak 1/MCCB/XS125NS-1p-front.DWG
+- Tembreak 1/MCCB/XS125NS-1p-side.DWG
+- Tembreak 1/MCCB/XS125NS-1p-top.DWG
+- Tembreak 1/MCCB/XS1600-3p-bottom.DWG
+- Tembreak 1/MCCB/XS1600-3p-front.DWG
+- Tembreak 1/MCCB/XS1600-3p-side.DWG
+- Tembreak 1/MCCB/XS1600-3p-top.DWG
+- Tembreak 1/MCCB/XS1600-4p-bottom.DWG
+- Tembreak 1/MCCB/XS1600-4p-front.DWG
+- Tembreak 1/MCCB/XS1600-4p-side.DWG
+- Tembreak 1/MCCB/XS1600-4p-top.DWG
+- Tembreak 1/MCCB/XS2000-3p-bottom.DWG
+- Tembreak 1/MCCB/XS2000-3p-front.DWG
+- Tembreak 1/MCCB/XS2000-3p-side.DWG
+- Tembreak 1/MCCB/XS2000-3p-top.DWG
+- Tembreak 1/MCCB/XS2000-4p-bottom.DWG
+- Tembreak 1/MCCB/XS2000-4p-front.DWG
+- Tembreak 1/MCCB/XS2000-4p-side.DWG
+- Tembreak 1/MCCB/XS2000-4p-top.DWG
+- Tembreak 1/MCCB/XS2500-3p-bottom.DWG
+- Tembreak 1/MCCB/XS2500-3p-front.DWG
+- Tembreak 1/MCCB/XS2500-3p-side.DWG
+- Tembreak 1/MCCB/XS2500-3p-top.DWG
+- Tembreak 1/MCCB/XS2500-4p-bottom.DWG
+- Tembreak 1/MCCB/XS2500-4p-front.DWG
+- Tembreak 1/MCCB/XS2500-4p-side.DWG
+- Tembreak 1/MCCB/XS2500-4p-top.DWG
+- Tembreak 1/MCCB/XS250NJ-3p-bottom.DWG
+- Tembreak 1/MCCB/XS250NJ-3p-front.DWG
+- Tembreak 1/MCCB/XS250NJ-3p-side.DWG
+- Tembreak 1/MCCB/XS250NJ-3p-top.DWG
+- Tembreak 1/MCCB/XS250NJ-4p-bottom.DWG
+- Tembreak 1/MCCB/XS250NJ-4p-front.DWG
+- Tembreak 1/MCCB/XS250NJ-4p-side.DWG
+- Tembreak 1/MCCB/XS250NJ-4p-top.DWG
+- Tembreak 1/MCCB/XS400-3p-bottom.DWG
+- Tembreak 1/MCCB/XS400-3p-front.DWG
+- Tembreak 1/MCCB/XS400-3p-side.DWG
+- Tembreak 1/MCCB/XS400-3p-top.DWG
+- Tembreak 1/MCCB/XS400-4p-bottom.DWG
+- Tembreak 1/MCCB/XS400-4p-front.DWG
+- Tembreak 1/MCCB/XS400-4p-side.DWG
+- Tembreak 1/MCCB/XS400-4p-top.DWG
+- Tembreak 1/MCCB/XS630-3p-bottom.DWG
+- Tembreak 1/MCCB/XS630-3p-front.DWG
+- Tembreak 1/MCCB/XS630-3p-side.DWG
+- Tembreak 1/MCCB/XS630-3p-top.DWG
+- Tembreak 1/MCCB/XS630-4p-bottom.DWG
+- Tembreak 1/MCCB/XS630-4p-front.DWG
+- Tembreak 1/MCCB/XS630-4p-side.DWG
+- Tembreak 1/MCCB/XS630-4p-top.DWG
+- Tembreak 1/MCCB/XS800-3p-bottom.DWG
+- Tembreak 1/MCCB/XS800-3p-front.DWG
+- Tembreak 1/MCCB/XS800-3p-side.DWG
+- Tembreak 1/MCCB/XS800-3p-top.DWG
+- Tembreak 1/MCCB/XS800-4p-bottom.DWG
+- Tembreak 1/MCCB/XS800-4p-front.DWG
+- Tembreak 1/MCCB/XS800-4p-side.DWG
+- Tembreak 1/MCCB/XS800-4p-top.DWG
+- Tembreak 1/MCCB/XV1250-3p-bottom.DWG
+- Tembreak 1/MCCB/XV1250-3p-front.DWG
+- Tembreak 1/MCCB/XV1250-3p-side.DWG
+- Tembreak 1/MCCB/XV1250-3p-top.DWG
+- Tembreak 1/MCCB/XV1250-4p-bottom.DWG
+- Tembreak 1/MCCB/XV1250-4p-front.DWG
+- Tembreak 1/MCCB/XV1250-4p-side.DWG
+- Tembreak 1/MCCB/XV1250-4p-top.DWG
+- Tembreak 1/MCCB/XV400-3p-bottom.DWG
+- Tembreak 1/MCCB/XV400-3p-front.DWG
+- Tembreak 1/MCCB/XV400-3p-side.DWG
+- Tembreak 1/MCCB/XV400-3p-top.DWG
+- Tembreak 1/MCCB/XV400-4p-bottom.DWG
+- Tembreak 1/MCCB/XV400-4p-front.DWG
+- Tembreak 1/MCCB/XV400-4p-side.DWG
+- Tembreak 1/MCCB/XV400-4p-top.DWG
+- Tembreak 1/Motor Operated/
+- Tembreak 1/Motor Operated/MOTOR-XE225NS-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE225NS-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE225NS-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE225NS-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE225NS-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE400NS-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE400NS-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE400NS-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE400NS-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE600NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE600NS-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE600NS-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XE600NS-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH125NJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH160NJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NH-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250NS-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH250PE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH400NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH630NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XH800NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1250NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125CJ\_CS-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS125NJ\_NS-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS1600NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NH-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS160NJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2000NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2000NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2000NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2000NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2000NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2000NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS200ONE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS2500NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250NJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250PJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250PJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250PJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250PJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250PJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS250PJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400CJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS400NJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS600CJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630CJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS630NJ-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NE-Side.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-3P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-3P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-4P-Front.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-4P-Top.dwg
+- Tembreak 1/Motor Operated/MOTOR-XS800NJ-Side.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1250NE-Side.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-3P-Bottom.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-3P-Front.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-3P-Top.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-4P-Bottom.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-4P-Front.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-4P-Top.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/MOTOR XMD-XS1600NE-Side.dwg
+- Tembreak 1/Motor Operated/XS1250-1600 XMD/plot.log
+- Tembreak 1/MTS/
+- Tembreak 1/MTS/MTS-1250\_1250-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P3P-LH-Side.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P3P-RH-Side.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P4P-LH-Side.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P4P-RH-Side.dwg
+- Tembreak 1/MTS/MTS-1250\_1250-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-125\_125-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-125\_125-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-125\_125-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-125\_125-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-125\_125-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-125\_125-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-125\_125-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-125\_125-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-125\_125-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-125\_125-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-125\_125-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-125\_125-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-125\_125-LH-Side.dwg
+- Tembreak 1/MTS/MTS-125\_125-RH-Side.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P3P-LH-Side.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P3P-RH-Side.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P4P-LH-Side.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P4P-RH-Side.dwg
+- Tembreak 1/MTS/MTS-1600\_1600-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-LH-Side.dwg
+- Tembreak 1/MTS/MTS-2000\_2000-RH-Side.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-LH-Side.dwg
+- Tembreak 1/MTS/MTS-2500\_2500-RH-Side.dwg
+- Tembreak 1/MTS/MTS-250\_250-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-250\_250-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-250\_250-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-250\_250-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-250\_250-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-250\_250-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-250\_250-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-250\_250-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-250\_250-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-250\_250-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-250\_250-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-250\_250-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-250\_250-LH-Side.dwg
+- Tembreak 1/MTS/MTS-250\_250-RH-Side.dwg
+- Tembreak 1/MTS/MTS-400\_400-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-400\_400-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-400\_400-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-400\_400-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-400\_400-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-400\_400-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-400\_400-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-400\_400-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-400\_400-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-400\_400-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-400\_400-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-400\_400-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-400\_400-LH-Side.dwg
+- Tembreak 1/MTS/MTS-400\_400-RH-Side.dwg
+- Tembreak 1/MTS/MTS-600\_600-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-600\_600-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-600\_600-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-600\_600-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-600\_600-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-600\_600-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-600\_600-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-600\_600-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-600\_600-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-600\_600-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-600\_600-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-600\_600-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-600\_600-LH-Side.dwg
+- Tembreak 1/MTS/MTS-600\_600-RH-Side.dwg
+- Tembreak 1/MTS/MTS-800\_800-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-800\_800-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-800\_800-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-800\_800-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-800\_800-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-800\_800-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-800\_800-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-800\_800-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-800\_800-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-800\_800-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-800\_800-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-800\_800-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-800\_800-LH-Side.dwg
+- Tembreak 1/MTS/MTS-800\_800-RH-Side.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-3P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-3P3P-Front.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-3P3P-Top.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-3P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-3P4P-Front.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-3P4P-Top.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-4P3P-Bottom.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-4P3P-Front.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-4P3P-Top.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-4P4P-Bottom.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-4P4P-Front.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-4P4P-Top.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-LH-Side.dwg
+- Tembreak 1/MTS/MTS-XH250\_XH250-RH-Side.dwg
+- Tembreak 1/MTS/plot.log
+- Tembreak 1/Rear Connect/
+- Tembreak 1/Rear Connect/XE2000NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XE2000NE-3P-RC-Front.dwg
+- Tembreak 1/Rear Connect/XE2000NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XE2000NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XE2000NE-4P-RC-Front.dwg
+- Tembreak 1/Rear Connect/XE2000NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XE2000NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XE225NS-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XE225NS-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XE225NS-RC-Side.dwg
+- Tembreak 1/Rear Connect/XE400NS-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XE400NS-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XE400NS-RC-Side.dwg
+- Tembreak 1/Rear Connect/XE600NS-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XE600NS-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XE600NS-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH125NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH125NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH125NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH125NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH125NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH160NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH160NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH160NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH160NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH160NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH250NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH250NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH250NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH250NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH250NS-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH250PE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH250PE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH250PE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH250PE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH250PE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH400NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH400NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH400NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH400NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH400NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH630NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH630NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH630NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH630NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH630NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XH800NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH800NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH800NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XH800NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XH800NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS1250NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS1250NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS1250NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS1250NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS1250NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS125CJ\_CS-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS125CJ\_CS-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS125CJ\_CS-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS125CJ\_CS-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS125CJ\_CS-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS125NJ\_NS-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS125NJ\_NS-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS125NJ\_NS-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS125NJ\_NS-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS125NJ\_NS-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS1600NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS1600NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS1600NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS1600NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS1600NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS160NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS160NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS160NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS160NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS160NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS2000NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS2000NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS2000NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS2000NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS2000NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS250NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS250NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS250NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS250NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS250NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS250PJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS250PJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS250PJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS250PJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS250PJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS400CE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400CE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400CE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400CE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400CE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS400CJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400CJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400CJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400CJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400CJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS400NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS400NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS400NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS400NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS630CE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630CE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630CE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630CE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630CE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS630CJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630CJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630CJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630CJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630CJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS630NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS630NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS630NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS630NJ-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS800NE-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS800NE-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS800NE-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS800NE-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS800NE-RC-Side.dwg
+- Tembreak 1/Rear Connect/XS800NJ-3P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS800NJ-3P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS800NJ-4P-RC-Bottom.dwg
+- Tembreak 1/Rear Connect/XS800NJ-4P-RC-Top.dwg
+- Tembreak 1/Rear Connect/XS800NJ-RC-Side.dwg
+- Tembreak 1/Terminal Bars/
+- Tembreak 1/Terminal Bars/XE225NS-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XE225NS-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XE225NS-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XE225NS-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XE400NS-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XE400NS-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XE400NS-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XE400NS-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH160NJ-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH250NJ-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XH250PE-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH250PE-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH250PE-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH250PE-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH250PE-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH250PE-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH250PE-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XH400NE-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH400NE-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH400NE-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH400NE-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XH400NE-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XH400NE-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XH400NE-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS160NJ-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS250NJ-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS250PJ-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS400CE-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400CE-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400CE-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400CE-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400CE-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400CE-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400CE-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400CJ-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS400NE-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400NE-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400NE-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400NE-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400NE-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400NE-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400NE-BBAR-Side.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-3P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-3P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-3P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-4P-BBAR-Bottom.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-4P-BBAR-Front.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-4P-BBAR-Top.dwg
+- Tembreak 1/Terminal Bars/XS400NJ-BBAR-Side.dwg
+- Tembreak 1/XFG Handle/
+- Tembreak 1/XFG Handle/XFG-XE225NS-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XE225NS-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XE225NS-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XE400NS-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XE400NS-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XE400NS-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XE600NS-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XE600NS-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XE600NS-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH125NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH125NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH125NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH125NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH125NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH160NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH160NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH160NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH160NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH160NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH250NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH250NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH250NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH250NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH250NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH250PE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH250PE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH250PE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH250PE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH250PE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH400NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH400NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH400NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH400NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH400NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH630NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH630NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH630NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH630NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH630NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XH800NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH800NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH800NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XH800NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XH800NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS1250NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS1250NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS1250NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS1250NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS1250NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS125CJ\_CS-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS125CJ\_CS-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS125CJ\_CS-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS125CJ\_CS-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS125CJ\_CS-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS125NJ\_NS-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS125NJ\_NS-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS125NJ\_NS-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS125NJ\_NS-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS125NJ\_NS-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS1600NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS1600NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS1600NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS1600NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS1600NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS160NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS160NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS160NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS160NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS160NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS250NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS250NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS250NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS250NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS250NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS250PJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS250PJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS250PJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS250PJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS250PJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400CJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS400NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630CJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NJ-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS630NJ-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NE-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NE-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NE-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NE-4P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NE-Side.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NJ-3P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NJ-3P-Front.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NJ-4P-Bottom.dwg
+- Tembreak 1/XFG Handle/XFG-XS800NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/
+- Tembreak 1/XFH Handle/XFH-XE225NS-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XE225NS-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XE225NS-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XE400NS-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XE400NS-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XE400NS-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XE600NS-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XE600NS-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XE600NS-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH125NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH125NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH125NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH125NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH125NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH160NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH160NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH160NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH160NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH160NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH250NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH250NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH250NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH250NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH250NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH250PE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH250PE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH250PE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH250PE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH250PE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH400NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH400NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH400NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH400NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH400NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH630NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH630NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH630NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH630NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH630NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XH800NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH800NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH800NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XH800NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XH800NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS1250NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS1250NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS1250NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS1250NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS1250NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS125CJ\_CS-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS125CJ\_CS-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS125CJ\_CS-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS125CJ\_CS-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS125CJ\_CS-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS125NJ\_NS-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS125NJ\_NS-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS125NJ\_NS-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS125NJ\_NS-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS125NJ\_NS-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS1600NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS1600NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS1600NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS1600NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS1600NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS160NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS160NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS160NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS160NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS160NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS250NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS250NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS250NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS250NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS250NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS250PJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS250PJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS250PJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS250PJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS250PJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400CJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS400NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630CJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS630NJ-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NE-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NE-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NE-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NE-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NE-Side.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NJ-3P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NJ-3P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NJ-4P-Bottom.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NJ-4P-Front.dwg
+- Tembreak 1/XFH Handle/XFH-XS800NJ-Side.dwg
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

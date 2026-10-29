@@ -28,17 +28,16 @@ Archive spans multiple parts; no assembly or product compatibility inferred.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Cable Entry System CAD package?
+## What the equipment does
 
-Cable Entry System CAD package is a CAD resource from AutomationDirect. Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+A cable gland or entry system secures and seals the place where cables enter an enclosure, according to the selected product's design.
 
-For Cable Entry System CAD package, start with cableentry.zip. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use AutomationDirect's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation marshalling cabinet, it provides an organised cable entry through the enclosure wall or gland plate.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
@@ -49,6 +48,7 @@ Available here: ZIP. The original filename is cableentry.zip.
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect cable entry frames](https://eloragrid.ai/objects/ad-cableentry)
 - [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
 - [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

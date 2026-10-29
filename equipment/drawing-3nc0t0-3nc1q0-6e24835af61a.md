@@ -28,17 +28,16 @@ Import the named STEP model to coordinate its shape and location. Fuji’s 2025 
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Fuji Electric resource?
+## What the equipment does
 
-This STEP file represents the grouped Fuji Odyssey contactor models identified as 3NC0T0 and 3NC1Q0. A contactor is an electrically operated switch used in a power-control assembly.
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
 
-For maintenance or replacement planning, a drafter can compare the archived contactor geometry with the actual unit and the proposed replacement.
+In a switchroom, a controller can operate a contactor to start a ventilation fan while separate protective devices deal with overloads and faults.
 
 Import the named STEP model to coordinate its shape and location. Fuji’s 2025 notice lists these basic types in a range discontinued from February 2026, so treat this as a legacy drawing resource. Replacement selection must account for mounting, contacts, coil and associated equipment.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Confirm the installed complete contactor code.
 - Check which of the grouped models the geometry represents.
@@ -48,7 +47,7 @@ Import the named STEP model to coordinate its shape and location. Fuji’s 2025 
 
 No. A replacement can have different mounting or accessory arrangements. Compare the actual replacement documents rather than reusing the legacy envelope unchanged.
 
-- [Fuji Electric official drawing source](https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/cad-data/)
+- [Fuji Electric official source](https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/cad-data/)
 - [Fuji discontinuation and replacement notice](https://americas.fujielectric.com/wp-content/uploads/2025/09/Discontinuation-notice-for-Orange-Line-and-Odyssey-complete-1.pdf)
 
 ## Choosing a file
@@ -63,6 +62,7 @@ Import the named STEP model to coordinate its shape and location. Fuji’s 2025 
 
 ## Equipment references and drawing guides
 
+- [Fuji Electric Orange Line / Odyssey contactors](https://eloragrid.ai/objects/fuji-electric-orange-line-odyssey-contactors)
 - [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
 - [Switchboard](https://eloragrid.ai/objects/switchboard)
 - [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)

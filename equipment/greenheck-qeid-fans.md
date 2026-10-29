@@ -29,17 +29,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is QEID fans?
+## What the equipment does
 
-QEID fans is a CAD resource from Greenheck. Manufacturer ventilation fans drawings; choose exact size/configuration.
+A fan moves air. In an electrical installation it can supply cooler air, exhaust warm air or support another planned ventilation duty.
 
-For QEID fans, start with QEID-3D.dwg. This entry lists 3 file routes in DWG, RFA, ZIP. Match the filename and equipment configuration to your project, then use Greenheck's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom, an exhaust fan can remove warm air produced by switchgear and other equipment.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Greenheck official source](https://www.greenheck.com/resources/drawings/fans)
 
@@ -56,6 +55,7 @@ Available here: ZIP, DWG. The individual filenames above distinguish the supplie
 
 ## Equipment references and drawing guides
 
+- [Greenheck QEID inline fan](https://eloragrid.ai/objects/greenheck-qeid-inline-fan)
 - [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
 - [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

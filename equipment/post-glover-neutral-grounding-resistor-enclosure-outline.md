@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Neutral grounding resistor enclosure outline?
+## What the equipment does
 
-Neutral grounding resistor enclosure outline is a CAD resource from Post Glover. Typical neutral grounding outline and configuration options, PDF reference only.
+A neutral earthing resistor limits current in the designed connection between a system's neutral and earth during an earth fault.
 
-For Neutral grounding resistor enclosure outline, start with NG105-06\_Neutral\_Grounding\_Options.pdf. This entry lists 1 file route in PDF. Match the filename and equipment configuration to your project, then use Post Glover's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid substation, the resistor can limit earth-fault current on the selected generator or transformer neutral connection.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Post Glover official source](https://www.postglover.com/literature-library/)
 
@@ -49,6 +48,7 @@ Available here: PDF. The original filename is NG105-06\_Neutral\_Grounding\_Opti
 
 ## Equipment references and drawing guides
 
+- [Post Glover neutral grounding resistor enclosure](https://eloragrid.ai/objects/post-glover-neutral-grounding-resistor-enclosure-outline)
 - [Transformer envelope](https://eloragrid.ai/objects/transformer-envelope)
 - [Control transformer](https://eloragrid.ai/objects/ga-control-transformer)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

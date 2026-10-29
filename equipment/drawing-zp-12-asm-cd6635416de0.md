@@ -28,17 +28,16 @@ The exact supplied files are ZP 12 asm.STEP, ZP12.dwg. Use STEP for placing the 
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-Original Abtech ZP 12 enclosure drawing files, with STEP and DWG versions grouped on this page.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-For a layout that specifies ZP 12, place its STEP model beside the other equipment and check cover access before committing the mounting position. Use the matching DWG when preparing the panel elevation.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 The exact supplied files are ZP 12 asm.STEP, ZP12.dwg. Use STEP for placing the enclosure in a 3D layout and DWG for a 2D drawing. Keep the manufacturer model suffix when comparing it with another size in the same range.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the ZP 12 size and suffix to the selected Abtech enclosure or accessory.
 - Find ZP 12 asm.STEP in the archive path shown above.
@@ -57,7 +56,7 @@ The geometry helps with placement and mounting coordination. Material, environme
 
 Use the exact archive path printed under each download. A 2D range archive can include other enclosure sizes; a 3D archive can contain the selected assembly. This page keeps the matching model filenames together.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -72,12 +71,13 @@ The exact supplied files are ZP 12 asm.STEP, ZP12.dwg. Use STEP for placing the 
 
 ## Preview
 
-![Abtech Abtech ZP 12 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-zp-12-asm-cd6635416de0/reviewed-1a5e11ab93eca2e9b515?asset=359033ea464672fb58e75f521dc1ccdeefa3c15b120ca059277776fbd0ccb926-aaaad8adffebd7dc&view=thumb&v=7d38a4e0d92365e3)
+![Abtech Abtech ZP 12 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-zp-12-asm-cd6635416de0/reviewed-1a5e11ab93eca2e9b515?asset=359033ea464672fb58e75f521dc1ccdeefa3c15b120ca059277776fbd0ccb926-aaaad8adffebd7dc&view=thumb&v=22e559635542b94f)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-12-asm-cd6635416de0). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [Abtech ZP enclosure](https://eloragrid.ai/objects/uk-abtech-zp)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

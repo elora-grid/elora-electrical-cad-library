@@ -28,17 +28,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DSE8680 wiring CAD?
+## What the equipment does
 
-DSE8680 wiring CAD is a CAD resource from Deep Sea Electronics. Official controller wiring drawing. This describes electrical connections, not a complete generator package or certified switchboard design.
+A bus-tie controller manages the switch joining two sections of an electrical board and checks the conditions for connecting them.
 
-For DSE8680 wiring CAD, start with DSE8680 wiring CAD. This entry lists 1 file route in CAD. Match the filename and equipment configuration to your project, then use Deep Sea Electronics's drawing to check the mounting position, dimensions and connection access it actually documents.
+In microgrid switchgear, it can supervise joining two generator bus sections when the control scheme permits them to operate together.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Deep Sea Electronics official source](https://www.deepseaelectronics.com/genset/load-sharing-synchronising-control-modules/dse8680/downloads)
 
@@ -49,6 +48,7 @@ Available here: CAD. The original filename is DSE8680 wiring CAD.
 
 ## Equipment references and drawing guides
 
+- [DSE8680 generator bus-tie controller](https://eloragrid.ai/objects/uk-dse-dse8680)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

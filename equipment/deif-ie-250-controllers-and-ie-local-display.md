@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is iE 250 controllers and iE local display?
+## What the equipment does
 
-iE 250 controllers and iE local display is a CAD resource from DEIF. Generator controller mounting geometry, MIO options, local display and EPLAN engineering packages.
+A synchronising controller helps generators connect to an AC system and share the load. It checks and adjusts their electrical output before a permitted connection.
 
-For iE 250 controllers and iE local display, start with ie-7-local-display-2d-cad-drawing.dwg. This entry lists 8 file routes in DWG, EPLAN EDZ, STEP, ZIP, EPLAN. Match the filename and equipment configuration to your project, then use DEIF's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid with two generators, the controllers help bring the second generator onto the common supply and divide the demand between them.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [DEIF official source](https://www.deif.com/documentation/ie-250)
 
@@ -49,6 +48,7 @@ Available here: ZIP, DWG. The individual filenames above distinguish the supplie
 
 ## Equipment references and drawing guides
 
+- [DEIF iE 250 controllers](https://eloragrid.ai/objects/deif-ie-250-controllers)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

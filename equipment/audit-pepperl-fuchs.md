@@ -28,17 +28,16 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Pepperl+Fuchs supplier CAD catalogue?
+## What this resource helps you do
 
-Pepperl+Fuchs supplier CAD catalogue is a CAD resource from Pepperl+Fuchs. CADENAS publishes the manufacturer catalogue and a first-party account of its implementation with Pepperl+Fuchs. Manufacturer product exports and access requirements must be checked individually; no exact format or downloaded file asserted.
+This manufacturer resource helps you find drawings or select versions of intrinsic-safety barriers, signal isolators, remote I/O. Use it to locate the matching equipment outline or model for your design.
 
-For Pepperl+Fuchs supplier CAD catalogue, start at Pepperl+Fuchs's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+When planning a microgrid installation, you can use this collection to find the selected intrinsic-safety barriers drawing before reserving its space, mounting points and cable routes in the layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Pepperl+Fuchs official source](https://www.3dfindit.com/en/corporate/news/a-3d-cad-catalogue-is-one-step-in-industry-4-0-3433)
 

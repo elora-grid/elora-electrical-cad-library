@@ -29,17 +29,16 @@ The package contains part DEIF.2916990010.06 and iE 7 macros. Use EPLAN’s supp
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this DEIF resource?
+## What the equipment does
 
-The iE 7 is a local operator display for a base-mounted iE 250 controller. It presents information at the panel while the controller performs its control tasks. This EPLAN resource identifies the display as part 2916990010.06; the archive number 10 does not identify a ten-inch screen.
+A synchronising controller helps generators connect to an AC system and share the load. It checks and adjusts their electrical output before a permitted connection.
 
-An EPLAN user can import the supplied part and macro data when documenting the local display separately from the base-mounted controller.
+In a microgrid with two generators, the controllers help bring the second generator onto the common supply and divide the demand between them.
 
 The package contains part DEIF.2916990010.06 and iE 7 macros. Use EPLAN’s supported import workflow and verify the imported item against the exact equipment. Check connections and installation documents separately; an EDZ package is not an ordinary STEP solid or a complete panel design.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Import the exact EDZ member in a compatible EPLAN environment.
 - Verify iE 7 and part 2916990010.06 after import.
@@ -49,7 +48,7 @@ The package contains part DEIF.2916990010.06 and iE 7 macros. Use EPLAN’s supp
 
 No. The inspected manufacturer part data identifies iE 7 Local Display. Treat the archive number as an identifier and use the internal part information to select the equipment.
 
-- [DEIF official drawing source](https://www.deif.com/documentation/ie-250)
+- [DEIF official source](https://www.deif.com/documentation/ie-250)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ The package contains part DEIF.2916990010.06 and iE 7 macros. Use EPLAN’s supp
 
 ## Equipment references and drawing guides
 
+- [DEIF iE 250 controllers](https://eloragrid.ai/objects/deif-ie-250-controllers)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Power/distribution transformer and compact-MV-substation engineering source?
+## What the equipment does
 
-Power/distribution transformer and compact-MV-substation engineering source is a CAD resource from Wilson Transformer Company. Official Australian manufacturer supplies transformer and compact-MV-substation ranges. Public resources are brochures/engineering publications; exact assembly CAD is missing, and supplier engineering cooperation remains necessary.
+A transformer transfers electrical energy between coils of wire, commonly to change an AC supply from one voltage to another.
 
-For Power/distribution transformer and compact-MV-substation engineering source, start at Wilson Transformer Company's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid substation, a transformer can connect a lower-voltage generator or inverter system to a higher-voltage distribution network.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Wilson Transformer Company official source](https://www.wtc.com.au/your-requirements/products/)
 

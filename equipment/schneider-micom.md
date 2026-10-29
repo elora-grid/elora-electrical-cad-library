@@ -28,17 +28,16 @@ Formats listed at library scope are not guaranteed for every individual product.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is MiCOM protection and test-block CAD drawing collection?
+## What the equipment does
 
-MiCOM protection and test-block CAD drawing collection is a CAD resource from Schneider Electric. Official version 1.1 archive, published 16 September 2022. Package includes an Excel drawing directory and may reference obsolete products. Local retrieval not completed; do not present as downloaded.
+A protection relay watches electrical measurements for faults or abnormal conditions. When its configured rules are met, it can send a command to open a circuit breaker.
 
-For MiCOM protection and test-block CAD drawing collection, start at Schneider Electric's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a substation feeder panel, a relay can detect excessive current and tell the feeder breaker to disconnect the affected circuit.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Schneider Electric official source](https://www.se.com/au/en/download/document/MiCOM-CAD-DRAWINGS/)
 

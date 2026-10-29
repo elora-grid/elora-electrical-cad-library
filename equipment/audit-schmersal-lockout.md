@@ -29,17 +29,16 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is SZ150-1 lockout accessory CAD?
+## What the equipment does
 
-SZ150-1 lockout accessory CAD is a CAD resource from Schmersal. Manufacturer accessory page explicitly links TraceParts, EPLAN and CADENAS CAD data. Compatibility must be checked with the selected interlock.
+An interlock prevents a specified action unless the required conditions are satisfied. Its mechanical or electrical arrangement determines what it supervises.
 
-For SZ150-1 lockout accessory CAD, start at Schmersal's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In switchgear, an interlock can prevent a particular switching operation while the associated equipment is in an incompatible position.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Schmersal official source](https://products.schmersal.com/en_CA/sz150-1-153027887.html)
 

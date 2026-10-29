@@ -28,17 +28,16 @@ Use the official engineering route and the full configured drive code. For detai
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Danfoss resource?
+## What this resource helps you do
 
-A VLT drive controls an electrical motor through the selected conversion and control arrangement. Frame, enclosure, options and accessories can change the cabinet or device geometry needed for a project.
+This manufacturer resource helps you find drawings or select versions of variable frequency drives, VLT drives, drive cabinets. Use it to locate the matching equipment outline or model for your design.
 
-A switchroom design can need the selected drive cabinet’s dimensions and cable entry, while the electrical package needs its configured connection documents.
+When planning a microgrid installation, you can use this collection to find the selected variable frequency drives drawing before reserving its space, mounting points and cable routes in the layout.
 
 Use the official engineering route and the full configured drive code. For detailed planning CAD, request the exact frame, enclosure and options instead of substituting a similar catalogue outline. This source remains a request route: no unverified exact CAD file is presented as an available download.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide the complete configured drive code.
 - State frame, enclosure, accessories and cable-entry requirements.
@@ -48,7 +47,7 @@ Use the official engineering route and the full configured drive code. For detai
 
 No. The team must confirm file availability, manufacturer access conditions and timing for the exact drive configuration.
 
-- [Danfoss official drawing source](https://assets.danfoss.com/documents/276376/AJ361178829224en-000201.pdf)
+- [Danfoss official source](https://assets.danfoss.com/documents/276376/AJ361178829224en-000201.pdf)
 
 ## Choosing a file
 

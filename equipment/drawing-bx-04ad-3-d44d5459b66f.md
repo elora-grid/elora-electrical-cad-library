@@ -29,17 +29,16 @@ Open BX-04AD-3.dwg and check the selected terminal block and channel configurati
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The BX-04AD-3 is a BRX analogue input module whose selected channels can support the documented current or voltage arrangements. It is a different variant from the current-only and voltage-input modules listed nearby.
+An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-A panel can receive different supported analogue signal types while the designer uses the matching module drawing for physical coordination.
+In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
 
 Open BX-04AD-3.dwg and check the selected terminal block and channel configuration in the manufacturer documentation. A universal-input label does not mean arbitrary signals can be connected without configuration or that the adjacent module’s wiring applies unchanged.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Identify each channel’s selected signal type.
 - Reference the correct terminal block and connections.
@@ -49,7 +48,7 @@ Open BX-04AD-3.dwg and check the selected terminal block and channel configurati
 
 No. The supported signal type and its configuration must match the selected field device. Use the actual module instructions to establish each channel’s connections and scaling.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ Open BX-04AD-3.dwg and check the selected terminal block and channel configurati
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect BRX Series PLC](https://eloragrid.ai/objects/automationdirect-brx-series-plc)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

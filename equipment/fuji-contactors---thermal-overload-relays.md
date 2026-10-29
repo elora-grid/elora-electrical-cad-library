@@ -28,17 +28,16 @@ Each archive may cover several variants. Match original drawing title and model 
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Contactors & Thermal Overload Relays CAD collection?
+## What the equipment does
 
-Contactors & Thermal Overload Relays CAD collection is a CAD resource from Fuji Electric. Manufacturer-hosted dimensional drawings and models, grouped by published product family.
+Overload protection responds when a motor is carrying excessive current for too long or heating beyond its configured limit. It can request that the motor is stopped.
 
-For Contactors & Thermal Overload Relays CAD collection, start with SC-M01.DXF.zip. This entry lists 43 file routes in DXF, STEP. Match the filename and equipment configuration to your project, then use Fuji Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom ventilation starter, it can stop a fan motor that is overloaded rather than allowing it to keep overheating.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Fuji Electric official source](https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/cad-data/)
 
@@ -49,6 +48,7 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 
 ## Equipment references and drawing guides
 
+- [Fuji Electric SC contactors and thermal overload relays](https://eloragrid.ai/objects/fuji-electric-sc-contactors-and-thermal-overload-relays)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

@@ -28,17 +28,16 @@ Formats listed at library scope are not guaranteed for every individual product.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Optidrive Eco frame-size CAD packages?
+## What the equipment does
 
-Optidrive Eco frame-size CAD packages is a CAD resource from Invertek Drives. Official resource page lists 15 CAD ZIPs by enclosure/frame size. Direct URL discovery could not be completed in this session; actual internal formats remain unverified.
+A variable-speed drive changes the electrical supply to a motor so its speed can be controlled.
 
-For Optidrive Eco frame-size CAD packages, start at Invertek Drives's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchroom, a ventilation fan drive can increase airflow as the room's cooling demand rises.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Invertek Drives official source](https://www.invertekdrives.com/variable-frequency-drives/optidrive-eco/support-resources)
 

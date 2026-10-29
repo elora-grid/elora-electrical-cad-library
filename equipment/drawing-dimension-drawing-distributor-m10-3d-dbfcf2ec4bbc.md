@@ -28,17 +28,16 @@ Use the M10-labelled STEP file for the matching module arrangement. In Victronâ€
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Victron Energy resource?
+## What the equipment does
 
-The Lynx Distributor is a modular DC distribution assembly with fuse positions and monitoring. This drawing is explicitly labelled for the M10 model.
+A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
 
-A layout can place the distributor beside compatible Lynx equipment, then check how the selected modules join and where cables must enter.
+Inside a switchgear lineup, the incoming breaker can feed busbars that supply the outgoing feeder breakers.
 
 Use the M10-labelled STEP file for the matching module arrangement. In Victronâ€™s documentation, M10 identifies the inter-module busbar joints; it should not be taken to mean every fuse or cable connection is M10. Confirm the exact model and installation documents.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the M10 module and adjoining equipment.
 - Distinguish module joints from cable/fuse connections.
@@ -48,7 +47,7 @@ Use the M10-labelled STEP file for the matching module arrangement. In Victronâ€
 
 No. Victron distinguishes the module-to-module busbar joints from the fuse and cable connections. Use the actual manual and drawing for each interface.
 
-- [Victron Energy official drawing source](https://www.victronenergy.com/dc-distribution-systems/lynx-distributor)
+- [Victron Energy official source](https://www.victronenergy.com/dc-distribution-systems/lynx-distributor)
 - [Lynx Distributor interface explanation](https://www.victronenergy.com/media/pg/Lynx_Distributor/en/introduction.html)
 
 ## Choosing a file
@@ -63,7 +62,7 @@ Use the M10-labelled STEP file for the matching module arrangement. In Victronâ€
 
 ## Preview
 
-![Victron Energy Victron Lynx Distributor M10 STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc/cad-dimension-drawing-distributor-m10-3d-step-be6dd96859a0eb?asset=40597c9e7da8bad6e51e8608a3dc8b838b637f5046f1bc12fddfe0ba275eef51&view=thumb&v=d1c6920af229e3e8)
+![Victron Energy Victron Lynx Distributor M10 STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc/cad-dimension-drawing-distributor-m10-3d-step-be6dd96859a0eb?asset=40597c9e7da8bad6e51e8608a3dc8b838b637f5046f1bc12fddfe0ba275eef51&view=thumb&v=7652c6d756700337)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

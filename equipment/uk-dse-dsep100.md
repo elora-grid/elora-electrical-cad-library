@@ -28,17 +28,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DSEP100 wiring CAD?
+## What the equipment does
 
-DSEP100 wiring CAD is a CAD resource from Deep Sea Electronics. Official controller wiring drawing. This describes electrical connections, not a complete generator package or certified switchboard design.
+A protection relay watches electrical measurements for faults or abnormal conditions. When its configured rules are met, it can send a command to open a circuit breaker.
 
-For DSEP100 wiring CAD, start with DSEP100 wiring CAD. This entry lists 1 file route in CAD. Match the filename and equipment configuration to your project, then use Deep Sea Electronics's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation feeder panel, a relay can detect excessive current and tell the feeder breaker to disconnect the affected circuit.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Deep Sea Electronics official source](https://www.deepseaelectronics.com/genset/mains-utility-protection-relays-power-meters/dsep100/downloads)
 
@@ -49,6 +48,7 @@ Available here: CAD. The original filename is DSEP100 wiring CAD.
 
 ## Equipment references and drawing guides
 
+- [DSEP100 mains decoupling relay](https://eloragrid.ai/objects/uk-dse-dsep100)
 - [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
 - [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Neutral earthing resistors and generator-earthing technical source?
+## What the equipment does
 
-Neutral earthing resistors and generator-earthing technical source is a CAD resource from Cressall. Official page explicitly says its downloadable files are PDF. It covers NER specification, generator earthing and packaged earthing transformers; no editable CAD or account barrier established.
+A neutral earthing resistor limits current in the designed connection between a system's neutral and earth during an earth fault.
 
-For Neutral earthing resistors and generator-earthing technical source, start at Cressall's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid substation, the resistor can limit earth-fault current on the selected generator or transformer neutral connection.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Cressall official source](https://www.cressall.com/free-resistor-technical-data/)
 

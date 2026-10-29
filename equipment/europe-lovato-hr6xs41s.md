@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is HR6XS41S 4-changeover relay socket?
+## What the equipment does
 
-HR6XS41S 4-changeover relay socket is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+A relay socket supports a plug-in relay and provides fixed terminals for its wiring.
 
-For HR6XS41S 4-changeover relay socket, start with 2d\_HR6XS41S.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation alarm panel, it lets the selected relay be replaced while the panel wires stay on the socket.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/HR6XS41S/snp)
 
@@ -50,12 +49,13 @@ Available here: DWG, STP. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![LOVATO Electric HR6XS41S 4-changeover relay socket: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-hr6xs41s/europe-lovato-hr6xs41s-4dcfe92c8825?asset=f280ee14863e94a455ea89d6c757312d508eb5867274975f0e9846261c67290c&view=thumb&v=83713d2ca37cb471)
+![LOVATO Electric HR6XS41S 4-changeover relay socket: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-hr6xs41s/europe-lovato-hr6xs41s-4dcfe92c8825?asset=f280ee14863e94a455ea89d6c757312d508eb5867274975f0e9846261c67290c&view=thumb&v=2b6020d3e1c3a2f6)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-hr6xs41s). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [LOVATO HR6XS41S relay socket](https://eloragrid.ai/objects/europe-lovato-hr6xs41s)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

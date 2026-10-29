@@ -28,17 +28,16 @@ Import the IP65-labelled file and compare it with the equipment being specified.
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Victron Energy resource?
+## What the equipment does
 
-This is the STEP model explicitly labelled SmartShunt 300A IP65. A SmartShunt monitors battery current; this geometry belongs to the identified enclosure version.
+The SmartShunt measures how much current flows into and out of a battery. This helps track charging and use, and estimate how much charge remains.
 
-A designer can check the selected shunt’s placement and cable approach without substituting the separately listed standard-version model.
+In a microgrid battery system, it can show whether the battery is charging from solar generation or supplying the site's loads.
 
 Import the IP65-labelled file and compare it with the equipment being specified. The model’s title identifies the version; the installation manual establishes the wiring and actual environmental-use requirements. A geometric model is not a substitute for that documentation.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the IP65 equipment version and complete product reference.
 - Coordinate cable approach and access.
@@ -48,7 +47,7 @@ Import the IP65-labelled file and compare it with the equipment being specified.
 
 No. It identifies the model resource. The equipment documentation and the actual installation determine what environmental conditions are permitted.
 
-- [Victron Energy official drawing source](https://www.victronenergy.com/battery-monitors/smart-battery-shunt)
+- [Victron Energy official source](https://www.victronenergy.com/battery-monitors/smart-battery-shunt)
 
 ## Choosing a file
 
@@ -62,7 +61,7 @@ Import the IP65-labelled file and compare it with the equipment being specified.
 
 ## Preview
 
-![Victron Energy Victron SmartShunt 300A IP65 STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc/cad-dimension-drawing-smartshunt-300a-ip65-3d-step-7e8c312f2ac521?asset=2b5189d93617152d5e7b584579521c9f00dc772932668f4037008db17365029a&view=thumb&v=fbb8a963257561c0)
+![Victron Energy Victron SmartShunt 300A IP65 STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc/cad-dimension-drawing-smartshunt-300a-ip65-3d-step-7e8c312f2ac521?asset=2b5189d93617152d5e7b584579521c9f00dc772932668f4037008db17365029a&view=thumb&v=88e5c7692c10e75d)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

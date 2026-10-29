@@ -28,17 +28,16 @@ Open Außenlasche.stp inside the original collection. Use it as accessory geomet
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Hensel resource?
+## What the equipment does
 
-Außenlasche means external mounting tab. This small STEP member is a mounting accessory from the Hensel ENYCASE collection, not a complete enclosure or distribution board.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-A designer can place the tab in a cabinet-support arrangement to check its relationship with the selected enclosure and supporting structure.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 Open Außenlasche.stp inside the original collection. Use it as accessory geometry and obtain Hensel’s compatibility and installation information for the intended enclosure. A fit in a 3D layout does not establish a fixing load or permitted installation method.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Identify the compatible enclosure and required quantity.
 - Check orientation and the supporting structure.
@@ -48,7 +47,7 @@ Open Außenlasche.stp inside the original collection. Use it as accessory geomet
 
 No. The archive member represents an external mounting tab. Choose the separately identified enclosure model for the box itself.
 
-- [Hensel official drawing source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
+- [Hensel official source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
 
 ## Choosing a file
 
@@ -62,6 +61,7 @@ Open Außenlasche.stp inside the original collection. Use it as accessory geomet
 
 ## Equipment references and drawing guides
 
+- [Hensel ENYCASE junction boxes](https://eloragrid.ai/objects/europe-hensel-enycase)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

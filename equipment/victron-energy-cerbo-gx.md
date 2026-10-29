@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is Cerbo GX?
+## What the equipment does
 
-Cerbo GX is a CAD resource from Victron Energy. Official Cerbo GX dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+An energy-management controller gathers information about generation, storage and demand so the site's equipment can operate together.
 
-For Cerbo GX, start with DimensionDrawing\_CerboGX-3D.STEP (recorded revision 01). This entry lists 1 file route in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, it can request battery charging when solar generation exceeds demand and request generator support when stored energy is low.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/communication-centres/cerbo-gx)
 
@@ -49,7 +48,7 @@ Available here: STEP. The original filename is DimensionDrawing\_CerboGX-3D.STEP
 
 ## Preview
 
-![Victron Energy Cerbo GX: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-cerbo-gx/victron-energy-dimensiondrawing-cerbogx-3d-step?asset=d1854c9b5e384426863ec1d1aa3b61c820c2ce0f23d447bc55d8b58ccea39ab5&view=thumb&v=c2dc606e95888ca2)
+![Victron Energy Cerbo GX: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-cerbo-gx/victron-energy-dimensiondrawing-cerbogx-3d-step?asset=d1854c9b5e384426863ec1d1aa3b61c820c2ce0f23d447bc55d8b58ccea39ab5&view=thumb&v=47b3c7f4553e4f56)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-cerbo-gx). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

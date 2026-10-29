@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is Quattro?
+## What the equipment does
 
-Quattro is a CAD resource from Victron Energy. Official Quattro dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+An inverter-charger can turn battery electricity into AC power for loads and use an AC supply to recharge the battery.
 
-For Quattro, start with DimensionDrawing-24V8kVA230V-48V8kVA230V-48V10kVA230V-48V5kVA120V-12V5kVA230V-12V5kVA120V-3D.STEP (recorded revision 00). This entry lists 6 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, it can supply AC loads from stored energy, then recharge the battery when the generator is running.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/inverters-chargers/quattro)
 
@@ -49,7 +48,7 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 
 ## Preview
 
-![Victron Energy Quattro: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-quattro/victron-energy-multiplus-quattro-inverter-24v-48v-5000va-step-step?asset=64bc58b0d992e43f59617d4f6da0352a83f15683d0f0fa8e6052a39c5be606b0&view=thumb&v=b867e721317ac031)
+![Victron Energy Quattro: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-quattro/victron-energy-multiplus-quattro-inverter-24v-48v-5000va-step-step?asset=64bc58b0d992e43f59617d4f6da0352a83f15683d0f0fa8e6052a39c5be606b0&view=thumb&v=fdfa29b2616a02b7)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-quattro). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

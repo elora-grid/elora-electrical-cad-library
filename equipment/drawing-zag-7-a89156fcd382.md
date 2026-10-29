@@ -28,17 +28,16 @@ The exact supplied files are Zag 7.STEP, ZAG7.dwg. Use STEP for placing the encl
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-Original Abtech ZAG 7 enclosure drawing files, with STEP and DWG versions grouped on this page.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-For a layout that specifies ZAG 7, place its STEP model beside the other equipment and check cover access before committing the mounting position. Use the matching DWG when preparing the panel elevation.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 The exact supplied files are Zag 7.STEP, ZAG7.dwg. Use STEP for placing the enclosure in a 3D layout and DWG for a 2D drawing. Keep the manufacturer model suffix when comparing it with another size in the same range.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the ZAG 7 size and suffix to the selected Abtech enclosure or accessory.
 - Find Zag 7.STEP in the archive path shown above.
@@ -57,7 +56,7 @@ The geometry helps with placement and mounting coordination. Material, environme
 
 Use the exact archive path printed under each download. A 2D range archive can include other enclosure sizes; a 3D archive can contain the selected assembly. This page keeps the matching model filenames together.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -72,12 +71,13 @@ The exact supplied files are Zag 7.STEP, ZAG7.dwg. Use STEP for placing the encl
 
 ## Preview
 
-![Abtech Abtech ZAG 7 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-zag-7-a89156fcd382/reviewed-db4a9f9a17049d92adc7?asset=096dca112b6e634055b9549560e2f52d97193175a4615880d183ea3b1561679b-d6cbc42248b54e12&view=thumb&v=f198eec978edc9d0)
+![Abtech Abtech ZAG 7 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-zag-7-a89156fcd382/reviewed-db4a9f9a17049d92adc7?asset=096dca112b6e634055b9549560e2f52d97193175a4615880d183ea3b1561679b-d6cbc42248b54e12&view=thumb&v=372158d05cfc4208)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-7-a89156fcd382). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [Abtech ZAG enclosure](https://eloragrid.ai/objects/uk-abtech-zag)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

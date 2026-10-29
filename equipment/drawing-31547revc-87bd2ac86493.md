@@ -29,17 +29,16 @@ The inspected DWG title identifies BPG6-F120 and includes lid, side and section 
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-This manufacturer drawing identifies an Abtech BPG6-F120 enclosure. An enclosure houses and supports electrical connections or equipment; this reference is for the configuration shown in drawing 31547 revision C.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-A designer can compare the enclosure’s views and entry arrangement with an existing installation before requesting a matching current configuration.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 The inspected DWG title identifies BPG6-F120 and includes lid, side and section information. Use those views to coordinate the specific enclosure, not every BPG-family box. Labels in an archived drawing are not independent confirmation of current certification or installation suitability.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match BPG6-F120 and drawing revision C.
 - Check the shown lid, entries and fixing arrangement.
@@ -49,7 +48,7 @@ The inspected DWG title identifies BPG6-F120 and includes lid, side and section 
 
 It is the drawing identifier. The drawing’s equipment identification and the manufacturer’s current ordering information must be used to select the actual enclosure.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -69,6 +68,7 @@ The inspected DWG title identifies BPG6-F120 and includes lid, side and section 
 
 ## Equipment references and drawing guides
 
+- [Abtech BPG enclosure](https://eloragrid.ai/objects/uk-abtech-bpg)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

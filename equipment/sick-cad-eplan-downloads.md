@@ -28,17 +28,16 @@ Search the official CAD download area using the exact product reference or part 
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this SICK resource?
+## What this resource helps you do
 
-SICK equipment includes sensors, encoders, LiDAR and safety-related devices. Mechanical CAD describes physical geometry; EPLAN resources support the selected electrical-documentation workflow. Neither file type makes different product variants interchangeable.
+This manufacturer resource helps you find drawings or select versions of industrial sensors, encoders, safety devices. Use it to locate the matching equipment outline or model for your design.
 
-An engineer can use a sensor STEP model to check placement while importing the matching device data separately into an electrical project.
+When planning a microgrid installation, you can use this collection to find the selected industrial sensors drawing before reserving its space, mounting points and cable routes in the layout.
 
 Search the official CAD download area using the exact product reference or part number. Match any listed STEP/EPLAN resource to that product and revision. For LiDAR or safety-related equipment, also obtain the selected operating and installation documents rather than treating a model as proof of its application suitability.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide the full part number and product variant.
 - Choose mechanical CAD and electrical data according to the task.
@@ -48,7 +47,7 @@ Search the official CAD download area using the exact product reference or part 
 
 No. It supports documentation of the selected device. Installation, configuration and permitted use remain governed by the actual equipment documents.
 
-- [SICK official drawing source](https://www.sick.com/nl/nl/downloads/s/downloads?category=g569837)
+- [SICK official source](https://www.sick.com/nl/nl/downloads/s/downloads?category=g569837)
 
 ## Choosing a file
 

@@ -28,17 +28,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is GEOS and GTi enclosure CAD?
+## What the equipment does
 
-GEOS and GTi enclosure CAD is a CAD resource from Spelsberg. Official product-page 3D CAD requires a mySpelsberg account. Includes industrial enclosures and switchboard systems; membership does not establish public redistribution rights.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-For GEOS and GTi enclosure CAD, start at Spelsberg's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Spelsberg official source](https://www.spelsberg.de/service/downloads/)
 

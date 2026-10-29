@@ -28,17 +28,16 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DELTA IC core-balance CT mechanical-CAD requests?
+## What the equipment does
 
-DELTA IC core-balance CT mechanical-CAD requests is a CAD resource from Socomec. Manufacturer publishes Ask actions for six exact CT CAD references. The family lists seven products, but CAD availability for the 15 mm version is not asserted.
+A residual-current measuring arrangement detects the imbalance between currents that should cancel. That imbalance can indicate current returning along an unintended path.
 
-For DELTA IC core-balance CT mechanical-CAD requests, start at Socomec's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a substation feeder, the measurement can help earth-fault protection detect a fault involving the earthing system.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Socomec official source](https://apac.socomec.com/en/p/closed-core-balance-transformers-type-a)
 

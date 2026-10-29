@@ -28,17 +28,16 @@ This set uses the exact filename stem BTS-2000\_2000-4P4P. Its views are stored 
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Terasaki resource?
+## What the equipment does
 
-BTS-2000 2000-4P4P is a named drawing set in the Terasaki TemBreak 1 legacy CAD archive supplied by NHP. This page brings together its bottom, front, top DWG views so you can select the matching geometry for an existing installation.
+A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
 
-When updating a panel drawing for BTS-2000 2000-4P4P, insert the front DWG for the panel elevation, then compare the bottom and top views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
+In a microgrid switchroom, a transfer assembly can change selected loads from the incoming network to a standby generator when the designed conditions are met.
 
 This set uses the exact filename stem BTS-2000\_2000-4P4P. Its views are stored in Tembreak 1/BTS. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the BTS-2000 2000-4P4P filename stem and all connection suffixes to the existing equipment.
 - Use the bottom, front, top views from this set together; do not substitute a similarly numbered frame.
@@ -57,7 +56,7 @@ This is the archived TemBreak 1 drawing collection. Use it to identify geometry 
 
 Download the original NHP ZIP and extract it. Open the Tembreak 1/BTS folder and match the full filenames shown in the file list above.
 
-- [Terasaki official drawing source](https://www.nhp.com.au/product/tl1250ne12503fc)
+- [Terasaki official source](https://www.nhp.com.au/product/tl1250ne12503fc)
 
 ## Choosing a file
 

@@ -28,17 +28,16 @@ Native project CAD can depend on symbols and footprints in the official reposito
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is emonPi2 energy-monitor hardware and CT expansion?
+## What the equipment does
 
-emonPi2 energy-monitor hardware and CT expansion is a CAD resource from OpenEnergyMonitor. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+An energy meter adds up electrical energy over time, rather than showing only the power being used at one moment. The units identify the type of energy recorded.
 
-For emonPi2 energy-monitor hardware and CT expansion, start with emonPi\_v2.0.0\_CT\_ext.brd (recorded revision cd3fd55c51e7). This entry lists 15 file routes in BRD, SCH. Match the filename and equipment configuration to your project, then use OpenEnergyMonitor's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, a feeder energy meter can record how much energy a process used during a shift.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [OpenEnergyMonitor official source](https://github.com/openenergymonitor/emonpi2)
 
@@ -55,6 +54,7 @@ Available here: BRD, SCH. The individual filenames above distinguish the supplie
 
 ## Equipment references and drawing guides
 
+- [emonPi2 hardware arrangement](https://eloragrid.ai/objects/open-hardware-emonpi2)
 - [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
 - [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

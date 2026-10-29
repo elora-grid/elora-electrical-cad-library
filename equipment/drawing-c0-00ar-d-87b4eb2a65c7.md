@@ -29,17 +29,16 @@ Open C0-00AR-D.dwg from the CLICK archive. Use its physical arrangement for pane
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The C0-00AR-D is a CLICK programmable controller variant with AC inputs and relay outputs. A PLC runs a control program; its input and output types determine how field signals are connected.
+A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-A machine-control panel can place the controller beside its I/O and supply, then document the field connections using the model-specific wiring instructions.
+In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
 
 Open C0-00AR-D.dwg from the CLICK archive. Use its physical arrangement for panel coordination and confirm the complete code before using any terminal or I/O information. It is a different electrical variant from the DC-input, sinking-output model in this pilot.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Confirm C0-00AR-D and the intended I/O types.
 - Coordinate supply, adjacent modules and cable access.
@@ -49,7 +48,7 @@ Open C0-00AR-D.dwg from the CLICK archive. Use its physical arrangement for pane
 
 No. The two controllers have different input/output arrangements. Check the selected model’s electrical documentation even if their bodies look related.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ Open C0-00AR-D.dwg from the CLICK archive. Use its physical arrangement for pane
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect CLICK PLCs](https://eloragrid.ai/objects/automationdirect-click-plcs)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

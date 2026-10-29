@@ -29,17 +29,16 @@ Use C0-00DD1-D.dwg for the physical controller reference. Its DC/sinking-output 
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The C0-00DD1-D is a CLICK controller variant with DC inputs and sinking DC outputs. The PLC reads its selected inputs and runs the programmed control actions.
+A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-A machine-panel layout can locate the controller, power supply and related I/O while leaving the actual field wiring to the matching electrical documentation.
+In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
 
 Use C0-00DD1-D.dwg for the physical controller reference. Its DC/sinking-output arrangement differs from the AC-input, relay-output C0-00AR-D variant. Confirm the complete code, power arrangement and field-device interfaces rather than choosing by a similar outline alone.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the complete DD1-D reference.
 - Check adjacent module, supply and wiring space.
@@ -49,7 +48,7 @@ Use C0-00DD1-D.dwg for the physical controller reference. Its DC/sinking-output 
 
 No general equivalence should be assumed. They have different electrical behaviour and connection requirements, which must follow the selected controller and field-device documentation.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ Use C0-00DD1-D.dwg for the physical controller reference. Its DC/sinking-output 
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect CLICK PLCs](https://eloragrid.ai/objects/automationdirect-click-plcs)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

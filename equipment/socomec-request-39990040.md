@@ -29,17 +29,16 @@ Formats listed at library scope are not guaranteed for every individual product.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is 1 CA O+F type S without shaft auxiliary contact CAD?
+## What the equipment does
 
-1 CA O+F type S without shaft auxiliary contact CAD is a CAD resource from Socomec. Official resource centre displays this exact mechanical-view CAD reference with Ask action. Requested file format is not published.
+An auxiliary contact reports a device's state or provides a related control connection. It is separate from the main power contacts.
 
-For 1 CA O+F type S without shaft auxiliary contact CAD, start at Socomec's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchgear panel, an auxiliary contact can report a switch position to the control system.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Socomec official source](https://www.socomec.co.uk/en-gb/resource-center)
 

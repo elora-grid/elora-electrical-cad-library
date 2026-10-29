@@ -28,17 +28,16 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DIRIS/ISOM display mounting-accessory CAD requests?
+## What the equipment does
 
-DIRIS/ISOM display mounting-accessory CAD requests is a CAD resource from Socomec. Official page lists mechanical-view CAD Ask actions for the frame, mounting plate and DIN-rail adapter. Complete assembly and accessory compatibility must be checked.
+Mounting hardware holds equipment in its intended position. Rails, plates, adapters and supports each provide a particular attachment or support arrangement.
 
-For DIRIS/ISOM display mounting-accessory CAD requests, start at Socomec's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchroom control cabinet, a mounting plate and DIN rail can support terminals, relays and power supplies in an organised layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Socomec official source](https://apac.socomec.com/en/p/diris-isom-digiware-mounting-kit)
 

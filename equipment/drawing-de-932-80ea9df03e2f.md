@@ -28,17 +28,16 @@ Open DE-Serie/DE 932.stp from the original archive. Keep the archive label and i
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Hensel resource?
+## What the equipment does
 
-An enclosure is a box that houses electrical connections or equipment. This member is labelled DE 932 in Hensel’s ENYCASE DE-series archive and represents an enclosure resource, unlike the separate external mounting-tab accessory in this pilot.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-A designer can place the DE 932 geometry in a layout and compare its physical interfaces with the intended enclosure selection.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 Open DE-Serie/DE 932.stp from the original archive. Keep the archive label and internal model identity available when requesting confirmation from Hensel. Geometry alone does not establish a complete distribution assembly, terminal arrangement or installation approval.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the DE 932 archive entry to the selected product.
 - Check the body, lid and mounting interfaces.
@@ -48,7 +47,7 @@ Open DE-Serie/DE 932.stp from the original archive. Keep the archive label and i
 
 Do not assume that. This file is a named enclosure model resource. Internal equipment, wiring and assembly documentation must be identified separately.
 
-- [Hensel official drawing source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
+- [Hensel official source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
 
 ## Choosing a file
 
@@ -62,6 +61,7 @@ Open DE-Serie/DE 932.stp from the original archive. Keep the archive label and i
 
 ## Equipment references and drawing guides
 
+- [Hensel ENYCASE junction boxes](https://eloragrid.ai/objects/europe-hensel-enycase)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

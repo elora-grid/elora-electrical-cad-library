@@ -28,17 +28,16 @@ Each archive may cover several variants. Match original drawing title and model 
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Orange Line / Odyssey Series CAD collection?
+## What the equipment does
 
-Orange Line / Odyssey Series CAD collection is a CAD resource from Fuji Electric. Manufacturer-hosted dimensional drawings and models, grouped by published product family.
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
 
-For Orange Line / Odyssey Series CAD collection, start with 4GC0A0, 4GC0F0.zip. This entry lists 18 file routes in DXF, STEP. Match the filename and equipment configuration to your project, then use Fuji Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom, a controller can operate a contactor to start a ventilation fan while separate protective devices deal with overloads and faults.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Fuji Electric official source](https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/cad-data/)
 
@@ -49,6 +48,7 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 
 ## Equipment references and drawing guides
 
+- [Fuji Electric Orange Line / Odyssey contactors](https://eloragrid.ai/objects/fuji-electric-orange-line-odyssey-contactors)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

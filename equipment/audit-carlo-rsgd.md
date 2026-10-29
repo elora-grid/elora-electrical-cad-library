@@ -28,17 +28,16 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is RSGD soft-starter CAD drawing routes?
+## What the equipment does
 
-RSGD soft-starter CAD drawing routes is a CAD resource from Carlo Gavazzi. Current manufacturer datasheet links CAD routes. The 45 mm alias returned 404; the 75 mm alias resolves to a manufacturer-hosted 3D ZIP larger than the bounded 20 MB collection limit. Neither is represented as collected.
+A soft starter controls the electrical supply during motor starting to reduce the abrupt change associated with a direct start. It does not provide the same continuous speed control as a variable-speed drive.
 
-For RSGD soft-starter CAD drawing routes, start at Carlo Gavazzi's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchroom services system, a soft starter can bring a large ventilation fan up to speed more gradually.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Carlo Gavazzi official source](https://www.gavazziautomation.com/fileadmin/images/PIM/DATASHEET/ENG/MC_RSGD_DS_45_75MM_DS_ENG.pdf)
 

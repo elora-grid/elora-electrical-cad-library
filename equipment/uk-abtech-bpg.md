@@ -28,17 +28,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is BPG enclosure CAD?
+## What the equipment does
 
-BPG enclosure CAD is a CAD resource from Abtech. Official enclosure and junction-box DWG/STEP archives. Choose the exact size and material; hazardous-area approvals require the selected product documentation.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-For BPG enclosure CAD, start with bpg.zip. This entry lists 18 file routes in DWG, STEP. Match the filename and equipment configuration to your project, then use Abtech's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
@@ -49,12 +48,13 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 
 ## Preview
 
-![Abtech BPG enclosure CAD: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/uk-abtech-bpg/uk-abtech-bpg-8d02d57a83fa?asset=5a8c7e1a5e44bd45368fe77698e2dd6bcb7718bb61d520f55b77a82662187e60-d204a12033590134&view=thumb&v=1dafbda9fdeadd43)
+![Abtech BPG enclosure CAD: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/uk-abtech-bpg/uk-abtech-bpg-8d02d57a83fa?asset=5a8c7e1a5e44bd45368fe77698e2dd6bcb7718bb61d520f55b77a82662187e60-d204a12033590134&view=thumb&v=878fb7acf3c2e55b)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-bpg). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [Abtech BPG enclosure](https://eloragrid.ai/objects/uk-abtech-bpg)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

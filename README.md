@@ -4,7 +4,7 @@ Open catalogue of official manufacturer CAD, BIM and electrical engineering draw
 
 **[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [JSON catalogue](data/catalogue.json) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
 
-The current snapshot contains **724 catalogue entries**, **108 manufacturers**, **18 equipment categories**, and **1193 site download entries** representing **269 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
+The current snapshot contains **1580 catalogue entries**, **110 manufacturers**, **18 equipment categories**, and **1230 site download entries** representing **269 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
 
 ## Find CAD
 
@@ -14,7 +14,7 @@ The current snapshot contains **724 catalogue entries**, **108 manufacturers**, 
 - [Live search API](docs/api.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access without an account.
 - [Coverage audit](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and acquisition priorities.
 
-The snapshot includes **385 individually identified drawing entries** and **424 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
+The snapshot includes **1175 individually identified drawing entries** and **444 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
 
 Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
 

@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is HV circuit-switcher/disconnector drawing catalogue?
+## What the equipment does
 
-HV circuit-switcher/disconnector drawing catalogue is a CAD resource from Southern States. Official current document index lists configured CSV circuit-switcher outline drawings and higher-voltage switching families. CAD extensions/access still need checking for exact drawings. An older SLS DWG specification URL returned 404; do not use it as current access evidence.
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
 
-For HV circuit-switcher/disconnector drawing catalogue, start at Southern States's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchyard, a disconnector provides an isolation point for a circuit section within the site's operating procedure.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Southern States official source](https://www.southernstatesllc.com/document-category/all-documents)
 

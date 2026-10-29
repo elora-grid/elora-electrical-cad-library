@@ -28,17 +28,16 @@ The exact supplied files are BPG 7.STEP, BPG7.dwg. Use STEP for placing the encl
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-Original Abtech BPG 7 enclosure drawing files, with STEP and DWG versions grouped on this page.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-For a layout that specifies BPG 7, place its STEP model beside the other equipment and check cover access before committing the mounting position. Use the matching DWG when preparing the panel elevation.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 The exact supplied files are BPG 7.STEP, BPG7.dwg. Use STEP for placing the enclosure in a 3D layout and DWG for a 2D drawing. Keep the manufacturer model suffix when comparing it with another size in the same range.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the BPG 7 size and suffix to the selected Abtech enclosure or accessory.
 - Find BPG 7.STEP in the archive path shown above.
@@ -57,7 +56,7 @@ The geometry helps with placement and mounting coordination. Material, environme
 
 Use the exact archive path printed under each download. A 2D range archive can include other enclosure sizes; a 3D archive can contain the selected assembly. This page keeps the matching model filenames together.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -72,12 +71,13 @@ The exact supplied files are BPG 7.STEP, BPG7.dwg. Use STEP for placing the encl
 
 ## Preview
 
-![Abtech Abtech BPG 7 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-bpg-7-98148da03df2/reviewed-4044031fb5a61b60b38c?asset=dc500ab56ffd427e41bd4144f8911ebadad4624eb91593e6c899fc7ed06e2e78-e9324321526c059a&view=thumb&v=bfa88ac2ea475c69)
+![Abtech Abtech BPG 7 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-bpg-7-98148da03df2/reviewed-4044031fb5a61b60b38c?asset=dc500ab56ffd427e41bd4144f8911ebadad4624eb91593e6c899fc7ed06e2e78-e9324321526c059a&view=thumb&v=6a21841310536d49)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-7-98148da03df2). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [Abtech BPG enclosure](https://eloragrid.ai/objects/uk-abtech-bpg)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

@@ -29,17 +29,16 @@ Use the named DWG for the module’s physical arrangement. Follow its separate w
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The BX-04AD-1 is a BRX analogue input expansion module for current signals. It receives measurement signals; it does not drive a motor or provide a power supply.
+An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-A control-panel design can bring a current-output transmitter to this module so the controller can read its measured condition.
+In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
 
 Use the named DWG for the module’s physical arrangement. Follow its separate wiring documentation for channels, signal references and terminal-block selection. A four-channel input module is a different functional choice from the voltage-input and universal-input models nearby in the collection.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the complete BX-04AD-1 code.
 - Check space for the specified terminal block and wiring.
@@ -49,7 +48,7 @@ Use the named DWG for the module’s physical arrangement. Follow its separate w
 
 Do not assume interchangeability. The 2B model is a voltage-input variant; select the exact module and check both its mechanical and electrical documentation.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ Use the named DWG for the module’s physical arrangement. Follow its separate w
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect BRX Series PLC](https://eloragrid.ai/objects/automationdirect-brx-series-plc)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

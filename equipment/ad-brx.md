@@ -28,17 +28,16 @@ Archive spans multiple parts; no assembly or product compatibility inferred.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is BRX Series PLC CAD package?
+## What the equipment does
 
-BRX Series PLC CAD package is a CAD resource from AutomationDirect. Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-For BRX Series PLC CAD package, start with brx.zip. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use AutomationDirect's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
@@ -49,6 +48,7 @@ Available here: ZIP. The original filename is brx.zip.
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect BRX Series PLC](https://eloragrid.ai/objects/automationdirect-brx-series-plc)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

@@ -28,17 +28,16 @@ Follow the O3R documentation’s hardware table to the exact unit’s drawing ro
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this ifm resource?
+## What this resource helps you do
 
-The ifm O3R system uses camera hardware and a processing unit as separate equipment items. A model for an OVP processing unit is not the same as the geometry or viewing arrangement of a camera head.
+This manufacturer resource helps you find drawings or select versions of vision sensors, industrial sensing, O3R cameras. Use it to locate the matching equipment outline or model for your design.
 
-A machine layout can place the processing unit inside an enclosure and position the selected camera head where it can view the intended area.
+When planning a microgrid installation, you can use this collection to find the selected vision sensors drawing before reserving its space, mounting points and cable routes in the layout.
 
 Follow the O3R documentation’s hardware table to the exact unit’s drawing route. Identify the OVP or O3R reference and check hardware/documentation version. Use mechanical CAD for placement, then obtain the separate connector, cable and sensing/visibility requirements.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Identify camera-head and processing-unit references separately.
 - Confirm the hardware revision and matching documentation.
@@ -48,7 +47,7 @@ Follow the O3R documentation’s hardware table to the exact unit’s drawing ro
 
 No. Processing-unit geometry and camera viewing requirements describe different parts of the system. Obtain the information for the actual camera and mounting arrangement.
 
-- [ifm official drawing source](https://ifm3d.com/v1.1.30/Technology/Hardware_Interfaces/CAD_Drawings.html)
+- [ifm official source](https://ifm3d.com/v1.1.30/Technology/Hardware_Interfaces/CAD_Drawings.html)
 
 ## Choosing a file
 

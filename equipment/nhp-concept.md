@@ -28,17 +28,16 @@ Formats listed at library scope are not guaranteed for every individual product.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Concept panelboard CAD and Revit library?
+## What this resource helps you do
 
-Concept panelboard CAD and Revit library is a CAD resource from NHP. Australian manufacturer page links CAD Blocks and Revit files plus a 3D model. Exact CAD block format must be checked at download.
+This manufacturer resource helps you find drawings or select versions of Concept panelboards, distribution boards, panelboard chassis. Use it to locate the matching equipment outline or model for your design.
 
-For Concept panelboard CAD and Revit library, start at NHP's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+When planning a microgrid installation, you can use this collection to find the selected Concept panelboards drawing before reserving its space, mounting points and cable routes in the layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [NHP official source](https://www.nhp.com.au/Solutions/Power-Distribution-and-Protection/NHP-Concept-Panelboards)
 

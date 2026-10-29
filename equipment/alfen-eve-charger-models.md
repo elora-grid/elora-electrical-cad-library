@@ -28,17 +28,16 @@ Use Alfen’s model table to match the product family and mounting configuration
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Alfen resource?
+## What this resource helps you do
 
-Alfen provides 3D models for selected Eve charging-station variants. Eve Single and Eve Double are different equipment arrangements, and a wall-mounted unit needs different coordination from a pole-mounted installation.
+This manufacturer resource helps you find drawings or select versions of electric vehicle charging stations, Eve Single chargers, Eve Double chargers. Use it to locate the matching equipment outline or model for your design.
 
-A designer can choose the exact Eve model and mounting arrangement before placing it beside a parking bay or building wall.
+When planning a microgrid installation, you can use this collection to find the selected EV charging stations drawing before reserving its space, mounting points and cable routes in the layout.
 
 Use Alfen’s model table to match the product family and mounting configuration, then download the corresponding available STEP model. Check the installation documents separately for fixing, supply and service requirements. A useful request includes the complete variant instead of only the word Eve.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - State Eve Single/Double and the exact product line.
 - Identify wall/pole mounting and cable or socket arrangement.
@@ -48,7 +47,7 @@ Use Alfen’s model table to match the product family and mounting configuration
 
 No. Match the actual product and mounting configuration. A related family model does not prove identical geometry or installation interfaces.
 
-- [Alfen official drawing source](https://knowledge.alfen.com/de/categories/CAT-00930/KA-01150)
+- [Alfen official source](https://knowledge.alfen.com/de/categories/CAT-00930/KA-01150)
 
 ## Choosing a file
 

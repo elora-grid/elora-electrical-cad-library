@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is RGK600SA stand-alone generator controller?
+## What the equipment does
 
-RGK600SA stand-alone generator controller is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+A generator controller monitors and manages a generating set, including starting, stopping and reporting alarms.
 
-For RGK600SA stand-alone generator controller, start with 2d\_RGK600SA.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, the controller can start a standby generator when the site's control system requests more generation.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gb_en/Stand-alone-gen-set-controller-12-24VDC-USB-optical-and-Wi-Fi-point-programming-port-on-front-W-Pick-up-speed-input-IP54/RGK600SA/snp)
 
@@ -50,12 +49,13 @@ Available here: DWG, STP. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![LOVATO Electric RGK600SA stand-alone generator controller: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-rgk600sa/europe-lovato-rgk600sa-f1d1f6c3d509?asset=83170af9b40b5613d3aff0dcc6dc73f2a90ebe8a615fb3fc6e9cef7771dfbcf0&view=thumb&v=f2dbb62301d7f786)
+![LOVATO Electric RGK600SA stand-alone generator controller: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-rgk600sa/europe-lovato-rgk600sa-f1d1f6c3d509?asset=83170af9b40b5613d3aff0dcc6dc73f2a90ebe8a615fb3fc6e9cef7771dfbcf0&view=thumb&v=36760997d45f643f)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-rgk600sa). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [LOVATO RGK600SA generator controller](https://eloragrid.ai/objects/europe-lovato-rgk600sa)
 - [Generator exhaust silencer](https://eloragrid.ai/objects/ga-generator-exhaust-silencer)
 - [Generator day tank](https://eloragrid.ai/objects/ga-generator-day-tank)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

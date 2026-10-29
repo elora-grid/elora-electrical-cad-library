@@ -28,17 +28,16 @@ Keep the PS-260 file identity explicit: the current support-page title and the d
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Westermo resource?
+## What the equipment does
 
-This is a dimensional DWG labelled PS-260 in Westermo’s product-support collection. A control-system power supply feeds the selected equipment; its physical outline is separate from the electrical selection and connection instructions.
+A lamp provides illumination or a visible indication. An indicator lamp shows a control state; an inspection light helps someone see equipment.
 
-A communications-cabinet layout can use the DWG to coordinate mounting and access around the selected supply.
+In a switchroom, a panel lamp can show that a feeder is running while a separate panel light illuminates the wiring compartment.
 
 Keep the PS-260 file identity explicit: the current support-page title and the downloadable drawing labels should both be checked against the actual equipment. Use the model-specific documents for terminals and operating requirements rather than assuming every similarly named supply has the same geometry.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the equipment label with the downloaded DWG.
 - Confirm units, mounting and connection access.
@@ -48,7 +47,7 @@ Keep the PS-260 file identity explicit: the current support-page title and the d
 
 No. A drawing provides physical information for its identified supply. Electrical compatibility requires the selected device and supply documentation.
 
-- [Westermo official drawing source](https://www.westermo.com/us/support/product-support/ps-260)
+- [Westermo official source](https://www.westermo.com/us/support/product-support/ps-260)
 
 ## Choosing a file
 
@@ -62,6 +61,7 @@ Keep the PS-260 file identity explicit: the current support-page title and the d
 
 ## Equipment references and drawing guides
 
+- [Westermo PS2-60](https://eloragrid.ai/objects/westermo-ps2-60)
 - [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
 - [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

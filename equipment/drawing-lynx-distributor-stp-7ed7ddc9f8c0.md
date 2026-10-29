@@ -28,17 +28,16 @@ Use the original file identity and the selected hardware’s documentation toget
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Victron Energy resource?
+## What the equipment does
 
-This is the older unqualified Lynx Distributor STEP file, whose internal header identifies a 2020 drawing. It is separate from the file explicitly labelled M10.
+A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
 
-An existing-system project can compare this historical model with the actual installed distributor before selecting a current replacement or adjacent module.
+Inside a switchgear lineup, the incoming breaker can feed busbars that supply the outgoing feeder breakers.
 
 Use the original file identity and the selected hardware’s documentation together. Do not infer a connector size from this unqualified filename. Victron publishes separate M10 geometry and legacy product information, so confirm the joint arrangement and revision for the actual installation.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the installed distributor and drawing revision.
 - Do not infer M8 or M10 solely from this filename.
@@ -48,7 +47,7 @@ Use the original file identity and the selected hardware’s documentation toget
 
 It is a different historical drawing with a different file identity. The page makes that distinction explicit for existing installations rather than claiming the two files are interchangeable.
 
-- [Victron Energy official drawing source](https://www.victronenergy.com/dc-distribution-systems/lynx-distributor)
+- [Victron Energy official source](https://www.victronenergy.com/dc-distribution-systems/lynx-distributor)
 - [Lynx model and interface documentation](https://www.victronenergy.com/media/pg/Lynx_Distributor/en/introduction.html)
 
 ## Choosing a file
@@ -63,7 +62,7 @@ Use the original file identity and the selected hardware’s documentation toget
 
 ## Preview
 
-![Victron Energy Victron Lynx Distributor legacy STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-lynx-distributor-stp-7ed7ddc9f8c0/cad-lynx-distributor-stp-step-d0fa2bcb17438e?asset=e274c49537ac5a8849af6deca2dbdd98421b1fa648975c1b2da5e097a99a6dd3&view=thumb&v=9666c6fb3e1c68fb)
+![Victron Energy Victron Lynx Distributor legacy STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-lynx-distributor-stp-7ed7ddc9f8c0/cad-lynx-distributor-stp-step-d0fa2bcb17438e?asset=e274c49537ac5a8849af6deca2dbdd98421b1fa648975c1b2da5e097a99a6dd3&view=thumb&v=811f30c25d369228)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-lynx-distributor-stp-7ed7ddc9f8c0). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

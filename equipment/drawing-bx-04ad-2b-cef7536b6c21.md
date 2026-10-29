@@ -29,17 +29,16 @@ Use BX-04AD-2B.dwg for the identified module. The voltage-input function disting
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The BX-04AD-2B is a BRX analogue voltage-input expansion module. It brings selected field voltage signals into the controller’s measurement system.
+An analogue circuit processes a continuously changing electrical signal. Its particular function may select, hold, compare or convert that signal.
 
-A process panel can bring a compatible voltage-output instrument to this module while using its physical drawing to coordinate the panel space and terminal access.
+Inside a microgrid monitoring device, a sample-and-hold circuit can hold one sensor reading steady while it is converted into a digital value.
 
 Use BX-04AD-2B.dwg for the identified module. The voltage-input function distinguishes it from the BX-04AD-1 current-input module and the BX-04AD-3 universal-input module. Check the matching terminal block, wiring and supported signal configuration separately.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the complete 2B model code.
 - Confirm the required terminal block and signal types.
@@ -49,7 +48,7 @@ Use BX-04AD-2B.dwg for the identified module. The voltage-input function disting
 
 No. Signal compatibility must follow the selected module’s instructions and any intentionally designed interface. Do not infer it from the shared BRX housing.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ Use BX-04AD-2B.dwg for the identified module. The voltage-input function disting
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect BRX Series PLC](https://eloragrid.ai/objects/automationdirect-brx-series-plc)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

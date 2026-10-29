@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is MultiPlus-II?
+## What the equipment does
 
-MultiPlus-II is a CAD resource from Victron Energy. Official MultiPlus-II dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+An inverter-charger can turn battery electricity into AC power for loads and use an AC supply to recharge the battery.
 
-For MultiPlus-II, start with DimensionDrawing-48V15kVA-MultiPlus-II-3D.STEP (recorded revision 01). This entry lists 20 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, it can supply AC loads from stored energy, then recharge the battery when the generator is running.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/inverters-chargers/multiplus-ii)
 
@@ -49,7 +48,7 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 
 ## Preview
 
-![Victron Energy MultiPlus-II: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multiplus-ii/victron-energy-multiplus-ii-24v-5000va-120v-step-step?asset=bc1791afbeb84e6538e139ce3ff688e121ef81e980679b74a1f817ebe5c924a6&view=thumb&v=33e41538b719f4dc)
+![Victron Energy MultiPlus-II: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multiplus-ii/victron-energy-multiplus-ii-24v-5000va-120v-step-step?asset=bc1791afbeb84e6538e139ce3ff688e121ef81e980679b74a1f817ebe5c924a6&view=thumb&v=8142c20d20a15bfa)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

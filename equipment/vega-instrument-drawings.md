@@ -28,17 +28,16 @@ Select the exact VEGA product and configuration in the official download search.
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this VEGA resource?
+## What this resource helps you do
 
-VEGA instruments measure process conditions such as level and pressure. A vessel-mounted sensor’s process connection, length and housing options affect how its geometry fits an installation.
+This manufacturer resource helps you find drawings or select versions of level instruments, pressure instruments, process sensors. Use it to locate the matching equipment outline or model for your design.
 
-A tank designer can request the chosen radar-level instrument’s connection and envelope while documenting its electrical interface separately.
+When planning a microgrid installation, you can use this collection to find the selected level instruments drawing before reserving its space, mounting points and cable routes in the layout.
 
 Select the exact VEGA product and configuration in the official download search. Specify process connection, probe or antenna arrangement, housing and orientation as applicable. A family drawing is a starting point; obtain the configuration-specific resource before coordinating a vessel opening or adjacent equipment.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide model and configured connection details.
 - State relevant probe/antenna and housing options.
@@ -48,7 +47,7 @@ Select the exact VEGA product and configuration in the official download search.
 
 Not automatically. The selected connection and other configuration options must match the actual instrument and its manufacturer documents.
 
-- [VEGA official drawing source](https://www.vega.com/en/downloads?category=%7B628BA828-D5E9-4A41-8995-11C537DD18DE%7D&familyId=123639&productId=102211)
+- [VEGA official source](https://www.vega.com/en/downloads?category=%7B628BA828-D5E9-4A41-8995-11C537DD18DE%7D&familyId=123639&productId=102211)
 
 ## Choosing a file
 

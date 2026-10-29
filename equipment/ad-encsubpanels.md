@@ -28,17 +28,16 @@ Archive spans multiple parts; no assembly or product compatibility inferred.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Enclosure Subpanels CAD package?
+## What the equipment does
 
-Enclosure Subpanels CAD package is a CAD resource from AutomationDirect. Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+Mounting hardware holds equipment in its intended position. Rails, plates, adapters and supports each provide a particular attachment or support arrangement.
 
-For Enclosure Subpanels CAD package, start with encsubpanels.zip. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use AutomationDirect's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom control cabinet, a mounting plate and DIN rail can support terminals, relays and power supplies in an organised layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 

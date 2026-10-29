@@ -29,17 +29,16 @@ Open C0-00AC.dwg from the CLICK archive. Use its physical views to coordinate th
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The C0-00AC is an auxiliary power supply for a CLICK control system. It provides the controller’s supply; it is not the PLC that executes the control program.
+A power supply turns incoming electrical power into the voltage and form needed by connected equipment.
 
-A panel designer places this supply beside the selected CLICK controller and checks mounting space and wiring access.
+In a switchgear control panel, an AC-to-DC power supply can provide DC power for relays, controller modules and indication circuits.
 
 Open C0-00AC.dwg from the CLICK archive. Use its physical views to coordinate the supply’s position and fixing arrangement, then consult the selected supply documentation for input/output connections. The archive’s PLC-family name does not change the equipment’s actual role.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Open the exact C0-00AC archive member.
 - Check drawing units, mounting and terminal access.
@@ -49,7 +48,7 @@ Open C0-00AC.dwg from the CLICK archive. Use its physical views to coordinate th
 
 No. It is a supply used with the control system. The PLC and its I/O are separate equipment items with their own drawings.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ Open C0-00AC.dwg from the CLICK archive. Use its physical views to coordinate th
 
 ## Equipment references and drawing guides
 
+- [AutomationDirect CLICK PLCs](https://eloragrid.ai/objects/automationdirect-click-plcs)
 - [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
 - [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

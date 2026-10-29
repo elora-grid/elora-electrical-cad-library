@@ -29,17 +29,16 @@ Open GS-BR-300W400.DWG from the drive archive. Use the drawing to coordinate the
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-The GS-BR-300W400 is a braking resistor used with compatible AC drive equipment. A braking resistor turns permitted regenerated electrical energy into heat; it is not the drive itself.
+A braking resistor turns electrical energy returned by a slowing motor into heat when used with the selected drive's braking arrangement.
 
-A panel layout may need to place a resistor separately from its drive while allowing the installation and heat-management arrangements specified by the manufacturer.
+In a switchroom services drive, it can help manage energy returned while a suitable motor-driven load slows down.
 
 Open GS-BR-300W400.DWG from the drive archive. Use the drawing to coordinate the resistor’s body and fixing points. Drive compatibility, braking duty, electrical connection and thermal clearances require the selected manufacturer instructions; the archive name alone establishes none of them.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Identify the exact resistor and compatible drive arrangement.
 - Check mounting and required separation from other equipment.
@@ -49,7 +48,7 @@ Open GS-BR-300W400.DWG from the drive archive. Use the drawing to coordinate the
 
 No. Resistance, power/duty capability and the selected drive’s requirements matter in addition to geometry. Use the exact selection documentation.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 

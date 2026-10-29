@@ -28,17 +28,16 @@ Formats listed at library scope are not guaranteed for every individual product.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Switchgear power centre project drawings?
+## What the equipment does
 
-Switchgear power centre project drawings is a CAD resource from Eaton. Official construction guide says project drawings can be supplied in AutoCAD or MicroStation format. Request configuration and drawing revision.
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
 
-For Switchgear power centre project drawings, start at Eaton's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid switchroom, separate switchgear feeders can supply the battery inverter, generator connection and site loads.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Eaton official source](https://www.eaton.com/content/dam/eaton/products/medium-voltage-power-distribution-control-systems/switchgear-power-center-construction-td02104001e.pdf)
 

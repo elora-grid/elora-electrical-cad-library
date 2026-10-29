@@ -29,17 +29,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is RCHD-3000-3 Stainless steel exhaust rain cap?
+## What the equipment does
 
-RCHD-3000-3 Stainless steel exhaust rain cap is a CAD resource from MIRATECH. Stainless steel exhaust rain cap official drawing. Exact fitting and product configuration must be checked against the source drawing.
+An exhaust rain cap helps keep rain out of an exhaust outlet while allowing exhaust gas to leave in its intended operating condition.
 
-For RCHD-3000-3 Stainless steel exhaust rain cap, start with RCHD-3000-3\_SD\_0.DWG. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use MIRATECH's drawing to check the mounting position, dimensions and connection access it actually documents.
+At a microgrid generator's exhaust stack, the cap protects the outlet during weather exposure.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [MIRATECH official source](https://miratechcorp.com/document/rchd-3000-3_sd_0-dwg/)
 
@@ -56,6 +55,7 @@ Available here: DWG. The original filename is RCHD-3000-3\_SD\_0.DWG.
 
 ## Equipment references and drawing guides
 
+- [MIRATECH RCHD-3000-3 exhaust rain cap](https://eloragrid.ai/objects/miratech-rchd-3000-3-stainless-steel-exhaust-rain-cap)
 - [Generator exhaust silencer](https://eloragrid.ai/objects/ga-generator-exhaust-silencer)
 - [Generator day tank](https://eloragrid.ai/objects/ga-generator-day-tank)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

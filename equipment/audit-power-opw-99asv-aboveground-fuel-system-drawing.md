@@ -29,17 +29,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is 99ASV aboveground fuel-system drawing?
+## What the equipment does
 
-99ASV aboveground fuel-system drawing is a CAD resource from OPW. Public manufacturer drawing index lists this exact DWG. Original index date is 26 October 2014; verify current product/revision before installation.
+Fuel-system equipment stores, transfers or controls fuel on its route to an engine. The named component performs its particular part of that route.
 
-For 99ASV aboveground fuel-system drawing, start with 99asv.dwg. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use OPW's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid generator installation, the fuel-system drawing helps connect the selected tank, piping components and engine supply arrangement.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [OPW official source](https://www.opwglobal.com/opw-retail-fueling/resources/product-cad-drawings/product-cad-drawing-downloads)
 

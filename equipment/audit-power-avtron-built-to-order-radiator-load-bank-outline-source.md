@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Built-to-order radiator load-bank outline source?
+## What the equipment does
 
-Built-to-order radiator load-bank outline source is a CAD resource from Avtron. Manufacturer states models 1100/1900 are built to radiator/duct dimensions and model 1500 to genset enclosure exhaust dimensions. Generic outline drawings exist; exact CAD remains unverified, with dimensions dependent on order configuration.
+A load bank deliberately consumes electrical power to provide a controlled test load. Some types also draw reactive power.
 
-For Built-to-order radiator load-bank outline source, start at Avtron's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid, it can load a generator during a planned test when normal site demand is too low for the test.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Avtron official source](https://avtronpower.com/services-support/knowledgebase/what-are-the-dimensions-of-the-radiator-mounted-load-bank/)
 

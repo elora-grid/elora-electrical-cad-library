@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is Lynx Smart BMS NG?
+## What the equipment does
 
-Lynx Smart BMS NG is a CAD resource from Victron Energy. Official Lynx Smart BMS NG dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+A battery management system monitors the cells in a battery and controls whether charging and discharging are allowed. It helps keep the cells within their operating limits.
 
-For Lynx Smart BMS NG, start with Lynx-Smart-BMS-1000-NG-(M10)-3D.STEP (recorded revision 00). This entry lists 2 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid battery rack, the management system can request that charging stops if a cell becomes too hot.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/battery-management-systems/lynx-smart-bms-ng)
 
@@ -49,7 +48,7 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 
 ## Preview
 
-![Victron Energy Lynx Smart BMS NG: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-lynx-smart-bms-ng/victron-energy-lynx-smart-bms-1000-ng-m10-3d-step?asset=7f044c2251cd70d24788434ff6ee2955c2df08f32d35e1b75e7ecfbcd73d5fae&view=thumb&v=9fa908cf3dd03c4f)
+![Victron Energy Lynx Smart BMS NG: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-lynx-smart-bms-ng/victron-energy-lynx-smart-bms-1000-ng-m10-3d-step?asset=7f044c2251cd70d24788434ff6ee2955c2df08f32d35e1b75e7ecfbcd73d5fae&view=thumb&v=b87117d6417598da)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lynx-smart-bms-ng). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

@@ -28,17 +28,16 @@ Native project CAD can depend on symbols and footprints in the official reposito
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is MPPT 2420 HC solar controller hardware?
+## What the equipment does
 
-MPPT 2420 HC solar controller hardware is a CAD resource from Libre Solar. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+A solar charge controller controls power flowing from solar panels into a battery. Maximum power point tracking, or MPPT, adjusts the operating point to collect available solar power.
 
-For MPPT 2420 HC solar controller hardware, start with can.sch (recorded revision b1c11fee826d). This entry lists 7 file routes in SCH, KICAD\_PCB. Match the filename and equipment configuration to your project, then use Libre Solar's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, an MPPT controller charges a DC battery from a solar array as sunlight changes during the day.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Libre Solar official source](https://github.com/LibreSolar/mppt-2420-hc)
 
@@ -55,6 +54,7 @@ Available here: SCH, KICAD\_PCB. The individual filenames above distinguish the 
 
 ## Equipment references and drawing guides
 
+- [MPPT 2420 HC hardware arrangement](https://eloragrid.ai/objects/open-hardware-mppt-2420-hc)
 - [PV inverter cabinet](https://eloragrid.ai/objects/ga-pv-inverter-cabinet)
 - [MPPT solar charge controller](https://eloragrid.ai/objects/ga-mppt-solar-charge-controller)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

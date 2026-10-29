@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is INGEGRID STORAGE utility PCS and container solution?
+## What the equipment does
 
-INGEGRID STORAGE utility PCS and container solution is a CAD resource from Ingeteam. Official USA product source confirms container/building PCS and integrated storage systems. Public editable CAD not located in this audit; no account-only claim is justified.
+A battery power conversion system controls the exchange of electrical power between a DC battery and an AC network.
 
-For INGEGRID STORAGE utility PCS and container solution, start at Ingeteam's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid, it can charge the battery when solar output exceeds demand and deliver power from the battery when demand rises.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Ingeteam official source](https://www.ingeteam.com/en-us/power-electronics/facts-solutions-statcom-sop-sssc/pc28_18_245/ingegrid-storage.aspx)
 

@@ -29,17 +29,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is SUCGE0-04PF-2-0000001V Engine exhaust silencer?
+## What the equipment does
 
-SUCGE0-04PF-2-0000001V Engine exhaust silencer is a CAD resource from MIRATECH. Engine exhaust silencer official drawing. Exact fitting and product configuration must be checked against the source drawing.
+An exhaust silencer reduces the noise carried by an engine's exhaust gas.
 
-For SUCGE0-04PF-2-0000001V Engine exhaust silencer, start with SUCGE0-04PF-2-0000001V\_SD\_1.DWG. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use MIRATECH's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid generator installation, it forms part of the exhaust route between the engine and the discharge point.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [MIRATECH official source](https://miratechcorp.com/document/sucge0-04pf-2-0000001v_sd_1-dwg/)
 
@@ -56,6 +55,7 @@ Available here: DWG. The original filename is SUCGE0-04PF-2-0000001V\_SD\_1.DWG.
 
 ## Equipment references and drawing guides
 
+- [MIRATECH SUCGE0-04PF-2-0000001V exhaust silencer](https://eloragrid.ai/objects/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer)
 - [Generator exhaust silencer](https://eloragrid.ai/objects/ga-generator-exhaust-silencer)
 - [Generator day tank](https://eloragrid.ai/objects/ga-generator-day-tank)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

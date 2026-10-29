@@ -28,17 +28,16 @@ This set uses the exact filename stem XH250PJ-4p. Its views are stored in Tembre
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Terasaki resource?
+## What the equipment does
 
-XH250PJ-4p is a named drawing set in the Terasaki TemBreak 1 legacy CAD archive supplied by NHP. This page brings together its bottom, front, top DWG views so you can select the matching geometry for an existing installation.
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
 
-When updating a panel drawing for XH250PJ-4p, insert the front DWG for the panel elevation, then compare the bottom and top views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
+In a substation, the feeder breaker opens when the protection system detects a fault on the outgoing circuit.
 
 This set uses the exact filename stem XH250PJ-4p. Its views are stored in Tembreak 1/MCCB. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the XH250PJ-4p filename stem and all connection suffixes to the existing equipment.
 - Use the bottom, front, top views from this set together; do not substitute a similarly numbered frame.
@@ -57,7 +56,7 @@ This is the archived TemBreak 1 drawing collection. Use it to identify geometry 
 
 Download the original NHP ZIP and extract it. Open the Tembreak 1/MCCB folder and match the full filenames shown in the file list above.
 
-- [Terasaki official drawing source](https://www.nhp.com.au/product/tl1250ne12503fc)
+- [Terasaki official source](https://www.nhp.com.au/product/tl1250ne12503fc)
 
 ## Choosing a file
 

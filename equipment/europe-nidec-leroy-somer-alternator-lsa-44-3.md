@@ -28,17 +28,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Leroy-Somer LSA 44.3?
+## What the equipment does
 
-Leroy-Somer LSA 44.3 is a CAD resource from Nidec Leroy-Somer. Publisher CAD for an industrial alternator family, including SAE coupling and bearing/frame variants where linked. This is alternator geometry, not a complete packaged generator.
+A generator turns mechanical movement into electrical power. An engine-driven generating set combines the engine, alternator and supporting equipment.
 
-For Leroy-Somer LSA 44.3, start with lsa443-8-078\_a.dxf. This entry lists 44 file routes in DXF. Match the filename and equipment configuration to your project, then use Nidec Leroy-Somer's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, a generator can supply loads when solar output and available battery energy are insufficient.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Nidec Leroy-Somer official source](https://moen.nidec.com/fr-FR/power/Products/industrial/lsa/leroy-somer-alternator-lsa-44-3)
 
@@ -49,6 +48,7 @@ Available here: DXF. The individual filenames above distinguish the supplied var
 
 ## Equipment references and drawing guides
 
+- [Leroy-Somer LSA 44.3 alternator](https://eloragrid.ai/objects/europe-nidec-leroy-somer-alternator-lsa-44-3)
 - [Generator package](https://eloragrid.ai/objects/generator-package)
 - [Generator paralleling controller](https://eloragrid.ai/objects/ga-generator-paralleling-controller)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

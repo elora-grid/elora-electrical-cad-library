@@ -28,17 +28,16 @@ Legacy package covers multiple family products; match drawing to exact part.
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is TemBreak 1 MCCB legacy CAD collection?
+## What the equipment does
 
-TemBreak 1 MCCB legacy CAD collection is a CAD resource from Terasaki. Official Australian supplier family CAD packages. Source product is marked no longer available; retained for retrofit design.
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
 
-For TemBreak 1 MCCB legacy CAD collection, start with Tembreak-1-MCCB-XS2000-XS2500-XS3200-3D-CAD-Blocks-STP-CAD-Block.zip. This entry lists 2 file routes in DWG, STP, STEP. Match the filename and equipment configuration to your project, then use Terasaki's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation, the feeder breaker opens when the protection system detects a fault on the outgoing circuit.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Terasaki official source](https://www.nhp.com.au/product/tl1250ne12503fc)
 
@@ -49,7 +48,7 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 
 ## Preview
 
-![Terasaki TemBreak 1 MCCB legacy CAD collection: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/nhp-terasaki-tembreak1/nhp-terasaki-tembreak1-0?asset=f19af2cc04f0692470a565bdbe65adb1e328d688d6e89ecd57c70e331e6381a3&view=thumb&v=586d58d29defc8d2)
+![Terasaki TemBreak 1 MCCB legacy CAD collection: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/nhp-terasaki-tembreak1/nhp-terasaki-tembreak1-0?asset=f19af2cc04f0692470a565bdbe65adb1e328d688d6e89ecd57c70e331e6381a3&view=thumb&v=183494fc81b602b9)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/nhp-terasaki-tembreak1). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

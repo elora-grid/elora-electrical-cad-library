@@ -28,17 +28,16 @@ Start with the exact Balluff product or order reference, then use the official C
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Balluff resource?
+## What this resource helps you do
 
-Balluff’s download route connects product references with available mechanical drawings and supporting files. A sensing function, sensor-body shape and connector arrangement are separate selection details.
+This manufacturer resource helps you find drawings or select versions of industrial sensors, position sensing, automation devices. Use it to locate the matching equipment outline or model for your design.
 
-A fixture designer may need the model for a particular cylindrical sensor, while the controls engineer needs its signal and connector documents.
+When planning a microgrid installation, you can use this collection to find the selected industrial sensors drawing before reserving its space, mounting points and cable routes in the layout.
 
 Start with the exact Balluff product or order reference, then use the official CAD/download links. Distinguish the mounting geometry from device-description files and firmware. If the portal requires interactive access, the request route can record the exact model and deliverables for the team to follow up.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide the complete product/order reference.
 - Describe body style, connector and mounting arrangement.
@@ -48,7 +47,7 @@ Start with the exact Balluff product or order reference, then use the official C
 
 No. The centre also provides documentation and other product resources. Select the file type that answers the task rather than assuming every download is editable geometry.
 
-- [Balluff official drawing source](https://www.balluff.com/en-dk/downloads)
+- [Balluff official source](https://www.balluff.com/en-dk/downloads)
 
 ## Choosing a file
 

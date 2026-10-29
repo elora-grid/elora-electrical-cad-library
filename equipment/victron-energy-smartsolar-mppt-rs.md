@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is SmartSolar MPPT RS?
+## What the equipment does
 
-SmartSolar MPPT RS is a CAD resource from Victron Energy. Official SmartSolar MPPT RS dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+A solar charge controller controls power flowing from solar panels into a battery. Maximum power point tracking, or MPPT, adjusts the operating point to collect available solar power.
 
-For SmartSolar MPPT RS, start with SmartSolar-MPPT-RS-450-100-MC4-(step).STEP (recorded revision 01). This entry lists 2 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, an MPPT controller charges a DC battery from a solar array as sunlight changes during the day.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/solar-charge-controllers/smartsolar-mppt-rs-450-tr)
 
@@ -49,7 +48,7 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 
 ## Preview
 
-![Victron Energy SmartSolar MPPT RS: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-smartsolar-mppt-rs/victron-energy-smartsolar-mppt-rs-450-200-mc4-step-step?asset=b7b9c2a6cd46fb439d66660a28e785980bd3f43e4941cb61c769b90ba87d83af&view=thumb&v=a83b63ef4916e69f)
+![Victron Energy SmartSolar MPPT RS: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-smartsolar-mppt-rs/victron-energy-smartsolar-mppt-rs-450-200-mc4-step-step?asset=b7b9c2a6cd46fb439d66660a28e785980bd3f43e4941cb61c769b90ba87d83af&view=thumb&v=4a15a8eebfaeea9e)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-smartsolar-mppt-rs). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

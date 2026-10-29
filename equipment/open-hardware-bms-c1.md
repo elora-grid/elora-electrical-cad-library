@@ -28,17 +28,16 @@ Native project CAD can depend on symbols and footprints in the official reposito
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is BMS C1 hardware and enclosure?
+## What the equipment does
 
-BMS C1 hardware and enclosure is a CAD resource from Libre Solar. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+A battery management system monitors the cells in a battery and controls whether charging and discharging are allowed. It helps keep the cells within their operating limits.
 
-For BMS C1 hardware and enclosure, start with bms-c1.FCStd (recorded revision 0ca09706f499). This entry lists 7 file routes in FCSTD, KICAD\_PCB, KICAD\_SCH. Match the filename and equipment configuration to your project, then use Libre Solar's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid battery rack, the management system can request that charging stops if a cell becomes too hot.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Libre Solar official source](https://github.com/LibreSolar/bms-c1)
 
@@ -55,6 +54,7 @@ Available here: FCSTD, KICAD\_PCB, KICAD\_SCH. The individual filenames above di
 
 ## Equipment references and drawing guides
 
+- [BMS C1 hardware arrangement](https://eloragrid.ai/objects/open-hardware-bms-c1)
 - [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
 - [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
 - [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)

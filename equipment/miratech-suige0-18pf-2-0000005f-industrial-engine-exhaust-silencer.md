@@ -29,17 +29,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is SUIGE0-18PF-2-0000005F Industrial engine exhaust silencer?
+## What the equipment does
 
-SUIGE0-18PF-2-0000005F Industrial engine exhaust silencer is a CAD resource from MIRATECH. Industrial engine exhaust silencer official drawing. Exact fitting and product configuration must be checked against the source drawing.
+An exhaust silencer reduces the noise carried by an engine's exhaust gas.
 
-For SUIGE0-18PF-2-0000005F Industrial engine exhaust silencer, start with SUIGE0-18PF-2-0000005F\_SD\_1.DWG. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use MIRATECH's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid generator installation, it forms part of the exhaust route between the engine and the discharge point.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [MIRATECH official source](https://miratechcorp.com/document/suige0-18pf-2-0000005f_sd_1-dwg/)
 

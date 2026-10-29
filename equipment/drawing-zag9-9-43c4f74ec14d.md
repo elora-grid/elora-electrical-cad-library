@@ -28,17 +28,16 @@ The exact supplied files are ZAG9.9.dwg. Use the listed geometry for the matchin
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-Original Abtech ZAG9.9 enclosure drawing files, with DWG geometry from the official manufacturer archive.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-For a layout that specifies ZAG9.9, use the exact named drawing above to establish its position alongside the matching enclosure or adjacent equipment.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 The exact supplied files are ZAG9.9.dwg. Use the listed geometry for the matching part in your layout. Keep the manufacturer model suffix when comparing it with another size in the same range.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the ZAG9.9 size and suffix to the selected Abtech enclosure or accessory.
 - Find ZAG9.9.dwg in the archive path shown above.
@@ -57,7 +56,7 @@ The geometry helps with placement and mounting coordination. Material, environme
 
 Use the exact archive path printed under each download. A 2D range archive can include other enclosure sizes; a 3D archive can contain the selected assembly. This page keeps the matching model filenames together.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -71,12 +70,13 @@ The exact supplied files are ZAG9.9.dwg. Use the listed geometry for the matchin
 
 ## Preview
 
-![Abtech Abtech ZAG9.9 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/uk-abtech-zag/uk-abtech-zag-f0aad4e02be1?asset=61167a0b67932933d420b6fa1ad9d1b920911884faee5f4b1d000c323d7a91e0-dd5d6536ba10425d&view=thumb&v=3c5dc58940a81635)
+![Abtech Abtech ZAG9.9 enclosure CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/uk-abtech-zag/uk-abtech-zag-f0aad4e02be1?asset=61167a0b67932933d420b6fa1ad9d1b920911884faee5f4b1d000c323d7a91e0-dd5d6536ba10425d&view=thumb&v=a4e41bbf465d37b0)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-zag9-9-43c4f74ec14d). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [Abtech ZAG enclosure](https://eloragrid.ai/objects/uk-abtech-zag)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

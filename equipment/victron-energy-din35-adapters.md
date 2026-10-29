@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is DIN35 adapters?
+## What the equipment does
 
-DIN35 adapters is a CAD resource from Victron Energy. Official DIN35 adapters dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+Mounting hardware holds equipment in its intended position. Rails, plates, adapters and supports each provide a particular attachment or support arrangement.
 
-For DIN35 adapters, start with DimensionDrawing-DIN-35-adapter-large-3D.STEP (recorded revision 00). This entry lists 6 file routes in DWG, STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom control cabinet, a mounting plate and DIN rail can support terminals, relays and power supplies in an organised layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/accessories/din35-adapter-small)
 
@@ -49,7 +48,7 @@ Available here: STEP, DWG. The individual filenames above distinguish the suppli
 
 ## Preview
 
-![Victron Energy DIN35 adapters: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-medium-3d-step?asset=9e932b2fbcc879d872ee91814b9394bd213b5886d8a6d0bab57c2b48b4bc717b&view=thumb&v=34de5b40dc2dd30e)
+![Victron Energy DIN35 adapters: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-medium-3d-step?asset=9e932b2fbcc879d872ee91814b9394bd213b5886d8a6d0bab57c2b48b4bc717b&view=thumb&v=c6e7ffa700d02927)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-din35-adapters). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

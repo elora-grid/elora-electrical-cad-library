@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is Lithium NG Batteries?
+## What the equipment does
 
-Lithium NG Batteries is a CAD resource from Victron Energy. Official Lithium NG Batteries dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+A battery stores energy for later use and supplies it as direct current, or DC. The connected controls and power converters manage how that energy is used.
 
-For Lithium NG Batteries, start with Bracket-for-Lithium-NG-Batteries-step.STEP (recorded revision 00). This entry lists 9 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, a battery can store daytime solar energy and supply some of the evening demand.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/batteries/lithium-ng-batteries)
 
@@ -49,7 +48,7 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 
 ## Preview
 
-![Victron Energy Lithium NG Batteries: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-lithium-ng-batteries/victron-energy-bracket-for-lithium-ng-batteries-step-step?asset=cd99287c4b8e07f5ec28c4d68a74f6094e94dccd0a3944bb2852f3a77e5fe5f7&view=thumb&v=fe60c4332e25a152)
+![Victron Energy Lithium NG Batteries: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-lithium-ng-batteries/victron-energy-bracket-for-lithium-ng-batteries-step-step?asset=cd99287c4b8e07f5ec28c4d68a74f6094e94dccd0a3944bb2852f3a77e5fe5f7&view=thumb&v=6dcd502a218c41f1)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lithium-ng-batteries). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

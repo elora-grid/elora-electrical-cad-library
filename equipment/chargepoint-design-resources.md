@@ -28,17 +28,16 @@ Choose the exact charger family and regional configuration in the official desig
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this ChargePoint resource?
+## What this resource helps you do
 
-ChargePoint’s site-design resources help designers coordinate selected vehicle-charging stations and their mounting arrangements. A charger cabinet, pedestal and vehicle connection are different parts of the installation.
+This manufacturer resource helps you find drawings or select versions of electric vehicle charging stations, AC chargers, DC rapid chargers. Use it to locate the matching equipment outline or model for your design.
 
-A car-park design may need a charger model for space coordination, a pedestal foundation detail and a separate electrical connection document.
+When planning a microgrid installation, you can use this collection to find the selected EV charging stations drawing before reserving its space, mounting points and cable routes in the layout.
 
 Choose the exact charger family and regional configuration in the official design resources, then obtain the specific available CAD or Revit resource. Record wall/pedestal mounting and cable arrangement. This page is a checked route to manufacturer resources, not a claim that every charger file is hosted here.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide charger family, region and mounting type.
 - Distinguish station geometry, pedestal/foundation and cable access.
@@ -48,7 +47,7 @@ Choose the exact charger family and regional configuration in the official desig
 
 No. Geometry and building coordination answer different questions from supply selection, protection, foundations and the selected installation instructions.
 
-- [ChargePoint official drawing source](https://www.chargepoint.com/en-ca/solutions/specifications)
+- [ChargePoint official source](https://www.chargepoint.com/en-ca/solutions/specifications)
 
 ## Choosing a file
 

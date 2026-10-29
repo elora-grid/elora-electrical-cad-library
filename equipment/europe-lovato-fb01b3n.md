@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is FB01B3N 3P+N 10×38 fuse holder?
+## What the equipment does
 
-FB01B3N 3P+N 10×38 fuse holder is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+A fuse holder supports a replaceable fuse and connects it into the circuit. The fuse is the part designed to open under specified excessive-current conditions.
 
-For FB01B3N 3P+N 10×38 fuse holder, start with 2d\_FB01B3N.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchgear control panel, a holder gives a fuse a defined mounting and connection point in the control supply.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [LOVATO Electric official source](https://catalogue.lovatoelectric.com/us_en/Fuse-holder-for-10X38mm-fuses-32A-rated-current-at-690VAC-3P-N-Without-status-indicator-4-modules/FB01B3N/snp)
 
@@ -50,12 +49,13 @@ Available here: DWG, STP. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![LOVATO Electric FB01B3N 3P+N 10×38 fuse holder: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-fb01b3n/europe-lovato-fb01b3n-7e27d1bffbb0?asset=7ee65b58357ed3e760ac53147497ea3ab38d2b753b187f3a000f6eac2cdb34b3&view=thumb&v=80be84cecc396d51)
+![LOVATO Electric FB01B3N 3P+N 10×38 fuse holder: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-fb01b3n/europe-lovato-fb01b3n-7e27d1bffbb0?asset=7ee65b58357ed3e760ac53147497ea3ab38d2b753b187f3a000f6eac2cdb34b3&view=thumb&v=bc55780216862287)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-fb01b3n). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [LOVATO FB01B3N fuse holder](https://eloragrid.ai/objects/europe-lovato-fb01b3n)
 - [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
 - [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

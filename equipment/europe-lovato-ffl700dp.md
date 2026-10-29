@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is FFL700DP diesel fire-pump controller?
+## What the equipment does
 
-FFL700DP diesel fire-pump controller is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+A fire-pump controller manages the starting and operation of the pump's drive under the fire system's defined conditions.
 
-For FFL700DP diesel fire-pump controller, start with 2d\_FFL700DP.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation with a diesel fire-water pump, it can start the engine when the fire-water system requests pumping.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/FFL700DP/FFL700DP/snp)
 
@@ -50,12 +49,13 @@ Available here: DWG, STP. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![LOVATO Electric FFL700DP diesel fire-pump controller: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-ffl700dp/europe-lovato-ffl700dp-2372a5b3075c?asset=0631b4ccb7632d91357a911823e711c4b91375fde852af96eb3f7e2fe9c5a7c8&view=thumb&v=7bd5b2ac6c7085bd)
+![LOVATO Electric FFL700DP diesel fire-pump controller: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-ffl700dp/europe-lovato-ffl700dp-2372a5b3075c?asset=0631b4ccb7632d91357a911823e711c4b91375fde852af96eb3f7e2fe9c5a7c8&view=thumb&v=d2def79426bcf398)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-ffl700dp). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [LOVATO FFL700DP diesel fire-pump controller](https://eloragrid.ai/objects/europe-lovato-ffl700dp)
 - [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
 - [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

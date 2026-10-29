@@ -29,17 +29,16 @@ Open GS-BR-500W100.DWG from the GS/DURApulse archive. Use the matching geometry 
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this AutomationDirect resource?
+## What the equipment does
 
-This is the GS-BR-500W100 braking-resistor drawing. It belongs to the drive-accessory collection, but the component is a resistor that dissipates specified braking energy, not an AC drive controller.
+A braking resistor turns electrical energy returned by a slowing motor into heat when used with the selected drive's braking arrangement.
 
-A designer can use the outline to locate the resistor and then check the selected drive’s braking arrangement and the manufacturer’s installation requirements.
+In a switchroom services drive, it can help manage energy returned while a suitable motor-driven load slows down.
 
 Open GS-BR-500W100.DWG from the GS/DURApulse archive. Use the matching geometry for fixing and layout. Its electrical and thermal selection must follow the exact resistor and drive documents; it is not interchangeable with the 300W400 model because the files share an archive.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match GS-BR-500W100 exactly.
 - Check the selected drive’s resistor requirements.
@@ -49,7 +48,7 @@ Open GS-BR-500W100.DWG from the GS/DURApulse archive. Use the matching geometry 
 
 No. They are different component references with different electrical selection requirements. The two drawing pages identify different hardware, not duplicate file formats.
 
-- [AutomationDirect official drawing source](https://support.automationdirect.com/docs/drawings.html)
+- [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 
 ## Choosing a file
 

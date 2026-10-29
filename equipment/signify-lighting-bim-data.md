@@ -28,17 +28,16 @@ Choose the exact luminaire code, optic and mounting arrangement on the official 
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Signify resource?
+## What this resource helps you do
 
-A luminaire is a complete light fitting. Its BIM/Revit model supports building coordination, while IES or LDT photometric data describes how the selected lighting configuration distributes light.
+This manufacturer resource helps you find drawings or select versions of lighting, luminaires, projectors. Use it to locate the matching equipment outline or model for your design.
 
-A designer can place a fitting in a ceiling model and use a separate matching photometric file for a lighting calculation.
+When planning a microgrid installation, you can use this collection to find the selected lighting drawing before reserving its space, mounting points and cable routes in the layout.
 
 Choose the exact luminaire code, optic and mounting arrangement on the official product route. Obtain the available BIM model, dimensional document and photometric file for that selection. Keep these deliverables distinct: a 3D fitting model does not establish the room’s calculated lighting performance.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide complete luminaire and optic/configuration codes.
 - Specify the intended mounting and model format.
@@ -48,7 +47,7 @@ Choose the exact luminaire code, optic and mounting arrangement on the official 
 
 They serve different purposes. IES/LDT data supports lighting-distribution calculations; a Revit resource supports building-model coordination. Obtain both where the project needs both.
 
-- [Signify official drawing source](https://www.signify.com/en-sg/prof/indoor-luminaires/surface-mounted/SMC_LESURF_CA/category)
+- [Signify official source](https://www.signify.com/en-sg/prof/indoor-luminaires/surface-mounted/SMC_LESURF_CA/category)
 
 ## Choosing a file
 

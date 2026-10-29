@@ -28,17 +28,16 @@ This set uses the exact filename stem XFG-XS400CJ-4P. Its views are stored in Te
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Terasaki resource?
+## What the equipment does
 
-XFG-XS400CJ-4P is a named drawing set in the Terasaki TemBreak 1 legacy CAD archive supplied by NHP. This page brings together its bottom, front DWG views so you can select the matching geometry for an existing installation.
+An operating handle lets a person move the associated switch or breaker mechanism. The selected linkage determines how the handle connects to the device.
 
-When updating a panel drawing for XFG-XS400CJ-4P, insert the front DWG for the panel elevation, then compare the bottom views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
+On a switchgear door, a suitable handle can provide local operation of the breaker mounted behind the panel.
 
 This set uses the exact filename stem XFG-XS400CJ-4P. Its views are stored in Tembreak 1/XFG Handle. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the XFG-XS400CJ-4P filename stem and all connection suffixes to the existing equipment.
 - Use the bottom, front views from this set together; do not substitute a similarly numbered frame.
@@ -57,7 +56,7 @@ This is the archived TemBreak 1 drawing collection. Use it to identify geometry 
 
 Download the original NHP ZIP and extract it. Open the Tembreak 1/XFG Handle folder and match the full filenames shown in the file list above.
 
-- [Terasaki official drawing source](https://www.nhp.com.au/product/tl1250ne12503fc)
+- [Terasaki official source](https://www.nhp.com.au/product/tl1250ne12503fc)
 
 ## Choosing a file
 

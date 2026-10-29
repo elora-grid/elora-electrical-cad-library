@@ -28,19 +28,18 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is the DSE8610 MKII?
+## What the equipment does
 
-The DSE8610 MKII is a controller for an engine-driven generator. Think of it as the generator's coordinator: it monitors operation, manages starting and stopping, and helps generators work together. The controller does not generate the electricity; the engine and alternator do that.
+A synchronising controller helps generators connect to an AC system and share the load. It checks and adjusts their electrical output before a permitted connection.
 
-When generators supply a site together, they must synchronise before being connected and then share the electrical load. Synchronising means matching their AC output before connection. Load sharing means dividing the work between generators. The DSE8610 MKII provides these control functions and displays operating information and alarms.
+In a microgrid with two generators, the controllers help bring the second generator onto the common supply and divide the demand between them.
 
-The wiring CAD describes connections between the controller and other parts of the system, such as measuring devices and control circuits. It helps a drafter prepare a control-panel drawing. It is not a complete generator layout or a ready-to-build switchboard design. Use the manufacturer's drawing for the exact model and revision.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **Generator controller**: A device that monitors and controls a generator's operation.
-- **Synchronising**: Matching AC supplies before connecting them together.
-- **Load sharing**: Dividing electrical demand between generators operating together.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
-- [DSE8610 MKII manufacturer overview](https://www.deepseaelectronics.com/genset/load-sharing-synchronising-control-modules/dse8610-mkii)
+- [Deep Sea Electronics official source](https://www.deepseaelectronics.com/genset/load-sharing-synchronising-control-modules/dse8610-mkii/downloads)
 
 ## Choosing a file
 
@@ -49,6 +48,7 @@ Available here: CAD. The original filename is DSE8610 MKII wiring CAD.
 
 ## Equipment references and drawing guides
 
+- [DSE8610 MKII synchronising controller](https://eloragrid.ai/objects/uk-dse-dse8610-mkii)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

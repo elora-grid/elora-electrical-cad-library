@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is PS-260 power supply?
+## What the equipment does
 
-PS-260 power supply is a CAD resource from Westermo. PS-260 power supply official dimensional and engineering content.
+A power supply turns incoming electrical power into the voltage and form needed by connected equipment.
 
-For PS-260 power supply, start with westermo\_cad\_ps-260.DWG. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use Westermo's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchgear control panel, an AC-to-DC power supply can provide DC power for relays, controller modules and indication circuits.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Westermo official source](https://www.westermo.com/us/support/product-support/ps-260)
 
@@ -49,6 +48,7 @@ Available here: DWG. The original filename is westermo\_cad\_ps-260.DWG.
 
 ## Equipment references and drawing guides
 
+- [Westermo PS2-60](https://eloragrid.ai/objects/westermo-ps2-60)
 - [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
 - [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

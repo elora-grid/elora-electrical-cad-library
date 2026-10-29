@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is PrismaSeT G enclosure LVS08309?
+## What the equipment does
 
-PrismaSeT G enclosure LVS08309 is a CAD resource from Schneider Electric. Official UK product source for the LVS08309 enclosure; exact editable files have not been acquired. Request matching frame, partitions, busbars, plinth and accessories.
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
 
-For PrismaSeT G enclosure LVS08309, start at Schneider Electric's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid switchroom, separate switchgear feeders can supply the battery inverter, generator connection and site loads.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Schneider Electric official source](https://www.se.com/uk/en/product/LVS08309/wall-mounted-floor-standing-enclosure-prismaset-g-w-600mm-h-1750mm-33m-ip55-without-plinth/)
 

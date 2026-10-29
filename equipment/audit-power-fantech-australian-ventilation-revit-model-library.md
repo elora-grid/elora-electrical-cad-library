@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Australian ventilation Revit model library?
+## What the equipment does
 
-Australian ventilation Revit model library is a CAD resource from Fantech. Public Australian Fantech Revit archive acquired: 64,296,825 bytes, 158 RFA family members. ZIP integrity and embedded family signatures checked; exact product configuration and certification still require review.
+A fan moves air. In an electrical installation it can supply cooler air, exhaust warm air or support another planned ventilation duty.
 
-For Australian ventilation Revit model library, start with 26.04.20 Fantech Revit Models.zip. This entry lists 1 file route in RFA, ZIP. Match the filename and equipment configuration to your project, then use Fantech's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom, an exhaust fan can remove warm air produced by switchgear and other equipment.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Fantech official source](https://www.fantech.com.au/Content.aspx?ContentID=D5)
 

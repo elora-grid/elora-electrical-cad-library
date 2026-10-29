@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Sunny Central Storage UP utility battery inverter?
+## What the equipment does
 
-Sunny Central Storage UP utility battery inverter is a CAD resource from SMA. Official product source identifies the utility battery-inverter family. Editable CAD discovery remains open; existing residential inverter geometry does not cover this class.
+A battery power conversion system controls the exchange of electrical power between a DC battery and an AC network.
 
-For Sunny Central Storage UP utility battery inverter, start at SMA's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid, it can charge the battery when solar output exceeds demand and deliver power from the battery when demand rises.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [SMA official source](https://www.sma.de/en/products/battery-inverters/sunny-central-storage-up)
 

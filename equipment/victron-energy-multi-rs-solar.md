@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is Multi RS Solar?
+## What the equipment does
 
-Multi RS Solar is a CAD resource from Victron Energy. Official Multi RS Solar dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+An inverter-charger can turn battery electricity into AC power for loads and use an AC supply to recharge the battery.
 
-For Multi RS Solar, start with Multi-RS-Solar-1-tracker-PMR482602000-(step).STEP (recorded revision 00). This entry lists 2 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, it can supply AC loads from stored energy, then recharge the battery when the generator is running.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Victron Energy official source](https://www.victronenergy.com/inverter-charger-mppt/multi-rs-solar)
 
@@ -49,7 +48,7 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 
 ## Preview
 
-![Victron Energy Multi RS Solar: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multi-rs-solar/victron-energy-multi-rs-solar-1-tracker-pmr482602000-step-step?asset=a0824d867d89362e71bfd26c4a101669182c83f9526d2de33ca7bb85627da9fc&view=thumb&v=9ace58b85bbe35e8)
+![Victron Energy Multi RS Solar: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multi-rs-solar/victron-energy-multi-rs-solar-1-tracker-pmr482602000-step-step?asset=a0824d867d89362e71bfd26c4a101669182c83f9526d2de33ca7bb85627da9fc&view=thumb&v=bcdbd3f857a07eb2)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multi-rs-solar). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

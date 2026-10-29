@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is ADXL0060600 60 A soft starter?
+## What the equipment does
 
-ADXL0060600 60 A soft starter is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+A soft starter controls the electrical supply during motor starting to reduce the abrupt change associated with a direct start. It does not provide the same continuous speed control as a variable-speed drive.
 
-For ADXL0060600 60 A soft starter, start with 2d\_ADXL0060600.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom services system, a soft starter can bring a large ventilation fan up to speed more gradually.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [LOVATO Electric official source](https://catalogue.lovatoelectric.com/ca_en/Soft-starter-ADXL-type-with-integrated-by-pass-relay-Auxiliary-supply-100-240VAC-Rated-operational-voltage-208-600VAC-60A/ADXL0060600/snp)
 
@@ -50,12 +49,13 @@ Available here: DWG, STP. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![LOVATO Electric ADXL0060600 60 A soft starter: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-adxl0060600/europe-lovato-adxl0060600-1b7b2c5e291d?asset=aa776bbecf0ea7fd1556e639d64772280475b09da688f112a96afab1e64520f0&view=thumb&v=bccbd082ac27a50d)
+![LOVATO Electric ADXL0060600 60 A soft starter: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-adxl0060600/europe-lovato-adxl0060600-1b7b2c5e291d?asset=aa776bbecf0ea7fd1556e639d64772280475b09da688f112a96afab1e64520f0&view=thumb&v=48e4e22643820c83)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-adxl0060600). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [LOVATO ADXL0060600 soft starter](https://eloragrid.ai/objects/europe-lovato-adxl0060600)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

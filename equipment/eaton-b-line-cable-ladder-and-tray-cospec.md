@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is B-Line cable ladder and tray CoSPEC?
+## What this resource helps you do
 
-B-Line cable ladder and tray CoSPEC is a CAD resource from Eaton. Official Eaton CoSPEC offers multi-format CAD/BIM/PDMS for metallic and non-metallic trays, IEC ladders and NEMA trays. Select exact parts and export format. No configured originals downloaded.
+This manufacturer resource helps you find drawings or select versions of cable ladder, NEMA cable tray, IEC cable ladder. Use it to locate the matching equipment outline or model for your design.
 
-For B-Line cable ladder and tray CoSPEC, start at Eaton's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+When planning a microgrid installation, you can use this collection to find the selected cable ladder drawing before reserving its space, mounting points and cable routes in the layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Eaton official source](https://www.eaton.com/us/en-us/products/support-systems/b-line-series-cospec-specifier-center/cable-tray-systems-and-supports-cable-management.html)
 

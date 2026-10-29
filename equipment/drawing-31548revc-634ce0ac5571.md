@@ -29,17 +29,16 @@ Use the actual 31548revC.dwg member and the BPG8-F160 identification in its titl
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-The inspected drawing identifies an Abtech BPG8-F160 enclosure, with drawing identifier 31548 revision C. It is a different enclosure configuration from the BPG6-F120 drawing in this pilot.
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-A maintenance or panel-layout task can compare the box, lid, side and section views with the selected installation.
+In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
 
 Use the actual 31548revC.dwg member and the BPG8-F160 identification in its title information. Keep the drawing’s historical labels separate from current certification or ordering confirmation. The manufacturer must confirm the required configured enclosure and any accessories.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match BPG8-F160 and revision C.
 - Check the depicted entries, lid and mounting arrangement.
@@ -49,7 +48,7 @@ Use the actual 31548revC.dwg member and the BPG8-F160 identification in its titl
 
 No. These inspected drawings name different enclosure configurations. Use the exact drawing and compare all relevant physical interfaces.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -69,6 +68,7 @@ Use the actual 31548revC.dwg member and the BPG8-F160 identification in its titl
 
 ## Equipment references and drawing guides
 
+- [Abtech BPG enclosure](https://eloragrid.ai/objects/uk-abtech-bpg)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

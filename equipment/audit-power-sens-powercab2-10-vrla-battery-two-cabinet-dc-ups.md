@@ -29,17 +29,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is PowerCab2 10-VRLA-battery two-cabinet DC UPS?
+## What the equipment does
 
-PowerCab2 10-VRLA-battery two-cabinet DC UPS is a CAD resource from SENS. Public official SENS configured PowerCab2 STEP acquired: 10 VRLA batteries, one charger and two cabinets. Header and STEP completion marker checked, with size and SHA-256 recorded.
+A UPS uses stored energy or another designed supply arrangement to keep selected loads powered when the normal supply is interrupted.
 
-For PowerCab2 10-VRLA-battery two-cabinet DC UPS, start with 3DCAD-PC2-FH-VRLA.step. This entry lists 1 file route in STEP. Match the filename and equipment configuration to your project, then use SENS's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation, a UPS can keep communication and monitoring equipment running through an interruption of their normal supply.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [SENS official source](https://www.sens-usa.com/product/powercab2-dc-ups-system)
 
@@ -50,6 +49,7 @@ Available here: STEP. The original filename is 3DCAD-PC2-FH-VRLA.step.
 
 ## Equipment references and drawing guides
 
+- [SENS PowerCab2 two-cabinet 10-VRLA arrangement](https://eloragrid.ai/objects/audit-power-sens-powercab2-10-vrla-battery-two-cabinet-dc-ups)
 - [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
 - [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

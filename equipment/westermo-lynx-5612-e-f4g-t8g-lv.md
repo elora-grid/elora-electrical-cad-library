@@ -29,17 +29,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Lynx 5612-E-F4G-T8G-LV?
+## What the equipment does
 
-Lynx 5612-E-F4G-T8G-LV is a CAD resource from Westermo. DIN rail substation automation Ethernet switch. Exact model/frequency and approval suitability require regional checks.
+A network switch connects devices on an Ethernet network so they can exchange information.
 
-For Lynx 5612-E-F4G-T8G-LV, start with westermo\_cad\_lynx-5612.DWG. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use Westermo's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation panel, it can connect protection relays and a station controller to the same communication network.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Westermo official source](https://www.westermo.com/de/support/product-support/lynx-5612-e-f4g-t8g-lv)
 

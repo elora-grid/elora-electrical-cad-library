@@ -29,17 +29,16 @@ The EDZ contains MIO2.1 and MIO2.1\_3D macros and the named manufacturer part da
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this DEIF resource?
+## What the equipment does
 
-The MIO2.1 is an add-on that gives an iE 250 controller more connections for reading field signals and sending control outputs. This EPLAN resource identifies module part 2916990010.01; it is not the iE 7 local display.
+A synchronising controller helps generators connect to an AC system and share the load. It checks and adjusts their electrical output before a permitted connection.
 
-An EPLAN user can add the module’s manufacturer part and macros to document its role alongside the selected controller.
+In a microgrid with two generators, the controllers help bring the second generator onto the common supply and divide the demand between them.
 
 The EDZ contains MIO2.1 and MIO2.1\_3D macros and the named manufacturer part data. Import it in a compatible EPLAN environment and verify the imported article. Follow the controller/module documentation for actual I/O and connection requirements.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Confirm MIO2.1 and part 2916990010.01.
 - Import the correct EDZ member and inspect its macros.
@@ -49,7 +48,7 @@ The EDZ contains MIO2.1 and MIO2.1\_3D macros and the named manufacturer part da
 
 No. The internal manufacturer metadata identifies an MIO2.1 add-on module. The display is in the separately reviewed EPLAN\_10 package.
 
-- [DEIF official drawing source](https://www.deif.com/documentation/ie-250)
+- [DEIF official source](https://www.deif.com/documentation/ie-250)
 
 ## Choosing a file
 
@@ -63,6 +62,7 @@ The EDZ contains MIO2.1 and MIO2.1\_3D macros and the named manufacturer part da
 
 ## Equipment references and drawing guides
 
+- [DEIF iE 250 controllers](https://eloragrid.ai/objects/deif-ie-250-controllers)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

@@ -28,17 +28,16 @@ Formats listed at library scope are not guaranteed for every individual product.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is BOPLA standard enclosure CAD access?
+## What this resource helps you do
 
-BOPLA standard enclosure CAD access is a CAD resource from BOPLA. Official policy: DXF/PDF public; STEP needs registration and confidentiality acceptance. Restricted originals should not be publicly rehosted.
+This manufacturer resource helps you find drawings or select versions of standard enclosures, accessories, mounting drawings. Use it to locate the matching equipment outline or model for your design.
 
-For BOPLA standard enclosure CAD access, start at BOPLA's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+When planning a microgrid installation, you can use this collection to find the selected standard enclosures drawing before reserving its space, mounting points and cable routes in the layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [BOPLA official source](https://www.bopla.de/technische-daten/3d-daten-login/bereitstellung-von-2d-und-3d-daten)
 

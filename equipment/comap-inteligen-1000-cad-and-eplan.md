@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is InteliGen 1000 CAD and EPLAN?
+## What this resource helps you do
 
-InteliGen 1000 CAD and EPLAN is a CAD resource from ComAp. Product page lists a 25.3 MB CAD package and two EPLAN downloads. Download endpoint returned HTTP 401; ComAp account is required. Exact CAD file extensions remain unverified.
+This manufacturer resource helps you find drawings or select versions of generator synchronising controller, paralleling controller, switchgear control. Use it to locate the matching equipment outline or model for your design.
 
-For InteliGen 1000 CAD and EPLAN, start at ComAp's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+When planning a microgrid installation, you can use this collection to find the selected generator synchronising controller drawing before reserving its space, mounting points and cable routes in the layout.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [ComAp official source](https://www.comap-control.com/products/controllers/paralleling-gen-set-controllers/inteligen/inteligen-1000/)
 

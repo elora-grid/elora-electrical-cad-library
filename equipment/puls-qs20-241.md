@@ -29,17 +29,16 @@ Use only for the model/configuration stated in each original drawing.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is QS20.241 24 V 20 A DIN-rail supply?
+## What the equipment does
 
-QS20.241 24 V 20 A DIN-rail supply is a CAD resource from PULS. Manufacturer original mechanical CAD for panel layout and equipment arrangement.
+A power supply turns incoming electrical power into the voltage and form needed by connected equipment.
 
-For QS20.241 24 V 20 A DIN-rail supply, start with md1\_qs20\_241.dxf. This entry lists 4 file routes in DXF, DWG, STEP, EPLAN. Match the filename and equipment configuration to your project, then use PULS's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchgear control panel, an AC-to-DC power supply can provide DC power for relays, controller modules and indication circuits.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [PULS official source](https://products.pulspower.com/us/qs20-241.html)
 

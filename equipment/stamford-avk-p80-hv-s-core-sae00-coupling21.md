@@ -28,17 +28,16 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is P80-HV S core SAE00 coupling21?
+## What the equipment does
 
-P80-HV S core SAE00 coupling21 is a CAD resource from STAMFORD AvK. Alternator general arrangement PDF, for information only; not a construction drawing or editable CAD.
+A generator turns mechanical movement into electrical power. An engine-driven generating set combines the engine, alternator and supporting equipment.
 
-For P80-HV S core SAE00 coupling21, start with 80-2486\_Outline\_DS80-2486\_Rev\_C.pdf. This entry lists 1 file route in PDF. Match the filename and equipment configuration to your project, then use STAMFORD AvK's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid, a generator can supply loads when solar output and available battery energy are insufficient.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [STAMFORD AvK official source](https://www.stamford-avk.com/downloads/ga-drawings)
 

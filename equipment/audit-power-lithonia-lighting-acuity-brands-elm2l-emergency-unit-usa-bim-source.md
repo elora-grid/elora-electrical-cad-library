@@ -29,17 +29,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is ELM2L emergency-unit USA BIM source?
+## What the equipment does
 
-ELM2L emergency-unit USA BIM source is a CAD resource from Lithonia Lighting / Acuity Brands. Official USA product page lists ELM2L BIM content and several voltage options. Shell retrieval returned HTTP 403, while primary web page was readable. Actual BIM file/access is not verified; do not call this an account barrier.
+A luminaire is a complete light fitting. Emergency versions provide the lighting behaviour specified for a loss of normal supply.
 
-For ELM2L emergency-unit USA BIM source, start at Lithonia Lighting / Acuity Brands's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchroom, an emergency luminaire can illuminate a planned exit route when its normal lighting supply fails.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Lithonia Lighting / Acuity Brands official source](https://www.acuitybrands.com/products/detail/2131890/lithonia-lighting/elm2l-emergency-unit/quantumr-thermoplastic-emergency-unit-with-adjustable-optics-220-lumens)
 

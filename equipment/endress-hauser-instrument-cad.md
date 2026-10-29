@@ -28,17 +28,16 @@ Identify the product and complete configured order code. Use the official produc
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Endress+Hauser resource?
+## What this resource helps you do
 
-Process instruments measure conditions such as pressure, level, flow or temperature. Their bodies and connections can change with the chosen configuration, so a generic family drawing may not describe the instrument being ordered.
+This manufacturer resource helps you find drawings or select versions of process instrumentation, pressure transmitters, level instruments. Use it to locate the matching equipment outline or model for your design.
 
-A vessel layout can need the selected level instrument’s process connection and housing orientation, while the electrical drawing needs its actual terminal and signal documents.
+When planning a microgrid installation, you can use this collection to find the selected process instrumentation drawing before reserving its space, mounting points and cable routes in the layout.
 
 Identify the product and complete configured order code. Use the official product/configuration download route to obtain the views and formats available for that selection. Keep process connections, housing and electrical interfaces in the request so the returned drawing represents the intended instrument.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide product family and configured order code.
 - Specify process connection, housing and orientation.
@@ -48,7 +47,7 @@ Identify the product and complete configured order code. Use the official produc
 
 Different connections, housings or options can change the instrument’s geometry and interfaces. The configuration identifies which manufacturer drawing is relevant.
 
-- [Endress+Hauser official drawing source](https://www.jp.endress.com/ja/endress-hauser-group/capabilities-efficient-safe-operations/scj-tutorials-jp/web-utilization-document-dl)
+- [Endress+Hauser official source](https://www.jp.endress.com/ja/endress-hauser-group/capabilities-efficient-safe-operations/scj-tutorials-jp/web-utilization-document-dl)
 
 ## Choosing a file
 

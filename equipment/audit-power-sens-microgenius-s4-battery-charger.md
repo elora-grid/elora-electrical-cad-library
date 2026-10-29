@@ -29,17 +29,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is MicroGenius S4 battery charger?
+## What the equipment does
 
-MicroGenius S4 battery charger is a CAD resource from SENS. Manufacturer document library exposes the MicroGenius S4 STEP original. Station/genset electrical configuration requires product selection.
+A battery charger supplies controlled electrical power to replenish a battery. Its charging method must suit the selected battery.
 
-For MicroGenius S4 battery charger, start with 3DCAD-S4-STD-STEP.step. This entry lists 1 file route in STEP. Match the filename and equipment configuration to your project, then use SENS's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation, a charger maintains the station battery so that protection and breaker control circuits have stored energy available when needed.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [SENS official source](https://www.sens-usa.com/resources/documents)
 
@@ -50,6 +49,7 @@ Available here: STEP. The original filename is 3DCAD-S4-STD-STEP.step.
 
 ## Equipment references and drawing guides
 
+- [SENS MicroGenius S4 battery charger](https://eloragrid.ai/objects/audit-power-sens-microgenius-s4-battery-charger)
 - [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
 - [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

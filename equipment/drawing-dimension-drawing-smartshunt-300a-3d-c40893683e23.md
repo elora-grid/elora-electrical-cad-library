@@ -28,17 +28,16 @@ Import the exact 300A STEP model and confirm its identity against the selected S
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Victron Energy resource?
+## What the equipment does
 
-A SmartShunt measures battery current and provides battery-monitoring information. This file is the model labelled SmartShunt 300A, distinct from the separately listed IP65 version.
+The SmartShunt measures how much current flows into and out of a battery. This helps track charging and use, and estimate how much charge remains.
 
-A battery-system layout can use the model to check the shunt’s position and cable access before the wiring is designed from the selected installation manual.
+In a microgrid battery system, it can show whether the battery is charging from solar generation or supplying the site's loads.
 
 Import the exact 300A STEP model and confirm its identity against the selected SmartShunt. The 3D file supplies geometry, while the manual establishes measurement placement, wiring and operating requirements. A different enclosure variant must use its own model.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the exact SmartShunt version.
 - Check cable routing and physical access.
@@ -48,7 +47,7 @@ Import the exact 300A STEP model and confirm its identity against the selected S
 
 Do not assume the same geometry. The IP65 version has its own listed model and must be checked against the selected equipment.
 
-- [Victron Energy official drawing source](https://www.victronenergy.com/battery-monitors/smart-battery-shunt)
+- [Victron Energy official source](https://www.victronenergy.com/battery-monitors/smart-battery-shunt)
 
 ## Choosing a file
 
@@ -62,7 +61,7 @@ Import the exact 300A STEP model and confirm its identity against the selected S
 
 ## Preview
 
-![Victron Energy Victron SmartShunt 300A STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23/cad-dimension-drawing-smartshunt-300a-3d-step-22004e3842c851?asset=d2977551c63f8341d0524bffaf5425549caa16f106c62e70a2083012d5b0f8ae&view=thumb&v=feed603233d2eb1c)
+![Victron Energy Victron SmartShunt 300A STEP model: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23/cad-dimension-drawing-smartshunt-300a-3d-step-22004e3842c851?asset=d2977551c63f8341d0524bffaf5425549caa16f106c62e70a2083012d5b0f8ae&view=thumb&v=8ce05a1d6786dde3)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

@@ -29,17 +29,16 @@ Use only for the model/configuration stated in each original drawing.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DBM20 mechanical model?
+## What the equipment does
 
-DBM20 mechanical model is a CAD resource from TDK-Lambda. Manufacturer original mechanical CAD for panel layout and equipment arrangement.
+A buffer module stores a limited amount of energy to support a DC load through a short supply interruption.
 
-For DBM20 mechanical model, start with dbm20\_out\_step.zip. This entry lists 1 file route in STEP. Match the filename and equipment configuration to your project, then use TDK-Lambda's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchgear control panel, it can help the electronics ride through a brief dip in the DC supply.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [TDK-Lambda official source](https://www.emea.lambda.tdk.com/uk/technical-data/data?resource=3D-Drawings)
 
@@ -50,6 +49,7 @@ Available here: STEP. The original filename is dbm20\_out\_step.zip.
 
 ## Equipment references and drawing guides
 
+- [TDK-Lambda DBM20](https://eloragrid.ai/objects/tdk-lambda-dbm20)
 - [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
 - [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

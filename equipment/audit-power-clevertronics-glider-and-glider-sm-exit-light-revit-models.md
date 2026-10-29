@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is Glider and Glider-SM exit-light Revit models?
+## What the equipment does
 
-Glider and Glider-SM exit-light Revit models is a CAD resource from Clevertronics. Official Australian product page directly links these two named Revit originals. This is actual AU product geometry; exact electrical option/approval must still be verified.
+A lamp provides illumination or a visible indication. An indicator lamp shows a control state; an inspection light helps someone see equipment.
 
-For Glider and Glider-SM exit-light Revit models, start with Clevertronics\_GLIDER\_AUA03510120001.rfa. This entry lists 2 file routes in RFA. Match the filename and equipment configuration to your project, then use Clevertronics's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a switchroom, a panel lamp can show that a feeder is running while a separate panel light illuminates the wiring compartment.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Clevertronics official source](https://clevertronics.com.au/exit-lights/glider)
 

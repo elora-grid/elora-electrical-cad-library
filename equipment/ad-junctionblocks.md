@@ -28,17 +28,16 @@ Archive spans multiple parts; no assembly or product compatibility inferred.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is Junction Blocks CAD package?
+## What the equipment does
 
-Junction Blocks CAD package is a CAD resource from AutomationDirect. Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+Conductors carry electrical power or signals between equipment. The drawing marks show which paths connect and which simply pass one another.
 
-For Junction Blocks CAD package, start with junctionblocks.zip. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use AutomationDirect's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation control panel, the wiring diagram lets a technician trace a trip signal from a relay through terminals to the breaker circuit.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 

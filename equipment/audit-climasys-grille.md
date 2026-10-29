@@ -29,17 +29,16 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is NSYCAG223LPF grille CAD and mounting source?
+## What the equipment does
 
-NSYCAG223LPF grille CAD and mounting source is a CAD resource from Schneider Electric. Official Australian Clipsal product page publishes customised CAD and 3D CAD ZIP links. HTTP 403 blocked local collection; actual inner formats remain unverified.
+A louver provides an air opening with blades that help manage weather entry or airflow according to its design. It does not move air by itself.
 
-For NSYCAG223LPF grille CAD and mounting source, start with UE\_CAD\_Customized\_NSYCAG223LPF.zip (recorded revision 1.0). This entry lists 2 file routes in ZIP. Match the filename and equipment configuration to your project, then use Schneider Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+On a switchroom exterior wall, a selected intake louver can admit ventilation air while providing the specified weather protection.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Schneider Electric official source](https://www.clipsal.com/products/industrial/climasys/outlet-grille-plast-cut-out-223x223mm-ext-dim-268x248mm-ip54-nsycag223lpf?itemno=NSYCAG223LPF)
 
@@ -50,6 +49,7 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 
 ## Equipment references and drawing guides
 
+- [Schneider Electric NSYCAG223LPF ClimaSys grille](https://eloragrid.ai/objects/audit-climasys-grille)
 - [Enclosure filter fan](https://eloragrid.ai/objects/ga-enclosure-filter-fan)
 - [Enclosure air conditioner](https://eloragrid.ai/objects/ga-enclosure-air-conditioner)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

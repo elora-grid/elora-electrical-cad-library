@@ -29,19 +29,18 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is the SC5000UD-MV-US-P3?
+## What the equipment does
 
-The Sungrow SC5000UD-MV-US-P3 is power conversion equipment for a large battery storage installation. Batteries use direct current (DC), while the electricity grid uses alternating current (AC). A power conversion system, or PCS, provides the controlled conversion needed to move energy between them.
+A battery power conversion system controls the exchange of electrical power between a DC battery and an AC network.
 
-When a battery installation charges, the conversion equipment helps move energy from the AC system into the DC batteries. When it discharges, energy travels back towards the AC system. The battery holds the energy; the PCS controls its conversion. They are different parts of the installation.
+In a microgrid, it can charge the battery when solar output exceeds demand and deliver power from the battery when demand rises.
 
-An outline drawing helps plan the equipment's position and footprint. Electrical drawings describe its interfaces with the rest of the installation. This entry currently points to manufacturer information; editable CAD for this exact configuration has not been located or acquired. Dimensions and interfaces must come from the matching manufacturer documents.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **PCS**: Power conversion system: equipment used to convert and control electrical power.
-- **DC**: Direct current, the form of electricity used by the battery.
-- **AC**: Alternating current, the form used by the electricity grid.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
-- [Sungrow SC5000UD-MV-US-P3 product information](https://www.sungrowpower.com/en/products/utility-energy-storage-system/b-sc5000ud-mv-us-p3)
+- [Sungrow official source](https://dl.sungrowpower.com/en/products)
 
 ## Choosing a file
 

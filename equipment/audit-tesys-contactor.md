@@ -29,19 +29,18 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is the LC1D38F7 contactor?
+## What the equipment does
 
-The Schneider Electric LC1D38F7 is an electrically operated switch called a contactor. A control signal energises a coil, which moves the contacts and switches the connected power circuit. This lets a control panel operate equipment without a person manually switching its power connections.
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
 
-A motor starter can use a contactor to turn a motor on when the control circuit calls for it. The contactor performs the switching; separate, correctly selected protection deals with overloads and short circuits. A contactor alone is not a complete motor starter.
+In a switchroom, a controller can operate a contactor to start a ventilation fan while separate protective devices deal with overloads and faults.
 
-The 3D CAD source helps a drafter check the device's shape and position in a panel. The product's connection diagram identifies its terminals. Check the complete LC1D38F7 code, coil supply, accessories and revision: a related TeSys model may not have the same configuration. The linked family archive has not been acquired locally.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **Coil**: The electromagnet that operates the switch when energised.
-- **Contacts**: The conducting parts that meet or separate to close or open a circuit.
-- **Pole**: One of the separate power paths switched by the device.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
-- [Schneider / Clipsal LC1D38F7 product information](https://www.clipsal.com/products/industrial/tesys/contactor-tesys-deca-3p3-no-ac-3-ac-3e-0-to-440v-38a-110vac-50-60hz-coil-lc1d38f7?itemno=LC1D38F7)
+- [Schneider Electric official source](https://www.clipsal.com/products/industrial/tesys/contactor-tesys-deca-3p3-no-ac-3-ac-3e-0-to-440v-38a-110vac-50-60hz-coil-lc1d38f7?itemno=LC1D38F7)
 
 ## Choosing a file
 
@@ -50,6 +49,7 @@ Available here: ZIP. The original filename is MCADPP0003728\_3D-CAD.zip.
 
 ## Equipment references and drawing guides
 
+- [Schneider Electric LC1D38F7 TeSys Deca contactor](https://eloragrid.ai/objects/audit-tesys-contactor)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

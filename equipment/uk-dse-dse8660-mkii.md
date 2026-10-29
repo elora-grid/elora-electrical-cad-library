@@ -28,17 +28,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DSE8660 MKII wiring CAD?
+## What the equipment does
 
-DSE8660 MKII wiring CAD is a CAD resource from Deep Sea Electronics. Official controller wiring drawing. This describes electrical connections, not a complete generator package or certified switchboard design.
+A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
 
-For DSE8660 MKII wiring CAD, start with DSE8660 MKII wiring CAD. This entry lists 1 file route in CAD. Match the filename and equipment configuration to your project, then use Deep Sea Electronics's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a microgrid switchroom, a transfer assembly can change selected loads from the incoming network to a standby generator when the designed conditions are met.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Deep Sea Electronics official source](https://www.deepseaelectronics.com/genset/load-sharing-synchronising-control-modules/dse8660-mkii/downloads)
 
@@ -49,6 +48,7 @@ Available here: CAD. The original filename is DSE8660 MKII wiring CAD.
 
 ## Equipment references and drawing guides
 
+- [DSE8660 MKII mains and transfer controller](https://eloragrid.ai/objects/uk-dse-dse8660-mkii)
 - [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
 - [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

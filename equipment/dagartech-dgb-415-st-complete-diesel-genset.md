@@ -29,17 +29,16 @@ Discoverable equally for USA and Australia. Confirm exact regional product, elec
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is DGB 415 ST complete diesel genset?
+## What the equipment does
 
-DGB 415 ST complete diesel genset is a CAD resource from Dagartech. 50 Hz, 400/230 V, Baudouin 6M21G2D0/S and STAMFORD S4L1D-E package. Product page advertises installation DWG, but actual link points to /en/my-account/ with a lock icon; account required, no DWG acquired.
+A generator turns mechanical movement into electrical power. An engine-driven generating set combines the engine, alternator and supporting equipment.
 
-For DGB 415 ST complete diesel genset, start at Dagartech's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a microgrid, a generator can supply loads when solar output and available battery energy are insufficient.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Dagartech official source](https://www.dagartech.com/en/generator-sets/dgb-415-st-400-230v/)
 

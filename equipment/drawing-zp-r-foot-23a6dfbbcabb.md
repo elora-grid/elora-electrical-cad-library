@@ -28,17 +28,16 @@ The exact supplied files are ZP R Foot.STEP. Use the listed geometry for the mat
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is this Abtech resource?
+## What the equipment does
 
-Original Abtech ZP R FOOT mounting-foot drawing files, with STEP geometry from the official manufacturer archive.
+A mounting support attaches equipment to its base or surrounding structure and keeps it in the intended position.
 
-For a layout that specifies ZP R FOOT, use the exact named drawing above to establish its position alongside the matching enclosure or adjacent equipment.
+In a substation layout, a mounting-foot drawing helps coordinate the enclosure's fixing points with its support.
 
 The exact supplied files are ZP R Foot.STEP. Use the listed geometry for the matching part in your layout. Keep the manufacturer model suffix when comparing it with another size in the same range.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Match the ZP R FOOT size and suffix to the selected Abtech enclosure or accessory.
 - Find ZP R Foot.STEP in the archive path shown above.
@@ -57,7 +56,7 @@ The geometry helps with placement and mounting coordination. Material, environme
 
 Use the exact archive path printed under each download. A 2D range archive can include other enclosure sizes; a 3D archive can contain the selected assembly. This page keeps the matching model filenames together.
 
-- [Abtech official drawing source](https://www.abtech-inc.com/resources/cad-2d-3d)
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 ## Choosing a file
 
@@ -71,12 +70,13 @@ The exact supplied files are ZP R Foot.STEP. Use the listed geometry for the mat
 
 ## Preview
 
-![Abtech Abtech ZP R FOOT mounting foot CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-zp-r-foot-23a6dfbbcabb/reviewed-a62b0023e7b44c1944e1?asset=c66a74667deda188ff415482f7247ff09027a804bdfe48489d32cf21837f0cdc-a2e2a2f5d78a6ec6&view=thumb&v=e8d9493c93c2f1db)
+![Abtech Abtech ZP R FOOT mounting foot CAD files: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/drawing-zp-r-foot-23a6dfbbcabb/reviewed-a62b0023e7b44c1944e1?asset=c66a74667deda188ff415482f7247ff09027a804bdfe48489d32cf21837f0cdc-a2e2a2f5d78a6ec6&view=thumb&v=2482e5d8fe57d847)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-r-foot-23a6dfbbcabb). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [Abtech ZP enclosure](https://eloragrid.ai/objects/uk-abtech-zp)
 - [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
 - [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
 - [Mounting plate](https://eloragrid.ai/objects/mounting-plate)

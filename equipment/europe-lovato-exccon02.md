@@ -29,17 +29,16 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
 
-## What is EXCCON02 RS485/Ethernet Modbus converter?
+## What the equipment does
 
-EXCCON02 RS485/Ethernet Modbus converter is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+A communication interface helps devices exchange information. A gateway may translate between communication systems, while a transceiver sends and receives their signals.
 
-For EXCCON02 RS485/Ethernet Modbus converter, start with 2d\_EXCCON02.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+In a substation, a gateway can make equipment measurements available to a station control system using the supported communication protocols.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [LOVATO Electric official source](https://catalogue.lovatoelectric.com/de_de/Erweiterungsmodul-Konverter-MODBUS-RS485-Ethernet-mit-Montageset-fur-die-DIN-Schiene/EXCCON02/snp)
 
@@ -50,12 +49,13 @@ Available here: DWG, STP. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![LOVATO Electric EXCCON02 RS485/Ethernet Modbus converter: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-exccon02/europe-lovato-exccon02-610d64b7f087?asset=57cda641009cc5ab3f4516640445bbc7d44c836dfe372658fcbc9791631f3b04&view=thumb&v=2c9f758558875c75)
+![LOVATO Electric EXCCON02 RS485/Ethernet Modbus converter: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-exccon02/europe-lovato-exccon02-610d64b7f087?asset=57cda641009cc5ab3f4516640445bbc7d44c836dfe372658fcbc9791631f3b04&view=thumb&v=f0dd1694b303213a)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-exccon02). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 
+- [LOVATO EXCCON02 communication converter](https://eloragrid.ai/objects/europe-lovato-exccon02)
 - [Industrial Ethernet switch](https://eloragrid.ai/objects/ga-industrial-ethernet-switch)
 - [Communication gateway](https://eloragrid.ai/objects/ga-communication-gateway)
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)

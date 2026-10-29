@@ -28,17 +28,16 @@ Enter the exact material number in the official CAD search. If the model is offe
 - Source checked: 2026-10-27
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is this Bosch Rexroth resource?
+## What this resource helps you do
 
-Bosch Rexroth’s CAD search identifies resources by material number. Motion, drive and machine components can have configured mechanical interfaces, so a broad family name often cannot identify the correct model.
+This manufacturer resource helps you find drawings or select versions of motion control, drive equipment, automation components. Use it to locate the matching equipment outline or model for your design.
 
-A machine designer can search a known material number, or use the relevant engineering configurator when the required assembly has options.
+When planning a microgrid installation, you can use this collection to find the selected motion control drawing before reserving its space, mounting points and cable routes in the layout.
 
 Enter the exact material number in the official CAD search. If the model is offered only through a product-group configurator, retain the resulting configuration reference. The manufacturer notes that some resources depend on the selected engineering tool or login; availability should be confirmed for the actual item.
 
-- **Geometry**: The physical shape represented by the model or drawing.
-- **Configuration**: The exact equipment version and options selected for the installation.
-- **Revision**: The recorded version of the file or document.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - Provide material number or complete configured type code.
 - Identify the assembly and mechanical interface options.
@@ -48,7 +47,7 @@ Enter the exact material number in the official CAD search. If the model is offe
 
 The manufacturer identifies additional resources through its product-group engineering tools and, in some cases, logged-in access. Record the exact configuration in a drawing request for follow-up.
 
-- [Bosch Rexroth official drawing source](https://www.boschrexroth.com/en/sg/downloads/cad-files/)
+- [Bosch Rexroth official source](https://www.boschrexroth.com/en/sg/downloads/cad-files/)
 
 ## Choosing a file
 

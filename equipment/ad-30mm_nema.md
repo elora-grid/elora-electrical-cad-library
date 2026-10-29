@@ -28,17 +28,16 @@ Archive spans multiple parts; no assembly or product compatibility inferred.
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is 30mm NEMA CAD package?
+## What the equipment does
 
-30mm NEMA CAD package is a CAD resource from AutomationDirect. Official product-family drawing archive published in AutomationDirect technical support. Inspect contained part numbers before use.
+Automation equipment gathers information, follows control rules and passes commands between the equipment and the people operating it.
 
-For 30mm NEMA CAD package, start at AutomationDirect's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a switchroom, sensors, a controller and an operator screen can work together to control ventilation and report a failed fan.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [AutomationDirect official source](https://support.automationdirect.com/docs/drawings.html)
 

@@ -28,17 +28,16 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Source checked: 2026-10-13
 - Download access: Use the official manufacturer source or request the exact drawing
 
-## What is 93PM 480V industrial UPS engineering source?
+## What the equipment does
 
-93PM 480V industrial UPS engineering source is a CAD resource from Eaton. USA 480 V UPS source and public dimensional/site-planning PDF are verified. Editable CAD/BIM for selected frame, batteries and bypass has not been acquired.
+A UPS uses stored energy or another designed supply arrangement to keep selected loads powered when the normal supply is interrupted.
 
-For 93PM 480V industrial UPS engineering source, start at Eaton's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+In a substation, a UPS can keep communication and monitoring equipment running through an interruption of their normal supply.
 
-Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+Use an outline or mounting drawing to plan where the equipment fits and where it attaches. Use a connection drawing to trace its electrical interfaces. A 3D model helps coordinate space; check the manufacturer's installation requirements separately.
 
-- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
-- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
-- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
 
 - [Eaton official source](https://www.eaton.com/us/en-us/catalog/backup-power-ups-surge-it-power-distribution/eaton-93pm-480v-ups.html)
 

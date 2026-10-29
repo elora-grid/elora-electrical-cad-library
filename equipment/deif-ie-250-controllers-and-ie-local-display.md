@@ -2,7 +2,7 @@
 
 Generator controller mounting geometry, MIO options, local display and EPLAN engineering packages.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/deif-ie-250-controllers-and-ie-local-display) · [Official manufacturer source](https://www.deif.com/documentation/ie-250)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/deif-ie-250-controllers-and-ie-local-display) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/deif-ie-250-controllers-and-ie-local-display.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/deif-ie-250-controllers-and-ie-local-display.json) · [Official manufacturer source](https://www.deif.com/documentation/ie-250)
 
 - Category: Automation & controls
 - Entry type: family
@@ -15,6 +15,45 @@ Generator controller mounting geometry, MIO options, local display and EPLAN eng
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: iE 250 controllers and iE local display
+- Manufacturer: DEIF
+- Resource type: Product family
+- Listed file formats: DWG, EPLAN EDZ, STEP, ZIP, EPLAN
+- Listed files: 8
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is iE 250 controllers and iE local display?
+
+iE 250 controllers and iE local display is a CAD resource from DEIF. Generator controller mounting geometry, MIO options, local display and EPLAN engineering packages.
+
+For iE 250 controllers and iE local display, start with ie-7-local-display-2d-cad-drawing.dwg. This entry lists 8 file routes in DWG, EPLAN EDZ, STEP, ZIP, EPLAN. Match the filename and equipment configuration to your project, then use DEIF's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [DEIF official source](https://www.deif.com/documentation/ie-250)
+
+## Choosing a file
+
+This is DEIF's iE 250 controllers and iE local display collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

@@ -2,7 +2,7 @@
 
 Official Lithium NG Batteries dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lithium-ng-batteries) · [Official manufacturer source](https://www.victronenergy.com/batteries/lithium-ng-batteries)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lithium-ng-batteries) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-lithium-ng-batteries.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-lithium-ng-batteries.json) · [Official manufacturer source](https://www.victronenergy.com/batteries/lithium-ng-batteries)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -16,6 +16,53 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: Lithium NG Batteries
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 9
+- Available previews: 8 interactive model variants
+- Recorded revisions: 00, 01, 02, 03
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is Lithium NG Batteries?
+
+Lithium NG Batteries is a CAD resource from Victron Energy. Official Lithium NG Batteries dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For Lithium NG Batteries, start with Bracket-for-Lithium-NG-Batteries-step.STEP (recorded revision 00). This entry lists 9 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/batteries/lithium-ng-batteries)
+
+## Choosing a file
+
+This is Victron Energy's Lithium NG Batteries collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy Lithium NG Batteries: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-lithium-ng-batteries/victron-energy-bracket-for-lithium-ng-batteries-step-step?asset=cd99287c4b8e07f5ec28c4d68a74f6094e94dccd0a3944bb2852f3a77e5fe5f7&view=thumb&v=fe60c4332e25a152)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lithium-ng-batteries). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy Lithium NG Batteries](https://eloragrid.ai/objects/victron-energy-lithium-ng-batteries)
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### Bracket-for-Lithium-NG-Batteries-step.STEP
@@ -27,7 +74,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: cd99287c4b8e07f5ec28c4d68a74f6094e94dccd0a3944bb2852f3a77e5fe5f7
 - Original bytes: 361703
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +95,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: ace74b0307b730d433aa3e648908b52cc82716bdf9dc8aaa2fe8f6c44ffd812d
 - Original bytes: 7880270
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -69,7 +116,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 0aa78ef525614b17b5baf78df914c1e7acccdbccfd5c709908ebb71459572801
 - Original bytes: 7883251
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -90,7 +137,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: ae0fc44a4acdb6d0369787c3aca0436ff68e880ba4e80f2d8b531a6ca3da7f35
 - Original bytes: 10220524
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -111,7 +158,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: e47ba8eb1f4a66b2096c9abcd2f1280b4ee37c1e49875cc7e2f5b4ae2175f733
 - Original bytes: 10957759
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -132,7 +179,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: ae0fc44a4acdb6d0369787c3aca0436ff68e880ba4e80f2d8b531a6ca3da7f35
 - Original bytes: 10220524
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -153,7 +200,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 7fd55ea3187b43c996515487a20f9f4b0b65edb9207ab7c2a944f6340fbef6a6
 - Original bytes: 12213190
-- Revision: Not recorded
+- Revision: 03
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -174,7 +221,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: e317f7d6c655cd01fceecbf99da0c16f70f69dd6f11878177d059b69399a8677
 - Original bytes: 13197116
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -195,7 +242,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 251121562e282431a0c3c43aa0d1f403af2131ed2b909f1e7ce5306c069edb72
 - Original bytes: 12551317
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy

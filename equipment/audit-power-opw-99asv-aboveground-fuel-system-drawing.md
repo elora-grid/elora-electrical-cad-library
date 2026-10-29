@@ -2,7 +2,7 @@
 
 Public manufacturer drawing index lists this exact DWG. Original index date is 26 October 2014; verify current product/revision before installation.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-power-opw-99asv-aboveground-fuel-system-drawing) · [Official manufacturer source](https://www.opwglobal.com/opw-retail-fueling/resources/product-cad-drawings/product-cad-drawing-downloads)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-power-opw-99asv-aboveground-fuel-system-drawing) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/audit-power-opw-99asv-aboveground-fuel-system-drawing.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/audit-power-opw-99asv-aboveground-fuel-system-drawing.json) · [Official manufacturer source](https://www.opwglobal.com/opw-retail-fueling/resources/product-cad-drawings/product-cad-drawing-downloads)
 
 - Category: Generator auxiliaries
 - Entry type: product
@@ -15,6 +15,46 @@ Public manufacturer drawing index lists this exact DWG. Original index date is 2
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 Market tags describe this official regional source, not certification or suitability of every configuration. Global alone means discovery, with exact USA/Australia configuration still unverified.
 Use exact hardware/configuration/revision. Regional voltage alone does not establish required certifications.
+
+## Equipment and file summary
+
+- Equipment / resource: 99ASV aboveground fuel-system drawing
+- Manufacturer: OPW
+- Resource type: Product
+- Part number: 99ASV
+- Listed file formats: DWG
+- Listed files: 1
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is 99ASV aboveground fuel-system drawing?
+
+99ASV aboveground fuel-system drawing is a CAD resource from OPW. Public manufacturer drawing index lists this exact DWG. Original index date is 26 October 2014; verify current product/revision before installation.
+
+For 99ASV aboveground fuel-system drawing, start with 99asv.dwg. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use OPW's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [OPW official source](https://www.opwglobal.com/opw-retail-fueling/resources/product-cad-drawings/product-cad-drawing-downloads)
+
+## Choosing a file
+
+Start with 99ASV. The files above belong to OPW's 99ASV aboveground fuel-system drawing resource; match any model or option suffix in the filename to your selected unit.
+Available here: DWG. The original filename is 99asv.dwg.
+
+## Equipment references and drawing guides
+
+- [Generator exhaust silencer](https://eloragrid.ai/objects/ga-generator-exhaust-silencer)
+- [Generator day tank](https://eloragrid.ai/objects/ga-generator-day-tank)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

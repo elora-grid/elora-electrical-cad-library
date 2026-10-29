@@ -2,7 +2,7 @@ import {readFile,readdir} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
 import {join} from 'node:path';
-import {validateCatalogue,SCHEMA} from './catalogue.mjs';
+import {validateCatalogue,SCHEMA,snapshotCounts} from './catalogue.mjs';
 const root=fileURLToPath(new URL('..',import.meta.url));
 const catalogue=validateCatalogue(JSON.parse(await readFile(join(root,'data/catalogue.json'),'utf8')));
 const schema=JSON.parse(await readFile(join(root,'schema/catalogue.schema.json'),'utf8'));
@@ -15,5 +15,5 @@ for(const [name,expected] of Object.entries(manifest.files)){
 }
 const generated=await readdir(join(root,'equipment'));
 if(generated.length!==catalogue.total+1)throw Error('Unexpected equipment pages');
-if(manifest.counts.entries!==catalogue.total||manifest.counts.hostedFileEntries!==catalogue.equipment.flatMap(r=>r.files).filter(f=>f.downloadUrl).length)throw Error('Manifest counts mismatch');
+for(const [key,value] of Object.entries(snapshotCounts(catalogue.equipment)))if(manifest.counts[key]!==value)throw Error(`Manifest count mismatch: ${key}`);
 console.log(`Validated ${catalogue.total} entries, ${manifest.counts.listedFiles} file links, ${manifest.counts.hostedFileEntries} site download entries and all generated checksums.`);

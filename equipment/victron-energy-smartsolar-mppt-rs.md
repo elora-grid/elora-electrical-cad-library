@@ -2,7 +2,7 @@
 
 Official SmartSolar MPPT RS dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-smartsolar-mppt-rs) · [Official manufacturer source](https://www.victronenergy.com/solar-charge-controllers/smartsolar-mppt-rs-450-tr)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-smartsolar-mppt-rs) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-smartsolar-mppt-rs.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-smartsolar-mppt-rs.json) · [Official manufacturer source](https://www.victronenergy.com/solar-charge-controllers/smartsolar-mppt-rs-450-tr)
 
 - Category: Solar & inverters
 - Entry type: family
@@ -16,6 +16,52 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: SmartSolar MPPT RS
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 2
+- Available previews: 2 interactive model variants
+- Recorded revisions: 01
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is SmartSolar MPPT RS?
+
+SmartSolar MPPT RS is a CAD resource from Victron Energy. Official SmartSolar MPPT RS dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For SmartSolar MPPT RS, start with SmartSolar-MPPT-RS-450-100-MC4-(step).STEP (recorded revision 01). This entry lists 2 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/solar-charge-controllers/smartsolar-mppt-rs-450-tr)
+
+## Choosing a file
+
+This is Victron Energy's SmartSolar MPPT RS collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy SmartSolar MPPT RS: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-smartsolar-mppt-rs/victron-energy-smartsolar-mppt-rs-450-200-mc4-step-step?asset=b7b9c2a6cd46fb439d66660a28e785980bd3f43e4941cb61c769b90ba87d83af&view=thumb&v=a83b63ef4916e69f)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-smartsolar-mppt-rs). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy SmartSolar MPPT RS](https://eloragrid.ai/objects/victron-energy-smartsolar-mppt-rs)
+- [PV inverter cabinet](https://eloragrid.ai/objects/ga-pv-inverter-cabinet)
+- [MPPT solar charge controller](https://eloragrid.ai/objects/ga-mppt-solar-charge-controller)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### SmartSolar-MPPT-RS-450-100-MC4-(step).STEP
@@ -27,7 +73,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 17e55a690263dea948d51fc8650defe917d06a5af97851bf2b34d516addff383
 - Original bytes: 7142118
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +94,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: b7b9c2a6cd46fb439d66660a28e785980bd3f43e4941cb61c769b90ba87d83af
 - Original bytes: 7616431
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy

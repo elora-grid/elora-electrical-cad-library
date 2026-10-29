@@ -2,7 +2,7 @@
 
 Official Skylla-IP65 dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-skylla-ip65) · [Official manufacturer source](https://www.victronenergy.com/chargers/skylla-ip65)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-skylla-ip65) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-skylla-ip65.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-skylla-ip65.json) · [Official manufacturer source](https://www.victronenergy.com/chargers/skylla-ip65)
 
 - Category: Auxiliary power & UPS
 - Entry type: family
@@ -15,6 +15,52 @@ Official Skylla-IP65 dimensional CAD. Exact voltage, power, hardware generation 
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: Skylla-IP65
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is Skylla-IP65?
+
+Skylla-IP65 is a CAD resource from Victron Energy. Official Skylla-IP65 dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For Skylla-IP65, start with DimensionDrawing\_Skylla-IP65-3D.STEP. This entry lists 2 file routes in DWG, STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/chargers/skylla-ip65)
+
+## Choosing a file
+
+This is Victron Energy's Skylla-IP65 collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy Skylla-IP65: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-skylla-ip65/victron-energy-dimensiondrawing-skylla-ip65-3d-step?asset=099b0bcd56f65d1e6637092fbb62e6a4c2601594fd98052b0a714911b463de13&view=thumb&v=47b1a0294957702d)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-skylla-ip65). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy Skylla-IP65](https://eloragrid.ai/objects/victron-energy-skylla-ip65)
+- [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
+- [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

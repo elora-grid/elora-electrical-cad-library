@@ -2,7 +2,7 @@
 
 Official source covers day tanks, filtration, filling, pump sets and control/monitoring. Supporting manuals include drawings; public editable CAD is not verified.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/simplex-fuel-supply-engineering-resources) · [Official manufacturer source](https://www.simplexdirect.com/fuel-supply/)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/simplex-fuel-supply-engineering-resources) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/simplex-fuel-supply-engineering-resources.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/simplex-fuel-supply-engineering-resources.json) · [Official manufacturer source](https://www.simplexdirect.com/fuel-supply/)
 
 - Category: Generator auxiliaries
 - Entry type: library
@@ -15,6 +15,45 @@ Official source covers day tanks, filtration, filling, pump sets and control/mon
 Official source covers day tanks, filtration, filling, pump sets and control/monitoring. Supporting manuals include drawings; public editable CAD is not verified.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: Fuel supply engineering resources
+- Manufacturer: Simplex
+- Resource type: Manufacturer library
+- Listed file formats: PDF
+- Listed files: 0
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is Fuel supply engineering resources?
+
+Fuel supply engineering resources is a CAD resource from Simplex. Official source covers day tanks, filtration, filling, pump sets and control/monitoring. Supporting manuals include drawings; public editable CAD is not verified.
+
+For Fuel supply engineering resources, start at Simplex's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Simplex official source](https://www.simplexdirect.com/fuel-supply/)
+
+## Choosing a file
+
+This is Simplex's Fuel supply engineering resources collection. Select the model or accessory named in each file, rather than choosing solely by format.
+No individual CAD file is currently listed. Use the source or request drawings for your catalogue number.
+
+## Equipment references and drawing guides
+
+- [Generator exhaust silencer](https://eloragrid.ai/objects/ga-generator-exhaust-silencer)
+- [Generator day tank](https://eloragrid.ai/objects/ga-generator-day-tank)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

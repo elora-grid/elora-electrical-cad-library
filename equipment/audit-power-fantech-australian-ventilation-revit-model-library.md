@@ -2,7 +2,7 @@
 
 Public Australian Fantech Revit archive acquired: 64,296,825 bytes, 158 RFA family members. ZIP integrity and embedded family signatures checked; exact product configuration and certification still require review.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-power-fantech-australian-ventilation-revit-model-library) · [Official manufacturer source](https://www.fantech.com.au/Content.aspx?ContentID=D5)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-power-fantech-australian-ventilation-revit-model-library) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/audit-power-fantech-australian-ventilation-revit-model-library.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/audit-power-fantech-australian-ventilation-revit-model-library.json) · [Official manufacturer source](https://www.fantech.com.au/Content.aspx?ContentID=D5)
 
 - Category: Switchroom services
 - Entry type: family
@@ -15,6 +15,45 @@ Public Australian Fantech Revit archive acquired: 64,296,825 bytes, 158 RFA fami
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 Market tags describe this official regional source, not certification or suitability of every configuration. Global alone means discovery, with exact USA/Australia configuration still unverified.
 Use exact hardware/configuration/revision. Regional voltage alone does not establish required certifications.
+
+## Equipment and file summary
+
+- Equipment / resource: Australian ventilation Revit model library
+- Manufacturer: Fantech
+- Resource type: Product family
+- Listed file formats: RFA, ZIP
+- Listed files: 1
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is Australian ventilation Revit model library?
+
+Australian ventilation Revit model library is a CAD resource from Fantech. Public Australian Fantech Revit archive acquired: 64,296,825 bytes, 158 RFA family members. ZIP integrity and embedded family signatures checked; exact product configuration and certification still require review.
+
+For Australian ventilation Revit model library, start with 26.04.20 Fantech Revit Models.zip. This entry lists 1 file route in RFA, ZIP. Match the filename and equipment configuration to your project, then use Fantech's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Fantech official source](https://www.fantech.com.au/Content.aspx?ContentID=D5)
+
+## Choosing a file
+
+This is Fantech's Australian ventilation Revit model library collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: ZIP. The original filename is 26.04.20 Fantech Revit Models.zip.
+
+## Equipment references and drawing guides
+
+- [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
+- [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

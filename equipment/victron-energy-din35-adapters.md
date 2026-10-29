@@ -2,7 +2,7 @@
 
 Official DIN35 adapters dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-din35-adapters) · [Official manufacturer source](https://www.victronenergy.com/accessories/din35-adapter-small)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-din35-adapters) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-din35-adapters.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-din35-adapters.json) · [Official manufacturer source](https://www.victronenergy.com/accessories/din35-adapter-small)
 
 - Category: Wiring & terminals
 - Entry type: family
@@ -16,6 +16,52 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: DIN35 adapters
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: DWG, STEP
+- Listed files: 6
+- Available previews: 3 drawing previews; 3 interactive model variants
+- Recorded revisions: 00, 02
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is DIN35 adapters?
+
+DIN35 adapters is a CAD resource from Victron Energy. Official DIN35 adapters dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For DIN35 adapters, start with DimensionDrawing-DIN-35-adapter-large-3D.STEP (recorded revision 00). This entry lists 6 file routes in DWG, STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/accessories/din35-adapter-small)
+
+## Choosing a file
+
+This is Victron Energy's DIN35 adapters collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy DIN35 adapters: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-medium-3d-step?asset=9e932b2fbcc879d872ee91814b9394bd213b5886d8a6d0bab57c2b48b4bc717b&view=thumb&v=34de5b40dc2dd30e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-din35-adapters). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy DIN35 adapter](https://eloragrid.ai/objects/victron-energy-din35-adapter)
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### DimensionDrawing-DIN-35-adapter-large-3D.STEP
@@ -27,7 +73,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 679adc37703215e38ec0f78a45b47c60f40a9f9dbdd1daa14aaebaf8508745fc
 - Original bytes: 5212798
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -69,7 +115,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 9e932b2fbcc879d872ee91814b9394bd213b5886d8a6d0bab57c2b48b4bc717b
 - Original bytes: 5000360
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -111,7 +157,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 76b45975daae6a1bc10c627e5de5d937f70935c1732cbb86a5abd96b0d52e6f6
 - Original bytes: 6054017
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy

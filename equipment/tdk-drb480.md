@@ -2,7 +2,7 @@
 
 Manufacturer original mechanical CAD for panel layout and equipment arrangement.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/tdk-drb480) · [Official manufacturer source](https://www.emea.lambda.tdk.com/uk/technical-data/data?resource=3D-Drawings)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/tdk-drb480) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/tdk-drb480.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/tdk-drb480.json) · [Official manufacturer source](https://www.emea.lambda.tdk.com/uk/technical-data/data?resource=3D-Drawings)
 
 - Category: Auxiliary power & UPS
 - Entry type: product
@@ -15,6 +15,46 @@ Manufacturer original mechanical CAD for panel layout and equipment arrangement.
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 Globally discoverable manufacturer model; exact configuration and regional suitability must be checked.
 Use only for the model/configuration stated in each original drawing.
+
+## Equipment and file summary
+
+- Equipment / resource: DRB480 mechanical model
+- Manufacturer: TDK-Lambda
+- Resource type: Product
+- Part number: DRB480
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is DRB480 mechanical model?
+
+DRB480 mechanical model is a CAD resource from TDK-Lambda. Manufacturer original mechanical CAD for panel layout and equipment arrangement.
+
+For DRB480 mechanical model, start with drb480\_out\_step.zip. This entry lists 1 file route in STEP. Match the filename and equipment configuration to your project, then use TDK-Lambda's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [TDK-Lambda official source](https://www.emea.lambda.tdk.com/uk/technical-data/data?resource=3D-Drawings)
+
+## Choosing a file
+
+Start with DRB480. The files above belong to TDK-Lambda's DRB480 mechanical model resource; match any model or option suffix in the filename to your selected unit.
+Available here: STEP. The original filename is drb480\_out\_step.zip.
+
+## Equipment references and drawing guides
+
+- [DIN-rail AC/DC power supply](https://eloragrid.ai/objects/ga-din-rail-ac-dc-power-supply)
+- [AC UPS cabinet](https://eloragrid.ai/objects/ga-ac-ups-cabinet)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

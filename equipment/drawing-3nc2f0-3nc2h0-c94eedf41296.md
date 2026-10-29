@@ -1,0 +1,97 @@
+# Fuji Electric — Fuji 3NC2F0 / 3NC2H0 contactor STEP model
+
+This grouped STEP resource represents the identified 3NC2F0 and 3NC2H0 Odyssey contactor types. Contactors switch a power circuit when their operating mechanism receives the specified control input.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/drawing-3nc2f0-3nc2h0-c94eedf41296) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/drawing-3nc2f0-3nc2h0-c94eedf41296.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/drawing-3nc2f0-3nc2h0-c94eedf41296.json) · [Official manufacturer source](https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/cad-data/)
+
+- Category: Switchboards & switchgear
+- Entry type: drawing
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: US, Global
+- Access: direct
+- Checked: 2026-10-13T00:00:00.000Z
+
+Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
+Official Fuji Electric Americas collection; regional suitability depends on exact product.
+Use the matching STEP member, not the smaller 3NC0T0/3NC1Q0 group. Fuji lists these basic types in its Orange Line and smaller Odyssey discontinuation notice. Check the proposed replacement’s mounting and contact/accessory arrangement rather than treating the archived geometry as a current product guarantee.
+
+## Equipment and file summary
+
+- Equipment / resource: Fuji 3NC2F0 / 3NC2H0 contactor STEP model
+- Manufacturer: Fuji Electric
+- Resource type: Named drawing reference
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is this Fuji Electric resource?
+
+This grouped STEP resource represents the identified 3NC2F0 and 3NC2H0 Odyssey contactor types. Contactors switch a power circuit when their operating mechanism receives the specified control input.
+
+A replacement project can compare the archived body with the installed contactor and separately assess the manufacturer’s current replacement arrangement.
+
+Use the matching STEP member, not the smaller 3NC0T0/3NC1Q0 group. Fuji lists these basic types in its Orange Line and smaller Odyssey discontinuation notice. Check the proposed replacement’s mounting and contact/accessory arrangement rather than treating the archived geometry as a current product guarantee.
+
+- **Geometry**: The physical shape represented by the model or drawing.
+- **Configuration**: The exact equipment version and options selected for the installation.
+- **Revision**: The recorded version of the file or document.
+
+- Identify the installed complete contactor code.
+- Use the correct grouped geometry file.
+- Check the official discontinuation and replacement information.
+
+### Does a replacement type necessarily use the same mounting holes?
+
+No. Fuji’s replacement notice specifically calls for attention to changed arrangements. Compare the selected replacement drawing and its associated equipment.
+
+- [Fuji Electric official drawing source](https://americas.fujielectric.com/products/power-distribution-control/distribution-control-support/cad-data/)
+- [Fuji discontinuation and replacement notice](https://americas.fujielectric.com/wp-content/uploads/2025/09/Discontinuation-notice-for-Orange-Line-and-Odyssey-complete-1.pdf)
+
+## Choosing a file
+
+Use the matching STEP member, not the smaller 3NC0T0/3NC1Q0 group. Fuji lists these basic types in its Orange Line and smaller Odyssey discontinuation notice. Check the proposed replacement’s mounting and contact/accessory arrangement rather than treating the archived geometry as a current product guarantee.
+
+## Drawing family
+
+- Family: Orange Line / Odyssey Series
+- [Parent equipment collection](https://eloragrid.ai/tools/cad-library/equipment/fuji-orange-line---odyssey-series)
+- Original filename: 3NC2F0, 3NC2H0.STEP
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 3NC2F0, 3NC2H0.zip
+
+- Format: ZIP
+- Purpose: Contains 3NC2F0, 3NC2H0.STEP; download the original archive and locate the named member.
+- [Official source](https://americas.fujielectric.com/files/3NC2F0%2C%203NC2H0.zip)
+- Archive member: 3NC2F0, 3NC2H0.STEP
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: restricted
+- Original SHA-256: 25424ad080b4c215f95e0471aca3c5845b06aa4b8d1a1d9b692c3aa4c6d2f3ef
+- Original bytes: 251195
+- Revision: Not recorded
+- Retrieved: 2026-10-13T05:22:22.826055+00:00
+- Rights review: Website terms require prior written consent for copying or reproducing its contents.
+- [Rights evidence](https://americas.fujielectric.com/terms-of-service/)
+
+<details>
+<summary>Archive members</summary>
+
+- 3NC2F0, 3NC2H0.STEP
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

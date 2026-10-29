@@ -2,7 +2,7 @@
 
 Publisher CAD for an industrial alternator family, including SAE coupling and bearing/frame variants where linked. This is alternator geometry, not a complete packaged generator.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroysomeralternatorlsa502) · [Official manufacturer source](https://moen.nidec.com/fr-FR/power/Products/industrial/lsa/leroysomeralternatorlsa502)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroysomeralternatorlsa502) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroysomeralternatorlsa502.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroysomeralternatorlsa502.json) · [Official manufacturer source](https://moen.nidec.com/fr-FR/power/Products/industrial/lsa/leroysomeralternatorlsa502)
 
 - Category: Generators & alternators
 - Entry type: family
@@ -15,6 +15,45 @@ Publisher CAD for an industrial alternator family, including SAE coupling and be
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Confirm exact catalogue number, dimensional units, accessories, clearances, voltage/frequency and revision with the manufacturer.
+
+## Equipment and file summary
+
+- Equipment / resource: Leroy-Somer LSA 50.2
+- Manufacturer: Nidec Leroy-Somer
+- Resource type: Product family
+- Listed file formats: DWG
+- Listed files: 4
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-14
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is Leroy-Somer LSA 50.2?
+
+Leroy-Somer LSA 50.2 is a CAD resource from Nidec Leroy-Somer. Publisher CAD for an industrial alternator family, including SAE coupling and bearing/frame variants where linked. This is alternator geometry, not a complete packaged generator.
+
+For Leroy-Somer LSA 50.2, start with LSA502-8-006d.dwg. This entry lists 4 file routes in DWG. Match the filename and equipment configuration to your project, then use Nidec Leroy-Somer's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Nidec Leroy-Somer official source](https://moen.nidec.com/fr-FR/power/Products/industrial/lsa/leroysomeralternatorlsa502)
+
+## Choosing a file
+
+This is Nidec Leroy-Somer's Leroy-Somer LSA 50.2 collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: DWG. The individual filenames above distinguish the supplied variants.
+
+## Equipment references and drawing guides
+
+- [Generator package](https://eloragrid.ai/objects/generator-package)
+- [Generator paralleling controller](https://eloragrid.ai/objects/ga-generator-paralleling-controller)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

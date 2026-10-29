@@ -2,7 +2,7 @@
 
 Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-2420-lc) · [Official manufacturer source](https://github.com/LibreSolar/mppt-2420-lc)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-2420-lc) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-2420-lc.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-2420-lc.json) · [Official manufacturer source](https://github.com/LibreSolar/mppt-2420-lc)
 
 - Category: Solar & inverters
 - Entry type: family
@@ -15,6 +15,51 @@ Publisher-released native CAD for an open hardware component. Development/legacy
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Native project CAD can depend on symbols and footprints in the official repository. Check development status, revision, EMC and applicable product approvals before hardware use.
+
+## Equipment and file summary
+
+- Equipment / resource: MPPT 2420 LC solar controller hardware
+- Manufacturer: Libre Solar
+- Resource type: Product family
+- Listed file formats: KICAD\_PCB, SCH
+- Listed files: 7
+- Available previews: 1 drawing previews
+- Recorded revisions: c2211beb366b
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is MPPT 2420 LC solar controller hardware?
+
+MPPT 2420 LC solar controller hardware is a CAD resource from Libre Solar. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+
+For MPPT 2420 LC solar controller hardware, start with MPPT\_charger\_20A.kicad\_pcb (recorded revision c2211beb366b). This entry lists 7 file routes in KICAD\_PCB, SCH. Match the filename and equipment configuration to your project, then use Libre Solar's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Libre Solar official source](https://github.com/LibreSolar/mppt-2420-lc)
+
+## Choosing a file
+
+This is Libre Solar's MPPT 2420 LC solar controller hardware collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: KICAD\_PCB, SCH. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Libre Solar MPPT 2420 LC solar controller hardware: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/open-hardware-mppt-2420-lc/open-hardware-mppt-2420-lc-d1899a84e443?asset=0ce214ea33c56f232627222a363d2202e894525c8faf276071362cbc3c206866)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-2420-lc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PV inverter cabinet](https://eloragrid.ai/objects/ga-pv-inverter-cabinet)
+- [MPPT solar charge controller](https://eloragrid.ai/objects/ga-mppt-solar-charge-controller)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

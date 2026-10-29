@@ -2,7 +2,7 @@
 
 Official Multi RS Solar dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multi-rs-solar) · [Official manufacturer source](https://www.victronenergy.com/inverter-charger-mppt/multi-rs-solar)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multi-rs-solar) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-multi-rs-solar.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-multi-rs-solar.json) · [Official manufacturer source](https://www.victronenergy.com/inverter-charger-mppt/multi-rs-solar)
 
 - Category: Solar & inverters
 - Entry type: family
@@ -16,6 +16,52 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: Multi RS Solar
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 2
+- Available previews: 2 interactive model variants
+- Recorded revisions: 00
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is Multi RS Solar?
+
+Multi RS Solar is a CAD resource from Victron Energy. Official Multi RS Solar dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For Multi RS Solar, start with Multi-RS-Solar-1-tracker-PMR482602000-(step).STEP (recorded revision 00). This entry lists 2 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/inverter-charger-mppt/multi-rs-solar)
+
+## Choosing a file
+
+This is Victron Energy's Multi RS Solar collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy Multi RS Solar: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multi-rs-solar/victron-energy-multi-rs-solar-1-tracker-pmr482602000-step-step?asset=a0824d867d89362e71bfd26c4a101669182c83f9526d2de33ca7bb85627da9fc&view=thumb&v=9ace58b85bbe35e8)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multi-rs-solar). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy Multi RS Solar](https://eloragrid.ai/objects/victron-energy-multi-rs-solar)
+- [PV inverter cabinet](https://eloragrid.ai/objects/ga-pv-inverter-cabinet)
+- [MPPT solar charge controller](https://eloragrid.ai/objects/ga-mppt-solar-charge-controller)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### Multi-RS-Solar-1-tracker-PMR482602000-(step).STEP
@@ -27,7 +73,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: a0824d867d89362e71bfd26c4a101669182c83f9526d2de33ca7bb85627da9fc
 - Original bytes: 26796066
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +94,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 5428da7e2ca907bd72841e17025c7e349006f1a8d5f8c1f55e04993e5cb3855c
 - Original bytes: 27180320
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy

@@ -2,7 +2,7 @@
 
 Official MultiPlus-II dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii) · [Official manufacturer source](https://www.victronenergy.com/inverters-chargers/multiplus-ii)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-multiplus-ii.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-multiplus-ii.json) · [Official manufacturer source](https://www.victronenergy.com/inverters-chargers/multiplus-ii)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -16,6 +16,53 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: MultiPlus-II
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 20
+- Available previews: 19 interactive model variants
+- Recorded revisions: 01, 00, 02, 00x, 03
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is MultiPlus-II?
+
+MultiPlus-II is a CAD resource from Victron Energy. Official MultiPlus-II dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For MultiPlus-II, start with DimensionDrawing-48V15kVA-MultiPlus-II-3D.STEP (recorded revision 01). This entry lists 20 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/inverters-chargers/multiplus-ii)
+
+## Choosing a file
+
+This is Victron Energy's MultiPlus-II collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy MultiPlus-II: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multiplus-ii/victron-energy-multiplus-ii-24v-5000va-120v-step-step?asset=bc1791afbeb84e6538e139ce3ff688e121ef81e980679b74a1f817ebe5c924a6&view=thumb&v=33e41538b719f4dc)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy MultiPlus-II](https://eloragrid.ai/objects/victron-energy-multiplus-ii)
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### DimensionDrawing-48V15kVA-MultiPlus-II-3D.STEP
@@ -27,7 +74,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: b2668f125b52f0948213140ed0416417c8ef3f185d130df11a765c6b1fdabf90
 - Original bytes: 110176296
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +95,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: a98f78f181f63908371cf851a1243d72e409c12f51df3649a0000183e95776fd
 - Original bytes: 19854880
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -90,7 +137,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 626547951756ad2a6c45628a05ca24c70e33d137d76f35fd47bb7f8469d7ab43
 - Original bytes: 16180787
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -111,7 +158,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: dbbb72b4e9ec1eca300dceaad7a4dde9ec0fece87ebf2f9c9342bf87d1fb0984
 - Original bytes: 15812913
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -132,7 +179,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 7b21b5bf65134edf9a39e9c67706adfea3d5693ce223681391905d363e922bf4
 - Original bytes: 96785102
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -153,7 +200,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 4987337677ebf7fbcbe5027430cfba73ac2cd131401f9311b57049a2975ccef7
 - Original bytes: 18798933
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -174,7 +221,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: cb4d5235f3d713f2e031aa03d3e6d538451adf7d4595cbaaa47b3a30b565d801
 - Original bytes: 21487555
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -195,7 +242,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: bc1791afbeb84e6538e139ce3ff688e121ef81e980679b74a1f817ebe5c924a6
 - Original bytes: 7170169
-- Revision: Not recorded
+- Revision: 00x
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -237,7 +284,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 62d66dc7f5e486c4f957e48ff851a67c69b8c9d535896690ebfe83db3487ee61
 - Original bytes: 25469326
-- Revision: Not recorded
+- Revision: 03
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -258,7 +305,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 08cd99da8198a086f9c51184e3a323adab975f85c698a85e3cebdce4f3149171
 - Original bytes: 22418552
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -279,7 +326,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: f79c50be4391943058ce0932cb16f9d0fe0ece41b5997621d66b3539887fa36a
 - Original bytes: 30980793
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -300,7 +347,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 817e7fb3e37c765d79562f52a06089d757d2469a16822f175bf017495629be64
 - Original bytes: 79589070
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -321,7 +368,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 6192b1e1052623df29b53d27789d240f6f77a3a1eea2641f5fc0cdf63acfb3c8
 - Original bytes: 91843066
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -342,7 +389,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 95d98ec3bbb537f84810a92ff9585c4fa7e1c691de049d26180fcaf96d9e1623
 - Original bytes: 9767813
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -363,7 +410,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 95d98ec3bbb537f84810a92ff9585c4fa7e1c691de049d26180fcaf96d9e1623
 - Original bytes: 9767813
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -384,7 +431,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: dbc2015c3fd2498071556022543e601e295e6392b61d4d9713d1039e5d081bb9
 - Original bytes: 23536780
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -405,7 +452,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 4970aaacfe7cf12f4b46c1f044a465bb906418c0c75223821ff299ff648bbada
 - Original bytes: 33539076
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -426,7 +473,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 5e54aba9eda5cfabbcef88ca11ceb6ed6154fd58fbfbb3eb440a9f067207581a
 - Original bytes: 101230106
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy

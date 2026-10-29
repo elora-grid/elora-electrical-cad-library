@@ -2,7 +2,7 @@
 
 Manufacturer ventilation louvers drawings; choose exact size/configuration.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-635-louvers) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/louvers)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-635-louvers) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-635-louvers.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-635-louvers.json) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/louvers)
 
 - Category: Switchroom services
 - Entry type: family
@@ -15,6 +15,52 @@ Manufacturer ventilation louvers drawings; choose exact size/configuration.
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: ESD-635 louvers
+- Manufacturer: Greenheck
+- Resource type: Product family
+- Part number: ESD-635
+- Listed file formats: DWG, RFA, ZIP
+- Listed files: 2
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is ESD-635 louvers?
+
+ESD-635 louvers is a CAD resource from Greenheck. Manufacturer ventilation louvers drawings; choose exact size/configuration.
+
+For ESD-635 louvers, start with ESD-635\_DETAILS.dwg. This entry lists 2 file routes in DWG, RFA, ZIP. Match the filename and equipment configuration to your project, then use Greenheck's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Greenheck official source](https://www.greenheck.com/resources/drawings/louvers)
+
+## Choosing a file
+
+Start with ESD-635. The files above belong to Greenheck's ESD-635 louvers resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Greenheck ESD-635 louvers: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-esd-635-louvers/greenheck-esd-635-details-dwg?asset=0b325b345d0bb329f8ae8848265e0bab6db86c8ce47d54af66de8f013251db80)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-635-louvers). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
+- [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

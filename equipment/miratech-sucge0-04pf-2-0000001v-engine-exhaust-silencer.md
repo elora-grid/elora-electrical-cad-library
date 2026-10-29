@@ -2,7 +2,7 @@
 
 Engine exhaust silencer official drawing. Exact fitting and product configuration must be checked against the source drawing.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer) · [Official manufacturer source](https://miratechcorp.com/document/sucge0-04pf-2-0000001v_sd_1-dwg/)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer.json) · [Official manufacturer source](https://miratechcorp.com/document/sucge0-04pf-2-0000001v_sd_1-dwg/)
 
 - Category: Generator auxiliaries
 - Entry type: product
@@ -15,6 +15,52 @@ Engine exhaust silencer official drawing. Exact fitting and product configuratio
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: SUCGE0-04PF-2-0000001V Engine exhaust silencer
+- Manufacturer: MIRATECH
+- Resource type: Product
+- Part number: SUCGE0-04PF-2-0000001V
+- Listed file formats: DWG
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is SUCGE0-04PF-2-0000001V Engine exhaust silencer?
+
+SUCGE0-04PF-2-0000001V Engine exhaust silencer is a CAD resource from MIRATECH. Engine exhaust silencer official drawing. Exact fitting and product configuration must be checked against the source drawing.
+
+For SUCGE0-04PF-2-0000001V Engine exhaust silencer, start with SUCGE0-04PF-2-0000001V\_SD\_1.DWG. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use MIRATECH's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [MIRATECH official source](https://miratechcorp.com/document/sucge0-04pf-2-0000001v_sd_1-dwg/)
+
+## Choosing a file
+
+Start with SUCGE0-04PF-2-0000001V. The files above belong to MIRATECH's SUCGE0-04PF-2-0000001V Engine exhaust silencer resource; match any model or option suffix in the filename to your selected unit.
+Available here: DWG. The original filename is SUCGE0-04PF-2-0000001V\_SD\_1.DWG.
+
+## Preview
+
+![MIRATECH SUCGE0-04PF-2-0000001V Engine exhaust silencer: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer/miratech-sucge0-04pf-2-0000001v-sd-1-dwg?asset=48fe9c6171c9d0741d87513f8218a73a6302207279a1d4d949142ca15b5ca9b6)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Generator exhaust silencer](https://eloragrid.ai/objects/ga-generator-exhaust-silencer)
+- [Generator day tank](https://eloragrid.ai/objects/ga-generator-day-tank)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

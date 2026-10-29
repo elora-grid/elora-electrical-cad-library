@@ -2,7 +2,7 @@
 
 Official Australian Clipsal product page publishes customised CAD and 3D CAD ZIP links. HTTP 403 blocked local collection; actual inner formats remain unverified.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-climasys-grille) · [Official manufacturer source](https://www.clipsal.com/products/industrial/climasys/outlet-grille-plast-cut-out-223x223mm-ext-dim-268x248mm-ip54-nsycag223lpf?itemno=NSYCAG223LPF)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-climasys-grille) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/audit-climasys-grille.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/audit-climasys-grille.json) · [Official manufacturer source](https://www.clipsal.com/products/industrial/climasys/outlet-grille-plast-cut-out-223x223mm-ext-dim-268x248mm-ip54-nsycag223lpf?itemno=NSYCAG223LPF)
 
 - Category: Thermal management
 - Entry type: product
@@ -15,6 +15,46 @@ Official Australian Clipsal product page publishes customised CAD and 3D CAD ZIP
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 Source discoverability only. Exact USA/Australia configuration, units, frequency and approvals require manufacturer verification.
 Source and family discovery do not imply complete SKU or accessory coverage. Match drawing revision and exact configuration before use.
+
+## Equipment and file summary
+
+- Equipment / resource: NSYCAG223LPF grille CAD and mounting source
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Part number: NSYCAG223LPF
+- Listed file formats: ZIP
+- Listed files: 2
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: 1.0
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is NSYCAG223LPF grille CAD and mounting source?
+
+NSYCAG223LPF grille CAD and mounting source is a CAD resource from Schneider Electric. Official Australian Clipsal product page publishes customised CAD and 3D CAD ZIP links. HTTP 403 blocked local collection; actual inner formats remain unverified.
+
+For NSYCAG223LPF grille CAD and mounting source, start with UE\_CAD\_Customized\_NSYCAG223LPF.zip (recorded revision 1.0). This entry lists 2 file routes in ZIP. Match the filename and equipment configuration to your project, then use Schneider Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Schneider Electric official source](https://www.clipsal.com/products/industrial/climasys/outlet-grille-plast-cut-out-223x223mm-ext-dim-268x248mm-ip54-nsycag223lpf?itemno=NSYCAG223LPF)
+
+## Choosing a file
+
+Start with NSYCAG223LPF. The files above belong to Schneider Electric's NSYCAG223LPF grille CAD and mounting source resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP. The individual filenames above distinguish the supplied variants.
+
+## Equipment references and drawing guides
+
+- [Enclosure filter fan](https://eloragrid.ai/objects/ga-enclosure-filter-fan)
+- [Enclosure air conditioner](https://eloragrid.ai/objects/ga-enclosure-air-conditioner)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

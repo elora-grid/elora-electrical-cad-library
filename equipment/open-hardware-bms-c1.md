@@ -2,7 +2,7 @@
 
 Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-c1) · [Official manufacturer source](https://github.com/LibreSolar/bms-c1)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-c1) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/open-hardware-bms-c1.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/open-hardware-bms-c1.json) · [Official manufacturer source](https://github.com/LibreSolar/bms-c1)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -15,6 +15,52 @@ Publisher-released native CAD for an open hardware component. Development/legacy
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Native project CAD can depend on symbols and footprints in the official repository. Check development status, revision, EMC and applicable product approvals before hardware use.
+
+## Equipment and file summary
+
+- Equipment / resource: BMS C1 hardware and enclosure
+- Manufacturer: Libre Solar
+- Resource type: Product family
+- Listed file formats: FCSTD, KICAD\_PCB, KICAD\_SCH
+- Listed files: 7
+- Available previews: 1 drawing previews
+- Recorded revisions: 0ca09706f499
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is BMS C1 hardware and enclosure?
+
+BMS C1 hardware and enclosure is a CAD resource from Libre Solar. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+
+For BMS C1 hardware and enclosure, start with bms-c1.FCStd (recorded revision 0ca09706f499). This entry lists 7 file routes in FCSTD, KICAD\_PCB, KICAD\_SCH. Match the filename and equipment configuration to your project, then use Libre Solar's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Libre Solar official source](https://github.com/LibreSolar/bms-c1)
+
+## Choosing a file
+
+This is Libre Solar's BMS C1 hardware and enclosure collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: FCSTD, KICAD\_PCB, KICAD\_SCH. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Libre Solar BMS C1 hardware and enclosure: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/open-hardware-bms-c1/open-hardware-bms-c1-f83e7873fa24?asset=e9da18c610ae379a185c97edc8ea0ab7d155d67807ca1d5dc02183acd1750aee)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-c1). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

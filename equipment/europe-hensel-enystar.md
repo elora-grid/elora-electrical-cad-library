@@ -2,7 +2,7 @@
 
 Official simplified 3D STEP assemblies and accessories for Hensel distribution systems. Includes enclosure, lid, DIN rail, busbar support or terminal geometry where provided. Select exact system and component configuration.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-hensel-enystar) · [Official manufacturer source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-hensel-enystar) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/europe-hensel-enystar.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/europe-hensel-enystar.json) · [Official manufacturer source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
 
 - Category: Switchboards & switchgear
 - Entry type: family
@@ -15,6 +15,46 @@ Official simplified 3D STEP assemblies and accessories for Hensel distribution s
 Original CAD is retained privately; explicit publisher restrictions keep public downloads on the official route. Use Request CAD for exact variants.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Confirm exact catalogue number, dimensional units, accessories, clearances, voltage/frequency and revision with the manufacturer.
+
+## Equipment and file summary
+
+- Equipment / resource: ENYSTAR enclosure and distribution-system STEP
+- Manufacturer: Hensel
+- Resource type: Product family
+- Listed file formats: STP
+- Listed files: 12
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-14
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is ENYSTAR enclosure and distribution-system STEP?
+
+ENYSTAR enclosure and distribution-system STEP is a CAD resource from Hensel. Official simplified 3D STEP assemblies and accessories for Hensel distribution systems. Includes enclosure, lid, DIN rail, busbar support or terminal geometry where provided. Select exact system and component configuration.
+
+For ENYSTAR enclosure and distribution-system STEP, start with ENYSTAR\_Abdeckung\_geschlossen.zip. This entry lists 12 file routes in STP. Match the filename and equipment configuration to your project, then use Hensel's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Hensel official source](https://www.hensel-electric.de/de-de/service/downloads/digitale-produktdaten/3d-step.php)
+
+## Choosing a file
+
+This is Hensel's ENYSTAR enclosure and distribution-system STEP collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: ZIP. The individual filenames above distinguish the supplied variants.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

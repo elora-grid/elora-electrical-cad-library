@@ -2,7 +2,7 @@
 
 Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-8s50-ic) · [Official manufacturer source](https://github.com/LibreSolar/bms-8s50-ic)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-8s50-ic) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/open-hardware-bms-8s50-ic.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/open-hardware-bms-8s50-ic.json) · [Official manufacturer source](https://github.com/LibreSolar/bms-8s50-ic)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -15,6 +15,52 @@ Publisher-released native CAD for an open hardware component. Development/legacy
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Native project CAD can depend on symbols and footprints in the official repository. Check development status, revision, EMC and applicable product approvals before hardware use.
+
+## Equipment and file summary
+
+- Equipment / resource: BMS 8S50 IC hardware and enclosure
+- Manufacturer: Libre Solar
+- Resource type: Product family
+- Listed file formats: FCSTD, KICAD\_PCB, SCH
+- Listed files: 7
+- Available previews: 1 drawing previews
+- Recorded revisions: 390485867320
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is BMS 8S50 IC hardware and enclosure?
+
+BMS 8S50 IC hardware and enclosure is a CAD resource from Libre Solar. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+
+For BMS 8S50 IC hardware and enclosure, start with bms-8s50-ic.FCStd (recorded revision 390485867320). This entry lists 7 file routes in FCSTD, KICAD\_PCB, SCH. Match the filename and equipment configuration to your project, then use Libre Solar's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Libre Solar official source](https://github.com/LibreSolar/bms-8s50-ic)
+
+## Choosing a file
+
+This is Libre Solar's BMS 8S50 IC hardware and enclosure collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: FCSTD, KICAD\_PCB, SCH. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Libre Solar BMS 8S50 IC hardware and enclosure: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/open-hardware-bms-8s50-ic/open-hardware-bms-8s50-ic-d7d1207c6487?asset=6df22cef834e7e34a055ad06c4967208e9c63f0e0696ff4070fc83f21eb69d90)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-8s50-ic). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

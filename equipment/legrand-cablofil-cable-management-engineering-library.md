@@ -2,7 +2,7 @@
 
 Official Legrand page links drawing library and plant-design resources. Specific file extensions, licence and download access must be verified for each selected file.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/legrand-cablofil-cable-management-engineering-library) · [Official manufacturer source](https://www.legrand.us/tools/cablofil-3d-modeling-files)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/legrand-cablofil-cable-management-engineering-library) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/legrand-cablofil-cable-management-engineering-library.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/legrand-cablofil-cable-management-engineering-library.json) · [Official manufacturer source](https://www.legrand.us/tools/cablofil-3d-modeling-files)
 
 - Category: Cable management
 - Entry type: library
@@ -15,6 +15,45 @@ Official Legrand page links drawing library and plant-design resources. Specific
 Official Legrand page links drawing library and plant-design resources. Specific file extensions, licence and download access must be verified for each selected file.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: Cablofil cable-management engineering library
+- Manufacturer: Legrand
+- Resource type: Manufacturer library
+- Listed file formats: 3D CAD, AVEVA, Intergraph
+- Listed files: 0
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is Cablofil cable-management engineering library?
+
+Cablofil cable-management engineering library is a CAD resource from Legrand. Official Legrand page links drawing library and plant-design resources. Specific file extensions, licence and download access must be verified for each selected file.
+
+For Cablofil cable-management engineering library, start at Legrand's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Legrand official source](https://www.legrand.us/tools/cablofil-3d-modeling-files)
+
+## Choosing a file
+
+This is Legrand's Cablofil cable-management engineering library collection. Select the model or accessory named in each file, rather than choosing solely by format.
+No individual CAD file is currently listed. Use the source or request drawings for your catalogue number.
+
+## Equipment references and drawing guides
+
+- [Cable ladder / tray](https://eloragrid.ai/objects/cable-ladder)
+- [Perforated cable tray](https://eloragrid.ai/objects/ga-perforated-cable-tray)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

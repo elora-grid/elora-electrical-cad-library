@@ -2,7 +2,7 @@
 
 Official MultiPlus-II 2x 120V dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii-2x-120v) · [Official manufacturer source](https://www.victronenergy.com/inverters-chargers/multiplus-ii-2x-120v)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii-2x-120v) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-multiplus-ii-2x-120v.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-multiplus-ii-2x-120v.json) · [Official manufacturer source](https://www.victronenergy.com/inverters-chargers/multiplus-ii-2x-120v)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -16,6 +16,53 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: MultiPlus-II 2x 120V
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 4
+- Available previews: 4 interactive model variants
+- Recorded revisions: 05, 00, 02
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is MultiPlus-II 2x 120V?
+
+MultiPlus-II 2x 120V is a CAD resource from Victron Energy. Official MultiPlus-II 2x 120V dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For MultiPlus-II 2x 120V, start with MultiPlus-II-12V-3000VA-2x120V-(UL).STEP (recorded revision 05). This entry lists 4 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/inverters-chargers/multiplus-ii-2x-120v)
+
+## Choosing a file
+
+This is Victron Energy's MultiPlus-II 2x 120V collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy MultiPlus-II 2x 120V: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-multiplus-ii-2x-120v/victron-energy-multiplus-ii-12v-3000va-2x120v-step-step?asset=dd51bb1987f0c7482b273087c3b784eee650b41d66e220f764d846ec6195c8a4&view=thumb&v=e44c3e91fa667f12)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii-2x-120v). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy MultiPlus-II 2x 120V](https://eloragrid.ai/objects/victron-energy-multiplus-ii-2x-120v)
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### MultiPlus-II-12V-3000VA-2x120V-(UL).STEP
@@ -27,7 +74,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 2b5d4c8e3e2082434c61187e84a5ab97c07d795fc3389b21294c2a8114c7aaab
 - Original bytes: 21439552
-- Revision: Not recorded
+- Revision: 05
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +95,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: dd51bb1987f0c7482b273087c3b784eee650b41d66e220f764d846ec6195c8a4
 - Original bytes: 15581222
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -69,7 +116,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 09cf0398987419e09e6506a1b4e6c7dbede70401c8dcf0c683440b2e5d0d5984
 - Original bytes: 20789779
-- Revision: Not recorded
+- Revision: 02
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -90,7 +137,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: ce0bef955a3714aa6330fca6934f1f3fa11a2bf1a79c5bd948be23525c9a10dc
 - Original bytes: 15020629
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy

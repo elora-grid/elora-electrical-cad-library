@@ -2,7 +2,7 @@
 
 Official Quattro dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-quattro) · [Official manufacturer source](https://www.victronenergy.com/inverters-chargers/quattro)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-quattro) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-quattro.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-quattro.json) · [Official manufacturer source](https://www.victronenergy.com/inverters-chargers/quattro)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -16,6 +16,53 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: Quattro
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 6
+- Available previews: 5 interactive model variants
+- Recorded revisions: 00, 01x, 01, 02x
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is Quattro?
+
+Quattro is a CAD resource from Victron Energy. Official Quattro dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For Quattro, start with DimensionDrawing-24V8kVA230V-48V8kVA230V-48V10kVA230V-48V5kVA120V-12V5kVA230V-12V5kVA120V-3D.STEP (recorded revision 00). This entry lists 6 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/inverters-chargers/quattro)
+
+## Choosing a file
+
+This is Victron Energy's Quattro collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy Quattro: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-quattro/victron-energy-multiplus-quattro-inverter-24v-48v-5000va-step-step?asset=64bc58b0d992e43f59617d4f6da0352a83f15683d0f0fa8e6052a39c5be606b0&view=thumb&v=b867e721317ac031)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-quattro). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy Quattro](https://eloragrid.ai/objects/victron-energy-quattro)
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### DimensionDrawing-24V8kVA230V-48V8kVA230V-48V10kVA230V-48V5kVA120V-12V5kVA230V-12V5kVA120V-3D.STEP
@@ -27,7 +74,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: ed4a0893fc490aa55fbe7e2836cdcd5d76f6d64cd6be12dae490fcb3bf65f807
 - Original bytes: 31788085
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +95,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 8d3edbcc84da5ad63121e5b8d5607907f0b389dff3c83a3d7fda1da9ee58878e
 - Original bytes: 2518678
-- Revision: Not recorded
+- Revision: 01x
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -69,7 +116,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 64bc58b0d992e43f59617d4f6da0352a83f15683d0f0fa8e6052a39c5be606b0
 - Original bytes: 1834050
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -90,7 +137,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: ed4a0893fc490aa55fbe7e2836cdcd5d76f6d64cd6be12dae490fcb3bf65f807
 - Original bytes: 31788085
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -111,7 +158,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: caa16a666e2b8ff56126cd98223a2365834f20c441b1a3fb5d1fe48fe9af30d0
 - Original bytes: 26535838
-- Revision: Not recorded
+- Revision: 01
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy
@@ -132,7 +179,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: b804416afeb2949fd1726aa6d0e8d43afbd4890a21a10bb089fa084d115be589
 - Original bytes: 6775505
-- Revision: Not recorded
+- Revision: 02x
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
 - Hosting attribution: Victron Energy

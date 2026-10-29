@@ -2,7 +2,7 @@
 
 Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-exccon02) · [Official manufacturer source](https://catalogue.lovatoelectric.com/de_de/Erweiterungsmodul-Konverter-MODBUS-RS485-Ethernet-mit-Montageset-fur-die-DIN-Schiene/EXCCON02/snp)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-exccon02) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/europe-lovato-exccon02.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/europe-lovato-exccon02.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/de_de/Erweiterungsmodul-Konverter-MODBUS-RS485-Ethernet-mit-Montageset-fur-die-DIN-Schiene/EXCCON02/snp)
 
 - Category: Communications
 - Entry type: product
@@ -15,6 +15,52 @@ Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Acce
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Confirm exact catalogue number, dimensional units, accessories, clearances, voltage/frequency and revision with the manufacturer.
+
+## Equipment and file summary
+
+- Equipment / resource: EXCCON02 RS485/Ethernet Modbus converter
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: EXCCON02
+- Listed file formats: DWG, STP
+- Listed files: 2
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is EXCCON02 RS485/Ethernet Modbus converter?
+
+EXCCON02 RS485/Ethernet Modbus converter is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+
+For EXCCON02 RS485/Ethernet Modbus converter, start with 2d\_EXCCON02.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/de_de/Erweiterungsmodul-Konverter-MODBUS-RS485-Ethernet-mit-Montageset-fur-die-DIN-Schiene/EXCCON02/snp)
+
+## Choosing a file
+
+Start with EXCCON02. The files above belong to LOVATO Electric's EXCCON02 RS485/Ethernet Modbus converter resource; match any model or option suffix in the filename to your selected unit.
+Available here: DWG, STP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![LOVATO Electric EXCCON02 RS485/Ethernet Modbus converter: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-exccon02/europe-lovato-exccon02-610d64b7f087?asset=57cda641009cc5ab3f4516640445bbc7d44c836dfe372658fcbc9791631f3b04&view=thumb&v=2c9f758558875c75)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-exccon02). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Industrial Ethernet switch](https://eloragrid.ai/objects/ga-industrial-ethernet-switch)
+- [Communication gateway](https://eloragrid.ai/objects/ga-communication-gateway)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

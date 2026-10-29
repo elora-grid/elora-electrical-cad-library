@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Elora Grid official CAD discovery",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "description": "Free read-only discovery of official CAD sources. Metadata, official publisher routes and direct-site official CAD downloads with recorded rights status for USA, Australia, UK and Europe."
   },
   "servers": [
@@ -14,7 +14,7 @@
     "/tools/cad-library/download/{record}/{file}": {
       "get": {
         "operationId": "downloadOfficialCad",
-        "summary": "Download unchanged official CAD; licences and ZIP delivery are recorded per file",
+        "summary": "Email registration required for CAD downloads; licences and delivery are recorded per file",
         "parameters": [
           {
             "name": "record",
@@ -35,7 +35,10 @@
         ],
         "responses": {
           "302": {
-            "description": "Redirect to a five-minute signed attachment URL; use the stable site URL on later visits"
+            "description": "Registered visitor: redirect to a five-minute signed attachment or official publisher route; use the stable site URL on later visits"
+          },
+          "307": {
+            "description": "Enter email at the returned location to receive a file-specific seven-day download link on screen and by email; the private browser cookie remains compatible"
           },
           "404": {
             "description": "Unknown file, explicitly restricted file or revoked publication"
@@ -95,24 +98,30 @@
                 "abb",
                 "asco",
                 "abtech",
+                "alfen",
                 "automationdirect",
                 "avtron",
                 "bopla",
+                "balluff",
                 "bender",
+                "bosch-rexroth",
                 "cubic",
                 "carlo-gavazzi",
                 "caterpillar",
+                "chargepoint",
                 "clevertronics",
                 "comap",
                 "cressall",
                 "cummins",
                 "deif",
                 "dagartech",
+                "danfoss",
                 "deep-sea-electronics",
                 "dorman-smith",
                 "eaton",
                 "eaton-b-line",
                 "eaton-crouse-hinds",
+                "endress-hauser",
                 "fg-wilson",
                 "fantech",
                 "fronius",
@@ -158,6 +167,7 @@
                 "s-c-electric",
                 "schurter",
                 "sens",
+                "sick",
                 "sma",
                 "stamford-avk",
                 "stego",
@@ -166,6 +176,7 @@
                 "schneider-electric",
                 "schweitzer-engineering-laboratories",
                 "siemens",
+                "signify",
                 "simplex",
                 "socomec",
                 "southern-states",
@@ -176,6 +187,7 @@
                 "terasaki",
                 "tesla",
                 "tramont",
+                "vega",
                 "victron-energy",
                 "wago",
                 "weidmuller",
@@ -186,6 +198,7 @@
                 "yaskawa",
                 "zpas",
                 "icotek",
+                "ifm",
                 "mtu-rolls-royce",
                 "nvent-erico",
                 "nvent-eriflex",
@@ -214,14 +227,17 @@
                 "DWFX",
                 "DWG",
                 "DXF",
+                "EDZ",
                 "EPLAN",
                 "EPLAN EDZ",
                 "FCSTD",
+                "IES",
                 "IGES",
                 "IGS",
                 "Intergraph",
                 "KICAD_PCB",
                 "KICAD_SCH",
+                "LDT",
                 "PDF",
                 "PDMS",
                 "Parasolid",
@@ -265,7 +281,8 @@
                 "product",
                 "family",
                 "library",
-                "configurator"
+                "configurator",
+                "drawing"
               ]
             }
           },
@@ -297,6 +314,24 @@
               "enum": [
                 "1"
               ]
+            }
+          },
+          {
+            "name": "view",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "summary"
+              ]
+            }
+          },
+          {
+            "name": "ids",
+            "in": "query",
+            "description": "Comma-separated catalogue IDs; up to 500.",
+            "schema": {
+              "type": "string"
             }
           },
           {

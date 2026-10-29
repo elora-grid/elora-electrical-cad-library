@@ -2,7 +2,7 @@
 
 Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-1210-hus) · [Official manufacturer source](https://github.com/LibreSolar/mppt-1210-hus)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-1210-hus) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-1210-hus.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-1210-hus.json) · [Official manufacturer source](https://github.com/LibreSolar/mppt-1210-hus)
 
 - Category: Solar & inverters
 - Entry type: family
@@ -15,6 +15,51 @@ Publisher-released native CAD for an open hardware component. Development/legacy
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Native project CAD can depend on symbols and footprints in the official repository. Check development status, revision, EMC and applicable product approvals before hardware use.
+
+## Equipment and file summary
+
+- Equipment / resource: MPPT 1210 HUS solar controller hardware
+- Manufacturer: Libre Solar
+- Resource type: Product family
+- Listed file formats: SCH, KICAD\_PCB
+- Listed files: 5
+- Available previews: 1 drawing previews
+- Recorded revisions: a0c386ace7ce
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is MPPT 1210 HUS solar controller hardware?
+
+MPPT 1210 HUS solar controller hardware is a CAD resource from Libre Solar. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+
+For MPPT 1210 HUS solar controller hardware, start with dcdc.sch (recorded revision a0c386ace7ce). This entry lists 5 file routes in SCH, KICAD\_PCB. Match the filename and equipment configuration to your project, then use Libre Solar's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Libre Solar official source](https://github.com/LibreSolar/mppt-1210-hus)
+
+## Choosing a file
+
+This is Libre Solar's MPPT 1210 HUS solar controller hardware collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: SCH, KICAD\_PCB. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Libre Solar MPPT 1210 HUS solar controller hardware: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/open-hardware-mppt-1210-hus/open-hardware-mppt-1210-hus-ea0ad8785c71?asset=1804304f68d5fe7f57b351e57465771fccc4fdb30b734f8b321d2b65753e1dd3)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-1210-hus). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PV inverter cabinet](https://eloragrid.ai/objects/ga-pv-inverter-cabinet)
+- [MPPT solar charge controller](https://eloragrid.ai/objects/ga-mppt-solar-charge-controller)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

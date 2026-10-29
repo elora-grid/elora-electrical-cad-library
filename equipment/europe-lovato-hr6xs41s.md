@@ -2,7 +2,7 @@
 
 Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-hr6xs41s) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/HR6XS41S/snp)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-hr6xs41s) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/europe-lovato-hr6xs41s.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/europe-lovato-hr6xs41s.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/HR6XS41S/snp)
 
 - Category: Automation & controls
 - Entry type: product
@@ -15,6 +15,52 @@ Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Acce
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Confirm exact catalogue number, dimensional units, accessories, clearances, voltage/frequency and revision with the manufacturer.
+
+## Equipment and file summary
+
+- Equipment / resource: HR6XS41S 4-changeover relay socket
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: HR6XS41S
+- Listed file formats: DWG, STP
+- Listed files: 2
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is HR6XS41S 4-changeover relay socket?
+
+HR6XS41S 4-changeover relay socket is a CAD resource from LOVATO Electric. Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Accessory fit and selected ratings must be checked against the product page.
+
+For HR6XS41S 4-changeover relay socket, start with 2d\_HR6XS41S.dwg. This entry lists 2 file routes in DWG, STP. Match the filename and equipment configuration to your project, then use LOVATO Electric's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/HR6XS41S/snp)
+
+## Choosing a file
+
+Start with HR6XS41S. The files above belong to LOVATO Electric's HR6XS41S 4-changeover relay socket resource; match any model or option suffix in the filename to your selected unit.
+Available here: DWG, STP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![LOVATO Electric HR6XS41S 4-changeover relay socket: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/europe-lovato-hr6xs41s/europe-lovato-hr6xs41s-4dcfe92c8825?asset=f280ee14863e94a455ea89d6c757312d508eb5867274975f0e9846261c67290c&view=thumb&v=83713d2ca37cb471)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-hr6xs41s). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

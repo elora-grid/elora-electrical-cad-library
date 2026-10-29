@@ -29,4 +29,10 @@ for entry in results["equipment"]:
             print(entry["manufacturer"], file["name"], file["downloadUrl"])
 ```
 
-Public download routes return a 302 redirect to a five-minute signed attachment URL. Save the stable site URL for future retrieval. Use the delivery SHA-256 for the downloaded bytes; use the original SHA-256 for CAD bytes inside a delivery ZIP.
+Public download routes can require email registration on the equipment page before issuing a temporary attachment redirect. Follow the current page instructions; metadata and preview discovery do not require registration. Save the stable site URL for future retrieval. Use the delivery SHA-256 for the downloaded bytes; use the original SHA-256 for CAD bytes inside a delivery ZIP.
+
+## Discovery fields
+
+The full feed and per-entry JSON expose `equipmentFacts`, `fileChoiceGuidance`, `plainEnglish`, `relatedReferences`, and an optional `previewImage`. Resolve image paths against `https://eloragrid.ai`. Use the canonical equipment URL when citing the resource. Per-entry Markdown includes the visible facts and drawing guidance.
+
+Individual `drawing` entries also identify `drawingReference` (family, original filenames and parent ID), optional `nativeFiles` metadata and `files[].archiveMember`. A family download can contain several drawings. Related references and preview illustrations do not replace the original files or establish technical equivalence.

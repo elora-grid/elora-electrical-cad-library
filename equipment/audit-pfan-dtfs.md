@@ -2,7 +2,7 @@
 
 Official product page directly publishes these three small archives. The STEP and macro packages cover multiple DTFS variants; match enclosed identifiers to your ordering code.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-pfan-dtfs) · [Official manufacturer source](https://www.pfannenberg.com/en-gb/thermal-management/cooling-units/side-mounted-series-6xxx/dtfs-6041/)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-pfan-dtfs) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/audit-pfan-dtfs.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/audit-pfan-dtfs.json) · [Official manufacturer source](https://www.pfannenberg.com/en-gb/thermal-management/cooling-units/side-mounted-series-6xxx/dtfs-6041/)
 
 - Category: Thermal management
 - Entry type: family
@@ -15,6 +15,51 @@ Official product page directly publishes these three small archives. The STEP an
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Source discoverability only. Exact USA/Australia configuration, units, frequency and approvals require manufacturer verification.
 Source and family discovery do not imply complete SKU or accessory coverage. Match drawing revision and exact configuration before use.
+
+## Equipment and file summary
+
+- Equipment / resource: DTFS 6041 cooling geometry, cut-out and EPLAN data
+- Manufacturer: Pfannenberg
+- Resource type: Product family
+- Listed file formats: STEP, DXF, EPLAN
+- Listed files: 3
+- Available previews: 1 drawing previews; 2 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is DTFS 6041 cooling geometry, cut-out and EPLAN data?
+
+DTFS 6041 cooling geometry, cut-out and EPLAN data is a CAD resource from Pfannenberg. Official product page directly publishes these three small archives. The STEP and macro packages cover multiple DTFS variants; match enclosed identifiers to your ordering code.
+
+For DTFS 6041 cooling geometry, cut-out and EPLAN data, start with 3D-models\_STEP\_DTFS.zip. This entry lists 3 file routes in STEP, DXF, EPLAN. Match the filename and equipment configuration to your project, then use Pfannenberg's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Pfannenberg official source](https://www.pfannenberg.com/en-gb/thermal-management/cooling-units/side-mounted-series-6xxx/dtfs-6041/)
+
+## Choosing a file
+
+This is Pfannenberg's DTFS 6041 cooling geometry, cut-out and EPLAN data collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Pfannenberg DTFS 6041 cooling geometry, cut-out and EPLAN data: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/audit-pfan-dtfs/audit-pfan-step?asset=ed3b35e1d351edfaa9e30a2ae27f8db5431b2c17d86185b54637b1d42e7080ca-f6b4c545be6b8f3a&view=thumb&v=6f273a5ac62bcc2e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/audit-pfan-dtfs). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Enclosure filter fan](https://eloragrid.ai/objects/ga-enclosure-filter-fan)
+- [Enclosure air conditioner](https://eloragrid.ai/objects/ga-enclosure-air-conditioner)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

@@ -4,15 +4,21 @@ Open catalogue of official manufacturer CAD, BIM and electrical engineering draw
 
 **[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [JSON catalogue](data/catalogue.json) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
 
-The current snapshot contains **329 source entries**, **98 manufacturers**, **18 equipment categories**, and **265 site download entries** representing **261 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
+The current snapshot contains **724 catalogue entries**, **108 manufacturers**, **18 equipment categories**, and **1193 site download entries** representing **269 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
 
 ## Find CAD
 
 - [Equipment index](equipment/README.md): one readable page per source, with manufacturer links, available files and rights evidence.
-- [Catalogue JSON](data/catalogue.json): complete metadata including stable Elora download URLs, checksums, revisions and discovery regions.
+- [Catalogue JSON](data/catalogue.json): complete metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions.
 - [Catalogue CSV](data/catalogue.csv): one row per source. [Files CSV](data/files.csv): one row per listed file.
 - [Live search API](docs/api.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access without an account.
 - [Coverage audit](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and acquisition priorities.
+
+The snapshot includes **385 individually identified drawing entries** and **424 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
+
+Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
+
+Counts above describe the full published catalogue. The separate source-register audit covers 329 earlier records and excludes later drawing-level and curated additions; its totals are not the full catalogue totals.
 
 ## Equipment coverage
 
@@ -47,4 +53,4 @@ Manufacturer CAD, publisher text, trademarks and third-party material retain the
 
 Report a [missing official source](https://github.com/elora-grid/elora-electrical-cad-library/issues/new?template=missing-source.yml), [broken link or revision](https://github.com/elora-grid/elora-electrical-cad-library/issues/new?template=broken-link.yml), or [rights correction](https://github.com/elora-grid/elora-electrical-cad-library/issues/new?template=rights-correction.yml). Include the official manufacturer evidence and exact model where available. Never upload customer drawings or private project files. Read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The public website feed is the source of truth. Generated indexes and equipment pages are refreshed from that feed; accepted source corrections should be incorporated there before regeneration.
+The public website feed is the source of truth. Use each entry’s canonicalUrl as the preferred citation link; this is publisher guidance, not an HTML canonical directive or a guarantee of search-engine selection. Generated indexes and equipment pages are refreshed from that feed; accepted source corrections should be incorporated there before regeneration.

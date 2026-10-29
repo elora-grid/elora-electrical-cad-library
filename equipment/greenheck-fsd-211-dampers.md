@@ -2,7 +2,7 @@
 
 Manufacturer ventilation dampers drawings; choose exact size/configuration.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-fsd-211-dampers) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/dampers)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-fsd-211-dampers) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/greenheck-fsd-211-dampers.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/greenheck-fsd-211-dampers.json) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/dampers)
 
 - Category: Switchroom services
 - Entry type: family
@@ -15,6 +15,52 @@ Manufacturer ventilation dampers drawings; choose exact size/configuration.
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: FSD-211 dampers
+- Manufacturer: Greenheck
+- Resource type: Product family
+- Part number: FSD-211
+- Listed file formats: DWG, RFA, ZIP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is FSD-211 dampers?
+
+FSD-211 dampers is a CAD resource from Greenheck. Manufacturer ventilation dampers drawings; choose exact size/configuration.
+
+For FSD-211 dampers, start with FSD-200\_series.dwg. This entry lists 2 file routes in DWG, RFA, ZIP. Match the filename and equipment configuration to your project, then use Greenheck's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Greenheck official source](https://www.greenheck.com/resources/drawings/dampers)
+
+## Choosing a file
+
+Start with FSD-211. The files above belong to Greenheck's FSD-211 dampers resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Greenheck FSD-211 dampers: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-fsd-211-dampers/greenheck-fsd-200-series-dwg?asset=4a32d5175fbb543af680568424e80a5c35c859be633719f7221790bd880494c6)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-fsd-211-dampers). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
+- [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

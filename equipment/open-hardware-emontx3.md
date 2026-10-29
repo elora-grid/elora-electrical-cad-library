@@ -2,7 +2,7 @@
 
 Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-emontx3) · [Official manufacturer source](https://github.com/openenergymonitor/emontx3)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-emontx3) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/open-hardware-emontx3.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/open-hardware-emontx3.json) · [Official manufacturer source](https://github.com/openenergymonitor/emontx3)
 
 - Category: Protection & metering
 - Entry type: family
@@ -15,6 +15,51 @@ Publisher-released native CAD for an open hardware component. Development/legacy
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Native project CAD can depend on symbols and footprints in the official repository. Check development status, revision, EMC and applicable product approvals before hardware use.
+
+## Equipment and file summary
+
+- Equipment / resource: emonTx3 energy-monitor hardware revisions
+- Manufacturer: OpenEnergyMonitor
+- Resource type: Product family
+- Listed file formats: BRD, SCH
+- Listed files: 15
+- Available previews: 8 drawing previews
+- Recorded revisions: 411de9618790
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is emonTx3 energy-monitor hardware revisions?
+
+emonTx3 energy-monitor hardware revisions is a CAD resource from OpenEnergyMonitor. Publisher-released native CAD for an open hardware component. Development/legacy designs are included; this is not industrial type approval or construction-ready switchgear.
+
+For emonTx3 energy-monitor hardware revisions, start with fascia.brd (recorded revision 411de9618790). This entry lists 15 file routes in BRD, SCH. Match the filename and equipment configuration to your project, then use OpenEnergyMonitor's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [OpenEnergyMonitor official source](https://github.com/openenergymonitor/emontx3)
+
+## Choosing a file
+
+This is OpenEnergyMonitor's emonTx3 energy-monitor hardware revisions collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: BRD, SCH. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![OpenEnergyMonitor emonTx3 energy-monitor hardware revisions: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/open-hardware-emontx3/open-hardware-emontx3-40e077174c9d?asset=bb9ac2cccb2e49cd44e78d41eaff2fb0125453f331824998c5351150dbdf797b)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/open-hardware-emontx3). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

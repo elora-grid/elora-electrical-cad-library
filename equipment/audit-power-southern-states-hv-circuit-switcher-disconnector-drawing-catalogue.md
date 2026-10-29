@@ -2,7 +2,7 @@
 
 Official current document index lists configured CSV circuit-switcher outline drawings and HV switching families. CAD extensions/access still need checking for exact drawings. An older SLS DWG specification URL returned 404; do not use it as current access evidence.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue) · [Official manufacturer source](https://www.southernstatesllc.com/document-category/all-documents)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue.json) · [Official manufacturer source](https://www.southernstatesllc.com/document-category/all-documents)
 
 - Category: Switchboards & switchgear
 - Entry type: family
@@ -15,6 +15,46 @@ Official current document index lists configured CSV circuit-switcher outline dr
 Official current document index lists configured CSV circuit-switcher outline drawings and HV switching families. CAD extensions/access still need checking for exact drawings. An older SLS DWG specification URL returned 404; do not use it as current access evidence.
 Market tags describe this official regional source, not certification or suitability of every configuration. Global alone means discovery, with exact USA/Australia configuration still unverified.
 Use exact hardware/configuration/revision. Regional voltage alone does not establish required certifications.
+
+## Equipment and file summary
+
+- Equipment / resource: HV circuit-switcher/disconnector drawing catalogue
+- Manufacturer: Southern States
+- Resource type: Product family
+- Listed file formats: engineering drawings
+- Listed files: 0
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## What is HV circuit-switcher/disconnector drawing catalogue?
+
+HV circuit-switcher/disconnector drawing catalogue is a CAD resource from Southern States. Official current document index lists configured CSV circuit-switcher outline drawings and higher-voltage switching families. CAD extensions/access still need checking for exact drawings. An older SLS DWG specification URL returned 404; do not use it as current access evidence.
+
+For HV circuit-switcher/disconnector drawing catalogue, start at Southern States's official source and identify the exact part number or configuration. This entry does not list a downloadable file; request the required drawing and format before making a dimensional layout.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Southern States official source](https://www.southernstatesllc.com/document-category/all-documents)
+
+## Choosing a file
+
+This is Southern States's HV circuit-switcher/disconnector drawing catalogue collection. Select the model or accessory named in each file, rather than choosing solely by format.
+No individual CAD file is currently listed. Use the source or request drawings for your catalogue number.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

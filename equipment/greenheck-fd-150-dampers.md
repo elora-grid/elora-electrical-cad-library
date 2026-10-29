@@ -2,7 +2,7 @@
 
 Manufacturer ventilation dampers drawings; choose exact size/configuration.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-fd-150-dampers) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/dampers)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-fd-150-dampers) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/greenheck-fd-150-dampers.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/greenheck-fd-150-dampers.json) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/dampers)
 
 - Category: Switchroom services
 - Entry type: family
@@ -15,6 +15,52 @@ Manufacturer ventilation dampers drawings; choose exact size/configuration.
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: FD-150 dampers
+- Manufacturer: Greenheck
+- Resource type: Product family
+- Part number: FD-150
+- Listed file formats: DWG
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is FD-150 dampers?
+
+FD-150 dampers is a CAD resource from Greenheck. Manufacturer ventilation dampers drawings; choose exact size/configuration.
+
+For FD-150 dampers, start with DFD\_FD\_150\_AND\_350\_MODEL.dwg. This entry lists 1 file route in DWG. Match the filename and equipment configuration to your project, then use Greenheck's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Greenheck official source](https://www.greenheck.com/resources/drawings/dampers)
+
+## Choosing a file
+
+Start with FD-150. The files above belong to Greenheck's FD-150 dampers resource; match any model or option suffix in the filename to your selected unit.
+Available here: DWG. The original filename is DFD\_FD\_150\_AND\_350\_MODEL.dwg.
+
+## Preview
+
+![Greenheck FD-150 dampers: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-fd-150-dampers/greenheck-dfd-fd-150-and-350-model-dwg?asset=60af38ba3fdf8f40f8be466b61b2c84d0c0308a99ea9abd416251dfe3a0e4f99)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-fd-150-dampers). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
+- [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

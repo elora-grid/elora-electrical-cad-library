@@ -2,7 +2,7 @@
 
 Official Australian supplier family CAD packages. Source product is marked no longer available; retained for retrofit design.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/nhp-terasaki-tembreak1) · [Official manufacturer source](https://www.nhp.com.au/product/tl1250ne12503fc)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/nhp-terasaki-tembreak1) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/nhp-terasaki-tembreak1.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/nhp-terasaki-tembreak1.json) · [Official manufacturer source](https://www.nhp.com.au/product/tl1250ne12503fc)
 
 - Category: Breakers & accessories
 - Entry type: family
@@ -15,6 +15,52 @@ Official Australian supplier family CAD packages. Source product is marked no lo
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Australian NHP official source; verify exact variant and replacement availability.
 Legacy package covers multiple family products; match drawing to exact part.
+
+## Equipment and file summary
+
+- Equipment / resource: TemBreak 1 MCCB legacy CAD collection
+- Manufacturer: Terasaki
+- Resource type: Product family
+- Listed file formats: DWG, STP, STEP
+- Listed files: 2
+- Available previews: 1251 drawing previews; 13 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is TemBreak 1 MCCB legacy CAD collection?
+
+TemBreak 1 MCCB legacy CAD collection is a CAD resource from Terasaki. Official Australian supplier family CAD packages. Source product is marked no longer available; retained for retrofit design.
+
+For TemBreak 1 MCCB legacy CAD collection, start with Tembreak-1-MCCB-XS2000-XS2500-XS3200-3D-CAD-Blocks-STP-CAD-Block.zip. This entry lists 2 file routes in DWG, STP, STEP. Match the filename and equipment configuration to your project, then use Terasaki's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Terasaki official source](https://www.nhp.com.au/product/tl1250ne12503fc)
+
+## Choosing a file
+
+This is Terasaki's TemBreak 1 MCCB legacy CAD collection collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Terasaki TemBreak 1 MCCB legacy CAD collection: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/nhp-terasaki-tembreak1/nhp-terasaki-tembreak1-0?asset=f19af2cc04f0692470a565bdbe65adb1e328d688d6e89ecd57c70e331e6381a3&view=thumb&v=586d58d29defc8d2)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/nhp-terasaki-tembreak1). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terasaki / NHP TemBreak 1 legacy MCCBs](https://eloragrid.ai/objects/terasaki-nhp-tembreak-1-legacy-mccbs)
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

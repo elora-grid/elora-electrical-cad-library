@@ -2,7 +2,7 @@
 
 Official enclosure and junction-box DWG/STEP archives. Choose the exact size and material; hazardous-area approvals require the selected product documentation.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-zag) · [Official manufacturer source](https://www.abtech-inc.com/resources/cad-2d-3d)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-zag) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/uk-abtech-zag.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/uk-abtech-zag.json) · [Official manufacturer source](https://www.abtech-inc.com/resources/cad-2d-3d)
 
 - Category: Enclosures & hardware
 - Entry type: family
@@ -15,6 +15,52 @@ Official enclosure and junction-box DWG/STEP archives. Choose the exact size and
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 UK/European source discovery. Tags do not establish certification, country availability or suitability of every configuration.
 Confirm exact catalogue number, dimensional units, accessories, clearances, voltage/frequency and revision with the manufacturer.
+
+## Equipment and file summary
+
+- Equipment / resource: ZAG enclosure CAD
+- Manufacturer: Abtech
+- Resource type: Product family
+- Listed file formats: DWG, STEP
+- Listed files: 16
+- Available previews: 19 drawing previews; 15 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-14
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is ZAG enclosure CAD?
+
+ZAG enclosure CAD is a CAD resource from Abtech. Official enclosure and junction-box DWG/STEP archives. Choose the exact size and material; hazardous-area approvals require the selected product documentation.
+
+For ZAG enclosure CAD, start with zag\_2d.zip. This entry lists 16 file routes in DWG, STEP. Match the filename and equipment configuration to your project, then use Abtech's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Abtech official source](https://www.abtech-inc.com/resources/cad-2d-3d)
+
+## Choosing a file
+
+This is Abtech's ZAG enclosure CAD collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: ZIP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Abtech ZAG enclosure CAD: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/uk-abtech-zag/uk-abtech-zag-2b7d7d3f7ee8?asset=b3bd7ab3687988b36212e5f7fecae19ef4a81c713c7f2db3086c614aa1ca83cb-be375f5699352c7d&view=thumb&v=a6269e27e35ed0c1)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-zag). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

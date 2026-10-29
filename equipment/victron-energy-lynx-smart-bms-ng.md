@@ -2,7 +2,7 @@
 
 Official Lynx Smart BMS NG dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lynx-smart-bms-ng) · [Official manufacturer source](https://www.victronenergy.com/battery-management-systems/lynx-smart-bms-ng)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lynx-smart-bms-ng) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/victron-energy-lynx-smart-bms-ng.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/victron-energy-lynx-smart-bms-ng.json) · [Official manufacturer source](https://www.victronenergy.com/battery-management-systems/lynx-smart-bms-ng)
 
 - Category: Battery storage & PCS
 - Entry type: family
@@ -16,6 +16,53 @@ Unchanged official originals are available from the site after upload verificati
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
 
+## Equipment and file summary
+
+- Equipment / resource: Lynx Smart BMS NG
+- Manufacturer: Victron Energy
+- Resource type: Product family
+- Listed file formats: STEP
+- Listed files: 2
+- Available previews: 2 interactive model variants
+- Recorded revisions: 00, 04
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is Lynx Smart BMS NG?
+
+Lynx Smart BMS NG is a CAD resource from Victron Energy. Official Lynx Smart BMS NG dimensional CAD. Exact voltage, power, hardware generation and part number are encoded in individual filenames; confirm product before use.
+
+For Lynx Smart BMS NG, start with Lynx-Smart-BMS-1000-NG-(M10)-3D.STEP (recorded revision 00). This entry lists 2 file routes in STEP. Match the filename and equipment configuration to your project, then use Victron Energy's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Victron Energy official source](https://www.victronenergy.com/battery-management-systems/lynx-smart-bms-ng)
+
+## Choosing a file
+
+This is Victron Energy's Lynx Smart BMS NG collection. Select the model or accessory named in each file, rather than choosing solely by format.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
+
+## Preview
+
+![Victron Energy Lynx Smart BMS NG: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-lynx-smart-bms-ng/victron-energy-lynx-smart-bms-1000-ng-m10-3d-step?asset=7f044c2251cd70d24788434ff6ee2955c2df08f32d35e1b75e7ecfbcd73d5fae&view=thumb&v=9fa908cf3dd03c4f)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lynx-smart-bms-ng). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Victron Energy Lynx Smart BMS NG](https://eloragrid.ai/objects/victron-energy-lynx-smart-bms-ng)
+- [Battery storage cabinet](https://eloragrid.ai/objects/battery-cabinet)
+- [Power conversion cabinet](https://eloragrid.ai/objects/pcs-cabinet)
+- [Lithium battery module](https://eloragrid.ai/objects/ga-lithium-battery-module)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
 ## Files
 
 ### Lynx-Smart-BMS-1000-NG-(M10)-3D.STEP
@@ -27,7 +74,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 7f044c2251cd70d24788434ff6ee2955c2df08f32d35e1b75e7ecfbcd73d5fae
 - Original bytes: 17988944
-- Revision: Not recorded
+- Revision: 00
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy
@@ -48,7 +95,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Redistribution: unknown
 - Original SHA-256: 0ed439011e5d62139b89182f49f6d3c1d54af8f0cd6e25a5de4bcf5c0b82ba22
 - Original bytes: 36902464
-- Revision: Not recorded
+- Revision: 04
 - Retrieved: 2026-10-13
 - Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
 - Hosting attribution: Victron Energy

@@ -107,7 +107,8 @@
               "product",
               "family",
               "library",
-              "configurator"
+              "configurator",
+              "drawing"
             ]
           },
           "partNumber": {
@@ -195,6 +196,9 @@
                   "items": {
                     "type": "string"
                   }
+                },
+                "archiveMember": {
+                  "type": "string"
                 },
                 "validation": {
                   "type": "string",
@@ -374,6 +378,237 @@
           "canonicalUrl": {
             "type": "string",
             "pattern": "^https://[^\\s]+$"
+          },
+          "fileChoiceGuidance": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "requestTopic": {
+            "type": "string",
+            "pattern": "^[a-z0-9_-]+$"
+          },
+          "equipmentFacts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "label": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "label",
+                "value"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "previewImage": {
+            "type": "string",
+            "pattern": "^/tools/cad-library/(preview|drawing-preview)/"
+          },
+          "relatedReferences": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                }
+              },
+              "required": [
+                "name",
+                "url"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "drawingReference": {
+            "type": "object",
+            "properties": {
+              "family": {
+                "type": "string"
+              },
+              "filenames": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "parentId": {
+                "type": "string",
+                "pattern": "^[a-z0-9_-]+$"
+              }
+            },
+            "required": [
+              "family",
+              "filenames",
+              "parentId"
+            ],
+            "additionalProperties": false
+          },
+          "nativeFiles": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "filename": {
+                  "type": "string"
+                },
+                "format": {
+                  "type": "string"
+                },
+                "bytes": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "sha256": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                },
+                "signature": {
+                  "type": "string"
+                },
+                "archiveSha256": {
+                  "type": "string",
+                  "pattern": "^[a-f0-9]{64}$"
+                },
+                "sourceUrl": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                }
+              },
+              "required": [
+                "filename",
+                "format",
+                "bytes",
+                "sha256",
+                "signature",
+                "archiveSha256",
+                "sourceUrl"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "plainEnglish": {
+            "type": "object",
+            "properties": {
+              "title": {
+                "type": "string"
+              },
+              "introduction": {
+                "type": "string"
+              },
+              "example": {
+                "type": "string"
+              },
+              "drawings": {
+                "type": "string"
+              },
+              "terms": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string"
+                    },
+                    "meaning": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "name",
+                    "meaning"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "diagram": {
+                "type": "string"
+              },
+              "steps": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "caption": {
+                "type": "string"
+              },
+              "sources": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "label": {
+                      "type": "string"
+                    },
+                    "url": {
+                      "type": "string",
+                      "pattern": "^https://[^\\s]+$"
+                    }
+                  },
+                  "required": [
+                    "label",
+                    "url"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "detail": {
+                "type": "string"
+              },
+              "profileId": {
+                "type": "string"
+              },
+              "checklist": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "questions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "question": {
+                      "type": "string"
+                    },
+                    "answer": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "question",
+                    "answer"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "title",
+              "introduction",
+              "example",
+              "drawings",
+              "terms",
+              "diagram",
+              "steps",
+              "caption",
+              "sources"
+            ],
+            "additionalProperties": false
           }
         },
         "required": [

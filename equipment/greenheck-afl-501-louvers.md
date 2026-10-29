@@ -2,7 +2,7 @@
 
 Manufacturer ventilation louvers drawings; choose exact size/configuration.
 
-[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-afl-501-louvers) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/louvers)
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/greenheck-afl-501-louvers) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/greenheck-afl-501-louvers.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/greenheck-afl-501-louvers.json) · [Official manufacturer source](https://www.greenheck.com/resources/drawings/louvers)
 
 - Category: Switchroom services
 - Entry type: family
@@ -15,6 +15,52 @@ Manufacturer ventilation louvers drawings; choose exact size/configuration.
 Unchanged official originals are available from the site after upload verification. Rights status and original publisher URLs are retained per file; an unconfirmed status is not presented as a licence.
 Discoverable equally for USA and Australia. Confirm exact regional product, electrical rating and approvals with manufacturer.
 Choose the exact drawing configuration and revision; related files are not interchangeable.
+
+## Equipment and file summary
+
+- Equipment / resource: AFL-501 louvers
+- Manufacturer: Greenheck
+- Resource type: Product family
+- Part number: AFL-501
+- Listed file formats: RFA, ZIP
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-10-13
+- Download access: Email registration for site downloads; official source links are also available
+
+## What is AFL-501 louvers?
+
+AFL-501 louvers is a CAD resource from Greenheck. Manufacturer ventilation louvers drawings; choose exact size/configuration.
+
+For AFL-501 louvers, start with AFL-501\_LOD200.zip. This entry lists 1 file route in RFA, ZIP. Match the filename and equipment configuration to your project, then use Greenheck's drawing to check the mounting position, dimensions and connection access it actually documents.
+
+Use an outline or mounting drawing to check physical position, shape and fixing points. Use an electrical schematic to understand connections. A 3D model helps coordinate space; it does not automatically provide wiring, installation clearances or certification. The available formats and exact files for this entry are listed below.
+
+- **CAD**: Computer-aided design files used to prepare or coordinate drawings and models.
+- **2D / 3D**: Flat drawing views / a model with depth. Either can omit installation requirements.
+- **Revision**: The recorded version of a drawing or model. It must match the selected equipment.
+
+- [Greenheck official source](https://www.greenheck.com/resources/drawings/louvers)
+
+## Choosing a file
+
+Start with AFL-501. The files above belong to Greenheck's AFL-501 louvers resource; match any model or option suffix in the filename to your selected unit.
+Available here: ZIP. The original filename is AFL-501\_LOD200.zip.
+
+## Preview
+
+![Greenheck AFL-501 louvers: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-afl-501-louvers/greenheck-afl-501-lod200-zip?asset=933eb7982618ed84cb1643543937da703581e056ea5e74b6fe0d25cbff945f79)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-afl-501-louvers). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Industrial ventilation fan](https://eloragrid.ai/objects/ga-industrial-ventilation-fan)
+- [Combined fire-smoke damper](https://eloragrid.ai/objects/ga-combined-fire-smoke-damper)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
 
 ## Files
 

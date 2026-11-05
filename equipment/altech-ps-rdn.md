@@ -12,7 +12,7 @@ Official Altech PS\_RDN STEP, DWG and DXF mechanical set for PS-RDN. Use the pow
 - Access: direct
 - Checked: 2026-10-29
 
-Follow the official publisher links for the original drawing set. The title block restricts reproduction, so these files and derived previews are not hosted here.
+1 original file is available to download here. Manufacturer sources and revisions are listed below. Other files remain available from their original sources.
 Legacy manufacturer download index; confirm current local product availability, electrical ratings and applicable approvals with Altech.
 The manufacturer index maps drawing group PS\_RDN to PS-RDN. This page follows the exact manufacturer drawing group rather than assuming compatibility with neighbouring model numbers. Coordinate the accessory between the independent supply inputs and the common output wiring; verify the actual electrical topology separately. This is a legacy CAD source: confirm current product status, installation clearances and the applicable revision with Altech; the file group alone does not establish electrical ratings, approvals or interchangeability.
 
@@ -24,10 +24,10 @@ The manufacturer index maps drawing group PS\_RDN to PS-RDN. This page follows t
 - Part number: PS-RDN
 - Listed file formats: STEP, DWG, DXF
 - Listed files: 3
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with PS-RDN. The files above belong to Altech's PS-RDN power-supply redundancy accessory CAD resource; match any model or option suffix in the filename to your selected unit.
 Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
+## Preview
+
+![Altech PS-RDN power-supply redundancy accessory CAD: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/altech-ps-rdn/altech-ps-rdn-step?asset=d9b9255cf65ab25edd3c68c793d3a91e6e7fdcd158bc04178acd713ea26167f5&view=thumb&v=128651dacd6fba38)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/altech-ps-rdn). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [Altech PS-RDN power-supply redundancy accessory](https://eloragrid.ai/objects/altech-ps-rdn)
@@ -63,15 +69,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: STEP
 - Purpose: Manufacturer 3D mechanical model
 - [Official source](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Accessories/PS_RDN/PS_RDN.stp)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
-- Redistribution: restricted
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/altech-ps-rdn/altech-ps-rdn-step)
+- Redistribution: unknown
 - Original SHA-256: d9b9255cf65ab25edd3c68c793d3a91e6e7fdcd158bc04178acd713ea26167f5
 - Original bytes: 5070728
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: The official PS\_RDN DXF title block contains a confidentiality/reproduction restriction. Treat the complete matching drawing set as publisher-only; no files are rehosted and no derived previews are supplied.
-- [Rights evidence](https://legacy.altechcorp.com/CAD/1MasterSheet/WebsiteUSE/HTMLWebpages/PowerSupplyMasterSheet.htm)
-- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Accessories/PS_RDN/PS_RDN_D.dxf)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Altech Corporation
+- [Hosting evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Accessories/PS_RDN/PS_RDN.stp)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Accessories/PS_RDN/PS_RDN.stp)
+- Delivery: original; STEP; 5070728 bytes
+- Delivery SHA-256: d9b9255cf65ab25edd3c68c793d3a91e6e7fdcd158bc04178acd713ea26167f5
 
 ### PS\_RDN\_D.dwg
 

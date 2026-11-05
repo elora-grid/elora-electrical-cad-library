@@ -32,7 +32,7 @@ Enter the exact material number in the official CAD search. If the model is offe
 
 This manufacturer resource helps you find drawings or select versions of motion control, drive equipment, automation components. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected motion control drawing before reserving its space, mounting points and cable routes in the layout.
+A machine designer can search a known material number, or use the relevant engineering configurator when the required assembly has options.
 
 Enter the exact material number in the official CAD search. If the model is offered only through a product-group configurator, retain the resulting configuration reference. The manufacturer notes that some resources depend on the selected engineering tool or login; availability should be confirmed for the actual item.
 

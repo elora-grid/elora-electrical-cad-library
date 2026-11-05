@@ -32,7 +32,7 @@ The verified native member is PLC Families/P1000/P1-08NA.dwg. Its identity was c
 
 An input module brings measurements or on/off signals from equipment into a controller so its program can respond.
 
-In a substation control panel, an input module can report whether a breaker is open or closed.
+For example, in a pump panel collecting status from level and position switches, use the P1-08NA reference to coordinate field-input terminals, identification labels and module replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P1000/P1-08NA.dwg. Its identity was checked against the acquired manufacturer archive. Lay out the PAC station before locating cable duct so the terminal strips and expansion joints remain accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

@@ -32,7 +32,7 @@ This set uses the exact filename stem XFG-XS125NJ\_NS-3P. Its views are stored i
 
 An operating handle lets a person move the associated switch or breaker mechanism. The selected linkage determines how the handle connects to the device.
 
-On a switchgear door, a suitable handle can provide local operation of the breaker mounted behind the panel.
+When updating a panel drawing for XFG-XS125NJ NS-3P, insert the front DWG for the panel elevation, then compare the bottom views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
 
 This set uses the exact filename stem XFG-XS125NJ\_NS-3P. Its views are stored in Tembreak 1/XFG Handle. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 

@@ -32,7 +32,7 @@ The verified native member is Power Products/Edison Class T Fuses/T30200-1C.dwg.
 
 A fuse contains a small element that melts and breaks the circuit when excessive current meets its operating characteristic.
 
-In a substation control panel, a fuse can protect a branch supplying an auxiliary device.
+For example, in a control-power panel with a separately selected fuse arrangement, use the T30200-1C reference to coordinate conductor terminals, replacement route and accessible device identification. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Power Products/Edison Class T Fuses/T30200-1C.dwg. Its identity was checked against the acquired manufacturer archive. Reserve the terminal wiring path and the space needed to replace the fuse-system component without moving adjacent equipment. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

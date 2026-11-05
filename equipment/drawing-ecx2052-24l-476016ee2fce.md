@@ -32,7 +32,7 @@ The verified native member is ECX2052-24L.dwg. Its identity was checked against 
 
 Automation equipment gathers information, follows control rules and passes commands between the equipment and the people operating it.
 
-In a switchroom, sensors, a controller and an operator screen can work together to control ventilation and report a failed fan.
+For control-panel operator coordination, place the ECX2052-24L outline alongside the actual enclosure and adjacent hardware. Coordinate the front operator with the rear device or contact stack, conductor entry and adjacent panel hardware. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is ECX2052-24L.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the front operator with the rear device or contact stack, conductor entry and adjacent panel hardware. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

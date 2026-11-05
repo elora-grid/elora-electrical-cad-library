@@ -1,0 +1,2527 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 12,
+  "entries": [
+    {
+      "id": "abb-xt7-3p-4p-rhe-max-bb6e7c8780",
+      "name": "XT7 3p 4p RHE max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1476",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-3p-4p-rhe-max-bb6e7c8780",
+      "recordPath": "equipment/abb-xt7-3p-4p-rhe-max-bb6e7c8780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-3p-4p-rhe-max-bb6e7c8780.json"
+    },
+    {
+      "id": "abb-xt7-3p-4p-rhe-min-0030594c8d",
+      "name": "XT7 3p 4p RHE min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1477",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-3p-4p-rhe-min-0030594c8d",
+      "recordPath": "equipment/abb-xt7-3p-4p-rhe-min-0030594c8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-3p-4p-rhe-min-0030594c8d.json"
+    },
+    {
+      "id": "abb-xt7-3p-4p-rhe-mb-metallic-base-for-transmitted-handle-30ebb5ceb3",
+      "name": "XT7 3p 4p RHE_MB Metallic base for transmitted handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1988",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-3p-4p-rhe-mb-metallic-base-for-transmitted-handle-30ebb5ceb3",
+      "recordPath": "equipment/abb-xt7-3p-4p-rhe-mb-metallic-base-for-transmitted-handle-30ebb5ceb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-3p-4p-rhe-mb-metallic-base-for-transmitted-handle-30ebb5ceb3.json"
+    },
+    {
+      "id": "abb-xt7-3p-fixed-circuit-breaker-995bcb3f82",
+      "name": "XT7 3p Fixed Circuit Breaker",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1336",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-3p-fixed-circuit-breaker-995bcb3f82",
+      "recordPath": "equipment/abb-xt7-3p-fixed-circuit-breaker-995bcb3f82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-3p-fixed-circuit-breaker-995bcb3f82.json"
+    },
+    {
+      "id": "abb-xt7-3p-fixed-flange-handle-circuit-breaker-mechanism-58acabb3b3",
+      "name": "XT7 3p Fixed Flange Handle - Circuit breaker mechanism",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A2078",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-3p-fixed-flange-handle-circuit-breaker-mechanism-58acabb3b3",
+      "recordPath": "equipment/abb-xt7-3p-fixed-flange-handle-circuit-breaker-mechanism-58acabb3b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-3p-fixed-flange-handle-circuit-breaker-mechanism-58acabb3b3.json"
+    },
+    {
+      "id": "abb-xt7-3p-withdrawable-circuit-breaker-and-fixed-part-85e4d8dd3c",
+      "name": "XT7 3p Withdrawable Circuit Breaker and Fixed Part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1439",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-3p-withdrawable-circuit-breaker-and-fixed-part-85e4d8dd3c",
+      "recordPath": "equipment/abb-xt7-3p-withdrawable-circuit-breaker-and-fixed-part-85e4d8dd3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-3p-withdrawable-circuit-breaker-and-fixed-part-85e4d8dd3c.json"
+    },
+    {
+      "id": "abb-xt7-4p-fixed-circuit-breaker-8d4ca6575a",
+      "name": "XT7 4p Fixed Circuit Breaker",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1390",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-4p-fixed-circuit-breaker-8d4ca6575a",
+      "recordPath": "equipment/abb-xt7-4p-fixed-circuit-breaker-8d4ca6575a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-4p-fixed-circuit-breaker-8d4ca6575a.json"
+    },
+    {
+      "id": "abb-xt7-4p-withdrawable-circuit-breaker-and-fixed-part-9b965c2e66",
+      "name": "XT7 4p Withdrawable Circuit Breaker and Fixed Part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1455",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-4p-withdrawable-circuit-breaker-and-fixed-part-9b965c2e66",
+      "recordPath": "equipment/abb-xt7-4p-withdrawable-circuit-breaker-and-fixed-part-9b965c2e66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-4p-withdrawable-circuit-breaker-and-fixed-part-9b965c2e66.json"
+    },
+    {
+      "id": "abb-xt7-flange-handle-handle-10-in-87a29da5c5",
+      "name": "XT7 Flange Handle - Handle 10 IN",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A2094",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-flange-handle-handle-10-in-87a29da5c5",
+      "recordPath": "equipment/abb-xt7-flange-handle-handle-10-in-87a29da5c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-flange-handle-handle-10-in-87a29da5c5.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-extended-front-terminals-ef-87a3486c25",
+      "name": "XT7 III-IV fixed version extended front terminals EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-extended-front-terminals-ef-87a3486c25",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-extended-front-terminals-ef-87a3486c25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-extended-front-terminals-ef-87a3486c25.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-extended-spread-front-terminals-es-faba38cd23",
+      "name": "XT7 III-IV fixed version extended spread front terminals ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-extended-spread-front-terminals-es-faba38cd23",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-extended-spread-front-terminals-es-faba38cd23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-extended-spread-front-terminals-es-faba38cd23.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-front-terminals-f-a5acfc1284",
+      "name": "XT7 III-IV fixed version front terminals F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-front-terminals-f-a5acfc1284",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-front-terminals-f-a5acfc1284.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-front-terminals-f-a5acfc1284.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-front-terminals-f-with-foldable-handle-a42709a1ae",
+      "name": "XT7 III-IV fixed version front terminals F with foldable handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-front-terminals-f-with-foldable-handle-a42709a1ae",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-front-terminals-f-with-foldable-handle-a42709a1ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-front-terminals-f-with-foldable-handle-a42709a1ae.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-front-terminals-fc-cual-a07456655a",
+      "name": "XT7 III-IV fixed version front terminals FC CuAl",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-front-terminals-fc-cual-a07456655a",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-front-terminals-fc-cual-a07456655a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-front-terminals-fc-cual-a07456655a.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-rear-terminals-hr-adjustable-c99cd5cea0",
+      "name": "XT7 III-IV fixed version rear terminals HR adjustable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-rear-terminals-hr-adjustable-c99cd5cea0",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-rear-terminals-hr-adjustable-c99cd5cea0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-rear-terminals-hr-adjustable-c99cd5cea0.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-rear-terminals-hr-vr-ced9dd710b",
+      "name": "XT7 III-IV fixed version rear terminals HR/VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-rear-terminals-hr-vr-ced9dd710b",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-rear-terminals-hr-vr-ced9dd710b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-rear-terminals-hr-vr-ced9dd710b.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-rear-terminals-vr-adjustable-545c45dfae",
+      "name": "XT7 III-IV fixed version rear terminals VR adjustable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1115",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-rear-terminals-vr-adjustable-545c45dfae",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-rear-terminals-vr-adjustable-545c45dfae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-rear-terminals-vr-adjustable-545c45dfae.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-with-extended-transmitted-rotary-handle-rhe-c651057d99",
+      "name": "XT7 III-IV fixed version with Extended transmitted rotary handle (RHE)",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TFH001051A1001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-with-extended-transmitted-rotary-handle-rhe-c651057d99",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-with-extended-transmitted-rotary-handle-rhe-c651057d99.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-with-extended-transmitted-rotary-handle-rhe-c651057d99.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-fixed-version-with-direct-rotary-handle-rhd-8045b4aee2",
+      "name": "XT7 III-IV fixed version with direct rotary handle (RHD)",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TFH001050A1001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-fixed-version-with-direct-rotary-handle-rhd-8045b4aee2",
+      "recordPath": "equipment/abb-xt7-iii-iv-fixed-version-with-direct-rotary-handle-rhd-8045b4aee2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-fixed-version-with-direct-rotary-handle-rhd-8045b4aee2.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-withdrawable-version-rear-terminals-hr-vr-000da2ecaf",
+      "name": "XT7 III-IV withdrawable version rear terminals HR/VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1120",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-withdrawable-version-rear-terminals-hr-vr-000da2ecaf",
+      "recordPath": "equipment/abb-xt7-iii-iv-withdrawable-version-rear-terminals-hr-vr-000da2ecaf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-withdrawable-version-rear-terminals-hr-vr-000da2ecaf.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-withdrawable-version-with-extended-transmitted-rotary-handle-rhe-2af10644f7",
+      "name": "XT7 III-IV withdrawable version with Extended transmitted rotary handle (RHE)",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TFH001053A1001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-withdrawable-version-with-extended-transmitted-rotary-handle-rhe-2af10644f7",
+      "recordPath": "equipment/abb-xt7-iii-iv-withdrawable-version-with-extended-transmitted-rotary-handle-rhe-2af10644f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-withdrawable-version-with-extended-transmitted-rotary-handle-rhe-2af10644f7.json"
+    },
+    {
+      "id": "abb-xt7-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-3f094f3c80",
+      "name": "XT7 III-IV withdrawable version with direct rotary handle (RHD)",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TFH001052A1001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-3f094f3c80",
+      "recordPath": "equipment/abb-xt7-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-3f094f3c80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-3f094f3c80.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-fixed-version-extended-front-terminals-ef-2107ed23b7",
+      "name": "XT7 M III-IV fixed version extended front terminals EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-fixed-version-extended-front-terminals-ef-2107ed23b7",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-fixed-version-extended-front-terminals-ef-2107ed23b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-fixed-version-extended-front-terminals-ef-2107ed23b7.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-fixed-version-extended-spread-front-terminals-es-84adc9d159",
+      "name": "XT7 M III-IV fixed version extended spread front terminals ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-fixed-version-extended-spread-front-terminals-es-84adc9d159",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-fixed-version-extended-spread-front-terminals-es-84adc9d159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-fixed-version-extended-spread-front-terminals-es-84adc9d159.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-fixed-version-front-terminals-f-9a0e8f5e78",
+      "name": "XT7 M III-IV fixed version front terminals F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-fixed-version-front-terminals-f-9a0e8f5e78",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-fixed-version-front-terminals-f-9a0e8f5e78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-fixed-version-front-terminals-f-9a0e8f5e78.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-fixed-version-front-terminals-fc-cual-802fa27b43",
+      "name": "XT7 M III-IV fixed version front terminals FC CuAl",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-fixed-version-front-terminals-fc-cual-802fa27b43",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-fixed-version-front-terminals-fc-cual-802fa27b43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-fixed-version-front-terminals-fc-cual-802fa27b43.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-fixed-version-rear-terminals-hr-vr-b652577e49",
+      "name": "XT7 M III-IV fixed version rear terminals HR/VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-fixed-version-rear-terminals-hr-vr-b652577e49",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-fixed-version-rear-terminals-hr-vr-b652577e49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-fixed-version-rear-terminals-hr-vr-b652577e49.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-hr-vr-ee72ff979f",
+      "name": "XT7 M III-IV withdrawable version rear terminals HR/VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-hr-vr-ee72ff979f",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-hr-vr-ee72ff979f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-hr-vr-ee72ff979f.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-shr-7a30ad0126",
+      "name": "XT7 M III-IV withdrawable version rear terminals SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1122",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-shr-7a30ad0126",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-shr-7a30ad0126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-withdrawable-version-rear-terminals-shr-7a30ad0126.json"
+    },
+    {
+      "id": "abb-xt7-m-iii-iv-withdrawable-version-terminals-ef-and-es-49e4d7b3d1",
+      "name": "XT7 M III-IV withdrawable version terminals EF and ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1123",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-m-iii-iv-withdrawable-version-terminals-ef-and-es-49e4d7b3d1",
+      "recordPath": "equipment/abb-xt7-m-iii-iv-withdrawable-version-terminals-ef-and-es-49e4d7b3d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-m-iii-iv-withdrawable-version-terminals-ef-and-es-49e4d7b3d1.json"
+    },
+    {
+      "id": "abb-xt7-pll-fixed-lock-with-padlocks-in-open-position-5683b5474e",
+      "name": "XT7 PLL Fixed lock with padlocks in open position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1612",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-pll-fixed-lock-with-padlocks-in-open-position-5683b5474e",
+      "recordPath": "equipment/abb-xt7-pll-fixed-lock-with-padlocks-in-open-position-5683b5474e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-pll-fixed-lock-with-padlocks-in-open-position-5683b5474e.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-bottom-4b643c620d",
+      "name": "XT7-XT7M 3P Fixed FC CuAl 3x380mm2 bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1384",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-bottom-4b643c620d",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-bottom-4b643c620d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-bottom-4b643c620d.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-top-935f140827",
+      "name": "XT7-XT7M 3P Fixed FC CuAl 3x380mm2 top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1380",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-top-935f140827",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-top-935f140827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-fc-cual-3x380mm2-top-935f140827.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-bottom-0c92088a93",
+      "name": "XT7-XT7M 3P Fixed FC CuAl 4x240mm2 bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1366",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-bottom-0c92088a93",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-bottom-0c92088a93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-bottom-0c92088a93.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-top-2c852f62c6",
+      "name": "XT7-XT7M 3P Fixed FC CuAl 4x240mm2 top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1362",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-top-2c852f62c6",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-top-2c852f62c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-top-2c852f62c6.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-ef-bottom-277fbf0a19",
+      "name": "XT7-XT7M 3P Withdrawable EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1442",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-ef-bottom-277fbf0a19",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-ef-bottom-277fbf0a19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-ef-bottom-277fbf0a19.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-ef-top-072a8c81d8",
+      "name": "XT7-XT7M 3P Withdrawable EF top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1440",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-ef-top-072a8c81d8",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-ef-top-072a8c81d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-ef-top-072a8c81d8.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-es-bottom-c1491264e5",
+      "name": "XT7-XT7M 3P Withdrawable ES bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1447",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-es-bottom-c1491264e5",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-es-bottom-c1491264e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-es-bottom-c1491264e5.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-es-top-567cd1c098",
+      "name": "XT7-XT7M 3P Withdrawable ES top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1444",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-es-top-567cd1c098",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-es-top-567cd1c098.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-es-top-567cd1c098.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-shr-bottom-fbadc56dd6",
+      "name": "XT7-XT7M 3P Withdrawable SHR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1454",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-shr-bottom-fbadc56dd6",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-shr-bottom-fbadc56dd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-shr-bottom-fbadc56dd6.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-shr-top-ce30c4399d",
+      "name": "XT7-XT7M 3P Withdrawable SHR top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1450",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-shr-top-ce30c4399d",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-shr-top-ce30c4399d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-shr-top-ce30c4399d.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-4p-fixed-ip30-flange-a813e5cbf5",
+      "name": "XT7-XT7M 3p 4p Fixed IP30 Flange",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1582",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-4p-fixed-ip30-flange-a813e5cbf5",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-4p-fixed-ip30-flange-a813e5cbf5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-4p-fixed-ip30-flange-a813e5cbf5.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-4p-front-plate-8a9c6d3211",
+      "name": "XT7-XT7M 3p 4p Front plate",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1338",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-4p-front-plate-8a9c6d3211",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-4p-front-plate-8a9c6d3211.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-4p-front-plate-8a9c6d3211.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-4p-withdrawable-ip30-flange-0fe0621d7a",
+      "name": "XT7-XT7M 3p 4p Withdrawable IP30 Flange",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1584",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-4p-withdrawable-ip30-flange-0fe0621d7a",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-4p-withdrawable-ip30-flange-0fe0621d7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-4p-withdrawable-ip30-flange-0fe0621d7a.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-f-top-09e10f098a",
+      "name": "XT7-XT7M 3p Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1542",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-f-top-09e10f098a",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-f-top-09e10f098a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-f-top-09e10f098a.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-htc-bottom-6d24f92a54",
+      "name": "XT7-XT7M 3p Fixed HTC bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1370",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-htc-bottom-6d24f92a54",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-htc-bottom-6d24f92a54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-htc-bottom-6d24f92a54.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-htc-top-0cab672993",
+      "name": "XT7-XT7M 3p Fixed HTC top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1368",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-htc-top-0cab672993",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-htc-top-0cab672993.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-htc-top-0cab672993.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-ltc-bottom-142859730a",
+      "name": "XT7-XT7M 3p Fixed LTC bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1388",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-ltc-bottom-142859730a",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-ltc-bottom-142859730a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-ltc-bottom-142859730a.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-ltc-top-5f194deb43",
+      "name": "XT7-XT7M 3p Fixed LTC top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1386",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-ltc-top-5f194deb43",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-ltc-top-5f194deb43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-ltc-top-5f194deb43.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-hr-bottom-49356cb777",
+      "name": "XT7-XT7M 4P Fixed HR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1484",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-hr-bottom-49356cb777",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-hr-bottom-49356cb777.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-hr-bottom-49356cb777.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-hr-top-6d5d5e26e0",
+      "name": "XT7-XT7M 4P Fixed HR top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1482",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-hr-top-6d5d5e26e0",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-hr-top-6d5d5e26e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-hr-top-6d5d5e26e0.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-f-bottom-fbc40695b7",
+      "name": "XT7-XT7M 4p Fixed F bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1410",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-f-bottom-fbc40695b7",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-f-bottom-fbc40695b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-f-bottom-fbc40695b7.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-f-top-e117526e38",
+      "name": "XT7-XT7M 4p Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1408",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-f-top-e117526e38",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-f-top-e117526e38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-f-top-e117526e38.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-bottom-9cd7ae3da8",
+      "name": "XT7-XT7M 4p Fixed FCCuAl 2x240mm2 bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1419",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-bottom-9cd7ae3da8",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-bottom-9cd7ae3da8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-bottom-9cd7ae3da8.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-top-cf00ab8181",
+      "name": "XT7-XT7M 4p Fixed FCCuAl 2x240mm2 top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1417",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-top-cf00ab8181",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-top-cf00ab8181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-top-cf00ab8181.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-bottom-9c55283af1",
+      "name": "XT7-XT7M 4p Fixed FCCuAl 3x380mm2 bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1423",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-bottom-9c55283af1",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-bottom-9c55283af1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-bottom-9c55283af1.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-top-e43f9affd6",
+      "name": "XT7-XT7M 4p Fixed FCCuAl 3x380mm2 top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1521",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-top-e43f9affd6",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-top-e43f9affd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-top-e43f9affd6.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-bottom-0b3fea8c51",
+      "name": "XT7-XT7M 4p Fixed FCCuAl 4x240mm2 bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1415",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-bottom-0b3fea8c51",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-bottom-0b3fea8c51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-bottom-0b3fea8c51.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-top-4493d3bcc5",
+      "name": "XT7-XT7M 4p Fixed FCCuAl 4x240mm2 top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1413",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-top-4493d3bcc5",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-top-4493d3bcc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fccual-4x240mm2-top-4493d3bcc5.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-htc-bottom-cf12638c9e",
+      "name": "XT7-XT7M 4p Fixed HTC bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1529",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-htc-bottom-cf12638c9e",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-htc-bottom-cf12638c9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-htc-bottom-cf12638c9e.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-htc-top-f9c8644d56",
+      "name": "XT7-XT7M 4p Fixed HTC top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1527",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-htc-top-f9c8644d56",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-htc-top-f9c8644d56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-htc-top-f9c8644d56.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ltc-bottom-826ec948e0",
+      "name": "XT7-XT7M 4p Fixed LTC bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1434",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ltc-bottom-826ec948e0",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ltc-bottom-826ec948e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ltc-bottom-826ec948e0.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ltc-top-e1520ba529",
+      "name": "XT7-XT7M 4p Fixed LTC top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1531",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ltc-top-e1520ba529",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ltc-top-e1520ba529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ltc-top-e1520ba529.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-vr-bottom-a85581165f",
+      "name": "XT7-XT7M 4p Fixed VR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1511",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-vr-bottom-a85581165f",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-vr-bottom-a85581165f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-vr-bottom-a85581165f.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-vr-top-6fe2016404",
+      "name": "XT7-XT7M 4p Fixed VR top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1509",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-vr-top-6fe2016404",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-vr-top-6fe2016404.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-vr-top-6fe2016404.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-ef-bottom-8639a87d7e",
+      "name": "XT7-XT7M 4p Withdrawable EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1460",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-ef-bottom-8639a87d7e",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-ef-bottom-8639a87d7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-ef-bottom-8639a87d7e.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-ef-top-506e594626",
+      "name": "XT7-XT7M 4p Withdrawable EF top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1458",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-ef-top-506e594626",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-ef-top-506e594626.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-ef-top-506e594626.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-es-bottom-3cf37ec19c",
+      "name": "XT7-XT7M 4p Withdrawable ES bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1465",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-es-bottom-3cf37ec19c",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-es-bottom-3cf37ec19c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-es-bottom-3cf37ec19c.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-es-top-ec5a9589fa",
+      "name": "XT7-XT7M 4p Withdrawable ES top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1462",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-es-top-ec5a9589fa",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-es-top-ec5a9589fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-es-top-ec5a9589fa.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-shr-bottom-541b16571a",
+      "name": "XT7-XT7M 4p Withdrawable SHR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1471",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-shr-bottom-541b16571a",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-shr-bottom-541b16571a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-shr-bottom-541b16571a.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-shr-top-81c7bba612",
+      "name": "XT7-XT7M 4p Withdrawable SHR top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1468",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-shr-top-81c7bba612",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-shr-top-81c7bba612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-shr-top-81c7bba612.json"
+    },
+    {
+      "id": "abb-xt7d-dc-3p2l-fce863f7bf",
+      "name": "XT7D DC 3P2L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TFH001323A1001",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7d-dc-3p2l-fce863f7bf",
+      "recordPath": "equipment/abb-xt7d-dc-3p2l-fce863f7bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7d-dc-3p2l-fce863f7bf.json"
+    },
+    {
+      "id": "abb-xt7m-3p-fixed-circuit-breaker-144ea8d706",
+      "name": "XT7M 3p Fixed Circuit Breaker",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1337",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7m-3p-fixed-circuit-breaker-144ea8d706",
+      "recordPath": "equipment/abb-xt7m-3p-fixed-circuit-breaker-144ea8d706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7m-3p-fixed-circuit-breaker-144ea8d706.json"
+    },
+    {
+      "id": "abb-xt7m-3p-withdrawable-circuit-breaker-and-fixed-part-efbde4acd0",
+      "name": "XT7M 3p Withdrawable Circuit Breaker and Fixed Part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1457",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7m-3p-withdrawable-circuit-breaker-and-fixed-part-efbde4acd0",
+      "recordPath": "equipment/abb-xt7m-3p-withdrawable-circuit-breaker-and-fixed-part-efbde4acd0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7m-3p-withdrawable-circuit-breaker-and-fixed-part-efbde4acd0.json"
+    },
+    {
+      "id": "abb-xt7m-4p-fixed-circuit-breaker-e82770b419",
+      "name": "XT7M 4p Fixed Circuit Breaker",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1437",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7m-4p-fixed-circuit-breaker-e82770b419",
+      "recordPath": "equipment/abb-xt7m-4p-fixed-circuit-breaker-e82770b419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7m-4p-fixed-circuit-breaker-e82770b419.json"
+    },
+    {
+      "id": "abb-xt7m-4p-withdrawable-circuit-breaker-and-fixed-part-76a2d5a243",
+      "name": "XT7M 4p Withdrawable Circuit Breaker and Fixed Part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1456",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7m-4p-withdrawable-circuit-breaker-and-fixed-part-76a2d5a243",
+      "recordPath": "equipment/abb-xt7m-4p-withdrawable-circuit-breaker-and-fixed-part-76a2d5a243.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7m-4p-withdrawable-circuit-breaker-and-fixed-part-76a2d5a243.json"
+    },
+    {
+      "id": "abb-xt7m-iii-iv-fixed-version-rear-terminals-hr-adjustable-60829dc15a",
+      "name": "XT7M III-IV fixed version rear terminals HR adjustable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7m-iii-iv-fixed-version-rear-terminals-hr-adjustable-60829dc15a",
+      "recordPath": "equipment/abb-xt7m-iii-iv-fixed-version-rear-terminals-hr-adjustable-60829dc15a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7m-iii-iv-fixed-version-rear-terminals-hr-adjustable-60829dc15a.json"
+    },
+    {
+      "id": "abb-xt7m-iii-iv-fixed-version-rear-terminals-vr-adjustable-5d8c2fb819",
+      "name": "XT7M III-IV fixed version rear terminals VR adjustable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002013A1113",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7m-iii-iv-fixed-version-rear-terminals-vr-adjustable-5d8c2fb819",
+      "recordPath": "equipment/abb-xt7m-iii-iv-fixed-version-rear-terminals-vr-adjustable-5d8c2fb819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7m-iii-iv-fixed-version-rear-terminals-vr-adjustable-5d8c2fb819.json"
+    },
+    {
+      "id": "abb-system-adapter-60-mm-for-plug-in-t5-3p-160889370b",
+      "name": "system adapter 60 mm for Plug in T5 3p",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000437R0196",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-system-adapter-60-mm-for-plug-in-t5-3p-160889370b",
+      "recordPath": "equipment/abb-system-adapter-60-mm-for-plug-in-t5-3p-160889370b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-system-adapter-60-mm-for-plug-in-t5-3p-160889370b.json"
+    },
+    {
+      "id": "abb-system-adapter-60-mm-for-fixed-t4-3p-a33d187c2a",
+      "name": "system adapter 60 mm for fixed T4 3p",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0198",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-system-adapter-60-mm-for-fixed-t4-3p-a33d187c2a",
+      "recordPath": "equipment/abb-system-adapter-60-mm-for-fixed-t4-3p-a33d187c2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-system-adapter-60-mm-for-fixed-t4-3p-a33d187c2a.json"
+    },
+    {
+      "id": "abb-system-adapter-bars-60-mm-for-plug-in-t4-3p-3551a54bf4",
+      "name": "system adapter bars 60 mm for Plug in T4 3p",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0196",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-system-adapter-bars-60-mm-for-plug-in-t4-3p-3551a54bf4",
+      "recordPath": "equipment/abb-system-adapter-bars-60-mm-for-plug-in-t4-3p-3551a54bf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-system-adapter-bars-60-mm-for-plug-in-t4-3p-3551a54bf4.json"
+    },
+    {
+      "id": "abb-xt6-iii-iv-fixed-version-800a-extended-front-terminals-ef-with-phase-separators-100mm-top-a-25abd800e9",
+      "name": "\"XT6 III-IV fixed version 800A extended front terminals EF with phase separators 100mm (top) and high terminal cover (bottom)\"",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002012A1104",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-iii-iv-fixed-version-800a-extended-front-terminals-ef-with-phase-separators-100mm-top-a-25abd800e9",
+      "recordPath": "equipment/abb-xt6-iii-iv-fixed-version-800a-extended-front-terminals-ef-with-phase-separators-100mm-top-a-25abd800e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-iii-iv-fixed-version-800a-extended-front-terminals-ef-with-phase-separators-100mm-top-a-25abd800e9.json"
+    },
+    {
+      "id": "abb-1tch118734-konstruktion-fastline-adapter-mit-tmax-xt-a2a632776e",
+      "name": "1TCH118734_Konstruktion FastLine Adapter mit Tmax XT",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A0091",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1tch118734-konstruktion-fastline-adapter-mit-tmax-xt-a2a632776e",
+      "recordPath": "equipment/abb-1tch118734-konstruktion-fastline-adapter-mit-tmax-xt-a2a632776e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1tch118734-konstruktion-fastline-adapter-mit-tmax-xt-a2a632776e.json"
+    },
+    {
+      "id": "abb-2d-9akk108467a9586-ovr-t1-t2-1l-n-25-p-a234ffb5a8",
+      "name": "9AKK108467A9586_OVR T1-T2 1L_N 25 P",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A9586",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-9akk108467a9586-ovr-t1-t2-1l-n-25-p-a234ffb5a8",
+      "recordPath": "equipment/abb-2d-9akk108467a9586-ovr-t1-t2-1l-n-25-p-a234ffb5a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-9akk108467a9586-ovr-t1-t2-1l-n-25-p-a234ffb5a8.json"
+    },
+    {
+      "id": "abb-2d-9akk108467a9587-ovr-t1-t2-25ka-1l-n-p-ts-69c4d67027",
+      "name": "9AKK108467A9587_OVR T1-T2 25kA 1L_N P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A9587",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-9akk108467a9587-ovr-t1-t2-25ka-1l-n-p-ts-69c4d67027",
+      "recordPath": "equipment/abb-2d-9akk108467a9587-ovr-t1-t2-25ka-1l-n-p-ts-69c4d67027.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-9akk108467a9587-ovr-t1-t2-25ka-1l-n-p-ts-69c4d67027.json"
+    },
+    {
+      "id": "abb-2d-9akk108467a9588-ovr-t1-t2-1n-25-p-ts-8c25e09736",
+      "name": "9AKK108467A9588_OVR T1-T2 1N 25 P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A9588",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-9akk108467a9588-ovr-t1-t2-1n-25-p-ts-8c25e09736",
+      "recordPath": "equipment/abb-2d-9akk108467a9588-ovr-t1-t2-1n-25-p-ts-8c25e09736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-9akk108467a9588-ovr-t1-t2-1n-25-p-ts-8c25e09736.json"
+    },
+    {
+      "id": "abb-2d-9akk108467a9589-ovr-t1-t2-3l-75-255-p-ts-dedc1813fe",
+      "name": "9AKK108467A9589_OVR T1-T2 3L 75-255 P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A9589",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-9akk108467a9589-ovr-t1-t2-3l-75-255-p-ts-dedc1813fe",
+      "recordPath": "equipment/abb-2d-9akk108467a9589-ovr-t1-t2-3l-75-255-p-ts-dedc1813fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-9akk108467a9589-ovr-t1-t2-3l-75-255-p-ts-dedc1813fe.json"
+    },
+    {
+      "id": "abb-2d-9akk108467a9590-ovr-t1-t2-3n-4l-25-p-ts-c4779112a6",
+      "name": "9AKK108467A9590_OVR T1-T2 3N_4L 25 P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A9590",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-9akk108467a9590-ovr-t1-t2-3n-4l-25-p-ts-c4779112a6",
+      "recordPath": "equipment/abb-2d-9akk108467a9590-ovr-t1-t2-3n-4l-25-p-ts-c4779112a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-9akk108467a9590-ovr-t1-t2-3n-4l-25-p-ts-c4779112a6.json"
+    },
+    {
+      "id": "abb-2d-9akk108467a9591-ovr-t1-t2-25ka-cartridges-5244722664",
+      "name": "9AKK108467A9591_OVR T1-T2 25kA_Cartridges",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A9591",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-9akk108467a9591-ovr-t1-t2-25ka-cartridges-5244722664",
+      "recordPath": "equipment/abb-2d-9akk108467a9591-ovr-t1-t2-25ka-cartridges-5244722664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-9akk108467a9591-ovr-t1-t2-25ka-cartridges-5244722664.json"
+    },
+    {
+      "id": "abb-ansi-vacuum-circuit-breaker-advac-5kv-to-15kv-2d-dimensional-drawing-7e8454583b",
+      "name": "ANSI Vacuum Circuit Breaker ADVAC® 5kV to 15kV - 2D Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "3XAA034316_2D",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ansi-vacuum-circuit-breaker-advac-5kv-to-15kv-2d-dimensional-drawing-7e8454583b",
+      "recordPath": "equipment/abb-ansi-vacuum-circuit-breaker-advac-5kv-to-15kv-2d-dimensional-drawing-7e8454583b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ansi-vacuum-circuit-breaker-advac-5kv-to-15kv-2d-dimensional-drawing-7e8454583b.json"
+    },
+    {
+      "id": "abb-ansi-vacuum-circuit-breaker-advac-hd-8kv-to-15kv-2d-dimensional-drawing-18dfdb5e4c",
+      "name": "ANSI Vacuum Circuit Breaker ADVAC® HD 8kV to 15kV - 2D Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "3XAA040926_2D",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ansi-vacuum-circuit-breaker-advac-hd-8kv-to-15kv-2d-dimensional-drawing-18dfdb5e4c",
+      "recordPath": "equipment/abb-ansi-vacuum-circuit-breaker-advac-hd-8kv-to-15kv-2d-dimensional-drawing-18dfdb5e4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ansi-vacuum-circuit-breaker-advac-hd-8kv-to-15kv-2d-dimensional-drawing-18dfdb5e4c.json"
+    },
+    {
+      "id": "abb-ansi-vacuum-generator-circuit-breaker-advac-g-2d-dimensional-drawing-7c186d4364",
+      "name": "ANSI Vacuum Generator Circuit Breaker ADVAC® G - 2D Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "3XAA066762_2D",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ansi-vacuum-generator-circuit-breaker-advac-g-2d-dimensional-drawing-7c186d4364",
+      "recordPath": "equipment/abb-ansi-vacuum-generator-circuit-breaker-advac-g-2d-dimensional-drawing-7c186d4364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ansi-vacuum-generator-circuit-breaker-advac-g-2d-dimensional-drawing-7c186d4364.json"
+    },
+    {
+      "id": "abb-dimension-diagram-ovr-t2-t3-4l-20-xxx-p-ts-qs-d9e7729243",
+      "name": "Dimension Diagram_OVR T2-T3 4L 20-XXX P (TS) QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A5168",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-diagram-ovr-t2-t3-4l-20-xxx-p-ts-qs-d9e7729243",
+      "recordPath": "equipment/abb-dimension-diagram-ovr-t2-t3-4l-20-xxx-p-ts-qs-d9e7729243.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-diagram-ovr-t2-t3-4l-20-xxx-p-ts-qs-d9e7729243.json"
+    },
+    {
+      "id": "abb-dimension-drawings-cdbe156aab",
+      "name": "Dimension drawings",
+      "manufacturer": "ABB",
+      "drawingNumber": "DIMENSION_DRAWINGS",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawings-cdbe156aab",
+      "recordPath": "equipment/abb-dimension-drawings-cdbe156aab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawings-cdbe156aab.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-t2-pop-1n-c45c618c30",
+      "name": "Dimensional Drawing T2 POP 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A6569",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-t2-pop-1n-c45c618c30",
+      "recordPath": "equipment/abb-dimensional-drawing-t2-pop-1n-c45c618c30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-t2-pop-1n-c45c618c30.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-t2-pop-3n-3a3e92850f",
+      "name": "Dimensional Drawing T2 POP 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A6568",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-t2-pop-3n-3a3e92850f",
+      "recordPath": "equipment/abb-dimensional-drawing-t2-pop-3n-3a3e92850f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-t2-pop-3n-3a3e92850f.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-3l-12-5-880-ts-36405a8136",
+      "name": "Dimensional drawing OVR T1-T2 3L 12.5-880 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A9385",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-3l-12-5-880-ts-36405a8136",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-3l-12-5-880-ts-36405a8136.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-3l-12-5-880-ts-36405a8136.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-t3-1n-50-255-p-ts-e21b84a965",
+      "name": "Dimensional drawing OVR T1-T2-T3 1N 50-255 P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3950",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-t3-1n-50-255-p-ts-e21b84a965",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-t3-1n-50-255-p-ts-e21b84a965.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-t3-1n-50-255-p-ts-e21b84a965.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-t3-3l-75-255-p-ts-ovr-t1-t2-t3-3n-100-255-p-ts-7ed9d17290",
+      "name": "Dimensional drawing OVR T1-T2-T3 3L 75-255 P TS | OVR T1-T2-T3 3N 100-255 P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3951",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-t3-3l-75-255-p-ts-ovr-t1-t2-t3-3n-100-255-p-ts-7ed9d17290",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-t3-3l-75-255-p-ts-ovr-t1-t2-t3-3n-100-255-p-ts-7ed9d17290.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-t3-3l-75-255-p-ts-ovr-t1-t2-t3-3n-100-255-p-ts-7ed9d17290.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-busbar-tt-10c9c83a2f",
+      "name": "Dimensional drawing OVR+ T1-T2 Busbar TT",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8243",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-busbar-tt-10c9c83a2f",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-busbar-tt-10c9c83a2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-busbar-tt-10c9c83a2f.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-n-100-255-ts-f-55662cb0bf",
+      "name": "Dimensional drawing OVR+ T1-T2 N 100-255 TS F",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8242",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-n-100-255-ts-f-55662cb0bf",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-n-100-255-ts-f-55662cb0bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-n-100-255-ts-f-55662cb0bf.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-t3-1l-25-266-ts-f-157c84b47d",
+      "name": "Dimensional drawing OVR+ T1-T2-T3 1L 25-266 TS F",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8241",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-t3-1l-25-266-ts-f-157c84b47d",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-t3-1l-25-266-ts-f-157c84b47d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-t3-1l-25-266-ts-f-157c84b47d.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tnc-d14a01c186",
+      "name": "Dimensional drawing OVR+ T1-T2-T3 Busbar TNC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8244",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tnc-d14a01c186",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tnc-d14a01c186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tnc-d14a01c186.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tns-ba31e4be0f",
+      "name": "Dimensional drawing OVR+ T1-T2-T3 Busbar TNS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8246",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tns-ba31e4be0f",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tns-ba31e4be0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-t1-t2-t3-busbar-tns-ba31e4be0f.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-v-connection-terminal-ovr-t1-t2-t3-v25-6f82325608",
+      "name": "Dimensional drawing V-connection terminal OVR T1-T2-T3 V25",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3954",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-v-connection-terminal-ovr-t1-t2-t3-v25-6f82325608",
+      "recordPath": "equipment/abb-dimensional-drawing-v-connection-terminal-ovr-t1-t2-t3-v25-6f82325608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-v-connection-terminal-ovr-t1-t2-t3-v25-6f82325608.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-cartridge-ovr-t1-t2-t3-3l-75-255-c-ovr-t1-t2-t3-3n-100-255-c-2c2403ebbc",
+      "name": "Dimensional drawing cartridge OVR T1-T2-T3 3L 75-255 C | OVR T1-T2-T3 3N 100-255 C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3953",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-cartridge-ovr-t1-t2-t3-3l-75-255-c-ovr-t1-t2-t3-3n-100-255-c-2c2403ebbc",
+      "recordPath": "equipment/abb-dimensional-drawing-cartridge-ovr-t1-t2-t3-3l-75-255-c-ovr-t1-t2-t3-3n-100-255-c-2c2403ebbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-cartridge-ovr-t1-t2-t3-3l-75-255-c-ovr-t1-t2-t3-3n-100-255-c-2c2403ebbc.json"
+    },
+    {
+      "id": "abb-drawing-10106028sh1-outline-1-pole-teyd-h-l-3e7ef33e56",
+      "name": "Drawing 10106028SH1 - Outline 1 Pole TEYD/H/L",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930076D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-10106028sh1-outline-1-pole-teyd-h-l-3e7ef33e56",
+      "recordPath": "equipment/abb-drawing-10106028sh1-outline-1-pole-teyd-h-l-3e7ef33e56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-10106028sh1-outline-1-pole-teyd-h-l-3e7ef33e56.json"
+    },
+    {
+      "id": "abb-drawing-139c5696sh3-outline-3-pole-tey-teyf-a60e93b336",
+      "name": "Drawing 139C5696SH3 - Outline 3 Pole TEY/TEYF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930081D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5696sh3-outline-3-pole-tey-teyf-a60e93b336",
+      "recordPath": "equipment/abb-drawing-139c5696sh3-outline-3-pole-tey-teyf-a60e93b336.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5696sh3-outline-3-pole-tey-teyf-a60e93b336.json"
+    },
+    {
+      "id": "abb-drawing-1sqc930154m0201-rating-label-xt7mencl1200s-1sqa011994r0001-ee79eb666a",
+      "name": "Drawing 1SQC930154M0201 Rating Label, XT7MENCL1200S/1SQA011994R0001",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930154M0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-1sqc930154m0201-rating-label-xt7mencl1200s-1sqa011994r0001-ee79eb666a",
+      "recordPath": "equipment/abb-drawing-1sqc930154m0201-rating-label-xt7mencl1200s-1sqa011994r0001-ee79eb666a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-1sqc930154m0201-rating-label-xt7mencl1200s-1sqa011994r0001-ee79eb666a.json"
+    },
+    {
+      "id": "abb-drawing-1sqc930155m0201-rating-label-xt7mencl1200r-1sqa12031r0001-25059adb0c",
+      "name": "Drawing 1SQC930155M0201 Rating Label, XT7MENCL1200R/1SQA12031R0001",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930155M0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-1sqc930155m0201-rating-label-xt7mencl1200r-1sqa12031r0001-25059adb0c",
+      "recordPath": "equipment/abb-drawing-1sqc930155m0201-rating-label-xt7mencl1200r-1sqa12031r0001-25059adb0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-1sqc930155m0201-rating-label-xt7mencl1200r-1sqa12031r0001-25059adb0c.json"
+    },
+    {
+      "id": "abb-drawing-1sqc930183d0201-outline-drawing-xt7mencl1200-1sqa011994r0001-c370e0c428",
+      "name": "Drawing 1SQC930183D0201 Outline Drawing, XT7MENCL1200/1SQA011994R0001",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930183D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-1sqc930183d0201-outline-drawing-xt7mencl1200-1sqa011994r0001-c370e0c428",
+      "recordPath": "equipment/abb-drawing-1sqc930183d0201-outline-drawing-xt7mencl1200-1sqa011994r0001-c370e0c428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-1sqc930183d0201-outline-drawing-xt7mencl1200-1sqa011994r0001-c370e0c428.json"
+    },
+    {
+      "id": "abb-drawing-gem3025-1-pb2-800a-drawout-app-spec-797cbdacf0",
+      "name": "Drawing GEM3025-1 PB2 800A DRAWOUT + APP SPEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930062D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-gem3025-1-pb2-800a-drawout-app-spec-797cbdacf0",
+      "recordPath": "equipment/abb-drawing-gem3025-1-pb2-800a-drawout-app-spec-797cbdacf0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-gem3025-1-pb2-800a-drawout-app-spec-797cbdacf0.json"
+    },
+    {
+      "id": "abb-drawing-gem3025-3-pb2-1600a-2000a-drawout-app-spec-2c5fc98861",
+      "name": "Drawing GEM3025-3 PB2 1600A 2000A DRAWOUT + APP SPEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930065D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-gem3025-3-pb2-1600a-2000a-drawout-app-spec-2c5fc98861",
+      "recordPath": "equipment/abb-drawing-gem3025-3-pb2-1600a-2000a-drawout-app-spec-2c5fc98861.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-gem3025-3-pb2-1600a-2000a-drawout-app-spec-2c5fc98861.json"
+    },
+    {
+      "id": "abb-drawing-pdf-t1-t2-pluggable-prom-high-profile-double-4l-ts-cf6b3a6597",
+      "name": "Drawing PDF T1-T2 Pluggable ProM High Profile Double 4L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2900.PDF",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-pdf-t1-t2-pluggable-prom-high-profile-double-4l-ts-cf6b3a6597",
+      "recordPath": "equipment/abb-drawing-pdf-t1-t2-pluggable-prom-high-profile-double-4l-ts-cf6b3a6597.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-pdf-t1-t2-pluggable-prom-high-profile-double-4l-ts-cf6b3a6597.json"
+    },
+    {
+      "id": "abb-drawing-pdf-t2-pluggable-prom-profile-3l-21d4620afa",
+      "name": "Drawing PDF T2 Pluggable ProM Profile 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0700.PDF",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-pdf-t2-pluggable-prom-profile-3l-21d4620afa",
+      "recordPath": "equipment/abb-drawing-pdf-t2-pluggable-prom-profile-3l-21d4620afa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-pdf-t2-pluggable-prom-profile-3l-21d4620afa.json"
+    },
+    {
+      "id": "abb-drawing-pdf-t2-pluggable-prom-profile-qs-c-neutral-04c4bd4da4",
+      "name": "Drawing PDF T2 Pluggable ProM Profile QS C Neutral",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1900.PDF",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-pdf-t2-pluggable-prom-profile-qs-c-neutral-04c4bd4da4",
+      "recordPath": "equipment/abb-drawing-pdf-t2-pluggable-prom-profile-qs-c-neutral-04c4bd4da4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-pdf-t2-pluggable-prom-profile-qs-c-neutral-04c4bd4da4.json"
+    },
+    {
+      "id": "abb-drawing-t1-t2-pluggable-prom-high-profile-c-neutral-2deeeaa815",
+      "name": "Drawing T1-T2 Pluggable ProM High Profile C Neutral",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F4100",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-c-neutral-2deeeaa815",
+      "recordPath": "equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-c-neutral-2deeeaa815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t1-t2-pluggable-prom-high-profile-c-neutral-2deeeaa815.json"
+    },
+    {
+      "id": "abb-drawing-t1-t2-pluggable-prom-high-profile-c-phase-d9b3afd1fd",
+      "name": "Drawing T1-T2 Pluggable ProM High Profile C Phase",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3800",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-c-phase-d9b3afd1fd",
+      "recordPath": "equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-c-phase-d9b3afd1fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t1-t2-pluggable-prom-high-profile-c-phase-d9b3afd1fd.json"
+    },
+    {
+      "id": "abb-drawing-t1-t2-pluggable-prom-high-profile-double-2l-a7b733e8f4",
+      "name": "Drawing T1-T2 Pluggable ProM High Profile Double 2L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3300",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-double-2l-a7b733e8f4",
+      "recordPath": "equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-double-2l-a7b733e8f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t1-t2-pluggable-prom-high-profile-double-2l-a7b733e8f4.json"
+    },
+    {
+      "id": "abb-drawing-t1-t2-pluggable-prom-high-profile-double-c-phase-cc26f82a30",
+      "name": "Drawing T1-T2 Pluggable ProM High Profile Double C Phase",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3900",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-double-c-phase-cc26f82a30",
+      "recordPath": "equipment/abb-drawing-t1-t2-pluggable-prom-high-profile-double-c-phase-cc26f82a30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t1-t2-pluggable-prom-high-profile-double-c-phase-cc26f82a30.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-1n-31c3132d4a",
+      "name": "Drawing T2 Pluggable ProM Profile 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F1100",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-1n-31c3132d4a",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-1n-31c3132d4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-1n-31c3132d4a.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-1n-ts-a796c02cc8",
+      "name": "Drawing T2 Pluggable ProM Profile 1N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F1200",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-1n-ts-a796c02cc8",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-1n-ts-a796c02cc8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-1n-ts-a796c02cc8.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-2l-0fe69cd1d9",
+      "name": "Drawing T2 Pluggable ProM Profile 2L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2100",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-2l-0fe69cd1d9",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-2l-0fe69cd1d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-2l-0fe69cd1d9.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-2l-ts-420b7142c1",
+      "name": "Drawing T2 Pluggable ProM Profile 2L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2200",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-2l-ts-420b7142c1",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-2l-ts-420b7142c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-2l-ts-420b7142c1.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-3l-ts-63a8fb6e28",
+      "name": "Drawing T2 Pluggable ProM Profile 3L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0800",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-3l-ts-63a8fb6e28",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-3l-ts-63a8fb6e28.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-3l-ts-63a8fb6e28.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-3n-dbc116c8ec",
+      "name": "Drawing T2 Pluggable ProM Profile 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F1300",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-3n-dbc116c8ec",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-3n-dbc116c8ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-3n-dbc116c8ec.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-3n-ts-926d032bd5",
+      "name": "Drawing T2 Pluggable ProM Profile 3N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F1400",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-3n-ts-926d032bd5",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-3n-ts-926d032bd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-3n-ts-926d032bd5.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-4l-ts-bea9054c73",
+      "name": "Drawing T2 Pluggable ProM Profile 4L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F1000",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-4l-ts-bea9054c73",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-4l-ts-bea9054c73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-4l-ts-bea9054c73.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-n1-640e919919",
+      "name": "Drawing T2 Pluggable ProM Profile N1",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0300",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-n1-640e919919",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-n1-640e919919.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-n1-640e919919.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-n1-ts-663097259f",
+      "name": "Drawing T2 Pluggable ProM Profile N1 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0400",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-n1-ts-663097259f",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-n1-ts-663097259f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-n1-ts-663097259f.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-n3-1da3a1d4e9",
+      "name": "Drawing T2 Pluggable ProM Profile N3",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0500",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-n3-1da3a1d4e9",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-n3-1da3a1d4e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-n3-1da3a1d4e9.json"
+    },
+    {
+      "id": "abb-drawing-t2-pluggable-prom-profile-n3-ts-3f600773e7",
+      "name": "Drawing T2 Pluggable ProM Profile N3 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0600",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-t2-pluggable-prom-profile-n3-ts-3f600773e7",
+      "recordPath": "equipment/abb-drawing-t2-pluggable-prom-profile-n3-ts-3f600773e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-t2-pluggable-prom-profile-n3-ts-3f600773e7.json"
+    },
+    {
+      "id": "abb-e1-2-withdrawable-terminals-f-ul-6456f9ebf5",
+      "name": "E1.2 withdrawable terminals F UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0303",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-withdrawable-terminals-f-ul-6456f9ebf5",
+      "recordPath": "equipment/abb-e1-2-withdrawable-terminals-f-ul-6456f9ebf5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-withdrawable-terminals-f-ul-6456f9ebf5.json"
+    },
+    {
+      "id": "abb-e2-3-iii-iv-fixed-shr-8f4a4c5b77",
+      "name": "E2.3 III-IV FIXED SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1104",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-iii-iv-fixed-shr-8f4a4c5b77",
+      "recordPath": "equipment/abb-e2-3-iii-iv-fixed-shr-8f4a4c5b77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-iii-iv-fixed-shr-8f4a4c5b77.json"
+    },
+    {
+      "id": "abb-e2-3-iii-iv-withdrawable-shr-5614ea0d31",
+      "name": "E2.3 III-IV WITHDRAWABLE SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1105",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-iii-iv-withdrawable-shr-5614ea0d31",
+      "recordPath": "equipment/abb-e2-3-iii-iv-withdrawable-shr-5614ea0d31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-iii-iv-withdrawable-shr-5614ea0d31.json"
+    },
+    {
+      "id": "abb-e4-3-3-4p-withdrawable-hr-vr-3a0a595789",
+      "name": "E4.3 3-4P WITHDRAWABLE HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1202",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-3-3-4p-withdrawable-hr-vr-3a0a595789",
+      "recordPath": "equipment/abb-e4-3-3-4p-withdrawable-hr-vr-3a0a595789.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-3-3-4p-withdrawable-hr-vr-3a0a595789.json"
+    },
+    {
+      "id": "abb-emax2-the-first-circuit-breaker-that-saves-energy-af9525d9fc",
+      "name": "Emax2 – The first circuit breaker that saves energy",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK105713A5575",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-emax2-the-first-circuit-breaker-that-saves-energy-af9525d9fc",
+      "recordPath": "equipment/abb-emax2-the-first-circuit-breaker-that-saves-energy-af9525d9fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-emax2-the-first-circuit-breaker-that-saves-energy-af9525d9fc.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-adjustable-rear-terminals-268c582bfe",
+      "name": "Fixed version P2 III-IV adjustable rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1104",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-adjustable-rear-terminals-268c582bfe",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-adjustable-rear-terminals-268c582bfe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-adjustable-rear-terminals-268c582bfe.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-157a0de099",
+      "name": "Fixed version P2 III-IV extended spread front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-157a0de099",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-157a0de099.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-157a0de099.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-front-terminals-bba1d16b1b",
+      "name": "Fixed version P2 III-IV front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1110",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-front-terminals-bba1d16b1b",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-front-terminals-bba1d16b1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-front-terminals-bba1d16b1b.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-terminals-fc-cual-6ce3598747",
+      "name": "Fixed version P2 III-IV terminals FC-CuAl",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1133",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-terminals-fc-cual-6ce3598747",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-terminals-fc-cual-6ce3598747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-terminals-fc-cual-6ce3598747.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-terminals-fc-cual-30-150mm2-674d4b04b9",
+      "name": "Fixed version P2 III-IV terminals FC-CuAl 30…150mm2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1121",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-terminals-fc-cual-30-150mm2-674d4b04b9",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-terminals-fc-cual-30-150mm2-674d4b04b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-terminals-fc-cual-30-150mm2-674d4b04b9.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-with-extended-front-terminals-7882e14183",
+      "name": "Fixed version P2 III-IV with extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1123",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-with-extended-front-terminals-7882e14183",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-with-extended-front-terminals-7882e14183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-with-extended-front-terminals-7882e14183.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-adjustable-rear-terminals-72458ce71a",
+      "name": "Fixed version P3 III-IV adjustable rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1102",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-adjustable-rear-terminals-72458ce71a",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-adjustable-rear-terminals-72458ce71a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-adjustable-rear-terminals-72458ce71a.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-extended-front-terminals-481c234021",
+      "name": "Fixed version P3 III-IV extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1103",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-extended-front-terminals-481c234021",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-extended-front-terminals-481c234021.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-extended-front-terminals-481c234021.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-f75a143d51",
+      "name": "Fixed version P3 III-IV extended spread front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1104",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-f75a143d51",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-f75a143d51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-f75a143d51.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-front-terminals-abc7662d89",
+      "name": "Fixed version P3 III-IV front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-front-terminals-abc7662d89",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-front-terminals-abc7662d89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-front-terminals-abc7662d89.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-terminals-fc-cual-400a-3127087236",
+      "name": "Fixed version P3 III-IV terminals FC-CuAl 400A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1105",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-terminals-fc-cual-400a-3127087236",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-terminals-fc-cual-400a-3127087236.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-terminals-fc-cual-400a-3127087236.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-terminals-fc-cual-630a-9dbd437fab",
+      "name": "Fixed version P3 III-IV terminals FC-CuAl 630A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1106",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-terminals-fc-cual-630a-9dbd437fab",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-terminals-fc-cual-630a-9dbd437fab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-terminals-fc-cual-630a-9dbd437fab.json"
+    },
+    {
+      "id": "abb-formula-in-with-failsafe-fmf2-dimensional-drawing-f3cd3078da",
+      "name": "Formula IN with failsafe - FMF2 Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8720",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-in-with-failsafe-fmf2-dimensional-drawing-f3cd3078da",
+      "recordPath": "equipment/abb-formula-in-with-failsafe-fmf2-dimensional-drawing-f3cd3078da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-in-with-failsafe-fmf2-dimensional-drawing-f3cd3078da.json"
+    },
+    {
+      "id": "abb-formula-in-with-failsafe-fmf4-dimensional-drawing-95c02b4a59",
+      "name": "Formula IN with failsafe - FMF4 Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8721",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-in-with-failsafe-fmf4-dimensional-drawing-95c02b4a59",
+      "recordPath": "equipment/abb-formula-in-with-failsafe-fmf4-dimensional-drawing-95c02b4a59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-in-with-failsafe-fmf4-dimensional-drawing-95c02b4a59.json"
+    },
+    {
+      "id": "abb-iec-ieee-vacuum-generator-circuit-breaker-vd4g-2d-dimensional-drawing-564b620605",
+      "name": "IEC/IEEE Vacuum Generator Circuit Breaker VD4G - 2D Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000248_2D",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-iec-ieee-vacuum-generator-circuit-breaker-vd4g-2d-dimensional-drawing-564b620605",
+      "recordPath": "equipment/abb-iec-ieee-vacuum-generator-circuit-breaker-vd4g-2d-dimensional-drawing-564b620605.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-iec-ieee-vacuum-generator-circuit-breaker-vd4g-2d-dimensional-drawing-564b620605.json"
+    },
+    {
+      "id": "abb-mc-mb-2000ip30-2000ip40-e2-2w-2000a-v2-0-release20-04-17-ed4c81de22",
+      "name": "MC_MB_2000IP30_2000IP40_E2.2W_2000A_V2.0_Release20_04_17",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100170R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-mc-mb-2000ip30-2000ip40-e2-2w-2000a-v2-0-release20-04-17-ed4c81de22",
+      "recordPath": "equipment/abb-mc-mb-2000ip30-2000ip40-e2-2w-2000a-v2-0-release20-04-17-ed4c81de22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-mc-mb-2000ip30-2000ip40-e2-2w-2000a-v2-0-release20-04-17-ed4c81de22.json"
+    },
+    {
+      "id": "abb-mc-mb-3200ip30-e4-2w-3200a-v2-0-release20-04-17-3929941aa5",
+      "name": "MC_MB_3200IP30_E4.2W_3200A_V2.0_Release20_04_17",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100172R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-mc-mb-3200ip30-e4-2w-3200a-v2-0-release20-04-17-3929941aa5",
+      "recordPath": "equipment/abb-mc-mb-3200ip30-e4-2w-3200a-v2-0-release20-04-17-3929941aa5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-mc-mb-3200ip30-e4-2w-3200a-v2-0-release20-04-17-3929941aa5.json"
+    },
+    {
+      "id": "abb-oneline-dpa-20-120-208v-ul-3-bkr-mbp-w-kirk-key-tmgf-mccb-dwg-9ceccce3be",
+      "name": "Oneline DPA 20-120 208V UL_3-bkr MBP w Kirk Key + TMGF MCCB",
+      "manufacturer": "ABB",
+      "drawingNumber": "P3421D12SU0TK00C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-dpa-20-120-208v-ul-3-bkr-mbp-w-kirk-key-tmgf-mccb-dwg-9ceccce3be",
+      "recordPath": "equipment/abb-oneline-dpa-20-120-208v-ul-3-bkr-mbp-w-kirk-key-tmgf-mccb-dwg-9ceccce3be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-dpa-20-120-208v-ul-3-bkr-mbp-w-kirk-key-tmgf-mccb-dwg-9ceccce3be.json"
+    },
+    {
+      "id": "abb-outline-drawing-a2encl250f-a2encl250s-nema-1-139c5497sh13-7df14b28f9",
+      "name": "Outline Drawing - A2ENCL250F A2ENCL250S NEMA 1 (139C5497SH13)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930055D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-a2encl250f-a2encl250s-nema-1-139c5497sh13-7df14b28f9",
+      "recordPath": "equipment/abb-outline-drawing-a2encl250f-a2encl250s-nema-1-139c5497sh13-7df14b28f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-a2encl250f-a2encl250s-nema-1-139c5497sh13-7df14b28f9.json"
+    },
+    {
+      "id": "abb-outline-drawing-a2encl250r-xt3encl225r-xt4encl250r-nema-3r-139c5498sh6-f078d5ab05",
+      "name": "Outline Drawing - A2ENCL250R XT3ENCL225R XT4ENCL250R NEMA 3R (139C5498SH6)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930057D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-a2encl250r-xt3encl225r-xt4encl250r-nema-3r-139c5498sh6-f078d5ab05",
+      "recordPath": "equipment/abb-outline-drawing-a2encl250r-xt3encl225r-xt4encl250r-nema-3r-139c5498sh6-f078d5ab05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-a2encl250r-xt3encl225r-xt4encl250r-nema-3r-139c5498sh6-f078d5ab05.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt1encl125f-xt1encl125s-139c5497sh14-424a15ce6d",
+      "name": "Outline Drawing - XT1ENCL125F XT1ENCL125S (139C5497SH14)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930048D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt1encl125f-xt1encl125s-139c5497sh14-424a15ce6d",
+      "recordPath": "equipment/abb-outline-drawing-xt1encl125f-xt1encl125s-139c5497sh14-424a15ce6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt1encl125f-xt1encl125s-139c5497sh14-424a15ce6d.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt1encl125j-xt1encl125cs-nema12-nema4-4x-feb94c8735",
+      "name": "Outline Drawing - XT1ENCL125J XT1ENCL125CS -NEMA12 & NEMA4/4X",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930114D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt1encl125j-xt1encl125cs-nema12-nema4-4x-feb94c8735",
+      "recordPath": "equipment/abb-outline-drawing-xt1encl125j-xt1encl125cs-nema12-nema4-4x-feb94c8735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt1encl125j-xt1encl125cs-nema12-nema4-4x-feb94c8735.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt1encl125r-xt2encl125r-nema-3r-139c5498sh7-7dff6b8f06",
+      "name": "Outline Drawing - XT1ENCL125R XT2ENCL125R NEMA 3R (139C5498SH7)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930056D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt1encl125r-xt2encl125r-nema-3r-139c5498sh7-7dff6b8f06",
+      "recordPath": "equipment/abb-outline-drawing-xt1encl125r-xt2encl125r-nema-3r-139c5498sh7-7dff6b8f06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt1encl125r-xt2encl125r-nema-3r-139c5498sh7-7dff6b8f06.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt2encl125cs-xt2encl125j-nema4x-nema12-133924e462",
+      "name": "Outline Drawing - XT2ENCL125CS XT2ENCL125J -NEMA4X & NEMA12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930115D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt2encl125cs-xt2encl125j-nema4x-nema12-133924e462",
+      "recordPath": "equipment/abb-outline-drawing-xt2encl125cs-xt2encl125j-nema4x-nema12-133924e462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt2encl125cs-xt2encl125j-nema4x-nema12-133924e462.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt2encl125f-xt2encl125s-nema-1-139c5497sh15-ad2826665e",
+      "name": "Outline Drawing - XT2ENCL125F XT2ENCL125S NEMA 1 (139C5497SH15)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930049D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt2encl125f-xt2encl125s-nema-1-139c5497sh15-ad2826665e",
+      "recordPath": "equipment/abb-outline-drawing-xt2encl125f-xt2encl125s-nema-1-139c5497sh15-ad2826665e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt2encl125f-xt2encl125s-nema-1-139c5497sh15-ad2826665e.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt3encl225f-xt3encl225s-nema-1-139c5497sh16-0159e1ba42",
+      "name": "Outline Drawing - XT3ENCL225F XT3ENCL225S NEMA 1 (139C5497SH16)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930050D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt3encl225f-xt3encl225s-nema-1-139c5497sh16-0159e1ba42",
+      "recordPath": "equipment/abb-outline-drawing-xt3encl225f-xt3encl225s-nema-1-139c5497sh16-0159e1ba42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt3encl225f-xt3encl225s-nema-1-139c5497sh16-0159e1ba42.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt4encl250f-xt4encl250s-139c5497sh17-9530f44cf0",
+      "name": "Outline Drawing - XT4ENCL250F XT4ENCL250S (139C5497SH17)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930051D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt4encl250f-xt4encl250s-139c5497sh17-9530f44cf0",
+      "recordPath": "equipment/abb-outline-drawing-xt4encl250f-xt4encl250s-139c5497sh17-9530f44cf0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt4encl250f-xt4encl250s-139c5497sh17-9530f44cf0.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt5encl400f-xt5encl400s-nema-1-18c2329cc2",
+      "name": "Outline Drawing - XT5ENCL400F XT5ENCL400S NEMA 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930121D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt5encl400f-xt5encl400s-nema-1-18c2329cc2",
+      "recordPath": "equipment/abb-outline-drawing-xt5encl400f-xt5encl400s-nema-1-18c2329cc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt5encl400f-xt5encl400s-nema-1-18c2329cc2.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt5encl600f-xt5encl600s-nema-1-208c2891sh11-8ccec1a5c5",
+      "name": "Outline Drawing - XT5ENCL600F XT5ENCL600S NEMA 1 (208C2891SH11)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930052D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt5encl600f-xt5encl600s-nema-1-208c2891sh11-8ccec1a5c5",
+      "recordPath": "equipment/abb-outline-drawing-xt5encl600f-xt5encl600s-nema-1-208c2891sh11-8ccec1a5c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt5encl600f-xt5encl600s-nema-1-208c2891sh11-8ccec1a5c5.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt6encl800f-xt6encl800s-nema-1-d3142397fd",
+      "name": "Outline Drawing - XT6ENCL800F XT6ENCL800S NEMA 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930053D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt6encl800f-xt6encl800s-nema-1-d3142397fd",
+      "recordPath": "equipment/abb-outline-drawing-xt6encl800f-xt6encl800s-nema-1-d3142397fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt6encl800f-xt6encl800s-nema-1-d3142397fd.json"
+    },
+    {
+      "id": "abb-outline-drawing-xt7encl1200f-xt7encl1200s-nema-1-139c5497sh18-1cc7d00653",
+      "name": "Outline Drawing - XT7ENCL1200F XT7ENCL1200S NEMA 1 (139C5497SH18)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930054D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-xt7encl1200f-xt7encl1200s-nema-1-139c5497sh18-1cc7d00653",
+      "recordPath": "equipment/abb-outline-drawing-xt7encl1200f-xt7encl1200s-nema-1-139c5497sh18-1cc7d00653.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-xt7encl1200f-xt7encl1200s-nema-1-139c5497sh18-1cc7d00653.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-15hk-150-1200a-3e80c01dc0",
+      "name": "Outline Drawing RDVAC 15HK-150,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF202743A0009",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-15hk-150-1200a-3e80c01dc0",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-15hk-150-1200a-3e80c01dc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-15hk-150-1200a-3e80c01dc0.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-15hk-150-2000a-fa5533809d",
+      "name": "Outline Drawing RDVAC 15HK-150,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF202743A0010",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-15hk-150-2000a-fa5533809d",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-15hk-150-2000a-fa5533809d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-15hk-150-2000a-fa5533809d.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-15vhk-500-1200a-15af3af7b0",
+      "name": "Outline Drawing RDVAC 15VHK-500,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF202743A0011",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-15vhk-500-1200a-15af3af7b0",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-15vhk-500-1200a-15af3af7b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-15vhk-500-1200a-15af3af7b0.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-15vhk-500-2000a-46c82d797f",
+      "name": "Outline Drawing RDVAC 15VHK-500,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF202743A0012",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-15vhk-500-2000a-46c82d797f",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-15vhk-500-2000a-46c82d797f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-15vhk-500-2000a-46c82d797f.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-27ghk-1000-1200a-1e6a554ec0",
+      "name": "Outline Drawing RDVAC 27GHK-1000,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF202743A0015",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-27ghk-1000-1200a-1e6a554ec0",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-27ghk-1000-1200a-1e6a554ec0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-27ghk-1000-1200a-1e6a554ec0.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-27ghk-1000-2000a-20ca73fed3",
+      "name": "Outline Drawing RDVAC 27GHK-1000,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF202743A0016",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-27ghk-1000-2000a-20ca73fed3",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-27ghk-1000-2000a-20ca73fed3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-27ghk-1000-2000a-20ca73fed3.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-5hk-150-1200a-bad0569866",
+      "name": "Outline Drawing RDVAC 5HK-150,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200729A0003",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-5hk-150-1200a-bad0569866",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-5hk-150-1200a-bad0569866.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-5hk-150-1200a-bad0569866.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-5hk-150-2000a-8a00a90e04",
+      "name": "Outline Drawing RDVAC 5HK-150,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200729A0004",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-5hk-150-2000a-8a00a90e04",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-5hk-150-2000a-8a00a90e04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-5hk-150-2000a-8a00a90e04.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-5hk-350-1200a-b0b812bb60",
+      "name": "Outline Drawing RDVAC 5HK-350,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200729A0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-5hk-350-1200a-b0b812bb60",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-5hk-350-1200a-b0b812bb60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-5hk-350-1200a-b0b812bb60.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-5hk-350-2000a-d928f9e0eb",
+      "name": "Outline Drawing RDVAC 5HK-350,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200729A0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-5hk-350-2000a-d928f9e0eb",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-5hk-350-2000a-d928f9e0eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-5hk-350-2000a-d928f9e0eb.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-5hk-350-3000a-f0f98054b7",
+      "name": "Outline Drawing RDVAC 5HK-350,3000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200819A0003",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-5hk-350-3000a-f0f98054b7",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-5hk-350-3000a-f0f98054b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-5hk-350-3000a-f0f98054b7.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-am-4-16-350-1200a-bd9e970a96",
+      "name": "Outline Drawing RDVAC AM-4.16-350,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200620A0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-am-4-16-350-1200a-bd9e970a96",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-am-4-16-350-1200a-bd9e970a96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-am-4-16-350-1200a-bd9e970a96.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-am-4-16-350-2000a-86576c3eba",
+      "name": "Outline Drawing RDVAC AM-4.16-350,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF200620A0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-am-4-16-350-2000a-86576c3eba",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-am-4-16-350-2000a-86576c3eba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-am-4-16-350-2000a-86576c3eba.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-am-7-2-500-1200a-953fec0c2f",
+      "name": "Outline Drawing RDVAC AM-7.2-500,1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF002240A0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-am-7-2-500-1200a-953fec0c2f",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-am-7-2-500-1200a-953fec0c2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-am-7-2-500-1200a-953fec0c2f.json"
+    },
+    {
+      "id": "abb-outline-drawing-rdvac-am-7-2-500-2000a-edf4617115",
+      "name": "Outline Drawing RDVAC AM-7.2-500,2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VAF002240A0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-rdvac-am-7-2-500-2000a-edf4617115",
+      "recordPath": "equipment/abb-outline-drawing-rdvac-am-7-2-500-2000a-edf4617115.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-rdvac-am-7-2-500-2000a-edf4617115.json"
+    },
+    {
+      "id": "abb-pac2012fwm-outline-cabc60dab3",
+      "name": "PAC2012FWM Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0731",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pac2012fwm-outline-cabc60dab3",
+      "recordPath": "equipment/abb-pac2012fwm-outline-cabc60dab3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pac2012fwm-outline-cabc60dab3.json"
+    },
+    {
+      "id": "abb-pac3020fwm-outline-d7d06dcac4",
+      "name": "PAC3020FWM Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0734",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pac3020fwm-outline-d7d06dcac4",
+      "recordPath": "equipment/abb-pac3020fwm-outline-d7d06dcac4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pac3020fwm-outline-d7d06dcac4.json"
+    },
+    {
+      "id": "abb-pcc6020-outline-7fe9f3aa24",
+      "name": "PCC6020 Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0723",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcc6020-outline-7fe9f3aa24",
+      "recordPath": "equipment/abb-pcc6020-outline-7fe9f3aa24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcc6020-outline-7fe9f3aa24.json"
+    },
+    {
+      "id": "abb-pcc6022-outline-33c8ffc471",
+      "name": "PCC6022 Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0720",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcc6022-outline-33c8ffc471",
+      "recordPath": "equipment/abb-pcc6022-outline-33c8ffc471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcc6022-outline-33c8ffc471.json"
+    },
+    {
+      "id": "abb-pcm3020g-outline-3f02119608",
+      "name": "PCM3020G Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0718",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcm3020g-outline-3f02119608",
+      "recordPath": "equipment/abb-pcm3020g-outline-3f02119608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcm3020g-outline-3f02119608.json"
+    },
+    {
+      "id": "abb-pcm4020g-outline-48d6efe4dc",
+      "name": "PCM4020G Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0719",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcm4020g-outline-48d6efe4dc",
+      "recordPath": "equipment/abb-pcm4020g-outline-48d6efe4dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcm4020g-outline-48d6efe4dc.json"
+    },
+    {
+      "id": "abb-pcmc3010wpv-outline-1f18b8f37d",
+      "name": "PCMC3010WPV Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0727",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcmc3010wpv-outline-1f18b8f37d",
+      "recordPath": "equipment/abb-pcmc3010wpv-outline-1f18b8f37d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcmc3010wpv-outline-1f18b8f37d.json"
+    },
+    {
+      "id": "abb-pcmc4010wpv-outline-cbd50488fc",
+      "name": "PCMC4010WPV Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0728",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcmc4010wpv-outline-cbd50488fc",
+      "recordPath": "equipment/abb-pcmc4010wpv-outline-cbd50488fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcmc4010wpv-outline-cbd50488fc.json"
+    },
+    {
+      "id": "abb-pcmc4020wpv-outline-4fc7bfafdd",
+      "name": "PCMC4020WPV Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC163300E0729",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcmc4020wpv-outline-4fc7bfafdd",
+      "recordPath": "equipment/abb-pcmc4020wpv-outline-4fc7bfafdd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcmc4020wpv-outline-4fc7bfafdd.json"
+    },
+    {
+      "id": "abb-sm-mb-1000-1250ip30-1600ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-da3d57e38b",
+      "name": "SM_MB_1000_1250IP30_1600IP40_T7_E1.2W1000UpTo1600_V2.0_Release20_04_17",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100158R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-1000-1250ip30-1600ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-da3d57e38b",
+      "recordPath": "equipment/abb-sm-mb-1000-1250ip30-1600ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-da3d57e38b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-1000-1250ip30-1600ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-da3d57e38b.json"
+    },
+    {
+      "id": "abb-sm-mb-2000-2500-3200ip30-2000-2500ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-af0041a264",
+      "name": "SM_MB_2000_2500_3200IP30_2000_2500IP40_T7_E1.2W1000UpTo1600_V2.0_Release20_04_17",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100159R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-2000-2500-3200ip30-2000-2500ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-af0041a264",
+      "recordPath": "equipment/abb-sm-mb-2000-2500-3200ip30-2000-2500ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-af0041a264.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-2000-2500-3200ip30-2000-2500ip40-t7-e1-2w1000upto1600-v2-0-release20-04-17-af0041a264.json"
+    },
+    {
+      "id": "abb-sm-mb-3200ip30-e4-2w-3200a-21013883c7",
+      "name": "SM_MB_3200IP30_E4.2W_3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100166R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-3200ip30-e4-2w-3200a-21013883c7",
+      "recordPath": "equipment/abb-sm-mb-3200ip30-e4-2w-3200a-21013883c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-3200ip30-e4-2w-3200a-21013883c7.json"
+    },
+    {
+      "id": "abb-sm-mb-4000ip30-3200ip40-e2-2w2000upto2500-375de2f2d6",
+      "name": "SM_MB_4000IP30_3200IP40_E2.2W2000UpTo2500",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100163R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-4000ip30-3200ip40-e2-2w2000upto2500-375de2f2d6",
+      "recordPath": "equipment/abb-sm-mb-4000ip30-3200ip40-e2-2w2000upto2500-375de2f2d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-4000ip30-3200ip40-e2-2w2000upto2500-375de2f2d6.json"
+    },
+    {
+      "id": "abb-sm-mb-4000ip30-3200ip40-e4-2w-3200a-v2-1-release21-04-17-42d755a652",
+      "name": "SM_MB_4000IP30_3200IP40_E4.2W_3200A_V2.1_Release21_04_17",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100165R0003",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-4000ip30-3200ip40-e4-2w-3200a-v2-1-release21-04-17-42d755a652",
+      "recordPath": "equipment/abb-sm-mb-4000ip30-3200ip40-e4-2w-3200a-v2-1-release21-04-17-42d755a652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-4000ip30-3200ip40-e4-2w-3200a-v2-1-release21-04-17-42d755a652.json"
+    },
+    {
+      "id": "abb-sm-mb-4000ip30-3200ip40-t7-e1-2w1000upto1600-07f9d860a3",
+      "name": "SM_MB_4000IP30_3200IP40_T7_E1.2W1000UpTo1600",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100160R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-4000ip30-3200ip40-t7-e1-2w1000upto1600-07f9d860a3",
+      "recordPath": "equipment/abb-sm-mb-4000ip30-3200ip40-t7-e1-2w1000upto1600-07f9d860a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-4000ip30-3200ip40-t7-e1-2w1000upto1600-07f9d860a3.json"
+    },
+    {
+      "id": "abb-sm-mb-4000ip40-e2-2w2000upto2500-67b51f7fa9",
+      "name": "SM_MB_4000IP40_E2.2W2000UpTo2500",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100164R0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-4000ip40-e2-2w2000upto2500-67b51f7fa9",
+      "recordPath": "equipment/abb-sm-mb-4000ip40-e2-2w2000upto2500-67b51f7fa9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-4000ip40-e2-2w2000upto2500-67b51f7fa9.json"
+    },
+    {
+      "id": "abb-sm-mb-4000ip40-e4-2w-3200upto4000a-v2-1-release21-04-17-070b3ec9cf",
+      "name": "SM_MB_4000IP40_E4.2W_3200UpTo4000A_V2.1_Release21_04_17",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100167R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-4000ip40-e4-2w-3200upto4000a-v2-1-release21-04-17-070b3ec9cf",
+      "recordPath": "equipment/abb-sm-mb-4000ip40-e4-2w-3200upto4000a-v2-1-release21-04-17-070b3ec9cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-4000ip40-e4-2w-3200upto4000a-v2-1-release21-04-17-070b3ec9cf.json"
+    },
+    {
+      "id": "abb-sm-mb-4000ip40-t7-e1-2w1000upto1600-439177bafc",
+      "name": "SM_MB_4000IP40_T7_E1.2W1000UpTo1600",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100161R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-4000ip40-t7-e1-2w1000upto1600-439177bafc",
+      "recordPath": "equipment/abb-sm-mb-4000ip40-t7-e1-2w1000upto1600-439177bafc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-4000ip40-t7-e1-2w1000upto1600-439177bafc.json"
+    },
+    {
+      "id": "abb-sm-mb-5000ip30-e4-2w-3200upto4000a-ccfab90a1a",
+      "name": "SM_MB_5000IP30_E4.2W_3200UpTo4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100152R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-5000ip30-e4-2w-3200upto4000a-ccfab90a1a",
+      "recordPath": "equipment/abb-sm-mb-5000ip30-e4-2w-3200upto4000a-ccfab90a1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-5000ip30-e4-2w-3200upto4000a-ccfab90a1a.json"
+    },
+    {
+      "id": "abb-sm-mb-6300ip30-e4-2w-3200upto4000a-e97d45eca9",
+      "name": "SM_MB_6300IP30_E4.2W_3200UpTo4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1STS100151R0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sm-mb-6300ip30-e4-2w-3200upto4000a-e97d45eca9",
+      "recordPath": "equipment/abb-sm-mb-6300ip30-e4-2w-3200upto4000a-e97d45eca9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sm-mb-6300ip30-e4-2w-3200upto4000a-e97d45eca9.json"
+    },
+    {
+      "id": "abb-type-qb-frame-10-outline-drawing-9c7c0398b3",
+      "name": "Type QB Frame 10 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B920AAP010",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-qb-frame-10-outline-drawing-9c7c0398b3",
+      "recordPath": "equipment/abb-type-qb-frame-10-outline-drawing-9c7c0398b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-qb-frame-10-outline-drawing-9c7c0398b3.json"
+    },
+    {
+      "id": "abb-type-qb-frame-12-outline-drawing-d85a81eadc",
+      "name": "Type QB Frame 12 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B920AAP012",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-qb-frame-12-outline-drawing-d85a81eadc",
+      "recordPath": "equipment/abb-type-qb-frame-12-outline-drawing-d85a81eadc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-qb-frame-12-outline-drawing-d85a81eadc.json"
+    },
+    {
+      "id": "abb-type-qb-frame-14-outline-drawing-58184a7de5",
+      "name": "Type QB Frame 14 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B920AAP014",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-qb-frame-14-outline-drawing-58184a7de5",
+      "recordPath": "equipment/abb-type-qb-frame-14-outline-drawing-58184a7de5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-qb-frame-14-outline-drawing-58184a7de5.json"
+    },
+    {
+      "id": "abb-type-qb-frame-15-outline-drawing-214e6dd09f",
+      "name": "Type QB Frame 15 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B920AAP015",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-qb-frame-15-outline-drawing-214e6dd09f",
+      "recordPath": "equipment/abb-type-qb-frame-15-outline-drawing-214e6dd09f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-qb-frame-15-outline-drawing-214e6dd09f.json"
+    },
+    {
+      "id": "abb-type-qb-frame-6-outline-drawing-7a2f98480e",
+      "name": "Type QB Frame 6 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B920AAP006",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-qb-frame-6-outline-drawing-7a2f98480e",
+      "recordPath": "equipment/abb-type-qb-frame-6-outline-drawing-7a2f98480e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-qb-frame-6-outline-drawing-7a2f98480e.json"
+    },
+    {
+      "id": "abb-type-qb-frame-8-outline-drawing-c86a019d0c",
+      "name": "Type QB Frame 8 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B920AAP008",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-qb-frame-8-outline-drawing-c86a019d0c",
+      "recordPath": "equipment/abb-type-qb-frame-8-outline-drawing-c86a019d0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-qb-frame-8-outline-drawing-c86a019d0c.json"
+    },
+    {
+      "id": "abb-xt6-iii-iv-fixed-version-1000a-extended-front-terminals-ef-and-phase-separators-top-and-fcc-2702ce10ab",
+      "name": "XT6 III-IV fixed version 1000A extended front terminals EF and phase separators (top) and FCCuAl plus HTC (bottom)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002012A1105",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-iii-iv-fixed-version-1000a-extended-front-terminals-ef-and-phase-separators-top-and-fcc-2702ce10ab",
+      "recordPath": "equipment/abb-xt6-iii-iv-fixed-version-1000a-extended-front-terminals-ef-and-phase-separators-top-and-fcc-2702ce10ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-iii-iv-fixed-version-1000a-extended-front-terminals-ef-and-phase-separators-top-and-fcc-2702ce10ab.json"
+    }
+  ]
+}

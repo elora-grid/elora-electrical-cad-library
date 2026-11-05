@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Terminator Field IO/T1H-PBC.DWG
 
 Communication equipment carries measurements, status and commands between devices. The devices must support the same connection and communication method.
 
-In a microgrid, communication links let the controller receive battery status and send operating requests to an inverter.
+For example, in a control panel exchanging information with a supervisory network, use the T1H-PBC reference to coordinate network connectors, cable approach and interface replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Terminator Field IO/T1H-PBC.DWG. Its identity was checked against the acquired manufacturer archive. Use the device outline to coordinate the I/O station, its terminals and the service access needed beside cable duct. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

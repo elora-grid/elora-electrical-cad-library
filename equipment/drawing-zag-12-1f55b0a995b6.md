@@ -32,7 +32,7 @@ The exact supplied files are Zag 12.STEP, ZAG12.dwg. Use STEP for placing the en
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+For a layout that specifies ZAG 12, place its STEP model beside the other equipment and check cover access before committing the mounting position. Use the matching DWG when preparing the panel elevation.
 
 The exact supplied files are Zag 12.STEP, ZAG12.dwg. Use STEP for placing the enclosure in a 3D layout and DWG for a 2D drawing. Keep the manufacturer model suffix when comparing it with another size in the same range.
 

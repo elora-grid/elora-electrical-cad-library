@@ -1,0 +1,1900 @@
+{
+  "schemaVersion": 1,
+  "category": "busbar",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-edisonpdb",
+      "name": "Edison Power Distribution Blocks CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-edisonpdb",
+      "recordPath": "equipment/ad-edisonpdb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-edisonpdb.json"
+    },
+    {
+      "id": "audit-legrand-037480",
+      "name": "037480 distribution-block 3D AutoCAD source",
+      "manufacturer": "Legrand",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-legrand-037480",
+      "recordPath": "equipment/audit-legrand-037480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-legrand-037480.json"
+    },
+    {
+      "id": "nvent-erico-ground",
+      "name": "ERICO grounding busbar CAD generator",
+      "manufacturer": "nVent ERICO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/nvent-erico-ground",
+      "recordPath": "equipment/nvent-erico-ground.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/nvent-erico-ground.json"
+    },
+    {
+      "id": "nvent-eriflex",
+      "name": "ERIFLEX CAD resource library",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/nvent-eriflex",
+      "recordPath": "equipment/nvent-eriflex.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/nvent-eriflex.json"
+    },
+    {
+      "id": "nvent-flexbus",
+      "name": "FleXbus configurable 3D components",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/nvent-flexbus",
+      "recordPath": "equipment/nvent-flexbus.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/nvent-flexbus.json"
+    },
+    {
+      "id": "nvent-flexibar-engineering",
+      "name": "Flexibar customised CAD connections",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/nvent-flexibar-engineering",
+      "recordPath": "equipment/nvent-flexibar-engineering.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/nvent-flexibar-engineering.json"
+    },
+    {
+      "id": "audit-woehner-01357",
+      "name": "01357 four-pole busbar-support CAD model",
+      "manufacturer": "Wöhner",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-woehner-01357",
+      "recordPath": "equipment/audit-woehner-01357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-woehner-01357.json"
+    },
+    {
+      "id": "woehner-cad",
+      "name": "Wöhner busbar and switching product data",
+      "manufacturer": "Wöhner",
+      "formats": [
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/woehner-cad",
+      "recordPath": "equipment/woehner-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/woehner-cad.json"
+    },
+    {
+      "id": "drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc",
+      "name": "Victron Lynx Distributor M10 STEP model",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc",
+      "recordPath": "equipment/drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dimension-drawing-distributor-m10-3d-dbfcf2ec4bbc.json"
+    },
+    {
+      "id": "drawing-epdb101-f13f179b3704",
+      "name": "EPDB101 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-epdb101-f13f179b3704",
+      "recordPath": "equipment/drawing-epdb101-f13f179b3704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-epdb101-f13f179b3704.json"
+    },
+    {
+      "id": "drawing-epdb104-4d95c7a7e575",
+      "name": "EPDB104 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-epdb104-4d95c7a7e575",
+      "recordPath": "equipment/drawing-epdb104-4d95c7a7e575.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-epdb104-4d95c7a7e575.json"
+    },
+    {
+      "id": "drawing-epdb301-90bd1faf1286",
+      "name": "EPDB301 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-epdb301-90bd1faf1286",
+      "recordPath": "equipment/drawing-epdb301-90bd1faf1286.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-epdb301-90bd1faf1286.json"
+    },
+    {
+      "id": "drawing-epdb306-2ba1f3562d1c",
+      "name": "EPDB306 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-epdb306-2ba1f3562d1c",
+      "recordPath": "equipment/drawing-epdb306-2ba1f3562d1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-epdb306-2ba1f3562d1c.json"
+    },
+    {
+      "id": "drawing-epdb512-e4fa1d9a52d0",
+      "name": "EPDB512 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-epdb512-e4fa1d9a52d0",
+      "recordPath": "equipment/drawing-epdb512-e4fa1d9a52d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-epdb512-e4fa1d9a52d0.json"
+    },
+    {
+      "id": "drawing-epdb702-d8b29d2a9a9c",
+      "name": "EPDB702 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-epdb702-d8b29d2a9a9c",
+      "recordPath": "equipment/drawing-epdb702-d8b29d2a9a9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-epdb702-d8b29d2a9a9c.json"
+    },
+    {
+      "id": "drawing-hpb101-1-34e325d50992",
+      "name": "HPB101-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb101-1-34e325d50992",
+      "recordPath": "equipment/drawing-hpb101-1-34e325d50992.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb101-1-34e325d50992.json"
+    },
+    {
+      "id": "drawing-hpb101-3-3c9fca73c260",
+      "name": "HPB101-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb101-3-3c9fca73c260",
+      "recordPath": "equipment/drawing-hpb101-3-3c9fca73c260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb101-3-3c9fca73c260.json"
+    },
+    {
+      "id": "drawing-hpb104-1-3dc73f83afa7",
+      "name": "HPB104-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb104-1-3dc73f83afa7",
+      "recordPath": "equipment/drawing-hpb104-1-3dc73f83afa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb104-1-3dc73f83afa7.json"
+    },
+    {
+      "id": "drawing-hpb104-3-c8b404965abd",
+      "name": "HPB104-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb104-3-c8b404965abd",
+      "recordPath": "equipment/drawing-hpb104-3-c8b404965abd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb104-3-c8b404965abd.json"
+    },
+    {
+      "id": "drawing-hpb106-1-36a2f7ecef78",
+      "name": "HPB106-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb106-1-36a2f7ecef78",
+      "recordPath": "equipment/drawing-hpb106-1-36a2f7ecef78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb106-1-36a2f7ecef78.json"
+    },
+    {
+      "id": "drawing-hpb106-2-cea0b628d104",
+      "name": "HPB106-2 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb106-2-cea0b628d104",
+      "recordPath": "equipment/drawing-hpb106-2-cea0b628d104.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb106-2-cea0b628d104.json"
+    },
+    {
+      "id": "drawing-hpb106-3-9db240fcfba6",
+      "name": "HPB106-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb106-3-9db240fcfba6",
+      "recordPath": "equipment/drawing-hpb106-3-9db240fcfba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb106-3-9db240fcfba6.json"
+    },
+    {
+      "id": "drawing-hpb10s-1-aada6070ead6",
+      "name": "HPB10S-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb10s-1-aada6070ead6",
+      "recordPath": "equipment/drawing-hpb10s-1-aada6070ead6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb10s-1-aada6070ead6.json"
+    },
+    {
+      "id": "drawing-hpb10s-3-c2488f955324",
+      "name": "HPB10S-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb10s-3-c2488f955324",
+      "recordPath": "equipment/drawing-hpb10s-3-c2488f955324.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb10s-3-c2488f955324.json"
+    },
+    {
+      "id": "drawing-hpb306-1-a3144ad475ac",
+      "name": "HPB306-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb306-1-a3144ad475ac",
+      "recordPath": "equipment/drawing-hpb306-1-a3144ad475ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb306-1-a3144ad475ac.json"
+    },
+    {
+      "id": "drawing-hpb306-3-97f93a5ba024",
+      "name": "HPB306-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb306-3-97f93a5ba024",
+      "recordPath": "equipment/drawing-hpb306-3-97f93a5ba024.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb306-3-97f93a5ba024.json"
+    },
+    {
+      "id": "drawing-hpb309-1-e810119c9717",
+      "name": "HPB309-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb309-1-e810119c9717",
+      "recordPath": "equipment/drawing-hpb309-1-e810119c9717.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb309-1-e810119c9717.json"
+    },
+    {
+      "id": "drawing-hpb309-3-dad1bc24ca65",
+      "name": "HPB309-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb309-3-dad1bc24ca65",
+      "recordPath": "equipment/drawing-hpb309-3-dad1bc24ca65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb309-3-dad1bc24ca65.json"
+    },
+    {
+      "id": "drawing-hpb312-1-96e4892a74ef",
+      "name": "HPB312-1 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb312-1-96e4892a74ef",
+      "recordPath": "equipment/drawing-hpb312-1-96e4892a74ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb312-1-96e4892a74ef.json"
+    },
+    {
+      "id": "drawing-hpb312-3-18049bc6e644",
+      "name": "HPB312-3 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hpb312-3-18049bc6e644",
+      "recordPath": "equipment/drawing-hpb312-3-18049bc6e644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hpb312-3-18049bc6e644.json"
+    },
+    {
+      "id": "drawing-lynx-distributor-stp-7ed7ddc9f8c0",
+      "name": "Victron Lynx Distributor legacy STEP model",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lynx-distributor-stp-7ed7ddc9f8c0",
+      "recordPath": "equipment/drawing-lynx-distributor-stp-7ed7ddc9f8c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lynx-distributor-stp-7ed7ddc9f8c0.json"
+    },
+    {
+      "id": "drawing-pb1011-45036a8a2505",
+      "name": "PB1011 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-pb1011-45036a8a2505",
+      "recordPath": "equipment/drawing-pb1011-45036a8a2505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-pb1011-45036a8a2505.json"
+    },
+    {
+      "id": "drawing-pb1012-5aeefea0edce",
+      "name": "PB1012 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-pb1012-5aeefea0edce",
+      "recordPath": "equipment/drawing-pb1012-5aeefea0edce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-pb1012-5aeefea0edce.json"
+    },
+    {
+      "id": "drawing-pb1013-39cfeea3b8dc",
+      "name": "PB1013 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-pb1013-39cfeea3b8dc",
+      "recordPath": "equipment/drawing-pb1013-39cfeea3b8dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-pb1013-39cfeea3b8dc.json"
+    },
+    {
+      "id": "drawing-pb1041-79e7d9b817f4",
+      "name": "PB1041 power distribution block CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-pb1041-79e7d9b817f4",
+      "recordPath": "equipment/drawing-pb1041-79e7d9b817f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-pb1041-79e7d9b817f4.json"
+    },
+    {
+      "id": "abb-1seb000456-zubm3-dimension-drawing-buscouper-inline-d804d6021a",
+      "name": "1SEB000456_ZUBM3 dimension drawing, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2166; 9AKK106930A2167",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1seb000456-zubm3-dimension-drawing-buscouper-inline-d804d6021a",
+      "recordPath": "equipment/abb-1seb000456-zubm3-dimension-drawing-buscouper-inline-d804d6021a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1seb000456-zubm3-dimension-drawing-buscouper-inline-d804d6021a.json"
+    },
+    {
+      "id": "abb-1seb000457-zlbm2-3-bc-dimension-drawing-buscouper-inline-834130516b",
+      "name": "1SEB000457_ZLBM2/3-BC dimension drawing, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2168; 9AKK106930A2169",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1seb000457-zlbm2-3-bc-dimension-drawing-buscouper-inline-834130516b",
+      "recordPath": "equipment/abb-1seb000457-zlbm2-3-bc-dimension-drawing-buscouper-inline-834130516b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1seb000457-zlbm2-3-bc-dimension-drawing-buscouper-inline-834130516b.json"
+    },
+    {
+      "id": "abb-1seb000458-bzh1000-1250a-bc-dimension-drawing-buscouper-inline-f71ca88ae9",
+      "name": "1SEB000458_BZH1000/1250A-BC dimension drawing, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2170; 9AKK106930A2171",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1seb000458-bzh1000-1250a-bc-dimension-drawing-buscouper-inline-f71ca88ae9",
+      "recordPath": "equipment/abb-1seb000458-bzh1000-1250a-bc-dimension-drawing-buscouper-inline-f71ca88ae9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1seb000458-bzh1000-1250a-bc-dimension-drawing-buscouper-inline-f71ca88ae9.json"
+    },
+    {
+      "id": "abb-1seb000459-bzh1600-2000a-bc-dimension-drawing-buscouper-inline-d4c7fc210b",
+      "name": "1SEB000459_BZH1600/2000A-BC dimension drawing, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2172; 9AKK106930A2173",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1seb000459-bzh1600-2000a-bc-dimension-drawing-buscouper-inline-d4c7fc210b",
+      "recordPath": "equipment/abb-1seb000459-bzh1600-2000a-bc-dimension-drawing-buscouper-inline-d4c7fc210b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1seb000459-bzh1600-2000a-bc-dimension-drawing-buscouper-inline-d4c7fc210b.json"
+    },
+    {
+      "id": "abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-dxf-drawing-ca349939e0",
+      "name": "1SEP304065R0001_ZLBM00-100 Double adapter for 100 to 185mm busbar distance_2d_DXF_drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A1747",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-dxf-drawing-ca349939e0",
+      "recordPath": "equipment/abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-dxf-drawing-ca349939e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-dxf-drawing-ca349939e0.json"
+    },
+    {
+      "id": "abb-1sep304065r0001-drawing-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-stp-file-2f20e9ecd5",
+      "name": "1SEP304065R0001_drawing_ZLBM00-100 Double adapter for 100 to 185mm busbar distance(STP-file)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A1088",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep304065r0001-drawing-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-stp-file-2f20e9ecd5",
+      "recordPath": "equipment/abb-1sep304065r0001-drawing-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-stp-file-2f20e9ecd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep304065r0001-drawing-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-stp-file-2f20e9ecd5.json"
+    },
+    {
+      "id": "abb-1sep622026r0001-zubm3-bc-right-buscouper-inline-06b5972399",
+      "name": "1SEP622026R0001_ZUBM3-BC-Right, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2161",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622026r0001-zubm3-bc-right-buscouper-inline-06b5972399",
+      "recordPath": "equipment/abb-1sep622026r0001-zubm3-bc-right-buscouper-inline-06b5972399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622026r0001-zubm3-bc-right-buscouper-inline-06b5972399.json"
+    },
+    {
+      "id": "abb-1sep622028r0001-zlbm2-3p-bc-right-buscouper-inline-4f5408212b",
+      "name": "1SEP622028R0001_ZLBM2-3P-BC-Right, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2159",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622028r0001-zlbm2-3p-bc-right-buscouper-inline-4f5408212b",
+      "recordPath": "equipment/abb-1sep622028r0001-zlbm2-3p-bc-right-buscouper-inline-4f5408212b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622028r0001-zlbm2-3p-bc-right-buscouper-inline-4f5408212b.json"
+    },
+    {
+      "id": "abb-1sep622030r0001-zlbm3-3p-bc-right-buscouper-inline-8786e9b4e6",
+      "name": "1SEP622030R0001_ZLBM3-3P-BC-Right, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2160",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622030r0001-zlbm3-3p-bc-right-buscouper-inline-8786e9b4e6",
+      "recordPath": "equipment/abb-1sep622030r0001-zlbm3-3p-bc-right-buscouper-inline-8786e9b4e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622030r0001-zlbm3-3p-bc-right-buscouper-inline-8786e9b4e6.json"
+    },
+    {
+      "id": "abb-1sep622032r0001-bzh1000a-1p-bc-right-sts-buscouper-inline-e84d5fc634",
+      "name": "1SEP622032R0001_BZH1000A-1P-BC-Right-STS, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2162",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622032r0001-bzh1000a-1p-bc-right-sts-buscouper-inline-e84d5fc634",
+      "recordPath": "equipment/abb-1sep622032r0001-bzh1000a-1p-bc-right-sts-buscouper-inline-e84d5fc634.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622032r0001-bzh1000a-1p-bc-right-sts-buscouper-inline-e84d5fc634.json"
+    },
+    {
+      "id": "abb-1sep622033r0001-bzh1600a-1p-bc-right-sts-buscouper-inline-458cf284e5",
+      "name": "1SEP622033R0001_BZH1600A-1P-BC-Right-STS, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2164",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622033r0001-bzh1600a-1p-bc-right-sts-buscouper-inline-458cf284e5",
+      "recordPath": "equipment/abb-1sep622033r0001-bzh1600a-1p-bc-right-sts-buscouper-inline-458cf284e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622033r0001-bzh1600a-1p-bc-right-sts-buscouper-inline-458cf284e5.json"
+    },
+    {
+      "id": "abb-1sep622034r0001-bzh2000a-1p-bc-right-sts-buscouper-inline-63b440ab90",
+      "name": "1SEP622034R0001_BZH2000A-1P-BC-Right-STS, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2165",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622034r0001-bzh2000a-1p-bc-right-sts-buscouper-inline-63b440ab90",
+      "recordPath": "equipment/abb-1sep622034r0001-bzh2000a-1p-bc-right-sts-buscouper-inline-63b440ab90.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622034r0001-bzh2000a-1p-bc-right-sts-buscouper-inline-63b440ab90.json"
+    },
+    {
+      "id": "abb-1sep622035r0001-bzh1250a-1p-bc-right-sts-buscouper-inline-345b9c9b96",
+      "name": "1SEP622035R0001_BZH1250A-1P-BC-Right-STS, BusCouper, Inline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A2163",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622035r0001-bzh1250a-1p-bc-right-sts-buscouper-inline-345b9c9b96",
+      "recordPath": "equipment/abb-1sep622035r0001-bzh1250a-1p-bc-right-sts-buscouper-inline-345b9c9b96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622035r0001-bzh1250a-1p-bc-right-sts-buscouper-inline-345b9c9b96.json"
+    },
+    {
+      "id": "abb-2d-dxf-epd-bb500-busbar-fb6efcca89",
+      "name": "dxf EPD-BB500 busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A7769",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-dxf-epd-bb500-busbar-fb6efcca89",
+      "recordPath": "equipment/abb-2d-dxf-epd-bb500-busbar-fb6efcca89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-dxf-epd-bb500-busbar-fb6efcca89.json"
+    },
+    {
+      "id": "abb-2d-dxf-epd-sb21-busbar-6f81a9614e",
+      "name": "dxf EPD-SB21 busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A7770",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-dxf-epd-sb21-busbar-6f81a9614e",
+      "recordPath": "equipment/abb-2d-dxf-epd-sb21-busbar-6f81a9614e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-dxf-epd-sb21-busbar-6f81a9614e.json"
+    },
+    {
+      "id": "abb-3d-drawing-end-cap-for-psc-busbars-0d4391a055",
+      "name": "drawing (End Cap for PSc Busbars)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1405",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-drawing-end-cap-for-psc-busbars-0d4391a055",
+      "recordPath": "equipment/abb-3d-drawing-end-cap-for-psc-busbars-0d4391a055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-drawing-end-cap-for-psc-busbars-0d4391a055.json"
+    },
+    {
+      "id": "abb-3d-drawing-shock-protection-cap-for-psc-busbars-46bf175338",
+      "name": "drawing (Shock protection cap for PSc Busbars)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1404",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-drawing-shock-protection-cap-for-psc-busbars-46bf175338",
+      "recordPath": "equipment/abb-3d-drawing-shock-protection-cap-for-psc-busbars-46bf175338.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-drawing-shock-protection-cap-for-psc-busbars-46bf175338.json"
+    },
+    {
+      "id": "abb-3d-drawings-busbar-system-and-segregations-spee-stp-8a90f915cb",
+      "name": "drawings - Busbar system and segregations - SpEe",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A2729",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-drawings-busbar-system-and-segregations-spee-stp-8a90f915cb",
+      "recordPath": "equipment/abb-3d-drawings-busbar-system-and-segregations-spee-stp-8a90f915cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-drawings-busbar-system-and-segregations-spee-stp-8a90f915cb.json"
+    },
+    {
+      "id": "abb-3d-busbar-3-12-fi-601aac8b76",
+      "name": "Busbar 3/12/Fi",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7305",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-3-12-fi-601aac8b76",
+      "recordPath": "equipment/abb-3d-busbar-3-12-fi-601aac8b76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-3-12-fi-601aac8b76.json"
+    },
+    {
+      "id": "abb-3d-busbar-bb-su-2-112-10-d30f4ffb8a",
+      "name": "Busbar BB-SU 2/112/10",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7157",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-bb-su-2-112-10-d30f4ffb8a",
+      "recordPath": "equipment/abb-3d-busbar-bb-su-2-112-10-d30f4ffb8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-bb-su-2-112-10-d30f4ffb8a.json"
+    },
+    {
+      "id": "abb-3d-busbar-bb-su-2-36-10-5b3429d1dd",
+      "name": "Busbar BB-SU 2/36/10",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7158",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-bb-su-2-36-10-5b3429d1dd",
+      "recordPath": "equipment/abb-3d-busbar-bb-su-2-36-10-5b3429d1dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-bb-su-2-36-10-5b3429d1dd.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-2-b7853b5ebc",
+      "name": "Busbar PS 1/2",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7058",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-2-b7853b5ebc",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-2-b7853b5ebc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-2-b7853b5ebc.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-37-18-h-cb-e58384031d",
+      "name": "Busbar PS 1/37/18 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7028",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-37-18-h-cb-e58384031d",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-37-18-h-cb-e58384031d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-37-18-h-cb-e58384031d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-37-25-h-cb-7a9addacfe",
+      "name": "Busbar PS 1/37/25 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7029",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-37-25-h-cb-7a9addacfe",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-37-25-h-cb-7a9addacfe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-37-25-h-cb-7a9addacfe.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-37-25-hbp-c-5376fc70ea",
+      "name": "Busbar PS 1/37/25 HBP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7012",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-37-25-hbp-c-5376fc70ea",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-37-25-hbp-c-5376fc70ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-37-25-hbp-c-5376fc70ea.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-37-25-hbp-cr-72b663c2cb",
+      "name": "Busbar PS 1/37/25 HBP-CR",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7021",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-37-25-hbp-cr-72b663c2cb",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-37-25-hbp-cr-72b663c2cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-37-25-hbp-cr-72b663c2cb.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-38-h-ba75fadf5c",
+      "name": "Busbar PS 1/38 H",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7057",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-38-h-ba75fadf5c",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-38-h-ba75fadf5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-38-h-ba75fadf5c.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-38-16h-83c235f87b",
+      "name": "Busbar PS 1/38/16H",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7156",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-38-16h-83c235f87b",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-38-16h-83c235f87b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-38-16h-83c235f87b.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-39-30-hdc-73ca168936",
+      "name": "Busbar PS 1/39/30 HDC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7052",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-39-30-hdc-73ca168936",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-39-30-hdc-73ca168936.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-39-30-hdc-73ca168936.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-57-18-cb-7b9dc984f4",
+      "name": "Busbar PS 1/57/18 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7030",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-57-18-cb-7b9dc984f4",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-57-18-cb-7b9dc984f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-57-18-cb-7b9dc984f4.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-57-25-bp-c-cb94171120",
+      "name": "Busbar PS 1/57/25 BP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7013",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-57-25-bp-c-cb94171120",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-57-25-bp-c-cb94171120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-57-25-bp-c-cb94171120.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-57-25-bp-cr-8e2dd2f26f",
+      "name": "Busbar PS 1/57/25 BP-CR",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7022",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-57-25-bp-cr-8e2dd2f26f",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-57-25-bp-cr-8e2dd2f26f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-57-25-bp-cr-8e2dd2f26f.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-57-25-cb-3a1803f335",
+      "name": "Busbar PS 1/57/25 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7032",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-57-25-cb-3a1803f335",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-57-25-cb-3a1803f335.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-57-25-cb-3a1803f335.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-6-9e8855532d",
+      "name": "Busbar PS 1/6",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7059",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-6-9e8855532d",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-6-9e8855532d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-6-9e8855532d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-60-30-0210e58f2a",
+      "name": "Busbar PS 1/60/30",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7062",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-60-30-0210e58f2a",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-60-30-0210e58f2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-60-30-0210e58f2a.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-60-30-dc-8c5b3d4e37",
+      "name": "Busbar PS 1/60/30 DC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7053",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-60-30-dc-8c5b3d4e37",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-60-30-dc-8c5b3d4e37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-60-30-dc-8c5b3d4e37.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-1-60a-30ae24ac1d",
+      "name": "Busbar PS 1/60A",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7061",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-1-60a-30ae24ac1d",
+      "recordPath": "equipment/abb-3d-busbar-ps-1-60a-30ae24ac1d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-1-60a-30ae24ac1d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-12-e142b464fc",
+      "name": "Busbar PS 2/12",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7063",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-12-e142b464fc",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-12-e142b464fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-12-e142b464fc.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-38-30-hdc-44ea804bb0",
+      "name": "Busbar PS 2/38/30 HDC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7050",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-38-30-hdc-44ea804bb0",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-38-30-hdc-44ea804bb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-38-30-hdc-44ea804bb0.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-40-16-afdd-6e8cb2a074",
+      "name": "Busbar PS 2/40/16 AFDD",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7094",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-40-16-afdd-6e8cb2a074",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-40-16-afdd-6e8cb2a074.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-40-16-afdd-6e8cb2a074.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-46-18-h-cb-f76a0beb3f",
+      "name": "Busbar PS 2/46/18 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7033",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-46-18-h-cb-f76a0beb3f",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-46-18-h-cb-f76a0beb3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-46-18-h-cb-f76a0beb3f.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-46-25-h-cb-08846e6532",
+      "name": "Busbar PS 2/46/25 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7034",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-46-25-h-cb-08846e6532",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-46-25-h-cb-08846e6532.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-46-25-h-cb-08846e6532.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-46-25-hbp-c-82db4985e8",
+      "name": "Busbar PS 2/46/25 HBP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7014",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-46-25-hbp-c-82db4985e8",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-46-25-hbp-c-82db4985e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-46-25-hbp-c-82db4985e8.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-46-25-hbp-cr-b9012d6a0d",
+      "name": "Busbar PS 2/46/25 HBP-CR",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7023",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-46-25-hbp-cr-b9012d6a0d",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-46-25-hbp-cr-b9012d6a0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-46-25-hbp-cr-b9012d6a0d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-48-16h-0e1ffd3739",
+      "name": "Busbar PS 2/48/16H",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7066",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-48-16h-0e1ffd3739",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-48-16h-0e1ffd3739.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-48-16h-0e1ffd3739.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-48h-830df38b24",
+      "name": "Busbar PS 2/48H",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7065",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-48h-830df38b24",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-48h-830df38b24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-48h-830df38b24.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-56-18-cb-36951bb606",
+      "name": "Busbar PS 2/56/18 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7035",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-56-18-cb-36951bb606",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-56-18-cb-36951bb606.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-56-18-cb-36951bb606.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-56-25-bp-c-02cf6f57a9",
+      "name": "Busbar PS 2/56/25 BP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7016",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-56-25-bp-c-02cf6f57a9",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-56-25-bp-c-02cf6f57a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-56-25-bp-c-02cf6f57a9.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-56-25-bp-cr-4b32c55345",
+      "name": "Busbar PS 2/56/25 BP-CR",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7024",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-56-25-bp-cr-4b32c55345",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-56-25-bp-cr-4b32c55345.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-56-25-bp-cr-4b32c55345.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-56-25-cb-9894c90e71",
+      "name": "Busbar PS 2/56/25 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7036",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-56-25-cb-9894c90e71",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-56-25-cb-9894c90e71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-56-25-cb-9894c90e71.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-58-c83b4db32a",
+      "name": "Busbar PS 2/58",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7067",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-58-c83b4db32a",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-58-c83b4db32a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-58-c83b4db32a.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-58-30-014ffe3069",
+      "name": "Busbar PS 2/58/30",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7069",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-58-30-014ffe3069",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-58-30-014ffe3069.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-58-30-014ffe3069.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-60-30-dc-1658cffafd",
+      "name": "Busbar PS 2/60/30 DC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7051",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-60-30-dc-1658cffafd",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-60-30-dc-1658cffafd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-60-30-dc-1658cffafd.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-2-8-16-afdd-72b4d948af",
+      "name": "Busbar PS 2/8/16 AFDD",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7090",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-2-8-16-afdd-72b4d948af",
+      "recordPath": "equipment/abb-3d-busbar-ps-2-8-16-afdd-72b4d948af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-2-8-16-afdd-72b4d948af.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-11-d2ccd85131",
+      "name": "Busbar PS 3/11",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7070",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-11-d2ccd85131",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-11-d2ccd85131.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-11-d2ccd85131.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-12-2cdl230001r1012-f1c320d70a",
+      "name": "Busbar PS 3/12 2CDL230001R1012",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7099",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-12-2cdl230001r1012-f1c320d70a",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-12-2cdl230001r1012-f1c320d70a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-12-2cdl230001r1012-f1c320d70a.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-26-16h-dda-202-aab9682310",
+      "name": "Busbar PS 3/26/16H-DDA 202",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7086",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-26-16h-dda-202-aab9682310",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-26-16h-dda-202-aab9682310.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-26-16h-dda-202-aab9682310.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-30-16-h-afdd-10f6520bdb",
+      "name": "Busbar PS 3/30/16 H AFDD",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7096",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-30-16-h-afdd-10f6520bdb",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-30-16-h-afdd-10f6520bdb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-30-16-h-afdd-10f6520bdb.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-30-16-dda-202t-680726df3b",
+      "name": "Busbar PS 3/30/16-DDA 202T",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7085",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-30-16-dda-202t-680726df3b",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-30-16-dda-202t-680726df3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-30-16-dda-202t-680726df3b.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-39-16-h-cb-45edbf4afb",
+      "name": "Busbar PS 3/39/16 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7037",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-39-16-h-cb-45edbf4afb",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-39-16-h-cb-45edbf4afb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-39-16-h-cb-45edbf4afb.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-39-16-ilts-e-742b249b0b",
+      "name": "Busbar PS 3/39/16 ILTS-E",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7110",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-39-16-ilts-e-742b249b0b",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-39-16-ilts-e-742b249b0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-39-16-ilts-e-742b249b0b.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-39-25-h-cb-1eac43c704",
+      "name": "Busbar PS 3/39/25 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7038",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-39-25-h-cb-1eac43c704",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-39-25-h-cb-1eac43c704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-39-25-h-cb-1eac43c704.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-39-25-hbp-c-19132e6ee2",
+      "name": "Busbar PS 3/39/25 HBP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7017",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-39-25-hbp-c-19132e6ee2",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-39-25-hbp-c-19132e6ee2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-39-25-hbp-c-19132e6ee2.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-39-25-hbp-cr-539cef45fb",
+      "name": "Busbar PS 3/39/25 HBP-CR",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7025",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-39-25-hbp-cr-539cef45fb",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-39-25-hbp-cr-539cef45fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-39-25-hbp-cr-539cef45fb.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-48-16h-2b77b9143e",
+      "name": "Busbar PS 3/48/16H",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7073",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-48-16h-2b77b9143e",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-48-16h-2b77b9143e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-48-16h-2b77b9143e.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-48-18-h-cb-1038f48b65",
+      "name": "Busbar PS 3/48/18 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7039",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-48-18-h-cb-1038f48b65",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-48-18-h-cb-1038f48b65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-48-18-h-cb-1038f48b65.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-48-25-h-cb-573e2e502c",
+      "name": "Busbar PS 3/48/25 H CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7040",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-48-25-h-cb-573e2e502c",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-48-25-h-cb-573e2e502c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-48-25-h-cb-573e2e502c.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-48-25-hbp-c-a3faa696bb",
+      "name": "Busbar PS 3/48/25 HBP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7018",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-48-25-hbp-c-a3faa696bb",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-48-25-hbp-c-a3faa696bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-48-25-hbp-c-a3faa696bb.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-48-25-hbp-cr-e4c21b768b",
+      "name": "Busbar PS 3/48/25 HBP-CR",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7026",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-48-25-hbp-cr-e4c21b768b",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-48-25-hbp-cr-e4c21b768b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-48-25-hbp-cr-e4c21b768b.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-57-18-cb-f389094674",
+      "name": "Busbar PS 3/57/18 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7041",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-57-18-cb-f389094674",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-57-18-cb-f389094674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-57-18-cb-f389094674.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-57-25-bp-c-a42d80f7ad",
+      "name": "Busbar PS 3/57/25 BP-C",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7019",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-57-25-bp-c-a42d80f7ad",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-57-25-bp-c-a42d80f7ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-57-25-bp-c-a42d80f7ad.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-57-25-cb-d96402f797",
+      "name": "Busbar PS 3/57/25 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7042",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-57-25-cb-d96402f797",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-57-25-cb-d96402f797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-57-25-cb-d96402f797.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-6-16-bp-cfc1f6d6f0",
+      "name": "Busbar PS 3/6/16 BP",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7126",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-6-16-bp-cfc1f6d6f0",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-6-16-bp-cfc1f6d6f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-6-16-bp-cfc1f6d6f0.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-60-497f56855a",
+      "name": "Busbar PS 3/60",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7076",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-60-497f56855a",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-60-497f56855a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-60-497f56855a.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-60-16-6ae7edf68b",
+      "name": "Busbar PS 3/60/16",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7075",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-60-16-6ae7edf68b",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-60-16-6ae7edf68b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-60-16-6ae7edf68b.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-3-60-30-bc124035d8",
+      "name": "Busbar PS 3/60/30",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7074",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-3-60-30-bc124035d8",
+      "recordPath": "equipment/abb-3d-busbar-ps-3-60-30-bc124035d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-3-60-30-bc124035d8.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-12-16-a169ab76e3",
+      "name": "Busbar PS 4/12/16",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7107",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-12-16-a169ab76e3",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-12-16-a169ab76e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-12-16-a169ab76e3.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-12-nn-82c0c338e2",
+      "name": "Busbar PS 4/12 NN",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7102",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-12-nn-82c0c338e2",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-12-nn-82c0c338e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-12-nn-82c0c338e2.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-12-nnt-c9fce6cc4d",
+      "name": "Busbar PS 4/12 NNT",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7103",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-12-nnt-c9fce6cc4d",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-12-nnt-c9fce6cc4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-12-nnt-c9fce6cc4d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-12-16-nn-8539bcef3d",
+      "name": "Busbar PS 4/12/16 NN",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7104",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-12-16-nn-8539bcef3d",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-12-16-nn-8539bcef3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-12-16-nn-8539bcef3d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-12-16-nnt-26552bcde6",
+      "name": "Busbar PS 4/12/16 NNT",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7106",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-12-16-nnt-26552bcde6",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-12-16-nnt-26552bcde6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-12-16-nnt-26552bcde6.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-36-16-afdd-d6c706473d",
+      "name": "Busbar PS 4/36/16 AFDD",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7098",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-36-16-afdd-d6c706473d",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-36-16-afdd-d6c706473d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-36-16-afdd-d6c706473d.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-48-16-nha-e1839432cb",
+      "name": "Busbar PS 4/48/16 NHA",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7111",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-48-16-nha-e1839432cb",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-48-16-nha-e1839432cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-48-16-nha-e1839432cb.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-60-16-0aa6bf84d0",
+      "name": "Busbar PS 4/60/16",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7101",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-60-16-0aa6bf84d0",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-60-16-0aa6bf84d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-60-16-0aa6bf84d0.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps-4-60-30-a8c3d10bc6",
+      "name": "Busbar PS 4/60/30",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7100",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps-4-60-30-a8c3d10bc6",
+      "recordPath": "equipment/abb-3d-busbar-ps-4-60-30-a8c3d10bc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps-4-60-30-a8c3d10bc6.json"
+    },
+    {
+      "id": "abb-3d-busbar-ps3-39-16h-e985fc6f80",
+      "name": "Busbar PS3/39/16H",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7071",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-ps3-39-16h-e985fc6f80",
+      "recordPath": "equipment/abb-3d-busbar-ps3-39-16h-e985fc6f80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-ps3-39-16h-e985fc6f80.json"
+    },
+    {
+      "id": "abb-3d-busbar-psh-3-12-16ccfe94d6",
+      "name": "Busbar PSH 3/12",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7109",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-busbar-psh-3-12-16ccfe94d6",
+      "recordPath": "equipment/abb-3d-busbar-psh-3-12-16ccfe94d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-busbar-psh-3-12-16ccfe94d6.json"
+    },
+    {
+      "id": "abb-3d-file-bb-end-2-1-2c1e1c449f",
+      "name": "BB-END 2.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7161",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-bb-end-2-1-2c1e1c449f",
+      "recordPath": "equipment/abb-3d-file-bb-end-2-1-2c1e1c449f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-bb-end-2-1-2c1e1c449f.json"
+    },
+    {
+      "id": "abb-3d-file-bsk-fcf4e6b70e",
+      "name": "BSK",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7117",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-bsk-fcf4e6b70e",
+      "recordPath": "equipment/abb-3d-file-bsk-fcf4e6b70e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-bsk-fcf4e6b70e.json"
+    },
+    {
+      "id": "abb-3d-file-bsk-cb-0d067191e1",
+      "name": "BSK CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7046",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-bsk-cb-0d067191e1",
+      "recordPath": "equipment/abb-3d-file-bsk-cb-0d067191e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-bsk-cb-0d067191e1.json"
+    },
+    {
+      "id": "abb-3d-file-end1-1-734c9b80bc",
+      "name": "END1.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7118",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-end1-1-734c9b80bc",
+      "recordPath": "equipment/abb-3d-file-end1-1-734c9b80bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-end1-1-734c9b80bc.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-0354fe9172",
+      "name": "PS-END",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7119",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-0354fe9172",
+      "recordPath": "equipment/abb-3d-file-ps-end-0354fe9172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-0354fe9172.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-0-3fdb29ca6d",
+      "name": "PS-END 0",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7120",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-0-3fdb29ca6d",
+      "recordPath": "equipment/abb-3d-file-ps-end-0-3fdb29ca6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-0-3fdb29ca6d.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-1-cb-ad6c3eb217",
+      "name": "PS-END 1 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7047",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-1-cb-ad6c3eb217",
+      "recordPath": "equipment/abb-3d-file-ps-end-1-cb-ad6c3eb217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-1-cb-ad6c3eb217.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-3-1ae1e1e545",
+      "name": "PS-END 3",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7123",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-3-1ae1e1e545",
+      "recordPath": "equipment/abb-3d-file-ps-end-3-1ae1e1e545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-3-1ae1e1e545.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-3-cb-d1c101b059",
+      "name": "PS-END 3 CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7048",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-3-cb-d1c101b059",
+      "recordPath": "equipment/abb-3d-file-ps-end-3-cb-d1c101b059.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-3-cb-d1c101b059.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-3-1-9ffb0e2d63",
+      "name": "PS-END 3.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7122",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-3-1-9ffb0e2d63",
+      "recordPath": "equipment/abb-3d-file-ps-end-3-1-9ffb0e2d63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-3-1-9ffb0e2d63.json"
+    },
+    {
+      "id": "abb-3d-file-sz-bsk-f8e00ee5af",
+      "name": "SZ-BSK",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7124",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-sz-bsk-f8e00ee5af",
+      "recordPath": "equipment/abb-3d-file-sz-bsk-f8e00ee5af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-sz-bsk-f8e00ee5af.json"
+    },
+    {
+      "id": "abb-3d-file-ps-end-1-3e6e5f8491",
+      "name": "PS-END 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A7121",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-file-ps-end-1-3e6e5f8491",
+      "recordPath": "equipment/abb-3d-file-ps-end-1-3e6e5f8491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-file-ps-end-1-3e6e5f8491.json"
+    },
+    {
+      "id": "abb-bae-busbar-portfolio-1c39721d88",
+      "name": "BAE busbar portfolio",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A7434",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bae-busbar-portfolio-1c39721d88",
+      "recordPath": "equipment/abb-bae-busbar-portfolio-1c39721d88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-bae-busbar-portfolio-1c39721d88.json"
+    },
+    {
+      "id": "abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-drawing-8e87d82279",
+      "name": "1SEP304065R0001_ZLBM00-100 Double adapter for 100 to 185mm busbar distance_2d_drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A1749",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-drawing-8e87d82279",
+      "recordPath": "equipment/abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-drawing-8e87d82279.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep304065r0001-zlbm00-100-double-adapter-for-100-to-185mm-busbar-distance-2d-drawing-8e87d82279.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-2-0-65-busbar-8c648d4255",
+      "name": "Dimension Drawing - PS1-2-0-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-2-0-65-busbar-8c648d4255",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-2-0-65-busbar-8c648d4255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-2-0-65-busbar-8c648d4255.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-2-1-65-busbar-3f211db8c2",
+      "name": "Dimension Drawing - PS1-2-1-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0005",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-2-1-65-busbar-3f211db8c2",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-2-1-65-busbar-3f211db8c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-2-1-65-busbar-3f211db8c2.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-2-2-65-busbar-42df686d18",
+      "name": "Dimension Drawing - PS1-2-2-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0009",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-2-2-65-busbar-42df686d18",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-2-2-65-busbar-42df686d18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-2-2-65-busbar-42df686d18.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-3-0-100-busbar-8e5d6c891b",
+      "name": "Dimension Drawing - PS1-3-0-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-3-0-100-busbar-8e5d6c891b",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-3-0-100-busbar-8e5d6c891b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-3-0-100-busbar-8e5d6c891b.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-3-0-65-busbar-4f2991294d",
+      "name": "Dimension Drawing - PS1-3-0-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-3-0-65-busbar-4f2991294d",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-3-0-65-busbar-4f2991294d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-3-0-65-busbar-4f2991294d.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-3-1-100-busbar-0760649809",
+      "name": "Dimension Drawing - PS1-3-1-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0004",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-3-1-100-busbar-0760649809",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-3-1-100-busbar-0760649809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-3-1-100-busbar-0760649809.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-3-1-65-busbar-dc7b1cbe8e",
+      "name": "Dimension Drawing - PS1-3-1-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0006",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-3-1-65-busbar-dc7b1cbe8e",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-3-1-65-busbar-dc7b1cbe8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-3-1-65-busbar-dc7b1cbe8e.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-3-2-100-busbar-523e3b2bcb",
+      "name": "Dimension Drawing - PS1-3-2-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0007",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-3-2-100-busbar-523e3b2bcb",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-3-2-100-busbar-523e3b2bcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-3-2-100-busbar-523e3b2bcb.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-3-2-65-busbar-c8e2150971",
+      "name": "Dimension Drawing - PS1-3-2-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0010",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-3-2-65-busbar-c8e2150971",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-3-2-65-busbar-c8e2150971.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-3-2-65-busbar-c8e2150971.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-4-0-100-busbar-32dbbfb91c",
+      "name": "Dimension Drawing - PS1-4-0-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-4-0-100-busbar-32dbbfb91c",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-4-0-100-busbar-32dbbfb91c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-4-0-100-busbar-32dbbfb91c.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-4-0-65-busbar-5b67bc348a",
+      "name": "Dimension Drawing - PS1-4-0-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0003",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-4-0-65-busbar-5b67bc348a",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-4-0-65-busbar-5b67bc348a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-4-0-65-busbar-5b67bc348a.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-4-1-100-busbar-b260adffdc",
+      "name": "Dimension Drawing - PS1-4-1-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0005",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-4-1-100-busbar-b260adffdc",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-4-1-100-busbar-b260adffdc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-4-1-100-busbar-b260adffdc.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-4-1-65-busbar-149b857108",
+      "name": "Dimension Drawing - PS1-4-1-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0007",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-4-1-65-busbar-149b857108",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-4-1-65-busbar-149b857108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-4-1-65-busbar-149b857108.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-4-2-65-busbar-0d910b632d",
+      "name": "Dimension Drawing - PS1-4-2-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0011",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-4-2-65-busbar-0d910b632d",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-4-2-65-busbar-0d910b632d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-4-2-65-busbar-0d910b632d.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-5-0-100-busbar-42c353e897",
+      "name": "Dimension Drawing - PS1-5-0-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0003",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-5-0-100-busbar-42c353e897",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-5-0-100-busbar-42c353e897.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-5-0-100-busbar-42c353e897.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-5-0-65-busbar-9c237234f4",
+      "name": "Dimension Drawing - PS1-5-0-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0004",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-5-0-65-busbar-9c237234f4",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-5-0-65-busbar-9c237234f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-5-0-65-busbar-9c237234f4.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-5-1-100-busbar-7a192fd417",
+      "name": "Dimension Drawing - PS1-5-1-100 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200453F0006",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-5-1-100-busbar-7a192fd417",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-5-1-100-busbar-7a192fd417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-5-1-100-busbar-7a192fd417.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-5-1-65-busbar-72eef525b8",
+      "name": "Dimension Drawing - PS1-5-1-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0008",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-5-1-65-busbar-72eef525b8",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-5-1-65-busbar-72eef525b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-5-1-65-busbar-72eef525b8.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps1-5-2-65-busbar-5afdf4b426",
+      "name": "Dimension Drawing - PS1-5-2-65 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200450F0012",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps1-5-2-65-busbar-5afdf4b426",
+      "recordPath": "equipment/abb-dimension-drawing-ps1-5-2-65-busbar-5afdf4b426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps1-5-2-65-busbar-5afdf4b426.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps2-2-0-125-busbar-03a487ec7b",
+      "name": "Dimension Drawing - PS2-2-0-125 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM400410F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps2-2-0-125-busbar-03a487ec7b",
+      "recordPath": "equipment/abb-dimension-drawing-ps2-2-0-125-busbar-03a487ec7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps2-2-0-125-busbar-03a487ec7b.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps2-2-2-125-busbar-e3cc774930",
+      "name": "Dimension Drawing - PS2-2-2-125 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM400410F0009",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps2-2-2-125-busbar-e3cc774930",
+      "recordPath": "equipment/abb-dimension-drawing-ps2-2-2-125-busbar-e3cc774930.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps2-2-2-125-busbar-e3cc774930.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps2-3-0-125-busbar-2c72a90986",
+      "name": "Dimension Drawing - PS2-3-0-125 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM400410F0002",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps2-3-0-125-busbar-2c72a90986",
+      "recordPath": "equipment/abb-dimension-drawing-ps2-3-0-125-busbar-2c72a90986.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps2-3-0-125-busbar-2c72a90986.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps2-3-2-125-busbar-475a57f9c7",
+      "name": "Dimension Drawing - PS2-3-2-125 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM400410F0010",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps2-3-2-125-busbar-475a57f9c7",
+      "recordPath": "equipment/abb-dimension-drawing-ps2-3-2-125-busbar-475a57f9c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps2-3-2-125-busbar-475a57f9c7.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps2-4-0-125-busbar-fd38191be4",
+      "name": "Dimension Drawing - PS2-4-0-125 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM400410F0003",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps2-4-0-125-busbar-fd38191be4",
+      "recordPath": "equipment/abb-dimension-drawing-ps2-4-0-125-busbar-fd38191be4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps2-4-0-125-busbar-fd38191be4.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ps2-4-2-125-busbar-3f832aed14",
+      "name": "Dimension Drawing - PS2-4-2-125 Busbar",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM400410F0011",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ps2-4-2-125-busbar-3f832aed14",
+      "recordPath": "equipment/abb-dimension-drawing-ps2-4-2-125-busbar-3f832aed14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ps2-4-2-125-busbar-3f832aed14.json"
+    }
+  ]
+}

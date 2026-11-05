@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-549.dwg. Its ide
 
 An input/output assembly connects field devices to a controller. Inputs report measurements or status; outputs pass the controller's commands to equipment.
 
-In a switchroom, a remote I/O station can collect fan-status contacts and send ventilation-control commands without every signal returning to the main controller rack.
+For example, in a machine panel combining field status and actuator commands, use the PX-549 reference to coordinate input and output conductor corridors, connector access and removal space. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Protos X IO/PX-549.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

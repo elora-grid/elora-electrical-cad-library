@@ -32,7 +32,7 @@ Import the exact 300A STEP model and confirm its identity against the selected S
 
 The SmartShunt measures how much current flows into and out of a battery. This helps track charging and use, and estimate how much charge remains.
 
-In a microgrid battery system, it can show whether the battery is charging from solar generation or supplying the site's loads.
+A battery-system layout can use the model to check the shunt’s position and cable access before the wiring is designed from the selected installation manual.
 
 Import the exact 300A STEP model and confirm its identity against the selected SmartShunt. The 3D file supplies geometry, while the manual establishes measurement placement, wiring and operating requirements. A different enclosure variant must use its own model.
 

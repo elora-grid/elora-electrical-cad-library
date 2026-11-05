@@ -32,7 +32,7 @@ The acquired source archive contains ENYSTAR\_Flansche/FP\_FG\_200.stp, a 339,96
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+For example, in a modular distribution assembly joining selected enclosure sections, use the FP\_FG\_200 reference to coordinate flange mating surfaces, fixing and cable passage where specified. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains ENYSTAR\_Flansche/FP\_FG\_200.stp, a 339,960-byte STP native file. Its file signature and SHA-256 were checked against the held original. The STEP file header was validated as an ISO 10303 exchange file. An enclosure component does not establish a finished assembly rating, environmental protection or accessory compatibility. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: ENYSTAR\_Flansche.zip!/ENYSTAR\_Flansche/FP\_FG\_200.stp. These paths retain their own archive and native checksums in the file evidence.
 

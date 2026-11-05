@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "category": "power-quality",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-ac_linereactors",
+      "name": "AC\n                Line Reactors (LR Series) CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-ac_linereactors",
+      "recordPath": "equipment/ad-ac_linereactors.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-ac_linereactors.json"
+    },
+    {
+      "id": "ad-powersurgefilters",
+      "name": "Power Surge Filters CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-powersurgefilters",
+      "recordPath": "equipment/ad-powersurgefilters.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-powersurgefilters.json"
+    },
+    {
+      "id": "ad-surgepd",
+      "name": "Surge Protection - Type 1 CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-surgepd",
+      "recordPath": "equipment/ad-surgepd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-surgepd.json"
+    },
+    {
+      "id": "schurter-cad",
+      "name": "SCHURTER CAD drawings library",
+      "manufacturer": "SCHURTER",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schurter-cad",
+      "recordPath": "equipment/schurter-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schurter-cad.json"
+    },
+    {
+      "id": "danfoss-vlt-configured-drawing-request",
+      "name": "Danfoss VLT configured-drive drawing request guide",
+      "manufacturer": "Danfoss",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/danfoss-vlt-configured-drawing-request",
+      "recordPath": "equipment/danfoss-vlt-configured-drawing-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/danfoss-vlt-configured-drawing-request.json"
+    },
+    {
+      "id": "drawing-gs-br-300w400-52a67fb5598f",
+      "name": "GS-BR-300W400 braking-resistor DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-gs-br-300w400-52a67fb5598f",
+      "recordPath": "equipment/drawing-gs-br-300w400-52a67fb5598f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-gs-br-300w400-52a67fb5598f.json"
+    },
+    {
+      "id": "drawing-gs-br-500w100-ddc12641268e",
+      "name": "GS-BR-500W100 braking-resistor DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-gs-br-500w100-ddc12641268e",
+      "recordPath": "equipment/drawing-gs-br-500w100-ddc12641268e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-gs-br-500w100-ddc12641268e.json"
+    },
+    {
+      "id": "drawing-lr-10p2-1ph-6098c6b0a463",
+      "name": "LR-10P2-1PH line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-10p2-1ph-6098c6b0a463",
+      "recordPath": "equipment/drawing-lr-10p2-1ph-6098c6b0a463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-10p2-1ph-6098c6b0a463.json"
+    },
+    {
+      "id": "drawing-lr-11p0-1ph-e26c4589e956",
+      "name": "LR-11P0-1PH line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-11p0-1ph-e26c4589e956",
+      "recordPath": "equipment/drawing-lr-11p0-1ph-e26c4589e956.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-11p0-1ph-e26c4589e956.json"
+    },
+    {
+      "id": "drawing-lr-2010-8f03a5d099df",
+      "name": "LR-2010 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2010-8f03a5d099df",
+      "recordPath": "equipment/drawing-lr-2010-8f03a5d099df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2010-8f03a5d099df.json"
+    },
+    {
+      "id": "drawing-lr-2015-a34c6100b6e5",
+      "name": "LR-2015 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2015-a34c6100b6e5",
+      "recordPath": "equipment/drawing-lr-2015-a34c6100b6e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2015-a34c6100b6e5.json"
+    },
+    {
+      "id": "drawing-lr-2025-d58a89c9e5f9",
+      "name": "LR-2025 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2025-d58a89c9e5f9",
+      "recordPath": "equipment/drawing-lr-2025-d58a89c9e5f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2025-d58a89c9e5f9.json"
+    },
+    {
+      "id": "drawing-lr-2030-deecd1cab05e",
+      "name": "LR-2030 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2030-deecd1cab05e",
+      "recordPath": "equipment/drawing-lr-2030-deecd1cab05e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2030-deecd1cab05e.json"
+    },
+    {
+      "id": "drawing-lr-2040-6d6ca43c0796",
+      "name": "LR-2040 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2040-6d6ca43c0796",
+      "recordPath": "equipment/drawing-lr-2040-6d6ca43c0796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2040-6d6ca43c0796.json"
+    },
+    {
+      "id": "drawing-lr-2050-10c4aa8aaa84",
+      "name": "LR-2050 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2050-10c4aa8aaa84",
+      "recordPath": "equipment/drawing-lr-2050-10c4aa8aaa84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2050-10c4aa8aaa84.json"
+    },
+    {
+      "id": "drawing-lr-2060-04af7451f0a5",
+      "name": "LR-2060 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2060-04af7451f0a5",
+      "recordPath": "equipment/drawing-lr-2060-04af7451f0a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2060-04af7451f0a5.json"
+    },
+    {
+      "id": "drawing-lr-2075-582dde786586",
+      "name": "LR-2075 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2075-582dde786586",
+      "recordPath": "equipment/drawing-lr-2075-582dde786586.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2075-582dde786586.json"
+    },
+    {
+      "id": "drawing-lr-20p5-f03001abd1f8",
+      "name": "LR-20P5 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-20p5-f03001abd1f8",
+      "recordPath": "equipment/drawing-lr-20p5-f03001abd1f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-20p5-f03001abd1f8.json"
+    },
+    {
+      "id": "drawing-lr-2100-201654de804e",
+      "name": "LR-2100 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-2100-201654de804e",
+      "recordPath": "equipment/drawing-lr-2100-201654de804e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-2100-201654de804e.json"
+    },
+    {
+      "id": "drawing-lr-21p0-25567cc2c55f",
+      "name": "LR-21P0 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-21p0-25567cc2c55f",
+      "recordPath": "equipment/drawing-lr-21p0-25567cc2c55f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-21p0-25567cc2c55f.json"
+    },
+    {
+      "id": "drawing-lr-25p0-2811e58a9876",
+      "name": "LR-25P0 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-25p0-2811e58a9876",
+      "recordPath": "equipment/drawing-lr-25p0-2811e58a9876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-25p0-2811e58a9876.json"
+    },
+    {
+      "id": "drawing-lr-4040-3d75f672c47d",
+      "name": "LR-4040 line reactor",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-lr-4040-3d75f672c47d",
+      "recordPath": "equipment/drawing-lr-4040-3d75f672c47d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-lr-4040-3d75f672c47d.json"
+    },
+    {
+      "id": "deif-agc-150-engine-drive-c8dace5242",
+      "name": "AGC 150 Engine drive",
+      "manufacturer": "DEIF",
+      "drawingNumber": "agc-150-engine-drive-data-sheet-4921240617-uk.pdf; ie-150-agc-150-engine-communication-4189341302-uk.pdf; agc-150-2d-cad-drawing.dwg",
+      "formats": [
+        "DWG",
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-agc-150-engine-drive-c8dace5242",
+      "recordPath": "equipment/deif-agc-150-engine-drive-c8dace5242.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-agc-150-engine-drive-c8dace5242.json"
+    },
+    {
+      "id": "deif-agc-150-engine-drive-marine-df8f4af2b3",
+      "name": "AGC 150 Engine drive Marine",
+      "manufacturer": "DEIF",
+      "drawingNumber": "ie-150-agc-150-engine-communication-4189341302-uk.pdf; agc-150-2d-cad-drawing.dwg; agc-150-3d-step-file.zip",
+      "formats": [
+        "DWG",
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-agc-150-engine-drive-marine-df8f4af2b3",
+      "recordPath": "equipment/deif-agc-150-engine-drive-marine-df8f4af2b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-agc-150-engine-drive-marine-df8f4af2b3.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4cdc4eab4e",
+      "name": "Files for assembling the ACS380 inverter in SENPLUS cabinet plugin drawers. (GAVETAS PLUGIN - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0412",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4cdc4eab4e",
+      "recordPath": "equipment/abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4cdc4eab4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4cdc4eab4e.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-8d29a73ddd",
+      "name": "Files for assembling the ACS380 inverter in SENPLUS cabinet pull-out drawers. (GAVETAS EXTRAÍVEIS - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0408",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-8d29a73ddd",
+      "recordPath": "equipment/abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-8d29a73ddd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acs380-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-8d29a73ddd.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acs380-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-9aa14438e4",
+      "name": "Files for assembling the ACS380 inverter in SENPLUS fixed cabinet drawers. (GAVETAS FIXAS - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0411",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acs380-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-9aa14438e4",
+      "recordPath": "equipment/abb-files-for-assembling-the-acs380-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-9aa14438e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acs380-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-9aa14438e4.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acs580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-4abcb92d6b",
+      "name": "Files for assembling the ACS580 inverter in SENPLUS cabinet pull-out drawers. (GAVETAS EXTRAÍVEIS - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0416",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acs580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-4abcb92d6b",
+      "recordPath": "equipment/abb-files-for-assembling-the-acs580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-4abcb92d6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acs580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-4abcb92d6b.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acs880-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4288195f82",
+      "name": "Files for assembling the ACS880 inverter in SENPLUS cabinet plugin drawers. (GAVETAS PLUGIN - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0423",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acs880-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4288195f82",
+      "recordPath": "equipment/abb-files-for-assembling-the-acs880-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4288195f82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acs880-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-4288195f82.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acs880-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-93070d22d5",
+      "name": "Files for assembling the ACS880 inverter in SENPLUS fixed cabinet drawers. (GAVETAS FIXAS - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0418",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acs880-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-93070d22d5",
+      "recordPath": "equipment/abb-files-for-assembling-the-acs880-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-93070d22d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acs880-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-93070d22d5.json"
+    },
+    {
+      "id": "abb-acs580-cabinet-built-drive-pai-frame-r10-ip21-dimensional-drawing-pt-br-b9743c7ba6",
+      "name": "ACS580 Cabinet-built drive (PAI) Frame R10 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4678",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs580-cabinet-built-drive-pai-frame-r10-ip21-dimensional-drawing-pt-br-b9743c7ba6",
+      "recordPath": "equipment/abb-acs580-cabinet-built-drive-pai-frame-r10-ip21-dimensional-drawing-pt-br-b9743c7ba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs580-cabinet-built-drive-pai-frame-r10-ip21-dimensional-drawing-pt-br-b9743c7ba6.json"
+    },
+    {
+      "id": "abb-acs580-cabinet-built-drive-pai-frame-r11-ip21-dimensional-drawing-pt-br-20da548d7d",
+      "name": "ACS580 Cabinet-built drive (PAI) Frame R11 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4649",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs580-cabinet-built-drive-pai-frame-r11-ip21-dimensional-drawing-pt-br-20da548d7d",
+      "recordPath": "equipment/abb-acs580-cabinet-built-drive-pai-frame-r11-ip21-dimensional-drawing-pt-br-20da548d7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs580-cabinet-built-drive-pai-frame-r11-ip21-dimensional-drawing-pt-br-20da548d7d.json"
+    },
+    {
+      "id": "abb-acs580-cabinet-built-drive-pai-frame-r6-ip21-dimensional-drawing-pt-br-8a6d67d469",
+      "name": "ACS580 Cabinet-built drive (PAI) Frame R6 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4674",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs580-cabinet-built-drive-pai-frame-r6-ip21-dimensional-drawing-pt-br-8a6d67d469",
+      "recordPath": "equipment/abb-acs580-cabinet-built-drive-pai-frame-r6-ip21-dimensional-drawing-pt-br-8a6d67d469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs580-cabinet-built-drive-pai-frame-r6-ip21-dimensional-drawing-pt-br-8a6d67d469.json"
+    },
+    {
+      "id": "abb-acs580-cabinet-built-drive-pai-frame-r7-ip21-dimensional-drawing-pt-br-cd6ab7871c",
+      "name": "ACS580 Cabinet-built drive (PAI) Frame R7 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4675",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs580-cabinet-built-drive-pai-frame-r7-ip21-dimensional-drawing-pt-br-cd6ab7871c",
+      "recordPath": "equipment/abb-acs580-cabinet-built-drive-pai-frame-r7-ip21-dimensional-drawing-pt-br-cd6ab7871c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs580-cabinet-built-drive-pai-frame-r7-ip21-dimensional-drawing-pt-br-cd6ab7871c.json"
+    },
+    {
+      "id": "abb-acs580-cabinet-built-drive-pai-frame-r8-ip21-dimensional-drawing-pt-br-dbd161d75c",
+      "name": "ACS580 Cabinet-built drive (PAI) Frame R8 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4676",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs580-cabinet-built-drive-pai-frame-r8-ip21-dimensional-drawing-pt-br-dbd161d75c",
+      "recordPath": "equipment/abb-acs580-cabinet-built-drive-pai-frame-r8-ip21-dimensional-drawing-pt-br-dbd161d75c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs580-cabinet-built-drive-pai-frame-r8-ip21-dimensional-drawing-pt-br-dbd161d75c.json"
+    },
+    {
+      "id": "abb-acs580-cabinet-built-drive-pai-frame-r9-ip21-dimensional-drawing-pt-br-36fe8a11cf",
+      "name": "ACS580 Cabinet-built drive (PAI) Frame R9 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4677",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs580-cabinet-built-drive-pai-frame-r9-ip21-dimensional-drawing-pt-br-36fe8a11cf",
+      "recordPath": "equipment/abb-acs580-cabinet-built-drive-pai-frame-r9-ip21-dimensional-drawing-pt-br-36fe8a11cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs580-cabinet-built-drive-pai-frame-r9-ip21-dimensional-drawing-pt-br-36fe8a11cf.json"
+    },
+    {
+      "id": "abb-acs880-cabinet-built-drive-pai-frame-r5-ip21-dimensional-drawing-pt-br-087685ee96",
+      "name": "ACS880 Cabinet-built drive (PAI) Frame R5 IP21 Dimensional Drawing (PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4673",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-acs880-cabinet-built-drive-pai-frame-r5-ip21-dimensional-drawing-pt-br-087685ee96",
+      "recordPath": "equipment/abb-acs880-cabinet-built-drive-pai-frame-r5-ip21-dimensional-drawing-pt-br-087685ee96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-acs880-cabinet-built-drive-pai-frame-r5-ip21-dimensional-drawing-pt-br-087685ee96.json"
+    },
+    {
+      "id": "abb-fastflex-family-skus-vfd-acs580-f3fc79815e",
+      "name": "FastFlex Family SKUs-VFD ACS580",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A6935",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fastflex-family-skus-vfd-acs580-f3fc79815e",
+      "recordPath": "equipment/abb-fastflex-family-skus-vfd-acs580-f3fc79815e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fastflex-family-skus-vfd-acs580-f3fc79815e.json"
+    },
+    {
+      "id": "abb-pcs100-avc-208v-ul-single-line-diagram-b324a99357",
+      "name": "PCS100 AVC 208V UL Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD070000E2021",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-avc-208v-ul-single-line-diagram-b324a99357",
+      "recordPath": "equipment/abb-pcs100-avc-208v-ul-single-line-diagram-b324a99357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-avc-208v-ul-single-line-diagram-b324a99357.json"
+    },
+    {
+      "id": "abb-pcs100-avc-480v-ul-single-line-diagram-ae44411fb0",
+      "name": "PCS100 AVC 480V UL Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD070000E2022",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-avc-480v-ul-single-line-diagram-ae44411fb0",
+      "recordPath": "equipment/abb-pcs100-avc-480v-ul-single-line-diagram-ae44411fb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-avc-480v-ul-single-line-diagram-ae44411fb0.json"
+    },
+    {
+      "id": "abb-pcs100-07-208-01b-ul-mechanical-layout-6da552254e",
+      "name": "PCS100-07-208-01B-UL Mechanical Layout",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD074512E101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-07-208-01b-ul-mechanical-layout-6da552254e",
+      "recordPath": "equipment/abb-pcs100-07-208-01b-ul-mechanical-layout-6da552254e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-07-208-01b-ul-mechanical-layout-6da552254e.json"
+    },
+    {
+      "id": "abb-pcs100-07-208-0b5-ul-mechanical-layout-d69dbbe51a",
+      "name": "PCS100-07-208-0B5-UL Mechanical Layout",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD074510E101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-07-208-0b5-ul-mechanical-layout-d69dbbe51a",
+      "recordPath": "equipment/abb-pcs100-07-208-0b5-ul-mechanical-layout-d69dbbe51a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-07-208-0b5-ul-mechanical-layout-d69dbbe51a.json"
+    },
+    {
+      "id": "abb-pcs100-07-208-0b75-ul-mechanical-layout-2523107927",
+      "name": "PCS100-07-208-0B75-UL Mechanical Layout",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD074511E101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-07-208-0b75-ul-mechanical-layout-2523107927",
+      "recordPath": "equipment/abb-pcs100-07-208-0b75-ul-mechanical-layout-2523107927.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-07-208-0b75-ul-mechanical-layout-2523107927.json"
+    },
+    {
+      "id": "abb-pcs100-07-480-01b-ul-mechanical-layout-155789635f",
+      "name": "PCS100-07-480-01B-UL Mechanical Layout",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD074506E101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-07-480-01b-ul-mechanical-layout-155789635f",
+      "recordPath": "equipment/abb-pcs100-07-480-01b-ul-mechanical-layout-155789635f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-07-480-01b-ul-mechanical-layout-155789635f.json"
+    },
+    {
+      "id": "abb-pcs100-07-480-0b5-ul-mechanical-layout-6b79975034",
+      "name": "PCS100-07-480-0B5-UL Mechanical Layout",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD074504E101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-07-480-0b5-ul-mechanical-layout-6b79975034",
+      "recordPath": "equipment/abb-pcs100-07-480-0b5-ul-mechanical-layout-6b79975034.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-07-480-0b5-ul-mechanical-layout-6b79975034.json"
+    },
+    {
+      "id": "abb-pcs100-07-480-0b75-ul-mechanical-layout-073820f3eb",
+      "name": "PCS100-07-480-0B75-UL Mechanical Layout",
+      "manufacturer": "ABB",
+      "drawingNumber": "2UCD074505E101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcs100-07-480-0b75-ul-mechanical-layout-073820f3eb",
+      "recordPath": "equipment/abb-pcs100-07-480-0b75-ul-mechanical-layout-073820f3eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcs100-07-480-0b75-ul-mechanical-layout-073820f3eb.json"
+    }
+  ]
+}

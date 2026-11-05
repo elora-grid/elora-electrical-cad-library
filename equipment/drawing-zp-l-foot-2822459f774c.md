@@ -32,7 +32,7 @@ The exact supplied files are ZP L Foot.STEP. Use the listed geometry for the mat
 
 A mounting support attaches equipment to its base or surrounding structure and keeps it in the intended position.
 
-In a substation layout, a mounting-foot drawing helps coordinate the enclosure's fixing points with its support.
+For a layout that specifies ZP L FOOT, use the exact named drawing above to establish its position alongside the matching enclosure or adjacent equipment.
 
 The exact supplied files are ZP L Foot.STEP. Use the listed geometry for the matching part in your layout. Keep the manufacturer model suffix when comparing it with another size in the same range.
 

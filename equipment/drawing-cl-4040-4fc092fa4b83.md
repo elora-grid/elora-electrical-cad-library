@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories
 
 Conductors carry electrical power or signals between equipment. The drawing marks show which paths connect and which simply pass one another.
 
-In a substation control panel, the wiring diagram lets a technician trace a trip signal from a relay through terminals to the breaker circuit.
+When placing CL-4040 in a control-panel wiring route, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Reserve room to fit and remove the duct cover while keeping wire transitions clear of nearby terminals. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories/CL-4040.DWG, a 5,499,045-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A routing outline does not determine conductor fill, segregation or operating temperature. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

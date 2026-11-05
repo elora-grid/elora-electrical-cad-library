@@ -32,7 +32,7 @@ The verified native member is Pushbuttons Switches Indicators/EStop Station Push
 
 An emergency-stop operator sends a stop demand to the connected control system when someone operates it. The complete system determines how the equipment stops.
 
-In a microgrid generator enclosure, an emergency-stop station gives an operator a defined way to request an emergency stop.
+For example, in a machine installation with a clearly accessible stop station, use the ES-SS-231004 reference to coordinate operator approach, operating head and rear contact wiring. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Pushbuttons Switches Indicators/EStop Station Pushbuttons/ES-SS-231004.dwg. Its identity was checked against the acquired manufacturer archive. Locate the station body with its cable entry and operating access; validate the safety function in the electrical design separately. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

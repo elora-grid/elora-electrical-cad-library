@@ -32,7 +32,7 @@ The verified native member is PLC Families/P1000/P1-04DAL-1.dwg. Its identity wa
 
 An analogue output module turns a controller's requested value into a changing electrical signal for another device.
 
-In a switchroom cooling system, it can send an adjustable speed request to a fan drive.
+For example, in a plant panel sending adjustable commands to a valve or drive, use the P1-04DAL-1 reference to coordinate output-terminal approach, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P1000/P1-04DAL-1.dwg. Its identity was checked against the acquired manufacturer archive. Lay out the PAC station before locating cable duct so the terminal strips and expansion joints remain accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

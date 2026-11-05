@@ -32,7 +32,7 @@ The exact supplied files are Zag 9-9.STEP. Use the STEP assembly to coordinate t
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+For a layout that specifies ZAG 9-9, place its STEP model beside the other equipment and check cover access before committing the mounting position.
 
 The exact supplied files are Zag 9-9.STEP. Use the STEP assembly to coordinate the enclosure body, cover and mounting space. Keep the manufacturer model suffix when comparing it with another size in the same range.
 

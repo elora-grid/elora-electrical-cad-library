@@ -32,7 +32,7 @@ The verified native member is ST2365100-PLATE-6.DWG. Its identity was checked ag
 
 An interlock prevents a specified action unless the required conditions are satisfied. Its mechanical or electrical arrangement determines what it supervises.
 
-In switchgear, an interlock can prevent a particular switching operation while the associated equipment is in an incompatible position.
+For interlock mechanical coordination, place the ST2365100-PLATE-6 outline alongside the actual enclosure and adjacent hardware. Align the interlock hardware with the intended door or mechanical interface and keep key insertion and withdrawal clear. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is ST2365100-PLATE-6.DWG. Its identity was checked against the acquired manufacturer archive. Align the interlock hardware with the intended door or mechanical interface and keep key insertion and withdrawal clear. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

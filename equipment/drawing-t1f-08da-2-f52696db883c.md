@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Terminator Field IO/T1F-08DA-2.
 
 An analogue output module turns a controller's requested value into a changing electrical signal for another device.
 
-In a switchroom cooling system, it can send an adjustable speed request to a fan drive.
+For example, in a plant panel sending adjustable commands to a valve or drive, use the T1F-08DA-2 reference to coordinate output-terminal approach, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Terminator Field IO/T1F-08DA-2.dwg. Its identity was checked against the acquired manufacturer archive. Use the device outline to coordinate the I/O station, its terminals and the service access needed beside cable duct. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/Enclosure Accessories
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+For example, in a cabinet whose indications are viewed through a selected window arrangement, use the WAPWK0503NF reference to coordinate viewing position, panel interface and internal equipment alignment. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Enclosures and Wiring/Enclosure Accessories/WAPWK0503NF.dwg, a 233,515-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. An enclosure component does not establish a finished assembly rating, environmental protection or accessory compatibility. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

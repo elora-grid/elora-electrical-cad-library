@@ -1,0 +1,2400 @@
+{
+  "schemaVersion": 1,
+  "category": "enclosures",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-enclacc",
+      "name": "Enclosure Accessories CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-enclacc",
+      "recordPath": "equipment/ad-enclacc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-enclacc.json"
+    },
+    {
+      "id": "ad-encsubpanels",
+      "name": "Enclosure Subpanels CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-encsubpanels",
+      "recordPath": "equipment/ad-encsubpanels.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-encsubpanels.json"
+    },
+    {
+      "id": "ad-disconnectenclosures",
+      "name": "Disconnect\n                Enclosures CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-disconnectenclosures",
+      "recordPath": "equipment/ad-disconnectenclosures.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-disconnectenclosures.json"
+    },
+    {
+      "id": "ad-metalenclosures",
+      "name": "Metal Enclosures CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-metalenclosures",
+      "recordPath": "equipment/ad-metalenclosures.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-metalenclosures.json"
+    },
+    {
+      "id": "ad-nonmetalenclosures",
+      "name": "Non-metal Enclosures CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-nonmetalenclosures",
+      "recordPath": "equipment/ad-nonmetalenclosures.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-nonmetalenclosures.json"
+    },
+    {
+      "id": "ad-polycarbenc",
+      "name": "Polycarbonate Enclosures CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-polycarbenc",
+      "recordPath": "equipment/ad-polycarbenc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-polycarbenc.json"
+    },
+    {
+      "id": "bopla-request",
+      "name": "BOPLA DWG and alternate-format request",
+      "manufacturer": "BOPLA",
+      "formats": [
+        "DWG",
+        "IGES",
+        "STL",
+        "SAT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/bopla-request",
+      "recordPath": "equipment/bopla-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/bopla-request.json"
+    },
+    {
+      "id": "bopla-cad",
+      "name": "BOPLA standard enclosure CAD access",
+      "manufacturer": "BOPLA",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/bopla-cad",
+      "recordPath": "equipment/bopla-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/bopla-cad.json"
+    },
+    {
+      "id": "hammond-enclosures",
+      "name": "Hammond electrical enclosure CAD catalogue",
+      "manufacturer": "Hammond Manufacturing",
+      "formats": [
+        "DXF",
+        "STEP",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hammond-enclosures",
+      "recordPath": "equipment/hammond-enclosures.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hammond-enclosures.json"
+    },
+    {
+      "id": "nvent-hoffman-a726036",
+      "name": "A726036FSDAD enclosure CAD generator",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/nvent-hoffman-a726036",
+      "recordPath": "equipment/nvent-hoffman-a726036.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/nvent-hoffman-a726036.json"
+    },
+    {
+      "id": "rittal-cad",
+      "name": "Rittal enclosure and system CAD library",
+      "manufacturer": "Rittal",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/rittal-cad",
+      "recordPath": "equipment/rittal-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/rittal-cad.json"
+    },
+    {
+      "id": "saginaw-cad",
+      "name": "Saginaw standard enclosure CAD search",
+      "manufacturer": "Saginaw Control and Engineering",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/saginaw-cad",
+      "recordPath": "equipment/saginaw-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/saginaw-cad.json"
+    },
+    {
+      "id": "audit-schmersal-lockout",
+      "name": "SZ150-1 lockout accessory CAD",
+      "manufacturer": "Schmersal",
+      "formats": [
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-schmersal-lockout",
+      "recordPath": "equipment/audit-schmersal-lockout.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-schmersal-lockout.json"
+    },
+    {
+      "id": "audit-socomec-displaymount",
+      "name": "DIRIS/ISOM display mounting-accessory CAD requests",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-socomec-displaymount",
+      "recordPath": "equipment/audit-socomec-displaymount.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-socomec-displaymount.json"
+    },
+    {
+      "id": "uk-abtech-bpg",
+      "name": "BPG enclosure CAD",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-bpg",
+      "recordPath": "equipment/uk-abtech-bpg.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-abtech-bpg.json"
+    },
+    {
+      "id": "uk-abtech-sx",
+      "name": "SX enclosure CAD",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-sx",
+      "recordPath": "equipment/uk-abtech-sx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-abtech-sx.json"
+    },
+    {
+      "id": "uk-abtech-zag",
+      "name": "ZAG enclosure CAD",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-zag",
+      "recordPath": "equipment/uk-abtech-zag.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-abtech-zag.json"
+    },
+    {
+      "id": "uk-abtech-zp",
+      "name": "ZP enclosure CAD",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-abtech-zp",
+      "recordPath": "equipment/uk-abtech-zp.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-abtech-zp.json"
+    },
+    {
+      "id": "europe-zpas-cad",
+      "name": "Enclosures, ePLAN macros and CAD support",
+      "manufacturer": "ZPAS",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-zpas-cad",
+      "recordPath": "equipment/europe-zpas-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-zpas-cad.json"
+    },
+    {
+      "id": "europe-spelsberg-cad",
+      "name": "GEOS and GTi enclosure CAD",
+      "manufacturer": "Spelsberg",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-spelsberg-cad",
+      "recordPath": "equipment/europe-spelsberg-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-spelsberg-cad.json"
+    },
+    {
+      "id": "abb-10103091sh118-outline-drawing-safety-switch-800-1200a-nema-type-1-3r-enclosure-8afcfbcd",
+      "name": "10103091SH118 - OUTLINE DRAWING-SAFETY SWITCH 800&1200A, NEMA-TYPE 1/3R ENCLOSURE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC920017D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-10103091sh118-outline-drawing-safety-switch-800-1200a-nema-type-1-3r-enclosure-8afcfbcd",
+      "recordPath": "equipment/abb-10103091sh118-outline-drawing-safety-switch-800-1200a-nema-type-1-3r-enclosure-8afcfbcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-10103091sh118-outline-drawing-safety-switch-800-1200a-nema-type-1-3r-enclosure-8afcfbcd.json"
+    },
+    {
+      "id": "abb-drawing-ud-2103677-xrcg4-enclosure-measurements-cd40c3ec",
+      "name": "Drawing - UD - 2103677 - XRCG4 enclosure measurements",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2103677",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-ud-2103677-xrcg4-enclosure-measurements-cd40c3ec",
+      "recordPath": "equipment/abb-drawing-ud-2103677-xrcg4-enclosure-measurements-cd40c3ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-ud-2103677-xrcg4-enclosure-measurements-cd40c3ec.json"
+    },
+    {
+      "id": "abb-drawing-139c5497sh1-outline-drawing-enclosure-te100f-te100s-nema-type-1-53fa6f8f",
+      "name": "Drawing 139C5497SH1 - Outline Drawing ENCLOSURE TE100F TE100S NEMA TYPE 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930092D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5497sh1-outline-drawing-enclosure-te100f-te100s-nema-type-1-53fa6f8f",
+      "recordPath": "equipment/abb-drawing-139c5497sh1-outline-drawing-enclosure-te100f-te100s-nema-type-1-53fa6f8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5497sh1-outline-drawing-enclosure-te100f-te100s-nema-type-1-53fa6f8f.json"
+    },
+    {
+      "id": "abb-drawing-139c5498sh1-outline-drawing-enclosure-te150r-nema-type-3r-eb7e044d",
+      "name": "Drawing 139C5498SH1 - Outline Drawing ENCLOSURE TE150R NEMA TYPE 3R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930093D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5498sh1-outline-drawing-enclosure-te150r-nema-type-3r-eb7e044d",
+      "recordPath": "equipment/abb-drawing-139c5498sh1-outline-drawing-enclosure-te150r-nema-type-3r-eb7e044d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5498sh1-outline-drawing-enclosure-te150r-nema-type-3r-eb7e044d.json"
+    },
+    {
+      "id": "abb-drawing-139c5498sh3-outline-drawing-enclosure-tqd225nr-nema-type-3r-37c590bb",
+      "name": "Drawing 139C5498SH3 - Outline Drawing ENCLOSURE TQD225NR NEMA TYPE 3R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930094D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5498sh3-outline-drawing-enclosure-tqd225nr-nema-type-3r-37c590bb",
+      "recordPath": "equipment/abb-drawing-139c5498sh3-outline-drawing-enclosure-tqd225nr-nema-type-3r-37c590bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5498sh3-outline-drawing-enclosure-tqd225nr-nema-type-3r-37c590bb.json"
+    },
+    {
+      "id": "abb-drawing-139c5651sh1-outline-drawing-enclosure-tqc100f-tqc100s-nema-type-1-6bc897e1",
+      "name": "Drawing 139C5651SH1 - Outline Drawing ENCLOSURE TQC100F TQC100S NEMA TYPE 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930095D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5651sh1-outline-drawing-enclosure-tqc100f-tqc100s-nema-type-1-6bc897e1",
+      "recordPath": "equipment/abb-drawing-139c5651sh1-outline-drawing-enclosure-tqc100f-tqc100s-nema-type-1-6bc897e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5651sh1-outline-drawing-enclosure-tqc100f-tqc100s-nema-type-1-6bc897e1.json"
+    },
+    {
+      "id": "abb-drawing-139c5651sh2-outline-drawing-enclosure-tql100-tql125-nema-type-1-51fa7e5e",
+      "name": "Drawing 139C5651SH2 - Outline Drawing ENCLOSURE TQL100 TQL125 NEMA TYPE 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930096D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5651sh2-outline-drawing-enclosure-tql100-tql125-nema-type-1-51fa7e5e",
+      "recordPath": "equipment/abb-drawing-139c5651sh2-outline-drawing-enclosure-tql100-tql125-nema-type-1-51fa7e5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5651sh2-outline-drawing-enclosure-tql100-tql125-nema-type-1-51fa7e5e.json"
+    },
+    {
+      "id": "abb-drawing-139c5652sh1-outline-drawing-enclosure-te100r-tql100r-nema-type-3r-4514d7ad",
+      "name": "Drawing 139C5652SH1 - Outline Drawing ENCLOSURE TE100R TQL100R NEMA TYPE 3R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930097D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5652sh1-outline-drawing-enclosure-te100r-tql100r-nema-type-3r-4514d7ad",
+      "recordPath": "equipment/abb-drawing-139c5652sh1-outline-drawing-enclosure-te100r-tql100r-nema-type-3r-4514d7ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5652sh1-outline-drawing-enclosure-te100r-tql100r-nema-type-3r-4514d7ad.json"
+    },
+    {
+      "id": "abb-drawing-139c5653sh1-outline-drawing-enclosure-te100d-te100j-nema-type-12-12x-fd8ccf94",
+      "name": "Drawing 139C5653SH1 - Outline Drawing ENCLOSURE TE100D TE100J NEMA TYPE 12/12X",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930098D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5653sh1-outline-drawing-enclosure-te100d-te100j-nema-type-12-12x-fd8ccf94",
+      "recordPath": "equipment/abb-drawing-139c5653sh1-outline-drawing-enclosure-te100d-te100j-nema-type-12-12x-fd8ccf94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5653sh1-outline-drawing-enclosure-te100d-te100j-nema-type-12-12x-fd8ccf94.json"
+    },
+    {
+      "id": "abb-drawing-139c5654sh1-outline-drawing-enclosure-te100cs-nema-type-4-4x-982405bf",
+      "name": "Drawing 139C5654SH1 - Outline Drawing ENCLOSURE TE100CS NEMA TYPE 4/4X",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930099D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-139c5654sh1-outline-drawing-enclosure-te100cs-nema-type-4-4x-982405bf",
+      "recordPath": "equipment/abb-drawing-139c5654sh1-outline-drawing-enclosure-te100cs-nema-type-4-4x-982405bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-139c5654sh1-outline-drawing-enclosure-te100cs-nema-type-4-4x-982405bf.json"
+    },
+    {
+      "id": "abb-drawing-208c2817sh1-outline-drawing-enclosure-tql70f-tql70s-nema-type-1-4321934a",
+      "name": "Drawing 208C2817SH1 - Outline Drawing ENCLOSURE TQL70F TQL70S NEMA TYPE 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930100D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-208c2817sh1-outline-drawing-enclosure-tql70f-tql70s-nema-type-1-4321934a",
+      "recordPath": "equipment/abb-drawing-208c2817sh1-outline-drawing-enclosure-tql70f-tql70s-nema-type-1-4321934a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-208c2817sh1-outline-drawing-enclosure-tql70f-tql70s-nema-type-1-4321934a.json"
+    },
+    {
+      "id": "abb-drawing-208c2891sh3-outline-drawing-enclosure-te100s-te100f-nema-type-1-e28df480",
+      "name": "Drawing 208C2891SH3 - Outline Drawing ENCLOSURE TE100S TE100F NEMA TYPE 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930101D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-208c2891sh3-outline-drawing-enclosure-te100s-te100f-nema-type-1-e28df480",
+      "recordPath": "equipment/abb-drawing-208c2891sh3-outline-drawing-enclosure-te100s-te100f-nema-type-1-e28df480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-208c2891sh3-outline-drawing-enclosure-te100s-te100f-nema-type-1-e28df480.json"
+    },
+    {
+      "id": "abb-drawing-208c2891sh6-outline-drawing-enclosure-te100sb-nema-type-1-f2b9224b",
+      "name": "Drawing 208C2891SH6 - Outline Drawing ENCLOSURE TE100SB NEMA TYPE 1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930102D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-208c2891sh6-outline-drawing-enclosure-te100sb-nema-type-1-f2b9224b",
+      "recordPath": "equipment/abb-drawing-208c2891sh6-outline-drawing-enclosure-te100sb-nema-type-1-f2b9224b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-208c2891sh6-outline-drawing-enclosure-te100sb-nema-type-1-f2b9224b.json"
+    },
+    {
+      "id": "abb-drawing-208c3061sh1-outline-drawing-enclosure-tql70r-nema-type-3r-c5dade10",
+      "name": "Drawing 208C3061SH1 - Outline Drawing ENCLOSURE TQL70R NEMA TYPE 3R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930113D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-208c3061sh1-outline-drawing-enclosure-tql70r-nema-type-3r-c5dade10",
+      "recordPath": "equipment/abb-drawing-208c3061sh1-outline-drawing-enclosure-tql70r-nema-type-3r-c5dade10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-208c3061sh1-outline-drawing-enclosure-tql70r-nema-type-3r-c5dade10.json"
+    },
+    {
+      "id": "abb-drawing-gem3133-1600a-and-2000a-enclosure-500dff5c",
+      "name": "Drawing GEM3133 - 1600A and 2000A Enclosure",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930075D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-gem3133-1600a-and-2000a-enclosure-500dff5c",
+      "recordPath": "equipment/abb-drawing-gem3133-1600a-and-2000a-enclosure-500dff5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-gem3133-1600a-and-2000a-enclosure-500dff5c.json"
+    },
+    {
+      "id": "abb-drawings-outline-and-dimensional-nema-1-enclosures-4171a218",
+      "name": "Drawings-Outline and Dimensional NEMA 1 Enclosures",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC173005D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawings-outline-and-dimensional-nema-1-enclosures-4171a218",
+      "recordPath": "equipment/abb-drawings-outline-and-dimensional-nema-1-enclosures-4171a218.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawings-outline-and-dimensional-nema-1-enclosures-4171a218.json"
+    },
+    {
+      "id": "abb-enclosures-3fd8f4b8",
+      "name": "Enclosures",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK105713A7744",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-enclosures-3fd8f4b8",
+      "recordPath": "equipment/abb-enclosures-3fd8f4b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-enclosures-3fd8f4b8.json"
+    },
+    {
+      "id": "abb-enclosures-for-automation-ip65-53e614f1",
+      "name": "Enclosures for automation IP65",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK105713A7745",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-enclosures-for-automation-ip65-53e614f1",
+      "recordPath": "equipment/abb-enclosures-for-automation-ip65-53e614f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-enclosures-for-automation-ip65-53e614f1.json"
+    },
+    {
+      "id": "abb-external-enclosures-843c7a66",
+      "name": "External Enclosures",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK105713A7749",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-external-enclosures-843c7a66",
+      "recordPath": "equipment/abb-external-enclosures-843c7a66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-external-enclosures-843c7a66.json"
+    },
+    {
+      "id": "abb-internal-enclosures-72ccebca",
+      "name": "Internal enclosures",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK105713A7746",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-internal-enclosures-72ccebca",
+      "recordPath": "equipment/abb-internal-enclosures-72ccebca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-internal-enclosures-72ccebca.json"
+    },
+    {
+      "id": "abb-multimedia-enclosures-5faf73d8",
+      "name": "Multimedia Enclosures",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK105713A7747",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-multimedia-enclosures-5faf73d8",
+      "recordPath": "equipment/abb-multimedia-enclosures-5faf73d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-multimedia-enclosures-5faf73d8.json"
+    },
+    {
+      "id": "abb-outline-drawing-heavy-duty-safety-switch-100a-nema-type-3r-vw-enclosure-619bfe0b",
+      "name": "OUTLINE DRAWING-HEAVY DUTY SAFETY SWITCH 100A, NEMA-TYPE 3R VW ENCLOSURE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC920058D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-heavy-duty-safety-switch-100a-nema-type-3r-vw-enclosure-619bfe0b",
+      "recordPath": "equipment/abb-outline-drawing-heavy-duty-safety-switch-100a-nema-type-3r-vw-enclosure-619bfe0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-heavy-duty-safety-switch-100a-nema-type-3r-vw-enclosure-619bfe0b.json"
+    },
+    {
+      "id": "abb-outline-drawing-a2encl200nr-fa2-2p-200a-narrow-enclosure-nema-3r-283802b5",
+      "name": "Outline Drawing - A2ENCL200NR FA2 2P 200A NARROW ENCLOSURE-NEMA 3R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC930128D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-a2encl200nr-fa2-2p-200a-narrow-enclosure-nema-3r-283802b5",
+      "recordPath": "equipment/abb-outline-drawing-a2encl200nr-fa2-2p-200a-narrow-enclosure-nema-3r-283802b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-a2encl200nr-fa2-2p-200a-narrow-enclosure-nema-3r-283802b5.json"
+    },
+    {
+      "id": "drawing-013500-00-2d0b54b43af4",
+      "name": "013500-00 enclosure door switch",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-013500-00-2d0b54b43af4",
+      "recordPath": "equipment/drawing-013500-00-2d0b54b43af4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-013500-00-2d0b54b43af4.json"
+    },
+    {
+      "id": "drawing-31547revc-87bd2ac86493",
+      "name": "Abtech BPG6-F120 enclosure: 31547 revision C DWG",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-31547revc-87bd2ac86493",
+      "recordPath": "equipment/drawing-31547revc-87bd2ac86493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-31547revc-87bd2ac86493.json"
+    },
+    {
+      "id": "drawing-31548revc-634ce0ac5571",
+      "name": "Abtech BPG8-F160 enclosure: 31548 revision C DWG",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-31548revc-634ce0ac5571",
+      "recordPath": "equipment/drawing-31548revc-634ce0ac5571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-31548revc-634ce0ac5571.json"
+    },
+    {
+      "id": "drawing-au-enlasche-15a1233c476b",
+      "name": "Hensel ENYCASE external mounting-tab STEP",
+      "manufacturer": "Hensel",
+      "formats": [
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-au-enlasche-15a1233c476b",
+      "recordPath": "equipment/drawing-au-enlasche-15a1233c476b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-au-enlasche-15a1233c476b.json"
+    },
+    {
+      "id": "drawing-bpg-1-3b5476f559c0",
+      "name": "Abtech BPG 1 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-1-3b5476f559c0",
+      "recordPath": "equipment/drawing-bpg-1-3b5476f559c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-1-3b5476f559c0.json"
+    },
+    {
+      "id": "drawing-bpg-10-5f77429e5205",
+      "name": "Abtech BPG 10 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-10-5f77429e5205",
+      "recordPath": "equipment/drawing-bpg-10-5f77429e5205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-10-5f77429e5205.json"
+    },
+    {
+      "id": "drawing-bpg-11-3959e80b5b5a",
+      "name": "Abtech BPG 11 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-11-3959e80b5b5a",
+      "recordPath": "equipment/drawing-bpg-11-3959e80b5b5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-11-3959e80b5b5a.json"
+    },
+    {
+      "id": "drawing-bpg-12-9feab26646f4",
+      "name": "Abtech BPG 12 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-12-9feab26646f4",
+      "recordPath": "equipment/drawing-bpg-12-9feab26646f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-12-9feab26646f4.json"
+    },
+    {
+      "id": "drawing-bpg-13-f2f7aa7a204b",
+      "name": "Abtech BPG 13 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-13-f2f7aa7a204b",
+      "recordPath": "equipment/drawing-bpg-13-f2f7aa7a204b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-13-f2f7aa7a204b.json"
+    },
+    {
+      "id": "drawing-bpg-13-5-815f80f21fc5",
+      "name": "Abtech BPG 13.5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-13-5-815f80f21fc5",
+      "recordPath": "equipment/drawing-bpg-13-5-815f80f21fc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-13-5-815f80f21fc5.json"
+    },
+    {
+      "id": "drawing-bpg-14-ecbe565b0238",
+      "name": "Abtech BPG 14 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-14-ecbe565b0238",
+      "recordPath": "equipment/drawing-bpg-14-ecbe565b0238.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-14-ecbe565b0238.json"
+    },
+    {
+      "id": "drawing-bpg-15-4b1ac85306fb",
+      "name": "Abtech BPG 15 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-15-4b1ac85306fb",
+      "recordPath": "equipment/drawing-bpg-15-4b1ac85306fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-15-4b1ac85306fb.json"
+    },
+    {
+      "id": "drawing-bpg-2-ce5210fbb593",
+      "name": "Abtech BPG 2 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-2-ce5210fbb593",
+      "recordPath": "equipment/drawing-bpg-2-ce5210fbb593.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-2-ce5210fbb593.json"
+    },
+    {
+      "id": "drawing-bpg-3-97e5bb783dc4",
+      "name": "Abtech BPG 3 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-3-97e5bb783dc4",
+      "recordPath": "equipment/drawing-bpg-3-97e5bb783dc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-3-97e5bb783dc4.json"
+    },
+    {
+      "id": "drawing-bpg-4-415340345175",
+      "name": "Abtech BPG 4 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-4-415340345175",
+      "recordPath": "equipment/drawing-bpg-4-415340345175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-4-415340345175.json"
+    },
+    {
+      "id": "drawing-bpg-5-c314692da517",
+      "name": "Abtech BPG 5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-5-c314692da517",
+      "recordPath": "equipment/drawing-bpg-5-c314692da517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-5-c314692da517.json"
+    },
+    {
+      "id": "drawing-bpg-6-421f6a6f0e0e",
+      "name": "Abtech BPG 6 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-6-421f6a6f0e0e",
+      "recordPath": "equipment/drawing-bpg-6-421f6a6f0e0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-6-421f6a6f0e0e.json"
+    },
+    {
+      "id": "drawing-bpg-7-98148da03df2",
+      "name": "Abtech BPG 7 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-7-98148da03df2",
+      "recordPath": "equipment/drawing-bpg-7-98148da03df2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-7-98148da03df2.json"
+    },
+    {
+      "id": "drawing-bpg-8-a90634fe78b4",
+      "name": "Abtech BPG 8 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-8-a90634fe78b4",
+      "recordPath": "equipment/drawing-bpg-8-a90634fe78b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-8-a90634fe78b4.json"
+    },
+    {
+      "id": "drawing-bpg-9-87f603f87914",
+      "name": "Abtech BPG 9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg-9-87f603f87914",
+      "recordPath": "equipment/drawing-bpg-9-87f603f87914.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg-9-87f603f87914.json"
+    },
+    {
+      "id": "drawing-bpg12-5-ca765aa528a2",
+      "name": "Abtech BPG12.5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg12-5-ca765aa528a2",
+      "recordPath": "equipment/drawing-bpg12-5-ca765aa528a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg12-5-ca765aa528a2.json"
+    },
+    {
+      "id": "drawing-bpg2-5-eca5774ace0c",
+      "name": "Abtech BPG2.5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg2-5-eca5774ace0c",
+      "recordPath": "equipment/drawing-bpg2-5-eca5774ace0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg2-5-eca5774ace0c.json"
+    },
+    {
+      "id": "drawing-bpg3-5-fa8af246d0af",
+      "name": "Abtech BPG3.5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg3-5-fa8af246d0af",
+      "recordPath": "equipment/drawing-bpg3-5-fa8af246d0af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg3-5-fa8af246d0af.json"
+    },
+    {
+      "id": "drawing-bpg4-5-b236c531e723",
+      "name": "Abtech BPG4.5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpg4-5-b236c531e723",
+      "recordPath": "equipment/drawing-bpg4-5-b236c531e723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpg4-5-b236c531e723.json"
+    },
+    {
+      "id": "drawing-bpga-120-02f8db527ed2",
+      "name": "Abtech BPGA 120 CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpga-120-02f8db527ed2",
+      "recordPath": "equipment/drawing-bpga-120-02f8db527ed2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpga-120-02f8db527ed2.json"
+    },
+    {
+      "id": "drawing-bpga-125-2279f6a1ca2d",
+      "name": "Abtech BPGA 125 CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpga-125-2279f6a1ca2d",
+      "recordPath": "equipment/drawing-bpga-125-2279f6a1ca2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpga-125-2279f6a1ca2d.json"
+    },
+    {
+      "id": "drawing-bpga-160-a605c028a3c8",
+      "name": "Abtech BPGA 160 CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bpga-160-a605c028a3c8",
+      "recordPath": "equipment/drawing-bpga-160-a605c028a3c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bpga-160-a605c028a3c8.json"
+    },
+    {
+      "id": "drawing-de-932-80ea9df03e2f",
+      "name": "Hensel ENYCASE DE 932 STEP model",
+      "manufacturer": "Hensel",
+      "formats": [
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-de-932-80ea9df03e2f",
+      "recordPath": "equipment/drawing-de-932-80ea9df03e2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-de-932-80ea9df03e2f.json"
+    },
+    {
+      "id": "drawing-dk12-8709d7d588e5",
+      "name": "DK12 enclosure drip shield",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dk12-8709d7d588e5",
+      "recordPath": "equipment/drawing-dk12-8709d7d588e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dk12-8709d7d588e5.json"
+    },
+    {
+      "id": "drawing-dk16-e0ef9f6e5ae4",
+      "name": "DK16 enclosure drip shield",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dk16-e0ef9f6e5ae4",
+      "recordPath": "equipment/drawing-dk16-e0ef9f6e5ae4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dk16-e0ef9f6e5ae4.json"
+    },
+    {
+      "id": "drawing-dk20-cfbe5fe4b692",
+      "name": "DK20 enclosure drip shield",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dk20-cfbe5fe4b692",
+      "recordPath": "equipment/drawing-dk20-cfbe5fe4b692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dk20-cfbe5fe4b692.json"
+    },
+    {
+      "id": "drawing-dk24-a8699ae555c9",
+      "name": "DK24 enclosure drip shield",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dk24-a8699ae555c9",
+      "recordPath": "equipment/drawing-dk24-a8699ae555c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dk24-a8699ae555c9.json"
+    },
+    {
+      "id": "drawing-fk0608-ba6a0d73b3b6",
+      "name": "FK0608 enclosure installation accessory drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-fk0608-ba6a0d73b3b6",
+      "recordPath": "equipment/drawing-fk0608-ba6a0d73b3b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-fk0608-ba6a0d73b3b6.json"
+    },
+    {
+      "id": "drawing-fk0610-2a209b2ae580",
+      "name": "FK0610 enclosure installation accessory drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-fk0610-2a209b2ae580",
+      "recordPath": "equipment/drawing-fk0610-2a209b2ae580.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-fk0610-2a209b2ae580.json"
+    },
+    {
+      "id": "drawing-fk0618-e59a9984ed68",
+      "name": "FK0618 enclosure installation accessory drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-fk0618-e59a9984ed68",
+      "recordPath": "equipment/drawing-fk0618-e59a9984ed68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-fk0618-e59a9984ed68.json"
+    },
+    {
+      "id": "drawing-fk0624-16267eb08075",
+      "name": "FK0624 enclosure installation accessory drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-fk0624-16267eb08075",
+      "recordPath": "equipment/drawing-fk0624-16267eb08075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-fk0624-16267eb08075.json"
+    },
+    {
+      "id": "drawing-hfwdr12c-43ee9a136246",
+      "name": "HFWDR12C mounting-rail component",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwdr12c-43ee9a136246",
+      "recordPath": "equipment/drawing-hfwdr12c-43ee9a136246.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwdr12c-43ee9a136246.json"
+    },
+    {
+      "id": "drawing-hfwdr16c-7fcdf536b1de",
+      "name": "HFWDR16C mounting-rail component",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwdr16c-7fcdf536b1de",
+      "recordPath": "equipment/drawing-hfwdr16c-7fcdf536b1de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwdr16c-7fcdf536b1de.json"
+    },
+    {
+      "id": "drawing-hfwdr20c-78bcee21b00b",
+      "name": "HFWDR20C mounting-rail component",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwdr20c-78bcee21b00b",
+      "recordPath": "equipment/drawing-hfwdr20c-78bcee21b00b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwdr20c-78bcee21b00b.json"
+    },
+    {
+      "id": "drawing-hfwdr24c-c8b256f3b210",
+      "name": "HFWDR24C mounting-rail component",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwdr24c-c8b256f3b210",
+      "recordPath": "equipment/drawing-hfwdr24c-c8b256f3b210.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwdr24c-c8b256f3b210.json"
+    },
+    {
+      "id": "drawing-hfwnsp1212c-0cb0c127d1b3",
+      "name": "HFWNSP1212C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp1212c-0cb0c127d1b3",
+      "recordPath": "equipment/drawing-hfwnsp1212c-0cb0c127d1b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp1212c-0cb0c127d1b3.json"
+    },
+    {
+      "id": "drawing-hfwnsp1612c-2852fca67b67",
+      "name": "HFWNSP1612C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp1612c-2852fca67b67",
+      "recordPath": "equipment/drawing-hfwnsp1612c-2852fca67b67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp1612c-2852fca67b67.json"
+    },
+    {
+      "id": "drawing-hfwnsp1616c-dc618e230094",
+      "name": "HFWNSP1616C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp1616c-dc618e230094",
+      "recordPath": "equipment/drawing-hfwnsp1616c-dc618e230094.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp1616c-dc618e230094.json"
+    },
+    {
+      "id": "drawing-hfwnsp1620c-7ee3cda8457d",
+      "name": "HFWNSP1620C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp1620c-7ee3cda8457d",
+      "recordPath": "equipment/drawing-hfwnsp1620c-7ee3cda8457d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp1620c-7ee3cda8457d.json"
+    },
+    {
+      "id": "drawing-hfwnsp2016c-bfd510dd967c",
+      "name": "HFWNSP2016C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp2016c-bfd510dd967c",
+      "recordPath": "equipment/drawing-hfwnsp2016c-bfd510dd967c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp2016c-bfd510dd967c.json"
+    },
+    {
+      "id": "drawing-hfwnsp2020c-4fc0c1a98154",
+      "name": "HFWNSP2020C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp2020c-4fc0c1a98154",
+      "recordPath": "equipment/drawing-hfwnsp2020c-4fc0c1a98154.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp2020c-4fc0c1a98154.json"
+    },
+    {
+      "id": "drawing-hfwnsp2024c-f8d10eb58886",
+      "name": "HFWNSP2024C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp2024c-f8d10eb58886",
+      "recordPath": "equipment/drawing-hfwnsp2024c-f8d10eb58886.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp2024c-f8d10eb58886.json"
+    },
+    {
+      "id": "drawing-hfwnsp2416c-42831a60214b",
+      "name": "HFWNSP2416C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp2416c-42831a60214b",
+      "recordPath": "equipment/drawing-hfwnsp2416c-42831a60214b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp2416c-42831a60214b.json"
+    },
+    {
+      "id": "drawing-hfwnsp2420c-3e6e2ef3371f",
+      "name": "HFWNSP2420C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp2420c-3e6e2ef3371f",
+      "recordPath": "equipment/drawing-hfwnsp2420c-3e6e2ef3371f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp2420c-3e6e2ef3371f.json"
+    },
+    {
+      "id": "drawing-hfwnsp2424c-45d5185326a5",
+      "name": "HFWNSP2424C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp2424c-45d5185326a5",
+      "recordPath": "equipment/drawing-hfwnsp2424c-45d5185326a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp2424c-45d5185326a5.json"
+    },
+    {
+      "id": "drawing-hfwnsp3020c-08911c31db26",
+      "name": "HFWNSP3020C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp3020c-08911c31db26",
+      "recordPath": "equipment/drawing-hfwnsp3020c-08911c31db26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp3020c-08911c31db26.json"
+    },
+    {
+      "id": "drawing-hfwnsp3024c-ea5f2997ec4e",
+      "name": "HFWNSP3024C swing-out mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hfwnsp3024c-ea5f2997ec4e",
+      "recordPath": "equipment/drawing-hfwnsp3024c-ea5f2997ec4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hfwnsp3024c-ea5f2997ec4e.json"
+    },
+    {
+      "id": "drawing-hw-carryinghandle-783508fded2e",
+      "name": "HW-CARRYINGHANDLE enclosure handle",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-hw-carryinghandle-783508fded2e",
+      "recordPath": "equipment/drawing-hw-carryinghandle-783508fded2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-hw-carryinghandle-783508fded2e.json"
+    },
+    {
+      "id": "drawing-n1p0606-66bbe7c32664",
+      "name": "N1P0606 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p0606-66bbe7c32664",
+      "recordPath": "equipment/drawing-n1p0606-66bbe7c32664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p0606-66bbe7c32664.json"
+    },
+    {
+      "id": "drawing-n1p0608-c4f37f9a7b47",
+      "name": "N1P0608 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p0608-c4f37f9a7b47",
+      "recordPath": "equipment/drawing-n1p0608-c4f37f9a7b47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p0608-c4f37f9a7b47.json"
+    },
+    {
+      "id": "drawing-n1p0808-186a7954fd9c",
+      "name": "N1P0808 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p0808-186a7954fd9c",
+      "recordPath": "equipment/drawing-n1p0808-186a7954fd9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p0808-186a7954fd9c.json"
+    },
+    {
+      "id": "drawing-n1p0810-e5913d594811",
+      "name": "N1P0810 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p0810-e5913d594811",
+      "recordPath": "equipment/drawing-n1p0810-e5913d594811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p0810-e5913d594811.json"
+    },
+    {
+      "id": "drawing-n1p1010-b6c3165244f5",
+      "name": "N1P1010 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1010-b6c3165244f5",
+      "recordPath": "equipment/drawing-n1p1010-b6c3165244f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1010-b6c3165244f5.json"
+    },
+    {
+      "id": "drawing-n1p1012-94265da2410e",
+      "name": "N1P1012 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1012-94265da2410e",
+      "recordPath": "equipment/drawing-n1p1012-94265da2410e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1012-94265da2410e.json"
+    },
+    {
+      "id": "drawing-n1p1212-4166a262151a",
+      "name": "N1P1212 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1212-4166a262151a",
+      "recordPath": "equipment/drawing-n1p1212-4166a262151a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1212-4166a262151a.json"
+    },
+    {
+      "id": "drawing-n1p1214-09dbcaf22850",
+      "name": "N1P1214 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1214-09dbcaf22850",
+      "recordPath": "equipment/drawing-n1p1214-09dbcaf22850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1214-09dbcaf22850.json"
+    },
+    {
+      "id": "drawing-n1p1216-7edbca60df56",
+      "name": "N1P1216 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1216-7edbca60df56",
+      "recordPath": "equipment/drawing-n1p1216-7edbca60df56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1216-7edbca60df56.json"
+    },
+    {
+      "id": "drawing-n1p1216l-4078c3b1954e",
+      "name": "N1P1216L enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1216l-4078c3b1954e",
+      "recordPath": "equipment/drawing-n1p1216l-4078c3b1954e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1216l-4078c3b1954e.json"
+    },
+    {
+      "id": "drawing-n1p1220-05e83621ec18",
+      "name": "N1P1220 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1220-05e83621ec18",
+      "recordPath": "equipment/drawing-n1p1220-05e83621ec18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1220-05e83621ec18.json"
+    },
+    {
+      "id": "drawing-n1p1616-5ff9a7f72017",
+      "name": "N1P1616 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1616-5ff9a7f72017",
+      "recordPath": "equipment/drawing-n1p1616-5ff9a7f72017.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1616-5ff9a7f72017.json"
+    },
+    {
+      "id": "drawing-n1p1620-6b667ac0ffb1",
+      "name": "N1P1620 enclosure mounting panel drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-n1p1620-6b667ac0ffb1",
+      "recordPath": "equipment/drawing-n1p1620-6b667ac0ffb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-n1p1620-6b667ac0ffb1.json"
+    },
+    {
+      "id": "drawing-sx0-140-4gp-faef0c806368",
+      "name": "SX0_140 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx0-140-4gp-faef0c806368",
+      "recordPath": "equipment/drawing-sx0-140-4gp-faef0c806368.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx0-140-4gp-faef0c806368.json"
+    },
+    {
+      "id": "drawing-sx0-200-4gp-0a463cd1e05d",
+      "name": "SX0_200 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx0-200-4gp-0a463cd1e05d",
+      "recordPath": "equipment/drawing-sx0-200-4gp-0a463cd1e05d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx0-200-4gp-0a463cd1e05d.json"
+    },
+    {
+      "id": "drawing-sx0-5-140-4gp-9ab0e6de57ea",
+      "name": "SX0.5_140 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx0-5-140-4gp-9ab0e6de57ea",
+      "recordPath": "equipment/drawing-sx0-5-140-4gp-9ab0e6de57ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx0-5-140-4gp-9ab0e6de57ea.json"
+    },
+    {
+      "id": "drawing-sx0-5-200-4gp-dc4eb3ea76b7",
+      "name": "SX0.5_200 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx0-5-200-4gp-dc4eb3ea76b7",
+      "recordPath": "equipment/drawing-sx0-5-200-4gp-dc4eb3ea76b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx0-5-200-4gp-dc4eb3ea76b7.json"
+    },
+    {
+      "id": "drawing-sx1-140-4gp-b0941c87eb4c",
+      "name": "SX1_140 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx1-140-4gp-b0941c87eb4c",
+      "recordPath": "equipment/drawing-sx1-140-4gp-b0941c87eb4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx1-140-4gp-b0941c87eb4c.json"
+    },
+    {
+      "id": "drawing-sx1-200-4gp-19a460077a6c",
+      "name": "SX1_200 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx1-200-4gp-19a460077a6c",
+      "recordPath": "equipment/drawing-sx1-200-4gp-19a460077a6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx1-200-4gp-19a460077a6c.json"
+    },
+    {
+      "id": "drawing-sx1-5-140-4gp-ce389ff80de7",
+      "name": "SX1.5_140 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx1-5-140-4gp-ce389ff80de7",
+      "recordPath": "equipment/drawing-sx1-5-140-4gp-ce389ff80de7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx1-5-140-4gp-ce389ff80de7.json"
+    },
+    {
+      "id": "drawing-sx1-5-200-4gp-3a89a7e86834",
+      "name": "SX1.5_200 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx1-5-200-4gp-3a89a7e86834",
+      "recordPath": "equipment/drawing-sx1-5-200-4gp-3a89a7e86834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx1-5-200-4gp-3a89a7e86834.json"
+    },
+    {
+      "id": "drawing-sx1-5-300-4gp-dcb4478ea6b9",
+      "name": "SX1.5_300 4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx1-5-300-4gp-dcb4478ea6b9",
+      "recordPath": "equipment/drawing-sx1-5-300-4gp-dcb4478ea6b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx1-5-300-4gp-dcb4478ea6b9.json"
+    },
+    {
+      "id": "drawing-sx2-140-4gp-9099b018195d",
+      "name": "SX2_140_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx2-140-4gp-9099b018195d",
+      "recordPath": "equipment/drawing-sx2-140-4gp-9099b018195d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx2-140-4gp-9099b018195d.json"
+    },
+    {
+      "id": "drawing-sx2-200-4gp-21ee0c8f6464",
+      "name": "SX2_200_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx2-200-4gp-21ee0c8f6464",
+      "recordPath": "equipment/drawing-sx2-200-4gp-21ee0c8f6464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx2-200-4gp-21ee0c8f6464.json"
+    },
+    {
+      "id": "drawing-sx3-140-4gp-0ec81859b903",
+      "name": "SX3_140_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx3-140-4gp-0ec81859b903",
+      "recordPath": "equipment/drawing-sx3-140-4gp-0ec81859b903.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx3-140-4gp-0ec81859b903.json"
+    },
+    {
+      "id": "drawing-sx3-200-4gp-f3853191e2e5",
+      "name": "SX3_200_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx3-200-4gp-f3853191e2e5",
+      "recordPath": "equipment/drawing-sx3-200-4gp-f3853191e2e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx3-200-4gp-f3853191e2e5.json"
+    },
+    {
+      "id": "drawing-sx3-300-4gp-9675a8b8a16e",
+      "name": "SX3_300_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx3-300-4gp-9675a8b8a16e",
+      "recordPath": "equipment/drawing-sx3-300-4gp-9675a8b8a16e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx3-300-4gp-9675a8b8a16e.json"
+    },
+    {
+      "id": "drawing-sx4-140-4gp-d361fca787db",
+      "name": "SX4_140_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx4-140-4gp-d361fca787db",
+      "recordPath": "equipment/drawing-sx4-140-4gp-d361fca787db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx4-140-4gp-d361fca787db.json"
+    },
+    {
+      "id": "drawing-sx4-200-4gp-31b3a7712cfa",
+      "name": "SX4_200_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx4-200-4gp-31b3a7712cfa",
+      "recordPath": "equipment/drawing-sx4-200-4gp-31b3a7712cfa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx4-200-4gp-31b3a7712cfa.json"
+    },
+    {
+      "id": "drawing-sx4-300-4gp-57e56ac6bf77",
+      "name": "SX4_300_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx4-300-4gp-57e56ac6bf77",
+      "recordPath": "equipment/drawing-sx4-300-4gp-57e56ac6bf77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx4-300-4gp-57e56ac6bf77.json"
+    },
+    {
+      "id": "drawing-sx45-73f45884bfc7",
+      "name": "SX45 electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx45-73f45884bfc7",
+      "recordPath": "equipment/drawing-sx45-73f45884bfc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx45-73f45884bfc7.json"
+    },
+    {
+      "id": "drawing-sx5-140-4gp-ed6328599059",
+      "name": "SX5_140_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx5-140-4gp-ed6328599059",
+      "recordPath": "equipment/drawing-sx5-140-4gp-ed6328599059.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx5-140-4gp-ed6328599059.json"
+    },
+    {
+      "id": "drawing-sx5-200-4gp-f5ecbd94d1c3",
+      "name": "SX5_200_4GP electrical enclosure component",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sx5-200-4gp-f5ecbd94d1c3",
+      "recordPath": "equipment/drawing-sx5-200-4gp-f5ecbd94d1c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sx5-200-4gp-f5ecbd94d1c3.json"
+    },
+    {
+      "id": "drawing-wa7230sof19-1451a1fc11ae",
+      "name": "WA7230SOF19 swing-out enclosure accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wa7230sof19-1451a1fc11ae",
+      "recordPath": "equipment/drawing-wa7230sof19-1451a1fc11ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wa7230sof19-1451a1fc11ae.json"
+    },
+    {
+      "id": "drawing-wa7236sof19-5a93eb981e23",
+      "name": "WA7236SOF19 swing-out enclosure accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wa7236sof19-5a93eb981e23",
+      "recordPath": "equipment/drawing-wa7236sof19-5a93eb981e23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wa7236sof19-5a93eb981e23.json"
+    },
+    {
+      "id": "drawing-wa9036sof19-40a4749a8f69",
+      "name": "WA9036SOF19 swing-out enclosure accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wa9036sof19-40a4749a8f69",
+      "recordPath": "equipment/drawing-wa9036sof19-40a4749a8f69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wa9036sof19-40a4749a8f69.json"
+    },
+    {
+      "id": "drawing-wacshelf12-227ce9527211",
+      "name": "WACSHELF12 enclosure shelf",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wacshelf12-227ce9527211",
+      "recordPath": "equipment/drawing-wacshelf12-227ce9527211.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wacshelf12-227ce9527211.json"
+    },
+    {
+      "id": "drawing-wacshelf18-b8f976259f21",
+      "name": "WACSHELF18 enclosure shelf",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wacshelf18-b8f976259f21",
+      "recordPath": "equipment/drawing-wacshelf18-b8f976259f21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wacshelf18-b8f976259f21.json"
+    },
+    {
+      "id": "drawing-wal3a-9fcf4cc34002",
+      "name": "WAL3A enclosure handle",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wal3a-9fcf4cc34002",
+      "recordPath": "equipment/drawing-wal3a-9fcf4cc34002.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wal3a-9fcf4cc34002.json"
+    },
+    {
+      "id": "drawing-wal3ass-a076664a7da9",
+      "name": "WAL3ASS enclosure handle",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wal3ass-a076664a7da9",
+      "recordPath": "equipment/drawing-wal3ass-a076664a7da9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wal3ass-a076664a7da9.json"
+    },
+    {
+      "id": "drawing-wal3b-cdc8b9c5fed6",
+      "name": "WAL3B enclosure handle",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wal3b-cdc8b9c5fed6",
+      "recordPath": "equipment/drawing-wal3b-cdc8b9c5fed6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wal3b-cdc8b9c5fed6.json"
+    },
+    {
+      "id": "drawing-wapwk0503nf-ab961198a7aa",
+      "name": "WAPWK0503NF enclosure viewing accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wapwk0503nf-ab961198a7aa",
+      "recordPath": "equipment/drawing-wapwk0503nf-ab961198a7aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wapwk0503nf-ab961198a7aa.json"
+    },
+    {
+      "id": "drawing-wapwk0905nf-d747379927b0",
+      "name": "WAPWK0905NF enclosure viewing accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wapwk0905nf-d747379927b0",
+      "recordPath": "equipment/drawing-wapwk0905nf-d747379927b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wapwk0905nf-d747379927b0.json"
+    },
+    {
+      "id": "drawing-wapwk0905ss-696f6c421f02",
+      "name": "WAPWK0905SS enclosure viewing accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-wapwk0905ss-696f6c421f02",
+      "recordPath": "equipment/drawing-wapwk0905ss-696f6c421f02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-wapwk0905ss-696f6c421f02.json"
+    },
+    {
+      "id": "drawing-zag-1-91c8f749f004",
+      "name": "Abtech ZAG 1 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-1-91c8f749f004",
+      "recordPath": "equipment/drawing-zag-1-91c8f749f004.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-1-91c8f749f004.json"
+    },
+    {
+      "id": "drawing-zag-10-9-4d86c14bb199",
+      "name": "Abtech ZAG 10-9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-10-9-4d86c14bb199",
+      "recordPath": "equipment/drawing-zag-10-9-4d86c14bb199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-10-9-4d86c14bb199.json"
+    },
+    {
+      "id": "drawing-zag-11-baec63049e9a",
+      "name": "Abtech ZAG 11 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-11-baec63049e9a",
+      "recordPath": "equipment/drawing-zag-11-baec63049e9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-11-baec63049e9a.json"
+    },
+    {
+      "id": "drawing-zag-12-1f55b0a995b6",
+      "name": "Abtech ZAG 12 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-12-1f55b0a995b6",
+      "recordPath": "equipment/drawing-zag-12-1f55b0a995b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-12-1f55b0a995b6.json"
+    },
+    {
+      "id": "drawing-zag-13-bbd85bf26fd7",
+      "name": "Abtech ZAG 13 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-13-bbd85bf26fd7",
+      "recordPath": "equipment/drawing-zag-13-bbd85bf26fd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-13-bbd85bf26fd7.json"
+    },
+    {
+      "id": "drawing-zag-14-aa74c54dcd5f",
+      "name": "Abtech ZAG 14 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-14-aa74c54dcd5f",
+      "recordPath": "equipment/drawing-zag-14-aa74c54dcd5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-14-aa74c54dcd5f.json"
+    },
+    {
+      "id": "drawing-zag-2-3e64f461eea5",
+      "name": "Abtech ZAG 2 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-2-3e64f461eea5",
+      "recordPath": "equipment/drawing-zag-2-3e64f461eea5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-2-3e64f461eea5.json"
+    },
+    {
+      "id": "drawing-zag-3-d3cb168f7481",
+      "name": "Abtech ZAG 3 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-3-d3cb168f7481",
+      "recordPath": "equipment/drawing-zag-3-d3cb168f7481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-3-d3cb168f7481.json"
+    },
+    {
+      "id": "drawing-zag-4-7db66271d22d",
+      "name": "Abtech ZAG 4 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-4-7db66271d22d",
+      "recordPath": "equipment/drawing-zag-4-7db66271d22d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-4-7db66271d22d.json"
+    },
+    {
+      "id": "drawing-zag-5-e2d5ae321c34",
+      "name": "Abtech ZAG 5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-5-e2d5ae321c34",
+      "recordPath": "equipment/drawing-zag-5-e2d5ae321c34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-5-e2d5ae321c34.json"
+    },
+    {
+      "id": "drawing-zag-6-8b260578116a",
+      "name": "Abtech ZAG 6 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-6-8b260578116a",
+      "recordPath": "equipment/drawing-zag-6-8b260578116a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-6-8b260578116a.json"
+    },
+    {
+      "id": "drawing-zag-7-a89156fcd382",
+      "name": "Abtech ZAG 7 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-7-a89156fcd382",
+      "recordPath": "equipment/drawing-zag-7-a89156fcd382.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-7-a89156fcd382.json"
+    },
+    {
+      "id": "drawing-zag-8-2de6629ad21f",
+      "name": "Abtech ZAG 8 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-8-2de6629ad21f",
+      "recordPath": "equipment/drawing-zag-8-2de6629ad21f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-8-2de6629ad21f.json"
+    },
+    {
+      "id": "drawing-zag-9-9-c8793fa2641a",
+      "name": "Abtech ZAG 9-9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-9-9-c8793fa2641a",
+      "recordPath": "equipment/drawing-zag-9-9-c8793fa2641a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-9-9-c8793fa2641a.json"
+    },
+    {
+      "id": "drawing-zag-9-8701f0e8d1f6",
+      "name": "Abtech ZAG 9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag-9-8701f0e8d1f6",
+      "recordPath": "equipment/drawing-zag-9-8701f0e8d1f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag-9-8701f0e8d1f6.json"
+    },
+    {
+      "id": "drawing-zag10-10-9-c88a293b6c20",
+      "name": "Abtech ZAG10_10.9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag10-10-9-c88a293b6c20",
+      "recordPath": "equipment/drawing-zag10-10-9-c88a293b6c20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag10-10-9-c88a293b6c20.json"
+    },
+    {
+      "id": "drawing-zag10-69cbbdf28b18",
+      "name": "Abtech ZAG10 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag10-69cbbdf28b18",
+      "recordPath": "equipment/drawing-zag10-69cbbdf28b18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag10-69cbbdf28b18.json"
+    },
+    {
+      "id": "drawing-zag10-9-4e869a5cd726",
+      "name": "Abtech ZAG10.9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag10-9-4e869a5cd726",
+      "recordPath": "equipment/drawing-zag10-9-4e869a5cd726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag10-9-4e869a5cd726.json"
+    },
+    {
+      "id": "drawing-zag15-0796481548ca",
+      "name": "Abtech ZAG15 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag15-0796481548ca",
+      "recordPath": "equipment/drawing-zag15-0796481548ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag15-0796481548ca.json"
+    },
+    {
+      "id": "drawing-zag16-452be319d6ae",
+      "name": "Abtech ZAG16 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag16-452be319d6ae",
+      "recordPath": "equipment/drawing-zag16-452be319d6ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag16-452be319d6ae.json"
+    },
+    {
+      "id": "drawing-zag9-9-43c4f74ec14d",
+      "name": "Abtech ZAG9.9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zag9-9-43c4f74ec14d",
+      "recordPath": "equipment/drawing-zag9-9-43c4f74ec14d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zag9-9-43c4f74ec14d.json"
+    },
+    {
+      "id": "drawing-zp-1-asm-8ae877ff84e4",
+      "name": "Abtech ZP 1 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-1-asm-8ae877ff84e4",
+      "recordPath": "equipment/drawing-zp-1-asm-8ae877ff84e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-1-asm-8ae877ff84e4.json"
+    },
+    {
+      "id": "drawing-zp-10-asm-6cac753e9b48",
+      "name": "Abtech ZP 10 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-10-asm-6cac753e9b48",
+      "recordPath": "equipment/drawing-zp-10-asm-6cac753e9b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-10-asm-6cac753e9b48.json"
+    },
+    {
+      "id": "drawing-zp-11-asm-6d30ee930d49",
+      "name": "Abtech ZP 11 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-11-asm-6d30ee930d49",
+      "recordPath": "equipment/drawing-zp-11-asm-6d30ee930d49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-11-asm-6d30ee930d49.json"
+    },
+    {
+      "id": "drawing-zp-12-asm-cd6635416de0",
+      "name": "Abtech ZP 12 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-12-asm-cd6635416de0",
+      "recordPath": "equipment/drawing-zp-12-asm-cd6635416de0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-12-asm-cd6635416de0.json"
+    },
+    {
+      "id": "drawing-zp-13-asm-ac0aa56251ca",
+      "name": "Abtech ZP 13 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-13-asm-ac0aa56251ca",
+      "recordPath": "equipment/drawing-zp-13-asm-ac0aa56251ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-13-asm-ac0aa56251ca.json"
+    },
+    {
+      "id": "drawing-zp-14-asm-d117eb7f4471",
+      "name": "Abtech ZP 14 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-14-asm-d117eb7f4471",
+      "recordPath": "equipment/drawing-zp-14-asm-d117eb7f4471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-14-asm-d117eb7f4471.json"
+    },
+    {
+      "id": "drawing-zp-15-asm-573bc4baa536",
+      "name": "Abtech ZP 15 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-15-asm-573bc4baa536",
+      "recordPath": "equipment/drawing-zp-15-asm-573bc4baa536.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-15-asm-573bc4baa536.json"
+    },
+    {
+      "id": "drawing-zp-16-asm-f4d2a45a0a7e",
+      "name": "Abtech ZP 16 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-16-asm-f4d2a45a0a7e",
+      "recordPath": "equipment/drawing-zp-16-asm-f4d2a45a0a7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-16-asm-f4d2a45a0a7e.json"
+    },
+    {
+      "id": "drawing-zp-17-asm-ce02bce3a55a",
+      "name": "Abtech ZP 17 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-17-asm-ce02bce3a55a",
+      "recordPath": "equipment/drawing-zp-17-asm-ce02bce3a55a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-17-asm-ce02bce3a55a.json"
+    },
+    {
+      "id": "drawing-zp-18-asm-d72435d94d27",
+      "name": "Abtech ZP 18 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-18-asm-d72435d94d27",
+      "recordPath": "equipment/drawing-zp-18-asm-d72435d94d27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-18-asm-d72435d94d27.json"
+    },
+    {
+      "id": "drawing-zp-19-asm-a2bbc7f7066c",
+      "name": "Abtech ZP 19 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-19-asm-a2bbc7f7066c",
+      "recordPath": "equipment/drawing-zp-19-asm-a2bbc7f7066c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-19-asm-a2bbc7f7066c.json"
+    },
+    {
+      "id": "drawing-zp-2-asm-09deb718226e",
+      "name": "Abtech ZP 2 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-2-asm-09deb718226e",
+      "recordPath": "equipment/drawing-zp-2-asm-09deb718226e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-2-asm-09deb718226e.json"
+    },
+    {
+      "id": "drawing-zp-3-asm-42d25f37a85e",
+      "name": "Abtech ZP 3 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-3-asm-42d25f37a85e",
+      "recordPath": "equipment/drawing-zp-3-asm-42d25f37a85e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-3-asm-42d25f37a85e.json"
+    },
+    {
+      "id": "drawing-zp-4-asm-06d0954a57b6",
+      "name": "Abtech ZP 4 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-4-asm-06d0954a57b6",
+      "recordPath": "equipment/drawing-zp-4-asm-06d0954a57b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-4-asm-06d0954a57b6.json"
+    },
+    {
+      "id": "drawing-zp-5-asm-740363b61ae8",
+      "name": "Abtech ZP 5 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-5-asm-740363b61ae8",
+      "recordPath": "equipment/drawing-zp-5-asm-740363b61ae8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-5-asm-740363b61ae8.json"
+    },
+    {
+      "id": "drawing-zp-6-asm-dd1b58e7eb7b",
+      "name": "Abtech ZP 6 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-6-asm-dd1b58e7eb7b",
+      "recordPath": "equipment/drawing-zp-6-asm-dd1b58e7eb7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-6-asm-dd1b58e7eb7b.json"
+    },
+    {
+      "id": "drawing-zp-7-asm-01c4ca996594",
+      "name": "Abtech ZP 7 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-7-asm-01c4ca996594",
+      "recordPath": "equipment/drawing-zp-7-asm-01c4ca996594.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-7-asm-01c4ca996594.json"
+    },
+    {
+      "id": "drawing-zp-8-asm-b9dabe6c20b7",
+      "name": "Abtech ZP 8 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-8-asm-b9dabe6c20b7",
+      "recordPath": "equipment/drawing-zp-8-asm-b9dabe6c20b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-8-asm-b9dabe6c20b7.json"
+    },
+    {
+      "id": "drawing-zp-9-asm-afa4657a6dcc",
+      "name": "Abtech ZP 9 enclosure CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-9-asm-afa4657a6dcc",
+      "recordPath": "equipment/drawing-zp-9-asm-afa4657a6dcc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-9-asm-afa4657a6dcc.json"
+    },
+    {
+      "id": "drawing-zp-l-foot-2822459f774c",
+      "name": "Abtech ZP L FOOT mounting foot CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-l-foot-2822459f774c",
+      "recordPath": "equipment/drawing-zp-l-foot-2822459f774c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-l-foot-2822459f774c.json"
+    },
+    {
+      "id": "drawing-zp-r-foot-23a6dfbbcabb",
+      "name": "Abtech ZP R FOOT mounting foot CAD files",
+      "manufacturer": "Abtech",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-zp-r-foot-23a6dfbbcabb",
+      "recordPath": "equipment/drawing-zp-r-foot-23a6dfbbcabb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-zp-r-foot-23a6dfbbcabb.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-a8ae120613",
+      "name": "Files for assembling the ACX580 inverter in SENPLUS cabinet plugin drawers. (GAVETAS PLUGIN - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0415",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-a8ae120613",
+      "recordPath": "equipment/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-a8ae120613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-plugin-drawers-gavetas-plugin-p-a8ae120613.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-d93e4d120a",
+      "name": "Files for assembling the ACX580 inverter in SENPLUS cabinet pull-out drawers. (GAVETAS EXTRAÍVEIS - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0413",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-d93e4d120a",
+      "recordPath": "equipment/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-d93e4d120a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-d93e4d120a.json"
+    },
+    {
+      "id": "abb-files-for-assembling-the-acx580-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-7e48548b9b",
+      "name": "Files for assembling the ACX580 inverter in SENPLUS fixed cabinet drawers. (GAVETAS FIXAS - PT-BR)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0414",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-files-for-assembling-the-acx580-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-7e48548b9b",
+      "recordPath": "equipment/abb-files-for-assembling-the-acx580-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-7e48548b9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-files-for-assembling-the-acx580-inverter-in-senplus-fixed-cabinet-drawers-gavetas-fixas-pt-7e48548b9b.json"
+    },
+    {
+      "id": "abb-is2-automation-enclosure-3d-drawings-2025-review-e59e81bcd0",
+      "name": "IS2 Automation enclosure 3D drawings (2025 REVIEW)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106713A1191",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-is2-automation-enclosure-3d-drawings-2025-review-e59e81bcd0",
+      "recordPath": "equipment/abb-is2-automation-enclosure-3d-drawings-2025-review-e59e81bcd0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-is2-automation-enclosure-3d-drawings-2025-review-e59e81bcd0.json"
+    },
+    {
+      "id": "abb-is2-automation-enclosure-dwg-drawings-55b382724c",
+      "name": "IS2 Automation enclosure DWG drawings",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A4155; 9AKK108469A4156",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-is2-automation-enclosure-dwg-drawings-55b382724c",
+      "recordPath": "equipment/abb-is2-automation-enclosure-dwg-drawings-55b382724c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-is2-automation-enclosure-dwg-drawings-55b382724c.json"
+    },
+    {
+      "id": "abb-installation-plate-615-to-mcx91-2d2320e1c5",
+      "name": "Installation plate 615 to MCX91",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA031734P0001",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-installation-plate-615-to-mcx91-2d2320e1c5",
+      "recordPath": "equipment/abb-installation-plate-615-to-mcx91-2d2320e1c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-installation-plate-615-to-mcx91-2d2320e1c5.json"
+    },
+    {
+      "id": "abb-installation-plate-615-to-spa300-5d09e594ca",
+      "name": "Installation plate 615 to SPA300",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA026756P0001",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-installation-plate-615-to-spa300-5d09e594ca",
+      "recordPath": "equipment/abb-installation-plate-615-to-spa300-5d09e594ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-installation-plate-615-to-spa300-5d09e594ca.json"
+    },
+    {
+      "id": "abb-tle-1000kva-stp-model-file-b7494f1b60",
+      "name": "TLE 1000kVA STP Model File",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A6616",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-1000kva-stp-model-file-b7494f1b60",
+      "recordPath": "equipment/abb-tle-1000kva-stp-model-file-b7494f1b60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-1000kva-stp-model-file-b7494f1b60.json"
+    },
+    {
+      "id": "abb-tle-160-250kva-stp-model-file-e11631f331",
+      "name": "TLE 160-250kVA STP Model File",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A6613",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-160-250kva-stp-model-file-e11631f331",
+      "recordPath": "equipment/abb-tle-160-250kva-stp-model-file-e11631f331.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-160-250kva-stp-model-file-e11631f331.json"
+    },
+    {
+      "id": "abb-tle-625-750kva-stp-model-file-be33cd83d5",
+      "name": "TLE 625-750kVA STP Model File",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A8349",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-625-750kva-stp-model-file-be33cd83d5",
+      "recordPath": "equipment/abb-tle-625-750kva-stp-model-file-be33cd83d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-625-750kva-stp-model-file-be33cd83d5.json"
+    },
+    {
+      "id": "abb-10103091sh283-outline-drawing-pdf-59af1f000d",
+      "name": "10103091sh283_outline drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A3631",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-10103091sh283-outline-drawing-pdf-59af1f000d",
+      "recordPath": "equipment/abb-10103091sh283-outline-drawing-pdf-59af1f000d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-10103091sh283-outline-drawing-pdf-59af1f000d.json"
+    },
+    {
+      "id": "abb-10103091sh284-outline-drawing-pdf-a3d3e83307",
+      "name": "10103091sh284_outline drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A3635",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-10103091sh284-outline-drawing-pdf-a3d3e83307",
+      "recordPath": "equipment/abb-10103091sh284-outline-drawing-pdf-a3d3e83307.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-10103091sh284-outline-drawing-pdf-a3d3e83307.json"
+    },
+    {
+      "id": "abb-10103091sh285-outline-drawing-pdf-ed7d8389c7",
+      "name": "10103091sh285_outline drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A3636",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-10103091sh285-outline-drawing-pdf-ed7d8389c7",
+      "recordPath": "equipment/abb-10103091sh285-outline-drawing-pdf-ed7d8389c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-10103091sh285-outline-drawing-pdf-ed7d8389c7.json"
+    },
+    {
+      "id": "abb-10103091sh286-outline-drawing-pdf-fc625062fa",
+      "name": "10103091sh286_outline drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A3637",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-10103091sh286-outline-drawing-pdf-fc625062fa",
+      "recordPath": "equipment/abb-10103091sh286-outline-drawing-pdf-fc625062fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-10103091sh286-outline-drawing-pdf-fc625062fa.json"
+    },
+    {
+      "id": "abb-10103091sh287-outline-drawing-pdf-9b5229303e",
+      "name": "10103091sh287_outline drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A3638",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-10103091sh287-outline-drawing-pdf-9b5229303e",
+      "recordPath": "equipment/abb-10103091sh287-outline-drawing-pdf-9b5229303e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-10103091sh287-outline-drawing-pdf-9b5229303e.json"
+    },
+    {
+      "id": "abb-abb-bc55-battery-cabinet-drawing-8148046053",
+      "name": "ABB BC55 Battery Cabinet Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A9209",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-abb-bc55-battery-cabinet-drawing-8148046053",
+      "recordPath": "equipment/abb-abb-bc55-battery-cabinet-drawing-8148046053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-abb-bc55-battery-cabinet-drawing-8148046053.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ib132-enclosure-194ddd4696",
+      "name": "Dimension Drawing - IB132 Enclosure",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAM200441F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ib132-enclosure-194ddd4696",
+      "recordPath": "equipment/abb-dimension-drawing-ib132-enclosure-194ddd4696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ib132-enclosure-194ddd4696.json"
+    },
+    {
+      "id": "abb-outline-dpa-20-120-battery-cabinet-dwg-0a8c69397c",
+      "name": "Outline DPA 20-120 Battery Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "BC43",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-dpa-20-120-battery-cabinet-dwg-0a8c69397c",
+      "recordPath": "equipment/abb-outline-dpa-20-120-battery-cabinet-dwg-0a8c69397c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-dpa-20-120-battery-cabinet-dwg-0a8c69397c.json"
+    },
+    {
+      "id": "abb-outline-dpa-300-500-battery-cabinet-dwg-1155d0c8b9",
+      "name": "Outline DPA 300-500 Battery Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "BC58",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-dpa-300-500-battery-cabinet-dwg-1155d0c8b9",
+      "recordPath": "equipment/abb-outline-dpa-300-500-battery-cabinet-dwg-1155d0c8b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-dpa-300-500-battery-cabinet-dwg-1155d0c8b9.json"
+    },
+    {
+      "id": "abb-u020nn-outline-drawing-7d25c99d8e",
+      "name": "U020NN Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "U020NN",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u020nn-outline-drawing-7d25c99d8e",
+      "recordPath": "equipment/abb-u020nn-outline-drawing-7d25c99d8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u020nn-outline-drawing-7d25c99d8e.json"
+    },
+    {
+      "id": "abb-u020nnp-outline-drawing-b17d58aaed",
+      "name": "U020NNP Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "U020NNP",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u020nnp-outline-drawing-b17d58aaed",
+      "recordPath": "equipment/abb-u020nnp-outline-drawing-b17d58aaed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u020nnp-outline-drawing-b17d58aaed.json"
+    },
+    {
+      "id": "abb-u030nn-outline-drawing-dc5bc8f641",
+      "name": "U030NN Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "U030NN",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u030nn-outline-drawing-dc5bc8f641",
+      "recordPath": "equipment/abb-u030nn-outline-drawing-dc5bc8f641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u030nn-outline-drawing-dc5bc8f641.json"
+    },
+    {
+      "id": "abb-u030nnp-outline-drawing-cf30e46c30",
+      "name": "U030NNP Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "U030NNP",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u030nnp-outline-drawing-cf30e46c30",
+      "recordPath": "equipment/abb-u030nnp-outline-drawing-cf30e46c30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u030nnp-outline-drawing-cf30e46c30.json"
+    },
+    {
+      "id": "abb-u050nn-outline-drawing-92ed3a6969",
+      "name": "U050NN Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "U050NN",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u050nn-outline-drawing-92ed3a6969",
+      "recordPath": "equipment/abb-u050nn-outline-drawing-92ed3a6969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u050nn-outline-drawing-92ed3a6969.json"
+    },
+    {
+      "id": "abb-u050nnp-outline-drawing-d9cf2a2ce4",
+      "name": "U050NNP Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "U050NNP",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u050nnp-outline-drawing-d9cf2a2ce4",
+      "recordPath": "equipment/abb-u050nnp-outline-drawing-d9cf2a2ce4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u050nnp-outline-drawing-d9cf2a2ce4.json"
+    }
+  ]
+}

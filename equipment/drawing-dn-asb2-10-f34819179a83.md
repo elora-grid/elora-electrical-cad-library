@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/DINnectors/Accessories a
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+When placing DN-ASB2-10 in a rail-mounted electrical assembly, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Check the accessory attachment, release direction and supported interface before placing nearby devices. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Other PLC Products/DINnectors/Accessories and DIN Rail/DN-ASB2-10.dwg, a 134,587-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. This accessory outline does not establish the geometry or load capacity of the complete supporting rail assembly. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

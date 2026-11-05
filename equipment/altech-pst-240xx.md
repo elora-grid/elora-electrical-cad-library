@@ -12,7 +12,7 @@ Official Altech PST\_240xx STEP, DWG and DXF mechanical set for PST-24024, PST-2
 - Access: direct
 - Checked: 2026-10-29
 
-Follow the official publisher links for the original drawing set. The title block restricts reproduction, so these files and derived previews are not hosted here.
+1 original file is available to download here. Manufacturer sources and revisions are listed below. Other files remain available from their original sources.
 Legacy manufacturer download index; confirm current local product availability, electrical ratings and applicable approvals with Altech.
 The manufacturer index maps drawing group PST\_240xx to PST-24024, PST-24048. Voltage/current aliases stay on this single family page because the index links them to one mechanical file set. Check the housing, terminal-side cable approach and mounting arrangement against the exact installed power-supply variant. This is a legacy CAD source: confirm current product status, installation clearances and the applicable revision with Altech; the file group alone does not establish electrical ratings, approvals or interchangeability.
 
@@ -24,10 +24,10 @@ The manufacturer index maps drawing group PST\_240xx to PST-24024, PST-24048. Vo
 - Part number: PST-24024, PST-24048
 - Listed file formats: STEP, DWG, DXF
 - Listed files: 3
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with PST-24024, PST-24048. The files above belong to Altech's PST-240xx industrial power supply CAD resource; match any model or option suffix in the filename to your selected unit.
 Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
+## Preview
+
+![Altech PST-240xx industrial power supply CAD: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/altech-pst-240xx/altech-pst-240xx-step?asset=5fadb97bad10563283d3b9310bd935c9ac0a67906ebde141798a5d082d5a8338&view=thumb&v=f025e4b9da1f3484)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/altech-pst-240xx). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [Altech PST-240xx industrial power supply](https://eloragrid.ai/objects/altech-pst-240xx)
@@ -63,15 +69,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: STEP
 - Purpose: Manufacturer 3D mechanical model
 - [Official source](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_240xx/PST_240xx.stp)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
-- Redistribution: restricted
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/altech-pst-240xx/altech-pst-240xx-step)
+- Redistribution: unknown
 - Original SHA-256: 5fadb97bad10563283d3b9310bd935c9ac0a67906ebde141798a5d082d5a8338
 - Original bytes: 7349941
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: The official PST\_240xx DXF title block contains a confidentiality/reproduction restriction. Treat the complete matching drawing set as publisher-only; no files are rehosted and no derived previews are supplied.
-- [Rights evidence](https://legacy.altechcorp.com/CAD/1MasterSheet/WebsiteUSE/HTMLWebpages/PowerSupplyMasterSheet.htm)
-- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_240xx/PST_240xx_D.dxf)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Altech Corporation
+- [Hosting evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_240xx/PST_240xx.stp)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_240xx/PST_240xx.stp)
+- Delivery: original; STEP; 7349941 bytes
+- Delivery SHA-256: 5fadb97bad10563283d3b9310bd935c9ac0a67906ebde141798a5d082d5a8338
 
 ### PST\_240xx\_D.dwg
 

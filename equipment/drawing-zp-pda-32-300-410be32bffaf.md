@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/ZIPport PIC/ZP-PDA-32
 
 A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
 
-In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+When placing ZP-PDA-32-300 in a panel-to-field wiring interface, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Keep the mating or release direction clear of cable duct and the enclosure wall. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Enclosures and Wiring/ZIPport PIC/ZP-PDA-32-300.DWG, a 238,935-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A component outline does not prove that the housing, insert, contacts and seals form a compatible complete connector. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

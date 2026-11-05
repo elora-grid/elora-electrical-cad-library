@@ -32,7 +32,7 @@ Select the exact VEGA product and configuration in the official download search.
 
 This manufacturer resource helps you find drawings or select versions of level instruments, pressure instruments, process sensors. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected level instruments drawing before reserving its space, mounting points and cable routes in the layout.
+A tank designer can request the chosen radar-level instrument’s connection and envelope while documenting its electrical interface separately.
 
 Select the exact VEGA product and configuration in the official download search. Specify process connection, probe or antenna arrangement, housing and orientation as applicable. A family drawing is a starting point; obtain the configuration-specific resource before coordinating a vessel opening or adjacent equipment.
 

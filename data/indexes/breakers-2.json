@@ -1,0 +1,3007 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 2,
+  "entries": [
+    {
+      "id": "abb-xt4-3p-fixed-flange-fld-874a4915",
+      "name": "XT4 3p FIXED FLANGE FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0573",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-flange-fld-874a4915",
+      "recordPath": "equipment/abb-xt4-3p-fixed-flange-fld-874a4915.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-flange-fld-874a4915.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-f-top-e-bottom-c3442560",
+      "name": "XT5 3p Fixed F top e bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1117",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-f-top-e-bottom-c3442560",
+      "recordPath": "equipment/abb-xt5-3p-fixed-f-top-e-bottom-c3442560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-f-top-e-bottom-c3442560.json"
+    },
+    {
+      "id": "abb-xt6-3p-fixed-fccual-2x500kcmil-top-7cf21004",
+      "name": "XT6 3p Fixed FCCuAl 2x500kcmil top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1497",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-3p-fixed-fccual-2x500kcmil-top-7cf21004",
+      "recordPath": "equipment/abb-xt6-3p-fixed-fccual-2x500kcmil-top-7cf21004.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-3p-fixed-fccual-2x500kcmil-top-7cf21004.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-ps-100mm-bottom-f5f634fc",
+      "name": "XT7-XT7M 3p Fixed PS 100mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1352",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-ps-100mm-bottom-f5f634fc",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-ps-100mm-bottom-f5f634fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-ps-100mm-bottom-f5f634fc.json"
+    },
+    {
+      "id": "abb-4-pole-low-voltage-mccb-t2-fixed-version-front-terminals-for-cu-al-cable-820522c2",
+      "name": "4 Pole low voltage MCCB -T2 - Fixed version front terminals for Cu-Al cable",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0012105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-low-voltage-mccb-t2-fixed-version-front-terminals-for-cu-al-cable-820522c2",
+      "recordPath": "equipment/abb-4-pole-low-voltage-mccb-t2-fixed-version-front-terminals-for-cu-al-cable-820522c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-low-voltage-mccb-t2-fixed-version-front-terminals-for-cu-al-cable-820522c2.json"
+    },
+    {
+      "id": "abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-a5931ef0",
+      "name": "E1.2 IV F WALL FIXING F EF FcCuAl ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0062",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-a5931ef0",
+      "recordPath": "equipment/abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-a5931ef0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-a5931ef0.json"
+    },
+    {
+      "id": "abb-e6-2-iv-fs-f-floor-fixing-external-ul-fcc211ee",
+      "name": "E6.2 IV FS F FLOOR FIXING EXTERNAL - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0252",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-2-iv-fs-f-floor-fixing-external-ul-fcc211ee",
+      "recordPath": "equipment/abb-e6-2-iv-fs-f-floor-fixing-external-ul-fcc211ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-2-iv-fs-f-floor-fixing-external-ul-fcc211ee.json"
+    },
+    {
+      "id": "abb-s2-4p-fixed-version-front-terminals-low-cover-984dd9e2",
+      "name": "S2 4p Fixed version Front terminals - low cover",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s2-4p-fixed-version-front-terminals-low-cover-984dd9e2",
+      "recordPath": "equipment/abb-s2-4p-fixed-version-front-terminals-low-cover-984dd9e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s2-4p-fixed-version-front-terminals-low-cover-984dd9e2.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s3-7c6b0dfd",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version terminals cable S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812011",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s3-7c6b0dfd",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s3-7c6b0dfd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s3-7c6b0dfd.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s4-9259e7c9",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version rear terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812151",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s4-9259e7c9",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s4-9259e7c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s4-9259e7c9.json"
+    },
+    {
+      "id": "abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-7d725a08",
+      "name": "3Pole low voltage MCCB series Isomax - Withdrawable version front terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812341",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-7d725a08",
+      "recordPath": "equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-7d725a08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-7d725a08.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s6-96ebd683",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version front terminals S6",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601840151",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s6-96ebd683",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s6-96ebd683.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s6-96ebd683.json"
+    },
+    {
+      "id": "abb-s7-3p-fixed-version-front-terminals-1000-v-bee706f0",
+      "name": "S7 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s7-3p-fixed-version-front-terminals-1000-v-bee706f0",
+      "recordPath": "equipment/abb-s7-3p-fixed-version-front-terminals-1000-v-bee706f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s7-3p-fixed-version-front-terminals-1000-v-bee706f0.json"
+    },
+    {
+      "id": "abb-ts3-3p-withdrawable-front-terminals-cd8b12a6",
+      "name": "Ts3 3p Withdrawable front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-3p-withdrawable-front-terminals-cd8b12a6",
+      "recordPath": "equipment/abb-ts3-3p-withdrawable-front-terminals-cd8b12a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-3p-withdrawable-front-terminals-cd8b12a6.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-fccual-up-0e05ecdf",
+      "name": "XT1 3p FIXED FCCuAl UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0010",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-fccual-up-0e05ecdf",
+      "recordPath": "equipment/abb-xt1-3p-fixed-fccual-up-0e05ecdf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-fccual-up-0e05ecdf.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-fccual-low-7cbcde4e",
+      "name": "XT2 3p FIXED FCCuAl LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0160",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-fccual-low-7cbcde4e",
+      "recordPath": "equipment/abb-xt2-3p-fixed-fccual-low-7cbcde4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-fccual-low-7cbcde4e.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-flange-rc-b5c04dd4",
+      "name": "XT3 3p FIXED FLANGE RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0426",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-flange-rc-b5c04dd4",
+      "recordPath": "equipment/abb-xt3-3p-fixed-flange-rc-b5c04dd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-flange-rc-b5c04dd4.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-htc-low-4204ad04",
+      "name": "XT4 3p FIXED HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0565",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-htc-low-4204ad04",
+      "recordPath": "equipment/abb-xt4-3p-fixed-htc-low-4204ad04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-htc-low-4204ad04.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-ps-100mm-bottom-fdaede95",
+      "name": "XT5 3p Fixed PS 100mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1148",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-ps-100mm-bottom-fdaede95",
+      "recordPath": "equipment/abb-xt5-3p-fixed-ps-100mm-bottom-fdaede95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-ps-100mm-bottom-fdaede95.json"
+    },
+    {
+      "id": "abb-xt6-3p-fixed-fixation-screws-5b754435",
+      "name": "XT6 3p Fixed fixation screws",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1194",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-3p-fixed-fixation-screws-5b754435",
+      "recordPath": "equipment/abb-xt6-3p-fixed-fixation-screws-5b754435.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-3p-fixed-fixation-screws-5b754435.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-ps-100mm-top-8e293c68",
+      "name": "XT7-XT7M 3p Fixed PS 100mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1350",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-ps-100mm-top-8e293c68",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-ps-100mm-top-8e293c68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-ps-100mm-top-8e293c68.json"
+    },
+    {
+      "id": "abb-4-pole-low-voltage-mccb-t2-plug-in-version-extended-front-terminals-86c71b7d",
+      "name": "4 Pole low voltage MCCB -T2 - Plug-in version extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0012121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-low-voltage-mccb-t2-plug-in-version-extended-front-terminals-86c71b7d",
+      "recordPath": "equipment/abb-4-pole-low-voltage-mccb-t2-plug-in-version-extended-front-terminals-86c71b7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-low-voltage-mccb-t2-plug-in-version-extended-front-terminals-86c71b7d.json"
+    },
+    {
+      "id": "abb-e1-2-iv-f-wall-fixing-hr-vr-stp-ul-938be44e",
+      "name": "E1.2 IV F WALL FIXING HR VR.stp - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0064",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-f-wall-fixing-hr-vr-stp-ul-938be44e",
+      "recordPath": "equipment/abb-e1-2-iv-f-wall-fixing-hr-vr-stp-ul-938be44e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-f-wall-fixing-hr-vr-stp-ul-938be44e.json"
+    },
+    {
+      "id": "abb-e6-2-iv-fs-w-floor-fixing-ul-ac360e73",
+      "name": "E6.2 IV FS W FLOOR FIXING - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0266",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-2-iv-fs-w-floor-fixing-ul-ac360e73",
+      "recordPath": "equipment/abb-e6-2-iv-fs-w-floor-fixing-ul-ac360e73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-2-iv-fs-w-floor-fixing-ul-ac360e73.json"
+    },
+    {
+      "id": "abb-s2-4p-fixed-version-front-terminals-e-top-cover-da736148",
+      "name": "S2 4p Fixed version Front terminals e top cover",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855241",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s2-4p-fixed-version-front-terminals-e-top-cover-da736148",
+      "recordPath": "equipment/abb-s2-4p-fixed-version-front-terminals-e-top-cover-da736148.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s2-4p-fixed-version-front-terminals-e-top-cover-da736148.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s3-7e8d44f8",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version cable terminals S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812501",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s3-7e8d44f8",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s3-7e8d44f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s3-7e8d44f8.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s4-c90e2470",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version terminals cable S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812031",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s4-c90e2470",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s4-c90e2470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s4-c90e2470.json"
+    },
+    {
+      "id": "abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-75e61d55",
+      "name": "3Pole low voltage MCCB series Isomax - Withdrawable version front terminals S5/630 (400A)",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812951",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-75e61d55",
+      "recordPath": "equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-75e61d55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-75e61d55.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s6-d8ea07d6",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S6",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601840191",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s6-d8ea07d6",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s6-d8ea07d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s6-d8ea07d6.json"
+    },
+    {
+      "id": "abb-ts3-3p-withdrawable-rear-terminals-60ffe1b5",
+      "name": "Ts3 3p Withdrawable rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0113",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-3p-withdrawable-rear-terminals-60ffe1b5",
+      "recordPath": "equipment/abb-ts3-3p-withdrawable-rear-terminals-60ffe1b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-3p-withdrawable-rear-terminals-60ffe1b5.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-flange-226667ad",
+      "name": "XT1 3p FIXED FLANGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0013",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-flange-226667ad",
+      "recordPath": "equipment/abb-xt1-3p-fixed-flange-226667ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-flange-226667ad.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-fccual-up-b8e6c521",
+      "name": "XT2 3p FIXED FCCuAl UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0161",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-fccual-up-b8e6c521",
+      "recordPath": "equipment/abb-xt2-3p-fixed-fccual-up-b8e6c521.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-fccual-up-b8e6c521.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-htc-low-529ff55a",
+      "name": "XT3 3p FIXED HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0418",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-htc-low-529ff55a",
+      "recordPath": "equipment/abb-xt3-3p-fixed-htc-low-529ff55a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-htc-low-529ff55a.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-htc-up-363ef7b9",
+      "name": "XT4 3p FIXED HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0566",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-htc-up-363ef7b9",
+      "recordPath": "equipment/abb-xt4-3p-fixed-htc-up-363ef7b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-htc-up-363ef7b9.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-ps-100mm-top-5a1a3f0e",
+      "name": "XT5 3p Fixed PS 100mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1149",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-ps-100mm-top-5a1a3f0e",
+      "recordPath": "equipment/abb-xt5-3p-fixed-ps-100mm-top-5a1a3f0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-ps-100mm-top-5a1a3f0e.json"
+    },
+    {
+      "id": "abb-xt6-3p-withdrawable-800a-ef-bottom-f54bbfee",
+      "name": "XT6 3p Withdrawable 800A EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1262",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-3p-withdrawable-800a-ef-bottom-f54bbfee",
+      "recordPath": "equipment/abb-xt6-3p-withdrawable-800a-ef-bottom-f54bbfee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-3p-withdrawable-800a-ef-bottom-f54bbfee.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-ps-200mm-bottom-2d11bf34",
+      "name": "XT7-XT7M 3p Fixed PS 200mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1360",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-ps-200mm-bottom-2d11bf34",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-ps-200mm-bottom-2d11bf34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-ps-200mm-bottom-2d11bf34.json"
+    },
+    {
+      "id": "abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-cable-710063f7",
+      "name": "4 Pole low voltage MCCB -T2 - Plug-in version front terminals for Cu cable",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0012117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-cable-710063f7",
+      "recordPath": "equipment/abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-cable-710063f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-cable-710063f7.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-compartment-door-drilling-4eec319f",
+      "name": "E1.2 IV W COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0066",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-compartment-door-drilling-4eec319f",
+      "recordPath": "equipment/abb-e1-2-iv-w-compartment-door-drilling-4eec319f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-compartment-door-drilling-4eec319f.json"
+    },
+    {
+      "id": "abb-e6-2-iv-w-floor-fixing-50fb7f1a",
+      "name": "E6.2 IV W FLOOR FIXING",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0291",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-2-iv-w-floor-fixing-50fb7f1a",
+      "recordPath": "equipment/abb-e6-2-iv-w-floor-fixing-50fb7f1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-2-iv-w-floor-fixing-50fb7f1a.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s3-2a55f578",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version front terminals S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812191",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s3-2a55f578",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s3-2a55f578.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s3-2a55f578.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s4-b1e1c222",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version cable terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812521",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s4-b1e1c222",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s4-b1e1c222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s4-b1e1c222.json"
+    },
+    {
+      "id": "abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-857dab50",
+      "name": "3Pole low voltage MCCB series Isomax - Withdrawable version front terminals S5/630 (630A)",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812891",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-857dab50",
+      "recordPath": "equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-857dab50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-857dab50.json"
+    },
+    {
+      "id": "abb-s6-3p-fixed-version-front-terminals-1000-v-759b3996",
+      "name": "S6 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035071",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6-3p-fixed-version-front-terminals-1000-v-759b3996",
+      "recordPath": "equipment/abb-s6-3p-fixed-version-front-terminals-1000-v-759b3996.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6-3p-fixed-version-front-terminals-1000-v-759b3996.json"
+    },
+    {
+      "id": "abb-ts3-4p-fixed-front-spread-extended-terminals-f7c481dc",
+      "name": "Ts3 4p Fixed front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0131",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-fixed-front-spread-extended-terminals-f7c481dc",
+      "recordPath": "equipment/abb-ts3-4p-fixed-front-spread-extended-terminals-f7c481dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-fixed-front-spread-extended-terminals-f7c481dc.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-flange-mod-682278cd",
+      "name": "XT1 3p FIXED FLANGE MOD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0014",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-flange-mod-682278cd",
+      "recordPath": "equipment/abb-xt1-3p-fixed-flange-mod-682278cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-flange-mod-682278cd.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-flange-c06c805e",
+      "name": "XT2 3p FIXED FLANGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0172",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-flange-c06c805e",
+      "recordPath": "equipment/abb-xt2-3p-fixed-flange-c06c805e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-flange-c06c805e.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-htc-up-901dc845",
+      "name": "XT3 3p FIXED HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0419",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-htc-up-901dc845",
+      "recordPath": "equipment/abb-xt3-3p-fixed-htc-up-901dc845.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-htc-up-901dc845.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-mc-low-88826235",
+      "name": "XT4 3p FIXED MC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0569",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-mc-low-88826235",
+      "recordPath": "equipment/abb-xt4-3p-fixed-mc-low-88826235.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-mc-low-88826235.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-ps-200mm-bottom-910ab367",
+      "name": "XT5 3p Fixed PS 200mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1152",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-ps-200mm-bottom-910ab367",
+      "recordPath": "equipment/abb-xt5-3p-fixed-ps-200mm-bottom-910ab367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-ps-200mm-bottom-910ab367.json"
+    },
+    {
+      "id": "abb-xt6-3p-withdrawable-800a-ef-top-fdbdc293",
+      "name": "XT6 3p Withdrawable 800A EF top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1261",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-3p-withdrawable-800a-ef-top-fdbdc293",
+      "recordPath": "equipment/abb-xt6-3p-withdrawable-800a-ef-top-fdbdc293.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-3p-withdrawable-800a-ef-top-fdbdc293.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-ps-200mm-top-5eb90e54",
+      "name": "XT7-XT7M 3p Fixed PS 200mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1556",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-ps-200mm-top-5eb90e54",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-ps-200mm-top-5eb90e54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-ps-200mm-top-5eb90e54.json"
+    },
+    {
+      "id": "abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-al-cable-2920b176",
+      "name": "4 Pole low voltage MCCB -T2 - Plug-in version front terminals for Cu-Al cable",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0012119",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-al-cable-2920b176",
+      "recordPath": "equipment/abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-al-cable-2920b176.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-low-voltage-mccb-t2-plug-in-version-front-terminals-for-cu-al-cable-2920b176.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-floor-fixing-807185d2",
+      "name": "E1.2 IV W FLOOR FIXING",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0067",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-floor-fixing-807185d2",
+      "recordPath": "equipment/abb-e1-2-iv-w-floor-fixing-807185d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-floor-fixing-807185d2.json"
+    },
+    {
+      "id": "abb-e6-2-ivfs-f-insulating-sheet-025923ed",
+      "name": "E6.2 IVFS F INSULATING SHEET",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0370",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-2-ivfs-f-insulating-sheet-025923ed",
+      "recordPath": "equipment/abb-e6-2-ivfs-f-insulating-sheet-025923ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-2-ivfs-f-insulating-sheet-025923ed.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s3-69fda2a6",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version rear terminals S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812251",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s3-69fda2a6",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s3-69fda2a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s3-69fda2a6.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s4-869f9759",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version front terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812211",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s4-869f9759",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s4-869f9759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s4-869f9759.json"
+    },
+    {
+      "id": "abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-c1b529e1",
+      "name": "3Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812401",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-c1b529e1",
+      "recordPath": "equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-c1b529e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-c1b529e1.json"
+    },
+    {
+      "id": "abb-s6-4p-fixed-version-front-terminals-1000-v-6964db4f",
+      "name": "S6 4p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035081",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6-4p-fixed-version-front-terminals-1000-v-6964db4f",
+      "recordPath": "equipment/abb-s6-4p-fixed-version-front-terminals-1000-v-6964db4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6-4p-fixed-version-front-terminals-1000-v-6964db4f.json"
+    },
+    {
+      "id": "abb-ts3-4p-fixed-front-terminals-and-front-extended-bb8ea50a",
+      "name": "Ts3 4p Fixed front terminals and front extended",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-fixed-front-terminals-and-front-extended-bb8ea50a",
+      "recordPath": "equipment/abb-ts3-4p-fixed-front-terminals-and-front-extended-bb8ea50a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-fixed-front-terminals-and-front-extended-bb8ea50a.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-flange-optional-ce1b9df8",
+      "name": "XT1 3p FIXED FLANGE OPTIONAL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0015",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-flange-optional-ce1b9df8",
+      "recordPath": "equipment/abb-xt1-3p-fixed-flange-optional-ce1b9df8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-flange-optional-ce1b9df8.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-flange-fld-4efb6257",
+      "name": "XT2 3p FIXED FLANGE FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0173",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-flange-fld-4efb6257",
+      "recordPath": "equipment/abb-xt2-3p-fixed-flange-fld-4efb6257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-flange-fld-4efb6257.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-mc-low-012c53ee",
+      "name": "XT3 3p FIXED MC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0422",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-mc-low-012c53ee",
+      "recordPath": "equipment/abb-xt3-3p-fixed-mc-low-012c53ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-mc-low-012c53ee.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-mc-up-b7482e69",
+      "name": "XT4 3p FIXED MC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0570",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-mc-up-b7482e69",
+      "recordPath": "equipment/abb-xt4-3p-fixed-mc-up-b7482e69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-mc-up-b7482e69.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-ps-200mm-top-164945e7",
+      "name": "XT5 3p Fixed PS 200mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1154",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-ps-200mm-top-164945e7",
+      "recordPath": "equipment/abb-xt5-3p-fixed-ps-200mm-top-164945e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-ps-200mm-top-164945e7.json"
+    },
+    {
+      "id": "abb-xt6-3p-withdrawable-hr-bottom-13eb5006",
+      "name": "XT6 3p Withdrawable HR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1266",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-3p-withdrawable-hr-bottom-13eb5006",
+      "recordPath": "equipment/abb-xt6-3p-withdrawable-hr-bottom-13eb5006.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-3p-withdrawable-hr-bottom-13eb5006.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-fixed-vr-top-8f9bf4c4",
+      "name": "XT7-XT7M 3p Fixed VR top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1488",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-fixed-vr-top-8f9bf4c4",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-fixed-vr-top-8f9bf4c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-fixed-vr-top-8f9bf4c4.json"
+    },
+    {
+      "id": "abb-4-pole-low-voltage-mccb-t3-fixed-version-front-terminals-for-cu-cable-t3-b8e19ca9",
+      "name": "4 Pole low voltage MCCB -T3 - Fixed version front terminals for Cu cable T3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0013103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-low-voltage-mccb-t3-fixed-version-front-terminals-for-cu-cable-t3-b8e19ca9",
+      "recordPath": "equipment/abb-4-pole-low-voltage-mccb-t3-fixed-version-front-terminals-for-cu-cable-t3-b8e19ca9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-low-voltage-mccb-t3-fixed-version-front-terminals-for-cu-cable-t3-b8e19ca9.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-rear-segregation-ef-es-ul-b4a6b62d",
+      "name": "E1.2 IV W REAR SEGREGATION EF ES - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0068",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-rear-segregation-ef-es-ul-b4a6b62d",
+      "recordPath": "equipment/abb-e1-2-iv-w-rear-segregation-ef-es-ul-b4a6b62d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-rear-segregation-ef-es-ul-b4a6b62d.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s3-25962160",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version cable terminals S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812561",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s3-25962160",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s3-25962160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s3-25962160.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s4-96a6efb4",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version rear terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812271",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s4-96a6efb4",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s4-96a6efb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s4-96a6efb4.json"
+    },
+    {
+      "id": "abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-48ed4623",
+      "name": "3Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S5/630",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812911",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-48ed4623",
+      "recordPath": "equipment/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-48ed4623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-48ed4623.json"
+    },
+    {
+      "id": "abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-150a-62243a30",
+      "name": "Ts3 4p Fixed front terminals for cables Cu-Al 150A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0135",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-150a-62243a30",
+      "recordPath": "equipment/abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-150a-62243a30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-150a-62243a30.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-flange-rc-fd833f75",
+      "name": "XT1 3p FIXED FLANGE RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0016",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-flange-rc-fd833f75",
+      "recordPath": "equipment/abb-xt1-3p-fixed-flange-rc-fd833f75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-flange-rc-fd833f75.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-flange-rhd-b4c672e1",
+      "name": "XT2 3p FIXED FLANGE RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0176",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-flange-rhd-b4c672e1",
+      "recordPath": "equipment/abb-xt2-3p-fixed-flange-rhd-b4c672e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-flange-rhd-b4c672e1.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-mc-up-1c5884c8",
+      "name": "XT3 3p FIXED MC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0423",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-mc-up-1c5884c8",
+      "recordPath": "equipment/abb-xt3-3p-fixed-mc-up-1c5884c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-mc-up-1c5884c8.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ps-100mm-low-a16d69bf",
+      "name": "XT4 3p FIXED PS 100mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0577",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ps-100mm-low-a16d69bf",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ps-100mm-low-a16d69bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ps-100mm-low-a16d69bf.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-ps-25mm-bottom-80369ed4",
+      "name": "XT5 3p Fixed PS 25mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1146",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-ps-25mm-bottom-80369ed4",
+      "recordPath": "equipment/abb-xt5-3p-fixed-ps-25mm-bottom-80369ed4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-ps-25mm-bottom-80369ed4.json"
+    },
+    {
+      "id": "abb-xt6-3p-withdrawable-vr-bottom-a8ab39c1",
+      "name": "XT6 3p Withdrawable VR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1268",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-3p-withdrawable-vr-bottom-a8ab39c1",
+      "recordPath": "equipment/abb-xt6-3p-withdrawable-vr-bottom-a8ab39c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-3p-withdrawable-vr-bottom-a8ab39c1.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-floor-fixing-plate-cd3206bd",
+      "name": "XT7-XT7M 3p Floor fixing plate",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1553",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-floor-fixing-plate-cd3206bd",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-floor-fixing-plate-cd3206bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-floor-fixing-plate-cd3206bd.json"
+    },
+    {
+      "id": "abb-4-pole-low-voltage-mccb-t3-plug-in-version-rear-terminals-for-cu-cable-t3-1592af32",
+      "name": "4 Pole low voltage MCCB -T3 - Plug-in version rear terminals for Cu cable T3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0013117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-low-voltage-mccb-t3-plug-in-version-rear-terminals-for-cu-cable-t3-1592af32",
+      "recordPath": "equipment/abb-4-pole-low-voltage-mccb-t3-plug-in-version-rear-terminals-for-cu-cable-t3-1592af32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-low-voltage-mccb-t3-plug-in-version-rear-terminals-for-cu-cable-t3-1592af32.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-b60382d3",
+      "name": "E1.2 IV W REAR SEGREGATION HR VR FcCuAl",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0069",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-b60382d3",
+      "recordPath": "equipment/abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-b60382d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-b60382d3.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s3-147c2a78",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version front terminals S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812311",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s3-147c2a78",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s3-147c2a78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s3-147c2a78.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s4-b50b543b",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version cable terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812581",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s4-b50b543b",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s4-b50b543b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s4-b50b543b.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-extended-front-terminals-s5-630-c7f97edf",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version extended front terminals S5/630",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812861",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-extended-front-terminals-s5-630-c7f97edf",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-extended-front-terminals-s5-630-c7f97edf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-extended-front-terminals-s5-630-c7f97edf.json"
+    },
+    {
+      "id": "abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-225a-038a9df6",
+      "name": "Ts3 4p Fixed front terminals for cables Cu-Al 225A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0133",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-225a-038a9df6",
+      "recordPath": "equipment/abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-225a-038a9df6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-fixed-front-terminals-for-cables-cu-al-225a-038a9df6.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-htc-low-8364c73b",
+      "name": "XT1 3p FIXED HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0018",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-htc-low-8364c73b",
+      "recordPath": "equipment/abb-xt1-3p-fixed-htc-low-8364c73b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-htc-low-8364c73b.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-fld-fc67710e",
+      "name": "XT2 3p FIXED FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0164",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-fld-fc67710e",
+      "recordPath": "equipment/abb-xt2-3p-fixed-fld-fc67710e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-fld-fc67710e.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-mod-e81a8156",
+      "name": "XT3 3p FIXED MOD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0424",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-mod-e81a8156",
+      "recordPath": "equipment/abb-xt3-3p-fixed-mod-e81a8156.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-mod-e81a8156.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ps-100mm-up-3e9bdf3e",
+      "name": "XT4 3p FIXED PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0578",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ps-100mm-up-3e9bdf3e",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ps-100mm-up-3e9bdf3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ps-100mm-up-3e9bdf3e.json"
+    },
+    {
+      "id": "abb-xt5-3p-fixed-ps-25mm-top-50ca5a7d",
+      "name": "XT5 3p Fixed PS 25mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1147",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-fixed-ps-25mm-top-50ca5a7d",
+      "recordPath": "equipment/abb-xt5-3p-fixed-ps-25mm-top-50ca5a7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-fixed-ps-25mm-top-50ca5a7d.json"
+    },
+    {
+      "id": "abb-xt6-4p-fixed-1000a-ef-bottom-98176563",
+      "name": "XT6 4p Fixed 1000A EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A2076",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-fixed-1000a-ef-bottom-98176563",
+      "recordPath": "equipment/abb-xt6-4p-fixed-1000a-ef-bottom-98176563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-fixed-1000a-ef-bottom-98176563.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-fixation-screws-d68d67f0",
+      "name": "XT7-XT7M 3p Withdrawable Fixation screws",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1438",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-fixation-screws-d68d67f0",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-fixation-screws-d68d67f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-fixation-screws-d68d67f0.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-of-trolley-for-fixed-vd4-circuit-breaker-1ymw10110-881fd476",
+      "name": "Dimensional drawing of trolley for fixed VD4 circuit breaker - 1YMW10110",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107046A1589",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-of-trolley-for-fixed-vd4-circuit-breaker-1ymw10110-881fd476",
+      "recordPath": "equipment/abb-dimensional-drawing-of-trolley-for-fixed-vd4-circuit-breaker-1ymw10110-881fd476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-of-trolley-for-fixed-vd4-circuit-breaker-1ymw10110-881fd476.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-rear-segregation-shr-0e0bcc3e",
+      "name": "E1.2 IV W REAR SEGREGATION SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0070",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-rear-segregation-shr-0e0bcc3e",
+      "recordPath": "equipment/abb-e1-2-iv-w-rear-segregation-shr-0e0bcc3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-rear-segregation-shr-0e0bcc3e.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s3-c6c8a63a",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S3",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812371",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s3-c6c8a63a",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s3-c6c8a63a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s3-c6c8a63a.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s4-ac270d8f",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version front terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812331",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s4-ac270d8f",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s4-ac270d8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s4-ac270d8f.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-front-extended-front-terminals-cab-13fbb057",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version front+extended front terminals cable S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-front-extended-front-terminals-cab-13fbb057",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-front-extended-front-terminals-cab-13fbb057.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-front-extended-front-terminals-cab-13fbb057.json"
+    },
+    {
+      "id": "abb-ts3-4p-fixed-rear-terminals-25b115d2",
+      "name": "Ts3 4p Fixed rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-fixed-rear-terminals-25b115d2",
+      "recordPath": "equipment/abb-ts3-4p-fixed-rear-terminals-25b115d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-fixed-rear-terminals-25b115d2.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-htc-up-9383ad6d",
+      "name": "XT1 3p FIXED HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0019",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-htc-up-9383ad6d",
+      "recordPath": "equipment/abb-xt1-3p-fixed-htc-up-9383ad6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-htc-up-9383ad6d.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-htc-low-2007bb69",
+      "name": "XT2 3p FIXED HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0165",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-htc-low-2007bb69",
+      "recordPath": "equipment/abb-xt2-3p-fixed-htc-low-2007bb69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-htc-low-2007bb69.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-ps-100mm-low-8dbe870f",
+      "name": "XT3 3p FIXED PS 100mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0432",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-ps-100mm-low-8dbe870f",
+      "recordPath": "equipment/abb-xt3-3p-fixed-ps-100mm-low-8dbe870f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-ps-100mm-low-8dbe870f.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ps-200mm-low-9d982dca",
+      "name": "XT4 3p FIXED PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0579",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ps-200mm-low-9d982dca",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ps-200mm-low-9d982dca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ps-200mm-low-9d982dca.json"
+    },
+    {
+      "id": "abb-xt5-3p-p-w-400a-ef-bottom-ef7432d0",
+      "name": "XT5 3p P-W 400A EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1306",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-p-w-400a-ef-bottom-ef7432d0",
+      "recordPath": "equipment/abb-xt5-3p-p-w-400a-ef-bottom-ef7432d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-p-w-400a-ef-bottom-ef7432d0.json"
+    },
+    {
+      "id": "abb-xt6-4p-fixed-800a-ef-bottom-06bbbc9d",
+      "name": "XT6 4p Fixed 800A EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1217",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-fixed-800a-ef-bottom-06bbbc9d",
+      "recordPath": "equipment/abb-xt6-4p-fixed-800a-ef-bottom-06bbbc9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-fixed-800a-ef-bottom-06bbbc9d.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-3p-withdrawable-ps-for-fixed-part-368cef68",
+      "name": "XT7-XT7M 3p Withdrawable PS for Fixed Part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1486",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-3p-withdrawable-ps-for-fixed-part-368cef68",
+      "recordPath": "equipment/abb-xt7-xt7m-3p-withdrawable-ps-for-fixed-part-368cef68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-3p-withdrawable-ps-for-fixed-part-368cef68.json"
+    },
+    {
+      "id": "abb-s3-3p-fixed-version-front-spread-terminals-f54cfc1c",
+      "name": "S3 3p Fixed version Front spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032381",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-3p-fixed-version-front-spread-terminals-f54cfc1c",
+      "recordPath": "equipment/abb-s3-3p-fixed-version-front-spread-terminals-f54cfc1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-3p-fixed-version-front-spread-terminals-f54cfc1c.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s4-38a75a33",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S4",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812391",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s4-38a75a33",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s4-38a75a33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s4-38a75a33.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-0296c8a3",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version rear terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812171",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-0296c8a3",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-0296c8a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-0296c8a3.json"
+    },
+    {
+      "id": "abb-ts3-4p-fixed-rear-terminals-for-cables-cu-al-8e377c76",
+      "name": "Ts3 4p Fixed rear terminals for cables Cu-Al",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-fixed-rear-terminals-for-cables-cu-al-8e377c76",
+      "recordPath": "equipment/abb-ts3-4p-fixed-rear-terminals-for-cables-cu-al-8e377c76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-fixed-rear-terminals-for-cables-cu-al-8e377c76.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-mc-low-cea3c3c6",
+      "name": "XT1 3p FIXED MC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0022",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-mc-low-cea3c3c6",
+      "recordPath": "equipment/abb-xt1-3p-fixed-mc-low-cea3c3c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-mc-low-cea3c3c6.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-htc-up-36f04de9",
+      "name": "XT2 3p FIXED HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0166",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-htc-up-36f04de9",
+      "recordPath": "equipment/abb-xt2-3p-fixed-htc-up-36f04de9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-htc-up-36f04de9.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-ps-100mm-up-55707111",
+      "name": "XT3 3p FIXED PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0433",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-ps-100mm-up-55707111",
+      "recordPath": "equipment/abb-xt3-3p-fixed-ps-100mm-up-55707111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-ps-100mm-up-55707111.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ps-200mm-up-07f84419",
+      "name": "XT4 3p FIXED PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0580",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ps-200mm-up-07f84419",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ps-200mm-up-07f84419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ps-200mm-up-07f84419.json"
+    },
+    {
+      "id": "abb-xt5-3p-p-w-400a-ef-top-4157a2c1",
+      "name": "XT5 3p P-W 400A EF top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1305",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-p-w-400a-ef-top-4157a2c1",
+      "recordPath": "equipment/abb-xt5-3p-p-w-400a-ef-top-4157a2c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-p-w-400a-ef-top-4157a2c1.json"
+    },
+    {
+      "id": "abb-xt6-4p-fixed-800a-ef-top-017a18e5",
+      "name": "XT6 4p Fixed 800A EF top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1218",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-fixed-800a-ef-top-017a18e5",
+      "recordPath": "equipment/abb-xt6-4p-fixed-800a-ef-top-017a18e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-fixed-800a-ef-top-017a18e5.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ef-bottom-382b8816",
+      "name": "XT7-XT7M 4p Fixed EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1395",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ef-bottom-382b8816",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ef-bottom-382b8816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ef-bottom-382b8816.json"
+    },
+    {
+      "id": "abb-s3-3p-fixed-version-front-terminals-1000-v-ac6fdb8e",
+      "name": "S3 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-3p-fixed-version-front-terminals-1000-v-ac6fdb8e",
+      "recordPath": "equipment/abb-s3-3p-fixed-version-front-terminals-1000-v-ac6fdb8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-3p-fixed-version-front-terminals-1000-v-ac6fdb8e.json"
+    },
+    {
+      "id": "abb-s4-3p-fixed-version-front-terminals-1000-v-be7413e2",
+      "name": "S4 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035031",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4-3p-fixed-version-front-terminals-1000-v-be7413e2",
+      "recordPath": "equipment/abb-s4-3p-fixed-version-front-terminals-1000-v-be7413e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4-3p-fixed-version-front-terminals-1000-v-be7413e2.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-630-3542fac9",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version rear terminals S5/630",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812881",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-630-3542fac9",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-630-3542fac9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-rear-terminals-s5-630-3542fac9.json"
+    },
+    {
+      "id": "abb-ts3-4p-plug-in-for-cables-terminals-9c9be883",
+      "name": "Ts3 4p Plug in for cables terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-plug-in-for-cables-terminals-9c9be883",
+      "recordPath": "equipment/abb-ts3-4p-plug-in-for-cables-terminals-9c9be883.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-plug-in-for-cables-terminals-9c9be883.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-mc-up-8adaf15c",
+      "name": "XT1 3p FIXED MC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0023",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-mc-up-8adaf15c",
+      "recordPath": "equipment/abb-xt1-3p-fixed-mc-up-8adaf15c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-mc-up-8adaf15c.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-mc-low-386cde4e",
+      "name": "XT2 3p FIXED MC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0169",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-mc-low-386cde4e",
+      "recordPath": "equipment/abb-xt2-3p-fixed-mc-low-386cde4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-mc-low-386cde4e.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-ps-200mm-low-bbf00c78",
+      "name": "XT3 3p FIXED PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0434",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-ps-200mm-low-bbf00c78",
+      "recordPath": "equipment/abb-xt3-3p-fixed-ps-200mm-low-bbf00c78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-ps-200mm-low-bbf00c78.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ps-25mm-low-7941c717",
+      "name": "XT4 3p FIXED PS 25mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0581",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ps-25mm-low-7941c717",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ps-25mm-low-7941c717.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ps-25mm-low-7941c717.json"
+    },
+    {
+      "id": "abb-xt5-4p-f-p-flange-for-residual-current-rc-sel-443407f9",
+      "name": "XT5 4p F-P Flange for residual current RC Sel",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1576",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-f-p-flange-for-residual-current-rc-sel-443407f9",
+      "recordPath": "equipment/abb-xt5-4p-f-p-flange-for-residual-current-rc-sel-443407f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-f-p-flange-for-residual-current-rc-sel-443407f9.json"
+    },
+    {
+      "id": "abb-xt6-4p-fixed-es-bottom-c5643f02",
+      "name": "XT6 4p Fixed ES bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1220",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-fixed-es-bottom-c5643f02",
+      "recordPath": "equipment/abb-xt6-4p-fixed-es-bottom-c5643f02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-fixed-es-bottom-c5643f02.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ef-top-e7f66041",
+      "name": "XT7-XT7M 4p Fixed EF top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1393",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ef-top-e7f66041",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ef-top-e7f66041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ef-top-e7f66041.json"
+    },
+    {
+      "id": "abb-s3-4p-fixed-version-front-extended-spread-terminals-0fb191d2",
+      "name": "S3 4p Fixed version Front extended/spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032351",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-4p-fixed-version-front-extended-spread-terminals-0fb191d2",
+      "recordPath": "equipment/abb-s3-4p-fixed-version-front-extended-spread-terminals-0fb191d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-4p-fixed-version-front-extended-spread-terminals-0fb191d2.json"
+    },
+    {
+      "id": "abb-s4-3p-fixed-version-spread-extended-terminals-a53b10d2",
+      "name": "S4 3p Fixed version Spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032361",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4-3p-fixed-version-spread-extended-terminals-a53b10d2",
+      "recordPath": "equipment/abb-s4-3p-fixed-version-spread-extended-terminals-a53b10d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4-3p-fixed-version-spread-extended-terminals-a53b10d2.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s5-29eaeb9d",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version terminals cable S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812721",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s5-29eaeb9d",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s5-29eaeb9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-fixed-version-terminals-cable-s5-29eaeb9d.json"
+    },
+    {
+      "id": "abb-ts3-4p-plug-in-front-terminals-75a7c0e2",
+      "name": "Ts3 4p Plug in front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-plug-in-front-terminals-75a7c0e2",
+      "recordPath": "equipment/abb-ts3-4p-plug-in-front-terminals-75a7c0e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-plug-in-front-terminals-75a7c0e2.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-mod-40118315",
+      "name": "XT1 3p FIXED MOD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0024",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-mod-40118315",
+      "recordPath": "equipment/abb-xt1-3p-fixed-mod-40118315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-mod-40118315.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-mc-up-1093a898",
+      "name": "XT2 3p FIXED MC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0170",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-mc-up-1093a898",
+      "recordPath": "equipment/abb-xt2-3p-fixed-mc-up-1093a898.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-mc-up-1093a898.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-ps-200mm-up-825bc319",
+      "name": "XT3 3p FIXED PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0435",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-ps-200mm-up-825bc319",
+      "recordPath": "equipment/abb-xt3-3p-fixed-ps-200mm-up-825bc319.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-ps-200mm-up-825bc319.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ps-25mm-up-458ad2fd",
+      "name": "XT4 3p FIXED PS 25mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0582",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ps-25mm-up-458ad2fd",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ps-25mm-up-458ad2fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ps-25mm-up-458ad2fd.json"
+    },
+    {
+      "id": "abb-xt5-4p-fixation-screws-5a553747",
+      "name": "XT5 4p Fixation screws",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1155",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-fixation-screws-5a553747",
+      "recordPath": "equipment/abb-xt5-4p-fixation-screws-5a553747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-fixation-screws-5a553747.json"
+    },
+    {
+      "id": "abb-xt6-4p-fixed-es-top-469d7db5",
+      "name": "XT6 4p Fixed ES top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1221",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-fixed-es-top-469d7db5",
+      "recordPath": "equipment/abb-xt6-4p-fixed-es-top-469d7db5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-fixed-es-top-469d7db5.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-es-bottom-920aa83d",
+      "name": "XT7-XT7M 4p Fixed ES bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1398",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-es-bottom-920aa83d",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-es-bottom-920aa83d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-es-bottom-920aa83d.json"
+    },
+    {
+      "id": "abb-yo-e1-2-e6-2-d6a75deb",
+      "name": "YO E1.2...E6.2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0313",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-yo-e1-2-e6-2-d6a75deb",
+      "recordPath": "equipment/abb-yo-e1-2-e6-2-d6a75deb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-yo-e1-2-e6-2-d6a75deb.json"
+    },
+    {
+      "id": "abb-s3-4p-fixed-version-front-terminals-1000-v-b8cb98cd",
+      "name": "S3 4p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035011",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-4p-fixed-version-front-terminals-1000-v-b8cb98cd",
+      "recordPath": "equipment/abb-s3-4p-fixed-version-front-terminals-1000-v-b8cb98cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-4p-fixed-version-front-terminals-1000-v-b8cb98cd.json"
+    },
+    {
+      "id": "abb-s4-4p-fixed-version-spread-extended-terminals-30c07dbb",
+      "name": "S4 4p Fixed version Spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032371",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4-4p-fixed-version-spread-extended-terminals-30c07dbb",
+      "recordPath": "equipment/abb-s4-4p-fixed-version-spread-extended-terminals-30c07dbb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4-4p-fixed-version-spread-extended-terminals-30c07dbb.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s5-1b48b6de",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version cable terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812541",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s5-1b48b6de",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s5-1b48b6de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-cable-terminals-s5-1b48b6de.json"
+    },
+    {
+      "id": "abb-ts3-4p-plug-in-rear-terminals-59972518",
+      "name": "Ts3 4p Plug in rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-plug-in-rear-terminals-59972518",
+      "recordPath": "equipment/abb-ts3-4p-plug-in-rear-terminals-59972518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-plug-in-rear-terminals-59972518.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-ps-100mm-low-b3f99a02",
+      "name": "XT1 3p FIXED PS 100mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0025",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-ps-100mm-low-b3f99a02",
+      "recordPath": "equipment/abb-xt1-3p-fixed-ps-100mm-low-b3f99a02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-ps-100mm-low-b3f99a02.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-moe-d11c6d82",
+      "name": "XT2 3p FIXED MOE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0171",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-moe-d11c6d82",
+      "recordPath": "equipment/abb-xt2-3p-fixed-moe-d11c6d82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-moe-d11c6d82.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-r-low-52b5a8b3",
+      "name": "XT3 3p FIXED R LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0442",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-r-low-52b5a8b3",
+      "recordPath": "equipment/abb-xt3-3p-fixed-r-low-52b5a8b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-r-low-52b5a8b3.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-r-low-b4272847",
+      "name": "XT4 3p FIXED R LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0586",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-r-low-b4272847",
+      "recordPath": "equipment/abb-xt4-3p-fixed-r-low-b4272847.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-r-low-b4272847.json"
+    },
+    {
+      "id": "abb-xt5-4p-fixed-f-top-e-bottom-85ed58d4",
+      "name": "XT5 4p Fixed F top e bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1156",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-fixed-f-top-e-bottom-85ed58d4",
+      "recordPath": "equipment/abb-xt5-4p-fixed-f-top-e-bottom-85ed58d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-fixed-f-top-e-bottom-85ed58d4.json"
+    },
+    {
+      "id": "abb-xt6-4p-fixed-fixation-screws-9e233ae2",
+      "name": "XT6 4p Fixed fixation screws",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1215",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-fixed-fixation-screws-9e233ae2",
+      "recordPath": "equipment/abb-xt6-4p-fixed-fixation-screws-9e233ae2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-fixed-fixation-screws-9e233ae2.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-es-top-5ba3b1ca",
+      "name": "XT7-XT7M 4p Fixed ES top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1396",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-es-top-5ba3b1ca",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-es-top-5ba3b1ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-es-top-5ba3b1ca.json"
+    },
+    {
+      "id": "abb-s3-4p-fixed-version-front-terminals-and-front-extended-terminals-0a0780af",
+      "name": "S3 4p Fixed version Front terminals and Front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812071",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-4p-fixed-version-front-terminals-and-front-extended-terminals-0a0780af",
+      "recordPath": "equipment/abb-s3-4p-fixed-version-front-terminals-and-front-extended-terminals-0a0780af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-4p-fixed-version-front-terminals-and-front-extended-terminals-0a0780af.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s5-65f21d77",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version front terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812231",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s5-65f21d77",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s5-65f21d77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-front-terminals-s5-65f21d77.json"
+    },
+    {
+      "id": "abb-ts3-4p-withdrawable-for-cables-terminals-31fc053b",
+      "name": "Ts3 4p Withdrawable for cables terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0123",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-withdrawable-for-cables-terminals-31fc053b",
+      "recordPath": "equipment/abb-ts3-4p-withdrawable-for-cables-terminals-31fc053b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-withdrawable-for-cables-terminals-31fc053b.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-ps-100mm-up-94cdb17f",
+      "name": "XT1 3p FIXED PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0026",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-ps-100mm-up-94cdb17f",
+      "recordPath": "equipment/abb-xt1-3p-fixed-ps-100mm-up-94cdb17f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-ps-100mm-up-94cdb17f.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ps-100mm-low-195c8e9e",
+      "name": "XT2 3p FIXED PS 100mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0177",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ps-100mm-low-195c8e9e",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ps-100mm-low-195c8e9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ps-100mm-low-195c8e9e.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-r-up-3b9c9a55",
+      "name": "XT3 3p FIXED R UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0443",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-r-up-3b9c9a55",
+      "recordPath": "equipment/abb-xt3-3p-fixed-r-up-3b9c9a55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-r-up-3b9c9a55.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-side-connector-for-ekip-touch-hi-touch-3760e61b",
+      "name": "XT4 3p Fixed Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0906",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-side-connector-for-ekip-touch-hi-touch-3760e61b",
+      "recordPath": "equipment/abb-xt4-3p-fixed-side-connector-for-ekip-touch-hi-touch-3760e61b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-side-connector-for-ekip-touch-hi-touch-3760e61b.json"
+    },
+    {
+      "id": "abb-xt5-4p-fixed-ps-100mm-bottom-ca7f95df",
+      "name": "XT5 4p Fixed PS 100mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1176",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-fixed-ps-100mm-bottom-ca7f95df",
+      "recordPath": "equipment/abb-xt5-4p-fixed-ps-100mm-bottom-ca7f95df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-fixed-ps-100mm-bottom-ca7f95df.json"
+    },
+    {
+      "id": "abb-xt6-4p-withdrawable-800a-ef-bottom-cd0571aa",
+      "name": "XT6 4p Withdrawable 800A EF bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1272",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-withdrawable-800a-ef-bottom-cd0571aa",
+      "recordPath": "equipment/abb-xt6-4p-withdrawable-800a-ef-bottom-cd0571aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-withdrawable-800a-ef-bottom-cd0571aa.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-fixation-screws-91caae8f",
+      "name": "XT7-XT7M 4p Fixed Fixation screws",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1391",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-fixation-screws-91caae8f",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-fixation-screws-91caae8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-fixation-screws-91caae8f.json"
+    },
+    {
+      "id": "abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-front-extended-terminals-18f75666",
+      "name": "S3 4p Residual current release RC 211-212/3 Bottom mounting Front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812751",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-front-extended-terminals-18f75666",
+      "recordPath": "equipment/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-front-extended-terminals-18f75666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-front-extended-terminals-18f75666.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s5-fdaf864b",
+      "name": "4Pole low voltage MCCB series Isomax - Plug-in version rear terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812291",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s5-fdaf864b",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s5-fdaf864b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-plug-in-version-rear-terminals-s5-fdaf864b.json"
+    },
+    {
+      "id": "abb-ts3-4p-withdrawable-front-terminals-64414c1f",
+      "name": "Ts3 4p Withdrawable front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-withdrawable-front-terminals-64414c1f",
+      "recordPath": "equipment/abb-ts3-4p-withdrawable-front-terminals-64414c1f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-withdrawable-front-terminals-64414c1f.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-ps-200mm-low-2e586435",
+      "name": "XT1 3p FIXED PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0027",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-ps-200mm-low-2e586435",
+      "recordPath": "equipment/abb-xt1-3p-fixed-ps-200mm-low-2e586435.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-ps-200mm-low-2e586435.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ps-100mm-up-1c5cda71",
+      "name": "XT2 3p FIXED PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0178",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ps-100mm-up-1c5cda71",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ps-100mm-up-1c5cda71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ps-100mm-up-1c5cda71.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-rhd-9119a624",
+      "name": "XT3 3p FIXED RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0437",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-rhd-9119a624",
+      "recordPath": "equipment/abb-xt3-3p-fixed-rhd-9119a624.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-rhd-9119a624.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-adapter-low-8bd61f81",
+      "name": "XT4 3p PLUG-IN ADAPTER LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0588",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-adapter-low-8bd61f81",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-adapter-low-8bd61f81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-adapter-low-8bd61f81.json"
+    },
+    {
+      "id": "abb-xt5-4p-fixed-ps-100mm-top-1920fc48",
+      "name": "XT5 4p Fixed PS 100mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1177",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-fixed-ps-100mm-top-1920fc48",
+      "recordPath": "equipment/abb-xt5-4p-fixed-ps-100mm-top-1920fc48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-fixed-ps-100mm-top-1920fc48.json"
+    },
+    {
+      "id": "abb-xt6-4p-withdrawable-hr-bottom-fef42e97",
+      "name": "XT6 4p Withdrawable HR bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1276",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-withdrawable-hr-bottom-fef42e97",
+      "recordPath": "equipment/abb-xt6-4p-withdrawable-hr-bottom-fef42e97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-withdrawable-hr-bottom-fef42e97.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ps-100mm-bottom-436d3b73",
+      "name": "XT7-XT7M 4p Fixed PS 100mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1406",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ps-100mm-bottom-436d3b73",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ps-100mm-bottom-436d3b73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ps-100mm-bottom-436d3b73.json"
+    },
+    {
+      "id": "abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-cu-al-49c7efdb",
+      "name": "S3 4p Residual current release RC 211-212/3 Bottom mounting Rear terminals Cu/Al",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812761",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-cu-al-49c7efdb",
+      "recordPath": "equipment/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-cu-al-49c7efdb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-cu-al-49c7efdb.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-b5f67f8d",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version cable terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812601",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-b5f67f8d",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-b5f67f8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-b5f67f8d.json"
+    },
+    {
+      "id": "abb-ts3-4p-withdrawable-rear-terminals-01fdeb5f",
+      "name": "Ts3 4p Withdrawable rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000637R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ts3-4p-withdrawable-rear-terminals-01fdeb5f",
+      "recordPath": "equipment/abb-ts3-4p-withdrawable-rear-terminals-01fdeb5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ts3-4p-withdrawable-rear-terminals-01fdeb5f.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-ps-200mm-up-732d3222",
+      "name": "XT1 3p FIXED PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0028",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-ps-200mm-up-732d3222",
+      "recordPath": "equipment/abb-xt1-3p-fixed-ps-200mm-up-732d3222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-ps-200mm-up-732d3222.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ps-200mm-low-f9447d44",
+      "name": "XT2 3p FIXED PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0179",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ps-200mm-low-f9447d44",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ps-200mm-low-f9447d44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ps-200mm-low-f9447d44.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-rhe-max-d11e59ea",
+      "name": "XT3 3p FIXED RHE MAX",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0438",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-rhe-max-d11e59ea",
+      "recordPath": "equipment/abb-xt3-3p-fixed-rhe-max-d11e59ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-rhe-max-d11e59ea.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-adapter-up-85242773",
+      "name": "XT4 3p PLUG-IN ADAPTER UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0589",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-adapter-up-85242773",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-adapter-up-85242773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-adapter-up-85242773.json"
+    },
+    {
+      "id": "abb-xt5-4p-fixed-ps-25mm-bottom-132981ed",
+      "name": "XT5 4p Fixed PS 25mm bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1180",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-fixed-ps-25mm-bottom-132981ed",
+      "recordPath": "equipment/abb-xt5-4p-fixed-ps-25mm-bottom-132981ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-fixed-ps-25mm-bottom-132981ed.json"
+    },
+    {
+      "id": "abb-xt6-4p-withdrawable-vr-top-f10ec5bf",
+      "name": "XT6 4p Withdrawable VR top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1277",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-4p-withdrawable-vr-top-f10ec5bf",
+      "recordPath": "equipment/abb-xt6-4p-withdrawable-vr-top-f10ec5bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-4p-withdrawable-vr-top-f10ec5bf.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ps-100mm-top-266497c6",
+      "name": "XT7-XT7M 4p Fixed PS 100mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1404",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ps-100mm-top-266497c6",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ps-100mm-top-266497c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ps-100mm-top-266497c6.json"
+    },
+    {
+      "id": "abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-a6af0b23",
+      "name": "S3 4p Residual current release rc 211-212/3 Bottom mounting Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812731",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-a6af0b23",
+      "recordPath": "equipment/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-a6af0b23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3-4p-residual-current-release-rc-211-212-3-bottom-mounting-rear-terminals-a6af0b23.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-630-400a-ba26ef4f",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version cable terminals S5/630 (400A)",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812981",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-630-400a-ba26ef4f",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-630-400a-ba26ef4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-cable-terminals-s5-630-400a-ba26ef4f.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-ps-25mm-low-7fc8725c",
+      "name": "XT1 3p FIXED PS 25mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0029",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-ps-25mm-low-7fc8725c",
+      "recordPath": "equipment/abb-xt1-3p-fixed-ps-25mm-low-7fc8725c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-ps-25mm-low-7fc8725c.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ps-200mm-up-d44a557d",
+      "name": "XT2 3p FIXED PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0180",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ps-200mm-up-d44a557d",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ps-200mm-up-d44a557d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ps-200mm-up-d44a557d.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-adapter-low-539311cd",
+      "name": "XT3 3p PLUG-IN ADAPTER LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0444",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-adapter-low-539311cd",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-adapter-low-539311cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-adapter-low-539311cd.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-ef-low-64c99229",
+      "name": "XT4 3p PLUG-IN EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0590",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-ef-low-64c99229",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-ef-low-64c99229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-ef-low-64c99229.json"
+    },
+    {
+      "id": "abb-xt5-4p-fixed-ps-25mm-top-9f61399f",
+      "name": "XT5 4p Fixed PS 25mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1181",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-fixed-ps-25mm-top-9f61399f",
+      "recordPath": "equipment/abb-xt5-4p-fixed-ps-25mm-top-9f61399f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-fixed-ps-25mm-top-9f61399f.json"
+    },
+    {
+      "id": "abb-xt6-pll-fixed-lock-with-padlocks-in-open-position-490f394e",
+      "name": "XT6 PLL Fixed lock with padlocks in open position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1609",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-pll-fixed-lock-with-padlocks-in-open-position-490f394e",
+      "recordPath": "equipment/abb-xt6-pll-fixed-lock-with-padlocks-in-open-position-490f394e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-pll-fixed-lock-with-padlocks-in-open-position-490f394e.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-fixed-ps-200mm-top-1060151a",
+      "name": "XT7-XT7M 4p Fixed PS 200mm top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1501",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-fixed-ps-200mm-top-1060151a",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-fixed-ps-200mm-top-1060151a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-fixed-ps-200mm-top-1060151a.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-31a04afe",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version front terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812351",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-31a04afe",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-31a04afe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-31a04afe.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-ps-25mm-up-0ee8e09a",
+      "name": "XT1 3p FIXED PS 25mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0030",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-ps-25mm-up-0ee8e09a",
+      "recordPath": "equipment/abb-xt1-3p-fixed-ps-25mm-up-0ee8e09a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-ps-25mm-up-0ee8e09a.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ps-25mm-low-e3f10b02",
+      "name": "XT2 3p FIXED PS 25mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0181",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ps-25mm-low-e3f10b02",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ps-25mm-low-e3f10b02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ps-25mm-low-e3f10b02.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-adapter-up-d8a39702",
+      "name": "XT3 3p PLUG-IN ADAPTER UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0445",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-adapter-up-d8a39702",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-adapter-up-d8a39702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-adapter-up-d8a39702.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-ef-up-4be2525a",
+      "name": "XT4 3p PLUG-IN EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0591",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-ef-up-4be2525a",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-ef-up-4be2525a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-ef-up-4be2525a.json"
+    },
+    {
+      "id": "abb-xt5-4p-w-flange-for-residual-current-rc-sel-046e9fc6",
+      "name": "XT5 4p W Flange for residual current RC Sel",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1577",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-4p-w-flange-for-residual-current-rc-sel-046e9fc6",
+      "recordPath": "equipment/abb-xt5-4p-w-flange-for-residual-current-rc-sel-046e9fc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-4p-w-flange-for-residual-current-rc-sel-046e9fc6.json"
+    },
+    {
+      "id": "abb-xt6-pll-fixed-lock-with-padlocks-in-open-closed-position-fadc472b",
+      "name": "XT6 PLL Fixed lock with padlocks in open-closed position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1610",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt6-pll-fixed-lock-with-padlocks-in-open-closed-position-fadc472b",
+      "recordPath": "equipment/abb-xt6-pll-fixed-lock-with-padlocks-in-open-closed-position-fadc472b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt6-pll-fixed-lock-with-padlocks-in-open-closed-position-fadc472b.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-floor-fixing-plate-46c913e6",
+      "name": "XT7-XT7M 4p Floor fixing plate",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1412",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-floor-fixing-plate-46c913e6",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-floor-fixing-plate-46c913e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-floor-fixing-plate-46c913e6.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-0db86b5a",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version front terminals S5/630 (400A)",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812961",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-0db86b5a",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-0db86b5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-400a-0db86b5a.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-r-low-67a2481f",
+      "name": "XT1 3p FIXED R LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0037",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-r-low-67a2481f",
+      "recordPath": "equipment/abb-xt1-3p-fixed-r-low-67a2481f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-r-low-67a2481f.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ps-25mm-up-3f44f239",
+      "name": "XT2 3p FIXED PS 25mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0182",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ps-25mm-up-3f44f239",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ps-25mm-up-3f44f239.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ps-25mm-up-3f44f239.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-ef-low-05f66a23",
+      "name": "XT3 3p PLUG-IN EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0446",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-ef-low-05f66a23",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-ef-low-05f66a23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-ef-low-05f66a23.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-low-b2d01781",
+      "name": "XT4 3p PLUG-IN EXTERNAL TERMINALS FCCuAl 2x150mm2 LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0622",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-low-b2d01781",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-low-b2d01781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-low-b2d01781.json"
+    },
+    {
+      "id": "abb-xt5-pll-fixed-lock-with-padlocks-in-open-position-cee37e3c",
+      "name": "XT5 PLL Fixed lock with padlocks in open position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1560",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-pll-fixed-lock-with-padlocks-in-open-position-cee37e3c",
+      "recordPath": "equipment/abb-xt5-pll-fixed-lock-with-padlocks-in-open-position-cee37e3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-pll-fixed-lock-with-padlocks-in-open-position-cee37e3c.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-fixation-screws-430bc989",
+      "name": "XT7-XT7M 4p Withdrawable Fixation screws",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1557",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-fixation-screws-430bc989",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-fixation-screws-430bc989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-fixation-screws-430bc989.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-573c9012",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version front terminals S5/630 (630A)",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812901",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-573c9012",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-573c9012.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-front-terminals-s5-630-630a-573c9012.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-r-up-c8283349",
+      "name": "XT1 3p FIXED R UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0038",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-r-up-c8283349",
+      "recordPath": "equipment/abb-xt1-3p-fixed-r-up-c8283349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-r-up-c8283349.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-r-low-de375200",
+      "name": "XT2 3p FIXED R LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0186",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-r-low-de375200",
+      "recordPath": "equipment/abb-xt2-3p-fixed-r-low-de375200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-r-low-de375200.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-ef-up-c20c1aa2",
+      "name": "XT3 3p PLUG-IN EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0447",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-ef-up-c20c1aa2",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-ef-up-c20c1aa2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-ef-up-c20c1aa2.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-up-77b0d6ba",
+      "name": "XT4 3p PLUG-IN EXTERNAL TERMINALS FCCuAl 2x150mm2 UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0623",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-up-77b0d6ba",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-up-77b0d6ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-up-77b0d6ba.json"
+    },
+    {
+      "id": "abb-xt5-pll-fixed-lock-with-padlocks-in-open-closed-position-647b1986",
+      "name": "XT5 PLL Fixed lock with padlocks in open-closed position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1561",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-pll-fixed-lock-with-padlocks-in-open-closed-position-647b1986",
+      "recordPath": "equipment/abb-xt5-pll-fixed-lock-with-padlocks-in-open-closed-position-647b1986.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-pll-fixed-lock-with-padlocks-in-open-closed-position-647b1986.json"
+    },
+    {
+      "id": "abb-xt7-xt7m-4p-withdrawable-ps-for-fixed-part-1047aebc",
+      "name": "XT7-XT7M 4p Withdrawable PS for Fixed Part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1487",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt7-xt7m-4p-withdrawable-ps-for-fixed-part-1047aebc",
+      "recordPath": "equipment/abb-xt7-xt7m-4p-withdrawable-ps-for-fixed-part-1047aebc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt7-xt7m-4p-withdrawable-ps-for-fixed-part-1047aebc.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-a553667b",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S5",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812411",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-a553667b",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-a553667b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-a553667b.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-rhd-40346d06",
+      "name": "XT1 3p FIXED RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0032",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-rhd-40346d06",
+      "recordPath": "equipment/abb-xt1-3p-fixed-rhd-40346d06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-rhd-40346d06.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-rhd-b24d9772",
+      "name": "XT2 3p FIXED RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0183",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-rhd-b24d9772",
+      "recordPath": "equipment/abb-xt2-3p-fixed-rhd-b24d9772.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-rhd-b24d9772.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-es-low-cc396e81",
+      "name": "XT3 3p PLUG-IN ES LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0448",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-es-low-cc396e81",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-es-low-cc396e81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-es-low-cc396e81.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-hr-low-8a566f60",
+      "name": "XT4 3p PLUG-IN HR LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0601",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-hr-low-8a566f60",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-hr-low-8a566f60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-hr-low-8a566f60.json"
+    },
+    {
+      "id": "abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-5ae90a4c",
+      "name": "4Pole low voltage MCCB series Isomax - Withdrawable version rear terminals S5/630",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812921",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-5ae90a4c",
+      "recordPath": "equipment/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-5ae90a4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4pole-low-voltage-mccb-series-isomax-withdrawable-version-rear-terminals-s5-630-5ae90a4c.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-rhe-max-af7e8fd2",
+      "name": "XT1 3p FIXED RHE MAX",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0033",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-rhe-max-af7e8fd2",
+      "recordPath": "equipment/abb-xt1-3p-fixed-rhe-max-af7e8fd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-rhe-max-af7e8fd2.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-rhe-max-76fcd762",
+      "name": "XT2 3p FIXED RHE MAX",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0184",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-rhe-max-76fcd762",
+      "recordPath": "equipment/abb-xt2-3p-fixed-rhe-max-76fcd762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-rhe-max-76fcd762.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-es-up-4941c5eb",
+      "name": "XT3 3p PLUG-IN ES UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0449",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-es-up-4941c5eb",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-es-up-4941c5eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-es-up-4941c5eb.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-hr-up-3507417a",
+      "name": "XT4 3p PLUG-IN HR UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0602",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-hr-up-3507417a",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-hr-up-3507417a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-hr-up-3507417a.json"
+    },
+    {
+      "id": "abb-s5-3p-fixed-version-front-terminals-1000-v-bb7bb4c2",
+      "name": "S5 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035051",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s5-3p-fixed-version-front-terminals-1000-v-bb7bb4c2",
+      "recordPath": "equipment/abb-s5-3p-fixed-version-front-terminals-1000-v-bb7bb4c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s5-3p-fixed-version-front-terminals-1000-v-bb7bb4c2.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-rhe-max-wide-handle-52fdbc46",
+      "name": "XT1 3p FIXED RHE MAX WIDE HANDLE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0034",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-rhe-max-wide-handle-52fdbc46",
+      "recordPath": "equipment/abb-xt1-3p-fixed-rhe-max-wide-handle-52fdbc46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-rhe-max-wide-handle-52fdbc46.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-rhe-min-334c66be",
+      "name": "XT2 3p FIXED RHE MIN",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0185",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-rhe-min-334c66be",
+      "recordPath": "equipment/abb-xt2-3p-fixed-rhe-min-334c66be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-rhe-min-334c66be.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-fccu-low-55790bb0",
+      "name": "XT3 3p PLUG-IN FCCu LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0454",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-fccu-low-55790bb0",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-fccu-low-55790bb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-fccu-low-55790bb0.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-htc-low-9ad4805f",
+      "name": "XT4 3p PLUG-IN HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0603",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-htc-low-9ad4805f",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-htc-low-9ad4805f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-htc-low-9ad4805f.json"
+    },
+    {
+      "id": "abb-s5-4p-fixed-version-front-terminals-1000-v-607b9bd0",
+      "name": "S5 4p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035061",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s5-4p-fixed-version-front-terminals-1000-v-607b9bd0",
+      "recordPath": "equipment/abb-s5-4p-fixed-version-front-terminals-1000-v-607b9bd0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s5-4p-fixed-version-front-terminals-1000-v-607b9bd0.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-rhe-min-d563cdb0",
+      "name": "XT1 3p FIXED RHE MIN",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0035",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-rhe-min-d563cdb0",
+      "recordPath": "equipment/abb-xt1-3p-fixed-rhe-min-d563cdb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-rhe-min-d563cdb0.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-side-connector-for-ekip-touch-hi-touch-06c8add0",
+      "name": "XT2 3p Fixed Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0904",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-side-connector-for-ekip-touch-hi-touch-06c8add0",
+      "recordPath": "equipment/abb-xt2-3p-fixed-side-connector-for-ekip-touch-hi-touch-06c8add0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-side-connector-for-ekip-touch-hi-touch-06c8add0.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-low-12671cf9",
+      "name": "XT3 3p PLUG-IN FCCuAl EXTERNAL TERMINALS 2x150mm2 LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0452",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-low-12671cf9",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-low-12671cf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-low-12671cf9.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-htc-up-71717eef",
+      "name": "XT4 3p PLUG-IN HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0604",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-htc-up-71717eef",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-htc-up-71717eef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-htc-up-71717eef.json"
+    },
+    {
+      "id": "abb-s5-4p-fixed-version-terminals-for-cable-connection-2cfc802e",
+      "name": "S5 4p Fixed version Terminals for cable connection",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812051",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s5-4p-fixed-version-terminals-for-cable-connection-2cfc802e",
+      "recordPath": "equipment/abb-s5-4p-fixed-version-terminals-for-cable-connection-2cfc802e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s5-4p-fixed-version-terminals-for-cable-connection-2cfc802e.json"
+    },
+    {
+      "id": "abb-xt1-3p-fixed-rhe-min-wide-handle-44bd701f",
+      "name": "XT1 3p FIXED RHE MIN WIDE HANDLE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0036",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-fixed-rhe-min-wide-handle-44bd701f",
+      "recordPath": "equipment/abb-xt1-3p-fixed-rhe-min-wide-handle-44bd701f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-fixed-rhe-min-wide-handle-44bd701f.json"
+    },
+    {
+      "id": "abb-xt2-3p-plug-in-adapter-low-59f58919",
+      "name": "XT2 3p PLUG-IN ADAPTER LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0190",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-plug-in-adapter-low-59f58919",
+      "recordPath": "equipment/abb-xt2-3p-plug-in-adapter-low-59f58919.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-plug-in-adapter-low-59f58919.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-up-c8c8dc9c",
+      "name": "XT3 3p PLUG-IN FCCuAl EXTERNAL TERMINALS 2x150mm2 UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0453",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-up-c8c8dc9c",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-up-c8c8dc9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-fccual-external-terminals-2x150mm2-up-c8c8dc9c.json"
+    },
+    {
+      "id": "abb-xt4-3p-withdrawable-side-connector-for-ekip-touch-hi-touch-2e805a28",
+      "name": "XT4 3p Withdrawable Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0902",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-withdrawable-side-connector-for-ekip-touch-hi-touch-2e805a28",
+      "recordPath": "equipment/abb-xt4-3p-withdrawable-side-connector-for-ekip-touch-hi-touch-2e805a28.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-withdrawable-side-connector-for-ekip-touch-hi-touch-2e805a28.json"
+    },
+    {
+      "id": "abb-xt1-3p-plug-in-adapter-low-11052446",
+      "name": "XT1 3p PLUG-IN ADAPTER LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0039",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-plug-in-adapter-low-11052446",
+      "recordPath": "equipment/abb-xt1-3p-plug-in-adapter-low-11052446.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-plug-in-adapter-low-11052446.json"
+    },
+    {
+      "id": "abb-xt2-3p-plug-in-adapter-up-b45abbd5",
+      "name": "XT2 3p PLUG-IN ADAPTER UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0191",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-plug-in-adapter-up-b45abbd5",
+      "recordPath": "equipment/abb-xt2-3p-plug-in-adapter-up-b45abbd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-plug-in-adapter-up-b45abbd5.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-fixing-50mm-753d484f",
+      "name": "XT3 3p PLUG-IN FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0456",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-fixing-50mm-753d484f",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-fixing-50mm-753d484f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-fixing-50mm-753d484f.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-ef-low-6e0bcfb3",
+      "name": "XT4 4p FIXED EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0673",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-ef-low-6e0bcfb3",
+      "recordPath": "equipment/abb-xt4-4p-fixed-ef-low-6e0bcfb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-ef-low-6e0bcfb3.json"
+    },
+    {
+      "id": "abb-xt1-3p-plug-in-adapter-up-3b4c6df0",
+      "name": "XT1 3p PLUG-IN ADAPTER UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0040",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-plug-in-adapter-up-3b4c6df0",
+      "recordPath": "equipment/abb-xt1-3p-plug-in-adapter-up-3b4c6df0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-plug-in-adapter-up-3b4c6df0.json"
+    },
+    {
+      "id": "abb-xt2-3p-plug-in-ef-low-1727ed61",
+      "name": "XT2 3p PLUG-IN EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0192",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-plug-in-ef-low-1727ed61",
+      "recordPath": "equipment/abb-xt2-3p-plug-in-ef-low-1727ed61.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-plug-in-ef-low-1727ed61.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-fixing-70mm-5013c41a",
+      "name": "XT3 3p PLUG-IN FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0457",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-fixing-70mm-5013c41a",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-fixing-70mm-5013c41a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-fixing-70mm-5013c41a.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-ef-up-e66dd507",
+      "name": "XT4 4p FIXED EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0674",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-ef-up-e66dd507",
+      "recordPath": "equipment/abb-xt4-4p-fixed-ef-up-e66dd507.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-ef-up-e66dd507.json"
+    },
+    {
+      "id": "abb-xt1-3p-plug-in-ef-low-6d2ec384",
+      "name": "XT1 3p PLUG-IN EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0041",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-plug-in-ef-low-6d2ec384",
+      "recordPath": "equipment/abb-xt1-3p-plug-in-ef-low-6d2ec384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-plug-in-ef-low-6d2ec384.json"
+    },
+    {
+      "id": "abb-xt2-3p-plug-in-ef-up-f2b2c3ad",
+      "name": "XT2 3p PLUG-IN EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0193",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-plug-in-ef-up-f2b2c3ad",
+      "recordPath": "equipment/abb-xt2-3p-plug-in-ef-up-f2b2c3ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-plug-in-ef-up-f2b2c3ad.json"
+    },
+    {
+      "id": "abb-xt3-3p-plug-in-hr-low-6526956d",
+      "name": "XT3 3p PLUG-IN HR LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0458",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-plug-in-hr-low-6526956d",
+      "recordPath": "equipment/abb-xt3-3p-plug-in-hr-low-6526956d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-plug-in-hr-low-6526956d.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-fccu-low-afb91fed",
+      "name": "XT4 4p FIXED FCCu LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0682",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-fccu-low-afb91fed",
+      "recordPath": "equipment/abb-xt4-4p-fixed-fccu-low-afb91fed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-fccu-low-afb91fed.json"
+    },
+    {
+      "id": "abb-xt1-3p-plug-in-ef-up-a9ae1957",
+      "name": "XT1 3p PLUG-IN EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0042",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt1-3p-plug-in-ef-up-a9ae1957",
+      "recordPath": "equipment/abb-xt1-3p-plug-in-ef-up-a9ae1957.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt1-3p-plug-in-ef-up-a9ae1957.json"
+    }
+  ]
+}

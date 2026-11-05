@@ -24,7 +24,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Part number: SBE
 - Listed file formats: DWG, RFA, ZIP
 - Listed files: 3
-- Available previews: 3 drawing previews
+- Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
@@ -49,7 +49,7 @@ Available here: ZIP, DWG. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![Greenheck SBE fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-sbe-fans/greenheck-sbe-lod200-allsizes-zip?asset=9636142d46489cfda822cf336755cbf257cd56561185a6fd963f8eb52cef958d)
+![Greenheck SBE fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-sbe-fans/greenheck-sbe-3d-dwg?asset=02b8ce8f3dd036c6f33191667e8a6e5efd449356a15039cac18fcc50e981a285)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-sbe-fans). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

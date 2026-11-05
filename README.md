@@ -4,17 +4,18 @@ Open catalogue of official manufacturer CAD, BIM and electrical engineering draw
 
 **[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [JSON catalogue](data/catalogue.json) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
 
-The current snapshot contains **1580 catalogue entries**, **110 manufacturers**, **18 equipment categories**, and **1230 site download entries** representing **269 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
+The current snapshot contains **11932 catalogue entries**, **115 manufacturers**, **19 equipment categories**, and **11646 site download entries** representing **10374 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
 
 ## Find CAD
 
 - [Equipment index](equipment/README.md): one readable page per source, with manufacturer links, available files and rights evidence.
-- [Catalogue JSON](data/catalogue.json): complete metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions.
+- [Compact discovery index](data/index.json): category indexes in chunks of at most 250 records, with exact Markdown and live JSON links.
+- [Catalogue JSON](data/catalogue.json): complete bulk metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions. This large file is intended for local bulk processing; use the compact index for retrieval.
 - [Catalogue CSV](data/catalogue.csv): one row per source. [Files CSV](data/files.csv): one row per listed file.
 - [Live search API](docs/api.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access without an account.
 - [Coverage audit](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and acquisition priorities.
 
-The snapshot includes **1175 individually identified drawing entries** and **444 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
+The snapshot includes **1175 individually identified drawing entries** and **9250 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
 
 Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
 

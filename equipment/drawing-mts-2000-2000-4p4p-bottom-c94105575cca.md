@@ -32,7 +32,7 @@ This set uses the exact filename stem MTS-2000\_2000-4P4P. Its views are stored 
 
 A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
 
-In a microgrid switchroom, a transfer assembly can change selected loads from the incoming network to a standby generator when the designed conditions are met.
+When updating a panel drawing for MTS-2000 2000-4P4P, insert the front DWG for the panel elevation, then compare the bottom and top views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
 
 This set uses the exact filename stem MTS-2000\_2000-4P4P. Its views are stored in Tembreak 1/MTS. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 

@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "category": "cable-management",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-wireduct",
+      "name": "Wire Duct CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-wireduct",
+      "recordPath": "equipment/ad-wireduct.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-wireduct.json"
+    },
+    {
+      "id": "eaton-b-line-cable-ladder-and-tray-cospec",
+      "name": "B-Line cable ladder and tray CoSPEC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "DXF",
+        "IGES",
+        "PDMS",
+        "Revit",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-b-line-cable-ladder-and-tray-cospec",
+      "recordPath": "equipment/eaton-b-line-cable-ladder-and-tray-cospec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-b-line-cable-ladder-and-tray-cospec.json"
+    },
+    {
+      "id": "eaton-bline",
+      "name": "B-Line CoSPEC cable-management library",
+      "manufacturer": "Eaton B-Line",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-bline",
+      "recordPath": "equipment/eaton-bline.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-bline.json"
+    },
+    {
+      "id": "legrand-cablofil-cable-management-engineering-library",
+      "name": "Cablofil cable-management engineering library",
+      "manufacturer": "Legrand",
+      "formats": [
+        "3D CAD",
+        "AVEVA",
+        "Intergraph"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/legrand-cablofil-cable-management-engineering-library",
+      "recordPath": "equipment/legrand-cablofil-cable-management-engineering-library.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/legrand-cablofil-cable-management-engineering-library.json"
+    },
+    {
+      "id": "obo-bettermann-obo-cable-management-bim-library",
+      "name": "OBO cable management BIM library",
+      "manufacturer": "OBO Bettermann",
+      "formats": [
+        "BIM",
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/obo-bettermann-obo-cable-management-bim-library",
+      "recordPath": "equipment/obo-bettermann-obo-cable-management-bim-library.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/obo-bettermann-obo-cable-management-bim-library.json"
+    },
+    {
+      "id": "obo-bim",
+      "name": "OBO cable-management CAD and BIM support",
+      "manufacturer": "OBO Bettermann",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/obo-bim",
+      "recordPath": "equipment/obo-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/obo-bim.json"
+    },
+    {
+      "id": "panduit-design",
+      "name": "Panduit design tools and drawings",
+      "manufacturer": "Panduit",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/panduit-design",
+      "recordPath": "equipment/panduit-design.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/panduit-design.json"
+    },
+    {
+      "id": "roxtec-cable-and-pipe-penetration-seal-cad",
+      "name": "Cable and pipe penetration seal CAD",
+      "manufacturer": "Roxtec",
+      "formats": [
+        "DXF",
+        "EPLAN",
+        "RFA",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/roxtec-cable-and-pipe-penetration-seal-cad",
+      "recordPath": "equipment/roxtec-cable-and-pipe-penetration-seal-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/roxtec-cable-and-pipe-penetration-seal-cad.json"
+    },
+    {
+      "id": "drawing-cl-1515-8bf63827fd0a",
+      "name": "CL-1515 wire-retaining accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-1515-8bf63827fd0a",
+      "recordPath": "equipment/drawing-cl-1515-8bf63827fd0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-1515-8bf63827fd0a.json"
+    },
+    {
+      "id": "drawing-cl-1522-069ff659ac4c",
+      "name": "CL-1522 wire-retaining accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-1522-069ff659ac4c",
+      "recordPath": "equipment/drawing-cl-1522-069ff659ac4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-1522-069ff659ac4c.json"
+    },
+    {
+      "id": "drawing-cl-1530-9c9fe1a09ee6",
+      "name": "CL-1530 wire-retaining accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-1530-9c9fe1a09ee6",
+      "recordPath": "equipment/drawing-cl-1530-9c9fe1a09ee6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-1530-9c9fe1a09ee6.json"
+    },
+    {
+      "id": "drawing-cl-2215-8569cfaa6237",
+      "name": "CL-2215 wire-retaining accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-2215-8569cfaa6237",
+      "recordPath": "equipment/drawing-cl-2215-8569cfaa6237.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-2215-8569cfaa6237.json"
+    },
+    {
+      "id": "drawing-cl-2222-b0325df10248",
+      "name": "CL-2222 wire-retaining accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-2222-b0325df10248",
+      "recordPath": "equipment/drawing-cl-2222-b0325df10248.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-2222-b0325df10248.json"
+    },
+    {
+      "id": "drawing-cl-2230-885e2b04f795",
+      "name": "CL-2230 wire-retaining accessory",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-2230-885e2b04f795",
+      "recordPath": "equipment/drawing-cl-2230-885e2b04f795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-2230-885e2b04f795.json"
+    },
+    {
+      "id": "drawing-cl-2240-427f32d860b0",
+      "name": "CL-2240 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-2240-427f32d860b0",
+      "recordPath": "equipment/drawing-cl-2240-427f32d860b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-2240-427f32d860b0.json"
+    },
+    {
+      "id": "drawing-cl-3022-658d39209342",
+      "name": "CL-3022 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-3022-658d39209342",
+      "recordPath": "equipment/drawing-cl-3022-658d39209342.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-3022-658d39209342.json"
+    },
+    {
+      "id": "drawing-cl-3030-3d86d6dd2022",
+      "name": "CL-3030 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-3030-3d86d6dd2022",
+      "recordPath": "equipment/drawing-cl-3030-3d86d6dd2022.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-3030-3d86d6dd2022.json"
+    },
+    {
+      "id": "drawing-cl-3040-ddf951fbfd83",
+      "name": "CL-3040 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-3040-ddf951fbfd83",
+      "recordPath": "equipment/drawing-cl-3040-ddf951fbfd83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-3040-ddf951fbfd83.json"
+    },
+    {
+      "id": "drawing-cl-4022-a449e3318a0d",
+      "name": "CL-4022 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-4022-a449e3318a0d",
+      "recordPath": "equipment/drawing-cl-4022-a449e3318a0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-4022-a449e3318a0d.json"
+    },
+    {
+      "id": "drawing-cl-4030-38a41f5703c6",
+      "name": "CL-4030 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-4030-38a41f5703c6",
+      "recordPath": "equipment/drawing-cl-4030-38a41f5703c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-4030-38a41f5703c6.json"
+    },
+    {
+      "id": "drawing-cl-4040-4fc092fa4b83",
+      "name": "CL-4040 wire retainer drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-cl-4040-4fc092fa4b83",
+      "recordPath": "equipment/drawing-cl-4040-4fc092fa4b83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-cl-4040-4fc092fa4b83.json"
+    },
+    {
+      "id": "drawing-dn25ag-7dbe27b76e15",
+      "name": "DN25AG wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dn25ag-7dbe27b76e15",
+      "recordPath": "equipment/drawing-dn25ag-7dbe27b76e15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dn25ag-7dbe27b76e15.json"
+    },
+    {
+      "id": "drawing-dn35ag-9927da0ad7f3",
+      "name": "DN35AG wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dn35ag-9927da0ad7f3",
+      "recordPath": "equipment/drawing-dn35ag-9927da0ad7f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dn35ag-9927da0ad7f3.json"
+    },
+    {
+      "id": "drawing-dn45ag-81c97ca99515",
+      "name": "DN45AG wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dn45ag-81c97ca99515",
+      "recordPath": "equipment/drawing-dn45ag-81c97ca99515.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dn45ag-81c97ca99515.json"
+    },
+    {
+      "id": "drawing-r4-33739efa0ee1",
+      "name": "R4 wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-r4-33739efa0ee1",
+      "recordPath": "equipment/drawing-r4-33739efa0ee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-r4-33739efa0ee1.json"
+    },
+    {
+      "id": "drawing-r6-822632b85ec0",
+      "name": "R6 wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-r6-822632b85ec0",
+      "recordPath": "equipment/drawing-r6-822632b85ec0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-r6-822632b85ec0.json"
+    },
+    {
+      "id": "drawing-sep-15e-52ce897ffc10",
+      "name": "SEP-15E wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sep-15e-52ce897ffc10",
+      "recordPath": "equipment/drawing-sep-15e-52ce897ffc10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sep-15e-52ce897ffc10.json"
+    },
+    {
+      "id": "drawing-sep-22e-c817595a5064",
+      "name": "SEP-22E wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sep-22e-c817595a5064",
+      "recordPath": "equipment/drawing-sep-22e-c817595a5064.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sep-22e-c817595a5064.json"
+    },
+    {
+      "id": "drawing-sep-30e-a76897775df6",
+      "name": "SEP-30E wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-sep-30e-a76897775df6",
+      "recordPath": "equipment/drawing-sep-30e-a76897775df6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-sep-30e-a76897775df6.json"
+    },
+    {
+      "id": "drawing-t1-0506g-59d50520cede",
+      "name": "T1-0506G wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-t1-0506g-59d50520cede",
+      "recordPath": "equipment/drawing-t1-0506g-59d50520cede.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-t1-0506g-59d50520cede.json"
+    },
+    {
+      "id": "drawing-t1-0510g-3c567bc6dbb7",
+      "name": "T1-0510G wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-t1-0510g-3c567bc6dbb7",
+      "recordPath": "equipment/drawing-t1-0510g-3c567bc6dbb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-t1-0510g-3c567bc6dbb7.json"
+    },
+    {
+      "id": "drawing-t1-1010g-c7eb41b3d004",
+      "name": "T1-1010G wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-t1-1010g-c7eb41b3d004",
+      "recordPath": "equipment/drawing-t1-1010g-c7eb41b3d004.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-t1-1010g-c7eb41b3d004.json"
+    },
+    {
+      "id": "drawing-t1-1015g-3c69b6a02f6b",
+      "name": "T1-1015G wiring route component drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-t1-1015g-3c69b6a02f6b",
+      "recordPath": "equipment/drawing-t1-1015g-3c69b6a02f6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-t1-1015g-3c69b6a02f6b.json"
+    }
+  ]
+}

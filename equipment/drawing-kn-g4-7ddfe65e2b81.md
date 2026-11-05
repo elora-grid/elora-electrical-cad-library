@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/Konnect-It/KN-G4.DWG, a 
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+When placing KN-G4 in a rail-mounted terminal strip, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Check conductor approach, screwdriver access and identification space before fixing the next device. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Other PLC Products/Konnect-It/KN-G4.DWG, a 141,038-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

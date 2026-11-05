@@ -11,10 +11,10 @@ async function source(name,path){
   if(input)return JSON.parse(await readFile(join(input,name),'utf8'));
   const response=await fetch(`${BASE}/${path}`,{signal:AbortSignal.timeout(60000),redirect:'error',headers:{Accept:'application/json'}});
   if(!response.ok)throw Error(`Public feed ${name}: HTTP ${response.status}`);
-  const body=await response.text();if(body.length>30000000)throw Error('Public feed exceeds export size limit');
+  const body=await response.text();if(Buffer.byteLength(body)>100000000)throw Error('Public feed exceeds export size limit');
   return JSON.parse(body);
 }
-const catalogue=validateCatalogue(await source('catalogue.json','catalogue.json?all=1'));
+const catalogue=validateCatalogue(await source('catalogue.json','../../cad-library/catalogue.json'));
 const openapi=await source('openapi.json','openapi.json');
 const audit=await source('audit.json','catalogue.json?audit=1');
 if(openapi.openapi!=='3.1.0'||openapi.servers?.[0]?.url!=='https://eloragrid.ai'||!openapi.paths?.[`${new URL(BASE).pathname}/catalogue.json`])throw Error('Unexpected OpenAPI source');
@@ -24,7 +24,9 @@ const counts=snapshotCounts(records);
 const sourceAudit=sourceAuditSummary(audit,counts);
 const outputs=new Map();
 const json=value=>JSON.stringify(value,null,2)+'\n';
-outputs.set('data/catalogue.json',json(catalogue));
+// Preserve the complete schema-v3 export below GitHub's 100 MiB file limit.
+// Small discovery shards below avoid requiring agents to fetch this bulk file.
+outputs.set('data/catalogue.json',JSON.stringify(catalogue)+'\n');
 outputs.set('schema/catalogue.schema.json',json(SCHEMA));
 outputs.set('openapi.json',json(openapi));
 outputs.set('data/catalogue.csv',csv([
@@ -36,10 +38,23 @@ outputs.set('data/files.csv',csv([
   ...records.flatMap(r=>r.files.map(f=>[r.id,f.id,r.manufacturer,f.name,f.format,f.purpose,f.url,f.downloadUrl,f.redistribution,f.license?.id,f.license?.url,f.sha256,f.bytes,f.revision,f.retrievedAt,f.hostingBasis?.policy,f.hostingBasis?.checkedAt,f.hostingBasis?.attribution,f.delivery?.kind||(f.delivery?'licensed-bundle':''),f.delivery?.format,f.delivery?.sha256,f.delivery?.bytes,f.archiveMember]))
 ]));
 for(const r of records)outputs.set(`equipment/${r.id}.md`,entryMarkdown(r));
+const categoryIndexes=[];
+for(const [id,label] of Object.entries(CATEGORIES)) {
+  const items=records.filter(r=>r.category===id),pages=[];
+  for(let start=0;start<items.length;start+=250) {
+    const batch=items.slice(start,start+250),page=Math.floor(start/250)+1;
+    const path=`data/indexes/${id}-${page}.json`,directory=`equipment/index-${id}-${page}.md`;
+    outputs.set(path,json({schemaVersion:1,category:id,page,entries:batch.map(r=>({id:r.id,name:r.name,manufacturer:r.manufacturer,drawingNumber:r.drawingNumber,formats:r.formats,canonicalUrl:r.canonicalUrl,recordPath:`equipment/${r.id}.md`,jsonUrl:`${BASE}/entries/${r.id}.json`}))}));
+    outputs.set(directory,[`# ${label} — page ${page}`,'',`[All categories](README.md) · [Live category](${BASE}/categories/${id})`,'',...batch.map(r=>`- [${clean(r.manufacturer)}: ${clean(r.name).replace(/[\[\]]/g,'')}](${r.id}.md)`),''].join('\n'));
+    pages.push({path,directory,count:batch.length});
+  }
+  categoryIndexes.push({id,name:label,count:items.length,pages});
+}
+outputs.set('data/index.json',json({schemaVersion:1,canonical:BASE,counts,categories:categoryIndexes}));
 outputs.set('equipment/README.md',[
   '# Equipment directory','',`Browse [Elora's CAD library](${BASE}) or search [the JSON catalogue](../data/catalogue.json).`,'',
-  ...Object.entries(CATEGORIES).flatMap(([id,label])=>[
-    `## ${label}`,'',...records.filter(r=>r.category===id).map(r=>`- [${clean(r.manufacturer)}: ${clean(r.name).replace(/[\[\]]/g,'')}](${r.id}.md)`),''
+  ...categoryIndexes.flatMap(category=>[
+    `## ${category.name} (${category.count} entries)`,'',...category.pages.map((page,i)=>`- [Entries ${i*250+1}–${i*250+page.count}](${page.directory.replace('equipment/','')})`),''
   ])
 ].join('\n'));
 outputs.set('data/manifest.json',json({schemaVersion:1,repository:REPOSITORY,canonical:BASE,sourceFeed:`${BASE}/catalogue.json?all=1`,counts,sourceAuditAt:audit.auditedAt,sourceAudit,licensing:{catalogue:'CC-BY-4.0',code:'MIT',manufacturerCad:'Per-file rights; no blanket licence'},files:Object.fromEntries([...outputs].map(([name,body])=>[name,{sha256:createHash('sha256').update(body).digest('hex'),bytes:Buffer.byteLength(body)}]))}));
@@ -50,7 +65,8 @@ outputs.set('README.md',[
   `The current snapshot contains **${counts.entries} catalogue entries**, **${counts.manufacturers} manufacturers**, **${counts.categories} equipment categories**, and **${counts.hostedFileEntries} site download entries** representing **${counts.distinctHostedOriginals} distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)`,'',
   '## Find CAD','',
   '- [Equipment index](equipment/README.md): one readable page per source, with manufacturer links, available files and rights evidence.',
-  '- [Catalogue JSON](data/catalogue.json): complete metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions.',
+  '- [Compact discovery index](data/index.json): category indexes in chunks of at most 250 records, with exact Markdown and live JSON links.',
+  '- [Catalogue JSON](data/catalogue.json): complete bulk metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions. This large file is intended for local bulk processing; use the compact index for retrieval.',
   '- [Catalogue CSV](data/catalogue.csv): one row per source. [Files CSV](data/files.csv): one row per listed file.',
   '- [Live search API](docs/api.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access without an account.',
   '- [Coverage audit]('+BASE+'/coverage): collection gaps and acquisition priorities.','',
@@ -75,6 +91,7 @@ outputs.set('README.md',[
 ].join('\n'));
 // Validate the whole candidate snapshot before replacing any generated file.
 for(const [name,body] of outputs){await mkdir(resolve(root,name,'..'),{recursive:true});await writeFile(join(root,name),body);}
-const keep=new Set(records.map(r=>r.id+'.md').concat('README.md'));
+const keep=new Set([...outputs.keys()].filter(name=>name.startsWith('equipment/')).map(name=>name.slice('equipment/'.length)));
 for(const name of await readdir(join(root,'equipment')))if(name.endsWith('.md')&&!keep.has(name))await unlink(join(root,'equipment',name));
+for(const name of await readdir(join(root,'data/indexes')))if(!outputs.has('data/indexes/'+name))await unlink(join(root,'data/indexes',name));
 console.log(JSON.stringify({source:BASE,...counts}));

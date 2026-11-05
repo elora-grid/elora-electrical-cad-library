@@ -32,7 +32,7 @@ The verified native member is Operator Interface/Cmore Micro Graphic/EA3-S3ML-R.
 
 An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
 
-In a switchroom, the screen can show which feeders are running and identify the equipment associated with an alarm.
+For compact operator-panel coordination, place the EA3-S3ML-R outline alongside the actual enclosure and adjacent hardware. Coordinate the front-panel footprint with the rear connector approach and any accessory clearance shown by the drawing. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Operator Interface/Cmore Micro Graphic/EA3-S3ML-R.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the front-panel footprint with the rear connector approach and any accessory clearance shown by the drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: EA3-S3ML-RN. Grouping does not establish electrical interchangeability.
 

@@ -32,7 +32,7 @@ The verified native member is PLC Families/CLICK/C0-11DRE-D.dwg. Its identity wa
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For CLICK cabinet coordination, place the C0-11DRE-D outline alongside the actual enclosure and adjacent hardware. Plan the controller and expansion devices together, with separate space for terminal wiring and programming access. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is PLC Families/CLICK/C0-11DRE-D.dwg. Its identity was checked against the acquired manufacturer archive. Plan the controller and expansion devices together, with separate space for terminal wiring and programming access. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

@@ -32,7 +32,7 @@ Use the official engineering route and the full configured drive code. For detai
 
 This manufacturer resource helps you find drawings or select versions of variable frequency drives, VLT drives, drive cabinets. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected variable frequency drives drawing before reserving its space, mounting points and cable routes in the layout.
+A switchroom design can need the selected drive cabinet’s dimensions and cable entry, while the electrical package needs its configured connection documents.
 
 Use the official engineering route and the full configured drive code. For detailed planning CAD, request the exact frame, enclosure and options instead of substituting a similar catalogue outline. This source remains a request route: no unverified exact CAD file is presented as an available download.
 

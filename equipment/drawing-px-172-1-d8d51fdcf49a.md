@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-172-1.dwg. Its i
 
 An input module brings measurements or on/off signals from equipment into a controller so its program can respond.
 
-In a substation control panel, an input module can report whether a breaker is open or closed.
+For example, in a pump panel collecting status from level and position switches, use the PX-172-1 reference to coordinate field-input terminals, identification labels and module replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Protos X IO/PX-172-1.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: PX-172-2, PX-272-1. Grouping does not establish electrical interchangeability.
 

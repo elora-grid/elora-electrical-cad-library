@@ -32,7 +32,7 @@ Use the original file identity and the selected hardware’s documentation toget
 
 A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
 
-Inside a switchgear lineup, the incoming breaker can feed busbars that supply the outgoing feeder breakers.
+An existing-system project can compare this historical model with the actual installed distributor before selecting a current replacement or adjacent module.
 
 Use the original file identity and the selected hardware’s documentation together. Do not infer a connector size from this unqualified filename. Victron publishes separate M10 geometry and legacy product information, so confirm the joint arrangement and revision for the actual installation.
 

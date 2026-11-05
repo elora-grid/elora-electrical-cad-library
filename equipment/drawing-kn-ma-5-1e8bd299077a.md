@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/Konnect-It/KN-MA-5.dwg, 
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+For example, in a field-terminal row where circuit identifiers must remain readable, use the KN-MA-5 reference to coordinate holder attachment, label visibility and adjacent terminal access. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Other PLC Products/Konnect-It/KN-MA-5.dwg, a 156,980-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. The label holder does not carry out the terminal connection or establish conductor ratings. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

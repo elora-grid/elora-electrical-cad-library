@@ -33,7 +33,7 @@ Open BX-04AD-3.dwg and check the selected terminal block and channel configurati
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+A panel can receive different supported analogue signal types while the designer uses the matching module drawing for physical coordination.
 
 Open BX-04AD-3.dwg and check the selected terminal block and channel configuration in the manufacturer documentation. A universal-input label does not mean arbitrary signals can be connected without configuration or that the adjacent module’s wiring applies unchanged.
 

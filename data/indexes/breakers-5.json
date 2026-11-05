@@ -1,0 +1,3098 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 5,
+  "entries": [
+    {
+      "id": "abb-a2-4p-htc-up-b053db5f4f",
+      "name": "A2 4p HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0123",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a2-4p-htc-up-b053db5f4f",
+      "recordPath": "equipment/abb-a2-4p-htc-up-b053db5f4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a2-4p-htc-up-b053db5f4f.json"
+    },
+    {
+      "id": "abb-a2-4p-ltc-up-2ec13d20d2",
+      "name": "A2 4p LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0125",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a2-4p-ltc-up-2ec13d20d2",
+      "recordPath": "equipment/abb-a2-4p-ltc-up-2ec13d20d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a2-4p-ltc-up-2ec13d20d2.json"
+    },
+    {
+      "id": "abb-a2-4p-ps-100mm-up-ac19c503a7",
+      "name": "A2 4p PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0127",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a2-4p-ps-100mm-up-ac19c503a7",
+      "recordPath": "equipment/abb-a2-4p-ps-100mm-up-ac19c503a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a2-4p-ps-100mm-up-ac19c503a7.json"
+    },
+    {
+      "id": "abb-a2-4p-ps-80mm-up-be5027e1d6",
+      "name": "A2 4p PS 80mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0129",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a2-4p-ps-80mm-up-be5027e1d6",
+      "recordPath": "equipment/abb-a2-4p-ps-80mm-up-be5027e1d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a2-4p-ps-80mm-up-be5027e1d6.json"
+    },
+    {
+      "id": "abb-a3-3p-fccual-2x240mmq-up-38acf12491",
+      "name": "A3 3p FCCuAl 2x240mmq UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0139",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-3p-fccual-2x240mmq-up-38acf12491",
+      "recordPath": "equipment/abb-a3-3p-fccual-2x240mmq-up-38acf12491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-3p-fccual-2x240mmq-up-38acf12491.json"
+    },
+    {
+      "id": "abb-a3-3p-fccual-300mmq-up-a00a454fdc",
+      "name": "A3 3p FCCuAl 300mmq UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0141",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-3p-fccual-300mmq-up-a00a454fdc",
+      "recordPath": "equipment/abb-a3-3p-fccual-300mmq-up-a00a454fdc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-3p-fccual-300mmq-up-a00a454fdc.json"
+    },
+    {
+      "id": "abb-a3-3p-htc-up-db2b7eaac0",
+      "name": "A3 3p HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0144",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-3p-htc-up-db2b7eaac0",
+      "recordPath": "equipment/abb-a3-3p-htc-up-db2b7eaac0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-3p-htc-up-db2b7eaac0.json"
+    },
+    {
+      "id": "abb-a3-3p-ps-100mm-up-5c5e8ab92b",
+      "name": "A3 3p PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0146",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-3p-ps-100mm-up-5c5e8ab92b",
+      "recordPath": "equipment/abb-a3-3p-ps-100mm-up-5c5e8ab92b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-3p-ps-100mm-up-5c5e8ab92b.json"
+    },
+    {
+      "id": "abb-a3-3p-ps-200mm-up-ed774d450f",
+      "name": "A3 3p PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0148",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-3p-ps-200mm-up-ed774d450f",
+      "recordPath": "equipment/abb-a3-3p-ps-200mm-up-ed774d450f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-3p-ps-200mm-up-ed774d450f.json"
+    },
+    {
+      "id": "abb-a3-3p-ps-20mm-up-614f0caff7",
+      "name": "A3 3p PS 20mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0150",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-3p-ps-20mm-up-614f0caff7",
+      "recordPath": "equipment/abb-a3-3p-ps-20mm-up-614f0caff7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-3p-ps-20mm-up-614f0caff7.json"
+    },
+    {
+      "id": "abb-a3-4p-fccual-2x240mmq-up-069532afed",
+      "name": "A3 4p FCCuAl 2x240mmq UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0160",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-4p-fccual-2x240mmq-up-069532afed",
+      "recordPath": "equipment/abb-a3-4p-fccual-2x240mmq-up-069532afed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-4p-fccual-2x240mmq-up-069532afed.json"
+    },
+    {
+      "id": "abb-a3-4p-fccual-300mmq-up-e3388c6414",
+      "name": "A3 4p FCCuAl 300mmq UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0162",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-4p-fccual-300mmq-up-e3388c6414",
+      "recordPath": "equipment/abb-a3-4p-fccual-300mmq-up-e3388c6414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-4p-fccual-300mmq-up-e3388c6414.json"
+    },
+    {
+      "id": "abb-a3-4p-htc-up-6c8bf2c7e3",
+      "name": "A3 4p HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0165",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-4p-htc-up-6c8bf2c7e3",
+      "recordPath": "equipment/abb-a3-4p-htc-up-6c8bf2c7e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-4p-htc-up-6c8bf2c7e3.json"
+    },
+    {
+      "id": "abb-a3-4p-ps-100mm-up-ef0a72275f",
+      "name": "A3 4p PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0167",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-4p-ps-100mm-up-ef0a72275f",
+      "recordPath": "equipment/abb-a3-4p-ps-100mm-up-ef0a72275f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-4p-ps-100mm-up-ef0a72275f.json"
+    },
+    {
+      "id": "abb-a3-4p-ps-200mm-up-0f16f83b65",
+      "name": "A3 4p PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0169",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-4p-ps-200mm-up-0f16f83b65",
+      "recordPath": "equipment/abb-a3-4p-ps-200mm-up-0f16f83b65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-4p-ps-200mm-up-0f16f83b65.json"
+    },
+    {
+      "id": "abb-a3-4p-ps-20mm-up-57d8efd308",
+      "name": "A3 4p PS 20mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001294R0171",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a3-4p-ps-20mm-up-57d8efd308",
+      "recordPath": "equipment/abb-a3-4p-ps-20mm-up-57d8efd308.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a3-4p-ps-20mm-up-57d8efd308.json"
+    },
+    {
+      "id": "abb-afdd-mcb-3d-drawing-4d70eab062",
+      "name": "AFDD MCB 3D Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A2986; 9AKK108469A2984",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-afdd-mcb-3d-drawing-4d70eab062",
+      "recordPath": "equipment/abb-afdd-mcb-3d-drawing-4d70eab062.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-afdd-mcb-3d-drawing-4d70eab062.json"
+    },
+    {
+      "id": "abb-afdd-rcbo-3d-drawing-429f6d39dd",
+      "name": "AFDD RCBO 3D Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A2987; 9AKK108469A2985",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-afdd-rcbo-3d-drawing-429f6d39dd",
+      "recordPath": "equipment/abb-afdd-rcbo-3d-drawing-429f6d39dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-afdd-rcbo-3d-drawing-429f6d39dd.json"
+    },
+    {
+      "id": "abb-aux-4q-e2-2-e4-2-e6-2-16fdede608",
+      "name": "AUX 4Q E2.2 E4.2 E6.2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0306",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-aux-4q-e2-2-e4-2-e6-2-16fdede608",
+      "recordPath": "equipment/abb-aux-4q-e2-2-e4-2-e6-2-16fdede608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-aux-4q-e2-2-e4-2-e6-2-16fdede608.json"
+    },
+    {
+      "id": "abb-contact-signalling-of-ekip-s51-e2-2-e4-2-e29cd909fb",
+      "name": "CONTACT SIGNALLING OF EKIP S51 E2.2 E4.2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0310",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-contact-signalling-of-ekip-s51-e2-2-e4-2-e29cd909fb",
+      "recordPath": "equipment/abb-contact-signalling-of-ekip-s51-e2-2-e4-2-e29cd909fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-contact-signalling-of-ekip-s51-e2-2-e4-2-e29cd909fb.json"
+    },
+    {
+      "id": "abb-cs-ext-neutral-conductor-e1-2-e2-2-xt7-ul-dcc7a01995",
+      "name": "CS EXT NEUTRAL CONDUCTOR E1.2-E2.2-XT7 UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0430",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-ext-neutral-conductor-e1-2-e2-2-xt7-ul-dcc7a01995",
+      "recordPath": "equipment/abb-cs-ext-neutral-conductor-e1-2-e2-2-xt7-ul-dcc7a01995.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-ext-neutral-conductor-e1-2-e2-2-xt7-ul-dcc7a01995.json"
+    },
+    {
+      "id": "abb-cs-ext-neutral-conductor-e4-2-e6-2-50-ul-f9d21a56f6",
+      "name": "CS EXT NEUTRAL CONDUCTOR E4.2-E6.2 50% UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0429",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-ext-neutral-conductor-e4-2-e6-2-50-ul-f9d21a56f6",
+      "recordPath": "equipment/abb-cs-ext-neutral-conductor-e4-2-e6-2-50-ul-f9d21a56f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-ext-neutral-conductor-e4-2-e6-2-50-ul-f9d21a56f6.json"
+    },
+    {
+      "id": "abb-cs-ext-neutral-conductor-e6-2-100-ul-465746625e",
+      "name": "CS EXT NEUTRAL CONDUCTOR E6.2 100% UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0428",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-ext-neutral-conductor-e6-2-100-ul-465746625e",
+      "recordPath": "equipment/abb-cs-ext-neutral-conductor-e6-2-100-ul-465746625e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-ext-neutral-conductor-e6-2-100-ul-465746625e.json"
+    },
+    {
+      "id": "abb-cs-external-neutral-conductor-e1-2-e2-2-xt7-2000a-6b7445e249",
+      "name": "CS EXTERNAL NEUTRAL CONDUCTOR E1.2-E2.2-XT7 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0301",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-external-neutral-conductor-e1-2-e2-2-xt7-2000a-6b7445e249",
+      "recordPath": "equipment/abb-cs-external-neutral-conductor-e1-2-e2-2-xt7-2000a-6b7445e249.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-external-neutral-conductor-e1-2-e2-2-xt7-2000a-6b7445e249.json"
+    },
+    {
+      "id": "abb-cs-external-neutral-conductor-e2-2-2500a-7fec9a8e1c",
+      "name": "CS EXTERNAL NEUTRAL CONDUCTOR E2.2 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0302",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-external-neutral-conductor-e2-2-2500a-7fec9a8e1c",
+      "recordPath": "equipment/abb-cs-external-neutral-conductor-e2-2-2500a-7fec9a8e1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-external-neutral-conductor-e2-2-2500a-7fec9a8e1c.json"
+    },
+    {
+      "id": "abb-cs-external-neutral-conductor-e4-2-3200a-b7572d5a9b",
+      "name": "CS EXTERNAL NEUTRAL CONDUCTOR E4.2 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0303",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-external-neutral-conductor-e4-2-3200a-b7572d5a9b",
+      "recordPath": "equipment/abb-cs-external-neutral-conductor-e4-2-3200a-b7572d5a9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-external-neutral-conductor-e4-2-3200a-b7572d5a9b.json"
+    },
+    {
+      "id": "abb-cs-external-neutral-conductor-e4-2-4000a-e6-2-n-50-684c88ab8c",
+      "name": "CS EXTERNAL NEUTRAL CONDUCTOR E4.2 4000A - E6.2 N 50%",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0304",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cs-external-neutral-conductor-e4-2-4000a-e6-2-n-50-684c88ab8c",
+      "recordPath": "equipment/abb-cs-external-neutral-conductor-e4-2-4000a-e6-2-n-50-684c88ab8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cs-external-neutral-conductor-e4-2-4000a-e6-2-n-50-684c88ab8c.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-emax-2-apparatus-04ba84dc72",
+      "name": "Circuit diagram for transfer switching - ABB Emax - 2 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3895",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-emax-2-apparatus-04ba84dc72",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-emax-2-apparatus-04ba84dc72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-emax-2-apparatus-04ba84dc72.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-emax-3-apparatus-bf86bc2b81",
+      "name": "Circuit diagram for transfer switching - ABB Emax - 3 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3901",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-emax-3-apparatus-bf86bc2b81",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-emax-3-apparatus-bf86bc2b81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-emax-3-apparatus-bf86bc2b81.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-2-apparatus-fd6bc90019",
+      "name": "Circuit diagram for transfer switching - ABB T4/ T5/ T6 - 2 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3896",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-2-apparatus-fd6bc90019",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-2-apparatus-fd6bc90019.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-2-apparatus-fd6bc90019.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-3-apparatus-b5ddc0af5d",
+      "name": "Circuit diagram for transfer switching - ABB T4/ T5/ T6 - 3 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3902",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-3-apparatus-b5ddc0af5d",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-3-apparatus-b5ddc0af5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-3-apparatus-b5ddc0af5d.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-t7-x1-2-apparatus-d9afdcaa21",
+      "name": "Circuit diagram for transfer switching - ABB T7/ X1 - 2 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3898",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-t7-x1-2-apparatus-d9afdcaa21",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-t7-x1-2-apparatus-d9afdcaa21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-t7-x1-2-apparatus-d9afdcaa21.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-t7-x1-3-apparatus-5324e9c6ff",
+      "name": "Circuit diagram for transfer switching - ABB T7/ X1 - 3 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3903",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-t7-x1-3-apparatus-5324e9c6ff",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-t7-x1-3-apparatus-5324e9c6ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-t7-x1-3-apparatus-5324e9c6ff.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-2-apparatus-a3ee6d8eb6",
+      "name": "Circuit diagram for transfer switching - ABB XT1/XT3 - 2 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3899",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-2-apparatus-a3ee6d8eb6",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-2-apparatus-a3ee6d8eb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-2-apparatus-a3ee6d8eb6.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-3-apparatus-546a02abd9",
+      "name": "Circuit diagram for transfer switching - ABB XT1/XT3 - 3 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3904",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-3-apparatus-546a02abd9",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-3-apparatus-546a02abd9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-xt1-xt3-3-apparatus-546a02abd9.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-2-apparatus-5b12625946",
+      "name": "Circuit diagram for transfer switching - ABB XT2/XT4 - 2 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3900",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-2-apparatus-5b12625946",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-2-apparatus-5b12625946.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-2-apparatus-5b12625946.json"
+    },
+    {
+      "id": "abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-3-apparatus-7ca98c80e0",
+      "name": "Circuit diagram for transfer switching - ABB XT2/XT4 - 3 apparatus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A3905",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-3-apparatus-7ca98c80e0",
+      "recordPath": "equipment/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-3-apparatus-7ca98c80e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-3-apparatus-7ca98c80e0.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-devicenet-5c90af705b",
+      "name": "Connection schemes Tmax XT with DeviceNet",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5504",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-devicenet-5c90af705b",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-devicenet-5c90af705b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-devicenet-5c90af705b.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-ethernet-ip-496b9b7a48",
+      "name": "Connection schemes Tmax XT with Ethernet IP",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5508",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-ethernet-ip-496b9b7a48",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-ethernet-ip-496b9b7a48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-ethernet-ip-496b9b7a48.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-iec-61850-83daa42528",
+      "name": "Connection schemes Tmax XT with IEC 61850",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5520",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-iec-61850-83daa42528",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-iec-61850-83daa42528.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-iec-61850-83daa42528.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-modbus-rtu-4815d69774",
+      "name": "Connection schemes Tmax XT with Modbus RTU",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5522",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-modbus-rtu-4815d69774",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-modbus-rtu-4815d69774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-modbus-rtu-4815d69774.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-modbus-tcp-b2b5639cf6",
+      "name": "Connection schemes Tmax XT with Modbus TCP",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5524",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-modbus-tcp-b2b5639cf6",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-modbus-tcp-b2b5639cf6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-modbus-tcp-b2b5639cf6.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-profinet-bcadd360a2",
+      "name": "Connection schemes Tmax XT with ProfiNet",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5528",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-profinet-bcadd360a2",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-profinet-bcadd360a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-profinet-bcadd360a2.json"
+    },
+    {
+      "id": "abb-connection-schemes-tmax-xt-with-profibus-b22dbac852",
+      "name": "Connection schemes Tmax XT with Profibus",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5526",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-tmax-xt-with-profibus-b22dbac852",
+      "recordPath": "equipment/abb-connection-schemes-tmax-xt-with-profibus-b22dbac852.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-tmax-xt-with-profibus-b22dbac852.json"
+    },
+    {
+      "id": "abb-connection-schemes-with-tmax-xt-and-ethernet-ip-7ca66ef458",
+      "name": "Connection schemes with Tmax XT and Ethernet IP",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A5509",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-schemes-with-tmax-xt-and-ethernet-ip-7ca66ef458",
+      "recordPath": "equipment/abb-connection-schemes-with-tmax-xt-and-ethernet-ip-7ca66ef458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-schemes-with-tmax-xt-and-ethernet-ip-7ca66ef458.json"
+    },
+    {
+      "id": "abb-dct880-t1-t8-dimensioning-drawings-3d-step-7103e931b6",
+      "name": "DCT880 T1-T8 - Dimensioning Drawings - 3D",
+      "manufacturer": "ABB",
+      "drawingNumber": "3ADW000829R",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dct880-t1-t8-dimensioning-drawings-3d-step-7103e931b6",
+      "recordPath": "equipment/abb-dct880-t1-t8-dimensioning-drawings-3d-step-7103e931b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dct880-t1-t8-dimensioning-drawings-3d-step-7103e931b6.json"
+    },
+    {
+      "id": "abb-dda202-up-to-40a-2d-bd8cde5df9",
+      "name": "DDA202 up to 40A_2D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A3984",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dda202-up-to-40a-2d-bd8cde5df9",
+      "recordPath": "equipment/abb-dda202-up-to-40a-2d-bd8cde5df9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dda202-up-to-40a-2d-bd8cde5df9.json"
+    },
+    {
+      "id": "abb-dda202-up-to-40a-3d-9e1995c4c0",
+      "name": "DDA202 up to 40A_3D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A4046",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dda202-up-to-40a-3d-9e1995c4c0",
+      "recordPath": "equipment/abb-dda202-up-to-40a-3d-9e1995c4c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dda202-up-to-40a-3d-9e1995c4c0.json"
+    },
+    {
+      "id": "abb-dda203-up-to-40a-2d-e7d1a5cc73",
+      "name": "DDA203 up to 40A_2D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A3987",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dda203-up-to-40a-2d-e7d1a5cc73",
+      "recordPath": "equipment/abb-dda203-up-to-40a-2d-e7d1a5cc73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dda203-up-to-40a-2d-e7d1a5cc73.json"
+    },
+    {
+      "id": "abb-dda204-up-to-40a-2d-ef8c2cac04",
+      "name": "DDA204 up to 40A_2D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A3989",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dda204-up-to-40a-2d-ef8c2cac04",
+      "recordPath": "equipment/abb-dda204-up-to-40a-2d-ef8c2cac04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dda204-up-to-40a-2d-ef8c2cac04.json"
+    },
+    {
+      "id": "abb-dda204-up-to-40a-3d-36eb535ea4",
+      "name": "DDA204 up to 40A_3D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A4052",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dda204-up-to-40a-3d-36eb535ea4",
+      "recordPath": "equipment/abb-dda204-up-to-40a-3d-36eb535ea4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dda204-up-to-40a-3d-36eb535ea4.json"
+    },
+    {
+      "id": "abb-dpt250-cb-3d-drawing-c0cb4312ac",
+      "name": "DPT250-CB-3D Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A3324",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dpt250-cb-3d-drawing-c0cb4312ac",
+      "recordPath": "equipment/abb-dpt250-cb-3d-drawing-c0cb4312ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dpt250-cb-3d-drawing-c0cb4312ac.json"
+    },
+    {
+      "id": "abb-dpt63-cb-3d-drawing-b0aef787bc",
+      "name": "DPT63-CB-3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A3320",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dpt63-cb-3d-drawing-b0aef787bc",
+      "recordPath": "equipment/abb-dpt63-cb-3d-drawing-b0aef787bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dpt63-cb-3d-drawing-b0aef787bc.json"
+    },
+    {
+      "id": "abb-ds203-up-to-40a-2d-drawing-13631e6718",
+      "name": "DS203 up to 40A - 2D Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106713A1590",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ds203-up-to-40a-2d-drawing-13631e6718",
+      "recordPath": "equipment/abb-ds203-up-to-40a-2d-drawing-13631e6718.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ds203-up-to-40a-2d-drawing-13631e6718.json"
+    },
+    {
+      "id": "abb-ds204-up-to-40a-2d-drawing-4e4d68af08",
+      "name": "DS204 up to 40A - 2D Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106713A1592",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ds204-up-to-40a-2d-drawing-4e4d68af08",
+      "recordPath": "equipment/abb-ds204-up-to-40a-2d-drawing-4e4d68af08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ds204-up-to-40a-2d-drawing-4e4d68af08.json"
+    },
+    {
+      "id": "abb-detailed-rhe-mb-3d-mechanical-drawing-8af77a4b19",
+      "name": "Detailed RHE MB 3D mechanical drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A0441",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-detailed-rhe-mb-3d-mechanical-drawing-8af77a4b19",
+      "recordPath": "equipment/abb-detailed-rhe-mb-3d-mechanical-drawing-8af77a4b19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-detailed-rhe-mb-3d-mechanical-drawing-8af77a4b19.json"
+    },
+    {
+      "id": "abb-detailed-shaft-support-3d-mechanical-drawing-537800fb80",
+      "name": "Detailed shaft support 3D mechanical drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A0441",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-detailed-shaft-support-3d-mechanical-drawing-537800fb80",
+      "recordPath": "equipment/abb-detailed-shaft-support-3d-mechanical-drawing-537800fb80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-detailed-shaft-support-3d-mechanical-drawing-537800fb80.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-pluggable-prom-profile-double-1p-ts-e4ac8e0c74",
+      "name": "Drawing DXF T1 Pluggable ProM Profile Double 1P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0101.DXF; 2CTC800015F0100.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-pluggable-prom-profile-double-1p-ts-e4ac8e0c74",
+      "recordPath": "equipment/abb-drawing-dxf-t1-pluggable-prom-profile-double-1p-ts-e4ac8e0c74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-pluggable-prom-profile-double-1p-ts-e4ac8e0c74.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-pluggable-prom-profile-double-3p-ts-631a160461",
+      "name": "Drawing DXF T1 Pluggable ProM Profile Double 3P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0301.DXF; 2CTC800015F0300.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-pluggable-prom-profile-double-3p-ts-631a160461",
+      "recordPath": "equipment/abb-drawing-dxf-t1-pluggable-prom-profile-double-3p-ts-631a160461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-pluggable-prom-profile-double-3p-ts-631a160461.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-pluggable-prom-profile-double-4p-ts-26758a254c",
+      "name": "Drawing DXF T1 Pluggable ProM Profile Double 4P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0401.DXF; 2CTC800015F0400",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-pluggable-prom-profile-double-4p-ts-26758a254c",
+      "recordPath": "equipment/abb-drawing-dxf-t1-pluggable-prom-profile-double-4p-ts-26758a254c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-pluggable-prom-profile-double-4p-ts-26758a254c.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-prom-high-profile-3n-77b40f1866",
+      "name": "Drawing DXF T1 ProM High Profile 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F2001.DXF; 2CTC800010F2000.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-prom-high-profile-3n-77b40f1866",
+      "recordPath": "equipment/abb-drawing-dxf-t1-prom-high-profile-3n-77b40f1866.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-prom-high-profile-3n-77b40f1866.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-prom-profile-1l-e7af1919f7",
+      "name": "Drawing DXF T1 ProM Profile 1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F2101.DXF; 2CTC800010F2100.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-prom-profile-1l-e7af1919f7",
+      "recordPath": "equipment/abb-drawing-dxf-t1-prom-profile-1l-e7af1919f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-prom-profile-1l-e7af1919f7.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-prom-profile-4l-0aeb96387e",
+      "name": "Drawing DXF T1 ProM Profile 4L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F1001.DXF; 2CTC800010F1000.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-prom-profile-4l-0aeb96387e",
+      "recordPath": "equipment/abb-drawing-dxf-t1-prom-profile-4l-0aeb96387e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-prom-profile-4l-0aeb96387e.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-wave-profile-3n-191cbc72c6",
+      "name": "Drawing DXF T1 Wave Profile 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F1501.DXF; 2CTC800010F1500.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-wave-profile-3n-191cbc72c6",
+      "recordPath": "equipment/abb-drawing-dxf-t1-wave-profile-3n-191cbc72c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-wave-profile-3n-191cbc72c6.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-1n-abf734ee9c",
+      "name": "Drawing DXF T1-T2 Pluggable ProM High Profile Double 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3101.DXF; 2CTC800015F3100.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-1n-abf734ee9c",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-1n-abf734ee9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-1n-abf734ee9c.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-2l-ts-25480fbbbb",
+      "name": "Drawing DXF T1-T2 Pluggable ProM High Profile Double 2L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2502.STP; 2CTC800015F2500.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-2l-ts-25480fbbbb",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-2l-ts-25480fbbbb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-2l-ts-25480fbbbb.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-3l-ts-e55846e1cf",
+      "name": "Drawing DXF T1-T2 Pluggable ProM High Profile Double 3L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2601.DXF; 2CTC800015F2600.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-3l-ts-e55846e1cf",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-3l-ts-e55846e1cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-3l-ts-e55846e1cf.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n1-ts-c4fd037a3e",
+      "name": "Drawing DXF T1-T2 Pluggable ProM High Profile Double N1 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2401.DXF; 2CTC800015F2400.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n1-ts-c4fd037a3e",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n1-ts-c4fd037a3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n1-ts-c4fd037a3e.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-f19d86d77f",
+      "name": "Drawing DXF T1-T2 Pluggable ProM High Profile Double N3",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3601.DXF; 2CTC800015F3600.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-f19d86d77f",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-f19d86d77f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-f19d86d77f.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-ts-0ebffe19a8",
+      "name": "Drawing DXF T1-T2 Pluggable ProM High Profile Double N3 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2801.DXF; 2CTC800015F2800.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-ts-0ebffe19a8",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-ts-0ebffe19a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-pluggable-prom-high-profile-double-n3-ts-0ebffe19a8.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-prom-profile-3n-ts-6153f739b4",
+      "name": "Drawing DXF T1-T2 ProM Profile 3N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800012F0201.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-prom-profile-3n-ts-6153f739b4",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-prom-profile-3n-ts-6153f739b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-prom-profile-3n-ts-6153f739b4.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-prom-profile-double-n-right-db3b2a8240",
+      "name": "Drawing DXF T1-T2 ProM Profile Double N Right",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F0201.DXF; 2CTC800010F0200.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-prom-profile-double-n-right-db3b2a8240",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-prom-profile-double-n-right-db3b2a8240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-prom-profile-double-n-right-db3b2a8240.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-1l-605befe0f4",
+      "name": "Drawing DXF T1-T2/T2s Pluggable ProM High Profile 1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1501.DXF; 2CTC800015F1500.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-1l-605befe0f4",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-1l-605befe0f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-1l-605befe0f4.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-3l-92db89652a",
+      "name": "Drawing DXF T1-T2/T2s Pluggable ProM High Profile 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1801.DXF; 2CTC800015F1800.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-3l-92db89652a",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-3l-92db89652a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-3l-92db89652a.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-n3-ts-ead8305d4d",
+      "name": "Drawing DXF T1-T2/T2s Pluggable ProM High Profile N3 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1301.DXF; 2CTC800015F1300.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-n3-ts-ead8305d4d",
+      "recordPath": "equipment/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-n3-ts-ead8305d4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t1-t2-t2s-pluggable-prom-high-profile-n3-ts-ead8305d4d.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-combi-n1-d9a628d71d",
+      "name": "Drawing DXF T2 Combi N1",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800027F0101.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-combi-n1-d9a628d71d",
+      "recordPath": "equipment/abb-drawing-dxf-t2-combi-n1-d9a628d71d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-combi-n1-d9a628d71d.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-combi-fuse-n1-e92443f561",
+      "name": "Drawing DXF T2 Combi fuse N1",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800027F0301.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-combi-fuse-n1-e92443f561",
+      "recordPath": "equipment/abb-drawing-dxf-t2-combi-fuse-n1-e92443f561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-combi-fuse-n1-e92443f561.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-1p-19d254ce70",
+      "name": "Drawing DXF T2 Pluggable ProM Profile 1P",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0101.DXF; 2CTC800020F0100.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-1p-19d254ce70",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-1p-19d254ce70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-1p-19d254ce70.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-2l-u-e4fcf59c3d",
+      "name": "Drawing DXF T2 Pluggable ProM Profile 2L U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2301.DXF; 2CTC800020F2300.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-2l-u-e4fcf59c3d",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-2l-u-e4fcf59c3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-2l-u-e4fcf59c3d.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-3l-u-7a3009a678",
+      "name": "Drawing DXF T2 Pluggable ProM Profile 3L U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2501.DXF; 2CTC800020F2500.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-3l-u-7a3009a678",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-3l-u-7a3009a678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-3l-u-7a3009a678.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-4l-989d12f60a",
+      "name": "Drawing DXF T2 Pluggable ProM Profile 4L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0901.DXF; 2CTC800020F0900.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-4l-989d12f60a",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-4l-989d12f60a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-4l-989d12f60a.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-pv-ts-u-96d4bcaec6",
+      "name": "Drawing DXF T2 Pluggable ProM Profile PV TS U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F3501.DXF; 2CTC800020F3500",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-pv-ts-u-96d4bcaec6",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-pv-ts-u-96d4bcaec6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-pv-ts-u-96d4bcaec6.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-qs-1p-neutral-aeea9d052a",
+      "name": "Drawing DXF T2 Pluggable ProM Profile QS 1P Neutral",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1701.DXF; 2CTC800021F1700",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-1p-neutral-aeea9d052a",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-1p-neutral-aeea9d052a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-qs-1p-neutral-aeea9d052a.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-495665ed0d",
+      "name": "Drawing DXF T2 Pluggable ProM Profile QS 2L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1501.DXF; 2CTC800021F1500",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-495665ed0d",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-495665ed0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-495665ed0d.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-mc-md-ts-fde14e567a",
+      "name": "Drawing DXF T2 Pluggable ProM Profile QS 2L MC-MD TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F2901.DXF; 2CTC800021F2900.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-mc-md-ts-fde14e567a",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-mc-md-ts-fde14e567a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-mc-md-ts-fde14e567a.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-ts-66d9bae306",
+      "name": "Drawing DXF T2 Pluggable ProM Profile QS 2L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1601.DXF; 2CTC800021F1600.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-ts-66d9bae306",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-ts-66d9bae306.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-qs-2l-ts-66d9bae306.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-pluggable-prom-profile-qs-3n-6aa849bd6a",
+      "name": "Drawing DXF T2 Pluggable ProM Profile QS 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1301.DXF; 2CTC800021F1300.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-3n-6aa849bd6a",
+      "recordPath": "equipment/abb-drawing-dxf-t2-pluggable-prom-profile-qs-3n-6aa849bd6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-pluggable-prom-profile-qs-3n-6aa849bd6a.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-prom-profile-3l-68026efcba",
+      "name": "Drawing DXF T2 ProM Profile 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800025F0301.DXF; 2CTC800025F0300",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-prom-profile-3l-68026efcba",
+      "recordPath": "equipment/abb-drawing-dxf-t2-prom-profile-3l-68026efcba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-prom-profile-3l-68026efcba.json"
+    },
+    {
+      "id": "abb-drawing-dxf-t2-prom-profile-4l-3140f2770e",
+      "name": "Drawing DXF T2 ProM Profile 4L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800025F0201.DXF; 2CTC800025F0200.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-dxf-t2-prom-profile-4l-3140f2770e",
+      "recordPath": "equipment/abb-drawing-dxf-t2-prom-profile-4l-3140f2770e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-dxf-t2-prom-profile-4l-3140f2770e.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-prom-profile-double-2l-1n-24671df543",
+      "name": "Drawing IGS T1 ProM Profile Double 2L 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F0403.IGS; 2CTC800010F0400.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-prom-profile-double-2l-1n-24671df543",
+      "recordPath": "equipment/abb-drawing-igs-t1-prom-profile-double-2l-1n-24671df543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-prom-profile-double-2l-1n-24671df543.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-prom-profile-double-4l-3n-ts-8807590a6b",
+      "name": "Drawing IGS T1 ProM Profile Double 4L 3N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F0703.IGS; 2CTC800010F0700.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-prom-profile-double-4l-3n-ts-8807590a6b",
+      "recordPath": "equipment/abb-drawing-igs-t1-prom-profile-double-4l-3n-ts-8807590a6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-prom-profile-double-4l-3n-ts-8807590a6b.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ff563c447d",
+      "name": "Drawing IGS T1-T2 Pluggable ProM High Profile Double 1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3003.IGS; 2CTC800015F3000.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ff563c447d",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ff563c447d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ff563c447d.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ts-04093f5ae6",
+      "name": "Drawing IGS T1-T2 Pluggable ProM High Profile Double 1L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2203.IGS; 2CTC800015F2200.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ts-04093f5ae6",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ts-04093f5ae6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1l-ts-04093f5ae6.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1n-ts-7e522c6236",
+      "name": "Drawing IGS T1-T2 Pluggable ProM High Profile Double 1N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2303.IGS; 2CTC800015F2300.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1n-ts-7e522c6236",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1n-ts-7e522c6236.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-double-1n-ts-7e522c6236.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-pluggable-prom-high-profile-neutral-2b1aa81b46",
+      "name": "Drawing IGS T1-T2 Pluggable ProM High Profile Neutral",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F4003.IGS; 2CTC800015F4000.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-neutral-2b1aa81b46",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-neutral-2b1aa81b46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-pluggable-prom-high-profile-neutral-2b1aa81b46.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-prom-high-profile-3l-33287ddc4a",
+      "name": "Drawing IGS T1-T2 ProM High Profile 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800012F0403.IGS; 2CTC800012F0400.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-prom-high-profile-3l-33287ddc4a",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-prom-high-profile-3l-33287ddc4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-prom-high-profile-3l-33287ddc4a.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-prom-profile-double-3n-99d41248b3",
+      "name": "Drawing IGS T1-T2 ProM Profile Double 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800012F0203.IGS; 2CTC800012F0200.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-prom-profile-double-3n-99d41248b3",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-prom-profile-double-3n-99d41248b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-prom-profile-double-3n-99d41248b3.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-1l-ts-f4f9d07af5",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile 1L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0803.IGS; 2CTC800015F0800.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-1l-ts-f4f9d07af5",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-1l-ts-f4f9d07af5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-1l-ts-f4f9d07af5.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1103.IGS; 2CTC800015F1100.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-067a624fe6",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1903.IGS; 2CTC800015F1900.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-067a624fe6",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-067a624fe6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-067a624fe6.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-ts-d1190530a8",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1203.IGS; 2CTC800015F1200.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-ts-d1190530a8",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-ts-d1190530a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3n-ts-d1190530a8.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-4l-3c128130fb",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile 4L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2103.IGS; 2CTC800015F2100.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-4l-3c128130fb",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-4l-3c128130fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-4l-3c128130fb.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n1-ts-abf31b77bf",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile N1 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1003.IGS; 2CTC800015F1000.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n1-ts-abf31b77bf",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n1-ts-abf31b77bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n1-ts-abf31b77bf.json"
+    },
+    {
+      "id": "abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n3-6228e32050",
+      "name": "Drawing IGS T1-T2/T2s Pluggable ProM High Profile N3",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2003.IGS; 2CTC800015F2000.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n3-6228e32050",
+      "recordPath": "equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n3-6228e32050.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-n3-6228e32050.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-combi-n3-a3f28533ad",
+      "name": "Drawing IGS T2 Combi N3",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800027F0203.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-combi-n3-a3f28533ad",
+      "recordPath": "equipment/abb-drawing-igs-t2-combi-n3-a3f28533ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-combi-n3-a3f28533ad.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-1p-neutral-ad6913eaa3",
+      "name": "Drawing IGS T2 Pluggable ProM Profile 1P Neutral",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F3303.IGS; 2CTC800020F3300.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-1p-neutral-ad6913eaa3",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-1p-neutral-ad6913eaa3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-1p-neutral-ad6913eaa3.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-2l-ts-u-f6791d0382",
+      "name": "Drawing IGS T2 Pluggable ProM Profile 2L TS U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2403.IGS; 2CTC800020F2400.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-2l-ts-u-f6791d0382",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-2l-ts-u-f6791d0382.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-2l-ts-u-f6791d0382.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-3n-ts-u-c6d434863f",
+      "name": "Drawing IGS T2 Pluggable ProM Profile 3N TS U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2803.IGS; 2CTC800020F2800.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-3n-ts-u-c6d434863f",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-3n-ts-u-c6d434863f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-3n-ts-u-c6d434863f.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-1n-0f0dc94ba1",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1103.IGS; 2CTC800021F1100.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-1n-0f0dc94ba1",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-1n-0f0dc94ba1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-1n-0f0dc94ba1.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-1p-ts-2e7a357af7",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 1P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0203.IGS; 2CTC800021F0200.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-1p-ts-2e7a357af7",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-1p-ts-2e7a357af7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-1p-ts-2e7a357af7.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-69c7fcbda6",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0703.IGS; 2CTC800021F0700.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-69c7fcbda6",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-69c7fcbda6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-69c7fcbda6.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-ts-4e4c7ac5a1",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 3L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0803.IGS; 2CTC800021F0800.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-ts-4e4c7ac5a1",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-ts-4e4c7ac5a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-3l-ts-4e4c7ac5a1.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-3n-ts-bbcad57ff8",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 3N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1403.IGS; 2CTC800021F1400.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-3n-ts-bbcad57ff8",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-3n-ts-bbcad57ff8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-3n-ts-bbcad57ff8.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-834aa180ae",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 4L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0903.IGS; 2CTC800021F0900.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-834aa180ae",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-834aa180ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-834aa180ae.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-ts-5483609a91",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS 4L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1003.IGS; 2CTC800021F1000.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-ts-5483609a91",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-ts-5483609a91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-4l-ts-5483609a91.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-1ef3edd6af",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS N1",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0303.IGS; 2CTC800021F0300.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-1ef3edd6af",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-1ef3edd6af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-1ef3edd6af.json"
+    },
+    {
+      "id": "abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-ts-64de5f64e7",
+      "name": "Drawing IGS T2 Pluggable ProM Profile QS N1 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0403.IGS; 2CTC800021F0400.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-ts-64de5f64e7",
+      "recordPath": "equipment/abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-ts-64de5f64e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t2-pluggable-prom-profile-qs-n1-ts-64de5f64e7.json"
+    },
+    {
+      "id": "abb-drawing-igs-t3-classic-profile-3n-981f2cb6c2",
+      "name": "Drawing IGS T3 Classic Profile 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800028F0203.IGS; 2CTC800028F0200.PDF",
+      "formats": [
+        "IGS",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t3-classic-profile-3n-981f2cb6c2",
+      "recordPath": "equipment/abb-drawing-igs-t3-classic-profile-3n-981f2cb6c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t3-classic-profile-3n-981f2cb6c2.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-pluggable-prom-profile-double-2p-ts-8ce75148dd",
+      "name": "Drawing STP T1 Pluggable ProM Profile Double 2P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0202.STP; 2CTC800015F0200.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-pluggable-prom-profile-double-2p-ts-8ce75148dd",
+      "recordPath": "equipment/abb-drawing-stp-t1-pluggable-prom-profile-double-2p-ts-8ce75148dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-pluggable-prom-profile-double-2p-ts-8ce75148dd.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-pluggable-prom-profile-triple-3p-ts-00296575aa",
+      "name": "Drawing STP T1 Pluggable ProM Profile Triple 3P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0502.STP; 2CTC800015F0500.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-pluggable-prom-profile-triple-3p-ts-00296575aa",
+      "recordPath": "equipment/abb-drawing-stp-t1-pluggable-prom-profile-triple-3p-ts-00296575aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-pluggable-prom-profile-triple-3p-ts-00296575aa.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-prom-high-profile-1l-34b2cea283",
+      "name": "Drawing STP T1 ProM High Profile 1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F1902.STP; 2CTC800010F1900.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-prom-high-profile-1l-34b2cea283",
+      "recordPath": "equipment/abb-drawing-stp-t1-prom-high-profile-1l-34b2cea283.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-prom-high-profile-1l-34b2cea283.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-prom-profile-double-1l-15bfeb177e",
+      "name": "Drawing STP T1 ProM Profile Double 1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F0102.STP; 2CTC800010F0100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-prom-profile-double-1l-15bfeb177e",
+      "recordPath": "equipment/abb-drawing-stp-t1-prom-profile-double-1l-15bfeb177e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-prom-profile-double-1l-15bfeb177e.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-prom-profile-double-2l-1n-ts-6b96096188",
+      "name": "Drawing STP T1 ProM Profile Double 2L 1N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F0502.STP; 2CTC800010F0500.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-prom-profile-double-2l-1n-ts-6b96096188",
+      "recordPath": "equipment/abb-drawing-stp-t1-prom-profile-double-2l-1n-ts-6b96096188.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-prom-profile-double-2l-1n-ts-6b96096188.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-prom-profile-double-3l-ts-0b77035391",
+      "name": "Drawing STP T1 ProM Profile Double 3L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800010F0902.STP; 2CTC800010F0900.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-prom-profile-double-3l-ts-0b77035391",
+      "recordPath": "equipment/abb-drawing-stp-t1-prom-profile-double-3l-ts-0b77035391.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-prom-profile-double-3l-ts-0b77035391.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3l-5fd6ab9ffa",
+      "name": "Drawing STP T1-T2 Pluggable ProM High Profile Double 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3402.STP; 2CTC800015F3400.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3l-5fd6ab9ffa",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3l-5fd6ab9ffa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3l-5fd6ab9ffa.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-bccde01426",
+      "name": "Drawing STP T1-T2 Pluggable ProM High Profile Double 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3502.STP; 2CTC800015F3500.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-bccde01426",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-bccde01426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-bccde01426.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-ts-cbb5c568f4",
+      "name": "Drawing STP T1-T2 Pluggable ProM High Profile Double 3N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2702.STP; 2CTC800015F2700.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-ts-cbb5c568f4",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-ts-cbb5c568f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-3n-ts-cbb5c568f4.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-4l-eb2f1efc70",
+      "name": "Drawing STP T1-T2 Pluggable ProM High Profile Double 4L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F2902.STP; 2CTC800015F3700.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-4l-eb2f1efc70",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-4l-eb2f1efc70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-4l-eb2f1efc70.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-n1-ab4744e7a1",
+      "name": "Drawing STP T1-T2 Pluggable ProM High Profile Double N1",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F3202.STP; 2CTC800015F3200.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-n1-ab4744e7a1",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-n1-ab4744e7a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-pluggable-prom-high-profile-double-n1-ab4744e7a1.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-prom-profile-double-1l-ts-80ae623a4e",
+      "name": "Drawing STP T1-T2 ProM Profile Double 1L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800012F0002.STP; 2CTC800012F0000.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-prom-profile-double-1l-ts-80ae623a4e",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-prom-profile-double-1l-ts-80ae623a4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-prom-profile-double-1l-ts-80ae623a4e.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-prom-profile-double-2l-ts-4b030483b8",
+      "name": "Drawing STP T1-T2 ProM Profile Double 2L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800012F0102.STP; 2CTC800012F0100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-prom-profile-double-2l-ts-4b030483b8",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-prom-profile-double-2l-ts-4b030483b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-prom-profile-double-2l-ts-4b030483b8.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-a7d06a776e",
+      "name": "Drawing STP T1-T2/T2s Pluggable ProM High Profile 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1602.STP; 2CTC800015F1600.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-a7d06a776e",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-a7d06a776e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-a7d06a776e.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-ts-05b705c267",
+      "name": "Drawing STP T1-T2/T2s Pluggable ProM High Profile 1N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F0902.STP; 2CTC800015F0900.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-ts-05b705c267",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-ts-05b705c267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-1n-ts-05b705c267.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-4l-ts-a2ece278f1",
+      "name": "Drawing STP T1-T2/T2s Pluggable ProM High Profile 4L TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1402.STP; 2CTC800015F1400.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-4l-ts-a2ece278f1",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-4l-ts-a2ece278f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-4l-ts-a2ece278f1.json"
+    },
+    {
+      "id": "abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-n1-41c0dacc74",
+      "name": "Drawing STP T1-T2/T2s Pluggable ProM High Profile N1",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800015F1702.STP; 2CTC800015F1700.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-n1-41c0dacc74",
+      "recordPath": "equipment/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-n1-41c0dacc74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t1-t2-t2s-pluggable-prom-high-profile-n1-41c0dacc74.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-1n-ts-u-b9b61548fe",
+      "name": "Drawing STP T2 Pluggable ProM Profile 1N TS U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F3002.STP; 2CTC800020F3000.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-1n-ts-u-b9b61548fe",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-1n-ts-u-b9b61548fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-1n-ts-u-b9b61548fe.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-1n-u-5f6725a71b",
+      "name": "Drawing STP T2 Pluggable ProM Profile 1N U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2902.STP; 2CTC800020F2900.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-1n-u-5f6725a71b",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-1n-u-5f6725a71b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-1n-u-5f6725a71b.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-1p-ts-2dc31c2f8b",
+      "name": "Drawing STP T2 Pluggable ProM Profile 1P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F0202.STP; 2CTC800020F0200.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-1p-ts-2dc31c2f8b",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-1p-ts-2dc31c2f8b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-1p-ts-2dc31c2f8b.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-2n-ts-u-0561018aee",
+      "name": "Drawing STP T2 Pluggable ProM Profile 2N TS U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F3202.STP; 2CTC800020F3200.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-2n-ts-u-0561018aee",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-2n-ts-u-0561018aee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-2n-ts-u-0561018aee.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-2n-u-695ffed2b2",
+      "name": "Drawing STP T2 Pluggable ProM Profile 2N U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F3102.STP; 2CTC800020F3100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-2n-u-695ffed2b2",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-2n-u-695ffed2b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-2n-u-695ffed2b2.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-3l-ts-u-12512422d1",
+      "name": "Drawing STP T2 Pluggable ProM Profile 3L TS U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2602.STP; 2CTC800020F2600.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-3l-ts-u-12512422d1",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-3l-ts-u-12512422d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-3l-ts-u-12512422d1.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-3n-u-0feb35b9af",
+      "name": "Drawing STP T2 Pluggable ProM Profile 3N U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F2702.STP; 2CTC800020F2700",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-3n-u-0feb35b9af",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-3n-u-0feb35b9af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-3n-u-0feb35b9af.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-pv-u-7ca8756491",
+      "name": "Drawing STP T2 Pluggable ProM Profile PV U",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800020F3402.STP; 2CTC800020F3400.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-pv-u-7ca8756491",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-pv-u-7ca8756491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-pv-u-7ca8756491.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-qs-1n-ts-25ddd17751",
+      "name": "Drawing STP T2 Pluggable ProM Profile QS 1N TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F1202.STP; 2CTC800021F1200.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-1n-ts-25ddd17751",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-1n-ts-25ddd17751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-qs-1n-ts-25ddd17751.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-qs-1p-69ed2372ed",
+      "name": "Drawing STP T2 Pluggable ProM Profile QS 1P",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0102.STP; 2CTC800021F0100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-1p-69ed2372ed",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-1p-69ed2372ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-qs-1p-69ed2372ed.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-qs-2l-mc-md-12c42f56ff",
+      "name": "Drawing STP T2 Pluggable ProM Profile QS 2L MC-MD",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F3002.STP; 2CTC800021F3000.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-2l-mc-md-12c42f56ff",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-2l-mc-md-12c42f56ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-qs-2l-mc-md-12c42f56ff.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-f6ec7070e7",
+      "name": "Drawing STP T2 Pluggable ProM Profile QS N3",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0502.STP; 2CTC800021F0500.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-f6ec7070e7",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-f6ec7070e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-f6ec7070e7.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-ts-6bd71bccd5",
+      "name": "Drawing STP T2 Pluggable ProM Profile QS N3 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800021F0602.STP; 2CTC800021F0600.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-ts-6bd71bccd5",
+      "recordPath": "equipment/abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-ts-6bd71bccd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-pluggable-prom-profile-qs-n3-ts-6bd71bccd5.json"
+    },
+    {
+      "id": "abb-drawing-stp-t2-prom-profile-1p-65cdee7309",
+      "name": "Drawing STP T2 ProM Profile 1P",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800025F0102.STP; 2CTC800025F0100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t2-prom-profile-1p-65cdee7309",
+      "recordPath": "equipment/abb-drawing-stp-t2-prom-profile-1p-65cdee7309.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t2-prom-profile-1p-65cdee7309.json"
+    },
+    {
+      "id": "abb-drawing-stp-t3-classic-profile-1n-7a0811903d",
+      "name": "Drawing STP T3 Classic Profile 1N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800028F0102.STP; 2CTC800028F0100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-t3-classic-profile-1n-7a0811903d",
+      "recordPath": "equipment/abb-drawing-stp-t3-classic-profile-1n-7a0811903d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-t3-classic-profile-1n-7a0811903d.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-15-20-25-275s-c-qs-bd2974bdfa",
+      "name": "Drawing of OVR T1-T2 15(20,25)-275s C QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1831",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-15-20-25-275s-c-qs-bd2974bdfa",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-15-20-25-275s-c-qs-bd2974bdfa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-15-20-25-275s-c-qs-bd2974bdfa.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-qs-7755bba40b",
+      "name": "Drawing of OVR T1-T2 15(20/25)-275s P QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1823",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-qs-7755bba40b",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-qs-7755bba40b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-qs-7755bba40b.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-ts-qs-e450f7aca5",
+      "name": "Drawing of OVR T1-T2 15(20/25)-275s P TS QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1817",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-ts-qs-e450f7aca5",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-ts-qs-e450f7aca5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-15-20-25-275s-p-ts-qs-e450f7aca5.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-3l-15-20-25-275s-p-ts-qs-ed85193bac",
+      "name": "Drawing of OVR T1-T2 3L 15(20/25)-275s P TS QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1818",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-3l-15-20-25-275s-p-ts-qs-ed85193bac",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-3l-15-20-25-275s-p-ts-qs-ed85193bac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-3l-15-20-25-275s-p-ts-qs-ed85193bac.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-3l-25-15-20-275s-p-qs-5326ff8553",
+      "name": "Drawing of OVR T1-T2 3L 25(15,20)-275s P QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1825",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-3l-25-15-20-275s-p-qs-5326ff8553",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-3l-25-15-20-275s-p-qs-5326ff8553.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-3l-25-15-20-275s-p-qs-5326ff8553.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-3n-15-275s-p-qs-0afb8affda",
+      "name": "Drawing of OVR T1-T2 3N 15-275s P QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1826",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-3n-15-275s-p-qs-0afb8affda",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-3n-15-275s-p-qs-0afb8affda.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-3n-15-275s-p-qs-0afb8affda.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-3n-15-275s-p-ts-qs-1aa9ca399b",
+      "name": "Drawing of OVR T1-T2 3N 15-275s P TS QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1819",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-3n-15-275s-p-ts-qs-1aa9ca399b",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-3n-15-275s-p-ts-qs-1aa9ca399b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-3n-15-275s-p-ts-qs-1aa9ca399b.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-qs-3675a7302f",
+      "name": "Drawing of OVR T1-T2 3N 20(25)-275s P QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1828",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-qs-3675a7302f",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-qs-3675a7302f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-qs-3675a7302f.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-ts-qs-b7a93785a5",
+      "name": "Drawing of OVR T1-T2 3N 20(25)-275s P TS QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1820",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-ts-qs-b7a93785a5",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-ts-qs-b7a93785a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-ts-qs-b7a93785a5.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-4l-15-20-25-275s-p-qs-e9e878a60a",
+      "name": "Drawing of OVR T1-T2 4L 15(20,25)-275s P QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1827",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-4l-15-20-25-275s-p-qs-e9e878a60a",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-4l-15-20-25-275s-p-qs-e9e878a60a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-4l-15-20-25-275s-p-qs-e9e878a60a.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-4l15-20-25-275s-p-ts-qs-c8af363c7b",
+      "name": "Drawing of OVR T1-T2 4L15(20/25)-275s P TS QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1821",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-4l15-20-25-275s-p-ts-qs-c8af363c7b",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-4l15-20-25-275s-p-ts-qs-c8af363c7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-4l15-20-25-275s-p-ts-qs-c8af363c7b.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-n-100-255-c-qs-0c3088e4be",
+      "name": "Drawing of OVR T1-T2 N 100-255 C QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1830",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-n-100-255-c-qs-0c3088e4be",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-n-100-255-c-qs-0c3088e4be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-n-100-255-c-qs-0c3088e4be.json"
+    },
+    {
+      "id": "abb-drawing-of-ovr-t1-t2-n-100-255-p-qs-a10273f76f",
+      "name": "Drawing of OVR T1-T2 N 100-255 P QS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A1822",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-of-ovr-t1-t2-n-100-255-p-qs-a10273f76f",
+      "recordPath": "equipment/abb-drawing-of-ovr-t1-t2-n-100-255-p-qs-a10273f76f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-of-ovr-t1-t2-n-100-255-p-qs-a10273f76f.json"
+    },
+    {
+      "id": "abb-e1-e2-four-poles-withdrawable-ul-vert-terminals-efc690b751",
+      "name": "E1 E2 four poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0063",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e2-four-poles-withdrawable-ul-vert-terminals-efc690b751",
+      "recordPath": "equipment/abb-e1-e2-four-poles-withdrawable-ul-vert-terminals-efc690b751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e2-four-poles-withdrawable-ul-vert-terminals-efc690b751.json"
+    },
+    {
+      "id": "abb-e1-e2-three-poles-withdrawable-ul-vert-terminals-6330d5c514",
+      "name": "E1 E2 three poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0057",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e2-three-poles-withdrawable-ul-vert-terminals-6330d5c514",
+      "recordPath": "equipment/abb-e1-e2-three-poles-withdrawable-ul-vert-terminals-6330d5c514.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e2-three-poles-withdrawable-ul-vert-terminals-6330d5c514.json"
+    },
+    {
+      "id": "abb-e1-four-poles-fixed-iec-ul-horiz-terminals-4cde6accde",
+      "name": "E1 four poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0064",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-four-poles-fixed-iec-ul-horiz-terminals-4cde6accde",
+      "recordPath": "equipment/abb-e1-four-poles-fixed-iec-ul-horiz-terminals-4cde6accde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-four-poles-fixed-iec-ul-horiz-terminals-4cde6accde.json"
+    },
+    {
+      "id": "abb-e1-four-poles-fixed-iec-vert-terminals-d07b2e25bc",
+      "name": "E1 four poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0065",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-four-poles-fixed-iec-vert-terminals-d07b2e25bc",
+      "recordPath": "equipment/abb-e1-four-poles-fixed-iec-vert-terminals-d07b2e25bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-four-poles-fixed-iec-vert-terminals-d07b2e25bc.json"
+    },
+    {
+      "id": "abb-e1-four-poles-fixed-ul-vert-terminals-68ec7bd046",
+      "name": "E1 four poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0066",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-four-poles-fixed-ul-vert-terminals-68ec7bd046",
+      "recordPath": "equipment/abb-e1-four-poles-fixed-ul-vert-terminals-68ec7bd046.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-four-poles-fixed-ul-vert-terminals-68ec7bd046.json"
+    },
+    {
+      "id": "abb-e1-four-poles-withdrawable-iec-ul-horiz-terminals-a37c890c64",
+      "name": "E1 four poles withdrawable IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0067",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-four-poles-withdrawable-iec-ul-horiz-terminals-a37c890c64",
+      "recordPath": "equipment/abb-e1-four-poles-withdrawable-iec-ul-horiz-terminals-a37c890c64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-four-poles-withdrawable-iec-ul-horiz-terminals-a37c890c64.json"
+    },
+    {
+      "id": "abb-e1-four-poles-withdrawable-iec-vert-terminals-f666997fb4",
+      "name": "E1 four poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0068",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-four-poles-withdrawable-iec-vert-terminals-f666997fb4",
+      "recordPath": "equipment/abb-e1-four-poles-withdrawable-iec-vert-terminals-f666997fb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-four-poles-withdrawable-iec-vert-terminals-f666997fb4.json"
+    },
+    {
+      "id": "abb-e1-three-poles-fixed-iec-ul-horiz-terminals-36c38a9f4a",
+      "name": "E1 three poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0058",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-three-poles-fixed-iec-ul-horiz-terminals-36c38a9f4a",
+      "recordPath": "equipment/abb-e1-three-poles-fixed-iec-ul-horiz-terminals-36c38a9f4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-three-poles-fixed-iec-ul-horiz-terminals-36c38a9f4a.json"
+    },
+    {
+      "id": "abb-e1-three-poles-fixed-iec-vert-terminals-36c2dd76e9",
+      "name": "E1 three poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0059",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-three-poles-fixed-iec-vert-terminals-36c2dd76e9",
+      "recordPath": "equipment/abb-e1-three-poles-fixed-iec-vert-terminals-36c2dd76e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-three-poles-fixed-iec-vert-terminals-36c2dd76e9.json"
+    },
+    {
+      "id": "abb-e1-three-poles-fixed-ul-vert-terminals-d2ef7300cb",
+      "name": "E1 three poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0060",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-three-poles-fixed-ul-vert-terminals-d2ef7300cb",
+      "recordPath": "equipment/abb-e1-three-poles-fixed-ul-vert-terminals-d2ef7300cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-three-poles-fixed-ul-vert-terminals-d2ef7300cb.json"
+    },
+    {
+      "id": "abb-e1-three-poles-withdrawable-iec-ul-horiz-terminals-efaee43068",
+      "name": "E1 three poles withdrawable IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0061",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-three-poles-withdrawable-iec-ul-horiz-terminals-efaee43068",
+      "recordPath": "equipment/abb-e1-three-poles-withdrawable-iec-ul-horiz-terminals-efaee43068.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-three-poles-withdrawable-iec-ul-horiz-terminals-efaee43068.json"
+    },
+    {
+      "id": "abb-e1-three-poles-withdrawable-iec-vert-terminals-e8224ec052",
+      "name": "E1 three poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0062",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-three-poles-withdrawable-iec-vert-terminals-e8224ec052",
+      "recordPath": "equipment/abb-e1-three-poles-withdrawable-iec-vert-terminals-e8224ec052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-three-poles-withdrawable-iec-vert-terminals-e8224ec052.json"
+    },
+    {
+      "id": "abb-e1-2-f-ip54-fd7514d066",
+      "name": "E1.2 F IP54",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002446A1002",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-f-ip54-fd7514d066",
+      "recordPath": "equipment/abb-e1-2-f-ip54-fd7514d066.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-f-ip54-fd7514d066.json"
+    },
+    {
+      "id": "abb-e1-2-flange-fixed-withdrawable-e7b55f5aaa",
+      "name": "E1.2 Flange Fixed Withdrawable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0120",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-flange-fixed-withdrawable-e7b55f5aaa",
+      "recordPath": "equipment/abb-e1-2-flange-fixed-withdrawable-e7b55f5aaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-flange-fixed-withdrawable-e7b55f5aaa.json"
+    },
+    {
+      "id": "abb-e1-2-floor-mounting-ad984ef77f",
+      "name": "E1.2 Floor mounting",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-floor-mounting-ad984ef77f",
+      "recordPath": "equipment/abb-e1-2-floor-mounting-ad984ef77f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-floor-mounting-ad984ef77f.json"
+    },
+    {
+      "id": "abb-e1-2-iii-f-946a6236a7",
+      "name": "E1.2 III F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0083",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-f-946a6236a7",
+      "recordPath": "equipment/abb-e1-2-iii-f-946a6236a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-f-946a6236a7.json"
+    },
+    {
+      "id": "abb-e1-2-iii-f-ul-bb1a5a063a",
+      "name": "E1.2 III F - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0001",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-f-ul-bb1a5a063a",
+      "recordPath": "equipment/abb-e1-2-iii-f-ul-bb1a5a063a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-f-ul-bb1a5a063a.json"
+    },
+    {
+      "id": "abb-e1-2-iii-w-00ddbb46d9",
+      "name": "E1.2 III W",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0024",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-w-00ddbb46d9",
+      "recordPath": "equipment/abb-e1-2-iii-w-00ddbb46d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-w-00ddbb46d9.json"
+    },
+    {
+      "id": "abb-e1-2-iii-w-ul-ae42c8b62e",
+      "name": "E1.2 III W - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0024",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-w-ul-ae42c8b62e",
+      "recordPath": "equipment/abb-e1-2-iii-w-ul-ae42c8b62e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-w-ul-ae42c8b62e.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-fixed-es-7b1cb59476",
+      "name": "E1.2 III-IV Fixed ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-fixed-es-7b1cb59476",
+      "recordPath": "equipment/abb-e1-2-iii-iv-fixed-es-7b1cb59476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-fixed-es-7b1cb59476.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-fixed-f-ef-80ae97bad7",
+      "name": "E1.2 III-IV Fixed F EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-fixed-f-ef-80ae97bad7",
+      "recordPath": "equipment/abb-e1-2-iii-iv-fixed-f-ef-80ae97bad7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-fixed-f-ef-80ae97bad7.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-fixed-fc-8898962333",
+      "name": "E1.2 III-IV Fixed FC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-fixed-fc-8898962333",
+      "recordPath": "equipment/abb-e1-2-iii-iv-fixed-fc-8898962333.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-fixed-fc-8898962333.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-fixed-hr-vr-3c516c01dd",
+      "name": "E1.2 III-IV Fixed HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-fixed-hr-vr-3c516c01dd",
+      "recordPath": "equipment/abb-e1-2-iii-iv-fixed-hr-vr-3c516c01dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-fixed-hr-vr-3c516c01dd.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-withdrawable-es-16b3729069",
+      "name": "E1.2 III-IV Withdrawable ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-withdrawable-es-16b3729069",
+      "recordPath": "equipment/abb-e1-2-iii-iv-withdrawable-es-16b3729069.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-withdrawable-es-16b3729069.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-withdrawable-f-22daa4b7c4",
+      "name": "E1.2 III-IV Withdrawable F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-withdrawable-f-22daa4b7c4",
+      "recordPath": "equipment/abb-e1-2-iii-iv-withdrawable-f-22daa4b7c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-withdrawable-f-22daa4b7c4.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-withdrawable-fc-54ae0ee487",
+      "name": "E1.2 III-IV Withdrawable FC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-withdrawable-fc-54ae0ee487",
+      "recordPath": "equipment/abb-e1-2-iii-iv-withdrawable-fc-54ae0ee487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-withdrawable-fc-54ae0ee487.json"
+    },
+    {
+      "id": "abb-e1-2-iii-iv-withdrawable-shr-4c53bcfaf6",
+      "name": "E1.2 III-IV Withdrawable SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iii-iv-withdrawable-shr-4c53bcfaf6",
+      "recordPath": "equipment/abb-e1-2-iii-iv-withdrawable-shr-4c53bcfaf6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iii-iv-withdrawable-shr-4c53bcfaf6.json"
+    },
+    {
+      "id": "abb-e1-2-iv-f-e4bf15a5e4",
+      "name": "E1.2 IV F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0042",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-f-e4bf15a5e4",
+      "recordPath": "equipment/abb-e1-2-iv-f-e4bf15a5e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-f-e4bf15a5e4.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-63089ac77a",
+      "name": "E1.2 IV W",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0065",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-63089ac77a",
+      "recordPath": "equipment/abb-e1-2-iv-w-63089ac77a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-63089ac77a.json"
+    },
+    {
+      "id": "abb-e1-2-iv-w-ul-e6c9813fee",
+      "name": "E1.2 IV W - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0065",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-iv-w-ul-e6c9813fee",
+      "recordPath": "equipment/abb-e1-2-iv-w-ul-e6c9813fee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-iv-w-ul-e6c9813fee.json"
+    },
+    {
+      "id": "abb-e1-2-w-ip54-d13717484a",
+      "name": "E1.2 W IP54",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002446A1001",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-w-ip54-d13717484a",
+      "recordPath": "equipment/abb-e1-2-w-ip54-d13717484a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-w-ip54-d13717484a.json"
+    },
+    {
+      "id": "abb-e1-2-w-rear-terminals-hr-vr-2bc68f551c",
+      "name": "E1.2 W Rear terminals HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-w-rear-terminals-hr-vr-2bc68f551c",
+      "recordPath": "equipment/abb-e1-2-w-rear-terminals-hr-vr-2bc68f551c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-w-rear-terminals-hr-vr-2bc68f551c.json"
+    },
+    {
+      "id": "abb-e1-2-withdrawable-wall-fixing-b413e4aeb6",
+      "name": "E1.2 Withdrawable wall fixing",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0122",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-withdrawable-wall-fixing-b413e4aeb6",
+      "recordPath": "equipment/abb-e1-2-withdrawable-wall-fixing-b413e4aeb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-withdrawable-wall-fixing-b413e4aeb6.json"
+    },
+    {
+      "id": "abb-e1-2-fixed-terminals-hr-vr-ul-c4751cf45d",
+      "name": "E1.2 fixed terminals HR-VR UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0307",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-fixed-terminals-hr-vr-ul-c4751cf45d",
+      "recordPath": "equipment/abb-e1-2-fixed-terminals-hr-vr-ul-c4751cf45d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-fixed-terminals-hr-vr-ul-c4751cf45d.json"
+    },
+    {
+      "id": "abb-e1-2-withdrawable-terminals-es-ul-bfb370cee1",
+      "name": "E1.2 withdrawable terminals ES UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000999R0304",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-withdrawable-terminals-es-ul-bfb370cee1",
+      "recordPath": "equipment/abb-e1-2-withdrawable-terminals-es-ul-bfb370cee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-withdrawable-terminals-es-ul-bfb370cee1.json"
+    },
+    {
+      "id": "abb-e1-2-e-w-iii-protections-and-phase-barriers-b51d3f3936",
+      "name": "E1.2-E W III PROTECTIONS AND PHASE BARRIERS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0400",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e-w-iii-protections-and-phase-barriers-b51d3f3936",
+      "recordPath": "equipment/abb-e1-2-e-w-iii-protections-and-phase-barriers-b51d3f3936.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e-w-iii-protections-and-phase-barriers-b51d3f3936.json"
+    },
+    {
+      "id": "abb-e1-2-e-w-iv-protections-and-phase-barriers-47a4a207ab",
+      "name": "E1.2-E W IV PROTECTIONS AND PHASE BARRIERS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0401",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e-w-iv-protections-and-phase-barriers-47a4a207ab",
+      "recordPath": "equipment/abb-e1-2-e-w-iv-protections-and-phase-barriers-47a4a207ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e-w-iv-protections-and-phase-barriers-47a4a207ab.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-ef-lower-ul-4197cabf9c",
+      "name": "E1.2/E1.3 III F TERMINALS EF LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0005",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-ef-lower-ul-4197cabf9c",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-ef-lower-ul-4197cabf9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-ef-lower-ul-4197cabf9c.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-ef-upper-fb967cf301",
+      "name": "E1.2/E1.3 III F TERMINALS EF UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0006",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-ef-upper-fb967cf301",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-ef-upper-fb967cf301.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-ef-upper-fb967cf301.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-es-lower-417350a2c4",
+      "name": "E1.2/E1.3 III F TERMINALS ES LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0007",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-es-lower-417350a2c4",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-es-lower-417350a2c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-es-lower-417350a2c4.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-es-upper-ul-d15fbbacf5",
+      "name": "E1.2/E1.3 III F TERMINALS ES UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0008",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-es-upper-ul-d15fbbacf5",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-es-upper-ul-d15fbbacf5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-es-upper-ul-d15fbbacf5.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-fccual-lower-7e0268698b",
+      "name": "E1.2/E1.3 III F TERMINALS FcCuAl LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0009",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-fccual-lower-7e0268698b",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-fccual-lower-7e0268698b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-fccual-lower-7e0268698b.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-fccual-upper-3b20d516e7",
+      "name": "E1.2/E1.3 III F TERMINALS FcCuAl UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0010",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-fccual-upper-3b20d516e7",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-fccual-upper-3b20d516e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-fccual-upper-3b20d516e7.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-hr-lower-0c2653131b",
+      "name": "E1.2/E1.3 III F TERMINALS HR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0015",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-hr-lower-0c2653131b",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-hr-lower-0c2653131b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-hr-lower-0c2653131b.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-hr-lower-ul-8b2cbd6e55",
+      "name": "E1.2/E1.3 III F TERMINALS HR LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0015",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-hr-lower-ul-8b2cbd6e55",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-hr-lower-ul-8b2cbd6e55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-hr-lower-ul-8b2cbd6e55.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-hr-upper-d3c56d0fbb",
+      "name": "E1.2/E1.3 III F TERMINALS HR UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0016",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-hr-upper-d3c56d0fbb",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-hr-upper-d3c56d0fbb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-hr-upper-d3c56d0fbb.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-hr-upper-ul-1da2d43b51",
+      "name": "E1.2/E1.3 III F TERMINALS HR UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0016",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-hr-upper-ul-1da2d43b51",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-hr-upper-ul-1da2d43b51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-hr-upper-ul-1da2d43b51.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-vr-lower-ul-d57009d1dc",
+      "name": "E1.2/E1.3 III F TERMINALS VR LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0017",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-vr-lower-ul-d57009d1dc",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-vr-lower-ul-d57009d1dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-vr-lower-ul-d57009d1dc.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-f-terminals-vr-upper-ul-38c8a34428",
+      "name": "E1.2/E1.3 III F TERMINALS VR UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0018",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-f-terminals-vr-upper-ul-38c8a34428",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-f-terminals-vr-upper-ul-38c8a34428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-f-terminals-vr-upper-ul-38c8a34428.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-ef-lower-853a30c6c1",
+      "name": "E1.2/E1.3 III W TERMINALS EF LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0030",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-ef-lower-853a30c6c1",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-ef-lower-853a30c6c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-ef-lower-853a30c6c1.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-ef-upper-76abe8a06b",
+      "name": "E1.2/E1.3 III W TERMINALS EF UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0031",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-ef-upper-76abe8a06b",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-ef-upper-76abe8a06b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-ef-upper-76abe8a06b.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-es-lower-ul-0494fc7c22",
+      "name": "E1.2/E1.3 III W TERMINALS ES LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0032",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-es-lower-ul-0494fc7c22",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-es-lower-ul-0494fc7c22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-es-lower-ul-0494fc7c22.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-es-upper-3e120692f4",
+      "name": "E1.2/E1.3 III W TERMINALS ES UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0033",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-es-upper-3e120692f4",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-es-upper-3e120692f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-es-upper-3e120692f4.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-fccual-lower-9fe043933c",
+      "name": "E1.2/E1.3 III W TERMINALS FcCuAl LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0034",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-fccual-lower-9fe043933c",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-fccual-lower-9fe043933c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-fccual-lower-9fe043933c.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-fccual-upper-ul-7865f49aa6",
+      "name": "E1.2/E1.3 III W TERMINALS FcCuAl UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0035",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-fccual-upper-ul-7865f49aa6",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-fccual-upper-ul-7865f49aa6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-fccual-upper-ul-7865f49aa6.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3",
+      "name": "E1.2/E1.3 III W TERMINALS HR LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0036",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-hr-upper-ul-39b1d4d4bb",
+      "name": "E1.2/E1.3 III W TERMINALS HR UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0037",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-hr-upper-ul-39b1d4d4bb",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-hr-upper-ul-39b1d4d4bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-hr-upper-ul-39b1d4d4bb.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-shr-upper-c8942c4366",
+      "name": "E1.2/E1.3 III W TERMINALS SHR UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0039",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-shr-upper-c8942c4366",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-shr-upper-c8942c4366.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-shr-upper-c8942c4366.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-vr-lower-bff66c9a10",
+      "name": "E1.2/E1.3 III W TERMINALS VR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0040",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-vr-lower-bff66c9a10",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-vr-lower-bff66c9a10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-vr-lower-bff66c9a10.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iii-w-terminals-vr-lower-ul-5ffdf2cf34",
+      "name": "E1.2/E1.3 III W TERMINALS VR LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0040",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iii-w-terminals-vr-lower-ul-5ffdf2cf34",
+      "recordPath": "equipment/abb-e1-2-e1-3-iii-w-terminals-vr-lower-ul-5ffdf2cf34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iii-w-terminals-vr-lower-ul-5ffdf2cf34.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-ef-lower-ul-52e9b36629",
+      "name": "E1.2/E1.3 IV F TERMINALS EF LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0046",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-ef-lower-ul-52e9b36629",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-ef-lower-ul-52e9b36629.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-ef-lower-ul-52e9b36629.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-ef-upper-ul-9c39d0746b",
+      "name": "E1.2/E1.3 IV F TERMINALS EF UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0047",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-ef-upper-ul-9c39d0746b",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-ef-upper-ul-9c39d0746b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-ef-upper-ul-9c39d0746b.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-es-lower-ul-1cb74741b9",
+      "name": "E1.2/E1.3 IV F TERMINALS ES LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0048",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-es-lower-ul-1cb74741b9",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-es-lower-ul-1cb74741b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-es-lower-ul-1cb74741b9.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-es-upper-5070227a2b",
+      "name": "E1.2/E1.3 IV F TERMINALS ES UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0049",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-es-upper-5070227a2b",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-es-upper-5070227a2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-es-upper-5070227a2b.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-f-lower-0a01d668da",
+      "name": "E1.2/E1.3 IV F TERMINALS F LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0052",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-f-lower-0a01d668da",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-f-lower-0a01d668da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-f-lower-0a01d668da.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861",
+      "name": "E1.2/E1.3 IV F TERMINALS F UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0053",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-fccual-lower-ul-9c1635e384",
+      "name": "E1.2/E1.3 IV F TERMINALS FcCuAl LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0050",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-fccual-lower-ul-9c1635e384",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-fccual-lower-ul-9c1635e384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-fccual-lower-ul-9c1635e384.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-fccual-upper-ul-1d4fc27be4",
+      "name": "E1.2/E1.3 IV F TERMINALS FcCuAl UPPER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0051",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-fccual-upper-ul-1d4fc27be4",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-fccual-upper-ul-1d4fc27be4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-fccual-upper-ul-1d4fc27be4.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-hr-lower-db5f42702f",
+      "name": "E1.2/E1.3 IV F TERMINALS HR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0056",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-hr-lower-db5f42702f",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-hr-lower-db5f42702f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-hr-lower-db5f42702f.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-hr-lower-stp-ul-19f2443e19",
+      "name": "E1.2/E1.3 IV F TERMINALS HR LOWER.stp - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0056",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-hr-lower-stp-ul-19f2443e19",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-hr-lower-stp-ul-19f2443e19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-hr-lower-stp-ul-19f2443e19.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-hr-upper-stp-ul-372c94635c",
+      "name": "E1.2/E1.3 IV F TERMINALS HR UPPER.stp - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0057",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-hr-upper-stp-ul-372c94635c",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-hr-upper-stp-ul-372c94635c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-hr-upper-stp-ul-372c94635c.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-vr-lower-a655f9a5d4",
+      "name": "E1.2/E1.3 IV F TERMINALS VR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0058",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-vr-lower-a655f9a5d4",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-vr-lower-a655f9a5d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-vr-lower-a655f9a5d4.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-vr-lower-stp-ul-e6708588d2",
+      "name": "E1.2/E1.3 IV F TERMINALS VR LOWER.stp - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0058",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-vr-lower-stp-ul-e6708588d2",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-vr-lower-stp-ul-e6708588d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-vr-lower-stp-ul-e6708588d2.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-vr-upper-5f5b1cd9f5",
+      "name": "E1.2/E1.3 IV F TERMINALS VR UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0059",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-vr-upper-5f5b1cd9f5",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-vr-upper-5f5b1cd9f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-vr-upper-5f5b1cd9f5.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-f-terminals-vr-upper-stp-ul-fb80c1d15c",
+      "name": "E1.2/E1.3 IV F TERMINALS VR UPPER.stp - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0059",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-f-terminals-vr-upper-stp-ul-fb80c1d15c",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-f-terminals-vr-upper-stp-ul-fb80c1d15c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-f-terminals-vr-upper-stp-ul-fb80c1d15c.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-ef-lower-c46d76076f",
+      "name": "E1.2/E1.3 IV W TERMINALS EF LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0071",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-ef-lower-c46d76076f",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-ef-lower-c46d76076f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-ef-lower-c46d76076f.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-ef-upper-a5a68b2d4a",
+      "name": "E1.2/E1.3 IV W TERMINALS EF UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0072",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-ef-upper-a5a68b2d4a",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-ef-upper-a5a68b2d4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-ef-upper-a5a68b2d4a.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-es-lower-ul-a283a59c02",
+      "name": "E1.2/E1.3 IV W TERMINALS ES LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0073",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-es-lower-ul-a283a59c02",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-es-lower-ul-a283a59c02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-es-lower-ul-a283a59c02.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-es-upper-2616cbacfc",
+      "name": "E1.2/E1.3 IV W TERMINALS ES UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0074",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-es-upper-2616cbacfc",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-es-upper-2616cbacfc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-es-upper-2616cbacfc.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92",
+      "name": "E1.2/E1.3 IV W TERMINALS FcCuAl LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0075",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-fccual-upper-b3e7e190e7",
+      "name": "E1.2/E1.3 IV W TERMINALS FcCuAl UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0076",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-fccual-upper-b3e7e190e7",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-fccual-upper-b3e7e190e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-fccual-upper-b3e7e190e7.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-hr-lower-2d004e8d4a",
+      "name": "E1.2/E1.3 IV W TERMINALS HR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0077",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-hr-lower-2d004e8d4a",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-hr-lower-2d004e8d4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-hr-lower-2d004e8d4a.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-shr-lower-00ef83f9b7",
+      "name": "E1.2/E1.3 IV W TERMINALS SHR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0079",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-shr-lower-00ef83f9b7",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-shr-lower-00ef83f9b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-shr-lower-00ef83f9b7.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-vr-lower-0070910e78",
+      "name": "E1.2/E1.3 IV W TERMINALS VR LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0081",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-vr-lower-0070910e78",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-vr-lower-0070910e78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-vr-lower-0070910e78.json"
+    },
+    {
+      "id": "abb-e1-2-e1-3-iv-w-terminals-vr-lower-ul-7a17092436",
+      "name": "E1.2/E1.3 IV W TERMINALS VR LOWER - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0081",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-2-e1-3-iv-w-terminals-vr-lower-ul-7a17092436",
+      "recordPath": "equipment/abb-e1-2-e1-3-iv-w-terminals-vr-lower-ul-7a17092436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-2-e1-3-iv-w-terminals-vr-lower-ul-7a17092436.json"
+    },
+    {
+      "id": "abb-e1-3-1200a-3p-f-ul-0224d7ec2a",
+      "name": "E1.3 1200A 3p F UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1102",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1200a-3p-f-ul-0224d7ec2a",
+      "recordPath": "equipment/abb-e1-3-1200a-3p-f-ul-0224d7ec2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1200a-3p-f-ul-0224d7ec2a.json"
+    },
+    {
+      "id": "abb-e1-3-1200a-3p-w-ul-383df35eaa",
+      "name": "E1.3 1200A 3p W UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1103",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1200a-3p-w-ul-383df35eaa",
+      "recordPath": "equipment/abb-e1-3-1200a-3p-w-ul-383df35eaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1200a-3p-w-ul-383df35eaa.json"
+    }
+  ]
+}

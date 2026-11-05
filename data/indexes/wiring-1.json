@@ -1,0 +1,2997 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-cableentry",
+      "name": "Cable Entry System CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-cableentry",
+      "recordPath": "equipment/ad-cableentry.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-cableentry.json"
+    },
+    {
+      "id": "ad-dinnectors",
+      "name": "DINnectors and DIN Rail CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-dinnectors",
+      "recordPath": "equipment/ad-dinnectors.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-dinnectors.json"
+    },
+    {
+      "id": "ad-junctionblocks",
+      "name": "Junction Blocks CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-junctionblocks",
+      "recordPath": "equipment/ad-junctionblocks.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-junctionblocks.json"
+    },
+    {
+      "id": "ad-konnect",
+      "name": "Konnect-It DIN-Rail Terminal Blocks CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-konnect",
+      "recordPath": "equipment/ad-konnect.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-konnect.json"
+    },
+    {
+      "id": "ad-zipportmultiwireconn",
+      "name": "ZIPport Multi-Wire\n                Connectors CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-zipportmultiwireconn",
+      "recordPath": "equipment/ad-zipportmultiwireconn.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-zipportmultiwireconn.json"
+    },
+    {
+      "id": "ad-pic",
+      "name": "ZIPport Panel Interface Connectors CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-pic",
+      "recordPath": "equipment/ad-pic.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-pic.json"
+    },
+    {
+      "id": "victron-energy-din35-adapters",
+      "name": "DIN35 adapters",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-din35-adapters",
+      "recordPath": "equipment/victron-energy-din35-adapters.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-din35-adapters.json"
+    },
+    {
+      "id": "ad-bimedglands",
+      "name": "Bimed Cable Glands CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-bimedglands",
+      "recordPath": "equipment/ad-bimedglands.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-bimedglands.json"
+    },
+    {
+      "id": "eaton-crouse-hinds",
+      "name": "Crouse-Hinds fittings CAD library",
+      "manufacturer": "Eaton Crouse-Hinds",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-crouse-hinds",
+      "recordPath": "equipment/eaton-crouse-hinds.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-crouse-hinds.json"
+    },
+    {
+      "id": "icotek-cad",
+      "name": "icotek cable entry CAD catalogue",
+      "manufacturer": "icotek",
+      "formats": [
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/icotek-cad",
+      "recordPath": "equipment/icotek-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/icotek-cad.json"
+    },
+    {
+      "id": "icotek-request",
+      "name": "icotek STEP and IGS drawing request",
+      "manufacturer": "icotek",
+      "formats": [
+        "STEP",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/icotek-request",
+      "recordPath": "equipment/icotek-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/icotek-request.json"
+    },
+    {
+      "id": "phoenix-products",
+      "name": "Phoenix Contact product CAD downloads",
+      "manufacturer": "Phoenix Contact",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/phoenix-products",
+      "recordPath": "equipment/phoenix-products.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/phoenix-products.json"
+    },
+    {
+      "id": "wago-smartdesigner",
+      "name": "WAGO Smart Designer assembly exports",
+      "manufacturer": "WAGO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/wago-smartdesigner",
+      "recordPath": "equipment/wago-smartdesigner.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/wago-smartdesigner.json"
+    },
+    {
+      "id": "wago-cad",
+      "name": "WAGO smartData CAD product library",
+      "manufacturer": "WAGO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/wago-cad",
+      "recordPath": "equipment/wago-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/wago-cad.json"
+    },
+    {
+      "id": "weidmuller-wmc",
+      "name": "Weidmüller terminal assembly configurator",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "STEP",
+        "DXF",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmuller-wmc",
+      "recordPath": "equipment/weidmuller-wmc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmuller-wmc.json"
+    },
+    {
+      "id": "abb-t-al26-contactors-ld26-additional-terminal-block-ed0fa1f5",
+      "name": "(T)AL26 Contactors + LD26 Additional Terminal Block",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307927.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t-al26-contactors-ld26-additional-terminal-block-ed0fa1f5",
+      "recordPath": "equipment/abb-t-al26-contactors-ld26-additional-terminal-block-ed0fa1f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t-al26-contactors-ld26-additional-terminal-block-ed0fa1f5.json"
+    },
+    {
+      "id": "abb-t-al9-t-al16-al9z-al16z-contactors-ld16-additional-terminal-block-27e5ab1d",
+      "name": "(T)AL9 ... (T)AL16, AL9Z ... AL16Z Contactors + LD16 Additional Terminal Block",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307926.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t-al9-t-al16-al9z-al16z-contactors-ld16-additional-terminal-block-27e5ab1d",
+      "recordPath": "equipment/abb-t-al9-t-al16-al9z-al16z-contactors-ld16-additional-terminal-block-27e5ab1d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t-al9-t-al16-al9z-al16z-contactors-ld16-additional-terminal-block-27e5ab1d.json"
+    },
+    {
+      "id": "abb-smissline-incoming-terminal-block-l1-200a-zls251-f41728c5",
+      "name": "SMISSLINE Incoming terminal Block L1 200A ZLS251",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE TP_ZLS251_2D",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-incoming-terminal-block-l1-200a-zls251-f41728c5",
+      "recordPath": "equipment/abb-smissline-incoming-terminal-block-l1-200a-zls251-f41728c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-incoming-terminal-block-l1-200a-zls251-f41728c5.json"
+    },
+    {
+      "id": "abb-smissline-incoming-terminal-block-l2-200a-zls252-b259c367",
+      "name": "SMISSLINE Incoming terminal Block L2 200A ZLS252",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE TP_ZLS252_2D",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-incoming-terminal-block-l2-200a-zls252-b259c367",
+      "recordPath": "equipment/abb-smissline-incoming-terminal-block-l2-200a-zls252-b259c367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-incoming-terminal-block-l2-200a-zls252-b259c367.json"
+    },
+    {
+      "id": "abb-smissline-incoming-terminal-block-l3-200a-zls253-5b4659ae",
+      "name": "SMISSLINE Incoming terminal Block L3 200A ZLS253",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE TP_ZLS253_2D",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-incoming-terminal-block-l3-200a-zls253-5b4659ae",
+      "recordPath": "equipment/abb-smissline-incoming-terminal-block-l3-200a-zls253-5b4659ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-incoming-terminal-block-l3-200a-zls253-5b4659ae.json"
+    },
+    {
+      "id": "abb-smissline-incoming-terminal-block-n-200a-zls250-064d2280",
+      "name": "SMISSLINE Incoming terminal Block N 200A ZLS250",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE TP_ZLS250_2D",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-incoming-terminal-block-n-200a-zls250-064d2280",
+      "recordPath": "equipment/abb-smissline-incoming-terminal-block-n-200a-zls250-064d2280.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-incoming-terminal-block-n-200a-zls250-064d2280.json"
+    },
+    {
+      "id": "abb-smissline-incoming-terminal-block-addtional-socket-200a-zls955-41b6cffb",
+      "name": "SMISSLINE Incoming terminal Block addtional socket 200A ZLS955",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE TP_ZLS955_2D",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-incoming-terminal-block-addtional-socket-200a-zls955-41b6cffb",
+      "recordPath": "equipment/abb-smissline-incoming-terminal-block-addtional-socket-200a-zls955-41b6cffb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-incoming-terminal-block-addtional-socket-200a-zls955-41b6cffb.json"
+    },
+    {
+      "id": "abb-smissline-terminal-32a-zls91x-f282d1ce",
+      "name": "SMISSLINE terminal 32A ZLS91X",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE PE TERMINAL 32A",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-terminal-32a-zls91x-f282d1ce",
+      "recordPath": "equipment/abb-smissline-terminal-32a-zls91x-f282d1ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-terminal-32a-zls91x-f282d1ce.json"
+    },
+    {
+      "id": "abb-smissline-n-terminal-100a-zls9x-6e302902",
+      "name": "SMISSLINE N terminal 100A ZLS9X",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE N TERMINAL 100A",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-smissline-n-terminal-100a-zls9x-6e302902",
+      "recordPath": "equipment/abb-smissline-n-terminal-100a-zls9x-6e302902.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-smissline-n-terminal-100a-zls9x-6e302902.json"
+    },
+    {
+      "id": "abb-af26-30-00s-contactors-with-spring-terminals-46c5aa4a",
+      "name": "AF26-30-00S, Contactors with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505013D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af26-30-00s-contactors-with-spring-terminals-46c5aa4a",
+      "recordPath": "equipment/abb-af26-30-00s-contactors-with-spring-terminals-46c5aa4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af26-30-00s-contactors-with-spring-terminals-46c5aa4a.json"
+    },
+    {
+      "id": "abb-af26-30-11s-contactors-with-spring-terminals-ef6c0fda",
+      "name": "AF26-30-11S contactors with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505031D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af26-30-11s-contactors-with-spring-terminals-ef6c0fda",
+      "recordPath": "equipment/abb-af26-30-11s-contactors-with-spring-terminals-ef6c0fda.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af26-30-11s-contactors-with-spring-terminals-ef6c0fda.json"
+    },
+    {
+      "id": "abb-bacnet-mstp-controller-cbt-3t6-5r-cad-drawing-dwg-6ecc8044",
+      "name": "BACnet MSTP Controller CBT-3T6-5R CAD Drawing (.DWG)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A3756",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bacnet-mstp-controller-cbt-3t6-5r-cad-drawing-dwg-6ecc8044",
+      "recordPath": "equipment/abb-bacnet-mstp-controller-cbt-3t6-5r-cad-drawing-dwg-6ecc8044.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-bacnet-mstp-controller-cbt-3t6-5r-cad-drawing-dwg-6ecc8044.json"
+    },
+    {
+      "id": "abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1",
+      "name": "BACnet MSTP Controller CBT-4T4-2U1R CAD Drawing (.DWG)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A3752",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1",
+      "recordPath": "equipment/abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1.json"
+    },
+    {
+      "id": "abb-bld004-air-handling-unit-management-cylon-0a8a93f2",
+      "name": "BLD004_Air Handling Unit Management (Cylon)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A3654",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bld004-air-handling-unit-management-cylon-0a8a93f2",
+      "recordPath": "equipment/abb-bld004-air-handling-unit-management-cylon-0a8a93f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-bld004-air-handling-unit-management-cylon-0a8a93f2.json"
+    },
+    {
+      "id": "abb-cbt-3t6-5r-dxf-22ee4e01",
+      "name": "CBT-3T6-5R.dxf",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A0092",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cbt-3t6-5r-dxf-22ee4e01",
+      "recordPath": "equipment/abb-cbt-3t6-5r-dxf-22ee4e01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cbt-3t6-5r-dxf-22ee4e01.json"
+    },
+    {
+      "id": "abb-cbt-4t4-2u1r-dxf-869b2375",
+      "name": "CBT-4T4-2U1R.dxf",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A0094",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cbt-4t4-2u1r-dxf-869b2375",
+      "recordPath": "equipment/abb-cbt-4t4-2u1r-dxf-869b2375.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cbt-4t4-2u1r-dxf-869b2375.json"
+    },
+    {
+      "id": "abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-kp-450-12465e44",
+      "name": "Dim.Print for terminal box, inner dimensions, M3BP/ GP/ KP 450",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500745-9",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-kp-450-12465e44",
+      "recordPath": "equipment/abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-kp-450-12465e44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-kp-450-12465e44.json"
+    },
+    {
+      "id": "abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-k-l-gen-112-m3bp-gp-b-k-l-gen-132-5546a441",
+      "name": "Dim.Print for terminal box, inner dimensions, M3BP/GP (K/L-gen) 112; M3BP/GP (B/K/L-gen) 132",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500711-15",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-k-l-gen-112-m3bp-gp-b-k-l-gen-132-5546a441",
+      "recordPath": "equipment/abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-k-l-gen-112-m3bp-gp-b-k-l-gen-132-5546a441.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dim-print-for-terminal-box-inner-dimensions-m3bp-gp-k-l-gen-112-m3bp-gp-b-k-l-gen-132-5546a441.json"
+    },
+    {
+      "id": "abb-e1-3p-fixed-version-horizontal-rear-terminals-80c0b49f",
+      "name": "E1 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0801",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3p-fixed-version-horizontal-rear-terminals-80c0b49f",
+      "recordPath": "equipment/abb-e1-3p-fixed-version-horizontal-rear-terminals-80c0b49f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3p-fixed-version-horizontal-rear-terminals-80c0b49f.json"
+    },
+    {
+      "id": "abb-e1-3p-withdrawable-version-horizontal-rear-terminals-143ca6d0",
+      "name": "E1 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0803",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3p-withdrawable-version-horizontal-rear-terminals-143ca6d0",
+      "recordPath": "equipment/abb-e1-3p-withdrawable-version-horizontal-rear-terminals-143ca6d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3p-withdrawable-version-horizontal-rear-terminals-143ca6d0.json"
+    },
+    {
+      "id": "abb-e1-4p-withdrawable-version-horizontal-rear-terminals-2a262bad",
+      "name": "E1 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0804",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-4p-withdrawable-version-horizontal-rear-terminals-2a262bad",
+      "recordPath": "equipment/abb-e1-4p-withdrawable-version-horizontal-rear-terminals-2a262bad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-4p-withdrawable-version-horizontal-rear-terminals-2a262bad.json"
+    },
+    {
+      "id": "abb-e1-ansi-4p-fixed-version-horizontal-rear-terminals-52f5999c",
+      "name": "E1 ANSI 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0802",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-ansi-4p-fixed-version-horizontal-rear-terminals-52f5999c",
+      "recordPath": "equipment/abb-e1-ansi-4p-fixed-version-horizontal-rear-terminals-52f5999c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-ansi-4p-fixed-version-horizontal-rear-terminals-52f5999c.json"
+    },
+    {
+      "id": "abb-e1-a-ansi-3p-fixed-version-horizontal-rear-terminals-df8d1fdd",
+      "name": "E1-A ANSI 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0859",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-a-ansi-3p-fixed-version-horizontal-rear-terminals-df8d1fdd",
+      "recordPath": "equipment/abb-e1-a-ansi-3p-fixed-version-horizontal-rear-terminals-df8d1fdd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-a-ansi-3p-fixed-version-horizontal-rear-terminals-df8d1fdd.json"
+    },
+    {
+      "id": "abb-e1-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-c610ffcc",
+      "name": "E1-A ANSI 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0850",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-c610ffcc",
+      "recordPath": "equipment/abb-e1-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-c610ffcc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-c610ffcc.json"
+    },
+    {
+      "id": "abb-e1-a-ansi-4p-fixed-version-horizontal-rear-terminals-380dc73d",
+      "name": "E1-A ANSI 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0866",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-a-ansi-4p-fixed-version-horizontal-rear-terminals-380dc73d",
+      "recordPath": "equipment/abb-e1-a-ansi-4p-fixed-version-horizontal-rear-terminals-380dc73d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-a-ansi-4p-fixed-version-horizontal-rear-terminals-380dc73d.json"
+    },
+    {
+      "id": "abb-e1-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d0c40705",
+      "name": "E1-A ANSI 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0871",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d0c40705",
+      "recordPath": "equipment/abb-e1-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d0c40705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d0c40705.json"
+    },
+    {
+      "id": "abb-e1-e2-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d12b98ce",
+      "name": "E1-E2/A ANSI 3p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0855",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e2-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d12b98ce",
+      "recordPath": "equipment/abb-e1-e2-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d12b98ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e2-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d12b98ce.json"
+    },
+    {
+      "id": "abb-e1-e2-a-ansi-4p-withdrawable-version-vertical-rear-terminals-0ec8e329",
+      "name": "E1-E2/A ANSI 4p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0876",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e2-a-ansi-4p-withdrawable-version-vertical-rear-terminals-0ec8e329",
+      "recordPath": "equipment/abb-e1-e2-a-ansi-4p-withdrawable-version-vertical-rear-terminals-0ec8e329.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e2-a-ansi-4p-withdrawable-version-vertical-rear-terminals-0ec8e329.json"
+    },
+    {
+      "id": "abb-e1-e6-fixed-version-front-terminals-ad777adb",
+      "name": "E1-E6 Fixed version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0825",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e6-fixed-version-front-terminals-ad777adb",
+      "recordPath": "equipment/abb-e1-e6-fixed-version-front-terminals-ad777adb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e6-fixed-version-front-terminals-ad777adb.json"
+    },
+    {
+      "id": "abb-e1-e6-fixed-version-vertical-rear-terminals-04b98b3d",
+      "name": "E1-E6 Fixed version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0824",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e6-fixed-version-vertical-rear-terminals-04b98b3d",
+      "recordPath": "equipment/abb-e1-e6-fixed-version-vertical-rear-terminals-04b98b3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e6-fixed-version-vertical-rear-terminals-04b98b3d.json"
+    },
+    {
+      "id": "abb-e1-e6-withdrawable-version-flat-terminals-6da2c2c4",
+      "name": "E1-E6 Withdrawable version Flat terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0823",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e6-withdrawable-version-flat-terminals-6da2c2c4",
+      "recordPath": "equipment/abb-e1-e6-withdrawable-version-flat-terminals-6da2c2c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e6-withdrawable-version-flat-terminals-6da2c2c4.json"
+    },
+    {
+      "id": "abb-e1-e6-withdrawable-version-front-terminals-e5421c7e",
+      "name": "E1-E6 Withdrawable version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0822",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e6-withdrawable-version-front-terminals-e5421c7e",
+      "recordPath": "equipment/abb-e1-e6-withdrawable-version-front-terminals-e5421c7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e6-withdrawable-version-front-terminals-e5421c7e.json"
+    },
+    {
+      "id": "abb-e1-e6-withdrawable-version-vertical-rear-terminals-8688c522",
+      "name": "E1-E6 Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0821",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e6-withdrawable-version-vertical-rear-terminals-8688c522",
+      "recordPath": "equipment/abb-e1-e6-withdrawable-version-vertical-rear-terminals-8688c522.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e6-withdrawable-version-vertical-rear-terminals-8688c522.json"
+    },
+    {
+      "id": "abb-e1-e6-a-ansi-fixed-version-vertical-rear-terminals-3b8f0392",
+      "name": "E1-E6-A ANSI Fixed version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0864",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-e6-a-ansi-fixed-version-vertical-rear-terminals-3b8f0392",
+      "recordPath": "equipment/abb-e1-e6-a-ansi-fixed-version-vertical-rear-terminals-3b8f0392.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-e6-a-ansi-fixed-version-vertical-rear-terminals-3b8f0392.json"
+    },
+    {
+      "id": "abb-e2-3p-withdrawable-version-horizontal-rear-terminals-9e479694",
+      "name": "E2 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0807",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3p-withdrawable-version-horizontal-rear-terminals-9e479694",
+      "recordPath": "equipment/abb-e2-3p-withdrawable-version-horizontal-rear-terminals-9e479694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3p-withdrawable-version-horizontal-rear-terminals-9e479694.json"
+    },
+    {
+      "id": "abb-e2-4p-fixed-version-horizontal-rear-terminals-0a58ef48",
+      "name": "E2 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0806",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-4p-fixed-version-horizontal-rear-terminals-0a58ef48",
+      "recordPath": "equipment/abb-e2-4p-fixed-version-horizontal-rear-terminals-0a58ef48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-4p-fixed-version-horizontal-rear-terminals-0a58ef48.json"
+    },
+    {
+      "id": "abb-e2-4p-withdrawable-version-horizontal-rear-terminals-57a1c301",
+      "name": "E2 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0808",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-4p-withdrawable-version-horizontal-rear-terminals-57a1c301",
+      "recordPath": "equipment/abb-e2-4p-withdrawable-version-horizontal-rear-terminals-57a1c301.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-4p-withdrawable-version-horizontal-rear-terminals-57a1c301.json"
+    },
+    {
+      "id": "abb-e2-dc-fixed-3p-rear-terminals-c0ac6a7c",
+      "name": "E2 DC fixed 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-dc-fixed-3p-rear-terminals-c0ac6a7c",
+      "recordPath": "equipment/abb-e2-dc-fixed-3p-rear-terminals-c0ac6a7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-dc-fixed-3p-rear-terminals-c0ac6a7c.json"
+    },
+    {
+      "id": "abb-e2-dc-fixed-4p-rear-terminals-9e1a0607",
+      "name": "E2 DC fixed 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0002",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-dc-fixed-4p-rear-terminals-9e1a0607",
+      "recordPath": "equipment/abb-e2-dc-fixed-4p-rear-terminals-9e1a0607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-dc-fixed-4p-rear-terminals-9e1a0607.json"
+    },
+    {
+      "id": "abb-e2-dc-withdrawable-3p-rear-terminals-4642f035",
+      "name": "E2 DC withdrawable 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0009",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-dc-withdrawable-3p-rear-terminals-4642f035",
+      "recordPath": "equipment/abb-e2-dc-withdrawable-3p-rear-terminals-4642f035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-dc-withdrawable-3p-rear-terminals-4642f035.json"
+    },
+    {
+      "id": "abb-e2-dc-withdrawable-4p-rear-terminals-161d20d4",
+      "name": "E2 DC withdrawable 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0010",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-dc-withdrawable-4p-rear-terminals-161d20d4",
+      "recordPath": "equipment/abb-e2-dc-withdrawable-4p-rear-terminals-161d20d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-dc-withdrawable-4p-rear-terminals-161d20d4.json"
+    },
+    {
+      "id": "abb-e2-a-ansi-3p-fixed-version-horizontal-rear-terminals-899f59bf",
+      "name": "E2-A ANSI 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0860",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-a-ansi-3p-fixed-version-horizontal-rear-terminals-899f59bf",
+      "recordPath": "equipment/abb-e2-a-ansi-3p-fixed-version-horizontal-rear-terminals-899f59bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-a-ansi-3p-fixed-version-horizontal-rear-terminals-899f59bf.json"
+    },
+    {
+      "id": "abb-e2-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-0c2256cf",
+      "name": "E2-A ANSI 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0851",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-0c2256cf",
+      "recordPath": "equipment/abb-e2-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-0c2256cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-0c2256cf.json"
+    },
+    {
+      "id": "abb-e2-a-ansi-4p-fixed-version-horizontal-rear-terminals-55bdbe98",
+      "name": "E2-A ANSI 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0867",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-a-ansi-4p-fixed-version-horizontal-rear-terminals-55bdbe98",
+      "recordPath": "equipment/abb-e2-a-ansi-4p-fixed-version-horizontal-rear-terminals-55bdbe98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-a-ansi-4p-fixed-version-horizontal-rear-terminals-55bdbe98.json"
+    },
+    {
+      "id": "abb-e2-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-b1d8ad85",
+      "name": "E2-A ANSI 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0872",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-b1d8ad85",
+      "recordPath": "equipment/abb-e2-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-b1d8ad85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-b1d8ad85.json"
+    },
+    {
+      "id": "abb-e3-3p-fixed-version-horizontal-rear-terminals-b1e75abc",
+      "name": "E3 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0809",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-3p-fixed-version-horizontal-rear-terminals-b1e75abc",
+      "recordPath": "equipment/abb-e3-3p-fixed-version-horizontal-rear-terminals-b1e75abc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-3p-fixed-version-horizontal-rear-terminals-b1e75abc.json"
+    },
+    {
+      "id": "abb-e3-3p-withdrawable-version-horizontal-rear-terminals-03220a74",
+      "name": "E3 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0811",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-3p-withdrawable-version-horizontal-rear-terminals-03220a74",
+      "recordPath": "equipment/abb-e3-3p-withdrawable-version-horizontal-rear-terminals-03220a74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-3p-withdrawable-version-horizontal-rear-terminals-03220a74.json"
+    },
+    {
+      "id": "abb-e3-4p-fixed-version-horizontal-rear-terminals-385e1beb",
+      "name": "E3 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0810",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-4p-fixed-version-horizontal-rear-terminals-385e1beb",
+      "recordPath": "equipment/abb-e3-4p-fixed-version-horizontal-rear-terminals-385e1beb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-4p-fixed-version-horizontal-rear-terminals-385e1beb.json"
+    },
+    {
+      "id": "abb-e3-4p-withdrawable-version-horizontal-rear-terminals-3484efde",
+      "name": "E3 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0812",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-4p-withdrawable-version-horizontal-rear-terminals-3484efde",
+      "recordPath": "equipment/abb-e3-4p-withdrawable-version-horizontal-rear-terminals-3484efde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-4p-withdrawable-version-horizontal-rear-terminals-3484efde.json"
+    },
+    {
+      "id": "abb-e3-dc-fixed-3p-rear-terminals-81844b56",
+      "name": "E3 DC fixed 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0003",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-dc-fixed-3p-rear-terminals-81844b56",
+      "recordPath": "equipment/abb-e3-dc-fixed-3p-rear-terminals-81844b56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-dc-fixed-3p-rear-terminals-81844b56.json"
+    },
+    {
+      "id": "abb-e3-dc-fixed-4p-rear-terminals-a67c4587",
+      "name": "E3 DC fixed 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0004",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-dc-fixed-4p-rear-terminals-a67c4587",
+      "recordPath": "equipment/abb-e3-dc-fixed-4p-rear-terminals-a67c4587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-dc-fixed-4p-rear-terminals-a67c4587.json"
+    },
+    {
+      "id": "abb-e3-dc-withdrawable-3p-rear-terminals-c63bf294",
+      "name": "E3 DC withdrawable 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0011",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-dc-withdrawable-3p-rear-terminals-c63bf294",
+      "recordPath": "equipment/abb-e3-dc-withdrawable-3p-rear-terminals-c63bf294.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-dc-withdrawable-3p-rear-terminals-c63bf294.json"
+    },
+    {
+      "id": "abb-e3-dc-withdrawable-4p-rear-terminals-af40b04d",
+      "name": "E3 DC withdrawable 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0012",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-dc-withdrawable-4p-rear-terminals-af40b04d",
+      "recordPath": "equipment/abb-e3-dc-withdrawable-4p-rear-terminals-af40b04d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-dc-withdrawable-4p-rear-terminals-af40b04d.json"
+    },
+    {
+      "id": "abb-e3-a-3p-withdrawable-version-vertical-rear-terminals-58800c6d",
+      "name": "E3-A 3p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0885",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-3p-withdrawable-version-vertical-rear-terminals-58800c6d",
+      "recordPath": "equipment/abb-e3-a-3p-withdrawable-version-vertical-rear-terminals-58800c6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-3p-withdrawable-version-vertical-rear-terminals-58800c6d.json"
+    },
+    {
+      "id": "abb-e3-a-ansi-3p-fixed-version-horizontal-rear-terminals-f460dd96",
+      "name": "E3-A ANSI 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0861",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-ansi-3p-fixed-version-horizontal-rear-terminals-f460dd96",
+      "recordPath": "equipment/abb-e3-a-ansi-3p-fixed-version-horizontal-rear-terminals-f460dd96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-ansi-3p-fixed-version-horizontal-rear-terminals-f460dd96.json"
+    },
+    {
+      "id": "abb-e3-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-aa29c886",
+      "name": "E3-A ANSI 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0852",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-aa29c886",
+      "recordPath": "equipment/abb-e3-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-aa29c886.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-aa29c886.json"
+    },
+    {
+      "id": "abb-e3-a-ansi-3p-withdrawable-version-vertical-rear-terminals-22015238",
+      "name": "E3-A ANSI 3p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0865",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-ansi-3p-withdrawable-version-vertical-rear-terminals-22015238",
+      "recordPath": "equipment/abb-e3-a-ansi-3p-withdrawable-version-vertical-rear-terminals-22015238.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-ansi-3p-withdrawable-version-vertical-rear-terminals-22015238.json"
+    },
+    {
+      "id": "abb-e3-a-ansi-4p-fixed-version-horizontal-rear-terminals-8a95116f",
+      "name": "E3-A ANSI 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0868",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-ansi-4p-fixed-version-horizontal-rear-terminals-8a95116f",
+      "recordPath": "equipment/abb-e3-a-ansi-4p-fixed-version-horizontal-rear-terminals-8a95116f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-ansi-4p-fixed-version-horizontal-rear-terminals-8a95116f.json"
+    },
+    {
+      "id": "abb-e3-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d3c29073",
+      "name": "E3-A ANSI 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0873",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d3c29073",
+      "recordPath": "equipment/abb-e3-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d3c29073.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-d3c29073.json"
+    },
+    {
+      "id": "abb-e3-a-ansi-4p-withdrawable-version-vertical-rear-terminals-e9ab8bb3",
+      "name": "E3-A ANSI 4p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0886",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-a-ansi-4p-withdrawable-version-vertical-rear-terminals-e9ab8bb3",
+      "recordPath": "equipment/abb-e3-a-ansi-4p-withdrawable-version-vertical-rear-terminals-e9ab8bb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-a-ansi-4p-withdrawable-version-vertical-rear-terminals-e9ab8bb3.json"
+    },
+    {
+      "id": "abb-e3x-a-withdrawable-3p-rear-vertical-terminals-1600-2000a-2bbac962",
+      "name": "E3X-A withdrawable 3p rear vertical terminals 1600-2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0887",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3x-a-withdrawable-3p-rear-vertical-terminals-1600-2000a-2bbac962",
+      "recordPath": "equipment/abb-e3x-a-withdrawable-3p-rear-vertical-terminals-1600-2000a-2bbac962.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3x-a-withdrawable-3p-rear-vertical-terminals-1600-2000a-2bbac962.json"
+    },
+    {
+      "id": "abb-e3x-a-withdrawable-3p-rear-vertical-terminals-800-1000-1200a-6c869b8e",
+      "name": "E3X-A withdrawable 3p rear vertical terminals 800-1000-1200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0893",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3x-a-withdrawable-3p-rear-vertical-terminals-800-1000-1200a-6c869b8e",
+      "recordPath": "equipment/abb-e3x-a-withdrawable-3p-rear-vertical-terminals-800-1000-1200a-6c869b8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3x-a-withdrawable-3p-rear-vertical-terminals-800-1000-1200a-6c869b8e.json"
+    },
+    {
+      "id": "abb-e3x-a-withdrawable-4p-rear-vertical-terminals-1600-2000a-1ef5f893",
+      "name": "E3X-A withdrawable 4p rear vertical terminals 1600-2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0892",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3x-a-withdrawable-4p-rear-vertical-terminals-1600-2000a-1ef5f893",
+      "recordPath": "equipment/abb-e3x-a-withdrawable-4p-rear-vertical-terminals-1600-2000a-1ef5f893.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3x-a-withdrawable-4p-rear-vertical-terminals-1600-2000a-1ef5f893.json"
+    },
+    {
+      "id": "abb-e4-3p-fixed-version-horizontal-rear-terminals-5b1a8ff5",
+      "name": "E4 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0813",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-3p-fixed-version-horizontal-rear-terminals-5b1a8ff5",
+      "recordPath": "equipment/abb-e4-3p-fixed-version-horizontal-rear-terminals-5b1a8ff5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-3p-fixed-version-horizontal-rear-terminals-5b1a8ff5.json"
+    },
+    {
+      "id": "abb-e4-3p-withdrawable-version-horizontal-rear-terminals-5df16696",
+      "name": "E4 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0815",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-3p-withdrawable-version-horizontal-rear-terminals-5df16696",
+      "recordPath": "equipment/abb-e4-3p-withdrawable-version-horizontal-rear-terminals-5df16696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-3p-withdrawable-version-horizontal-rear-terminals-5df16696.json"
+    },
+    {
+      "id": "abb-e4-4p-fixed-version-horizontal-rear-terminals-66a750d5",
+      "name": "E4 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0814",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-4p-fixed-version-horizontal-rear-terminals-66a750d5",
+      "recordPath": "equipment/abb-e4-4p-fixed-version-horizontal-rear-terminals-66a750d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-4p-fixed-version-horizontal-rear-terminals-66a750d5.json"
+    },
+    {
+      "id": "abb-e4-4p-withdrawable-version-horizontal-rear-terminals-13b7fdf1",
+      "name": "E4 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0816",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-4p-withdrawable-version-horizontal-rear-terminals-13b7fdf1",
+      "recordPath": "equipment/abb-e4-4p-withdrawable-version-horizontal-rear-terminals-13b7fdf1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-4p-withdrawable-version-horizontal-rear-terminals-13b7fdf1.json"
+    },
+    {
+      "id": "abb-e4-4p-full-size-fixed-version-horizontal-rear-terminals-72bba2dc",
+      "name": "E4 4p full-size Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0826",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-4p-full-size-fixed-version-horizontal-rear-terminals-72bba2dc",
+      "recordPath": "equipment/abb-e4-4p-full-size-fixed-version-horizontal-rear-terminals-72bba2dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-4p-full-size-fixed-version-horizontal-rear-terminals-72bba2dc.json"
+    },
+    {
+      "id": "abb-e4-4p-full-size-withdrawable-version-horizontal-rear-terminals-29683a82",
+      "name": "E4 4p full-size Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0827",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-4p-full-size-withdrawable-version-horizontal-rear-terminals-29683a82",
+      "recordPath": "equipment/abb-e4-4p-full-size-withdrawable-version-horizontal-rear-terminals-29683a82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-4p-full-size-withdrawable-version-horizontal-rear-terminals-29683a82.json"
+    },
+    {
+      "id": "abb-e4-ansi-4p-fixed-version-vertical-rear-terminals-87bf1ba2",
+      "name": "E4 ANSI 4p Fixed version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0884",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-ansi-4p-fixed-version-vertical-rear-terminals-87bf1ba2",
+      "recordPath": "equipment/abb-e4-ansi-4p-fixed-version-vertical-rear-terminals-87bf1ba2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-ansi-4p-fixed-version-vertical-rear-terminals-87bf1ba2.json"
+    },
+    {
+      "id": "abb-e4-dc-fixed-3p-rear-terminals-0602dfd7",
+      "name": "E4 DC fixed 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0005",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-dc-fixed-3p-rear-terminals-0602dfd7",
+      "recordPath": "equipment/abb-e4-dc-fixed-3p-rear-terminals-0602dfd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-dc-fixed-3p-rear-terminals-0602dfd7.json"
+    },
+    {
+      "id": "abb-e4-dc-fixed-4p-rear-terminals-9a65db59",
+      "name": "E4 DC fixed 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0006",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-dc-fixed-4p-rear-terminals-9a65db59",
+      "recordPath": "equipment/abb-e4-dc-fixed-4p-rear-terminals-9a65db59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-dc-fixed-4p-rear-terminals-9a65db59.json"
+    },
+    {
+      "id": "abb-e4-dc-withdrawable-3p-rear-terminals-3d50e88f",
+      "name": "E4 DC withdrawable 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0013",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-dc-withdrawable-3p-rear-terminals-3d50e88f",
+      "recordPath": "equipment/abb-e4-dc-withdrawable-3p-rear-terminals-3d50e88f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-dc-withdrawable-3p-rear-terminals-3d50e88f.json"
+    },
+    {
+      "id": "abb-e4-dc-withdrawable-4p-rear-terminals-f3ae99cb",
+      "name": "E4 DC withdrawable 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0014",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-dc-withdrawable-4p-rear-terminals-f3ae99cb",
+      "recordPath": "equipment/abb-e4-dc-withdrawable-4p-rear-terminals-f3ae99cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-dc-withdrawable-4p-rear-terminals-f3ae99cb.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-3p-fixed-version-horizontal-rear-terminals-465a959f",
+      "name": "E4-A ANSI 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0862",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-3p-fixed-version-horizontal-rear-terminals-465a959f",
+      "recordPath": "equipment/abb-e4-a-ansi-3p-fixed-version-horizontal-rear-terminals-465a959f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-3p-fixed-version-horizontal-rear-terminals-465a959f.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-ae9f8b92",
+      "name": "E4-A ANSI 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0853",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-ae9f8b92",
+      "recordPath": "equipment/abb-e4-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-ae9f8b92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-ae9f8b92.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-3p-withdrawable-version-vertical-rear-terminals-800113ce",
+      "name": "E4-A ANSI 3p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0857",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-3p-withdrawable-version-vertical-rear-terminals-800113ce",
+      "recordPath": "equipment/abb-e4-a-ansi-3p-withdrawable-version-vertical-rear-terminals-800113ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-3p-withdrawable-version-vertical-rear-terminals-800113ce.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-4p-fixed-version-horizontal-rear-terminals-e276ea9e",
+      "name": "E4-A ANSI 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0869",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-4p-fixed-version-horizontal-rear-terminals-e276ea9e",
+      "recordPath": "equipment/abb-e4-a-ansi-4p-fixed-version-horizontal-rear-terminals-e276ea9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-4p-fixed-version-horizontal-rear-terminals-e276ea9e.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-47d1f364",
+      "name": "E4-A ANSI 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0874",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-47d1f364",
+      "recordPath": "equipment/abb-e4-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-47d1f364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-47d1f364.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-4p-withdrawable-version-vertical-rear-terminals-186a49ba",
+      "name": "E4-A ANSI 4p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0879",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-4p-withdrawable-version-vertical-rear-terminals-186a49ba",
+      "recordPath": "equipment/abb-e4-a-ansi-4p-withdrawable-version-vertical-rear-terminals-186a49ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-4p-withdrawable-version-vertical-rear-terminals-186a49ba.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-4p-full-size-fixed-version-horizontal-rear-terminals-85a16322",
+      "name": "E4-A ANSI 4p full-size Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0883",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-4p-full-size-fixed-version-horizontal-rear-terminals-85a16322",
+      "recordPath": "equipment/abb-e4-a-ansi-4p-full-size-fixed-version-horizontal-rear-terminals-85a16322.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-4p-full-size-fixed-version-horizontal-rear-terminals-85a16322.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-4p-full-size-withdrawable-version-horizontal-rear-terminals-8f3f94c4",
+      "name": "E4-A ANSI 4p full-size Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0881",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-4p-full-size-withdrawable-version-horizontal-rear-terminals-8f3f94c4",
+      "recordPath": "equipment/abb-e4-a-ansi-4p-full-size-withdrawable-version-horizontal-rear-terminals-8f3f94c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-4p-full-size-withdrawable-version-horizontal-rear-terminals-8f3f94c4.json"
+    },
+    {
+      "id": "abb-e4-a-ansi-4p-full-size-withdrawable-version-vertical-rear-terminals-19b61f64",
+      "name": "E4-A ANSI 4p full-size Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0882",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-a-ansi-4p-full-size-withdrawable-version-vertical-rear-terminals-19b61f64",
+      "recordPath": "equipment/abb-e4-a-ansi-4p-full-size-withdrawable-version-vertical-rear-terminals-19b61f64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-a-ansi-4p-full-size-withdrawable-version-vertical-rear-terminals-19b61f64.json"
+    },
+    {
+      "id": "abb-e6-3p-fixed-version-horizontal-rear-terminals-a7ec2023",
+      "name": "E6 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0817",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-3p-fixed-version-horizontal-rear-terminals-a7ec2023",
+      "recordPath": "equipment/abb-e6-3p-fixed-version-horizontal-rear-terminals-a7ec2023.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-3p-fixed-version-horizontal-rear-terminals-a7ec2023.json"
+    },
+    {
+      "id": "abb-e6-3p-withdrawable-version-horizontal-rear-terminals-53ddb4f1",
+      "name": "E6 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0819",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-3p-withdrawable-version-horizontal-rear-terminals-53ddb4f1",
+      "recordPath": "equipment/abb-e6-3p-withdrawable-version-horizontal-rear-terminals-53ddb4f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-3p-withdrawable-version-horizontal-rear-terminals-53ddb4f1.json"
+    },
+    {
+      "id": "abb-e6-4p-fixed-version-horizontal-rear-terminals-d7018841",
+      "name": "E6 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0818",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-4p-fixed-version-horizontal-rear-terminals-d7018841",
+      "recordPath": "equipment/abb-e6-4p-fixed-version-horizontal-rear-terminals-d7018841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-4p-fixed-version-horizontal-rear-terminals-d7018841.json"
+    },
+    {
+      "id": "abb-e6-4p-withdrawable-version-horizontal-rear-terminals-39a22261",
+      "name": "E6 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0820",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-4p-withdrawable-version-horizontal-rear-terminals-39a22261",
+      "recordPath": "equipment/abb-e6-4p-withdrawable-version-horizontal-rear-terminals-39a22261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-4p-withdrawable-version-horizontal-rear-terminals-39a22261.json"
+    },
+    {
+      "id": "abb-e6-4p-full-size-fixed-version-horizontal-rear-terminals-7254ba47",
+      "name": "E6 4p full-size Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0828",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-4p-full-size-fixed-version-horizontal-rear-terminals-7254ba47",
+      "recordPath": "equipment/abb-e6-4p-full-size-fixed-version-horizontal-rear-terminals-7254ba47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-4p-full-size-fixed-version-horizontal-rear-terminals-7254ba47.json"
+    },
+    {
+      "id": "abb-e6-4p-full-size-withdrawable-version-horizontal-rear-terminals-dc4ff7d8",
+      "name": "E6 4p full-size Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0829",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-4p-full-size-withdrawable-version-horizontal-rear-terminals-dc4ff7d8",
+      "recordPath": "equipment/abb-e6-4p-full-size-withdrawable-version-horizontal-rear-terminals-dc4ff7d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-4p-full-size-withdrawable-version-horizontal-rear-terminals-dc4ff7d8.json"
+    },
+    {
+      "id": "abb-e6-6000a-ul-rear-vertical-terminals-adb1cb88",
+      "name": "E6 6000A UL Rear Vertical Terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0896",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-6000a-ul-rear-vertical-terminals-adb1cb88",
+      "recordPath": "equipment/abb-e6-6000a-ul-rear-vertical-terminals-adb1cb88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-6000a-ul-rear-vertical-terminals-adb1cb88.json"
+    },
+    {
+      "id": "abb-e6-dc-fixed-3p-rear-terminals-1706ce68",
+      "name": "E6 DC fixed 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0007",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-dc-fixed-3p-rear-terminals-1706ce68",
+      "recordPath": "equipment/abb-e6-dc-fixed-3p-rear-terminals-1706ce68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-dc-fixed-3p-rear-terminals-1706ce68.json"
+    },
+    {
+      "id": "abb-e6-dc-fixed-4p-rear-terminals-6feaec26",
+      "name": "E6 DC fixed 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0008",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-dc-fixed-4p-rear-terminals-6feaec26",
+      "recordPath": "equipment/abb-e6-dc-fixed-4p-rear-terminals-6feaec26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-dc-fixed-4p-rear-terminals-6feaec26.json"
+    },
+    {
+      "id": "abb-e6-dc-withdrawable-3p-rear-terminals-6129e311",
+      "name": "E6 DC withdrawable 3p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0015",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-dc-withdrawable-3p-rear-terminals-6129e311",
+      "recordPath": "equipment/abb-e6-dc-withdrawable-3p-rear-terminals-6129e311.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-dc-withdrawable-3p-rear-terminals-6129e311.json"
+    },
+    {
+      "id": "abb-e6-dc-withdrawable-4p-rear-terminals-a1788f31",
+      "name": "E6 DC withdrawable 4p rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000634R0016",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-dc-withdrawable-4p-rear-terminals-a1788f31",
+      "recordPath": "equipment/abb-e6-dc-withdrawable-4p-rear-terminals-a1788f31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-dc-withdrawable-4p-rear-terminals-a1788f31.json"
+    },
+    {
+      "id": "abb-e6-a-ansi-3p-fixed-version-horizontal-rear-terminals-68127a77",
+      "name": "E6-A ANSI 3p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0863",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-ansi-3p-fixed-version-horizontal-rear-terminals-68127a77",
+      "recordPath": "equipment/abb-e6-a-ansi-3p-fixed-version-horizontal-rear-terminals-68127a77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-ansi-3p-fixed-version-horizontal-rear-terminals-68127a77.json"
+    },
+    {
+      "id": "abb-e6-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-f23784c0",
+      "name": "E6-A ANSI 3p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0854",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-f23784c0",
+      "recordPath": "equipment/abb-e6-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-f23784c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-ansi-3p-withdrawable-version-horizontal-rear-terminals-f23784c0.json"
+    },
+    {
+      "id": "abb-e6-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d81fed25",
+      "name": "E6-A ANSI 3p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0858",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d81fed25",
+      "recordPath": "equipment/abb-e6-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d81fed25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-ansi-3p-withdrawable-version-vertical-rear-terminals-d81fed25.json"
+    },
+    {
+      "id": "abb-e6-a-ansi-4p-fixed-version-horizontal-rear-terminals-6bc73b58",
+      "name": "E6-A ANSI 4p Fixed version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0870",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-ansi-4p-fixed-version-horizontal-rear-terminals-6bc73b58",
+      "recordPath": "equipment/abb-e6-a-ansi-4p-fixed-version-horizontal-rear-terminals-6bc73b58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-ansi-4p-fixed-version-horizontal-rear-terminals-6bc73b58.json"
+    },
+    {
+      "id": "abb-e6-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-2463f2c6",
+      "name": "E6-A ANSI 4p Withdrawable version Horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0875",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-2463f2c6",
+      "recordPath": "equipment/abb-e6-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-2463f2c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-ansi-4p-withdrawable-version-horizontal-rear-terminals-2463f2c6.json"
+    },
+    {
+      "id": "abb-e6-a-ansi-4p-withdrawable-version-vertical-rear-terminals-49303aa0",
+      "name": "E6-A ANSI 4p Withdrawable version Vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0880",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-ansi-4p-withdrawable-version-vertical-rear-terminals-49303aa0",
+      "recordPath": "equipment/abb-e6-a-ansi-4p-withdrawable-version-vertical-rear-terminals-49303aa0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-ansi-4p-withdrawable-version-vertical-rear-terminals-49303aa0.json"
+    },
+    {
+      "id": "abb-e6-a-full-size-fixed-rear-horizontal-terminals-2c81a084",
+      "name": "E6-A full size fixed rear horizontal terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0888",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-full-size-fixed-rear-horizontal-terminals-2c81a084",
+      "recordPath": "equipment/abb-e6-a-full-size-fixed-rear-horizontal-terminals-2c81a084.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-full-size-fixed-rear-horizontal-terminals-2c81a084.json"
+    },
+    {
+      "id": "abb-e6-a-full-size-fixed-rear-vertical-terminals-6bd48516",
+      "name": "E6-A full size fixed rear vertical terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0891",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-full-size-fixed-rear-vertical-terminals-6bd48516",
+      "recordPath": "equipment/abb-e6-a-full-size-fixed-rear-vertical-terminals-6bd48516.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-full-size-fixed-rear-vertical-terminals-6bd48516.json"
+    },
+    {
+      "id": "abb-e6-a-full-size-withdrawable-rear-horizontal-terminals-cfaf260c",
+      "name": "E6-A full size withdrawable rear horizontal terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0889",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-full-size-withdrawable-rear-horizontal-terminals-cfaf260c",
+      "recordPath": "equipment/abb-e6-a-full-size-withdrawable-rear-horizontal-terminals-cfaf260c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-full-size-withdrawable-rear-horizontal-terminals-cfaf260c.json"
+    },
+    {
+      "id": "abb-e6-a-full-size-withdrawable-rear-vertical-terminals-e3e1354c",
+      "name": "E6-A full size withdrawable rear vertical terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000526R0890",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e6-a-full-size-withdrawable-rear-vertical-terminals-e3e1354c",
+      "recordPath": "equipment/abb-e6-a-full-size-withdrawable-rear-vertical-terminals-e3e1354c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e6-a-full-size-withdrawable-rear-vertical-terminals-e3e1354c.json"
+    },
+    {
+      "id": "abb-formula-a1-i-ii-fixed-fc-cual-terminals-8f0763ba",
+      "name": "FORMULA A1 I-II Fixed Fc CuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000717R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a1-i-ii-fixed-fc-cual-terminals-8f0763ba",
+      "recordPath": "equipment/abb-formula-a1-i-ii-fixed-fc-cual-terminals-8f0763ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a1-i-ii-fixed-fc-cual-terminals-8f0763ba.json"
+    },
+    {
+      "id": "abb-formula-a1-i-ii-fixed-extended-front-terminals-3ad81b13",
+      "name": "FORMULA A1 I-II Fixed extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000717R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a1-i-ii-fixed-extended-front-terminals-3ad81b13",
+      "recordPath": "equipment/abb-formula-a1-i-ii-fixed-extended-front-terminals-3ad81b13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a1-i-ii-fixed-extended-front-terminals-3ad81b13.json"
+    },
+    {
+      "id": "abb-formula-a1-i-ii-fixed-front-terminals-49cffebf",
+      "name": "FORMULA A1 I-II Fixed front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000717R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a1-i-ii-fixed-front-terminals-49cffebf",
+      "recordPath": "equipment/abb-formula-a1-i-ii-fixed-front-terminals-49cffebf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a1-i-ii-fixed-front-terminals-49cffebf.json"
+    },
+    {
+      "id": "abb-formula-a1-ii-fixed-externded-spread-terminals-6c66f05c",
+      "name": "FORMULA A1 II Fixed externded spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000717R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a1-ii-fixed-externded-spread-terminals-6c66f05c",
+      "recordPath": "equipment/abb-formula-a1-ii-fixed-externded-spread-terminals-6c66f05c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a1-ii-fixed-externded-spread-terminals-6c66f05c.json"
+    },
+    {
+      "id": "abb-formula-a2-3p-4p-fixed-extended-front-and-spread-terminals-fc66f863",
+      "name": "FORMULA A2 3p-4p Fixed extended front and spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000718R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a2-3p-4p-fixed-extended-front-and-spread-terminals-fc66f863",
+      "recordPath": "equipment/abb-formula-a2-3p-4p-fixed-extended-front-and-spread-terminals-fc66f863.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a2-3p-4p-fixed-extended-front-and-spread-terminals-fc66f863.json"
+    },
+    {
+      "id": "abb-formula-a2-3p-4p-fixed-front-terminals-12f53979",
+      "name": "FORMULA A2 3p-4p Fixed front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000718R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a2-3p-4p-fixed-front-terminals-12f53979",
+      "recordPath": "equipment/abb-formula-a2-3p-4p-fixed-front-terminals-12f53979.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a2-3p-4p-fixed-front-terminals-12f53979.json"
+    },
+    {
+      "id": "abb-formula-a2-i-ii-fixed-extended-front-terminals-a1588bae",
+      "name": "FORMULA A2 I-II Fixed extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000718R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a2-i-ii-fixed-extended-front-terminals-a1588bae",
+      "recordPath": "equipment/abb-formula-a2-i-ii-fixed-extended-front-terminals-a1588bae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a2-i-ii-fixed-extended-front-terminals-a1588bae.json"
+    },
+    {
+      "id": "abb-formula-a2-i-ii-fixed-for-fc-cual-terminals-77e10e5a",
+      "name": "FORMULA A2 I-II Fixed for Fc CuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000718R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a2-i-ii-fixed-for-fc-cual-terminals-77e10e5a",
+      "recordPath": "equipment/abb-formula-a2-i-ii-fixed-for-fc-cual-terminals-77e10e5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a2-i-ii-fixed-for-fc-cual-terminals-77e10e5a.json"
+    },
+    {
+      "id": "abb-formula-a2-i-ii-fixed-front-terminals-d836c8bf",
+      "name": "FORMULA A2 I-II Fixed front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000718R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a2-i-ii-fixed-front-terminals-d836c8bf",
+      "recordPath": "equipment/abb-formula-a2-i-ii-fixed-front-terminals-d836c8bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a2-i-ii-fixed-front-terminals-d836c8bf.json"
+    },
+    {
+      "id": "abb-formula-a2-ii-fixed-extended-spread-terminals-52321a53",
+      "name": "FORMULA A2 II Fixed extended spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000718R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a2-ii-fixed-extended-spread-terminals-52321a53",
+      "recordPath": "equipment/abb-formula-a2-ii-fixed-extended-spread-terminals-52321a53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a2-ii-fixed-extended-spread-terminals-52321a53.json"
+    },
+    {
+      "id": "abb-formula-a3-3p-4p-fixed-extended-front-terminals-c9170d78",
+      "name": "FORMULA A3 3p-4p Fixed extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000747R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a3-3p-4p-fixed-extended-front-terminals-c9170d78",
+      "recordPath": "equipment/abb-formula-a3-3p-4p-fixed-extended-front-terminals-c9170d78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a3-3p-4p-fixed-extended-front-terminals-c9170d78.json"
+    },
+    {
+      "id": "abb-formula-a3-3p-4p-fixed-for-cables-fc-cual-terminals-9ecae246",
+      "name": "FORMULA A3 3p-4p Fixed for cables Fc CuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000747R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a3-3p-4p-fixed-for-cables-fc-cual-terminals-9ecae246",
+      "recordPath": "equipment/abb-formula-a3-3p-4p-fixed-for-cables-fc-cual-terminals-9ecae246.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a3-3p-4p-fixed-for-cables-fc-cual-terminals-9ecae246.json"
+    },
+    {
+      "id": "abb-formula-a3-3p-4p-fixed-front-terminals-e0c53f02",
+      "name": "FORMULA A3 3p-4p Fixed front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000747R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a3-3p-4p-fixed-front-terminals-e0c53f02",
+      "recordPath": "equipment/abb-formula-a3-3p-4p-fixed-front-terminals-e0c53f02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a3-3p-4p-fixed-front-terminals-e0c53f02.json"
+    },
+    {
+      "id": "abb-formula-a3-3p-4p-fixed-spread-extended-terminals-2dda9bf8",
+      "name": "FORMULA A3 3p-4p Fixed spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000747R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-formula-a3-3p-4p-fixed-spread-extended-terminals-2dda9bf8",
+      "recordPath": "equipment/abb-formula-a3-3p-4p-fixed-spread-extended-terminals-2dda9bf8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-formula-a3-3p-4p-fixed-spread-extended-terminals-2dda9bf8.json"
+    },
+    {
+      "id": "abb-fixed-version-p1-iii-iv-extended-spread-front-terminals-47mm-86c253d1",
+      "name": "Fixed version P1 III-IV extended spread front terminals 47mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002119A1100",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p1-iii-iv-extended-spread-front-terminals-47mm-86c253d1",
+      "recordPath": "equipment/abb-fixed-version-p1-iii-iv-extended-spread-front-terminals-47mm-86c253d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p1-iii-iv-extended-spread-front-terminals-47mm-86c253d1.json"
+    },
+    {
+      "id": "abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-70mm-59a936b8",
+      "name": "Fixed version P2 III-IV extended spread front terminals 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002120A1100",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-70mm-59a936b8",
+      "recordPath": "equipment/abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-70mm-59a936b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p2-iii-iv-extended-spread-front-terminals-70mm-59a936b8.json"
+    },
+    {
+      "id": "abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-80mm-a9d9c476",
+      "name": "Fixed version P3 III-IV extended spread front terminals 80mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002124A1110",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-80mm-a9d9c476",
+      "recordPath": "equipment/abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-80mm-a9d9c476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fixed-version-p3-iii-iv-extended-spread-front-terminals-80mm-a9d9c476.json"
+    },
+    {
+      "id": "abb-m2bax-160-200-ie2-160-180-ie3-terminal-box-drawing-2002773b",
+      "name": "M2BAX 160-200 IE2 160-180 IE3 terminal box drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108466A8927",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m2bax-160-200-ie2-160-180-ie3-terminal-box-drawing-2002773b",
+      "recordPath": "equipment/abb-m2bax-160-200-ie2-160-180-ie3-terminal-box-drawing-2002773b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m2bax-160-200-ie2-160-180-ie3-terminal-box-drawing-2002773b.json"
+    },
+    {
+      "id": "abb-m2bax-225-250-ie2-200-250-ie3-terminal-box-drawing-d7ef7e71",
+      "name": "M2BAX 225-250 IE2 200-250 IE3 terminal box drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108466A8928",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m2bax-225-250-ie2-200-250-ie3-terminal-box-drawing-d7ef7e71",
+      "recordPath": "equipment/abb-m2bax-225-250-ie2-200-250-ie3-terminal-box-drawing-d7ef7e71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m2bax-225-250-ie2-200-250-ie3-terminal-box-drawing-d7ef7e71.json"
+    },
+    {
+      "id": "abb-m2bax132-2-12-c-gen-sa-2-sb-2-sa-4-sa-6-t-gen-sa-2-sb-2-sa-4-sa-6-imb3-im1001-top-na--7ce21830",
+      "name": "M2BAX132 2-12 (C-gen) SA 2,SB 2,SA 4,SA 6;(T-gen) SA 2,SB 2,SA 4,SA 6;IMB3/IM1001;;TOP NA;180 Terminal box RHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZC500013-40",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m2bax132-2-12-c-gen-sa-2-sb-2-sa-4-sa-6-t-gen-sa-2-sb-2-sa-4-sa-6-imb3-im1001-top-na--7ce21830",
+      "recordPath": "equipment/abb-m2bax132-2-12-c-gen-sa-2-sb-2-sa-4-sa-6-t-gen-sa-2-sb-2-sa-4-sa-6-imb3-im1001-top-na--7ce21830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m2bax132-2-12-c-gen-sa-2-sb-2-sa-4-sa-6-t-gen-sa-2-sb-2-sa-4-sa-6-imb3-im1001-top-na--7ce21830.json"
+    },
+    {
+      "id": "abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-lhs-15f764a7",
+      "name": "M3BN(K) 587 ML_2 B3, B6, B7, B8, V5, V6, terminal box LHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500096-12",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-lhs-15f764a7",
+      "recordPath": "equipment/abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-lhs-15f764a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-lhs-15f764a7.json"
+    },
+    {
+      "id": "abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-rhs-a641f6f3",
+      "name": "M3BN(K) 587 ML_2 B3, B6, B7, B8, V5, V6, terminal box RHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500096-11",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-rhs-a641f6f3",
+      "recordPath": "equipment/abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-rhs-a641f6f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m3bn-k-587-ml-2-b3-b6-b7-b8-v5-v6-terminal-box-rhs-a641f6f3.json"
+    },
+    {
+      "id": "abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-64cf66ee",
+      "name": "M3BN(K) 587 ML_4-8 B3, B6, B7, B8, V5, V6, terminal box LHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500096-10",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-64cf66ee",
+      "recordPath": "equipment/abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-64cf66ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-64cf66ee.json"
+    },
+    {
+      "id": "abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-4c44a30a",
+      "name": "M3BN(K) 587 ML_4-8 B3, B6, B7, B8, V5, V6, terminal box RHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500096-9",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-4c44a30a",
+      "recordPath": "equipment/abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-4c44a30a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m3bn-k-587-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-4c44a30a.json"
+    },
+    {
+      "id": "abb-m3bn-k-588-lk-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-11e8fde9",
+      "name": "M3BN(K) 588 LK_4-8 B3, B6, B7, B8, V5, V6, terminal box LHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500096-14",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m3bn-k-588-lk-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-11e8fde9",
+      "recordPath": "equipment/abb-m3bn-k-588-lk-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-11e8fde9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m3bn-k-588-lk-4-8-b3-b6-b7-b8-v5-v6-terminal-box-lhs-11e8fde9.json"
+    },
+    {
+      "id": "abb-m3bn-k-588-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-fe92c234",
+      "name": "M3BN(K) 588 ML_4-8 B3, B6, B7, B8, V5, V6, terminal box RHS",
+      "manufacturer": "ABB",
+      "drawingNumber": "3GZF500096-13",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-m3bn-k-588-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-fe92c234",
+      "recordPath": "equipment/abb-m3bn-k-588-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-fe92c234.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-m3bn-k-588-ml-4-8-b3-b6-b7-b8-v5-v6-terminal-box-rhs-fe92c234.json"
+    },
+    {
+      "id": "abb-oss160gg3ls-dbd82863",
+      "name": "OSS160GG3LS",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS160GG3LS.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss160gg3ls-dbd82863",
+      "recordPath": "equipment/abb-oss160gg3ls-dbd82863.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss160gg3ls-dbd82863.json"
+    },
+    {
+      "id": "abb-oss160gg4ls-6b5cb6e6",
+      "name": "OSS160GG4LS",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS160GG4LS.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss160gg4ls-6b5cb6e6",
+      "recordPath": "equipment/abb-oss160gg4ls-6b5cb6e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss160gg4ls-6b5cb6e6.json"
+    },
+    {
+      "id": "abb-oss250g1sh-1-51f8de12",
+      "name": "OSS250G1SH/1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS250G1SH/1.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss250g1sh-1-51f8de12",
+      "recordPath": "equipment/abb-oss250g1sh-1-51f8de12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss250g1sh-1-51f8de12.json"
+    },
+    {
+      "id": "abb-oss400g1s-1de5daa0",
+      "name": "OSS400G1S",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G1S.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g1s-1de5daa0",
+      "recordPath": "equipment/abb-oss400g1s-1de5daa0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g1s-1de5daa0.json"
+    },
+    {
+      "id": "abb-oss400g1sh-1-431cd9bc",
+      "name": "OSS400G1SH/1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G1SH/1.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g1sh-1-431cd9bc",
+      "recordPath": "equipment/abb-oss400g1sh-1-431cd9bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g1sh-1-431cd9bc.json"
+    },
+    {
+      "id": "abb-oss400g3ls-45b13c92",
+      "name": "OSS400G3LS",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G3LS.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g3ls-45b13c92",
+      "recordPath": "equipment/abb-oss400g3ls-45b13c92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g3ls-45b13c92.json"
+    },
+    {
+      "id": "abb-oss400g3ss-d9579c7e",
+      "name": "OSS400G3SS",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G3SS.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g3ss-d9579c7e",
+      "recordPath": "equipment/abb-oss400g3ss-d9579c7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g3ss-d9579c7e.json"
+    },
+    {
+      "id": "abb-oss400g4lsl-fa310975",
+      "name": "OSS400G4LSL",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G4LSL.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g4lsl-fa310975",
+      "recordPath": "equipment/abb-oss400g4lsl-fa310975.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g4lsl-fa310975.json"
+    },
+    {
+      "id": "abb-oss400g4lsr-1e5d7fb9",
+      "name": "OSS400G4LSR",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G4LSR.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g4lsr-1e5d7fb9",
+      "recordPath": "equipment/abb-oss400g4lsr-1e5d7fb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g4lsr-1e5d7fb9.json"
+    },
+    {
+      "id": "abb-oss400g4ssl-3f78e8a7",
+      "name": "OSS400G4SSL",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G4SSL.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g4ssl-3f78e8a7",
+      "recordPath": "equipment/abb-oss400g4ssl-3f78e8a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g4ssl-3f78e8a7.json"
+    },
+    {
+      "id": "abb-oss400g4ssr-6b0ba0d2",
+      "name": "OSS400G4SSR",
+      "manufacturer": "ABB",
+      "drawingNumber": "OSS400G4SSR.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oss400g4ssr-6b0ba0d2",
+      "recordPath": "equipment/abb-oss400g4ssr-6b0ba0d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oss400g4ssr-6b0ba0d2.json"
+    },
+    {
+      "id": "abb-oxes250g1l-2b63d85b",
+      "name": "OXES250G1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "OXES250G1L.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxes250g1l-2b63d85b",
+      "recordPath": "equipment/abb-oxes250g1l-2b63d85b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxes250g1l-2b63d85b.json"
+    },
+    {
+      "id": "abb-oxes250g1s-68f729dc",
+      "name": "OXES250G1S",
+      "manufacturer": "ABB",
+      "drawingNumber": "OXES250G1S_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxes250g1s-68f729dc",
+      "recordPath": "equipment/abb-oxes250g1s-68f729dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxes250g1s-68f729dc.json"
+    },
+    {
+      "id": "abb-ozxa604-0ba02614",
+      "name": "OZXA604",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXA604.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxa604-0ba02614",
+      "recordPath": "equipment/abb-ozxa604-0ba02614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxa604-0ba02614.json"
+    },
+    {
+      "id": "abb-ozxa804-377d3712",
+      "name": "OZXA804",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXA804.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxa804-377d3712",
+      "recordPath": "equipment/abb-ozxa804-377d3712.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxa804-377d3712.json"
+    },
+    {
+      "id": "abb-ozxb2-4a6cc791",
+      "name": "OZXB2",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXB2.STP",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb2-4a6cc791",
+      "recordPath": "equipment/abb-ozxb2-4a6cc791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxb2-4a6cc791.json"
+    },
+    {
+      "id": "abb-ozxb3-6865dc23",
+      "name": "OZXB3",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXB3.STP",
+      "formats": [
+        "STEP",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb3-6865dc23",
+      "recordPath": "equipment/abb-ozxb3-6865dc23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxb3-6865dc23.json"
+    },
+    {
+      "id": "abb-ozxb4-6199c08c",
+      "name": "OZXB4",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXB4.STP",
+      "formats": [
+        "STEP",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb4-6199c08c",
+      "recordPath": "equipment/abb-ozxb4-6199c08c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxb4-6199c08c.json"
+    },
+    {
+      "id": "abb-ozxb5-ab3ec55d",
+      "name": "OZXB5",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXB5.STP",
+      "formats": [
+        "STEP",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb5-ab3ec55d",
+      "recordPath": "equipment/abb-ozxb5-ab3ec55d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxb5-ab3ec55d.json"
+    },
+    {
+      "id": "abb-ozxb6-dbb77410",
+      "name": "OZXB6",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXB6.STP",
+      "formats": [
+        "STEP",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb6-dbb77410",
+      "recordPath": "equipment/abb-ozxb6-dbb77410.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxb6-dbb77410.json"
+    },
+    {
+      "id": "abb-ozxt50-82d8bfc9",
+      "name": "OZXT50",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXT50.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxt50-82d8bfc9",
+      "recordPath": "equipment/abb-ozxt50-82d8bfc9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxt50-82d8bfc9.json"
+    },
+    {
+      "id": "abb-ozxt95-ea2679f5",
+      "name": "OZXT95",
+      "manufacturer": "ABB",
+      "drawingNumber": "OZXT95.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ozxt95-ea2679f5",
+      "recordPath": "equipment/abb-ozxt95-ea2679f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ozxt95-ea2679f5.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040a-66136120",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB06B6040A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB06B6040A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040a-66136120",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040a-66136120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040a-66136120.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040r-d79de12e",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB06B6040R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB06B6040R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040r-d79de12e",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040r-d79de12e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06b6040r-d79de12e.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040a-2da28fd6",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB06L6040A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB06L6040A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040a-2da28fd6",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040a-2da28fd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040a-2da28fd6.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040r-08f52ef6",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB06L6040R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB06L6040R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040r-08f52ef6",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040r-08f52ef6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb06l6040r-08f52ef6.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245a-e73f1181",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB08B7245A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB08B7245A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245a-e73f1181",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245a-e73f1181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245a-e73f1181.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245r-cf2a9d15",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB08B7245R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB08B7245R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245r-cf2a9d15",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245r-cf2a9d15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08b7245r-cf2a9d15.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245a-99eb05c5",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB08L7245A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB08L7245A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245a-99eb05c5",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245a-99eb05c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245a-99eb05c5.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245r-755d6edb",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB08L7245R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB08L7245R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245r-755d6edb",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245r-755d6edb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb08l7245r-755d6edb.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445a-053259a2",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB12B8445A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB12B8445A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445a-053259a2",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445a-053259a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445a-053259a2.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445r-fc4eaf56",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB12B8445R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB12B8445R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445r-fc4eaf56",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445r-fc4eaf56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12b8445r-fc4eaf56.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645a-fd94d1f7",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB12G9645A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB12G9645A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645a-fd94d1f7",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645a-fd94d1f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645a-fd94d1f7.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645r-e3289b0c",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB12G9645R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB12G9645R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645r-e3289b0c",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645r-e3289b0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12g9645r-e3289b0c.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445a-a7d02abf",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB12L8445A",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB12L8445A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445a-a7d02abf",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445a-a7d02abf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445a-a7d02abf.json"
+    },
+    {
+      "id": "abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445r-71915f89",
+      "name": "ReliaGear Merchandised neXT SuperBox Power Panelboard Drawing - RNSB12L8445R",
+      "manufacturer": "ABB",
+      "drawingNumber": "RNSB12L8445R",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445r-71915f89",
+      "recordPath": "equipment/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445r-71915f89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliagear-merchandised-next-superbox-power-panelboard-drawing-rnsb12l8445r-71915f89.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-pull-box-1-phase-1200a-rmm1p12r-7ad4edfa",
+      "name": "ReliaMod Outline Drawing, Pull Box, 1-Phase, 1200A, RMM1P12R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0085",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-pull-box-1-phase-1200a-rmm1p12r-7ad4edfa",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-pull-box-1-phase-1200a-rmm1p12r-7ad4edfa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-pull-box-1-phase-1200a-rmm1p12r-7ad4edfa.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-pull-box-1-phase-800a-rmm1p8r-02249e4a",
+      "name": "ReliaMod Outline Drawing, Pull Box, 1-Phase, 800A, RMM1P8R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0084",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-pull-box-1-phase-800a-rmm1p8r-02249e4a",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-pull-box-1-phase-800a-rmm1p8r-02249e4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-pull-box-1-phase-800a-rmm1p8r-02249e4a.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-pull-box-3-phase-400a-rmm3p4r-4f11f8af",
+      "name": "ReliaMod Outline Drawing, Pull Box, 3-Phase, 400A, RMM3P4R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0086",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-pull-box-3-phase-400a-rmm3p4r-4f11f8af",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-pull-box-3-phase-400a-rmm3p4r-4f11f8af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-pull-box-3-phase-400a-rmm3p4r-4f11f8af.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-pull-box-3-phase-800a-rmm3p8r-24784e34",
+      "name": "ReliaMod Outline Drawing, Pull Box, 3-Phase, 800A, RMM3P8R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0087",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-pull-box-3-phase-800a-rmm3p8r-24784e34",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-pull-box-3-phase-800a-rmm3p8r-24784e34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-pull-box-3-phase-800a-rmm3p8r-24784e34.json"
+    },
+    {
+      "id": "abb-s1-residual-current-release-rc-210-1-side-mounting-fixed-version-front-terminals-1ec1f710",
+      "name": "S1 Residual current release RC 210/1 side mounting Fixed version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855305",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s1-residual-current-release-rc-210-1-side-mounting-fixed-version-front-terminals-1ec1f710",
+      "recordPath": "equipment/abb-s1-residual-current-release-rc-210-1-side-mounting-fixed-version-front-terminals-1ec1f710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s1-residual-current-release-rc-210-1-side-mounting-fixed-version-front-terminals-1ec1f710.json"
+    },
+    {
+      "id": "abb-s1-residual-current-release-rc-211-212-1-side-mounting-fixed-version-front-terminals-9cd337bb",
+      "name": "S1 Residual current release RC 211-212/1 side mounting Fixed version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855301",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s1-residual-current-release-rc-211-212-1-side-mounting-fixed-version-front-terminals-9cd337bb",
+      "recordPath": "equipment/abb-s1-residual-current-release-rc-211-212-1-side-mounting-fixed-version-front-terminals-9cd337bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s1-residual-current-release-rc-211-212-1-side-mounting-fixed-version-front-terminals-9cd337bb.json"
+    },
+    {
+      "id": "abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-front-terminal-e08b6b3b",
+      "name": "S1 residual current release RC 211-212/1 bottom mounting Fixed version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855321",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-front-terminal-e08b6b3b",
+      "recordPath": "equipment/abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-front-terminal-e08b6b3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-front-terminal-e08b6b3b.json"
+    },
+    {
+      "id": "abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-rear-terminals-a36ba7a1",
+      "name": "S1 residual current release RC 211-212/1 bottom mounting Fixed version Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855341",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-rear-terminals-a36ba7a1",
+      "recordPath": "equipment/abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-rear-terminals-a36ba7a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s1-residual-current-release-rc-211-212-1-bottom-mounting-fixed-version-rear-terminals-a36ba7a1.json"
+    },
+    {
+      "id": "abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-front-terminal-87091375",
+      "name": "S2 Residual current release RC 211-212/2 Bottom mounting Fixed version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855331",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-front-terminal-87091375",
+      "recordPath": "equipment/abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-front-terminal-87091375.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-front-terminal-87091375.json"
+    },
+    {
+      "id": "abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-rear-terminals-8b57a059",
+      "name": "S2 Residual current release RC 211-212/2 Bottom mounting Fixed version Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855351",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-rear-terminals-8b57a059",
+      "recordPath": "equipment/abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-rear-terminals-8b57a059.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s2-residual-current-release-rc-211-212-2-bottom-mounting-fixed-version-rear-terminals-8b57a059.json"
+    },
+    {
+      "id": "abb-s2-residual-current-release-rc-211-212-2-side-mounting-fixed-version-front-terminals-0bdd16a0",
+      "name": "S2 Residual current release RC 211-212/2 Side mounting Fixed version Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601855311",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s2-residual-current-release-rc-211-212-2-side-mounting-fixed-version-front-terminals-0bdd16a0",
+      "recordPath": "equipment/abb-s2-residual-current-release-rc-211-212-2-side-mounting-fixed-version-front-terminals-0bdd16a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s2-residual-current-release-rc-211-212-2-side-mounting-fixed-version-front-terminals-0bdd16a0.json"
+    },
+    {
+      "id": "abb-s3x-3p-fixed-version-front-and-rear-terminals-for-cable-connection-9ac41363",
+      "name": "S3X 3p Fixed version Front and rear terminals for cable connection",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-fixed-version-front-and-rear-terminals-for-cable-connection-9ac41363",
+      "recordPath": "equipment/abb-s3x-3p-fixed-version-front-and-rear-terminals-for-cable-connection-9ac41363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-fixed-version-front-and-rear-terminals-for-cable-connection-9ac41363.json"
+    },
+    {
+      "id": "abb-s3x-3p-fixed-version-front-terminals-1000-v-7bcde55c",
+      "name": "S3X 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035021",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-fixed-version-front-terminals-1000-v-7bcde55c",
+      "recordPath": "equipment/abb-s3x-3p-fixed-version-front-terminals-1000-v-7bcde55c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-fixed-version-front-terminals-1000-v-7bcde55c.json"
+    },
+    {
+      "id": "abb-s3x-3p-fixed-version-front-terminals-and-front-extended-terminals-3c84f336",
+      "name": "S3X 3p Fixed version Front terminals and front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032061",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-fixed-version-front-terminals-and-front-extended-terminals-3c84f336",
+      "recordPath": "equipment/abb-s3x-3p-fixed-version-front-terminals-and-front-extended-terminals-3c84f336.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-fixed-version-front-terminals-and-front-extended-terminals-3c84f336.json"
+    },
+    {
+      "id": "abb-s3x-3p-fixed-version-rear-terminals-aef01f56",
+      "name": "S3X 3p Fixed version Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032081",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-fixed-version-rear-terminals-aef01f56",
+      "recordPath": "equipment/abb-s3x-3p-fixed-version-rear-terminals-aef01f56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-fixed-version-rear-terminals-aef01f56.json"
+    },
+    {
+      "id": "abb-s3x-3p-plug-in-front-terminals-7471e3b6",
+      "name": "S3X 3p Plug-in Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-plug-in-front-terminals-7471e3b6",
+      "recordPath": "equipment/abb-s3x-3p-plug-in-front-terminals-7471e3b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-plug-in-front-terminals-7471e3b6.json"
+    },
+    {
+      "id": "abb-s3x-3p-plug-in-rear-terminals-23211f77",
+      "name": "S3X 3p Plug-in Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032161",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-plug-in-rear-terminals-23211f77",
+      "recordPath": "equipment/abb-s3x-3p-plug-in-rear-terminals-23211f77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-plug-in-rear-terminals-23211f77.json"
+    },
+    {
+      "id": "abb-s3x-3p-withdrawable-front-terminals-8a3e2e93",
+      "name": "S3X 3p Withdrawable Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-3p-withdrawable-front-terminals-8a3e2e93",
+      "recordPath": "equipment/abb-s3x-3p-withdrawable-front-terminals-8a3e2e93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-3p-withdrawable-front-terminals-8a3e2e93.json"
+    },
+    {
+      "id": "abb-s3x-4p-fixed-version-front-and-rear-terminals-for-cable-connection-48cef6ef",
+      "name": "S3X 4p Fixed version Front and rear terminals for cable connection",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032011",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-4p-fixed-version-front-and-rear-terminals-for-cable-connection-48cef6ef",
+      "recordPath": "equipment/abb-s3x-4p-fixed-version-front-and-rear-terminals-for-cable-connection-48cef6ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-4p-fixed-version-front-and-rear-terminals-for-cable-connection-48cef6ef.json"
+    },
+    {
+      "id": "abb-s3x-4p-fixed-version-front-terminals-and-front-extended-terminals-e183d5e7",
+      "name": "S3X 4p Fixed version Front terminals and front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032051",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-4p-fixed-version-front-terminals-and-front-extended-terminals-e183d5e7",
+      "recordPath": "equipment/abb-s3x-4p-fixed-version-front-terminals-and-front-extended-terminals-e183d5e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-4p-fixed-version-front-terminals-and-front-extended-terminals-e183d5e7.json"
+    },
+    {
+      "id": "abb-s3x-4p-plug-in-front-terminals-11d0f315",
+      "name": "S3X 4p Plug-in Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032131",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-4p-plug-in-front-terminals-11d0f315",
+      "recordPath": "equipment/abb-s3x-4p-plug-in-front-terminals-11d0f315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-4p-plug-in-front-terminals-11d0f315.json"
+    },
+    {
+      "id": "abb-s3x-4p-plug-in-rear-terminals-d297c33f",
+      "name": "S3X 4p Plug-in Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032171",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-4p-plug-in-rear-terminals-d297c33f",
+      "recordPath": "equipment/abb-s3x-4p-plug-in-rear-terminals-d297c33f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-4p-plug-in-rear-terminals-d297c33f.json"
+    },
+    {
+      "id": "abb-s3x-4p-withdrawable-front-terminals-6dadbdf7",
+      "name": "S3X 4p Withdrawable Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032211",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-4p-withdrawable-front-terminals-6dadbdf7",
+      "recordPath": "equipment/abb-s3x-4p-withdrawable-front-terminals-6dadbdf7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-4p-withdrawable-front-terminals-6dadbdf7.json"
+    },
+    {
+      "id": "abb-s3x-4p-withdrawable-rear-terminals-bb6de1bf",
+      "name": "S3X 4p Withdrawable Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032251",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s3x-4p-withdrawable-rear-terminals-bb6de1bf",
+      "recordPath": "equipment/abb-s3x-4p-withdrawable-rear-terminals-bb6de1bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s3x-4p-withdrawable-rear-terminals-bb6de1bf.json"
+    },
+    {
+      "id": "abb-s4x-3p-fixed-version-front-terminals-1000-v-0e8e91d8",
+      "name": "S4X 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035041",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-fixed-version-front-terminals-1000-v-0e8e91d8",
+      "recordPath": "equipment/abb-s4x-3p-fixed-version-front-terminals-1000-v-0e8e91d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-fixed-version-front-terminals-1000-v-0e8e91d8.json"
+    },
+    {
+      "id": "abb-s4x-3p-fixed-version-rear-terminal-for-cables-fe1dd69f",
+      "name": "S4X 3p Fixed version Rear terminal for cables",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032021",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-fixed-version-rear-terminal-for-cables-fe1dd69f",
+      "recordPath": "equipment/abb-s4x-3p-fixed-version-rear-terminal-for-cables-fe1dd69f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-fixed-version-rear-terminal-for-cables-fe1dd69f.json"
+    },
+    {
+      "id": "abb-s4x-3p-fixed-version-rear-terminals-303b7e11",
+      "name": "S4X 3p Fixed version Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-fixed-version-rear-terminals-303b7e11",
+      "recordPath": "equipment/abb-s4x-3p-fixed-version-rear-terminals-303b7e11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-fixed-version-rear-terminals-303b7e11.json"
+    },
+    {
+      "id": "abb-s4x-3p-plug-in-front-terminals-9ed17505",
+      "name": "S4X 3p Plug-in Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032141",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-plug-in-front-terminals-9ed17505",
+      "recordPath": "equipment/abb-s4x-3p-plug-in-front-terminals-9ed17505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-plug-in-front-terminals-9ed17505.json"
+    },
+    {
+      "id": "abb-s4x-3p-plug-in-rear-terminals-42b1bdde",
+      "name": "S4X 3p Plug-in Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032181",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-plug-in-rear-terminals-42b1bdde",
+      "recordPath": "equipment/abb-s4x-3p-plug-in-rear-terminals-42b1bdde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-plug-in-rear-terminals-42b1bdde.json"
+    },
+    {
+      "id": "abb-s4x-3p-withdrawable-front-terminals-53898214",
+      "name": "S4X 3p Withdrawable Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032221",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-withdrawable-front-terminals-53898214",
+      "recordPath": "equipment/abb-s4x-3p-withdrawable-front-terminals-53898214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-withdrawable-front-terminals-53898214.json"
+    },
+    {
+      "id": "abb-s4x-3p-withdrawable-rear-terminals-4ff66bcb",
+      "name": "S4X 3p Withdrawable Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032261",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-3p-withdrawable-rear-terminals-4ff66bcb",
+      "recordPath": "equipment/abb-s4x-3p-withdrawable-rear-terminals-4ff66bcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-3p-withdrawable-rear-terminals-4ff66bcb.json"
+    },
+    {
+      "id": "abb-s4x-4p-fixed-version-front-extended-terminals-78de5cba",
+      "name": "S4X 4p Fixed version Front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032071",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-4p-fixed-version-front-extended-terminals-78de5cba",
+      "recordPath": "equipment/abb-s4x-4p-fixed-version-front-extended-terminals-78de5cba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-4p-fixed-version-front-extended-terminals-78de5cba.json"
+    },
+    {
+      "id": "abb-s4x-4p-fixed-version-rear-terminals-44b97cf7",
+      "name": "S4X 4p Fixed version Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-4p-fixed-version-rear-terminals-44b97cf7",
+      "recordPath": "equipment/abb-s4x-4p-fixed-version-rear-terminals-44b97cf7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-4p-fixed-version-rear-terminals-44b97cf7.json"
+    },
+    {
+      "id": "abb-s4x-4p-fixed-version-terminals-for-cables-54b6a802",
+      "name": "S4X 4p Fixed version Terminals for cables",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032031",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-4p-fixed-version-terminals-for-cables-54b6a802",
+      "recordPath": "equipment/abb-s4x-4p-fixed-version-terminals-for-cables-54b6a802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-4p-fixed-version-terminals-for-cables-54b6a802.json"
+    },
+    {
+      "id": "abb-s4x-4p-plug-in-front-terminals-9e01cc59",
+      "name": "S4X 4p Plug-in Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032151",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-4p-plug-in-front-terminals-9e01cc59",
+      "recordPath": "equipment/abb-s4x-4p-plug-in-front-terminals-9e01cc59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-4p-plug-in-front-terminals-9e01cc59.json"
+    },
+    {
+      "id": "abb-s4x-4p-plug-in-rear-terminals-2cde157e",
+      "name": "S4X 4p Plug-in Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032191",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-4p-plug-in-rear-terminals-2cde157e",
+      "recordPath": "equipment/abb-s4x-4p-plug-in-rear-terminals-2cde157e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-4p-plug-in-rear-terminals-2cde157e.json"
+    },
+    {
+      "id": "abb-s4x-4p-withdrawable-front-terminals-b1665658",
+      "name": "S4X 4p Withdrawable Front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605032231",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s4x-4p-withdrawable-front-terminals-b1665658",
+      "recordPath": "equipment/abb-s4x-4p-withdrawable-front-terminals-b1665658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s4x-4p-withdrawable-front-terminals-b1665658.json"
+    },
+    {
+      "id": "abb-s5-630-4p-fixed-version-front-terminals-for-cables-5a0299a9",
+      "name": "S5/630 4p Fixed version Front terminals for cables",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-601812841",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s5-630-4p-fixed-version-front-terminals-for-cables-5a0299a9",
+      "recordPath": "equipment/abb-s5-630-4p-fixed-version-front-terminals-for-cables-5a0299a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s5-630-4p-fixed-version-front-terminals-for-cables-5a0299a9.json"
+    },
+    {
+      "id": "abb-s6x-3p-fixed-version-front-extended-terminals-cc3c0ef6",
+      "name": "S6X 3p Fixed version Front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031041",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-3p-fixed-version-front-extended-terminals-cc3c0ef6",
+      "recordPath": "equipment/abb-s6x-3p-fixed-version-front-extended-terminals-cc3c0ef6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-3p-fixed-version-front-extended-terminals-cc3c0ef6.json"
+    },
+    {
+      "id": "abb-s6x-3p-fixed-version-front-terminals-1000-v-4db67f85",
+      "name": "S6X 3p Fixed version Front terminals 1000 V",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0035091",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-3p-fixed-version-front-terminals-1000-v-4db67f85",
+      "recordPath": "equipment/abb-s6x-3p-fixed-version-front-terminals-1000-v-4db67f85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-3p-fixed-version-front-terminals-1000-v-4db67f85.json"
+    },
+    {
+      "id": "abb-s6x-3p-fixed-version-rear-terminals-4463c97f",
+      "name": "S6X 3p Fixed version Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031061",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-3p-fixed-version-rear-terminals-4463c97f",
+      "recordPath": "equipment/abb-s6x-3p-fixed-version-rear-terminals-4463c97f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-3p-fixed-version-rear-terminals-4463c97f.json"
+    },
+    {
+      "id": "abb-s6x-3p-fixed-version-terminals-for-cables-r630-86f19a16",
+      "name": "S6X 3p Fixed version Terminals for cables R630",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-3p-fixed-version-terminals-for-cables-r630-86f19a16",
+      "recordPath": "equipment/abb-s6x-3p-fixed-version-terminals-for-cables-r630-86f19a16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-3p-fixed-version-terminals-for-cables-r630-86f19a16.json"
+    },
+    {
+      "id": "abb-s6x-3p-withdrawable-mixed-terminals-0dfc9fb7",
+      "name": "S6X 3p Withdrawable Mixed terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031081",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-3p-withdrawable-mixed-terminals-0dfc9fb7",
+      "recordPath": "equipment/abb-s6x-3p-withdrawable-mixed-terminals-0dfc9fb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-3p-withdrawable-mixed-terminals-0dfc9fb7.json"
+    },
+    {
+      "id": "abb-s6x-3p-withdrawable-rear-terminals-01985ad8",
+      "name": "S6X 3p Withdrawable Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-3p-withdrawable-rear-terminals-01985ad8",
+      "recordPath": "equipment/abb-s6x-3p-withdrawable-rear-terminals-01985ad8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-3p-withdrawable-rear-terminals-01985ad8.json"
+    },
+    {
+      "id": "abb-s6x-4p-fixed-version-front-and-rear-terminals-91a6c020",
+      "name": "S6X 4p Fixed version Front and rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031071",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-4p-fixed-version-front-and-rear-terminals-91a6c020",
+      "recordPath": "equipment/abb-s6x-4p-fixed-version-front-and-rear-terminals-91a6c020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-4p-fixed-version-front-and-rear-terminals-91a6c020.json"
+    },
+    {
+      "id": "abb-s6x-4p-fixed-version-front-extended-terminals-88e7a1ab",
+      "name": "S6X 4p Fixed version Front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031051",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-4p-fixed-version-front-extended-terminals-88e7a1ab",
+      "recordPath": "equipment/abb-s6x-4p-fixed-version-front-extended-terminals-88e7a1ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-4p-fixed-version-front-extended-terminals-88e7a1ab.json"
+    },
+    {
+      "id": "abb-s6x-4p-fixed-version-terminals-for-cables-r630-565b99e4",
+      "name": "S6X 4p Fixed version Terminals for cables R630",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031011",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-4p-fixed-version-terminals-for-cables-r630-565b99e4",
+      "recordPath": "equipment/abb-s6x-4p-fixed-version-terminals-for-cables-r630-565b99e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-4p-fixed-version-terminals-for-cables-r630-565b99e4.json"
+    },
+    {
+      "id": "abb-s6x-4p-withdrawable-rear-terminals-32b499d6",
+      "name": "S6X 4p Withdrawable Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605031111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s6x-4p-withdrawable-rear-terminals-32b499d6",
+      "recordPath": "equipment/abb-s6x-4p-withdrawable-rear-terminals-32b499d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s6x-4p-withdrawable-rear-terminals-32b499d6.json"
+    },
+    {
+      "id": "abb-s8-2000-2500-fixed-version-conversion-from-front-terminals-to-rear-terminals-13fcccfe",
+      "name": "S8 2000-2500 Fixed version Conversion from Front terminals to Rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-605036901",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-s8-2000-2500-fixed-version-conversion-from-front-terminals-to-rear-terminals-13fcccfe",
+      "recordPath": "equipment/abb-s8-2000-2500-fixed-version-conversion-from-front-terminals-to-rear-terminals-13fcccfe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-s8-2000-2500-fixed-version-conversion-from-front-terminals-to-rear-terminals-13fcccfe.json"
+    },
+    {
+      "id": "abb-st7-drawings-of-terminal-substation-69460b5c",
+      "name": "ST7 - Схемы конечной подстанции / Drawings of terminal substation",
+      "manufacturer": "ABB",
+      "drawingNumber": "1YMS603012",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-st7-drawings-of-terminal-substation-69460b5c",
+      "recordPath": "equipment/abb-st7-drawings-of-terminal-substation-69460b5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-st7-drawings-of-terminal-substation-69460b5c.json"
+    },
+    {
+      "id": "abb-st7-drawings-of-terminal-substation-with-bypass-connection-4038362b",
+      "name": "ST7 - Схемы конечной подстанции с обходным соединением / Drawings of terminal substation with bypass connection",
+      "manufacturer": "ABB",
+      "drawingNumber": "1YMS603014",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-st7-drawings-of-terminal-substation-with-bypass-connection-4038362b",
+      "recordPath": "equipment/abb-st7-drawings-of-terminal-substation-with-bypass-connection-4038362b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-st7-drawings-of-terminal-substation-with-bypass-connection-4038362b.json"
+    },
+    {
+      "id": "abb-st7-mea-drawings-of-terminal-substation-with-auxiliary-trafo-and-mea-bd78e853",
+      "name": "ST7 - Схемы конечной подстанции со вспомогательным трансформатором и mea / Drawings of terminal substation with auxiliary trafo and mea",
+      "manufacturer": "ABB",
+      "drawingNumber": "1YMS603013",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-st7-mea-drawings-of-terminal-substation-with-auxiliary-trafo-and-mea-bd78e853",
+      "recordPath": "equipment/abb-st7-mea-drawings-of-terminal-substation-with-auxiliary-trafo-and-mea-bd78e853.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-st7-mea-drawings-of-terminal-substation-with-auxiliary-trafo-and-mea-bd78e853.json"
+    },
+    {
+      "id": "abb-t1-3p-fixed-front-terminals-for-cables-ul-61f1157b",
+      "name": "T1 3p Fixed front terminals for cables UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0011142",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-3p-fixed-front-terminals-for-cables-ul-61f1157b",
+      "recordPath": "equipment/abb-t1-3p-fixed-front-terminals-for-cables-ul-61f1157b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-3p-fixed-front-terminals-for-cables-ul-61f1157b.json"
+    },
+    {
+      "id": "abb-t1-4p-fixed-front-terminals-for-cables-ul-b8e5c7e0",
+      "name": "T1 4p Fixed front terminals for cables UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0011143",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-4p-fixed-front-terminals-for-cables-ul-b8e5c7e0",
+      "recordPath": "equipment/abb-t1-4p-fixed-front-terminals-for-cables-ul-b8e5c7e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-4p-fixed-front-terminals-for-cables-ul-b8e5c7e0.json"
+    },
+    {
+      "id": "abb-t1-4p-fixed-front-terminals-with-selected-current-rc222-22137b8c",
+      "name": "T1 4p Fixed front terminals with selected current RC222",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0011117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-4p-fixed-front-terminals-with-selected-current-rc222-22137b8c",
+      "recordPath": "equipment/abb-t1-4p-fixed-front-terminals-with-selected-current-rc222-22137b8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-4p-fixed-front-terminals-with-selected-current-rc222-22137b8c.json"
+    },
+    {
+      "id": "abb-t1210-outline-drawing-1115b874",
+      "name": "T1210 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "T1210",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1210-outline-drawing-1115b874",
+      "recordPath": "equipment/abb-t1210-outline-drawing-1115b874.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1210-outline-drawing-1115b874.json"
+    },
+    {
+      "id": "abb-t1240ul-outline-drawing-b4b7312a",
+      "name": "T1240UL Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "T1240UL",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1240ul-outline-drawing-b4b7312a",
+      "recordPath": "equipment/abb-t1240ul-outline-drawing-b4b7312a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1240ul-outline-drawing-b4b7312a.json"
+    },
+    {
+      "id": "abb-t3210-outline-drawing-e61bc520",
+      "name": "T3210 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "T3210",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3210-outline-drawing-e61bc520",
+      "recordPath": "equipment/abb-t3210-outline-drawing-e61bc520.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3210-outline-drawing-e61bc520.json"
+    },
+    {
+      "id": "abb-t3610-outline-drawing-7606823b",
+      "name": "T3610 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "T3610",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3610-outline-drawing-7606823b",
+      "recordPath": "equipment/abb-t3610-outline-drawing-7606823b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3610-outline-drawing-7606823b.json"
+    },
+    {
+      "id": "abb-t4-3p-fixed-version-front-spread-terminals-e26c1612",
+      "name": "T4 3p fixed version front spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3p-fixed-version-front-spread-terminals-e26c1612",
+      "recordPath": "equipment/abb-t4-3p-fixed-version-front-spread-terminals-e26c1612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3p-fixed-version-front-spread-terminals-e26c1612.json"
+    },
+    {
+      "id": "abb-t4-3p-fixed-version-front-terminals-f736ef89",
+      "name": "T4 3p fixed version front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3p-fixed-version-front-terminals-f736ef89",
+      "recordPath": "equipment/abb-t4-3p-fixed-version-front-terminals-f736ef89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3p-fixed-version-front-terminals-f736ef89.json"
+    },
+    {
+      "id": "abb-t4-3p-plug-in-version-front-terminals-16c0149b",
+      "name": "T4 3p plug-in version front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0120",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3p-plug-in-version-front-terminals-16c0149b",
+      "recordPath": "equipment/abb-t4-3p-plug-in-version-front-terminals-16c0149b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3p-plug-in-version-front-terminals-16c0149b.json"
+    },
+    {
+      "id": "abb-t4-3p-withdrawable-version-front-spread-terminals-d22b0df7",
+      "name": "T4 3p withdrawable version front spread terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0148",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3p-withdrawable-version-front-spread-terminals-d22b0df7",
+      "recordPath": "equipment/abb-t4-3p-withdrawable-version-front-spread-terminals-d22b0df7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3p-withdrawable-version-front-spread-terminals-d22b0df7.json"
+    },
+    {
+      "id": "abb-t4-3p-withdrawable-version-front-terminals-e77c5c4b",
+      "name": "T4 3p withdrawable version front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0140",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3p-withdrawable-version-front-terminals-e77c5c4b",
+      "recordPath": "equipment/abb-t4-3p-withdrawable-version-front-terminals-e77c5c4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3p-withdrawable-version-front-terminals-e77c5c4b.json"
+    },
+    {
+      "id": "abb-t4-4p-fixed-version-rear-terminals-residual-current-release-90d3dbf8",
+      "name": "T4 4p fixed version rear terminals residual current release",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-4p-fixed-version-rear-terminals-residual-current-release-90d3dbf8",
+      "recordPath": "equipment/abb-t4-4p-fixed-version-rear-terminals-residual-current-release-90d3dbf8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-4p-fixed-version-rear-terminals-residual-current-release-90d3dbf8.json"
+    },
+    {
+      "id": "abb-t4-4p-withdrawable-version-terminals-for-copper-or-copper-aluminum-cables-e2ac074a",
+      "name": "T4 4p withdrawable version terminals for copper or copper-aluminum cables",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0143",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-4p-withdrawable-version-terminals-for-copper-or-copper-aluminum-cables-e2ac074a",
+      "recordPath": "equipment/abb-t4-4p-withdrawable-version-terminals-for-copper-or-copper-aluminum-cables-e2ac074a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-4p-withdrawable-version-terminals-for-copper-or-copper-aluminum-cables-e2ac074a.json"
+    },
+    {
+      "id": "abb-t4-iii-plug-in-configuration-rear-horizontal-terminals-174c6f5d",
+      "name": "T4 III plug-in configuration rear horizontal terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0126",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-iii-plug-in-configuration-rear-horizontal-terminals-174c6f5d",
+      "recordPath": "equipment/abb-t4-iii-plug-in-configuration-rear-horizontal-terminals-174c6f5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-iii-plug-in-configuration-rear-horizontal-terminals-174c6f5d.json"
+    },
+    {
+      "id": "abb-t4-iii-plug-in-configuration-rear-vertical-terminals-bfcd3579",
+      "name": "T4 III plug-in configuration rear vertical terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0124",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-iii-plug-in-configuration-rear-vertical-terminals-bfcd3579",
+      "recordPath": "equipment/abb-t4-iii-plug-in-configuration-rear-vertical-terminals-bfcd3579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-iii-plug-in-configuration-rear-vertical-terminals-bfcd3579.json"
+    },
+    {
+      "id": "abb-t4-iii-withdrawable-configuration-rear-vertical-terminals-a0d4a4a7",
+      "name": "T4 III withdrawable configuration rear vertical terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0144",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-iii-withdrawable-configuration-rear-vertical-terminals-a0d4a4a7",
+      "recordPath": "equipment/abb-t4-iii-withdrawable-configuration-rear-vertical-terminals-a0d4a4a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-iii-withdrawable-configuration-rear-vertical-terminals-a0d4a4a7.json"
+    }
+  ]
+}

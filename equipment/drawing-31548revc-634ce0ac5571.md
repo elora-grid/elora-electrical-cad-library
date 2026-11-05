@@ -33,7 +33,7 @@ Use the actual 31548revC.dwg member and the BPG8-F160 identification in its titl
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+A maintenance or panel-layout task can compare the box, lid, side and section views with the selected installation.
 
 Use the actual 31548revC.dwg member and the BPG8-F160 identification in its title information. Keep the drawing’s historical labels separate from current certification or ordering confirmation. The manufacturer must confirm the required configured enclosure and any accessories.
 

@@ -33,7 +33,7 @@ Use BX-04AD-2B.dwg for the identified module. The voltage-input function disting
 
 An analogue circuit processes a continuously changing electrical signal. Its particular function may select, hold, compare or convert that signal.
 
-Inside a microgrid monitoring device, a sample-and-hold circuit can hold one sensor reading steady while it is converted into a digital value.
+A process panel can bring a compatible voltage-output instrument to this module while using its physical drawing to coordinate the panel space and terminal access.
 
 Use BX-04AD-2B.dwg for the identified module. The voltage-input function distinguishes it from the BX-04AD-1 current-input module and the BX-04AD-3 universal-input module. Check the matching terminal block, wiring and supported signal configuration separately.
 

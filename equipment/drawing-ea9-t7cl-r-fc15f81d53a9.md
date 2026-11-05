@@ -32,7 +32,7 @@ The verified native member is Operator Interface/Cmore/EA9-T7CL-R.dwg. Its ident
 
 An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
 
-In a switchroom, the screen can show which feeders are running and identify the equipment associated with an alarm.
+For operator-panel installation coordination, place the EA9-T7CL-R outline alongside the actual enclosure and adjacent hardware. Check the panel opening and rear housing together; keep connectors, retaining hardware and the service route accessible. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Operator Interface/Cmore/EA9-T7CL-R.dwg. Its identity was checked against the acquired manufacturer archive. Check the panel opening and rear housing together; keep connectors, retaining hardware and the service route accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

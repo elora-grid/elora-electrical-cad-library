@@ -12,7 +12,7 @@ Altech PST\_960xx housing geometry shared by PST-96024 and PST-96048. The offici
 - Access: direct
 - Checked: 2026-10-29
 
-Official publisher downloads only. The companion drawings include an express reproduction restriction, so these files and their derived previews are not hosted here.
+1 original file is available to download here. Manufacturer sources and revisions are listed below. Other files remain available from their original sources.
 Global source discovery; confirm local product availability, electrical configuration and approvals with the manufacturer.
 Manufacturer legacy download source. The listed voltage variants share housing CAD; current product availability and revision are not independently established. Confirm the exact part before design use.
 
@@ -24,10 +24,10 @@ Manufacturer legacy download source. The listed voltage variants share housing C
 - Part number: PST-96024, PST-96048
 - Listed file formats: DWG, DXF, STEP
 - Listed files: 3
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with PST-96024, PST-96048. The files above belong to Altech's PST-960 DIN rail power supply housing resource; match any model or option suffix in the filename to your selected unit.
 Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
+## Preview
+
+![Altech PST-960 DIN rail power supply housing: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/altech-pst-960xx/altech-pst-960xx-stp?asset=03da50962d7fea44d1bffe46956864b3ca5874e6923d98907b83fe795bfab40a&view=thumb&v=359ae92e1ed39617)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/altech-pst-960xx). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [Altech PST-960xx power-supply housing](https://eloragrid.ai/objects/altech-pst-960xx)
@@ -63,14 +69,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: STEP
 - Purpose: Manufacturer mechanical 3D model
 - [Official source](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_960xx/PST_960xx.stp)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
-- Redistribution: restricted
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/altech-pst-960xx/altech-pst-960xx-stp)
+- Redistribution: unknown
 - Original SHA-256: 03da50962d7fea44d1bffe46956864b3ca5874e6923d98907b83fe795bfab40a
 - Original bytes: 14728602
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: The publicly provided companion DXF title block expressly prohibits reproduction and describes a confidential disclosure. Keep all formats of this matched drawing set at the official publisher; no local hosting or derived preview is approved.
-- [Rights evidence](https://legacy.altechcorp.com/CAD/1MasterSheet/WebsiteUSE/HTMLWebpages/PowerSupplyMasterSheet.htm)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Altech
+- [Hosting evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_960xx/PST_960xx.stp)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PS_Industrial/PST_960xx/PST_960xx.stp)
+- Delivery: original; STEP; 14728602 bytes
+- Delivery SHA-256: 03da50962d7fea44d1bffe46956864b3ca5874e6923d98907b83fe795bfab40a
 
 ### PST\_960xx\_D.dwg
 

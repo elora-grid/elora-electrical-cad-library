@@ -32,7 +32,7 @@ The verified native member is PLC Families/CLICK/C0-10ARE-D.dwg. Its identity wa
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For example, in a pump station where one controller coordinates the selected I/O, use the C0-10ARE-D reference to coordinate programming and communications plugs, I/O assembly and service removal. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/CLICK/C0-10ARE-D.dwg. Its identity was checked against the acquired manufacturer archive. Plan the controller and expansion devices together, with separate space for terminal wiring and programming access. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

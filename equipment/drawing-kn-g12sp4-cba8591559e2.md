@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/Konnect-It/KN-G12SP4.DWG
 
 A protective-earth or protective-bonding connection joins exposed metalwork to the designed protective system so faults can be managed by the installation's protection arrangement.
 
-In a substation, a cabinet's exposed metalwork can be bonded into the earthing system according to the installation design.
+For example, in a cabinet bonding row beside the field cable entries, use the KN-G12SP4 reference to coordinate earth conductor approach, mounting interface and identification. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Other PLC Products/Konnect-It/KN-G12SP4.DWG, a 143,217-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

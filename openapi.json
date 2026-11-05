@@ -63,6 +63,21 @@
             }
           },
           {
+            "name": "application",
+            "in": "query",
+            "description": "Project application, including substations and switchyards.",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "switchgear",
+                "switchrooms",
+                "substations",
+                "switchyards",
+                "microgrids"
+              ]
+            }
+          },
+          {
             "name": "category",
             "in": "query",
             "schema": {
@@ -78,6 +93,7 @@
                 "power-supplies",
                 "thermal",
                 "power-quality",
+                "motors",
                 "transformers",
                 "generation",
                 "generator-auxiliaries",
@@ -127,6 +143,7 @@
                 "fantech",
                 "fronius",
                 "fuji-electric",
+                "ge-vernova",
                 "genelite",
                 "generac",
                 "greenheck",
@@ -134,12 +151,14 @@
                 "hammond-manufacturing",
                 "hammond-power-solutions",
                 "hensel",
+                "hitachi-energy",
                 "honeywell-notifier",
                 "hubbell",
                 "innio",
                 "ipd",
                 "ingeteam",
                 "invertek-drives",
+                "lapp-insulators",
                 "lovato-electric",
                 "legrand",
                 "legrand-australia",
@@ -156,6 +175,7 @@
                 "obo-bettermann",
                 "opw",
                 "openenergymonitor",
+                "ppc-insulators",
                 "puls",
                 "panduit",
                 "pepperl-fuchs",
@@ -190,6 +210,7 @@
                 "tesla",
                 "tramont",
                 "vega",
+                "victor-insulators",
                 "victron-energy",
                 "wago",
                 "weidmuller",
@@ -249,6 +270,7 @@
                 "Revit BIM",
                 "SAT",
                 "SCH",
+                "SLDPRT",
                 "STEP",
                 "STL",
                 "STP",
@@ -311,6 +333,7 @@
           {
             "name": "all",
             "in": "query",
+            "description": "Without filters, redirects to the complete static catalogue. Filtered responses remain subject to a 4 MB limit; use pagination for larger result sets.",
             "schema": {
               "type": "string",
               "enum": [
@@ -378,8 +401,11 @@
               }
             }
           },
+          "307": {
+            "description": "Complete unfiltered catalogue served as a static JSON asset"
+          },
           "400": {
-            "description": "Invalid filter or pagination value"
+            "description": "Invalid filter, pagination or oversized filtered response"
           }
         }
       }

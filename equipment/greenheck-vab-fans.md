@@ -24,7 +24,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Part number: VAB
 - Listed file formats: DWG, RFA, ZIP
 - Listed files: 3
-- Available previews: 3 drawing previews
+- Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
@@ -49,7 +49,7 @@ Available here: ZIP, DWG. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![Greenheck VAB fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-vab-fans/greenheck-vab-lod200-allsizes-zip?asset=9636142d46489cfda822cf336755cbf257cd56561185a6fd963f8eb52cef958d)
+![Greenheck VAB fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-vab-fans/greenheck-vab-3d-dwg?asset=c51ded55edc00eb48e24eebb0e91ab51cdb0d6d8a81eac47ff4448eb02276b89)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-vab-fans). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

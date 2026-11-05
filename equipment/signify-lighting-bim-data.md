@@ -32,7 +32,7 @@ Choose the exact luminaire code, optic and mounting arrangement on the official 
 
 This manufacturer resource helps you find drawings or select versions of lighting, luminaires, projectors. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected lighting drawing before reserving its space, mounting points and cable routes in the layout.
+A designer can place a fitting in a ceiling model and use a separate matching photometric file for a lighting calculation.
 
 Choose the exact luminaire code, optic and mounting arrangement on the official product route. Obtain the available BIM model, dimensional document and photometric file for that selection. Keep these deliverables distinct: a 3D fitting model does not establish the room’s calculated lighting performance.
 

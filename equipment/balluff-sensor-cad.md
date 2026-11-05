@@ -32,7 +32,7 @@ Start with the exact Balluff product or order reference, then use the official C
 
 This manufacturer resource helps you find drawings or select versions of industrial sensors, position sensing, automation devices. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected industrial sensors drawing before reserving its space, mounting points and cable routes in the layout.
+A fixture designer may need the model for a particular cylindrical sensor, while the controls engineer needs its signal and connector documents.
 
 Start with the exact Balluff product or order reference, then use the official CAD/download links. Distinguish the mounting geometry from device-description files and firmware. If the portal requires interactive access, the request route can record the exact model and deliverables for the team to follow up.
 

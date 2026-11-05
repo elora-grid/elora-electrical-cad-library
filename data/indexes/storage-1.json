@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "category": "storage",
+  "page": 1,
+  "entries": [
+    {
+      "id": "victron-energy-lithium-ng-batteries",
+      "name": "Lithium NG Batteries",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lithium-ng-batteries",
+      "recordPath": "equipment/victron-energy-lithium-ng-batteries.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-lithium-ng-batteries.json"
+    },
+    {
+      "id": "victron-energy-lynx-distributor",
+      "name": "Lynx Distributor",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lynx-distributor",
+      "recordPath": "equipment/victron-energy-lynx-distributor.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-lynx-distributor.json"
+    },
+    {
+      "id": "victron-energy-lynx-smart-bms-ng",
+      "name": "Lynx Smart BMS NG",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-lynx-smart-bms-ng",
+      "recordPath": "equipment/victron-energy-lynx-smart-bms-ng.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-lynx-smart-bms-ng.json"
+    },
+    {
+      "id": "victron-energy-multiplus-ii",
+      "name": "MultiPlus-II",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii",
+      "recordPath": "equipment/victron-energy-multiplus-ii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-multiplus-ii.json"
+    },
+    {
+      "id": "victron-energy-multiplus-ii-2x-120v",
+      "name": "MultiPlus-II 2x 120V",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multiplus-ii-2x-120v",
+      "recordPath": "equipment/victron-energy-multiplus-ii-2x-120v.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-multiplus-ii-2x-120v.json"
+    },
+    {
+      "id": "victron-energy-quattro",
+      "name": "Quattro",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-quattro",
+      "recordPath": "equipment/victron-energy-quattro.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-quattro.json"
+    },
+    {
+      "id": "victron-energy-smartshunt",
+      "name": "SmartShunt",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-smartshunt",
+      "recordPath": "equipment/victron-energy-smartshunt.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-smartshunt.json"
+    },
+    {
+      "id": "audit-power-ingeteam-ingegrid-storage-utility-pcs-and-container-solution",
+      "name": "INGEGRID STORAGE utility PCS and container solution",
+      "manufacturer": "Ingeteam",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-ingeteam-ingegrid-storage-utility-pcs-and-container-solution",
+      "recordPath": "equipment/audit-power-ingeteam-ingegrid-storage-utility-pcs-and-container-solution.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-ingeteam-ingegrid-storage-utility-pcs-and-container-solution.json"
+    },
+    {
+      "id": "audit-power-sma-sunny-central-storage-up-utility-battery-inverter",
+      "name": "Sunny Central Storage UP utility battery inverter",
+      "manufacturer": "SMA",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-sma-sunny-central-storage-up-utility-battery-inverter",
+      "recordPath": "equipment/audit-power-sma-sunny-central-storage-up-utility-battery-inverter.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-sma-sunny-central-storage-up-utility-battery-inverter.json"
+    },
+    {
+      "id": "audit-power-sungrow-sc5000ud-mv-us-p3-utility-pcs-discovery",
+      "name": "SC5000UD-MV-US-P3 utility PCS discovery",
+      "manufacturer": "Sungrow",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-sungrow-sc5000ud-mv-us-p3-utility-pcs-discovery",
+      "recordPath": "equipment/audit-power-sungrow-sc5000ud-mv-us-p3-utility-pcs-discovery.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-sungrow-sc5000ud-mv-us-p3-utility-pcs-discovery.json"
+    },
+    {
+      "id": "audit-power-sungrow-st2752ux-au-utility-storage-blocks-discovery",
+      "name": "ST2752UX-AU utility storage blocks discovery",
+      "manufacturer": "Sungrow",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-sungrow-st2752ux-au-utility-storage-blocks-discovery",
+      "recordPath": "equipment/audit-power-sungrow-st2752ux-au-utility-storage-blocks-discovery.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-sungrow-st2752ux-au-utility-storage-blocks-discovery.json"
+    },
+    {
+      "id": "sungrow-sungrow-inverter-and-storage-official-documents",
+      "name": "Sungrow inverter and storage official documents",
+      "manufacturer": "Sungrow",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/sungrow-sungrow-inverter-and-storage-official-documents",
+      "recordPath": "equipment/sungrow-sungrow-inverter-and-storage-official-documents.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/sungrow-sungrow-inverter-and-storage-official-documents.json"
+    },
+    {
+      "id": "tesla-megapack-engineering-geometry-request",
+      "name": "Megapack engineering geometry request",
+      "manufacturer": "Tesla",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tesla-megapack-engineering-geometry-request",
+      "recordPath": "equipment/tesla-megapack-engineering-geometry-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tesla-megapack-engineering-geometry-request.json"
+    },
+    {
+      "id": "open-hardware-bms-c1",
+      "name": "BMS C1 hardware and enclosure",
+      "manufacturer": "Libre Solar",
+      "formats": [
+        "FCSTD",
+        "KICAD_PCB",
+        "KICAD_SCH"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-c1",
+      "recordPath": "equipment/open-hardware-bms-c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-bms-c1.json"
+    },
+    {
+      "id": "open-hardware-bms-8s50-ic",
+      "name": "BMS 8S50 IC hardware and enclosure",
+      "manufacturer": "Libre Solar",
+      "formats": [
+        "FCSTD",
+        "KICAD_PCB",
+        "SCH"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-bms-8s50-ic",
+      "recordPath": "equipment/open-hardware-bms-8s50-ic.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-bms-8s50-ic.json"
+    },
+    {
+      "id": "europe-socomec-sunsys-iec",
+      "name": "SUNSYS HES L IEC BESS drawing resources",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-socomec-sunsys-iec",
+      "recordPath": "equipment/europe-socomec-sunsys-iec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-socomec-sunsys-iec.json"
+    },
+    {
+      "id": "abb-lithium-136s-battery-1000a-dc-junction-ul-mechanical-installation-drawing-f994509a",
+      "name": "Lithium 136S Battery 1000A DC Junction UL Mechanical Installation Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "79-5000-00000042-LC-F18C8726DC",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-lithium-136s-battery-1000a-dc-junction-ul-mechanical-installation-drawing-f994509a",
+      "recordPath": "equipment/abb-lithium-136s-battery-1000a-dc-junction-ul-mechanical-installation-drawing-f994509a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-lithium-136s-battery-1000a-dc-junction-ul-mechanical-installation-drawing-f994509a.json"
+    },
+    {
+      "id": "abb-lithium-136s-battery-2000a-dc-junction-ul-mechanical-installation-drawing-4e93f5b0",
+      "name": "Lithium 136S Battery 2000A DC Junction UL Mechanical Installation Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "79-5000-00000043-LC-F18C8726DC",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-lithium-136s-battery-2000a-dc-junction-ul-mechanical-installation-drawing-4e93f5b0",
+      "recordPath": "equipment/abb-lithium-136s-battery-2000a-dc-junction-ul-mechanical-installation-drawing-4e93f5b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-lithium-136s-battery-2000a-dc-junction-ul-mechanical-installation-drawing-4e93f5b0.json"
+    },
+    {
+      "id": "abb-lithium-136s-battery-3000a-dc-junction-ul-mechanical-installation-drawing-dcf3880b",
+      "name": "Lithium 136S Battery 3000A DC Junction UL Mechanical Installation Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "79-5000-00000045-LC-F24C8726DC",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-lithium-136s-battery-3000a-dc-junction-ul-mechanical-installation-drawing-dcf3880b",
+      "recordPath": "equipment/abb-lithium-136s-battery-3000a-dc-junction-ul-mechanical-installation-drawing-dcf3880b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-lithium-136s-battery-3000a-dc-junction-ul-mechanical-installation-drawing-dcf3880b.json"
+    },
+    {
+      "id": "abb-lithium-136s-battery-4000a-dc-junction-ul-mechanical-installation-drawing-ffa59c05",
+      "name": "Lithium 136S Battery 4000A DC Junction UL Mechanical Installation Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "79-5000-00000047-LC-F30C8726DC",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-lithium-136s-battery-4000a-dc-junction-ul-mechanical-installation-drawing-ffa59c05",
+      "recordPath": "equipment/abb-lithium-136s-battery-4000a-dc-junction-ul-mechanical-installation-drawing-ffa59c05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-lithium-136s-battery-4000a-dc-junction-ul-mechanical-installation-drawing-ffa59c05.json"
+    },
+    {
+      "id": "abb-lithium-136s-battery-cabinet-ul-mechanical-installation-drawing-0a42606c",
+      "name": "Lithium 136S Battery Cabinet UL Mechanical Installation Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001375362",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-lithium-136s-battery-cabinet-ul-mechanical-installation-drawing-0a42606c",
+      "recordPath": "equipment/abb-lithium-136s-battery-cabinet-ul-mechanical-installation-drawing-0a42606c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-lithium-136s-battery-cabinet-ul-mechanical-installation-drawing-0a42606c.json"
+    },
+    {
+      "id": "comap-intelineo-530-bess-e455e5d419",
+      "name": "InteliNeo 530 BESS",
+      "manufacturer": "ComAp",
+      "drawingNumber": "gtc 1.0.2 en.pdf",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/comap-intelineo-530-bess-e455e5d419",
+      "recordPath": "equipment/comap-intelineo-530-bess-e455e5d419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/comap-intelineo-530-bess-e455e5d419.json"
+    },
+    {
+      "id": "abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0",
+      "name": "ABB ASKI load management for battery storage, PV and EV-Charging Drawing 6",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3443",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0",
+      "recordPath": "equipment/abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0.json"
+    }
+  ]
+}

@@ -32,7 +32,7 @@ The verified native member is Power Products/Non-fused Disconnects/SD1-040-RR.DW
 
 A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
 
-In a switchyard, a disconnector provides an isolation point for a circuit section within the site's operating procedure.
+For example, in a machine control panel with a door-operated main switch, use the SD1-040-RR reference to coordinate power-terminal approach, operating shaft and door handle. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Power Products/Non-fused Disconnects/SD1-040-RR.DWG. Its identity was checked against the acquired manufacturer archive. Place the disconnect and its operating hardware together so door alignment, travel and terminal access can be reviewed. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

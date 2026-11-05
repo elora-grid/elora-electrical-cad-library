@@ -32,7 +32,7 @@ The verified native member is PLC Families/P2000/P2-04PWM.DWG. Its identity was 
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For example, in a machine controller using a documented pulse or pulse-width command, use the P2-04PWM reference to coordinate pulse-signal connectors, compatible receiving equipment and module removal. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P2000/P2-04PWM.DWG. Its identity was checked against the acquired manufacturer archive. Coordinate the station hardware with its terminal approach and document the position of each module in the panel schedule. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

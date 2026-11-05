@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories
 
 Conductors carry electrical power or signals between equipment. The drawing marks show which paths connect and which simply pass one another.
 
-In a substation control panel, the wiring diagram lets a technician trace a trip signal from a relay through terminals to the breaker circuit.
+For example, in a control-panel duct route that needs conductors retained during servicing, use the CL-1522 reference to coordinate duct interface, conductor space and cover access. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories/CL-1522.DWG, a 5,470,845-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A routing outline does not determine conductor fill, segregation or operating temperature. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

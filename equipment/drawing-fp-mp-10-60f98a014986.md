@@ -32,7 +32,7 @@ The acquired source archive contains ENYSTAR\_Montageplatten/FP\_MP\_10.stp, a 2
 
 Mounting hardware holds equipment in its intended position. Rails, plates, adapters and supports each provide a particular attachment or support arrangement.
 
-In a switchroom control cabinet, a mounting plate and DIN rail can support terminals, relays and power supplies in an organised layout.
+For example, in a control cabinet with a removable equipment mounting plate, use the FP\_MP\_10 reference to coordinate enclosure mounting points, equipment fixing and plate removal. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains ENYSTAR\_Montageplatten/FP\_MP\_10.stp, a 23,189-byte STP native file. Its file signature and SHA-256 were checked against the held original. The STEP file header was validated as an ISO 10303 exchange file. A mounting panel model does not establish the completed enclosure rating or the permitted equipment loading. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: ENYSTAR\_Montageplatten.zip!/ENYSTAR\_Montageplatten/FP\_MP\_10.stp. These paths retain their own archive and native checksums in the file evidence.
 

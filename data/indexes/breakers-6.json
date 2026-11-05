@@ -1,0 +1,3024 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 6,
+  "entries": [
+    {
+      "id": "abb-e1-3-1200a-4p-f-ul-27ee60b883",
+      "name": "E1.3 1200A 4p F UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1107",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1200a-4p-f-ul-27ee60b883",
+      "recordPath": "equipment/abb-e1-3-1200a-4p-f-ul-27ee60b883.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1200a-4p-f-ul-27ee60b883.json"
+    },
+    {
+      "id": "abb-e1-3-1200a-4p-w-ul-65a0022047",
+      "name": "E1.3 1200A 4p W UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1106",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1200a-4p-w-ul-65a0022047",
+      "recordPath": "equipment/abb-e1-3-1200a-4p-w-ul-65a0022047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1200a-4p-w-ul-65a0022047.json"
+    },
+    {
+      "id": "abb-e1-3-1600a-3p-f-iec-aba82dea29",
+      "name": "E1.3 1600A 3p F IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1002",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1600a-3p-f-iec-aba82dea29",
+      "recordPath": "equipment/abb-e1-3-1600a-3p-f-iec-aba82dea29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1600a-3p-f-iec-aba82dea29.json"
+    },
+    {
+      "id": "abb-e1-3-1600a-3p-w-iec-6b55f33f55",
+      "name": "E1.3 1600A 3p W IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1003",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1600a-3p-w-iec-6b55f33f55",
+      "recordPath": "equipment/abb-e1-3-1600a-3p-w-iec-6b55f33f55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1600a-3p-w-iec-6b55f33f55.json"
+    },
+    {
+      "id": "abb-e1-3-1600a-4p-f-iec-8f1cce1bac",
+      "name": "E1.3 1600A 4p F IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1007",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1600a-4p-f-iec-8f1cce1bac",
+      "recordPath": "equipment/abb-e1-3-1600a-4p-f-iec-8f1cce1bac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1600a-4p-f-iec-8f1cce1bac.json"
+    },
+    {
+      "id": "abb-e1-3-1600a-4p-w-iec-c2aad53cf6",
+      "name": "E1.3 1600A 4p W IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1006",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-1600a-4p-w-iec-c2aad53cf6",
+      "recordPath": "equipment/abb-e1-3-1600a-4p-w-iec-c2aad53cf6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-1600a-4p-w-iec-c2aad53cf6.json"
+    },
+    {
+      "id": "abb-e1-3-f-w-flange-ef9899f7e2",
+      "name": "E1.3 F-W FLANGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002309A1120",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-f-w-flange-ef9899f7e2",
+      "recordPath": "equipment/abb-e1-3-f-w-flange-ef9899f7e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-f-w-flange-ef9899f7e2.json"
+    },
+    {
+      "id": "abb-e1-3-iii-iv-fixed-f-ef-5d4b83beb0",
+      "name": "E1.3 III-IV Fixed F EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002309A1101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-iii-iv-fixed-f-ef-5d4b83beb0",
+      "recordPath": "equipment/abb-e1-3-iii-iv-fixed-f-ef-5d4b83beb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-iii-iv-fixed-f-ef-5d4b83beb0.json"
+    },
+    {
+      "id": "abb-e1-3-iii-iv-withdrawable-ef-96f4c6fbec",
+      "name": "E1.3 III-IV Withdrawable EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002309A1103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-iii-iv-withdrawable-ef-96f4c6fbec",
+      "recordPath": "equipment/abb-e1-3-iii-iv-withdrawable-ef-96f4c6fbec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-iii-iv-withdrawable-ef-96f4c6fbec.json"
+    },
+    {
+      "id": "abb-e1-3-iii-iv-withdrawable-es-975da8a2eb",
+      "name": "E1.3 III-IV Withdrawable ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002309A1104",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-iii-iv-withdrawable-es-975da8a2eb",
+      "recordPath": "equipment/abb-e1-3-iii-iv-withdrawable-es-975da8a2eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-iii-iv-withdrawable-es-975da8a2eb.json"
+    },
+    {
+      "id": "abb-e1-3-w-backflange-c6edc6cadf",
+      "name": "E1.3 W BACKFLANGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1235",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e1-3-w-backflange-c6edc6cadf",
+      "recordPath": "equipment/abb-e1-3-w-backflange-c6edc6cadf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e1-3-w-backflange-c6edc6cadf.json"
+    },
+    {
+      "id": "abb-e2-four-poles-fixed-iec-ul-horiz-terminals-5b830efc54",
+      "name": "E2 four poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0075",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-four-poles-fixed-iec-ul-horiz-terminals-5b830efc54",
+      "recordPath": "equipment/abb-e2-four-poles-fixed-iec-ul-horiz-terminals-5b830efc54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-four-poles-fixed-iec-ul-horiz-terminals-5b830efc54.json"
+    },
+    {
+      "id": "abb-e2-four-poles-fixed-iec-vert-terminals-3bcc419803",
+      "name": "E2 four poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0076",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-four-poles-fixed-iec-vert-terminals-3bcc419803",
+      "recordPath": "equipment/abb-e2-four-poles-fixed-iec-vert-terminals-3bcc419803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-four-poles-fixed-iec-vert-terminals-3bcc419803.json"
+    },
+    {
+      "id": "abb-e2-four-poles-fixed-ul-vert-terminals-fec0e0e479",
+      "name": "E2 four poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0077",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-four-poles-fixed-ul-vert-terminals-fec0e0e479",
+      "recordPath": "equipment/abb-e2-four-poles-fixed-ul-vert-terminals-fec0e0e479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-four-poles-fixed-ul-vert-terminals-fec0e0e479.json"
+    },
+    {
+      "id": "abb-e2-four-poles-withdrawable-iec-horiz-terminals-764b4d8546",
+      "name": "E2 four poles withdrawable IEC horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0078",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-four-poles-withdrawable-iec-horiz-terminals-764b4d8546",
+      "recordPath": "equipment/abb-e2-four-poles-withdrawable-iec-horiz-terminals-764b4d8546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-four-poles-withdrawable-iec-horiz-terminals-764b4d8546.json"
+    },
+    {
+      "id": "abb-e2-four-poles-withdrawable-iec-vert-terminals-a19f035a88",
+      "name": "E2 four poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0079",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-four-poles-withdrawable-iec-vert-terminals-a19f035a88",
+      "recordPath": "equipment/abb-e2-four-poles-withdrawable-iec-vert-terminals-a19f035a88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-four-poles-withdrawable-iec-vert-terminals-a19f035a88.json"
+    },
+    {
+      "id": "abb-e2-four-poles-withdrawable-ul-horiz-terminals-0cbd22dca9",
+      "name": "E2 four poles withdrawable UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0080",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-four-poles-withdrawable-ul-horiz-terminals-0cbd22dca9",
+      "recordPath": "equipment/abb-e2-four-poles-withdrawable-ul-horiz-terminals-0cbd22dca9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-four-poles-withdrawable-ul-horiz-terminals-0cbd22dca9.json"
+    },
+    {
+      "id": "abb-e2-three-poles-fixed-iec-ul-horiz-terminals-964b39bbcf",
+      "name": "E2 three poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0069",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-three-poles-fixed-iec-ul-horiz-terminals-964b39bbcf",
+      "recordPath": "equipment/abb-e2-three-poles-fixed-iec-ul-horiz-terminals-964b39bbcf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-three-poles-fixed-iec-ul-horiz-terminals-964b39bbcf.json"
+    },
+    {
+      "id": "abb-e2-three-poles-fixed-iec-vert-terminals-cae3f2716e",
+      "name": "E2 three poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0070",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-three-poles-fixed-iec-vert-terminals-cae3f2716e",
+      "recordPath": "equipment/abb-e2-three-poles-fixed-iec-vert-terminals-cae3f2716e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-three-poles-fixed-iec-vert-terminals-cae3f2716e.json"
+    },
+    {
+      "id": "abb-e2-three-poles-fixed-ul-vert-terminals-296690247f",
+      "name": "E2 three poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0071",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-three-poles-fixed-ul-vert-terminals-296690247f",
+      "recordPath": "equipment/abb-e2-three-poles-fixed-ul-vert-terminals-296690247f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-three-poles-fixed-ul-vert-terminals-296690247f.json"
+    },
+    {
+      "id": "abb-e2-three-poles-withdrawable-iec-horiz-terminals-54eddc4e5c",
+      "name": "E2 three poles withdrawable IEC horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0072",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-three-poles-withdrawable-iec-horiz-terminals-54eddc4e5c",
+      "recordPath": "equipment/abb-e2-three-poles-withdrawable-iec-horiz-terminals-54eddc4e5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-three-poles-withdrawable-iec-horiz-terminals-54eddc4e5c.json"
+    },
+    {
+      "id": "abb-e2-three-poles-withdrawable-iec-vert-terminals-5d9a8e1e00",
+      "name": "E2 three poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0073",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-three-poles-withdrawable-iec-vert-terminals-5d9a8e1e00",
+      "recordPath": "equipment/abb-e2-three-poles-withdrawable-iec-vert-terminals-5d9a8e1e00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-three-poles-withdrawable-iec-vert-terminals-5d9a8e1e00.json"
+    },
+    {
+      "id": "abb-e2-three-poles-withdrawable-ul-horiz-terminals-9629d4a5b2",
+      "name": "E2 three poles withdrawable UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0074",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-three-poles-withdrawable-ul-horiz-terminals-9629d4a5b2",
+      "recordPath": "equipment/abb-e2-three-poles-withdrawable-ul-horiz-terminals-9629d4a5b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-three-poles-withdrawable-ul-horiz-terminals-9629d4a5b2.json"
+    },
+    {
+      "id": "abb-e2-2-2000a-withdrawable-flat-terminals-fl-4e5dbe18e7",
+      "name": "E2.2 2000A withdrawable flat terminals FL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-2000a-withdrawable-flat-terminals-fl-4e5dbe18e7",
+      "recordPath": "equipment/abb-e2-2-2000a-withdrawable-flat-terminals-fl-4e5dbe18e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-2000a-withdrawable-flat-terminals-fl-4e5dbe18e7.json"
+    },
+    {
+      "id": "abb-e2-2-2500a-withdrawable-flat-terminals-fl-bbd9b98185",
+      "name": "E2.2 2500A withdrawable flat terminals FL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-2500a-withdrawable-flat-terminals-fl-bbd9b98185",
+      "recordPath": "equipment/abb-e2-2-2500a-withdrawable-flat-terminals-fl-bbd9b98185.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-2500a-withdrawable-flat-terminals-fl-bbd9b98185.json"
+    },
+    {
+      "id": "abb-e2-2-4p-w-000d3f7633",
+      "name": "E2.2 4P W",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0144",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-4p-w-000d3f7633",
+      "recordPath": "equipment/abb-e2-2-4p-w-000d3f7633.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-4p-w-000d3f7633.json"
+    },
+    {
+      "id": "abb-e2-2-f-ip54-dc77ecfbd8",
+      "name": "E2.2 F IP54",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002446A1004",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-f-ip54-dc77ecfbd8",
+      "recordPath": "equipment/abb-e2-2-f-ip54-dc77ecfbd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-f-ip54-dc77ecfbd8.json"
+    },
+    {
+      "id": "abb-e2-2-iii-w-ul-bd83ab0e30",
+      "name": "E2.2 III W - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0104",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-w-ul-bd83ab0e30",
+      "recordPath": "equipment/abb-e2-2-iii-w-ul-bd83ab0e30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-w-ul-bd83ab0e30.json"
+    },
+    {
+      "id": "abb-e2-2-iii-w-2000a-bc968a8c78",
+      "name": "E2.2 III W 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0431",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-w-2000a-bc968a8c78",
+      "recordPath": "equipment/abb-e2-2-iii-w-2000a-bc968a8c78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-w-2000a-bc968a8c78.json"
+    },
+    {
+      "id": "abb-e2-2-iii-w-2500a-5e71887a0b",
+      "name": "E2.2 III W 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0104",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-w-2500a-5e71887a0b",
+      "recordPath": "equipment/abb-e2-2-iii-w-2500a-5e71887a0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-w-2500a-5e71887a0b.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-fixed-front-terminals-f-61d2bdbdbc",
+      "name": "E2.2 III-IV Fixed Front Terminals F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-fixed-front-terminals-f-61d2bdbdbc",
+      "recordPath": "equipment/abb-e2-2-iii-iv-fixed-front-terminals-f-61d2bdbdbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-fixed-front-terminals-f-61d2bdbdbc.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-fixed-hr-vr-166c07d219",
+      "name": "E2.2 III-IV Fixed HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-fixed-hr-vr-166c07d219",
+      "recordPath": "equipment/abb-e2-2-iii-iv-fixed-hr-vr-166c07d219.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-fixed-hr-vr-166c07d219.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-fixed-shr-a8547c141d",
+      "name": "E2.2 III-IV Fixed SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-fixed-shr-a8547c141d",
+      "recordPath": "equipment/abb-e2-2-iii-iv-fixed-shr-a8547c141d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-fixed-shr-a8547c141d.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-fixed-svr-d35df6f02d",
+      "name": "E2.2 III-IV Fixed SVR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-fixed-svr-d35df6f02d",
+      "recordPath": "equipment/abb-e2-2-iii-iv-fixed-svr-d35df6f02d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-fixed-svr-d35df6f02d.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-withdrawable-front-terminals-f-81f7e6a5f6",
+      "name": "E2.2 III-IV Withdrawable Front Terminals F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-withdrawable-front-terminals-f-81f7e6a5f6",
+      "recordPath": "equipment/abb-e2-2-iii-iv-withdrawable-front-terminals-f-81f7e6a5f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-withdrawable-front-terminals-f-81f7e6a5f6.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-withdrawable-hr-vr-384e4ff7aa",
+      "name": "E2.2 III-IV Withdrawable HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-withdrawable-hr-vr-384e4ff7aa",
+      "recordPath": "equipment/abb-e2-2-iii-iv-withdrawable-hr-vr-384e4ff7aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-withdrawable-hr-vr-384e4ff7aa.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-withdrawable-shr-2049129a30",
+      "name": "E2.2 III-IV Withdrawable SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-withdrawable-shr-2049129a30",
+      "recordPath": "equipment/abb-e2-2-iii-iv-withdrawable-shr-2049129a30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-withdrawable-shr-2049129a30.json"
+    },
+    {
+      "id": "abb-e2-2-iii-iv-withdrawable-svr-6fc1fe22e9",
+      "name": "E2.2 III-IV Withdrawable SVR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iii-iv-withdrawable-svr-6fc1fe22e9",
+      "recordPath": "equipment/abb-e2-2-iii-iv-withdrawable-svr-6fc1fe22e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iii-iv-withdrawable-svr-6fc1fe22e9.json"
+    },
+    {
+      "id": "abb-e2-2-iv-f-b36861f2d6",
+      "name": "E2.2 IV F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0123",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iv-f-b36861f2d6",
+      "recordPath": "equipment/abb-e2-2-iv-f-b36861f2d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iv-f-b36861f2d6.json"
+    },
+    {
+      "id": "abb-e2-2-iv-w-2000a-829fbfb238",
+      "name": "E2.2 IV W 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0432",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iv-w-2000a-829fbfb238",
+      "recordPath": "equipment/abb-e2-2-iv-w-2000a-829fbfb238.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iv-w-2000a-829fbfb238.json"
+    },
+    {
+      "id": "abb-e2-2-iv-w-2500a-47cfd088c0",
+      "name": "E2.2 IV W 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0144",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-iv-w-2500a-47cfd088c0",
+      "recordPath": "equipment/abb-e2-2-iv-w-2500a-47cfd088c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-iv-w-2500a-47cfd088c0.json"
+    },
+    {
+      "id": "abb-e2-2-w-ip54-e4d83e436b",
+      "name": "E2.2 W IP54",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002446A1003",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-w-ip54-e4d83e436b",
+      "recordPath": "equipment/abb-e2-2-w-ip54-e4d83e436b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-w-ip54-e4d83e436b.json"
+    },
+    {
+      "id": "abb-e2-2-fixed-terminals-hr-vr-ul-db29cd516a",
+      "name": "E2.2 fixed terminals HR-VR UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0300",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-fixed-terminals-hr-vr-ul-db29cd516a",
+      "recordPath": "equipment/abb-e2-2-fixed-terminals-hr-vr-ul-db29cd516a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-fixed-terminals-hr-vr-ul-db29cd516a.json"
+    },
+    {
+      "id": "abb-e2-2-withdrawable-terminals-hr-vr-ul-9ce92f96dd",
+      "name": "E2.2 withdrawable terminals HR-VR UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0302",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-withdrawable-terminals-hr-vr-ul-9ce92f96dd",
+      "recordPath": "equipment/abb-e2-2-withdrawable-terminals-hr-vr-ul-9ce92f96dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-withdrawable-terminals-hr-vr-ul-9ce92f96dd.json"
+    },
+    {
+      "id": "abb-e2-2-e-w-iii-protections-and-phase-barriers-fac9eba8ef",
+      "name": "E2.2-E W III PROTECTIONS AND PHASE BARRIERS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0402",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e-w-iii-protections-and-phase-barriers-fac9eba8ef",
+      "recordPath": "equipment/abb-e2-2-e-w-iii-protections-and-phase-barriers-fac9eba8ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e-w-iii-protections-and-phase-barriers-fac9eba8ef.json"
+    },
+    {
+      "id": "abb-e2-2-e-w-iv-protections-and-phase-barriers-ede02811f8",
+      "name": "E2.2-E W IV PROTECTIONS AND PHASE BARRIERS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0403",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e-w-iv-protections-and-phase-barriers-ede02811f8",
+      "recordPath": "equipment/abb-e2-2-e-w-iv-protections-and-phase-barriers-ede02811f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e-w-iv-protections-and-phase-barriers-ede02811f8.json"
+    },
+    {
+      "id": "abb-e2-2-e4-2-e6-2-fixed-withdrawable-flange-764d45b4da",
+      "name": "E2.2-E4.2-E6.2 Fixed Withdrawable Flange",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001000R0120",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e4-2-e6-2-fixed-withdrawable-flange-764d45b4da",
+      "recordPath": "equipment/abb-e2-2-e4-2-e6-2-fixed-withdrawable-flange-764d45b4da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e4-2-e6-2-fixed-withdrawable-flange-764d45b4da.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-f-lower-ddc0ab2086",
+      "name": "E2.2/E2.3 III F TERMINALS F LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0315",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-f-lower-ddc0ab2086",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-f-lower-ddc0ab2086.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-f-lower-ddc0ab2086.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-f-upper-6875f1a418",
+      "name": "E2.2/E2.3 III F TERMINALS F UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0316",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-f-upper-6875f1a418",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-f-upper-6875f1a418.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-f-upper-6875f1a418.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-hr-lower-2000a-ul-1e172a1375",
+      "name": "E2.2/E2.3 III F TERMINALS HR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0088",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-hr-lower-2000a-ul-1e172a1375",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-hr-lower-2000a-ul-1e172a1375.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-hr-lower-2000a-ul-1e172a1375.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-hr-lower-2500a-91144bee0a",
+      "name": "E2.2/E2.3 III F TERMINALS HR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0089",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-hr-lower-2500a-91144bee0a",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-hr-lower-2500a-91144bee0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-hr-lower-2500a-91144bee0a.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-shr-lower-2500a-7dfa4a5fde",
+      "name": "E2.2/E2.3 III F TERMINALS SHR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0093",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-shr-lower-2500a-7dfa4a5fde",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-shr-lower-2500a-7dfa4a5fde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-shr-lower-2500a-7dfa4a5fde.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-svr-lower-2000a-004d081f99",
+      "name": "E2.2/E2.3 III F TERMINALS SVR LOWER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0096",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-svr-lower-2000a-004d081f99",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-svr-lower-2000a-004d081f99.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-svr-lower-2000a-004d081f99.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-svr-lower-2500a-c181d51df3",
+      "name": "E2.2/E2.3 III F TERMINALS SVR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0097",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-svr-lower-2500a-c181d51df3",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-svr-lower-2500a-c181d51df3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-svr-lower-2500a-c181d51df3.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-svr-upper-2000a-9bd61cd94c",
+      "name": "E2.2/E2.3 III F TERMINALS SVR UPPER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0098",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-svr-upper-2000a-9bd61cd94c",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-svr-upper-2000a-9bd61cd94c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-svr-upper-2000a-9bd61cd94c.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-svr-upper-2500a-20a981a8d5",
+      "name": "E2.2/E2.3 III F TERMINALS SVR UPPER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0099",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-svr-upper-2500a-20a981a8d5",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-svr-upper-2500a-20a981a8d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-svr-upper-2500a-20a981a8d5.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-vr-lower-2000a-ul-f54b87cc9e",
+      "name": "E2.2/E2.3 III F TERMINALS VR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0100",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2000a-ul-f54b87cc9e",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2000a-ul-f54b87cc9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2000a-ul-f54b87cc9e.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-vr-lower-2500a-d40c6c685b",
+      "name": "E2.2/E2.3 III F TERMINALS VR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0101",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2500a-d40c6c685b",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2500a-d40c6c685b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2500a-d40c6c685b.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-f-terminals-vr-upper-2000a-ul-c87032e27e",
+      "name": "E2.2/E2.3 III F TERMINALS VR UPPER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0102",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-f-terminals-vr-upper-2000a-ul-c87032e27e",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-f-terminals-vr-upper-2000a-ul-c87032e27e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-f-terminals-vr-upper-2000a-ul-c87032e27e.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-flat-term-2000a-lower-cb75d16e05",
+      "name": "E2.2/E2.3 III W FLAT TERM 2000A LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0436",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-flat-term-2000a-lower-cb75d16e05",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-flat-term-2000a-lower-cb75d16e05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-flat-term-2000a-lower-cb75d16e05.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-flat-term-2500a-lower-c1bcba4a8a",
+      "name": "E2.2/E2.3 III W FLAT TERM 2500A LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0438",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-flat-term-2500a-lower-c1bcba4a8a",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-flat-term-2500a-lower-c1bcba4a8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-flat-term-2500a-lower-c1bcba4a8a.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-f-lower-76ecf156b7",
+      "name": "E2.2/E2.3 III W TERMINALS F LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0323",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-f-lower-76ecf156b7",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-f-lower-76ecf156b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-f-lower-76ecf156b7.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-f-upper-29bc5b54ff",
+      "name": "E2.2/E2.3 III W TERMINALS F UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0324",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-f-upper-29bc5b54ff",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-f-upper-29bc5b54ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-f-upper-29bc5b54ff.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-hr-lower-2000a-ul-6cc38642af",
+      "name": "E2.2/E2.3 III W TERMINALS HR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0107",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2000a-ul-6cc38642af",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2000a-ul-6cc38642af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2000a-ul-6cc38642af.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c",
+      "name": "E2.2/E2.3 III W TERMINALS HR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0108",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-shr-lower-2500a-f46288822e",
+      "name": "E2.2/E2.3 III W TERMINALS SHR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0112",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-shr-lower-2500a-f46288822e",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-shr-lower-2500a-f46288822e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-shr-lower-2500a-f46288822e.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-svr-lower-2500a-b654e6c996",
+      "name": "E2.2/E2.3 III W TERMINALS SVR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0116",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-svr-lower-2500a-b654e6c996",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-svr-lower-2500a-b654e6c996.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-svr-lower-2500a-b654e6c996.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-svr-upper-2500a-de39936198",
+      "name": "E2.2/E2.3 III W TERMINALS SVR UPPER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0118",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-svr-upper-2500a-de39936198",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-svr-upper-2500a-de39936198.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-svr-upper-2500a-de39936198.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2",
+      "name": "E2.2/E2.3 III W TERMINALS VR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0119",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iii-w-terminals-vr-lower-2500a-845b31c63e",
+      "name": "E2.2/E2.3 III W TERMINALS VR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0120",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2500a-845b31c63e",
+      "recordPath": "equipment/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2500a-845b31c63e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2500a-845b31c63e.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-f-lower-f3577029e1",
+      "name": "E2.2/E2.3 IV F TERMINALS F LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0317",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-f-lower-f3577029e1",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-f-lower-f3577029e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-f-lower-f3577029e1.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-f-upper-4788126ced",
+      "name": "E2.2/E2.3 IV F TERMINALS F UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0318",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-f-upper-4788126ced",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-f-upper-4788126ced.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-f-upper-4788126ced.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-87a49d35de",
+      "name": "E2.2/E2.3 IV F TERMINALS HR LOWER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0128",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-87a49d35de",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-87a49d35de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-87a49d35de.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-ul-07be245a51",
+      "name": "E2.2/E2.3 IV F TERMINALS HR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0128",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-ul-07be245a51",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-ul-07be245a51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2000a-ul-07be245a51.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-hr-lower-2500a-589a5bf488",
+      "name": "E2.2/E2.3 IV F TERMINALS HR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0129",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2500a-589a5bf488",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2500a-589a5bf488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-hr-lower-2500a-589a5bf488.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-hr-upper-2000a-e08dd62a72",
+      "name": "E2.2/E2.3 IV F TERMINALS HR UPPER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0130",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-hr-upper-2000a-e08dd62a72",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-hr-upper-2000a-e08dd62a72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-hr-upper-2000a-e08dd62a72.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-shr-lower-2000a-dc5e427c1c",
+      "name": "E2.2/E2.3 IV F TERMINALS SHR LOWER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0132",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-shr-lower-2000a-dc5e427c1c",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-shr-lower-2000a-dc5e427c1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-shr-lower-2000a-dc5e427c1c.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-shr-lower-2500a-bca1f889a7",
+      "name": "E2.2/E2.3 IV F TERMINALS SHR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0133",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-shr-lower-2500a-bca1f889a7",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-shr-lower-2500a-bca1f889a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-shr-lower-2500a-bca1f889a7.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-svr-lower-2000a-9fd56251b4",
+      "name": "E2.2/E2.3 IV F TERMINALS SVR LOWER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0136",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-svr-lower-2000a-9fd56251b4",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-svr-lower-2000a-9fd56251b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-svr-lower-2000a-9fd56251b4.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-svr-lower-2500a-69161bf03f",
+      "name": "E2.2/E2.3 IV F TERMINALS SVR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0137",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-svr-lower-2500a-69161bf03f",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-svr-lower-2500a-69161bf03f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-svr-lower-2500a-69161bf03f.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e",
+      "name": "E2.2/E2.3 IV F TERMINALS SVR UPPER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0138",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-svr-upper-2500a-9cd14d3434",
+      "name": "E2.2/E2.3 IV F TERMINALS SVR UPPER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0139",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2500a-9cd14d3434",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2500a-9cd14d3434.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2500a-9cd14d3434.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-bda35bc633",
+      "name": "E2.2/E2.3 IV F TERMINALS VR LOWER 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0140",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-bda35bc633",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-bda35bc633.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-bda35bc633.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-ul-a9b6ae81d0",
+      "name": "E2.2/E2.3 IV F TERMINALS VR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0140",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-ul-a9b6ae81d0",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-ul-a9b6ae81d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2000a-ul-a9b6ae81d0.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-vr-lower-2500a-fd8c6b2b34",
+      "name": "E2.2/E2.3 IV F TERMINALS VR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0141",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2500a-fd8c6b2b34",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2500a-fd8c6b2b34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-vr-lower-2500a-fd8c6b2b34.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-f-terminals-vr-upper-2000a-ul-4d45b03ea1",
+      "name": "E2.2/E2.3 IV F TERMINALS VR UPPER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0142",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-f-terminals-vr-upper-2000a-ul-4d45b03ea1",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-f-terminals-vr-upper-2000a-ul-4d45b03ea1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-f-terminals-vr-upper-2000a-ul-4d45b03ea1.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9",
+      "name": "E2.2/E2.3 IV W FLAT TERM 2000A LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0440",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-flat-term-2500a-lower-2fbfe98f13",
+      "name": "E2.2/E2.3 IV W FLAT TERM 2500A LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0442",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-flat-term-2500a-lower-2fbfe98f13",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-flat-term-2500a-lower-2fbfe98f13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-flat-term-2500a-lower-2fbfe98f13.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-f-lower-f33e8d4029",
+      "name": "E2.2/E2.3 IV W TERMINALS F LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0325",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-f-lower-f33e8d4029",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-f-lower-f33e8d4029.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-f-lower-f33e8d4029.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-f-upper-10e472c2aa",
+      "name": "E2.2/E2.3 IV W TERMINALS F UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0326",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-f-upper-10e472c2aa",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-f-upper-10e472c2aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-f-upper-10e472c2aa.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-hr-lower-2000a-ul-15ebd521b9",
+      "name": "E2.2/E2.3 IV W TERMINALS HR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0147",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2000a-ul-15ebd521b9",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2000a-ul-15ebd521b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2000a-ul-15ebd521b9.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-hr-lower-2500a-64a6ecc9b9",
+      "name": "E2.2/E2.3 IV W TERMINALS HR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0148",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2500a-64a6ecc9b9",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2500a-64a6ecc9b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2500a-64a6ecc9b9.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-shr-lower-2500a-bef2edb822",
+      "name": "E2.2/E2.3 IV W TERMINALS SHR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0152",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-shr-lower-2500a-bef2edb822",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-shr-lower-2500a-bef2edb822.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-shr-lower-2500a-bef2edb822.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-svr-lower-2500a-94ec750d05",
+      "name": "E2.2/E2.3 IV W TERMINALS SVR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0156",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-svr-lower-2500a-94ec750d05",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-svr-lower-2500a-94ec750d05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-svr-lower-2500a-94ec750d05.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-svr-upper-2500a-88170781a5",
+      "name": "E2.2/E2.3 IV W TERMINALS SVR UPPER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0158",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-svr-upper-2500a-88170781a5",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-svr-upper-2500a-88170781a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-svr-upper-2500a-88170781a5.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-vr-lower-2000a-ul-0bede260b3",
+      "name": "E2.2/E2.3 IV W TERMINALS VR LOWER 2000A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0159",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-vr-lower-2000a-ul-0bede260b3",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-vr-lower-2000a-ul-0bede260b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-vr-lower-2000a-ul-0bede260b3.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-vr-lower-2500a-8eccdc1f43",
+      "name": "E2.2/E2.3 IV W TERMINALS VR LOWER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0160",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-vr-lower-2500a-8eccdc1f43",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-vr-lower-2500a-8eccdc1f43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-vr-lower-2500a-8eccdc1f43.json"
+    },
+    {
+      "id": "abb-e2-2-e2-3-iv-w-terminals-vr-upper-2500a-0a8548499c",
+      "name": "E2.2/E2.3 IV W TERMINALS VR UPPER 2500A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0162",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e2-3-iv-w-terminals-vr-upper-2500a-0a8548499c",
+      "recordPath": "equipment/abb-e2-2-e2-3-iv-w-terminals-vr-upper-2500a-0a8548499c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e2-3-iv-w-terminals-vr-upper-2500a-0a8548499c.json"
+    },
+    {
+      "id": "abb-e2-2-e9-iii-f-6f255e77b5",
+      "name": "E2.2/E9 III F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0301",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e9-iii-f-6f255e77b5",
+      "recordPath": "equipment/abb-e2-2-e9-iii-f-6f255e77b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e9-iii-f-6f255e77b5.json"
+    },
+    {
+      "id": "abb-e2-2-e9-iv-f-50cf8afb45",
+      "name": "E2.2/E9 IV F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0302",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-2-e9-iv-f-50cf8afb45",
+      "recordPath": "equipment/abb-e2-2-e9-iv-f-50cf8afb45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-2-e9-iv-f-50cf8afb45.json"
+    },
+    {
+      "id": "abb-e2-3-1600a-2000a-3p-f-ul-4b50dbaf3c",
+      "name": "E2.3 1600A/2000A 3p F UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1113",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-1600a-2000a-3p-f-ul-4b50dbaf3c",
+      "recordPath": "equipment/abb-e2-3-1600a-2000a-3p-f-ul-4b50dbaf3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-1600a-2000a-3p-f-ul-4b50dbaf3c.json"
+    },
+    {
+      "id": "abb-e2-3-1600a-2000a-3p-w-ul-d41accb7a5",
+      "name": "E2.3 1600A/2000A 3p W UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1112",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-1600a-2000a-3p-w-ul-d41accb7a5",
+      "recordPath": "equipment/abb-e2-3-1600a-2000a-3p-w-ul-d41accb7a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-1600a-2000a-3p-w-ul-d41accb7a5.json"
+    },
+    {
+      "id": "abb-e2-3-1600a-2000a-4p-f-ul-303ffe4bd4",
+      "name": "E2.3 1600A/2000A 4p F UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1117",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-1600a-2000a-4p-f-ul-303ffe4bd4",
+      "recordPath": "equipment/abb-e2-3-1600a-2000a-4p-f-ul-303ffe4bd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-1600a-2000a-4p-f-ul-303ffe4bd4.json"
+    },
+    {
+      "id": "abb-e2-3-1600a-2000a-4p-w-ul-4389977f6f",
+      "name": "E2.3 1600A/2000A 4p W UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1116",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-1600a-2000a-4p-w-ul-4389977f6f",
+      "recordPath": "equipment/abb-e2-3-1600a-2000a-4p-w-ul-4389977f6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-1600a-2000a-4p-w-ul-4389977f6f.json"
+    },
+    {
+      "id": "abb-e2-3-2000a-3p-f-iec-223471e1a2",
+      "name": "E2.3 2000A 3p F IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1013",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2000a-3p-f-iec-223471e1a2",
+      "recordPath": "equipment/abb-e2-3-2000a-3p-f-iec-223471e1a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2000a-3p-f-iec-223471e1a2.json"
+    },
+    {
+      "id": "abb-e2-3-2000a-3p-w-iec-c34b302f8f",
+      "name": "E2.3 2000A 3p W IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1020",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2000a-3p-w-iec-c34b302f8f",
+      "recordPath": "equipment/abb-e2-3-2000a-3p-w-iec-c34b302f8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2000a-3p-w-iec-c34b302f8f.json"
+    },
+    {
+      "id": "abb-e2-3-2000a-4p-w-iec-e17d402140",
+      "name": "E2.3 2000A 4p W IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1024",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2000a-4p-w-iec-e17d402140",
+      "recordPath": "equipment/abb-e2-3-2000a-4p-w-iec-e17d402140.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2000a-4p-w-iec-e17d402140.json"
+    },
+    {
+      "id": "abb-e2-3-2000a-withdrawable-flat-terminals-fl-b188211e2e",
+      "name": "E2.3 2000A WITHDRAWABLE FLAT TERMINALS FL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1110",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2000a-withdrawable-flat-terminals-fl-b188211e2e",
+      "recordPath": "equipment/abb-e2-3-2000a-withdrawable-flat-terminals-fl-b188211e2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2000a-withdrawable-flat-terminals-fl-b188211e2e.json"
+    },
+    {
+      "id": "abb-e2-3-2500a-3p-w-iec-1ce31f4cf9",
+      "name": "E2.3 2500A 3p W IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1012",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2500a-3p-w-iec-1ce31f4cf9",
+      "recordPath": "equipment/abb-e2-3-2500a-3p-w-iec-1ce31f4cf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2500a-3p-w-iec-1ce31f4cf9.json"
+    },
+    {
+      "id": "abb-e2-3-2500a-4p-f-iec-1ad1ea3d55",
+      "name": "E2.3 2500A 4p F IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1017",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2500a-4p-f-iec-1ad1ea3d55",
+      "recordPath": "equipment/abb-e2-3-2500a-4p-f-iec-1ad1ea3d55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2500a-4p-f-iec-1ad1ea3d55.json"
+    },
+    {
+      "id": "abb-e2-3-2500a-4p-w-iec-55ad67c886",
+      "name": "E2.3 2500A 4p W IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002443A1016",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2500a-4p-w-iec-55ad67c886",
+      "recordPath": "equipment/abb-e2-3-2500a-4p-w-iec-55ad67c886.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2500a-4p-w-iec-55ad67c886.json"
+    },
+    {
+      "id": "abb-e2-3-2500a-withdrawable-flat-terminals-fl-2e49a34e54",
+      "name": "E2.3 2500A WITHDRAWABLE FLAT TERMINALS FL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1111",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-2500a-withdrawable-flat-terminals-fl-2e49a34e54",
+      "recordPath": "equipment/abb-e2-3-2500a-withdrawable-flat-terminals-fl-2e49a34e54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-2500a-withdrawable-flat-terminals-fl-2e49a34e54.json"
+    },
+    {
+      "id": "abb-e2-3-fixed-terminals-hr-vr-399f618b12",
+      "name": "E2.3 FIXED TERMINALS HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1100",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-fixed-terminals-hr-vr-399f618b12",
+      "recordPath": "equipment/abb-e2-3-fixed-terminals-hr-vr-399f618b12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-fixed-terminals-hr-vr-399f618b12.json"
+    },
+    {
+      "id": "abb-e2-3-iii-iv-withdrawable-front-terminals-f-14dab42cee",
+      "name": "E2.3 III-IV WITHDRAWABLE FRONT TERMINALS F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1103",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-iii-iv-withdrawable-front-terminals-f-14dab42cee",
+      "recordPath": "equipment/abb-e2-3-iii-iv-withdrawable-front-terminals-f-14dab42cee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-iii-iv-withdrawable-front-terminals-f-14dab42cee.json"
+    },
+    {
+      "id": "abb-e2-3-iii-iv-withdrawable-hr-vr-470f852892",
+      "name": "E2.3 III-IV WITHDRAWABLE HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1102",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-iii-iv-withdrawable-hr-vr-470f852892",
+      "recordPath": "equipment/abb-e2-3-iii-iv-withdrawable-hr-vr-470f852892.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-iii-iv-withdrawable-hr-vr-470f852892.json"
+    },
+    {
+      "id": "abb-e2-3-e4-3-e6-3-f-internal-mounting-f20da3a18e",
+      "name": "E2.3-E4.3-E6.3 F Internal Mounting",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002310A1121",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e2-3-e4-3-e6-3-f-internal-mounting-f20da3a18e",
+      "recordPath": "equipment/abb-e2-3-e4-3-e6-3-f-internal-mounting-f20da3a18e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e2-3-e4-3-e6-3-f-internal-mounting-f20da3a18e.json"
+    },
+    {
+      "id": "abb-e3-2500a-four-poles-withdrawable-ul-vert-terminals-efcf353e55",
+      "name": "E3 2500A four poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0091",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-2500a-four-poles-withdrawable-ul-vert-terminals-efcf353e55",
+      "recordPath": "equipment/abb-e3-2500a-four-poles-withdrawable-ul-vert-terminals-efcf353e55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-2500a-four-poles-withdrawable-ul-vert-terminals-efcf353e55.json"
+    },
+    {
+      "id": "abb-e3-2500a-three-poles-withdrawable-ul-vert-terminals-dc036bfadb",
+      "name": "E3 2500A three poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0082",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-2500a-three-poles-withdrawable-ul-vert-terminals-dc036bfadb",
+      "recordPath": "equipment/abb-e3-2500a-three-poles-withdrawable-ul-vert-terminals-dc036bfadb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-2500a-three-poles-withdrawable-ul-vert-terminals-dc036bfadb.json"
+    },
+    {
+      "id": "abb-e3-four-poles-fixed-iec-ul-horiz-terminals-30f75d92f5",
+      "name": "E3 four poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0092",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-fixed-iec-ul-horiz-terminals-30f75d92f5",
+      "recordPath": "equipment/abb-e3-four-poles-fixed-iec-ul-horiz-terminals-30f75d92f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-fixed-iec-ul-horiz-terminals-30f75d92f5.json"
+    },
+    {
+      "id": "abb-e3-four-poles-fixed-iec-vert-terminals-8be75568da",
+      "name": "E3 four poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0093",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-fixed-iec-vert-terminals-8be75568da",
+      "recordPath": "equipment/abb-e3-four-poles-fixed-iec-vert-terminals-8be75568da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-fixed-iec-vert-terminals-8be75568da.json"
+    },
+    {
+      "id": "abb-e3-four-poles-fixed-ul-vert-terminals-09fcc5db20",
+      "name": "E3 four poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0094",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-fixed-ul-vert-terminals-09fcc5db20",
+      "recordPath": "equipment/abb-e3-four-poles-fixed-ul-vert-terminals-09fcc5db20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-fixed-ul-vert-terminals-09fcc5db20.json"
+    },
+    {
+      "id": "abb-e3-four-poles-withdrawable-iec-horiz-terminals-89613de629",
+      "name": "E3 four poles withdrawable IEC horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0095",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-withdrawable-iec-horiz-terminals-89613de629",
+      "recordPath": "equipment/abb-e3-four-poles-withdrawable-iec-horiz-terminals-89613de629.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-withdrawable-iec-horiz-terminals-89613de629.json"
+    },
+    {
+      "id": "abb-e3-four-poles-withdrawable-iec-vert-terminals-e0ca08e98c",
+      "name": "E3 four poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0096",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-withdrawable-iec-vert-terminals-e0ca08e98c",
+      "recordPath": "equipment/abb-e3-four-poles-withdrawable-iec-vert-terminals-e0ca08e98c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-withdrawable-iec-vert-terminals-e0ca08e98c.json"
+    },
+    {
+      "id": "abb-e3-four-poles-withdrawable-ul-horiz-terminals-b78341dbdd",
+      "name": "E3 four poles withdrawable UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0097",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-withdrawable-ul-horiz-terminals-b78341dbdd",
+      "recordPath": "equipment/abb-e3-four-poles-withdrawable-ul-horiz-terminals-b78341dbdd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-withdrawable-ul-horiz-terminals-b78341dbdd.json"
+    },
+    {
+      "id": "abb-e3-four-poles-withdrawable-ul-vert-terminals-5d6daafc48",
+      "name": "E3 four poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0098",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-four-poles-withdrawable-ul-vert-terminals-5d6daafc48",
+      "recordPath": "equipment/abb-e3-four-poles-withdrawable-ul-vert-terminals-5d6daafc48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-four-poles-withdrawable-ul-vert-terminals-5d6daafc48.json"
+    },
+    {
+      "id": "abb-e3-three-poles-fixed-iec-ul-horiz-terminals-dd45dc4b4a",
+      "name": "E3 three poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0083",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-fixed-iec-ul-horiz-terminals-dd45dc4b4a",
+      "recordPath": "equipment/abb-e3-three-poles-fixed-iec-ul-horiz-terminals-dd45dc4b4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-fixed-iec-ul-horiz-terminals-dd45dc4b4a.json"
+    },
+    {
+      "id": "abb-e3-three-poles-fixed-iec-vert-terminals-6477a73b54",
+      "name": "E3 three poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0084",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-fixed-iec-vert-terminals-6477a73b54",
+      "recordPath": "equipment/abb-e3-three-poles-fixed-iec-vert-terminals-6477a73b54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-fixed-iec-vert-terminals-6477a73b54.json"
+    },
+    {
+      "id": "abb-e3-three-poles-fixed-ul-vert-terminals-168eaaddfc",
+      "name": "E3 three poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0085",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-fixed-ul-vert-terminals-168eaaddfc",
+      "recordPath": "equipment/abb-e3-three-poles-fixed-ul-vert-terminals-168eaaddfc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-fixed-ul-vert-terminals-168eaaddfc.json"
+    },
+    {
+      "id": "abb-e3-three-poles-withdrawable-iec-horiz-terminals-53b267904a",
+      "name": "E3 three poles withdrawable IEC horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0086",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-withdrawable-iec-horiz-terminals-53b267904a",
+      "recordPath": "equipment/abb-e3-three-poles-withdrawable-iec-horiz-terminals-53b267904a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-withdrawable-iec-horiz-terminals-53b267904a.json"
+    },
+    {
+      "id": "abb-e3-three-poles-withdrawable-iec-vert-terminals-9970d8c696",
+      "name": "E3 three poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0087",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-withdrawable-iec-vert-terminals-9970d8c696",
+      "recordPath": "equipment/abb-e3-three-poles-withdrawable-iec-vert-terminals-9970d8c696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-withdrawable-iec-vert-terminals-9970d8c696.json"
+    },
+    {
+      "id": "abb-e3-three-poles-withdrawable-ul-horiz-terminals-7a0c1b92fb",
+      "name": "E3 three poles withdrawable UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0088",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-withdrawable-ul-horiz-terminals-7a0c1b92fb",
+      "recordPath": "equipment/abb-e3-three-poles-withdrawable-ul-horiz-terminals-7a0c1b92fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-withdrawable-ul-horiz-terminals-7a0c1b92fb.json"
+    },
+    {
+      "id": "abb-e3-three-poles-withdrawable-ul-vert-terminals-ab6a42145f",
+      "name": "E3 three poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0089",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e3-three-poles-withdrawable-ul-vert-terminals-ab6a42145f",
+      "recordPath": "equipment/abb-e3-three-poles-withdrawable-ul-vert-terminals-ab6a42145f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e3-three-poles-withdrawable-ul-vert-terminals-ab6a42145f.json"
+    },
+    {
+      "id": "abb-e4-four-poles-fixed-iec-ul-horiz-terminals-3ce89cd042",
+      "name": "E4 four poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0106",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-fixed-iec-ul-horiz-terminals-3ce89cd042",
+      "recordPath": "equipment/abb-e4-four-poles-fixed-iec-ul-horiz-terminals-3ce89cd042.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-fixed-iec-ul-horiz-terminals-3ce89cd042.json"
+    },
+    {
+      "id": "abb-e4-four-poles-fixed-iec-vert-terminals-70312497aa",
+      "name": "E4 four poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0107",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-fixed-iec-vert-terminals-70312497aa",
+      "recordPath": "equipment/abb-e4-four-poles-fixed-iec-vert-terminals-70312497aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-fixed-iec-vert-terminals-70312497aa.json"
+    },
+    {
+      "id": "abb-e4-four-poles-fixed-ul-vert-terminals-6ea69e2a99",
+      "name": "E4 four poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0108",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-fixed-ul-vert-terminals-6ea69e2a99",
+      "recordPath": "equipment/abb-e4-four-poles-fixed-ul-vert-terminals-6ea69e2a99.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-fixed-ul-vert-terminals-6ea69e2a99.json"
+    },
+    {
+      "id": "abb-e4-four-poles-withdrawable-iec-horiz-terminals-47dbf48197",
+      "name": "E4 four poles withdrawable IEC horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0109",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-withdrawable-iec-horiz-terminals-47dbf48197",
+      "recordPath": "equipment/abb-e4-four-poles-withdrawable-iec-horiz-terminals-47dbf48197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-withdrawable-iec-horiz-terminals-47dbf48197.json"
+    },
+    {
+      "id": "abb-e4-four-poles-withdrawable-iec-vert-terminals-15c6edd0f7",
+      "name": "E4 four poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0110",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-withdrawable-iec-vert-terminals-15c6edd0f7",
+      "recordPath": "equipment/abb-e4-four-poles-withdrawable-iec-vert-terminals-15c6edd0f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-withdrawable-iec-vert-terminals-15c6edd0f7.json"
+    },
+    {
+      "id": "abb-e4-four-poles-withdrawable-ul-horiz-terminals-3814bc4703",
+      "name": "E4 four poles withdrawable UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0111",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-withdrawable-ul-horiz-terminals-3814bc4703",
+      "recordPath": "equipment/abb-e4-four-poles-withdrawable-ul-horiz-terminals-3814bc4703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-withdrawable-ul-horiz-terminals-3814bc4703.json"
+    },
+    {
+      "id": "abb-e4-four-poles-withdrawable-ul-vert-terminals-ef0d5280df",
+      "name": "E4 four poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0112",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-four-poles-withdrawable-ul-vert-terminals-ef0d5280df",
+      "recordPath": "equipment/abb-e4-four-poles-withdrawable-ul-vert-terminals-ef0d5280df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-four-poles-withdrawable-ul-vert-terminals-ef0d5280df.json"
+    },
+    {
+      "id": "abb-e4-three-poles-fixed-iec-ul-horiz-terminals-c969f75384",
+      "name": "E4 three poles fixed IEC UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0099",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-fixed-iec-ul-horiz-terminals-c969f75384",
+      "recordPath": "equipment/abb-e4-three-poles-fixed-iec-ul-horiz-terminals-c969f75384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-fixed-iec-ul-horiz-terminals-c969f75384.json"
+    },
+    {
+      "id": "abb-e4-three-poles-fixed-iec-vert-terminals-0a5823f7c5",
+      "name": "E4 three poles fixed IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0100",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-fixed-iec-vert-terminals-0a5823f7c5",
+      "recordPath": "equipment/abb-e4-three-poles-fixed-iec-vert-terminals-0a5823f7c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-fixed-iec-vert-terminals-0a5823f7c5.json"
+    },
+    {
+      "id": "abb-e4-three-poles-fixed-ul-vert-terminals-17237daa79",
+      "name": "E4 three poles fixed UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0101",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-fixed-ul-vert-terminals-17237daa79",
+      "recordPath": "equipment/abb-e4-three-poles-fixed-ul-vert-terminals-17237daa79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-fixed-ul-vert-terminals-17237daa79.json"
+    },
+    {
+      "id": "abb-e4-three-poles-withdrawable-iec-horiz-terminals-284bc759fc",
+      "name": "E4 three poles withdrawable IEC horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0102",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-withdrawable-iec-horiz-terminals-284bc759fc",
+      "recordPath": "equipment/abb-e4-three-poles-withdrawable-iec-horiz-terminals-284bc759fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-withdrawable-iec-horiz-terminals-284bc759fc.json"
+    },
+    {
+      "id": "abb-e4-three-poles-withdrawable-iec-vert-terminals-73d069bd03",
+      "name": "E4 three poles withdrawable IEC vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0103",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-withdrawable-iec-vert-terminals-73d069bd03",
+      "recordPath": "equipment/abb-e4-three-poles-withdrawable-iec-vert-terminals-73d069bd03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-withdrawable-iec-vert-terminals-73d069bd03.json"
+    },
+    {
+      "id": "abb-e4-three-poles-withdrawable-ul-horiz-terminals-a46b11aee4",
+      "name": "E4 three poles withdrawable UL horiz terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0104",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-withdrawable-ul-horiz-terminals-a46b11aee4",
+      "recordPath": "equipment/abb-e4-three-poles-withdrawable-ul-horiz-terminals-a46b11aee4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-withdrawable-ul-horiz-terminals-a46b11aee4.json"
+    },
+    {
+      "id": "abb-e4-three-poles-withdrawable-ul-vert-terminals-73cd8dabac",
+      "name": "E4 three poles withdrawable UL vert terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001292R0105",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-three-poles-withdrawable-ul-vert-terminals-73cd8dabac",
+      "recordPath": "equipment/abb-e4-three-poles-withdrawable-ul-vert-terminals-73cd8dabac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-three-poles-withdrawable-ul-vert-terminals-73cd8dabac.json"
+    },
+    {
+      "id": "abb-e4-2-e-iii-iv-fixed-3600-vr-ul-cdf6c0cf2b",
+      "name": "E4.2 /E III-IV Fixed 3600 VR UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0306",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iii-iv-fixed-3600-vr-ul-cdf6c0cf2b",
+      "recordPath": "equipment/abb-e4-2-e-iii-iv-fixed-3600-vr-ul-cdf6c0cf2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iii-iv-fixed-3600-vr-ul-cdf6c0cf2b.json"
+    },
+    {
+      "id": "abb-e4-2-3-4p-fixed-hr-vr-3200-4000a-cf94deb1fb",
+      "name": "E4.2 3-4p Fixed HR VR 3200-4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-3-4p-fixed-hr-vr-3200-4000a-cf94deb1fb",
+      "recordPath": "equipment/abb-e4-2-3-4p-fixed-hr-vr-3200-4000a-cf94deb1fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-3-4p-fixed-hr-vr-3200-4000a-cf94deb1fb.json"
+    },
+    {
+      "id": "abb-e4-2-3-4p-withdrawable-hr-vr-64d1f90928",
+      "name": "E4.2 3-4p Withdrawable HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-3-4p-withdrawable-hr-vr-64d1f90928",
+      "recordPath": "equipment/abb-e4-2-3-4p-withdrawable-hr-vr-64d1f90928.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-3-4p-withdrawable-hr-vr-64d1f90928.json"
+    },
+    {
+      "id": "abb-e4-2-3200a-withdrawable-flat-terminals-fl-ce26f24585",
+      "name": "E4.2 3200A withdrawable flat terminals FL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-3200a-withdrawable-flat-terminals-fl-ce26f24585",
+      "recordPath": "equipment/abb-e4-2-3200a-withdrawable-flat-terminals-fl-ce26f24585.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-3200a-withdrawable-flat-terminals-fl-ce26f24585.json"
+    },
+    {
+      "id": "abb-e4-2-4000a-withdrawable-flat-terminals-fl-e691ad15fb",
+      "name": "E4.2 4000A withdrawable flat terminals FL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-4000a-withdrawable-flat-terminals-fl-e691ad15fb",
+      "recordPath": "equipment/abb-e4-2-4000a-withdrawable-flat-terminals-fl-e691ad15fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-4000a-withdrawable-flat-terminals-fl-e691ad15fb.json"
+    },
+    {
+      "id": "abb-e4-2-f-ip54-012d480d51",
+      "name": "E4.2 F IP54",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002446A1006",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-f-ip54-012d480d51",
+      "recordPath": "equipment/abb-e4-2-f-ip54-012d480d51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-f-ip54-012d480d51.json"
+    },
+    {
+      "id": "abb-e4-2-fixed-terminals-shr-d1f7018543",
+      "name": "E4.2 FIXED TERMINALS SHR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-fixed-terminals-shr-d1f7018543",
+      "recordPath": "equipment/abb-e4-2-fixed-terminals-shr-d1f7018543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-fixed-terminals-shr-d1f7018543.json"
+    },
+    {
+      "id": "abb-e4-2-fixed-terminals-svr-8756705cdf",
+      "name": "E4.2 FIXED TERMINALS SVR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-fixed-terminals-svr-8756705cdf",
+      "recordPath": "equipment/abb-e4-2-fixed-terminals-svr-8756705cdf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-fixed-terminals-svr-8756705cdf.json"
+    },
+    {
+      "id": "abb-e4-2-iii-f-b38b7bb784",
+      "name": "E4.2 III F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0171",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-f-b38b7bb784",
+      "recordPath": "equipment/abb-e4-2-iii-f-b38b7bb784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-f-b38b7bb784.json"
+    },
+    {
+      "id": "abb-e4-2-iii-f-terminals-vr-lower-36000a-ul-368c1b3977",
+      "name": "E4.2 III F TERMINALS VR LOWER 36000A UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0601",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-f-terminals-vr-lower-36000a-ul-368c1b3977",
+      "recordPath": "equipment/abb-e4-2-iii-f-terminals-vr-lower-36000a-ul-368c1b3977.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-f-terminals-vr-lower-36000a-ul-368c1b3977.json"
+    },
+    {
+      "id": "abb-e4-2-iii-f-terminals-vr-upper-36000a-ul-1b61f5cd14",
+      "name": "E4.2 III F TERMINALS VR UPPER 36000A UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0600",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-f-terminals-vr-upper-36000a-ul-1b61f5cd14",
+      "recordPath": "equipment/abb-e4-2-iii-f-terminals-vr-upper-36000a-ul-1b61f5cd14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-f-terminals-vr-upper-36000a-ul-1b61f5cd14.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-ul-7744f565f3",
+      "name": "E4.2 III W - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0185",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-ul-7744f565f3",
+      "recordPath": "equipment/abb-e4-2-iii-w-ul-7744f565f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-ul-7744f565f3.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-3200a-72c9f3ff47",
+      "name": "E4.2 III W 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0433",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-3200a-72c9f3ff47",
+      "recordPath": "equipment/abb-e4-2-iii-w-3200a-72c9f3ff47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-3200a-72c9f3ff47.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-terminals-shr-lower-3200a-8c19e8563f",
+      "name": "E4.2 III W TERMINALS SHR LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0465",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-terminals-shr-lower-3200a-8c19e8563f",
+      "recordPath": "equipment/abb-e4-2-iii-w-terminals-shr-lower-3200a-8c19e8563f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-terminals-shr-lower-3200a-8c19e8563f.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-terminals-shr-lower-4000a-989affb98b",
+      "name": "E4.2 III W TERMINALS SHR LOWER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0467",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-terminals-shr-lower-4000a-989affb98b",
+      "recordPath": "equipment/abb-e4-2-iii-w-terminals-shr-lower-4000a-989affb98b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-terminals-shr-lower-4000a-989affb98b.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-terminals-svr-lower-3200a-195b4b4d6c",
+      "name": "E4.2 III W TERMINALS SVR LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0469",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-terminals-svr-lower-3200a-195b4b4d6c",
+      "recordPath": "equipment/abb-e4-2-iii-w-terminals-svr-lower-3200a-195b4b4d6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-terminals-svr-lower-3200a-195b4b4d6c.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-terminals-svr-lower-4000a-446e022056",
+      "name": "E4.2 III W TERMINALS SVR LOWER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0471",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-terminals-svr-lower-4000a-446e022056",
+      "recordPath": "equipment/abb-e4-2-iii-w-terminals-svr-lower-4000a-446e022056.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-terminals-svr-lower-4000a-446e022056.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-terminals-svr-upper-3200a-e1ec80b55a",
+      "name": "E4.2 III W TERMINALS SVR UPPER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0461",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-terminals-svr-upper-3200a-e1ec80b55a",
+      "recordPath": "equipment/abb-e4-2-iii-w-terminals-svr-upper-3200a-e1ec80b55a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-terminals-svr-upper-3200a-e1ec80b55a.json"
+    },
+    {
+      "id": "abb-e4-2-iii-w-terminals-svr-upper-4000a-ec5dc5b25c",
+      "name": "E4.2 III W TERMINALS SVR UPPER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0463",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-w-terminals-svr-upper-4000a-ec5dc5b25c",
+      "recordPath": "equipment/abb-e4-2-iii-w-terminals-svr-upper-4000a-ec5dc5b25c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-w-terminals-svr-upper-4000a-ec5dc5b25c.json"
+    },
+    {
+      "id": "abb-e4-2-iii-iv-fixed-front-terminals-f-7a14896ffb",
+      "name": "E4.2 III-IV Fixed Front Terminals F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-iv-fixed-front-terminals-f-7a14896ffb",
+      "recordPath": "equipment/abb-e4-2-iii-iv-fixed-front-terminals-f-7a14896ffb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-iv-fixed-front-terminals-f-7a14896ffb.json"
+    },
+    {
+      "id": "abb-e4-2-iii-iv-withdrawable-front-terminals-f-4f7f6e4b1a",
+      "name": "E4.2 III-IV Withdrawable Front Terminals F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iii-iv-withdrawable-front-terminals-f-4f7f6e4b1a",
+      "recordPath": "equipment/abb-e4-2-iii-iv-withdrawable-front-terminals-f-4f7f6e4b1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iii-iv-withdrawable-front-terminals-f-4f7f6e4b1a.json"
+    },
+    {
+      "id": "abb-e4-2-iv-f-ul-4f984ec8ae",
+      "name": "E4.2 IV F - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0197",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-f-ul-4f984ec8ae",
+      "recordPath": "equipment/abb-e4-2-iv-f-ul-4f984ec8ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-f-ul-4f984ec8ae.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-ul-e150a2efab",
+      "name": "E4.2 IV W - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0211",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-ul-e150a2efab",
+      "recordPath": "equipment/abb-e4-2-iv-w-ul-e150a2efab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-ul-e150a2efab.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-3200a-6779bb9078",
+      "name": "E4.2 IV W 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0434",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-3200a-6779bb9078",
+      "recordPath": "equipment/abb-e4-2-iv-w-3200a-6779bb9078.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-3200a-6779bb9078.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-4000a-2923e1102b",
+      "name": "E4.2 IV W 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0211",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-4000a-2923e1102b",
+      "recordPath": "equipment/abb-e4-2-iv-w-4000a-2923e1102b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-4000a-2923e1102b.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-terminals-shr-lower-3200a-3b659f91a1",
+      "name": "E4.2 IV W TERMINALS SHR LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0466",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-terminals-shr-lower-3200a-3b659f91a1",
+      "recordPath": "equipment/abb-e4-2-iv-w-terminals-shr-lower-3200a-3b659f91a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-terminals-shr-lower-3200a-3b659f91a1.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-terminals-shr-lower-4000a-be8bc98d01",
+      "name": "E4.2 IV W TERMINALS SHR LOWER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0468",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-terminals-shr-lower-4000a-be8bc98d01",
+      "recordPath": "equipment/abb-e4-2-iv-w-terminals-shr-lower-4000a-be8bc98d01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-terminals-shr-lower-4000a-be8bc98d01.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-terminals-svr-lower-3200a-6729859a65",
+      "name": "E4.2 IV W TERMINALS SVR LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0470",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-terminals-svr-lower-3200a-6729859a65",
+      "recordPath": "equipment/abb-e4-2-iv-w-terminals-svr-lower-3200a-6729859a65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-terminals-svr-lower-3200a-6729859a65.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-terminals-svr-lower-4000a-d22db48558",
+      "name": "E4.2 IV W TERMINALS SVR LOWER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0472",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-terminals-svr-lower-4000a-d22db48558",
+      "recordPath": "equipment/abb-e4-2-iv-w-terminals-svr-lower-4000a-d22db48558.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-terminals-svr-lower-4000a-d22db48558.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-terminals-svr-upper-3200a-a0cbff3033",
+      "name": "E4.2 IV W TERMINALS SVR UPPER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0462",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-terminals-svr-upper-3200a-a0cbff3033",
+      "recordPath": "equipment/abb-e4-2-iv-w-terminals-svr-upper-3200a-a0cbff3033.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-terminals-svr-upper-3200a-a0cbff3033.json"
+    },
+    {
+      "id": "abb-e4-2-iv-w-terminals-svr-upper-4000a-a953520608",
+      "name": "E4.2 IV W TERMINALS SVR UPPER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0464",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-iv-w-terminals-svr-upper-4000a-a953520608",
+      "recordPath": "equipment/abb-e4-2-iv-w-terminals-svr-upper-4000a-a953520608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-iv-w-terminals-svr-upper-4000a-a953520608.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-a-b-b223b439a7",
+      "name": "E4.2 MS/DC-E F 1600A-2000A-2500A IEC config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-a-b-b223b439a7",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-a-b-b223b439a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-a-b-b223b439a7.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-c-d-80bec134d6",
+      "name": "E4.2 MS/DC-E F 1600A-2000A-2500A IEC config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0113",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-c-d-80bec134d6",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-c-d-80bec134d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-1600a-2000a-2500a-iec-config-c-d-80bec134d6.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-a-b-e49705a7ba",
+      "name": "E4.2 MS/DC-E F 3200A-4000A IEC config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-a-b-e49705a7ba",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-a-b-e49705a7ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-a-b-e49705a7ba.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-c-d-935274852d",
+      "name": "E4.2 MS/DC-E F 3200A-4000A IEC config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0115",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-c-d-935274852d",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-c-d-935274852d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-3200a-4000a-iec-config-c-d-935274852d.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-a-b-29c67b6778",
+      "name": "E4.2 MS/DC-E W 1600A-2000A-2500A IEC config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0116",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-a-b-29c67b6778",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-a-b-29c67b6778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-a-b-29c67b6778.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-c-d-3bfbb2ee0a",
+      "name": "E4.2 MS/DC-E W 1600A-2000A-2500A IEC config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-c-d-3bfbb2ee0a",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-c-d-3bfbb2ee0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-w-1600a-2000a-2500a-iec-config-c-d-3bfbb2ee0a.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-a-b-1ea4c41523",
+      "name": "E4.2 MS/DC-E W 3200A-4000A IEC config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-a-b-1ea4c41523",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-a-b-1ea4c41523.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-a-b-1ea4c41523.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-c-d-011bc1ff23",
+      "name": "E4.2 MS/DC-E W 3200A-4000A IEC config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0119",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-c-d-011bc1ff23",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-c-d-011bc1ff23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-w-3200a-4000a-iec-config-c-d-011bc1ff23.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-a-b-e0a5ae8d20",
+      "name": "E4.2 MS/DC-E F 1600A-2000A UL config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0307",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-a-b-e0a5ae8d20",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-a-b-e0a5ae8d20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-a-b-e0a5ae8d20.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-c-d-d7a52788af",
+      "name": "E4.2 MS/DC-E F 1600A-2000A UL config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0308",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-c-d-d7a52788af",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-c-d-d7a52788af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-1600a-2000a-ul-config-c-d-d7a52788af.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-a-b-9f713e36e5",
+      "name": "E4.2 MS/DC-E F 2500A-3200A UL config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0309",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-a-b-9f713e36e5",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-a-b-9f713e36e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-a-b-9f713e36e5.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-c-d-cfc79afa5e",
+      "name": "E4.2 MS/DC-E F 2500A-3200A UL config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0310",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-c-d-cfc79afa5e",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-c-d-cfc79afa5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-c-d-cfc79afa5e.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-iv-f-without-terminals-adapters-66bdbf862a",
+      "name": "E4.2 MS/DC-E IV F without terminals/adapters",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0473",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-iv-f-without-terminals-adapters-66bdbf862a",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-iv-f-without-terminals-adapters-66bdbf862a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-iv-f-without-terminals-adapters-66bdbf862a.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-iv-w-without-terminals-2852f75c30",
+      "name": "E4.2 MS/DC-E IV W without terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0496",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-iv-w-without-terminals-2852f75c30",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-iv-w-without-terminals-2852f75c30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-iv-w-without-terminals-2852f75c30.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-a-b-5bc607d424",
+      "name": "E4.2 MS/DC-E W 2500A-3200A UL config.A&B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0313",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-a-b-5bc607d424",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-a-b-5bc607d424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-a-b-5bc607d424.json"
+    },
+    {
+      "id": "abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-c-d-f6735801f5",
+      "name": "E4.2 MS/DC-E W 2500A-3200A UL config.C&D",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0314",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-c-d-f6735801f5",
+      "recordPath": "equipment/abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-c-d-f6735801f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-ms-dc-e-w-2500a-3200a-ul-config-c-d-f6735801f5.json"
+    },
+    {
+      "id": "abb-e4-2-w-ip54-a7fe5ccd0d",
+      "name": "E4.2 W IP54",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002446A1005",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-w-ip54-a7fe5ccd0d",
+      "recordPath": "equipment/abb-e4-2-w-ip54-a7fe5ccd0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-w-ip54-a7fe5ccd0d.json"
+    },
+    {
+      "id": "abb-e4-2-withdrawable-terminals-svr-7bd342ac58",
+      "name": "E4.2 WITHDRAWABLE TERMINALS SVR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-withdrawable-terminals-svr-7bd342ac58",
+      "recordPath": "equipment/abb-e4-2-withdrawable-terminals-svr-7bd342ac58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-withdrawable-terminals-svr-7bd342ac58.json"
+    },
+    {
+      "id": "abb-e4-2-fixed-terminals-hr-vr-2500a-ul-bafc457c70",
+      "name": "E4.2 fixed terminals HR-VR 2500A UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0300",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-fixed-terminals-hr-vr-2500a-ul-bafc457c70",
+      "recordPath": "equipment/abb-e4-2-fixed-terminals-hr-vr-2500a-ul-bafc457c70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-fixed-terminals-hr-vr-2500a-ul-bafc457c70.json"
+    },
+    {
+      "id": "abb-e4-2-fixed-terminals-vr-3200a-ul-7c9791fdd3",
+      "name": "E4.2 fixed terminals VR 3200A UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0304",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-fixed-terminals-vr-3200a-ul-7c9791fdd3",
+      "recordPath": "equipment/abb-e4-2-fixed-terminals-vr-3200a-ul-7c9791fdd3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-fixed-terminals-vr-3200a-ul-7c9791fdd3.json"
+    },
+    {
+      "id": "abb-e4-2-withdrawable-terminals-hr-vr-2500a-ul-859813357b",
+      "name": "E4.2 withdrawable terminals HR-VR 2500A UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0302",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-withdrawable-terminals-hr-vr-2500a-ul-859813357b",
+      "recordPath": "equipment/abb-e4-2-withdrawable-terminals-hr-vr-2500a-ul-859813357b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-withdrawable-terminals-hr-vr-2500a-ul-859813357b.json"
+    },
+    {
+      "id": "abb-e4-2-withdrawable-terminals-vr-3200a-ul-fb91c8ac79",
+      "name": "E4.2 withdrawable terminals VR 3200A UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0305",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-withdrawable-terminals-vr-3200a-ul-fb91c8ac79",
+      "recordPath": "equipment/abb-e4-2-withdrawable-terminals-vr-3200a-ul-fb91c8ac79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-withdrawable-terminals-vr-3200a-ul-fb91c8ac79.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-1600-2000a-2ps-down-term-v-e1f6d851ae",
+      "name": "E4.2-A-E IV F 1600-2000A 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0516",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-1600-2000a-2ps-down-term-v-e1f6d851ae",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-1600-2000a-2ps-down-term-v-e1f6d851ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-1600-2000a-2ps-down-term-v-e1f6d851ae.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-1600-2000a-2ps-up-term-v-12de8be90b",
+      "name": "E4.2-A-E IV F 1600-2000A 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0515",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-1600-2000a-2ps-up-term-v-12de8be90b",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-1600-2000a-2ps-up-term-v-12de8be90b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-1600-2000a-2ps-up-term-v-12de8be90b.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-1600-2000a-4ps-down-term-v-6cd8c215a6",
+      "name": "E4.2-A-E IV F 1600-2000A 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0524",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-1600-2000a-4ps-down-term-v-6cd8c215a6",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-1600-2000a-4ps-down-term-v-6cd8c215a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-1600-2000a-4ps-down-term-v-6cd8c215a6.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-1600-2000a-4ps-up-term-v-1af30e470b",
+      "name": "E4.2-A-E IV F 1600-2000A 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0523",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-1600-2000a-4ps-up-term-v-1af30e470b",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-1600-2000a-4ps-up-term-v-1af30e470b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-1600-2000a-4ps-up-term-v-1af30e470b.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-2500-3200a-2ps-down-term-v-e37c5016b0",
+      "name": "E4.2-A-E IV F 2500-3200A 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0548",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-2500-3200a-2ps-down-term-v-e37c5016b0",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-2500-3200a-2ps-down-term-v-e37c5016b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-2500-3200a-2ps-down-term-v-e37c5016b0.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-2500-3200a-2ps-up-term-v-bca48ec692",
+      "name": "E4.2-A-E IV F 2500-3200A 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0547",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-2500-3200a-2ps-up-term-v-bca48ec692",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-2500-3200a-2ps-up-term-v-bca48ec692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-2500-3200a-2ps-up-term-v-bca48ec692.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-2500-3200a-4ps-down-term-v-03881aee8e",
+      "name": "E4.2-A-E IV F 2500-3200A 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0552",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-2500-3200a-4ps-down-term-v-03881aee8e",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-2500-3200a-4ps-down-term-v-03881aee8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-2500-3200a-4ps-down-term-v-03881aee8e.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-f-2500-3200a-4ps-up-term-v-266ef13beb",
+      "name": "E4.2-A-E IV F 2500-3200A 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0551",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-f-2500-3200a-4ps-up-term-v-266ef13beb",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-f-2500-3200a-4ps-up-term-v-266ef13beb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-f-2500-3200a-4ps-up-term-v-266ef13beb.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-1600-2000a-2ps-down-term-v-f20c8d72d8",
+      "name": "E4.2-A-E IV W 1600-2000A 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0520",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-1600-2000a-2ps-down-term-v-f20c8d72d8",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-1600-2000a-2ps-down-term-v-f20c8d72d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-1600-2000a-2ps-down-term-v-f20c8d72d8.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-1600-2000a-2ps-up-term-v-8308a0e636",
+      "name": "E4.2-A-E IV W 1600-2000A 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0519",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-1600-2000a-2ps-up-term-v-8308a0e636",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-1600-2000a-2ps-up-term-v-8308a0e636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-1600-2000a-2ps-up-term-v-8308a0e636.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-1600-2000a-4ps-down-term-v-cba23b26d3",
+      "name": "E4.2-A-E IV W 1600-2000A 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0528",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-1600-2000a-4ps-down-term-v-cba23b26d3",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-1600-2000a-4ps-down-term-v-cba23b26d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-1600-2000a-4ps-down-term-v-cba23b26d3.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-1600-2000a-4ps-up-term-v-dde18db088",
+      "name": "E4.2-A-E IV W 1600-2000A 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0527",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-1600-2000a-4ps-up-term-v-dde18db088",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-1600-2000a-4ps-up-term-v-dde18db088.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-1600-2000a-4ps-up-term-v-dde18db088.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-2500-3200a-2ps-down-term-v-5915d94ab8",
+      "name": "E4.2-A-E IV W 2500-3200A 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0550",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-2500-3200a-2ps-down-term-v-5915d94ab8",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-2500-3200a-2ps-down-term-v-5915d94ab8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-2500-3200a-2ps-down-term-v-5915d94ab8.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-2500-3200a-2ps-up-term-v-4d976215aa",
+      "name": "E4.2-A-E IV W 2500-3200A 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0549",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-2500-3200a-2ps-up-term-v-4d976215aa",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-2500-3200a-2ps-up-term-v-4d976215aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-2500-3200a-2ps-up-term-v-4d976215aa.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-2500-3200a-4ps-down-term-v-6728d3e29b",
+      "name": "E4.2-A-E IV W 2500-3200A 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0554",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-2500-3200a-4ps-down-term-v-6728d3e29b",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-2500-3200a-4ps-down-term-v-6728d3e29b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-2500-3200a-4ps-down-term-v-6728d3e29b.json"
+    },
+    {
+      "id": "abb-e4-2-a-e-iv-w-2500-3200a-4ps-up-term-v-17555ea9d7",
+      "name": "E4.2-A-E IV W 2500-3200A 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0553",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-a-e-iv-w-2500-3200a-4ps-up-term-v-17555ea9d7",
+      "recordPath": "equipment/abb-e4-2-a-e-iv-w-2500-3200a-4ps-up-term-v-17555ea9d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-a-e-iv-w-2500-3200a-4ps-up-term-v-17555ea9d7.json"
+    },
+    {
+      "id": "abb-e4-2-e-iii-iv-fixed-3200-vr-ul-0d5dc79869",
+      "name": "E4.2-E III-IV Fixed 3200 VR UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0400",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iii-iv-fixed-3200-vr-ul-0d5dc79869",
+      "recordPath": "equipment/abb-e4-2-e-iii-iv-fixed-3200-vr-ul-0d5dc79869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iii-iv-fixed-3200-vr-ul-0d5dc79869.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-1600-2500a-iec-2ps-down-term-v-d4c5bf97b9",
+      "name": "E4.2-E IV F 1600-2500A IEC 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0532",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-1600-2500a-iec-2ps-down-term-v-d4c5bf97b9",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-1600-2500a-iec-2ps-down-term-v-d4c5bf97b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-1600-2500a-iec-2ps-down-term-v-d4c5bf97b9.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-1600-2500a-iec-2ps-up-term-v-9a531226ab",
+      "name": "E4.2-E IV F 1600-2500A IEC 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0531",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-1600-2500a-iec-2ps-up-term-v-9a531226ab",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-1600-2500a-iec-2ps-up-term-v-9a531226ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-1600-2500a-iec-2ps-up-term-v-9a531226ab.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-1600-2500a-iec-4ps-down-term-v-f4c13dfda6",
+      "name": "E4.2-E IV F 1600-2500A IEC 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0540",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-down-term-v-f4c13dfda6",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-down-term-v-f4c13dfda6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-down-term-v-f4c13dfda6.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-1600-2500a-iec-4ps-up-term-v-310e88569d",
+      "name": "E4.2-E IV F 1600-2500A IEC 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0539",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-up-term-v-310e88569d",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-up-term-v-310e88569d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-up-term-v-310e88569d.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-3200-4000a-iec-2ps-down-term-v-206bc38474",
+      "name": "E4.2-E IV F 3200-4000A IEC 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0500",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-3200-4000a-iec-2ps-down-term-v-206bc38474",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-3200-4000a-iec-2ps-down-term-v-206bc38474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-3200-4000a-iec-2ps-down-term-v-206bc38474.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-3200-4000a-iec-2ps-up-term-v-7b0d75bfd3",
+      "name": "E4.2-E IV F 3200-4000A IEC 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0499",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-3200-4000a-iec-2ps-up-term-v-7b0d75bfd3",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-3200-4000a-iec-2ps-up-term-v-7b0d75bfd3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-3200-4000a-iec-2ps-up-term-v-7b0d75bfd3.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-3200-4000a-iec-4ps-down-term-v-a609dedb5e",
+      "name": "E4.2-E IV F 3200-4000A IEC 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0508",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-3200-4000a-iec-4ps-down-term-v-a609dedb5e",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-3200-4000a-iec-4ps-down-term-v-a609dedb5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-3200-4000a-iec-4ps-down-term-v-a609dedb5e.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-f-3200-4000a-iec-4ps-up-term-v-439c385b83",
+      "name": "E4.2-E IV F 3200-4000A IEC 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0507",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-f-3200-4000a-iec-4ps-up-term-v-439c385b83",
+      "recordPath": "equipment/abb-e4-2-e-iv-f-3200-4000a-iec-4ps-up-term-v-439c385b83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-f-3200-4000a-iec-4ps-up-term-v-439c385b83.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-1600-2500a-iec-2ps-down-term-v-86c9edaa5a",
+      "name": "E4.2-E IV W 1600-2500A IEC 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0536",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-1600-2500a-iec-2ps-down-term-v-86c9edaa5a",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-1600-2500a-iec-2ps-down-term-v-86c9edaa5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-1600-2500a-iec-2ps-down-term-v-86c9edaa5a.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-1600-2500a-iec-2ps-up-term-v-16e75121a4",
+      "name": "E4.2-E IV W 1600-2500A IEC 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0535",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-1600-2500a-iec-2ps-up-term-v-16e75121a4",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-1600-2500a-iec-2ps-up-term-v-16e75121a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-1600-2500a-iec-2ps-up-term-v-16e75121a4.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-1600-2500a-iec-4ps-down-term-v-55ac14348c",
+      "name": "E4.2-E IV W 1600-2500A IEC 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0544",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-1600-2500a-iec-4ps-down-term-v-55ac14348c",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-1600-2500a-iec-4ps-down-term-v-55ac14348c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-1600-2500a-iec-4ps-down-term-v-55ac14348c.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-1600-2500a-iec-4ps-up-term-v-152e641651",
+      "name": "E4.2-E IV W 1600-2500A IEC 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0543",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-1600-2500a-iec-4ps-up-term-v-152e641651",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-1600-2500a-iec-4ps-up-term-v-152e641651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-1600-2500a-iec-4ps-up-term-v-152e641651.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-3200-4000a-iec-2ps-down-term-v-48c2660da0",
+      "name": "E4.2-E IV W 3200-4000A IEC 2PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0504",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-3200-4000a-iec-2ps-down-term-v-48c2660da0",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-3200-4000a-iec-2ps-down-term-v-48c2660da0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-3200-4000a-iec-2ps-down-term-v-48c2660da0.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-3200-4000a-iec-2ps-up-term-v-05e5389d5d",
+      "name": "E4.2-E IV W 3200-4000A IEC 2PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0503",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-3200-4000a-iec-2ps-up-term-v-05e5389d5d",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-3200-4000a-iec-2ps-up-term-v-05e5389d5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-3200-4000a-iec-2ps-up-term-v-05e5389d5d.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-3200-4000a-iec-4ps-down-term-v-79010d6f75",
+      "name": "E4.2-E IV W 3200-4000A IEC 4PS DOWN TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0512",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-3200-4000a-iec-4ps-down-term-v-79010d6f75",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-3200-4000a-iec-4ps-down-term-v-79010d6f75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-3200-4000a-iec-4ps-down-term-v-79010d6f75.json"
+    },
+    {
+      "id": "abb-e4-2-e-iv-w-3200-4000a-iec-4ps-up-term-v-99f093f01a",
+      "name": "E4.2-E IV W 3200-4000A IEC 4PS UP TERM V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0511",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-iv-w-3200-4000a-iec-4ps-up-term-v-99f093f01a",
+      "recordPath": "equipment/abb-e4-2-e-iv-w-3200-4000a-iec-4ps-up-term-v-99f093f01a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-iv-w-3200-4000a-iec-4ps-up-term-v-99f093f01a.json"
+    },
+    {
+      "id": "abb-e4-2-e-w-iii-protections-and-phase-barriers-6f4ea43487",
+      "name": "E4.2-E W III PROTECTIONS AND PHASE BARRIERS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0404",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-w-iii-protections-and-phase-barriers-6f4ea43487",
+      "recordPath": "equipment/abb-e4-2-e-w-iii-protections-and-phase-barriers-6f4ea43487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-w-iii-protections-and-phase-barriers-6f4ea43487.json"
+    },
+    {
+      "id": "abb-e4-2-e-w-iv-dc-20-1500vdc-8122e3f129",
+      "name": "E4.2-E W IV DC-20 1500VDC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0120; 1SDH001252R0555",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-w-iv-dc-20-1500vdc-8122e3f129",
+      "recordPath": "equipment/abb-e4-2-e-w-iv-dc-20-1500vdc-8122e3f129.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-w-iv-dc-20-1500vdc-8122e3f129.json"
+    },
+    {
+      "id": "abb-e4-2-e-w-iv-protections-and-phase-barriers-f33c7bb176",
+      "name": "E4.2-E W IV PROTECTIONS AND PHASE BARRIERS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0405",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-w-iv-protections-and-phase-barriers-f33c7bb176",
+      "recordPath": "equipment/abb-e4-2-e-w-iv-protections-and-phase-barriers-f33c7bb176.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-w-iv-protections-and-phase-barriers-f33c7bb176.json"
+    },
+    {
+      "id": "abb-e4-2-e-withdrawable-3200-4000-terminals-hr-vr-iec-eff49916a3",
+      "name": "E4.2-E WITHDRAWABLE 3200-4000 TERMINALS HR-VR IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0452",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-withdrawable-3200-4000-terminals-hr-vr-iec-eff49916a3",
+      "recordPath": "equipment/abb-e4-2-e-withdrawable-3200-4000-terminals-hr-vr-iec-eff49916a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-withdrawable-3200-4000-terminals-hr-vr-iec-eff49916a3.json"
+    },
+    {
+      "id": "abb-e4-2-e-withdrawable-3200-4000-terminals-shr-iec-9d5c21945b",
+      "name": "E4.2-E WITHDRAWABLE 3200-4000 TERMINALS SHR IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0455",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-withdrawable-3200-4000-terminals-shr-iec-9d5c21945b",
+      "recordPath": "equipment/abb-e4-2-e-withdrawable-3200-4000-terminals-shr-iec-9d5c21945b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-withdrawable-3200-4000-terminals-shr-iec-9d5c21945b.json"
+    },
+    {
+      "id": "abb-e4-2-e-withdrawable-4000-terminals-lhr-lvr-iec-0dc10f4390",
+      "name": "E4.2-E WITHDRAWABLE 4000 TERMINALS LHR-LVR IEC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001001R0459",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e-withdrawable-4000-terminals-lhr-lvr-iec-0dc10f4390",
+      "recordPath": "equipment/abb-e4-2-e-withdrawable-4000-terminals-lhr-lvr-iec-0dc10f4390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e-withdrawable-4000-terminals-lhr-lvr-iec-0dc10f4390.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-f-term-vr-ul-lower-3200a-8e673437a4",
+      "name": "E4.2/E4.3 F TERM VR UL LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0378",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-f-term-vr-ul-lower-3200a-8e673437a4",
+      "recordPath": "equipment/abb-e4-2-e4-3-f-term-vr-ul-lower-3200a-8e673437a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-f-term-vr-ul-lower-3200a-8e673437a4.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-term-vr-ul-lower-3200a-cfc7cde75f",
+      "name": "E4.2/E4.3 III F TERM VR UL LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0376",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-term-vr-ul-lower-3200a-cfc7cde75f",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-term-vr-ul-lower-3200a-cfc7cde75f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-term-vr-ul-lower-3200a-cfc7cde75f.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-term-vr-ul-upper-3200a-6ac2324795",
+      "name": "E4.2/E4.3 III F TERM VR UL UPPER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0375",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-term-vr-ul-upper-3200a-6ac2324795",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-term-vr-ul-upper-3200a-6ac2324795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-term-vr-ul-upper-3200a-6ac2324795.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-terminals-f-lower-ce084860e4",
+      "name": "E4.2/E4.3 III F TERMINALS F LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0319",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-terminals-f-lower-ce084860e4",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-terminals-f-lower-ce084860e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-terminals-f-lower-ce084860e4.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-terminals-f-upper-8e603119ba",
+      "name": "E4.2/E4.3 III F TERMINALS F UPPER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0320",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-terminals-f-upper-8e603119ba",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-terminals-f-upper-8e603119ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-terminals-f-upper-8e603119ba.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-terminals-hr-lower-2500a-ul-09f513f718",
+      "name": "E4.2/E4.3 III F TERMINALS HR LOWER 2500A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0177",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-terminals-hr-lower-2500a-ul-09f513f718",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-terminals-hr-lower-2500a-ul-09f513f718.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-terminals-hr-lower-2500a-ul-09f513f718.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-terminals-hr-lower-4000a-a2f7a091b6",
+      "name": "E4.2/E4.3 III F TERMINALS HR LOWER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0178",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-terminals-hr-lower-4000a-a2f7a091b6",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-terminals-hr-lower-4000a-a2f7a091b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-terminals-hr-lower-4000a-a2f7a091b6.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-terminals-vr-lower-2500a-ul-6f502984bc",
+      "name": "E4.2/E4.3 III F TERMINALS VR LOWER 2500A - UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001336R0181",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-terminals-vr-lower-2500a-ul-6f502984bc",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-terminals-vr-lower-2500a-ul-6f502984bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-terminals-vr-lower-2500a-ul-6f502984bc.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-f-terminals-vr-lower-4000a-bacbf1c371",
+      "name": "E4.2/E4.3 III F TERMINALS VR LOWER 4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0182",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-f-terminals-vr-lower-4000a-bacbf1c371",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-f-terminals-vr-lower-4000a-bacbf1c371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-f-terminals-vr-lower-4000a-bacbf1c371.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-w-flat-term-3200a-lower-445111823a",
+      "name": "E4.2/E4.3 III W FLAT TERM 3200A LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0444",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-w-flat-term-3200a-lower-445111823a",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-w-flat-term-3200a-lower-445111823a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-w-flat-term-3200a-lower-445111823a.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-w-flat-term-4000a-lower-e6f233a676",
+      "name": "E4.2/E4.3 III W FLAT TERM 4000A LOWER",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0446",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-w-flat-term-4000a-lower-e6f233a676",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-w-flat-term-4000a-lower-e6f233a676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-w-flat-term-4000a-lower-e6f233a676.json"
+    },
+    {
+      "id": "abb-e4-2-e4-3-iii-w-term-vr-ul-lower-3200a-3f000b3049",
+      "name": "E4.2/E4.3 III W TERM VR UL LOWER 3200A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001252R0372",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e4-2-e4-3-iii-w-term-vr-ul-lower-3200a-3f000b3049",
+      "recordPath": "equipment/abb-e4-2-e4-3-iii-w-term-vr-ul-lower-3200a-3f000b3049.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e4-2-e4-3-iii-w-term-vr-ul-lower-3200a-3f000b3049.json"
+    }
+  ]
+}

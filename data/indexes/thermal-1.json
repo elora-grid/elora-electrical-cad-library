@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "category": "thermal",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-enclosurefans",
+      "name": "Enclosure Fans CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-enclosurefans",
+      "recordPath": "equipment/ad-enclosurefans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-enclosurefans.json"
+    },
+    {
+      "id": "ad-stratusheat",
+      "name": "Enclosure Heat Exchangers CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-stratusheat",
+      "recordPath": "equipment/ad-stratusheat.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-stratusheat.json"
+    },
+    {
+      "id": "ad-enclosurethermmgmt",
+      "name": "Enclosure Thermal\n                Management CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-enclosurethermmgmt",
+      "recordPath": "equipment/ad-enclosurethermmgmt.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-enclosurethermmgmt.json"
+    },
+    {
+      "id": "audit-pfan-dtfs",
+      "name": "DTFS 6041 cooling geometry, cut-out and EPLAN data",
+      "manufacturer": "Pfannenberg",
+      "formats": [
+        "STEP",
+        "DXF",
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-pfan-dtfs",
+      "recordPath": "equipment/audit-pfan-dtfs.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-pfan-dtfs.json"
+    },
+    {
+      "id": "ad-stratusac",
+      "name": "Industrial Air Conditioners CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-stratusac",
+      "recordPath": "equipment/ad-stratusac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-stratusac.json"
+    },
+    {
+      "id": "audit-pfan-native",
+      "name": "Pfannenberg native EPLAN, Zuken and WSCAD resources",
+      "manufacturer": "Pfannenberg",
+      "formats": [
+        "EPLAN",
+        "Zuken E3",
+        "WSCAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-pfan-native",
+      "recordPath": "equipment/audit-pfan-native.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-pfan-native.json"
+    },
+    {
+      "id": "audit-climasys-grille",
+      "name": "NSYCAG223LPF grille CAD and mounting source",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-climasys-grille",
+      "recordPath": "equipment/audit-climasys-grille.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-climasys-grille.json"
+    },
+    {
+      "id": "stego-cad",
+      "name": "STEGO enclosure thermal CAD library",
+      "manufacturer": "STEGO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/stego-cad",
+      "recordPath": "equipment/stego-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/stego-cad.json"
+    },
+    {
+      "id": "drawing-30487-6021-6031-a6d0a0150eb7",
+      "name": "Pfannenberg DTFS 6021 / 6031 STEP geometry",
+      "manufacturer": "Pfannenberg",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-30487-6021-6031-a6d0a0150eb7",
+      "recordPath": "equipment/drawing-30487-6021-6031-a6d0a0150eb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-30487-6021-6031-a6d0a0150eb7.json"
+    },
+    {
+      "id": "drawing-30487-6041-7b6e21b39618",
+      "name": "Pfannenberg DTFS 6041 STEP geometry",
+      "manufacturer": "Pfannenberg",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-30487-6041-7b6e21b39618",
+      "recordPath": "equipment/drawing-30487-6041-7b6e21b39618.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-30487-6041-7b6e21b39618.json"
+    }
+  ]
+}

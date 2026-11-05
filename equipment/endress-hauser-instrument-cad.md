@@ -32,7 +32,7 @@ Identify the product and complete configured order code. Use the official produc
 
 This manufacturer resource helps you find drawings or select versions of process instrumentation, pressure transmitters, level instruments. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected process instrumentation drawing before reserving its space, mounting points and cable routes in the layout.
+A vessel layout can need the selected level instrument’s process connection and housing orientation, while the electrical drawing needs its actual terminal and signal documents.
 
 Identify the product and complete configured order code. Use the official product/configuration download route to obtain the views and formats available for that selection. Keep process connections, housing and electrical interfaces in the request so the returned drawing represents the intended instrument.
 

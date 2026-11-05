@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "category": "solar",
+  "page": 1,
+  "entries": [
+    {
+      "id": "victron-energy-multi-rs-solar",
+      "name": "Multi RS Solar",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-multi-rs-solar",
+      "recordPath": "equipment/victron-energy-multi-rs-solar.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-multi-rs-solar.json"
+    },
+    {
+      "id": "victron-energy-smartsolar-mppt-rs",
+      "name": "SmartSolar MPPT RS",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-smartsolar-mppt-rs",
+      "recordPath": "equipment/victron-energy-smartsolar-mppt-rs.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-smartsolar-mppt-rs.json"
+    },
+    {
+      "id": "fronius-fronius-inverter-engineering-geometry-request",
+      "name": "Fronius inverter engineering geometry request",
+      "manufacturer": "Fronius",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/fronius-fronius-inverter-engineering-geometry-request",
+      "recordPath": "equipment/fronius-fronius-inverter-engineering-geometry-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/fronius-fronius-inverter-engineering-geometry-request.json"
+    },
+    {
+      "id": "sma-solar-inverter-and-battery-inverter-official-documents",
+      "name": "Solar inverter and battery-inverter official documents",
+      "manufacturer": "SMA",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/sma-solar-inverter-and-battery-inverter-official-documents",
+      "recordPath": "equipment/sma-solar-inverter-and-battery-inverter-official-documents.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/sma-solar-inverter-and-battery-inverter-official-documents.json"
+    },
+    {
+      "id": "open-hardware-mppt-2420-hc",
+      "name": "MPPT 2420 HC solar controller hardware",
+      "manufacturer": "Libre Solar",
+      "formats": [
+        "SCH",
+        "KICAD_PCB"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-2420-hc",
+      "recordPath": "equipment/open-hardware-mppt-2420-hc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-2420-hc.json"
+    },
+    {
+      "id": "open-hardware-mppt-1210-hus",
+      "name": "MPPT 1210 HUS solar controller hardware",
+      "manufacturer": "Libre Solar",
+      "formats": [
+        "SCH",
+        "KICAD_PCB"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-1210-hus",
+      "recordPath": "equipment/open-hardware-mppt-1210-hus.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-1210-hus.json"
+    },
+    {
+      "id": "open-hardware-mppt-2420-lc",
+      "name": "MPPT 2420 LC solar controller hardware",
+      "manufacturer": "Libre Solar",
+      "formats": [
+        "KICAD_PCB",
+        "SCH"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-mppt-2420-lc",
+      "recordPath": "equipment/open-hardware-mppt-2420-lc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-mppt-2420-lc.json"
+    },
+    {
+      "id": "deif-asc-150-solar-4b9285dda1",
+      "name": "ASC 150 Solar",
+      "manufacturer": "DEIF",
+      "drawingNumber": "agc-150-2d-cad-drawing.dwg; agc-150-2d-pdf.pdf; agc-150-3d-step-file.zip",
+      "formats": [
+        "DWG",
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-asc-150-solar-4b9285dda1",
+      "recordPath": "equipment/deif-asc-150-solar-4b9285dda1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-asc-150-solar-4b9285dda1.json"
+    },
+    {
+      "id": "deif-asc-4-solar-7ad31a01d7",
+      "name": "ASC-4 Solar",
+      "manufacturer": "DEIF",
+      "drawingNumber": "asc-installation-instructions-4189341076-es.pdf; ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-asc-4-solar-7ad31a01d7",
+      "recordPath": "equipment/deif-asc-4-solar-7ad31a01d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-asc-4-solar-7ad31a01d7.json"
+    },
+    {
+      "id": "abb-pcms3020trnufr-outline-semi-flush-solar-ready-024d020b10",
+      "name": "PCMS3020TRNUFR Outline Semi Flush Solar Ready",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1833E0137",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcms3020trnufr-outline-semi-flush-solar-ready-024d020b10",
+      "recordPath": "equipment/abb-pcms3020trnufr-outline-semi-flush-solar-ready-024d020b10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcms3020trnufr-outline-semi-flush-solar-ready-024d020b10.json"
+    },
+    {
+      "id": "abb-pcms3020trnusr-outline-surface-solar-ready-036a5f4d7b",
+      "name": "PCMS3020TRNUSR Outline Surface Solar Ready",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1833E0138",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcms3020trnusr-outline-surface-solar-ready-036a5f4d7b",
+      "recordPath": "equipment/abb-pcms3020trnusr-outline-surface-solar-ready-036a5f4d7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcms3020trnusr-outline-surface-solar-ready-036a5f4d7b.json"
+    },
+    {
+      "id": "abb-pcms4020trnufr-outline-semi-flush-solar-ready-450badc3b1",
+      "name": "PCMS4020TRNUFR Outline Semi-Flush Solar Ready",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1833E0135",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcms4020trnufr-outline-semi-flush-solar-ready-450badc3b1",
+      "recordPath": "equipment/abb-pcms4020trnufr-outline-semi-flush-solar-ready-450badc3b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcms4020trnufr-outline-semi-flush-solar-ready-450badc3b1.json"
+    },
+    {
+      "id": "abb-pcms4020trnusr-outline-surface-solar-ready-b93fb5fea8",
+      "name": "PCMS4020TRNUSR Outline Surface Solar Ready",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1833E0136",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-pcms4020trnusr-outline-surface-solar-ready-b93fb5fea8",
+      "recordPath": "equipment/abb-pcms4020trnusr-outline-surface-solar-ready-b93fb5fea8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-pcms4020trnusr-outline-surface-solar-ready-b93fb5fea8.json"
+    },
+    {
+      "id": "abb-transporting-solar-impulse-2-from-switzerland-to-abu-dhabi-4ab4e4cf77",
+      "name": "Transporting Solar Impulse 2 from Switzerland to Abu Dhabi",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106354A1256",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-transporting-solar-impulse-2-from-switzerland-to-abu-dhabi-4ab4e4cf77",
+      "recordPath": "equipment/abb-transporting-solar-impulse-2-from-switzerland-to-abu-dhabi-4ab4e4cf77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-transporting-solar-impulse-2-from-switzerland-to-abu-dhabi-4ab4e4cf77.json"
+    },
+    {
+      "id": "abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b",
+      "name": "User drawing - 2101640 - MicroFLO to Charger Connector on Solar Panel",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2101640",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b",
+      "recordPath": "equipment/abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b.json"
+    }
+  ]
+}

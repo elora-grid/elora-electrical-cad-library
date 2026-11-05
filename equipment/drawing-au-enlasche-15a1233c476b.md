@@ -32,7 +32,7 @@ Open Außenlasche.stp inside the original collection. Use it as accessory geomet
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+A designer can place the tab in a cabinet-support arrangement to check its relationship with the selected enclosure and supporting structure.
 
 Open Außenlasche.stp inside the original collection. Use it as accessory geometry and obtain Hensel’s compatibility and installation information for the intended enclosure. A fit in a 3D layout does not establish a fixing load or permitted installation method.
 

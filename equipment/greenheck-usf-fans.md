@@ -24,7 +24,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Part number: USF
 - Listed file formats: DWG, RFA, ZIP
 - Listed files: 3
-- Available previews: 13 drawing previews
+- Available previews: 12 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
@@ -49,7 +49,7 @@ Available here: ZIP, DWG. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![Greenheck USF fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-usf-fans/greenheck-usf-lod200-allfiles-zip?asset=9636142d46489cfda822cf336755cbf257cd56561185a6fd963f8eb52cef958d)
+![Greenheck USF fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-usf-fans/greenheck-usf-04-1-b2-arr10-3-dwg?asset=e03d147d3b15e4d30deb22e72c1495085662f8179d25cd06f795ea92a312cc9e)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-usf-fans). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

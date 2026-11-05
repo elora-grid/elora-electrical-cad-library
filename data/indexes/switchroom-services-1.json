@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "category": "switchroom-services",
+  "page": 1,
+  "entries": [
+    {
+      "id": "audit-power-clevertronics-glider-and-glider-sm-exit-light-revit-models",
+      "name": "Glider and Glider-SM exit-light Revit models",
+      "manufacturer": "Clevertronics",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-clevertronics-glider-and-glider-sm-exit-light-revit-models",
+      "recordPath": "equipment/audit-power-clevertronics-glider-and-glider-sm-exit-light-revit-models.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-clevertronics-glider-and-glider-sm-exit-light-revit-models.json"
+    },
+    {
+      "id": "audit-power-fantech-australian-ventilation-revit-model-library",
+      "name": "Australian ventilation Revit model library",
+      "manufacturer": "Fantech",
+      "formats": [
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-fantech-australian-ventilation-revit-model-library",
+      "recordPath": "equipment/audit-power-fantech-australian-ventilation-revit-model-library.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-fantech-australian-ventilation-revit-model-library.json"
+    },
+    {
+      "id": "greenheck-afl-501-louvers",
+      "name": "AFL-501 louvers",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-afl-501-louvers",
+      "recordPath": "equipment/greenheck-afl-501-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-afl-501-louvers.json"
+    },
+    {
+      "id": "greenheck-aph-fans",
+      "name": "APH fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-aph-fans",
+      "recordPath": "equipment/greenheck-aph-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-aph-fans.json"
+    },
+    {
+      "id": "greenheck-esd-435-louvers",
+      "name": "ESD-435 louvers",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-435-louvers",
+      "recordPath": "equipment/greenheck-esd-435-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-435-louvers.json"
+    },
+    {
+      "id": "greenheck-esd-635-louvers",
+      "name": "ESD-635 louvers",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-635-louvers",
+      "recordPath": "equipment/greenheck-esd-635-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-635-louvers.json"
+    },
+    {
+      "id": "greenheck-fd-150-dampers",
+      "name": "FD-150 dampers",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-fd-150-dampers",
+      "recordPath": "equipment/greenheck-fd-150-dampers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-fd-150-dampers.json"
+    },
+    {
+      "id": "greenheck-fsd-211-dampers",
+      "name": "FSD-211 dampers",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-fsd-211-dampers",
+      "recordPath": "equipment/greenheck-fsd-211-dampers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-fsd-211-dampers.json"
+    },
+    {
+      "id": "greenheck-fsd-311-dampers",
+      "name": "FSD-311 dampers",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-fsd-311-dampers",
+      "recordPath": "equipment/greenheck-fsd-311-dampers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-fsd-311-dampers.json"
+    },
+    {
+      "id": "greenheck-ip-fans",
+      "name": "IP fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-ip-fans",
+      "recordPath": "equipment/greenheck-ip-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-ip-fans.json"
+    },
+    {
+      "id": "greenheck-qei-fans",
+      "name": "QEI fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-qei-fans",
+      "recordPath": "equipment/greenheck-qei-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-qei-fans.json"
+    },
+    {
+      "id": "greenheck-qeid-fans",
+      "name": "QEID fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-qeid-fans",
+      "recordPath": "equipment/greenheck-qeid-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-qeid-fans.json"
+    },
+    {
+      "id": "greenheck-sbe-fans",
+      "name": "SBE fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-sbe-fans",
+      "recordPath": "equipment/greenheck-sbe-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-sbe-fans.json"
+    },
+    {
+      "id": "greenheck-sbs-fans",
+      "name": "SBS fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-sbs-fans",
+      "recordPath": "equipment/greenheck-sbs-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-sbs-fans.json"
+    },
+    {
+      "id": "greenheck-se-fans",
+      "name": "SE fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-se-fans",
+      "recordPath": "equipment/greenheck-se-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-se-fans.json"
+    },
+    {
+      "id": "greenheck-tbi-fs-fans",
+      "name": "TBI-FS fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-tbi-fs-fans",
+      "recordPath": "equipment/greenheck-tbi-fs-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-tbi-fs-fans.json"
+    },
+    {
+      "id": "greenheck-usf-fans",
+      "name": "USF fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-usf-fans",
+      "recordPath": "equipment/greenheck-usf-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-usf-fans.json"
+    },
+    {
+      "id": "greenheck-vab-fans",
+      "name": "VAB fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-vab-fans",
+      "recordPath": "equipment/greenheck-vab-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-vab-fans.json"
+    },
+    {
+      "id": "greenheck-vad-fans",
+      "name": "VAD fans",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-vad-fans",
+      "recordPath": "equipment/greenheck-vad-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-vad-fans.json"
+    },
+    {
+      "id": "eaton-power-center",
+      "name": "Switchgear power centre project drawings",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "DGN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-power-center",
+      "recordPath": "equipment/eaton-power-center.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-power-center.json"
+    },
+    {
+      "id": "greenheck-ventilation-configured-models-and-specialty-drawing-requests",
+      "name": "Ventilation configured models and specialty drawing requests",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DGN",
+        "DWG",
+        "RFA",
+        "SAT",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-ventilation-configured-models-and-specialty-drawing-requests",
+      "recordPath": "equipment/greenheck-ventilation-configured-models-and-specialty-drawing-requests.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-ventilation-configured-models-and-specialty-drawing-requests.json"
+    },
+    {
+      "id": "honeywell-notifier-notifier-fire-system-bim-cad-portal",
+      "name": "NOTIFIER fire-system BIM/CAD portal",
+      "manufacturer": "Honeywell NOTIFIER",
+      "formats": [
+        "BIM",
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/honeywell-notifier-notifier-fire-system-bim-cad-portal",
+      "recordPath": "equipment/honeywell-notifier-notifier-fire-system-bim-cad-portal.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/honeywell-notifier-notifier-fire-system-bim-cad-portal.json"
+    },
+    {
+      "id": "legrand-australia-emergency-lighting-bim-library-australia",
+      "name": "Emergency lighting BIM library Australia",
+      "manufacturer": "Legrand Australia",
+      "formats": [
+        "AutoCAD",
+        "RFA",
+        "RVT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/legrand-australia-emergency-lighting-bim-library-australia",
+      "recordPath": "equipment/legrand-australia-emergency-lighting-bim-library-australia.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/legrand-australia-emergency-lighting-bim-library-australia.json"
+    },
+    {
+      "id": "audit-power-lithonia-lighting-acuity-brands-elm2l-emergency-unit-usa-bim-source",
+      "name": "ELM2L emergency-unit USA BIM source",
+      "manufacturer": "Lithonia Lighting / Acuity Brands",
+      "formats": [
+        "Revit BIM"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-lithonia-lighting-acuity-brands-elm2l-emergency-unit-usa-bim-source",
+      "recordPath": "equipment/audit-power-lithonia-lighting-acuity-brands-elm2l-emergency-unit-usa-bim-source.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-lithonia-lighting-acuity-brands-elm2l-emergency-unit-usa-bim-source.json"
+    },
+    {
+      "id": "audit-pfan-signalling",
+      "name": "Pfannenberg signalling Multi-CAD and BIM sources",
+      "manufacturer": "Pfannenberg",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-pfan-signalling",
+      "recordPath": "equipment/audit-pfan-signalling.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-pfan-signalling.json"
+    },
+    {
+      "id": "audit-power-xtralis-vesda-vesda-e-detector-cad-and-imperial-metric-revit-families",
+      "name": "VESDA/VESDA-E detector CAD and imperial/metric Revit families",
+      "manufacturer": "Xtralis",
+      "formats": [
+        "Revit",
+        "DXF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-xtralis-vesda-vesda-e-detector-cad-and-imperial-metric-revit-families",
+      "recordPath": "equipment/audit-power-xtralis-vesda-vesda-e-detector-cad-and-imperial-metric-revit-families.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-xtralis-vesda-vesda-e-detector-cad-and-imperial-metric-revit-families.json"
+    },
+    {
+      "id": "europe-lovato-ffl700dp",
+      "name": "FFL700DP diesel fire-pump controller",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-ffl700dp",
+      "recordPath": "equipment/europe-lovato-ffl700dp.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-lovato-ffl700dp.json"
+    },
+    {
+      "id": "greenheck-cue-fans",
+      "name": "CUE direct-drive upblast exhaust fan",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-cue-fans",
+      "recordPath": "equipment/greenheck-cue-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-cue-fans.json"
+    },
+    {
+      "id": "greenheck-qei-upblast-fans",
+      "name": "QEI-UPBLAST belt-drive mixed-flow fan",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-qei-upblast-fans",
+      "recordPath": "equipment/greenheck-qei-upblast-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-qei-upblast-fans.json"
+    },
+    {
+      "id": "greenheck-qeid-upblast-fans",
+      "name": "QEID-UPBLAST direct-drive mixed-flow fan",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-qeid-upblast-fans",
+      "recordPath": "equipment/greenheck-qeid-upblast-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-qeid-upblast-fans.json"
+    },
+    {
+      "id": "greenheck-sq-fans",
+      "name": "SQ inline fan",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-sq-fans",
+      "recordPath": "equipment/greenheck-sq-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-sq-fans.json"
+    },
+    {
+      "id": "greenheck-sq-mixed-flow-fans",
+      "name": "SQ Mixed Flow inline fan",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-sq-mixed-flow-fans",
+      "recordPath": "equipment/greenheck-sq-mixed-flow-fans.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-sq-mixed-flow-fans.json"
+    },
+    {
+      "id": "greenheck-esd-202-louvers",
+      "name": "ESD-202 stationary drainable louvre",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-202-louvers",
+      "recordPath": "equipment/greenheck-esd-202-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-202-louvers.json"
+    },
+    {
+      "id": "greenheck-esd-403-louvers",
+      "name": "ESD-403 stationary drainable louvre",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-403-louvers",
+      "recordPath": "equipment/greenheck-esd-403-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-403-louvers.json"
+    },
+    {
+      "id": "greenheck-esd-603-louvers",
+      "name": "ESD-603 stationary drainable louvre",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-esd-603-louvers",
+      "recordPath": "equipment/greenheck-esd-603-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-esd-603-louvers.json"
+    },
+    {
+      "id": "greenheck-ehh-401-louvers",
+      "name": "EHH-401 wind-driven-rain louvre",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-ehh-401-louvers",
+      "recordPath": "equipment/greenheck-ehh-401-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-ehh-401-louvers.json"
+    },
+    {
+      "id": "greenheck-ehh-501-louvers",
+      "name": "EHH-501 wind-driven-rain louvre",
+      "manufacturer": "Greenheck",
+      "formats": [
+        "DWG",
+        "RFA",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/greenheck-ehh-501-louvers",
+      "recordPath": "equipment/greenheck-ehh-501-louvers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/greenheck-ehh-501-louvers.json"
+    },
+    {
+      "id": "signify-lighting-bim-data",
+      "name": "Signify luminaire Revit and photometric-file guide",
+      "manufacturer": "Signify",
+      "formats": [
+        "Revit",
+        "IES",
+        "LDT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/signify-lighting-bim-data",
+      "recordPath": "equipment/signify-lighting-bim-data.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/signify-lighting-bim-data.json"
+    }
+  ]
+}

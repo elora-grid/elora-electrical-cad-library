@@ -1,0 +1,2765 @@
+{
+  "schemaVersion": 1,
+  "category": "automation",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-22mm_enc_legend",
+      "name": "22mm Enclosures and\n                Legend Plates CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-22mm_enc_legend",
+      "recordPath": "equipment/ad-22mm_enc_legend.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-22mm_enc_legend.json"
+    },
+    {
+      "id": "ad-22mm_metal_pilot",
+      "name": "22mm Metal CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-22mm_metal_pilot",
+      "recordPath": "equipment/ad-22mm_metal_pilot.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-22mm_metal_pilot.json"
+    },
+    {
+      "id": "ad-22mm_nonmetal_pilot",
+      "name": "22mm Non-metal CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-22mm_nonmetal_pilot",
+      "recordPath": "equipment/ad-22mm_nonmetal_pilot.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-22mm_nonmetal_pilot.json"
+    },
+    {
+      "id": "ad-brx",
+      "name": "BRX Series PLC CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-brx",
+      "recordPath": "equipment/ad-brx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-brx.json"
+    },
+    {
+      "id": "ad-cmore_acc",
+      "name": "C-more Accessories CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-cmore_acc",
+      "recordPath": "equipment/ad-cmore_acc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-cmore_acc.json"
+    },
+    {
+      "id": "ad-cmore_micro",
+      "name": "C-more Micro Graphic Panels CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-cmore_micro",
+      "recordPath": "equipment/ad-cmore_micro.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-cmore_micro.json"
+    },
+    {
+      "id": "ad-cmore",
+      "name": "C-more Panels CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-cmore",
+      "recordPath": "equipment/ad-cmore.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-cmore.json"
+    },
+    {
+      "id": "ad-click",
+      "name": "CLICK PLCs CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-click",
+      "recordPath": "equipment/ad-click.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-click.json"
+    },
+    {
+      "id": "ad-dpcontactors",
+      "name": "Definite Purpose Contactors CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-dpcontactors",
+      "recordPath": "equipment/ad-dpcontactors.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-dpcontactors.json"
+    },
+    {
+      "id": "ad-estopstation",
+      "name": "EStop Station Pushbuttons CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-estopstation",
+      "recordPath": "equipment/ad-estopstation.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-estopstation.json"
+    },
+    {
+      "id": "ad-gs_durapulse",
+      "name": "GS and DURApulse Series AC Drives CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-gs_durapulse",
+      "recordPath": "equipment/ad-gs_durapulse.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-gs_durapulse.json"
+    },
+    {
+      "id": "ad-p1000",
+      "name": "Productivity1000 PAC CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-p1000",
+      "recordPath": "equipment/ad-p1000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-p1000.json"
+    },
+    {
+      "id": "ad-p2000",
+      "name": "Productivity2000 PAC CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-p2000",
+      "recordPath": "equipment/ad-p2000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-p2000.json"
+    },
+    {
+      "id": "ad-p3000pac",
+      "name": "Productivity3000 PAC CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-p3000pac",
+      "recordPath": "equipment/ad-p3000pac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-p3000pac.json"
+    },
+    {
+      "id": "ad-pxio",
+      "name": "Protos X Field I/O CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-pxio",
+      "recordPath": "equipment/ad-pxio.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-pxio.json"
+    },
+    {
+      "id": "ad-softstarters",
+      "name": "Soft Starters CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-softstarters",
+      "recordPath": "equipment/ad-softstarters.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-softstarters.json"
+    },
+    {
+      "id": "ad-tio",
+      "name": "Terminator Field I/O CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-tio",
+      "recordPath": "equipment/ad-tio.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-tio.json"
+    },
+    {
+      "id": "ad-timers",
+      "name": "Timers and Sockets CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-timers",
+      "recordPath": "equipment/ad-timers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-timers.json"
+    },
+    {
+      "id": "ad-trappedkey",
+      "name": "Trapped Keys CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-trappedkey",
+      "recordPath": "equipment/ad-trappedkey.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-trappedkey.json"
+    },
+    {
+      "id": "deif-ie-250-controllers-and-ie-local-display",
+      "name": "iE 250 controllers and iE local display",
+      "manufacturer": "DEIF",
+      "formats": [
+        "DWG",
+        "EPLAN EDZ",
+        "STEP",
+        "ZIP",
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-ie-250-controllers-and-ie-local-display",
+      "recordPath": "equipment/deif-ie-250-controllers-and-ie-local-display.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-ie-250-controllers-and-ie-local-display.json"
+    },
+    {
+      "id": "fuji-combination-starters",
+      "name": "Combination Starters CAD collection",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/fuji-combination-starters",
+      "recordPath": "equipment/fuji-combination-starters.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/fuji-combination-starters.json"
+    },
+    {
+      "id": "fuji-contactors---thermal-overload-relays",
+      "name": "Contactors & Thermal Overload Relays CAD collection",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/fuji-contactors---thermal-overload-relays",
+      "recordPath": "equipment/fuji-contactors---thermal-overload-relays.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/fuji-contactors---thermal-overload-relays.json"
+    },
+    {
+      "id": "fuji-manual-motor-sarters",
+      "name": "Manual Motor Sarters CAD collection",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/fuji-manual-motor-sarters",
+      "recordPath": "equipment/fuji-manual-motor-sarters.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/fuji-manual-motor-sarters.json"
+    },
+    {
+      "id": "fuji-orange-line---odyssey-series",
+      "name": "Orange Line / Odyssey Series CAD collection",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/fuji-orange-line---odyssey-series",
+      "recordPath": "equipment/fuji-orange-line---odyssey-series.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/fuji-orange-line---odyssey-series.json"
+    },
+    {
+      "id": "fuji-sc-next-series",
+      "name": "SC-NEXT Series CAD collection",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/fuji-sc-next-series",
+      "recordPath": "equipment/fuji-sc-next-series.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/fuji-sc-next-series.json"
+    },
+    {
+      "id": "abb-drives",
+      "name": "ABB low-voltage AC/DC drives CAD catalogue",
+      "manufacturer": "ABB",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drives",
+      "recordPath": "equipment/abb-drives.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drives.json"
+    },
+    {
+      "id": "ad-30mm_nema",
+      "name": "30mm NEMA CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-30mm_nema",
+      "recordPath": "equipment/ad-30mm_nema.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-30mm_nema.json"
+    },
+    {
+      "id": "ad-motorcontrols_contactors",
+      "name": "Motor Controls and Contactors CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-motorcontrols_contactors",
+      "recordPath": "equipment/ad-motorcontrols_contactors.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-motorcontrols_contactors.json"
+    },
+    {
+      "id": "ad-relays",
+      "name": "Relays and Relay Sockets CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-relays",
+      "recordPath": "equipment/ad-relays.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-relays.json"
+    },
+    {
+      "id": "ad-safetycomponents",
+      "name": "Safety Components CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-safetycomponents",
+      "recordPath": "equipment/ad-safetycomponents.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-safetycomponents.json"
+    },
+    {
+      "id": "ad-signalconditioners",
+      "name": "Signal Conditioners CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-signalconditioners",
+      "recordPath": "equipment/ad-signalconditioners.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-signalconditioners.json"
+    },
+    {
+      "id": "ad-ziplinks",
+      "name": "ZIPLinks CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-ziplinks",
+      "recordPath": "equipment/ad-ziplinks.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-ziplinks.json"
+    },
+    {
+      "id": "audit-carlo-rsgd",
+      "name": "RSGD soft-starter CAD drawing routes",
+      "manufacturer": "Carlo Gavazzi",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-carlo-rsgd",
+      "recordPath": "equipment/audit-carlo-rsgd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-carlo-rsgd.json"
+    },
+    {
+      "id": "comap-comap-design-studio",
+      "name": "ComAp Design Studio",
+      "manufacturer": "ComAp",
+      "formats": [
+        "2D drawings",
+        "3D drawings"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/comap-comap-design-studio",
+      "recordPath": "equipment/comap-comap-design-studio.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/comap-comap-design-studio.json"
+    },
+    {
+      "id": "comap-inteligen-1000-cad-and-eplan",
+      "name": "InteliGen 1000 CAD and EPLAN",
+      "manufacturer": "ComAp",
+      "formats": [
+        "CAD package",
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/comap-inteligen-1000-cad-and-eplan",
+      "recordPath": "equipment/comap-inteligen-1000-cad-and-eplan.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/comap-inteligen-1000-cad-and-eplan.json"
+    },
+    {
+      "id": "invertek-eco",
+      "name": "Optidrive Eco frame-size CAD packages",
+      "manufacturer": "Invertek Drives",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/invertek-eco",
+      "recordPath": "equipment/invertek-eco.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/invertek-eco.json"
+    },
+    {
+      "id": "lovato-library",
+      "name": "LOVATO Electric CAD drawing and scheme library",
+      "manufacturer": "LOVATO Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-library",
+      "recordPath": "equipment/lovato-library.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-library.json"
+    },
+    {
+      "id": "mitsubishi-fa",
+      "name": "Mitsubishi Electric factory automation CAD search",
+      "manufacturer": "Mitsubishi Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mitsubishi-fa",
+      "recordPath": "equipment/mitsubishi-fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mitsubishi-fa.json"
+    },
+    {
+      "id": "audit-pepperl-fuchs",
+      "name": "Pepperl+Fuchs supplier CAD catalogue",
+      "manufacturer": "Pepperl+Fuchs",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-pepperl-fuchs",
+      "recordPath": "equipment/audit-pepperl-fuchs.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-pepperl-fuchs.json"
+    },
+    {
+      "id": "rehlko-remote-serial-annunciators-bim",
+      "name": "Remote serial annunciators BIM",
+      "manufacturer": "Rehlko",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/rehlko-remote-serial-annunciators-bim",
+      "recordPath": "equipment/rehlko-remote-serial-annunciators-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/rehlko-remote-serial-annunciators-bim.json"
+    },
+    {
+      "id": "rockwell-drawings",
+      "name": "Allen-Bradley product drawings configurator",
+      "manufacturer": "Rockwell Automation",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/rockwell-drawings",
+      "recordPath": "equipment/rockwell-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/rockwell-drawings.json"
+    },
+    {
+      "id": "audit-schmersal-psc1",
+      "name": "PROTECT PSC1 safety-controller CAD and EPLAN sources",
+      "manufacturer": "Schmersal",
+      "formats": [
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-schmersal-psc1",
+      "recordPath": "equipment/audit-schmersal-psc1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-schmersal-psc1.json"
+    },
+    {
+      "id": "schneider-controls",
+      "name": "Automation and control CAD library",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schneider-controls",
+      "recordPath": "equipment/schneider-controls.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schneider-controls.json"
+    },
+    {
+      "id": "audit-tesys-contactor",
+      "name": "LC1D38F7 TeSys contactor 3D CAD source",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-tesys-contactor",
+      "recordPath": "equipment/audit-tesys-contactor.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-tesys-contactor.json"
+    },
+    {
+      "id": "siemens-cax",
+      "name": "Siemens CAx download manager",
+      "manufacturer": "Siemens",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/siemens-cax",
+      "recordPath": "equipment/siemens-cax.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/siemens-cax.json"
+    },
+    {
+      "id": "yaskawa-drives",
+      "name": "Yaskawa drive drawing search",
+      "manufacturer": "Yaskawa",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/yaskawa-drives",
+      "recordPath": "equipment/yaskawa-drives.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/yaskawa-drives.json"
+    },
+    {
+      "id": "europe-lovato-adxl0060600",
+      "name": "ADXL0060600 60 A soft starter",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-adxl0060600",
+      "recordPath": "equipment/europe-lovato-adxl0060600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-lovato-adxl0060600.json"
+    },
+    {
+      "id": "europe-lovato-hr6xs41s",
+      "name": "HR6XS41S 4-changeover relay socket",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-hr6xs41s",
+      "recordPath": "equipment/europe-lovato-hr6xs41s.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-lovato-hr6xs41s.json"
+    },
+    {
+      "id": "uk-dse-dseg8660",
+      "name": "DSEG8660 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dseg8660",
+      "recordPath": "equipment/uk-dse-dseg8660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dseg8660.json"
+    },
+    {
+      "id": "uk-dse-dseg8900",
+      "name": "DSEG8900 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dseg8900",
+      "recordPath": "equipment/uk-dse-dseg8900.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dseg8900.json"
+    },
+    {
+      "id": "uk-dse-dse4520-mkii",
+      "name": "DSE4520 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse4520-mkii",
+      "recordPath": "equipment/uk-dse-dse4520-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse4520-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse6020mkii",
+      "name": "DSE6020MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse6020mkii",
+      "recordPath": "equipment/uk-dse-dse6020mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse6020mkii.json"
+    },
+    {
+      "id": "uk-dse-dse6120-mkiii",
+      "name": "DSE6120 MKIII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse6120-mkiii",
+      "recordPath": "equipment/uk-dse-dse6120-mkiii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse6120-mkiii.json"
+    },
+    {
+      "id": "uk-dse-dse7320-mkii",
+      "name": "DSE7320 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse7320-mkii",
+      "recordPath": "equipment/uk-dse-dse7320-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse7320-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse7420-mkii",
+      "name": "DSE7420 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse7420-mkii",
+      "recordPath": "equipment/uk-dse-dse7420-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse7420-mkii.json"
+    },
+    {
+      "id": "uk-dse-dsea106-mkii",
+      "name": "DSEA106 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dsea106-mkii",
+      "recordPath": "equipment/uk-dse-dsea106-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dsea106-mkii.json"
+    },
+    {
+      "id": "uk-dse-dsea109",
+      "name": "DSEA109 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dsea109",
+      "recordPath": "equipment/uk-dse-dsea109.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dsea109.json"
+    },
+    {
+      "id": "uk-dse-dse2131",
+      "name": "DSE2131 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2131",
+      "recordPath": "equipment/uk-dse-dse2131.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2131.json"
+    },
+    {
+      "id": "uk-dse-dse2133",
+      "name": "DSE2133 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2133",
+      "recordPath": "equipment/uk-dse-dse2133.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2133.json"
+    },
+    {
+      "id": "uk-dse-dse2152",
+      "name": "DSE2152 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2152",
+      "recordPath": "equipment/uk-dse-dse2152.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2152.json"
+    },
+    {
+      "id": "uk-dse-dse2157",
+      "name": "DSE2157 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2157",
+      "recordPath": "equipment/uk-dse-dse2157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2157.json"
+    },
+    {
+      "id": "uk-dse-dse2160",
+      "name": "DSE2160 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2160",
+      "recordPath": "equipment/uk-dse-dse2160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2160.json"
+    },
+    {
+      "id": "uk-dse-dse2170",
+      "name": "DSE2170 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2170",
+      "recordPath": "equipment/uk-dse-dse2170.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2170.json"
+    },
+    {
+      "id": "uk-dse-dse2548",
+      "name": "DSE2548 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse2548",
+      "recordPath": "equipment/uk-dse-dse2548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse2548.json"
+    },
+    {
+      "id": "uk-dse-dseg0123",
+      "name": "DSEG0123 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dseg0123",
+      "recordPath": "equipment/uk-dse-dseg0123.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dseg0123.json"
+    },
+    {
+      "id": "uk-dse-dsel401-mkii",
+      "name": "DSEL401 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dsel401-mkii",
+      "recordPath": "equipment/uk-dse-dsel401-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dsel401-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse8610-mkii",
+      "name": "DSE8610 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse8610-mkii",
+      "recordPath": "equipment/uk-dse-dse8610-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse8610-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse8620-mkii",
+      "name": "DSE8620 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse8620-mkii",
+      "recordPath": "equipment/uk-dse-dse8620-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse8620-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse8660-mkii",
+      "name": "DSE8660 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse8660-mkii",
+      "recordPath": "equipment/uk-dse-dse8660-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse8660-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse8680",
+      "name": "DSE8680 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse8680",
+      "recordPath": "equipment/uk-dse-dse8680.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse8680.json"
+    },
+    {
+      "id": "uk-dse-dse3110",
+      "name": "DSE3110 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse3110",
+      "recordPath": "equipment/uk-dse-dse3110.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse3110.json"
+    },
+    {
+      "id": "uk-dse-dse6110-mkiii",
+      "name": "DSE6110 MKIII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse6110-mkiii",
+      "recordPath": "equipment/uk-dse-dse6110-mkiii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse6110-mkiii.json"
+    },
+    {
+      "id": "uk-dse-dse7310-mkii",
+      "name": "DSE7310 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse7310-mkii",
+      "recordPath": "equipment/uk-dse-dse7310-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse7310-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse7410-mkii",
+      "name": "DSE7410 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse7410-mkii",
+      "recordPath": "equipment/uk-dse-dse7410-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse7410-mkii.json"
+    },
+    {
+      "id": "abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-with-ca5-4-pole-auxiliary-co-26001044",
+      "name": "(T)AL/AL9 to (T)AL/AL16 contactors, (T)NL..E contactor relays with CA5 4-pole auxiliary contact block",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307873.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-with-ca5-4-pole-auxiliary-co-26001044",
+      "recordPath": "equipment/abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-with-ca5-4-pole-auxiliary-co-26001044.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-with-ca5-4-pole-auxiliary-co-26001044.json"
+    },
+    {
+      "id": "abb-1-pole-ca4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-15b8a22e",
+      "name": "1-pole CA4.S auxiliary contact block with AF09.S...AF26.S contactors and NF.S contactor relays with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505015D4501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1-pole-ca4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-15b8a22e",
+      "recordPath": "equipment/abb-1-pole-ca4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-15b8a22e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1-pole-ca4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-15b8a22e.json"
+    },
+    {
+      "id": "abb-4-pole-ca4-aux-contact-block-with-af09-af16-3-pole-contactors-or-4-pole-nf-contactor--9adadc24",
+      "name": "4-pole CA4 aux. contact block with AF09...AF16 3-pole contactors or 4-pole NF contactor relays; AF09...AF16..-30-22 3-pole contactors; 8-pole NF contactor relays",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505016D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-ca4-aux-contact-block-with-af09-af16-3-pole-contactors-or-4-pole-nf-contactor--9adadc24",
+      "recordPath": "equipment/abb-4-pole-ca4-aux-contact-block-with-af09-af16-3-pole-contactors-or-4-pole-nf-contactor--9adadc24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-ca4-aux-contact-block-with-af09-af16-3-pole-contactors-or-4-pole-nf-contactor--9adadc24.json"
+    },
+    {
+      "id": "abb-4-pole-ca4-s-aux-contact-block-with-af09-af16-s-3-pole-contactors-or-4-pole-nf-s-cont-cdab2748",
+      "name": "4-pole CA4.S aux. contact block with AF09...AF16.S 3-pole contactors or 4-pole NF.S contactor relays; AF09...AF16..-30-22S 3-pole contactors; 8-pole NF.S contactor relays with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505017D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-ca4-s-aux-contact-block-with-af09-af16-s-3-pole-contactors-or-4-pole-nf-s-cont-cdab2748",
+      "recordPath": "equipment/abb-4-pole-ca4-s-aux-contact-block-with-af09-af16-s-3-pole-contactors-or-4-pole-nf-s-cont-cdab2748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-ca4-s-aux-contact-block-with-af09-af16-s-3-pole-contactors-or-4-pole-nf-s-cont-cdab2748.json"
+    },
+    {
+      "id": "abb-4-pole-ca4s-aux-contact-block-with-af26-30-00s-3-pole-contactors-af26-30-22s-3-pole-c-f9664274",
+      "name": "4-pole CA4S aux. contact block with AF26-30-00S 3-pole contactors; AF26-30-22S 3-pole contactors with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505086D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-4-pole-ca4s-aux-contact-block-with-af26-30-00s-3-pole-contactors-af26-30-22s-3-pole-c-f9664274",
+      "recordPath": "equipment/abb-4-pole-ca4s-aux-contact-block-with-af26-30-00s-3-pole-contactors-af26-30-22s-3-pole-c-f9664274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-4-pole-ca4s-aux-contact-block-with-af26-30-00s-3-pole-contactors-af26-30-22s-3-pole-c-f9664274.json"
+    },
+    {
+      "id": "abb-cal4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-relay-d2e5de80",
+      "name": "CAL4.S auxiliary contact block with AF09.S...AF26.S contactors and NF.S contactor relays with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505021D4501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cal4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-relay-d2e5de80",
+      "recordPath": "equipment/abb-cal4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-relay-d2e5de80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cal4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-and-nf-s-contactor-relay-d2e5de80.json"
+    },
+    {
+      "id": "abb-cat4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-with-spring-terminals-0e7befed",
+      "name": "CAT4.S auxiliary contact block with AF09.S...AF26.S contactors with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505019D4501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cat4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-with-spring-terminals-0e7befed",
+      "recordPath": "equipment/abb-cat4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-with-spring-terminals-0e7befed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cat4-s-auxiliary-contact-block-with-af09-s-af26-s-contactors-with-spring-terminals-0e7befed.json"
+    },
+    {
+      "id": "endress-hauser-instrument-cad",
+      "name": "Endress+Hauser configured-instrument CAD guide",
+      "manufacturer": "Endress+Hauser",
+      "formats": [
+        "STEP",
+        "DXF",
+        "IGES",
+        "SAT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/endress-hauser-instrument-cad",
+      "recordPath": "equipment/endress-hauser-instrument-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/endress-hauser-instrument-cad.json"
+    },
+    {
+      "id": "ifm-o3r-hardware-cad",
+      "name": "ifm O3R camera and processing-unit CAD guide",
+      "manufacturer": "ifm",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ifm-o3r-hardware-cad",
+      "recordPath": "equipment/ifm-o3r-hardware-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ifm-o3r-hardware-cad.json"
+    },
+    {
+      "id": "sick-cad-eplan-downloads",
+      "name": "SICK CAD and EPLAN download guide",
+      "manufacturer": "SICK",
+      "formats": [
+        "STEP",
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/sick-cad-eplan-downloads",
+      "recordPath": "equipment/sick-cad-eplan-downloads.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/sick-cad-eplan-downloads.json"
+    },
+    {
+      "id": "balluff-sensor-cad",
+      "name": "Balluff sensor CAD and download guide",
+      "manufacturer": "Balluff",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/balluff-sensor-cad",
+      "recordPath": "equipment/balluff-sensor-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/balluff-sensor-cad.json"
+    },
+    {
+      "id": "vega-instrument-drawings",
+      "name": "VEGA level and pressure instrument drawing guide",
+      "manufacturer": "VEGA",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/vega-instrument-drawings",
+      "recordPath": "equipment/vega-instrument-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/vega-instrument-drawings.json"
+    },
+    {
+      "id": "bosch-rexroth-cad-files",
+      "name": "Bosch Rexroth material-number CAD search guide",
+      "manufacturer": "Bosch Rexroth",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/bosch-rexroth-cad-files",
+      "recordPath": "equipment/bosch-rexroth-cad-files.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/bosch-rexroth-cad-files.json"
+    },
+    {
+      "id": "drawing-70170-d-41abf2af1a6b",
+      "name": "70170-D control-device socket or base",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-70170-d-41abf2af1a6b",
+      "recordPath": "equipment/drawing-70170-d-41abf2af1a6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-70170-d-41abf2af1a6b.json"
+    },
+    {
+      "id": "drawing-800000-cs-skr-a103-a25e4f527e0d",
+      "name": "800000-CS-SKR-A103 interlock component",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-800000-cs-skr-a103-a25e4f527e0d",
+      "recordPath": "equipment/drawing-800000-cs-skr-a103-a25e4f527e0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-800000-cs-skr-a103-a25e4f527e0d.json"
+    },
+    {
+      "id": "drawing-bx-04ad-1-ed551b4ddefa",
+      "name": "BRX BX-04AD-1 current-input module DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04ad-1-ed551b4ddefa",
+      "recordPath": "equipment/drawing-bx-04ad-1-ed551b4ddefa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04ad-1-ed551b4ddefa.json"
+    },
+    {
+      "id": "drawing-bx-04ad-2b-cef7536b6c21",
+      "name": "BRX BX-04AD-2B voltage-input module DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04ad-2b-cef7536b6c21",
+      "recordPath": "equipment/drawing-bx-04ad-2b-cef7536b6c21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04ad-2b-cef7536b6c21.json"
+    },
+    {
+      "id": "drawing-bx-04ad-3-d44d5459b66f",
+      "name": "BRX BX-04AD-3 universal-input module DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04ad-3-d44d5459b66f",
+      "recordPath": "equipment/drawing-bx-04ad-3-d44d5459b66f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04ad-3-d44d5459b66f.json"
+    },
+    {
+      "id": "drawing-bx-04adm-1-16346905424c",
+      "name": "BX-04ADM-1 analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04adm-1-16346905424c",
+      "recordPath": "equipment/drawing-bx-04adm-1-16346905424c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04adm-1-16346905424c.json"
+    },
+    {
+      "id": "drawing-bx-04da-1-549c2023da9a",
+      "name": "BX-04DA-1 analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04da-1-549c2023da9a",
+      "recordPath": "equipment/drawing-bx-04da-1-549c2023da9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04da-1-549c2023da9a.json"
+    },
+    {
+      "id": "drawing-bx-04da-2b-0b7d23743aad",
+      "name": "BX-04DA-2B analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04da-2b-0b7d23743aad",
+      "recordPath": "equipment/drawing-bx-04da-2b-0b7d23743aad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04da-2b-0b7d23743aad.json"
+    },
+    {
+      "id": "drawing-bx-04da-3-c48976eb8b46",
+      "name": "BX-04DA-3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04da-3-c48976eb8b46",
+      "recordPath": "equipment/drawing-bx-04da-3-c48976eb8b46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04da-3-c48976eb8b46.json"
+    },
+    {
+      "id": "drawing-bx-04thm-cf81f57a9308",
+      "name": "BX-04THM analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04thm-cf81f57a9308",
+      "recordPath": "equipment/drawing-bx-04thm-cf81f57a9308.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04thm-cf81f57a9308.json"
+    },
+    {
+      "id": "drawing-bx-04ut-cffedec3cf8b",
+      "name": "BX-04UT analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-04ut-cffedec3cf8b",
+      "recordPath": "equipment/drawing-bx-04ut-cffedec3cf8b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-04ut-cffedec3cf8b.json"
+    },
+    {
+      "id": "drawing-bx-05trs-f8d93c07264c",
+      "name": "BX-05TRS digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-05trs-f8d93c07264c",
+      "recordPath": "equipment/drawing-bx-05trs-f8d93c07264c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-05trs-f8d93c07264c.json"
+    },
+    {
+      "id": "drawing-bx-06rtd-9432c6416420",
+      "name": "BX-06RTD analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-06rtd-9432c6416420",
+      "recordPath": "equipment/drawing-bx-06rtd-9432c6416420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-06rtd-9432c6416420.json"
+    },
+    {
+      "id": "drawing-bx-08ad-1-accc1c1382ab",
+      "name": "BX-08AD-1 analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08ad-1-accc1c1382ab",
+      "recordPath": "equipment/drawing-bx-08ad-1-accc1c1382ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08ad-1-accc1c1382ab.json"
+    },
+    {
+      "id": "drawing-bx-08ad-2b-0d6dbf25db5d",
+      "name": "BX-08AD-2B BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08ad-2b-0d6dbf25db5d",
+      "recordPath": "equipment/drawing-bx-08ad-2b-0d6dbf25db5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08ad-2b-0d6dbf25db5d.json"
+    },
+    {
+      "id": "drawing-bx-08ad-3-3fb76f271b95",
+      "name": "BX-08AD-3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08ad-3-3fb76f271b95",
+      "recordPath": "equipment/drawing-bx-08ad-3-3fb76f271b95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08ad-3-3fb76f271b95.json"
+    },
+    {
+      "id": "drawing-bx-08cd3r-748a9282d2b2",
+      "name": "BX-08CD3R input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08cd3r-748a9282d2b2",
+      "recordPath": "equipment/drawing-bx-08cd3r-748a9282d2b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08cd3r-748a9282d2b2.json"
+    },
+    {
+      "id": "drawing-bx-08da-1-81a8f485c9a4",
+      "name": "BX-08DA-1 analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08da-1-81a8f485c9a4",
+      "recordPath": "equipment/drawing-bx-08da-1-81a8f485c9a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08da-1-81a8f485c9a4.json"
+    },
+    {
+      "id": "drawing-bx-08da-2b-eaae026aba5d",
+      "name": "BX-08DA-2B analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08da-2b-eaae026aba5d",
+      "recordPath": "equipment/drawing-bx-08da-2b-eaae026aba5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08da-2b-eaae026aba5d.json"
+    },
+    {
+      "id": "drawing-bx-08da-3-dc1f10689099",
+      "name": "BX-08DA-3 analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08da-3-dc1f10689099",
+      "recordPath": "equipment/drawing-bx-08da-3-dc1f10689099.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08da-3-dc1f10689099.json"
+    },
+    {
+      "id": "drawing-bx-08na-86ab391cd0b4",
+      "name": "BX-08NA digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08na-86ab391cd0b4",
+      "recordPath": "equipment/drawing-bx-08na-86ab391cd0b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08na-86ab391cd0b4.json"
+    },
+    {
+      "id": "drawing-bx-08nb-ecb52ae9bd4c",
+      "name": "BX-08NB digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08nb-ecb52ae9bd4c",
+      "recordPath": "equipment/drawing-bx-08nb-ecb52ae9bd4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08nb-ecb52ae9bd4c.json"
+    },
+    {
+      "id": "drawing-bx-08nd3-ab5682bdfa91",
+      "name": "BX-08ND3 digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08nd3-ab5682bdfa91",
+      "recordPath": "equipment/drawing-bx-08nd3-ab5682bdfa91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08nd3-ab5682bdfa91.json"
+    },
+    {
+      "id": "drawing-bx-08nf3-1d785a3f2e1b",
+      "name": "BX-08NF3 digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08nf3-1d785a3f2e1b",
+      "recordPath": "equipment/drawing-bx-08nf3-1d785a3f2e1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08nf3-1d785a3f2e1b.json"
+    },
+    {
+      "id": "drawing-bx-08ntc-1ff2c13e895f",
+      "name": "BX-08NTC BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08ntc-1ff2c13e895f",
+      "recordPath": "equipment/drawing-bx-08ntc-1ff2c13e895f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08ntc-1ff2c13e895f.json"
+    },
+    {
+      "id": "drawing-bx-08sim-688991844bad",
+      "name": "BX-08SIM controller input simulator",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08sim-688991844bad",
+      "recordPath": "equipment/drawing-bx-08sim-688991844bad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08sim-688991844bad.json"
+    },
+    {
+      "id": "drawing-bx-08ta-6850dd54f8e5",
+      "name": "BX-08TA digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08ta-6850dd54f8e5",
+      "recordPath": "equipment/drawing-bx-08ta-6850dd54f8e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08ta-6850dd54f8e5.json"
+    },
+    {
+      "id": "drawing-bx-08td1-e232f4a6c42a",
+      "name": "BX-08TD1 digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08td1-e232f4a6c42a",
+      "recordPath": "equipment/drawing-bx-08td1-e232f4a6c42a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08td1-e232f4a6c42a.json"
+    },
+    {
+      "id": "drawing-bx-08td2-4437d5262ef1",
+      "name": "BX-08TD2 digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08td2-4437d5262ef1",
+      "recordPath": "equipment/drawing-bx-08td2-4437d5262ef1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08td2-4437d5262ef1.json"
+    },
+    {
+      "id": "drawing-bx-08thm-9d1d14ceb168",
+      "name": "BX-08THM BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08thm-9d1d14ceb168",
+      "recordPath": "equipment/drawing-bx-08thm-9d1d14ceb168.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08thm-9d1d14ceb168.json"
+    },
+    {
+      "id": "drawing-bx-08tr-037658ef9afa",
+      "name": "BX-08TR digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08tr-037658ef9afa",
+      "recordPath": "equipment/drawing-bx-08tr-037658ef9afa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08tr-037658ef9afa.json"
+    },
+    {
+      "id": "drawing-bx-08trz-cc13843ae68e",
+      "name": "BX-08TRZ BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08trz-cc13843ae68e",
+      "recordPath": "equipment/drawing-bx-08trz-cc13843ae68e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08trz-cc13843ae68e.json"
+    },
+    {
+      "id": "drawing-bx-08ut-90a964d42a7b",
+      "name": "BX-08UT BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-08ut-90a964d42a7b",
+      "recordPath": "equipment/drawing-bx-08ut-90a964d42a7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-08ut-90a964d42a7b.json"
+    },
+    {
+      "id": "drawing-bx-12cd3d1-03da6b1da9c8",
+      "name": "BX-12CD3D1 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12cd3d1-03da6b1da9c8",
+      "recordPath": "equipment/drawing-bx-12cd3d1-03da6b1da9c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12cd3d1-03da6b1da9c8.json"
+    },
+    {
+      "id": "drawing-bx-12cd3d2-83f4b7b02b0f",
+      "name": "BX-12CD3D2 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12cd3d2-83f4b7b02b0f",
+      "recordPath": "equipment/drawing-bx-12cd3d2-83f4b7b02b0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12cd3d2-83f4b7b02b0f.json"
+    },
+    {
+      "id": "drawing-bx-12na-75e364762d3a",
+      "name": "BX-12NA digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12na-75e364762d3a",
+      "recordPath": "equipment/drawing-bx-12na-75e364762d3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12na-75e364762d3a.json"
+    },
+    {
+      "id": "drawing-bx-12nb-7d298abe6061",
+      "name": "BX-12NB BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12nb-7d298abe6061",
+      "recordPath": "equipment/drawing-bx-12nb-7d298abe6061.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12nb-7d298abe6061.json"
+    },
+    {
+      "id": "drawing-bx-12nd3-f47ec2df4a05",
+      "name": "BX-12ND3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12nd3-f47ec2df4a05",
+      "recordPath": "equipment/drawing-bx-12nd3-f47ec2df4a05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12nd3-f47ec2df4a05.json"
+    },
+    {
+      "id": "drawing-bx-12ta-eb4e031a335f",
+      "name": "BX-12TA BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12ta-eb4e031a335f",
+      "recordPath": "equipment/drawing-bx-12ta-eb4e031a335f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12ta-eb4e031a335f.json"
+    },
+    {
+      "id": "drawing-bx-12td1-b03af86a5adc",
+      "name": "BX-12TD1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12td1-b03af86a5adc",
+      "recordPath": "equipment/drawing-bx-12td1-b03af86a5adc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12td1-b03af86a5adc.json"
+    },
+    {
+      "id": "drawing-bx-12td2-ee520f4fdcb2",
+      "name": "BX-12TD2 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12td2-ee520f4fdcb2",
+      "recordPath": "equipment/drawing-bx-12td2-ee520f4fdcb2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12td2-ee520f4fdcb2.json"
+    },
+    {
+      "id": "drawing-bx-12tr-1cfef0065cc4",
+      "name": "BX-12TR BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-12tr-1cfef0065cc4",
+      "recordPath": "equipment/drawing-bx-12tr-1cfef0065cc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-12tr-1cfef0065cc4.json"
+    },
+    {
+      "id": "drawing-bx-16ad-1-31020d75ffdf",
+      "name": "BX-16AD-1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16ad-1-31020d75ffdf",
+      "recordPath": "equipment/drawing-bx-16ad-1-31020d75ffdf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16ad-1-31020d75ffdf.json"
+    },
+    {
+      "id": "drawing-bx-16ad-2b-0bfad3d4201e",
+      "name": "BX-16AD-2B BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16ad-2b-0bfad3d4201e",
+      "recordPath": "equipment/drawing-bx-16ad-2b-0bfad3d4201e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16ad-2b-0bfad3d4201e.json"
+    },
+    {
+      "id": "drawing-bx-16cd3d1-ebcc03a9238e",
+      "name": "BX-16CD3D1 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16cd3d1-ebcc03a9238e",
+      "recordPath": "equipment/drawing-bx-16cd3d1-ebcc03a9238e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16cd3d1-ebcc03a9238e.json"
+    },
+    {
+      "id": "drawing-bx-16cd3d2-8d9b9351dcc7",
+      "name": "BX-16CD3D2 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16cd3d2-8d9b9351dcc7",
+      "recordPath": "equipment/drawing-bx-16cd3d2-8d9b9351dcc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16cd3d2-8d9b9351dcc7.json"
+    },
+    {
+      "id": "drawing-bx-16cf3f2-e29495a9fa62",
+      "name": "BX-16CF3F2 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16cf3f2-e29495a9fa62",
+      "recordPath": "equipment/drawing-bx-16cf3f2-e29495a9fa62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16cf3f2-e29495a9fa62.json"
+    },
+    {
+      "id": "drawing-bx-16na-37d1d3ccadb8",
+      "name": "BX-16NA BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16na-37d1d3ccadb8",
+      "recordPath": "equipment/drawing-bx-16na-37d1d3ccadb8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16na-37d1d3ccadb8.json"
+    },
+    {
+      "id": "drawing-bx-16nd3-d56b03e53cbf",
+      "name": "BX-16ND3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16nd3-d56b03e53cbf",
+      "recordPath": "equipment/drawing-bx-16nd3-d56b03e53cbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16nd3-d56b03e53cbf.json"
+    },
+    {
+      "id": "drawing-bx-16nf3-7b997b944e20",
+      "name": "BX-16NF3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16nf3-7b997b944e20",
+      "recordPath": "equipment/drawing-bx-16nf3-7b997b944e20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16nf3-7b997b944e20.json"
+    },
+    {
+      "id": "drawing-bx-16td1-f4b20dc1e907",
+      "name": "BX-16TD1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16td1-f4b20dc1e907",
+      "recordPath": "equipment/drawing-bx-16td1-f4b20dc1e907.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16td1-f4b20dc1e907.json"
+    },
+    {
+      "id": "drawing-bx-16td2-41af9cfef172",
+      "name": "BX-16TD2 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16td2-41af9cfef172",
+      "recordPath": "equipment/drawing-bx-16td2-41af9cfef172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16td2-41af9cfef172.json"
+    },
+    {
+      "id": "drawing-bx-16tf2-d8a0dfb69caf",
+      "name": "BX-16TF2 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16tf2-d8a0dfb69caf",
+      "recordPath": "equipment/drawing-bx-16tf2-d8a0dfb69caf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16tf2-d8a0dfb69caf.json"
+    },
+    {
+      "id": "drawing-bx-16tr-1adfdb30f2bf",
+      "name": "BX-16TR BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16tr-1adfdb30f2bf",
+      "recordPath": "equipment/drawing-bx-16tr-1adfdb30f2bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16tr-1adfdb30f2bf.json"
+    },
+    {
+      "id": "drawing-bx-16trz-50c2a4dbcac7",
+      "name": "BX-16TRZ BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-16trz-50c2a4dbcac7",
+      "recordPath": "equipment/drawing-bx-16trz-50c2a4dbcac7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-16trz-50c2a4dbcac7.json"
+    },
+    {
+      "id": "drawing-bx-2ad2da-2b-341314c6bb4c",
+      "name": "BX-2AD2DA-2B BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-2ad2da-2b-341314c6bb4c",
+      "recordPath": "equipment/drawing-bx-2ad2da-2b-341314c6bb4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-2ad2da-2b-341314c6bb4c.json"
+    },
+    {
+      "id": "drawing-bx-2ad2da-3-d65dbe4049ed",
+      "name": "BX-2AD2DA-3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-2ad2da-3-d65dbe4049ed",
+      "recordPath": "equipment/drawing-bx-2ad2da-3-d65dbe4049ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-2ad2da-3-d65dbe4049ed.json"
+    },
+    {
+      "id": "drawing-bx-32nd3-69e131a134ad",
+      "name": "BX-32ND3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-32nd3-69e131a134ad",
+      "recordPath": "equipment/drawing-bx-32nd3-69e131a134ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-32nd3-69e131a134ad.json"
+    },
+    {
+      "id": "drawing-bx-32td1-cc636f2accf7",
+      "name": "BX-32TD1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-32td1-cc636f2accf7",
+      "recordPath": "equipment/drawing-bx-32td1-cc636f2accf7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-32td1-cc636f2accf7.json"
+    },
+    {
+      "id": "drawing-bx-32td2-24701a81d1bb",
+      "name": "BX-32TD2 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-32td2-24701a81d1bb",
+      "recordPath": "equipment/drawing-bx-32td2-24701a81d1bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-32td2-24701a81d1bb.json"
+    },
+    {
+      "id": "drawing-bx-4ad2da-1-e8a3cd841860",
+      "name": "BX-4AD2DA-1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4ad2da-1-e8a3cd841860",
+      "recordPath": "equipment/drawing-bx-4ad2da-1-e8a3cd841860.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4ad2da-1-e8a3cd841860.json"
+    },
+    {
+      "id": "drawing-bx-4ad2da-2b-290114ecc627",
+      "name": "BX-4AD2DA-2B BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4ad2da-2b-290114ecc627",
+      "recordPath": "equipment/drawing-bx-4ad2da-2b-290114ecc627.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4ad2da-2b-290114ecc627.json"
+    },
+    {
+      "id": "drawing-bx-4ad4da-3-df1108fff38b",
+      "name": "BX-4AD4DA-3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4ad4da-3-df1108fff38b",
+      "recordPath": "equipment/drawing-bx-4ad4da-3-df1108fff38b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4ad4da-3-df1108fff38b.json"
+    },
+    {
+      "id": "drawing-bx-4rtd4da-1-b791f4ce6393",
+      "name": "BX-4RTD4DA-1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4rtd4da-1-b791f4ce6393",
+      "recordPath": "equipment/drawing-bx-4rtd4da-1-b791f4ce6393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4rtd4da-1-b791f4ce6393.json"
+    },
+    {
+      "id": "drawing-bx-4thm4da-1-31476318d8a6",
+      "name": "BX-4THM4DA-1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4thm4da-1-31476318d8a6",
+      "recordPath": "equipment/drawing-bx-4thm4da-1-31476318d8a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4thm4da-1-31476318d8a6.json"
+    },
+    {
+      "id": "drawing-bx-4ut4da-3-08066157a1c0",
+      "name": "BX-4UT4DA-3 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4ut4da-3-08066157a1c0",
+      "recordPath": "equipment/drawing-bx-4ut4da-3-08066157a1c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4ut4da-3-08066157a1c0.json"
+    },
+    {
+      "id": "drawing-bx-4ut4td1-d866b2a337f1",
+      "name": "BX-4UT4TD1 BRX PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-bx-4ut4td1-d866b2a337f1",
+      "recordPath": "equipment/drawing-bx-4ut4td1-d866b2a337f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-bx-4ut4td1-d866b2a337f1.json"
+    },
+    {
+      "id": "drawing-c0-00ar-d-87b4eb2a65c7",
+      "name": "CLICK C0-00AR-D controller DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-00ar-d-87b4eb2a65c7",
+      "recordPath": "equipment/drawing-c0-00ar-d-87b4eb2a65c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-00ar-d-87b4eb2a65c7.json"
+    },
+    {
+      "id": "drawing-c0-00dd1-d-ebe1f0424c3a",
+      "name": "CLICK C0-00DD1-D controller DWG",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-00dd1-d-ebe1f0424c3a",
+      "recordPath": "equipment/drawing-c0-00dd1-d-ebe1f0424c3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-00dd1-d-ebe1f0424c3a.json"
+    },
+    {
+      "id": "drawing-c0-01ar-d-535ab3d1e576",
+      "name": "C0-01AR-D controller module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-01ar-d-535ab3d1e576",
+      "recordPath": "equipment/drawing-c0-01ar-d-535ab3d1e576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-01ar-d-535ab3d1e576.json"
+    },
+    {
+      "id": "drawing-c0-01dd1-d-57924a83ef02",
+      "name": "C0-01DD1-D controller module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-01dd1-d-57924a83ef02",
+      "recordPath": "equipment/drawing-c0-01dd1-d-57924a83ef02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-01dd1-d-57924a83ef02.json"
+    },
+    {
+      "id": "drawing-c0-01dr-d-bc98978ee834",
+      "name": "C0-01DR-D controller module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-01dr-d-bc98978ee834",
+      "recordPath": "equipment/drawing-c0-01dr-d-bc98978ee834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-01dr-d-bc98978ee834.json"
+    },
+    {
+      "id": "drawing-c0-04ad-1-ea9a442513e9",
+      "name": "C0-04AD-1 analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04ad-1-ea9a442513e9",
+      "recordPath": "equipment/drawing-c0-04ad-1-ea9a442513e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04ad-1-ea9a442513e9.json"
+    },
+    {
+      "id": "drawing-c0-04ad-2-5c82b2f7a3d3",
+      "name": "C0-04AD-2 analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04ad-2-5c82b2f7a3d3",
+      "recordPath": "equipment/drawing-c0-04ad-2-5c82b2f7a3d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04ad-2-5c82b2f7a3d3.json"
+    },
+    {
+      "id": "drawing-c0-04da-1-f7bfbb3057f5",
+      "name": "C0-04DA-1 analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04da-1-f7bfbb3057f5",
+      "recordPath": "equipment/drawing-c0-04da-1-f7bfbb3057f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04da-1-f7bfbb3057f5.json"
+    },
+    {
+      "id": "drawing-c0-04da-2-86ff9fcd5566",
+      "name": "C0-04DA-2 analogue output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04da-2-86ff9fcd5566",
+      "recordPath": "equipment/drawing-c0-04da-2-86ff9fcd5566.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04da-2-86ff9fcd5566.json"
+    },
+    {
+      "id": "drawing-c0-04rtd-fbe2fdfb6093",
+      "name": "C0-04RTD analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04rtd-fbe2fdfb6093",
+      "recordPath": "equipment/drawing-c0-04rtd-fbe2fdfb6093.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04rtd-fbe2fdfb6093.json"
+    },
+    {
+      "id": "drawing-c0-04thm-9329c029c501",
+      "name": "C0-04THM analogue input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04thm-9329c029c501",
+      "recordPath": "equipment/drawing-c0-04thm-9329c029c501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04thm-9329c029c501.json"
+    },
+    {
+      "id": "drawing-c0-04trs-10-7ff39d88149f",
+      "name": "C0-04TRS-10 digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04trs-10-7ff39d88149f",
+      "recordPath": "equipment/drawing-c0-04trs-10-7ff39d88149f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04trs-10-7ff39d88149f.json"
+    },
+    {
+      "id": "drawing-c0-04trs-72e146643e89",
+      "name": "C0-04TRS digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-04trs-72e146643e89",
+      "recordPath": "equipment/drawing-c0-04trs-72e146643e89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-04trs-72e146643e89.json"
+    },
+    {
+      "id": "drawing-c0-08cdr-d5785c6fb388",
+      "name": "C0-08CDR input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-08cdr-d5785c6fb388",
+      "recordPath": "equipment/drawing-c0-08cdr-d5785c6fb388.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-08cdr-d5785c6fb388.json"
+    },
+    {
+      "id": "drawing-c0-08na-71ea2b4bfc12",
+      "name": "C0-08NA digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-08na-71ea2b4bfc12",
+      "recordPath": "equipment/drawing-c0-08na-71ea2b4bfc12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-08na-71ea2b4bfc12.json"
+    },
+    {
+      "id": "drawing-c0-08sim-ad0825a168f3",
+      "name": "C0-08SIM controller input simulator",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-08sim-ad0825a168f3",
+      "recordPath": "equipment/drawing-c0-08sim-ad0825a168f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-08sim-ad0825a168f3.json"
+    },
+    {
+      "id": "drawing-c0-08tr-3-bcb79bf9074b",
+      "name": "C0-08TR-3 digital output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-08tr-3-bcb79bf9074b",
+      "recordPath": "equipment/drawing-c0-08tr-3-bcb79bf9074b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-08tr-3-bcb79bf9074b.json"
+    },
+    {
+      "id": "drawing-c0-10are-d-628cccf560cf",
+      "name": "C0-10ARE-D controller module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-10are-d-628cccf560cf",
+      "recordPath": "equipment/drawing-c0-10are-d-628cccf560cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-10are-d-628cccf560cf.json"
+    },
+    {
+      "id": "drawing-c0-10dd1e-d-d88ffc968fbf",
+      "name": "C0-10DD1E-D controller module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-10dd1e-d-d88ffc968fbf",
+      "recordPath": "equipment/drawing-c0-10dd1e-d-d88ffc968fbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-10dd1e-d-d88ffc968fbf.json"
+    },
+    {
+      "id": "drawing-c0-10dd2e-d-2b19390a5ed7",
+      "name": "C0-10DD2E-D CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-10dd2e-d-2b19390a5ed7",
+      "recordPath": "equipment/drawing-c0-10dd2e-d-2b19390a5ed7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-10dd2e-d-2b19390a5ed7.json"
+    },
+    {
+      "id": "drawing-c0-10dre-d-ae732654828f",
+      "name": "C0-10DRE-D CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-10dre-d-ae732654828f",
+      "recordPath": "equipment/drawing-c0-10dre-d-ae732654828f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-10dre-d-ae732654828f.json"
+    },
+    {
+      "id": "drawing-c0-11are-d-d657880f2d9f",
+      "name": "C0-11ARE-D CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-11are-d-d657880f2d9f",
+      "recordPath": "equipment/drawing-c0-11are-d-d657880f2d9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-11are-d-d657880f2d9f.json"
+    },
+    {
+      "id": "drawing-c0-11dd1e-d-6998d0cecaec",
+      "name": "C0-11DD1E-D CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-11dd1e-d-6998d0cecaec",
+      "recordPath": "equipment/drawing-c0-11dd1e-d-6998d0cecaec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-11dd1e-d-6998d0cecaec.json"
+    },
+    {
+      "id": "drawing-c0-11dd2e-d-cf6baac21fd1",
+      "name": "C0-11DD2E-D CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-11dd2e-d-cf6baac21fd1",
+      "recordPath": "equipment/drawing-c0-11dd2e-d-cf6baac21fd1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-11dd2e-d-cf6baac21fd1.json"
+    },
+    {
+      "id": "drawing-c0-11dre-d-1f437e4e22ea",
+      "name": "C0-11DRE-D CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-11dre-d-1f437e4e22ea",
+      "recordPath": "equipment/drawing-c0-11dre-d-1f437e4e22ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-11dre-d-1f437e4e22ea.json"
+    },
+    {
+      "id": "drawing-c0-16cdd1-311cdd4ecc34",
+      "name": "C0-16CDD1 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-16cdd1-311cdd4ecc34",
+      "recordPath": "equipment/drawing-c0-16cdd1-311cdd4ecc34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-16cdd1-311cdd4ecc34.json"
+    },
+    {
+      "id": "drawing-c0-16cdd2-5345aa307e9b",
+      "name": "C0-16CDD2 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-16cdd2-5345aa307e9b",
+      "recordPath": "equipment/drawing-c0-16cdd2-5345aa307e9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-16cdd2-5345aa307e9b.json"
+    },
+    {
+      "id": "drawing-c0-16nd3-61a39cd9de40",
+      "name": "C0-16ND3 digital input module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-16nd3-61a39cd9de40",
+      "recordPath": "equipment/drawing-c0-16nd3-61a39cd9de40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-16nd3-61a39cd9de40.json"
+    },
+    {
+      "id": "drawing-c0-3tb-a775dabf041e",
+      "name": "C0-3TB CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-3tb-a775dabf041e",
+      "recordPath": "equipment/drawing-c0-3tb-a775dabf041e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-3tb-a775dabf041e.json"
+    },
+    {
+      "id": "drawing-c0-4ad2da-2-c241a42e4ba5",
+      "name": "C0-4AD2DA-2 input/output module",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-4ad2da-2-c241a42e4ba5",
+      "recordPath": "equipment/drawing-c0-4ad2da-2-c241a42e4ba5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-4ad2da-2-c241a42e4ba5.json"
+    },
+    {
+      "id": "drawing-c2-01cpu-2-9d35d7d42051",
+      "name": "C2-01CPU-2 CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-01cpu-2-9d35d7d42051",
+      "recordPath": "equipment/drawing-c2-01cpu-2-9d35d7d42051.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-01cpu-2-9d35d7d42051.json"
+    },
+    {
+      "id": "drawing-c2-01cpu-2e54d5ef93e6",
+      "name": "C2-01CPU CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-01cpu-2e54d5ef93e6",
+      "recordPath": "equipment/drawing-c2-01cpu-2e54d5ef93e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-01cpu-2e54d5ef93e6.json"
+    },
+    {
+      "id": "drawing-c2-02cpu-2-03690cff1124",
+      "name": "C2-02CPU-2 CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-02cpu-2-03690cff1124",
+      "recordPath": "equipment/drawing-c2-02cpu-2-03690cff1124.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-02cpu-2-03690cff1124.json"
+    },
+    {
+      "id": "drawing-c2-02cpu-9e7b0cce9a1b",
+      "name": "C2-02CPU CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-02cpu-9e7b0cce9a1b",
+      "recordPath": "equipment/drawing-c2-02cpu-9e7b0cce9a1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-02cpu-9e7b0cce9a1b.json"
+    },
+    {
+      "id": "drawing-c2-03cpu-2-8a7b97e9bfaf",
+      "name": "C2-03CPU-2 CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-03cpu-2-8a7b97e9bfaf",
+      "recordPath": "equipment/drawing-c2-03cpu-2-8a7b97e9bfaf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-03cpu-2-8a7b97e9bfaf.json"
+    },
+    {
+      "id": "drawing-c2-03cpu-934565dbb0b3",
+      "name": "C2-03CPU CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-03cpu-934565dbb0b3",
+      "recordPath": "equipment/drawing-c2-03cpu-934565dbb0b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-03cpu-934565dbb0b3.json"
+    },
+    {
+      "id": "drawing-c2-08ar-4vc-6cccf4a4ce74",
+      "name": "C2-08AR-4VC CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-08ar-4vc-6cccf4a4ce74",
+      "recordPath": "equipment/drawing-c2-08ar-4vc-6cccf4a4ce74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-08ar-4vc-6cccf4a4ce74.json"
+    },
+    {
+      "id": "drawing-c2-08ar-6c-1d8f3d4563cc",
+      "name": "C2-08AR-6C CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-08ar-6c-1d8f3d4563cc",
+      "recordPath": "equipment/drawing-c2-08ar-6c-1d8f3d4563cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-08ar-6c-1d8f3d4563cc.json"
+    },
+    {
+      "id": "drawing-c2-08ar-6v-a5728d39bb9b",
+      "name": "C2-08AR-6V CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-08ar-6v-a5728d39bb9b",
+      "recordPath": "equipment/drawing-c2-08ar-6v-a5728d39bb9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-08ar-6v-a5728d39bb9b.json"
+    },
+    {
+      "id": "drawing-c2-08d1-4vc-83f5507fafc6",
+      "name": "C2-08D1-4VC CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-08d1-4vc-83f5507fafc6",
+      "recordPath": "equipment/drawing-c2-08d1-4vc-83f5507fafc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-08d1-4vc-83f5507fafc6.json"
+    },
+    {
+      "id": "drawing-c2-08d1-6c-9ebbb74eb0cd",
+      "name": "C2-08D1-6C CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-08d1-6c-9ebbb74eb0cd",
+      "recordPath": "equipment/drawing-c2-08d1-6c-9ebbb74eb0cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-08d1-6c-9ebbb74eb0cd.json"
+    },
+    {
+      "id": "drawing-c2-08d1-6v-7f8bc4f1b34c",
+      "name": "C2-08D1-6V CLICK PLC and I/O hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c2-08d1-6v-7f8bc4f1b34c",
+      "recordPath": "equipment/drawing-c2-08d1-6v-7f8bc4f1b34c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c2-08d1-6v-7f8bc4f1b34c.json"
+    },
+    {
+      "id": "drawing-e22asb106-3ce747fc9aa8",
+      "name": "E22ASB106 emergency-stop station component",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22asb106-3ce747fc9aa8",
+      "recordPath": "equipment/drawing-e22asb106-3ce747fc9aa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22asb106-3ce747fc9aa8.json"
+    },
+    {
+      "id": "drawing-e22asb204-a0334427d6e5",
+      "name": "E22ASB204 non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22asb204-a0334427d6e5",
+      "recordPath": "equipment/drawing-e22asb204-a0334427d6e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22asb204-a0334427d6e5.json"
+    },
+    {
+      "id": "drawing-e22b1-2a43c0a417b9",
+      "name": "E22B1 non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22b1-2a43c0a417b9",
+      "recordPath": "equipment/drawing-e22b1-2a43c0a417b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22b1-2a43c0a417b9.json"
+    },
+    {
+      "id": "drawing-e22b11-141d605ce620",
+      "name": "E22B11 non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22b11-141d605ce620",
+      "recordPath": "equipment/drawing-e22b11-141d605ce620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22b11-141d605ce620.json"
+    },
+    {
+      "id": "drawing-e22bhp-20012ae351ea",
+      "name": "E22BHP non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22bhp-20012ae351ea",
+      "recordPath": "equipment/drawing-e22bhp-20012ae351ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22bhp-20012ae351ea.json"
+    },
+    {
+      "id": "drawing-e22cb1m-6c0af7dad32e",
+      "name": "E22CB1M non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22cb1m-6c0af7dad32e",
+      "recordPath": "equipment/drawing-e22cb1m-6c0af7dad32e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22cb1m-6c0af7dad32e.json"
+    },
+    {
+      "id": "drawing-e22db1b20x11c-553e7d8afdf4",
+      "name": "E22DB1B20X11C non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22db1b20x11c-553e7d8afdf4",
+      "recordPath": "equipment/drawing-e22db1b20x11c-553e7d8afdf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22db1b20x11c-553e7d8afdf4.json"
+    },
+    {
+      "id": "drawing-e22h2x11-cdcf2ae2b3cc",
+      "name": "E22H2X11 non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22h2x11-cdcf2ae2b3cc",
+      "recordPath": "equipment/drawing-e22h2x11-cdcf2ae2b3cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22h2x11-cdcf2ae2b3cc.json"
+    },
+    {
+      "id": "drawing-e22jpb2b-5fde6678196b",
+      "name": "E22JPB2B non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22jpb2b-5fde6678196b",
+      "recordPath": "equipment/drawing-e22jpb2b-5fde6678196b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22jpb2b-5fde6678196b.json"
+    },
+    {
+      "id": "drawing-e22kb53a-9ff3a7f05e9f",
+      "name": "E22KB53A non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22kb53a-9ff3a7f05e9f",
+      "recordPath": "equipment/drawing-e22kb53a-9ff3a7f05e9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22kb53a-9ff3a7f05e9f.json"
+    },
+    {
+      "id": "drawing-e22kbg7d-dbca812aa036",
+      "name": "E22KBG7D non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22kbg7d-dbca812aa036",
+      "recordPath": "equipment/drawing-e22kbg7d-dbca812aa036.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22kbg7d-dbca812aa036.json"
+    },
+    {
+      "id": "drawing-e22kbg7rr-9f5b684696a9",
+      "name": "E22KBG7RR non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22kbg7rr-9f5b684696a9",
+      "recordPath": "equipment/drawing-e22kbg7rr-9f5b684696a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22kbg7rr-9f5b684696a9.json"
+    },
+    {
+      "id": "drawing-e22lb2b-32b2fa4b5d4a",
+      "name": "E22LB2B non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22lb2b-32b2fa4b5d4a",
+      "recordPath": "equipment/drawing-e22lb2b-32b2fa4b5d4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22lb2b-32b2fa4b5d4a.json"
+    },
+    {
+      "id": "drawing-e22lpb2b-03e0c8770414",
+      "name": "E22LPB2B non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22lpb2b-03e0c8770414",
+      "recordPath": "equipment/drawing-e22lpb2b-03e0c8770414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22lpb2b-03e0c8770414.json"
+    },
+    {
+      "id": "drawing-e22lta2qb-0001608f2f7f",
+      "name": "E22LTA2QB non-metal pilot-device hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-e22lta2qb-0001608f2f7f",
+      "recordPath": "equipment/drawing-e22lta2qb-0001608f2f7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-e22lta2qb-0001608f2f7f.json"
+    },
+    {
+      "id": "drawing-ea-10-cov2-e3760dab69f4",
+      "name": "EA-10-COV2 HMI screen protector CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-10-cov2-e3760dab69f4",
+      "recordPath": "equipment/drawing-ea-10-cov2-e3760dab69f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-10-cov2-e3760dab69f4.json"
+    },
+    {
+      "id": "drawing-ea-12-cov2-328a379adacc",
+      "name": "EA-12-COV2 HMI screen protector CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-12-cov2-328a379adacc",
+      "recordPath": "equipment/drawing-ea-12-cov2-328a379adacc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-12-cov2-328a379adacc.json"
+    },
+    {
+      "id": "drawing-ea-15-cov2-84882e7c7d0d",
+      "name": "EA-15-COV2 HMI screen protector CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-15-cov2-84882e7c7d0d",
+      "recordPath": "equipment/drawing-ea-15-cov2-84882e7c7d0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-15-cov2-84882e7c7d0d.json"
+    },
+    {
+      "id": "drawing-ea-6-adptr-9dc4dfee1701",
+      "name": "EA-6-ADPTR C-more operator-panel accessory CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-6-adptr-9dc4dfee1701",
+      "recordPath": "equipment/drawing-ea-6-adptr-9dc4dfee1701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-6-adptr-9dc4dfee1701.json"
+    },
+    {
+      "id": "drawing-ea-6-cov2-a496fff492c0",
+      "name": "EA-6-COV2 HMI screen protector CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-6-cov2-a496fff492c0",
+      "recordPath": "equipment/drawing-ea-6-cov2-a496fff492c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-6-cov2-a496fff492c0.json"
+    },
+    {
+      "id": "drawing-ea-7-cov2-50a21f9f08c1",
+      "name": "EA-7-COV2 HMI screen protector CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-7-cov2-50a21f9f08c1",
+      "recordPath": "equipment/drawing-ea-7-cov2-50a21f9f08c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-7-cov2-50a21f9f08c1.json"
+    },
+    {
+      "id": "drawing-ea-8-cov2-22a00e1f9251",
+      "name": "EA-8-COV2 HMI screen protector CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-8-cov2-22a00e1f9251",
+      "recordPath": "equipment/drawing-ea-8-cov2-22a00e1f9251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-8-cov2-22a00e1f9251.json"
+    },
+    {
+      "id": "drawing-ea-ac-02373fc698b1",
+      "name": "EA-AC C-more operator-panel accessory CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-ac-02373fc698b1",
+      "recordPath": "equipment/drawing-ea-ac-02373fc698b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-ac-02373fc698b1.json"
+    },
+    {
+      "id": "drawing-ea-adptr-4-070bf8f4aaeb",
+      "name": "EA-ADPTR-4 C-more operator-panel accessory CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-adptr-4-070bf8f4aaeb",
+      "recordPath": "equipment/drawing-ea-adptr-4-070bf8f4aaeb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-adptr-4-070bf8f4aaeb.json"
+    },
+    {
+      "id": "drawing-ea-comcon-3a-cfbbe0026286",
+      "name": "EA-COMCON-3A C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-comcon-3a-cfbbe0026286",
+      "recordPath": "equipment/drawing-ea-comcon-3a-cfbbe0026286.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-comcon-3a-cfbbe0026286.json"
+    },
+    {
+      "id": "drawing-ea-ecom-98e64370c96d",
+      "name": "EA-ECOM C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-ecom-98e64370c96d",
+      "recordPath": "equipment/drawing-ea-ecom-98e64370c96d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-ecom-98e64370c96d.json"
+    },
+    {
+      "id": "drawing-ea-mg-bz1-02da74b62545",
+      "name": "EA-MG-BZ1 C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-mg-bz1-02da74b62545",
+      "recordPath": "equipment/drawing-ea-mg-bz1-02da74b62545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-mg-bz1-02da74b62545.json"
+    },
+    {
+      "id": "drawing-ea-mg-bz2-e314b0cb5db4",
+      "name": "EA-MG-BZ2 C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-mg-bz2-e314b0cb5db4",
+      "recordPath": "equipment/drawing-ea-mg-bz2-e314b0cb5db4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-mg-bz2-e314b0cb5db4.json"
+    },
+    {
+      "id": "drawing-ea-mg-cov-cl-a8221d0a813f",
+      "name": "EA-MG-COV-CL C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-mg-cov-cl-a8221d0a813f",
+      "recordPath": "equipment/drawing-ea-mg-cov-cl-a8221d0a813f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-mg-cov-cl-a8221d0a813f.json"
+    },
+    {
+      "id": "drawing-ea-mg-p1-329c2637cc86",
+      "name": "EA-MG-P1 C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-mg-p1-329c2637cc86",
+      "recordPath": "equipment/drawing-ea-mg-p1-329c2637cc86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-mg-p1-329c2637cc86.json"
+    },
+    {
+      "id": "drawing-ea-mg-pgm-cbl-feb5bcf7f1fa",
+      "name": "EA-MG-PGM-CBL C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-mg-pgm-cbl-feb5bcf7f1fa",
+      "recordPath": "equipment/drawing-ea-mg-pgm-cbl-feb5bcf7f1fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-mg-pgm-cbl-feb5bcf7f1fa.json"
+    },
+    {
+      "id": "drawing-ea-mg-sp1-080dbcaa67c9",
+      "name": "EA-MG-SP1 C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea-mg-sp1-080dbcaa67c9",
+      "recordPath": "equipment/drawing-ea-mg-sp1-080dbcaa67c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea-mg-sp1-080dbcaa67c9.json"
+    },
+    {
+      "id": "drawing-ea1-s3ml-n-f1e223066ac3",
+      "name": "EA1-S3ML-N C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea1-s3ml-n-f1e223066ac3",
+      "recordPath": "equipment/drawing-ea1-s3ml-n-f1e223066ac3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea1-s3ml-n-f1e223066ac3.json"
+    },
+    {
+      "id": "drawing-ea1-t4cl-b8a6e2abf339",
+      "name": "EA1-T4CL operator display",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea1-t4cl-b8a6e2abf339",
+      "recordPath": "equipment/drawing-ea1-t4cl-b8a6e2abf339.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea1-t4cl-b8a6e2abf339.json"
+    },
+    {
+      "id": "drawing-ea3-s3ml-r-28bf1d47ea83",
+      "name": "EA3-S3ML-R C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea3-s3ml-r-28bf1d47ea83",
+      "recordPath": "equipment/drawing-ea3-s3ml-r-28bf1d47ea83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea3-s3ml-r-28bf1d47ea83.json"
+    },
+    {
+      "id": "drawing-ea3-s3ml-9c95c0383da8",
+      "name": "EA3-S3ML C-more Micro operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea3-s3ml-9c95c0383da8",
+      "recordPath": "equipment/drawing-ea3-s3ml-9c95c0383da8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea3-s3ml-9c95c0383da8.json"
+    },
+    {
+      "id": "drawing-ea7-s6c-cutout-new-9bf170bab28f",
+      "name": "EA7-S6C_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-s6c-cutout-new-9bf170bab28f",
+      "recordPath": "equipment/drawing-ea7-s6c-cutout-new-9bf170bab28f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-s6c-cutout-new-9bf170bab28f.json"
+    },
+    {
+      "id": "drawing-ea7-s6c-r-cutout-new-f3a0e4302829",
+      "name": "EA7-S6C-R_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-s6c-r-cutout-new-f3a0e4302829",
+      "recordPath": "equipment/drawing-ea7-s6c-r-cutout-new-f3a0e4302829.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-s6c-r-cutout-new-f3a0e4302829.json"
+    },
+    {
+      "id": "drawing-ea7-t10c-cutout-new-bb8ef8ba0479",
+      "name": "EA7-T10C_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t10c-cutout-new-bb8ef8ba0479",
+      "recordPath": "equipment/drawing-ea7-t10c-cutout-new-bb8ef8ba0479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t10c-cutout-new-bb8ef8ba0479.json"
+    },
+    {
+      "id": "drawing-ea7-t12c-cutout-new-76bb8935c9a8",
+      "name": "EA7-T12C_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t12c-cutout-new-76bb8935c9a8",
+      "recordPath": "equipment/drawing-ea7-t12c-cutout-new-76bb8935c9a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t12c-cutout-new-76bb8935c9a8.json"
+    },
+    {
+      "id": "drawing-ea7-t15c-cutout-new-02a3ef152499",
+      "name": "EA7-T15C_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t15c-cutout-new-02a3ef152499",
+      "recordPath": "equipment/drawing-ea7-t15c-cutout-new-02a3ef152499.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t15c-cutout-new-02a3ef152499.json"
+    },
+    {
+      "id": "drawing-ea7-t6c-cutout-new-08456ed21f47",
+      "name": "EA7-T6C_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t6c-cutout-new-08456ed21f47",
+      "recordPath": "equipment/drawing-ea7-t6c-cutout-new-08456ed21f47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t6c-cutout-new-08456ed21f47.json"
+    },
+    {
+      "id": "drawing-ea7-t6cl-r-8db4a1e7c17d",
+      "name": "EA7-T6CL-R C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t6cl-r-8db4a1e7c17d",
+      "recordPath": "equipment/drawing-ea7-t6cl-r-8db4a1e7c17d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t6cl-r-8db4a1e7c17d.json"
+    },
+    {
+      "id": "drawing-ea7-t6cl-955e15b782e8",
+      "name": "EA7-T6CL C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t6cl-955e15b782e8",
+      "recordPath": "equipment/drawing-ea7-t6cl-955e15b782e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t6cl-955e15b782e8.json"
+    },
+    {
+      "id": "drawing-ea7-t8c-cutout-new-a2d8ca540b5a",
+      "name": "EA7-T8C_cutout-new C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea7-t8c-cutout-new-a2d8ca540b5a",
+      "recordPath": "equipment/drawing-ea7-t8c-cutout-new-a2d8ca540b5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea7-t8c-cutout-new-a2d8ca540b5a.json"
+    },
+    {
+      "id": "drawing-ea9-rhmi-180b3c1a8fb3",
+      "name": "EA9-RHMI C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-rhmi-180b3c1a8fb3",
+      "recordPath": "equipment/drawing-ea9-rhmi-180b3c1a8fb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-rhmi-180b3c1a8fb3.json"
+    },
+    {
+      "id": "drawing-ea9-t10cl-e3f5f4a4a640",
+      "name": "EA9-T10CL C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t10cl-e3f5f4a4a640",
+      "recordPath": "equipment/drawing-ea9-t10cl-e3f5f4a4a640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t10cl-e3f5f4a4a640.json"
+    },
+    {
+      "id": "drawing-ea9-t10wcl-e0ef02c5f944",
+      "name": "EA9-T10WCL C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t10wcl-e0ef02c5f944",
+      "recordPath": "equipment/drawing-ea9-t10wcl-e0ef02c5f944.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t10wcl-e0ef02c5f944.json"
+    },
+    {
+      "id": "drawing-ea9-t12cl-e8a8c8e1756e",
+      "name": "EA9-T12CL C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t12cl-e8a8c8e1756e",
+      "recordPath": "equipment/drawing-ea9-t12cl-e8a8c8e1756e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t12cl-e8a8c8e1756e.json"
+    },
+    {
+      "id": "drawing-ea9-t15cl-r-bfce121bc9fa",
+      "name": "EA9-T15CL-R C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t15cl-r-bfce121bc9fa",
+      "recordPath": "equipment/drawing-ea9-t15cl-r-bfce121bc9fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t15cl-r-bfce121bc9fa.json"
+    },
+    {
+      "id": "drawing-ea9-t15cl-3130ec78ab5f",
+      "name": "EA9-T15CL C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t15cl-3130ec78ab5f",
+      "recordPath": "equipment/drawing-ea9-t15cl-3130ec78ab5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t15cl-3130ec78ab5f.json"
+    },
+    {
+      "id": "drawing-ea9-t6cl-r-e277e9fd9d4d",
+      "name": "EA9-T6CL-R C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t6cl-r-e277e9fd9d4d",
+      "recordPath": "equipment/drawing-ea9-t6cl-r-e277e9fd9d4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t6cl-r-e277e9fd9d4d.json"
+    },
+    {
+      "id": "drawing-ea9-t6cl-d4e96c81ef83",
+      "name": "EA9-T6CL C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t6cl-d4e96c81ef83",
+      "recordPath": "equipment/drawing-ea9-t6cl-d4e96c81ef83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t6cl-d4e96c81ef83.json"
+    },
+    {
+      "id": "drawing-ea9-t7cl-r-fc15f81d53a9",
+      "name": "EA9-T7CL-R C-more operator-panel hardware CAD drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-ea9-t7cl-r-fc15f81d53a9",
+      "recordPath": "equipment/drawing-ea9-t7cl-r-fc15f81d53a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-ea9-t7cl-r-fc15f81d53a9.json"
+    }
+  ]
+}

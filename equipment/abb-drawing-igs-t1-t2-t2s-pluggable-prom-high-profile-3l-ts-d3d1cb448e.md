@@ -1,0 +1,119 @@
+# ABB — Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS
+
+ABB Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS: breaker or breaker-accessory reference for breaker compartment and mounting interfaces. Manufacturer reference 2CTC800015F1103.IGS; 2CTC800015F1100.PDF.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+
+- Category: Breakers & accessories
+- Entry type: drawing
+- Part number: Select exact configuration
+- Drawing/document number: 2CTC800015F1103.IGS; 2CTC800015F1100.PDF
+- Formats: IGS, PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-04
+
+2 original files are available to download here. Manufacturer sources and revisions are listed below.
+Confirm the exact regional configuration against the selected manufacturer drawing.
+The supplied configuration is “Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS”. Keep those frame, mounting and accessory codes with the inserted drawing.
+
+## Equipment and file summary
+
+- Equipment / resource: Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS
+- Manufacturer: ABB
+- Resource type: Named drawing reference
+- Manufacturer drawing: 2CTC800015F1103.IGS; 2CTC800015F1100.PDF
+- Manufacturer reference: 2CTC800015F1103.IGS; 2CTC800015F1100.PDF
+- Document revision: A
+- Listed file formats: IGS, PDF
+- Listed files: 2
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-04
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 2CTC800015F1103.IGS; 2CTC800015F1100.PDF ([source](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Document revision: A ([source](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## Using the Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS reference
+
+ABB Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS: breaker or breaker-accessory reference for breaker compartment and mounting interfaces. Manufacturer reference 2CTC800015F1103.IGS; 2CTC800015F1100.PDF.
+
+2CTC800015F1103.igs is advertised as IGS. Its native format needs separate software validation before a browser model can be offered.
+
+2CTC800015F1103.igs is advertised as IGS. Its native format needs separate software validation before a browser model can be offered. Use 2CTC800015F1100.PDF.pdf revision A to read the original manufacturer sheet and its annotations.
+
+- The supplied configuration is “Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS”. Keep those frame, mounting and accessory codes with the inserted drawing.
+- Use the exact frame, pole and mounting configuration named by this reference. Door drilling, connection and accessory drawings describe those interfaces rather than a complete switchboard.
+
+### What can I use the Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS reference for?
+
+Use this breaker or breaker-accessory reference for breaker compartment and mounting interfaces. The supplied configuration is “Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS”. Keep those frame, mounting and accessory codes with the inserted drawing.
+
+### Which manufacturer reference identifies this drawing?
+
+ABB reference 2CTC800015F1103.IGS; 2CTC800015F1100.PDF. The file list retains the original source and recorded revision.
+
+- [ABB source](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+
+## Choosing a file
+
+2CTC800015F1103.igs is advertised as IGS. Its native format needs separate software validation before a browser model can be offered. Use 2CTC800015F1100.PDF.pdf revision A to read the original manufacturer sheet and its annotations.
+
+## Preview
+
+![ABB Drawing IGS T1-T2/T2s Pluggable ProM High Profile 3L TS: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e/0e510f455e6a4c6ae8f0?asset=0e510f455e6a4c6ae8f03e08ea769efff65fd4f920adbab486a0f77192b84c65&view=thumb&v=379a3a6e233fcae2)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2CTC800015F1103.igs
+
+- Format: IGS
+- Purpose: Manufacturer drawing reference 2CTC800015F1103.IGS
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e/0e510f455e6a4c6ae8f0)
+- Redistribution: unknown
+- Original SHA-256: 0e510f455e6a4c6ae8f03e08ea769efff65fd4f920adbab486a0f77192b84c65
+- Original bytes: 9381538
+- Revision: A
+- Retrieved: 2026-11-04T01:10:48Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1103.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; IGS; 9381538 bytes
+- Delivery SHA-256: 0e510f455e6a4c6ae8f03e08ea769efff65fd4f920adbab486a0f77192b84c65
+
+### 2CTC800015F1100.PDF
+
+- Format: PDF
+- Purpose: Manufacturer drawing reference 2CTC800015F1100.PDF
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1100.PDF&LanguageCode=en&LanguageCode=fr&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-drawing-igs-t1-t2-t2s-pluggable-prom-high-profile-3l-ts-d3d1cb448e/f81aaad5898276f84d11)
+- Redistribution: unknown
+- Original SHA-256: f81aaad5898276f84d115ed5eeb6f5b247a1f28bf8b708654bdd779528ccf402
+- Original bytes: 129499
+- Revision: A
+- Retrieved: 2026-11-04T00:32:29Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1100.PDF&LanguageCode=en&LanguageCode=fr&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2CTC800015F1100.PDF&LanguageCode=en&LanguageCode=fr&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; PDF; 129499 bytes
+- Delivery SHA-256: f81aaad5898276f84d115ed5eeb6f5b247a1f28bf8b708654bdd779528ccf402
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

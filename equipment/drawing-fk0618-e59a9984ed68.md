@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/Enclosure Accessories
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+When placing FK0618 in an electrical cabinet or distribution enclosure, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Check attachment, opening and service access against surrounding panels and the intended mounting surface. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Enclosures and Wiring/Enclosure Accessories/FK0618.dwg, a 247,992-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. An enclosure component does not establish a finished assembly rating, environmental protection or accessory compatibility. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

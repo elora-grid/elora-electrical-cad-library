@@ -32,7 +32,7 @@ The verified native member is Operator Interface/Cmore/EA7-S6C\_cutout-new.dwg. 
 
 An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
 
-In a switchroom, the screen can show which feeders are running and identify the equipment associated with an alarm.
+For operator-panel installation coordination, place the EA7-S6C\_cutout-new outline alongside the actual enclosure and adjacent hardware. Check the panel opening and rear housing together; keep connectors, retaining hardware and the service route accessible. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Operator Interface/Cmore/EA7-S6C\_cutout-new.dwg. Its identity was checked against the acquired manufacturer archive. Check the panel opening and rear housing together; keep connectors, retaining hardware and the service route accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: EA7-S6C\_new. Grouping does not establish electrical interchangeability.
 

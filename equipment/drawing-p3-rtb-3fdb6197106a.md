@@ -32,7 +32,7 @@ The verified native member is PLC Families/P3000/P3-RTB.dwg. Its identity was ch
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For modular PAC cabinet planning, place the P3-RTB outline alongside the actual enclosure and adjacent hardware. Locate the station and its connection faces before routing conductors; maintain access to the removable or serviceable parts shown in the drawing. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is PLC Families/P3000/P3-RTB.dwg. Its identity was checked against the acquired manufacturer archive. Locate the station and its connection faces before routing conductors; maintain access to the removable or serviceable parts shown in the drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

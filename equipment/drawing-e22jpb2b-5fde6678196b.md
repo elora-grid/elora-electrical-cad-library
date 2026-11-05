@@ -32,7 +32,7 @@ The verified native member is Pushbuttons Switches Indicators/22mm Non-metal/Eat
 
 Automation equipment gathers information, follows control rules and passes commands between the equipment and the people operating it.
 
-In a switchroom, sensors, a controller and an operator screen can work together to control ventilation and report a failed fan.
+For pilot-device panel coordination, place the E22JPB2B outline alongside the actual enclosure and adjacent hardware. Review the front-panel position and the space behind the device for mounting hardware, contacts and conductor approach. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Pushbuttons Switches Indicators/22mm Non-metal/Eaton Cutler-Hammer E22 Series/E22JPB2B.dwg. Its identity was checked against the acquired manufacturer archive. Review the front-panel position and the space behind the device for mounting hardware, contacts and conductor approach. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: E22JPLB2B. Grouping does not establish electrical interchangeability.
 

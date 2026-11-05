@@ -32,7 +32,7 @@ Choose the exact charger family and regional configuration in the official desig
 
 This manufacturer resource helps you find drawings or select versions of electric vehicle charging stations, AC chargers, DC rapid chargers. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected EV charging stations drawing before reserving its space, mounting points and cable routes in the layout.
+A car-park design may need a charger model for space coordination, a pedestal foundation detail and a separate electrical connection document.
 
 Choose the exact charger family and regional configuration in the official design resources, then obtain the specific available CAD or Revit resource. Record wall/pedestal mounting and cable arrangement. This page is a checked route to manufacturer resources, not a claim that every charger file is hosted here.
 

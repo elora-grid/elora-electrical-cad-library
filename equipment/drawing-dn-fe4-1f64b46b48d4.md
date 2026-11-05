@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/DINnectors/Circuit Prote
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+When placing DN-FE4 in a terminal strip containing separately selected disconnect or protection elements, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Show the separately selected element with the socket and reserve insertion and removal space. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Other PLC Products/DINnectors/Circuit Protection Terminal Blocks/DN-FE4.dwg, a 178,843-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. The socket drawing does not identify the selected disconnect or protector, or establish a protective function by itself. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

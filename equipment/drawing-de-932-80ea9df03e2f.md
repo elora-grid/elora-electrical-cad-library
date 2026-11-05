@@ -32,7 +32,7 @@ Open DE-Serie/DE 932.stp from the original archive. Keep the archive label and i
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+A designer can place the DE 932 geometry in a layout and compare its physical interfaces with the intended enclosure selection.
 
 Open DE-Serie/DE 932.stp from the original archive. Keep the archive label and internal model identity available when requesting confirmation from Hensel. Geometry alone does not establish a complete distribution assembly, terminal arrangement or installation approval.
 

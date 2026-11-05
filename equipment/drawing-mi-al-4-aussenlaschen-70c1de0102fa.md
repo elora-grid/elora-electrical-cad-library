@@ -32,7 +32,7 @@ The acquired source archive contains Mi\_Zubehoer/Mi\_AL\_4\_Aussenlaschen.stp, 
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+For example, in a control-cabinet installation where an accessory joins the enclosure to its support, use the Mi\_AL\_4\_Aussenlaschen reference to coordinate accessory fixings, enclosure interface and installation access. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Mi\_Zubehoer/Mi\_AL\_4\_Aussenlaschen.stp, a 58,801-byte STP native file. Its file signature and SHA-256 were checked against the held original. The STEP file header was validated as an ISO 10303 exchange file. An enclosure component does not establish a finished assembly rating, environmental protection or accessory compatibility. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: Mi\_Zubehoer.zip!/Mi\_Zubehoer/Mi\_AL\_4\_Aussenlaschen.stp. These paths retain their own archive and native checksums in the file evidence.
 

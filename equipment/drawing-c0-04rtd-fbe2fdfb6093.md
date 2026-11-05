@@ -32,7 +32,7 @@ The verified native member is PLC Families/CLICK/C0-04RTD.dwg. Its identity was 
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+For example, in a process-control panel receiving transmitter signals, use the C0-04RTD reference to coordinate field-signal terminals, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/CLICK/C0-04RTD.dwg. Its identity was checked against the acquired manufacturer archive. Plan the controller and expansion devices together, with separate space for terminal wiring and programming access. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: C0-4AD2DA-1. Grouping does not establish electrical interchangeability.
 

@@ -32,7 +32,7 @@ The verified native member is Drives-Motors-Motion/Compact Soft Starters/SR33-29
 
 A motor turns electrical energy into movement, usually rotation of a shaft.
 
-In a switchroom ventilation system, the motor turns the fan that moves cooling air through the room.
+For example, in a plant panel controlling a fan or pump motor, use the SR33-29 reference to coordinate power terminals, control interfaces, ventilation and service access. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Drives-Motors-Motion/Compact Soft Starters/SR33-29.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the starter mounting and connection faces before placing cable duct or adjacent power devices. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

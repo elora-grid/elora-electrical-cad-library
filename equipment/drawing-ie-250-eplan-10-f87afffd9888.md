@@ -33,7 +33,7 @@ The package contains part DEIF.2916990010.06 and iE 7 macros. Use EPLAN’s supp
 
 A synchronising controller helps generators connect to an AC system and share the load. It checks and adjusts their electrical output before a permitted connection.
 
-In a microgrid with two generators, the controllers help bring the second generator onto the common supply and divide the demand between them.
+An EPLAN user can import the supplied part and macro data when documenting the local display separately from the base-mounted controller.
 
 The package contains part DEIF.2916990010.06 and iE 7 macros. Use EPLAN’s supported import workflow and verify the imported item against the exact equipment. Check connections and installation documents separately; an EDZ package is not an ordinary STEP solid or a complete panel design.
 

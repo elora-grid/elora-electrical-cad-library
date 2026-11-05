@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "category": "generation",
+  "page": 1,
+  "entries": [
+    {
+      "id": "stamford-avk-p80-hv-s-core-sae00-coupling21",
+      "name": "P80-HV S core SAE00 coupling21",
+      "manufacturer": "STAMFORD AvK",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/stamford-avk-p80-hv-s-core-sae00-coupling21",
+      "recordPath": "equipment/stamford-avk-p80-hv-s-core-sae00-coupling21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/stamford-avk-p80-hv-s-core-sae00-coupling21.json"
+    },
+    {
+      "id": "caterpillar-power-hub-generator-configuration-drawings",
+      "name": "Power Hub generator configuration drawings",
+      "manufacturer": "Caterpillar",
+      "formats": [
+        "2D CAD",
+        "3D CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/caterpillar-power-hub-generator-configuration-drawings",
+      "recordPath": "equipment/caterpillar-power-hub-generator-configuration-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/caterpillar-power-hub-generator-configuration-drawings.json"
+    },
+    {
+      "id": "cummins-powersuite-generator-and-transfer-system-drawings",
+      "name": "PowerSuite generator and transfer-system drawings",
+      "manufacturer": "Cummins",
+      "formats": [
+        "CAD",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/cummins-powersuite-generator-and-transfer-system-drawings",
+      "recordPath": "equipment/cummins-powersuite-generator-and-transfer-system-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/cummins-powersuite-generator-and-transfer-system-drawings.json"
+    },
+    {
+      "id": "dagartech-bgpsw-15-st-complete-diesel-genset",
+      "name": "BGPSW 15 ST complete diesel genset",
+      "manufacturer": "Dagartech",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/dagartech-bgpsw-15-st-complete-diesel-genset",
+      "recordPath": "equipment/dagartech-bgpsw-15-st-complete-diesel-genset.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/dagartech-bgpsw-15-st-complete-diesel-genset.json"
+    },
+    {
+      "id": "dagartech-dgb-415-st-complete-diesel-genset",
+      "name": "DGB 415 ST complete diesel genset",
+      "manufacturer": "Dagartech",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/dagartech-dgb-415-st-complete-diesel-genset",
+      "recordPath": "equipment/dagartech-dgb-415-st-complete-diesel-genset.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/dagartech-dgb-415-st-complete-diesel-genset.json"
+    },
+    {
+      "id": "genelite-australia-purpose-built-generator-drawings-request",
+      "name": "Australia purpose-built generator drawings request",
+      "manufacturer": "Genelite",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/genelite-australia-purpose-built-generator-drawings-request",
+      "recordPath": "equipment/genelite-australia-purpose-built-generator-drawings-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/genelite-australia-purpose-built-generator-drawings-request.json"
+    },
+    {
+      "id": "generac-bi-fuel-generators-bim",
+      "name": "Bi-fuel generators BIM",
+      "manufacturer": "Generac",
+      "formats": [
+        "Revit"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/generac-bi-fuel-generators-bim",
+      "recordPath": "equipment/generac-bi-fuel-generators-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/generac-bi-fuel-generators-bim.json"
+    },
+    {
+      "id": "generac-diesel-generators-bim",
+      "name": "Diesel generators BIM",
+      "manufacturer": "Generac",
+      "formats": [
+        "Revit"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/generac-diesel-generators-bim",
+      "recordPath": "equipment/generac-diesel-generators-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/generac-diesel-generators-bim.json"
+    },
+    {
+      "id": "generac-gaseous-generators-bim",
+      "name": "Gaseous generators BIM",
+      "manufacturer": "Generac",
+      "formats": [
+        "Revit"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/generac-gaseous-generators-bim",
+      "recordPath": "equipment/generac-gaseous-generators-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/generac-gaseous-generators-bim.json"
+    },
+    {
+      "id": "innio-jenbacher-gas-biogas-chp-package-geometry-request",
+      "name": "Jenbacher gas/biogas CHP package geometry request",
+      "manufacturer": "INNIO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/innio-jenbacher-gas-biogas-chp-package-geometry-request",
+      "recordPath": "equipment/innio-jenbacher-gas-biogas-chp-package-geometry-request.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/innio-jenbacher-gas-biogas-chp-package-geometry-request.json"
+    },
+    {
+      "id": "mtu-rolls-royce-ps-spec-generator-selection",
+      "name": "PS-SPEC generator selection",
+      "manufacturer": "mtu / Rolls-Royce",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mtu-rolls-royce-ps-spec-generator-selection",
+      "recordPath": "equipment/mtu-rolls-royce-ps-spec-generator-selection.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mtu-rolls-royce-ps-spec-generator-selection.json"
+    },
+    {
+      "id": "mtu-rolls-royce-series-1600-2000-and-4000-generator-bim",
+      "name": "Series 1600, 2000 and 4000 generator BIM",
+      "manufacturer": "mtu / Rolls-Royce",
+      "formats": [
+        "DWFX",
+        "RFA",
+        "RVT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mtu-rolls-royce-series-1600-2000-and-4000-generator-bim",
+      "recordPath": "equipment/mtu-rolls-royce-series-1600-2000-and-4000-generator-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mtu-rolls-royce-series-1600-2000-and-4000-generator-bim.json"
+    },
+    {
+      "id": "rehlko-diesel-generators-bim",
+      "name": "Diesel generators BIM",
+      "manufacturer": "Rehlko",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/rehlko-diesel-generators-bim",
+      "recordPath": "equipment/rehlko-diesel-generators-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/rehlko-diesel-generators-bim.json"
+    },
+    {
+      "id": "rehlko-gaseous-generators-bim",
+      "name": "Gaseous generators BIM",
+      "manufacturer": "Rehlko",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/rehlko-gaseous-generators-bim",
+      "recordPath": "equipment/rehlko-gaseous-generators-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/rehlko-gaseous-generators-bim.json"
+    },
+    {
+      "id": "stamford-avk-general-arrangement-alternator-drawing-finder",
+      "name": "General-arrangement alternator drawing finder",
+      "manufacturer": "STAMFORD AvK",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/stamford-avk-general-arrangement-alternator-drawing-finder",
+      "recordPath": "equipment/stamford-avk-general-arrangement-alternator-drawing-finder.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/stamford-avk-general-arrangement-alternator-drawing-finder.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-40",
+      "name": "Leroy-Somer LSA 40",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-40",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-40.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-42-3",
+      "name": "Leroy-Somer LSA 42.3",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-42-3",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-42-3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-42-3.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-44-3",
+      "name": "Leroy-Somer LSA 44.3",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-44-3",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-44-3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-44-3.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-46-3",
+      "name": "Leroy-Somer LSA 46.3",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-46-3",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-46-3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-46-3.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-47-3",
+      "name": "Leroy-Somer LSA 47.3",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-47-3",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-47-3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-47-3.json"
+    },
+    {
+      "id": "europe-nidec-leroysomeralternatorlsa493",
+      "name": "Leroy-Somer LSA 49.3",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroysomeralternatorlsa493",
+      "recordPath": "equipment/europe-nidec-leroysomeralternatorlsa493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroysomeralternatorlsa493.json"
+    },
+    {
+      "id": "europe-nidec-leroysomeralternatorlsa502",
+      "name": "Leroy-Somer LSA 50.2",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroysomeralternatorlsa502",
+      "recordPath": "equipment/europe-nidec-leroysomeralternatorlsa502.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroysomeralternatorlsa502.json"
+    },
+    {
+      "id": "europe-nidec-leroysomeralternatorlsa523",
+      "name": "Leroy-Somer LSA 52.3",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroysomeralternatorlsa523",
+      "recordPath": "equipment/europe-nidec-leroysomeralternatorlsa523.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroysomeralternatorlsa523.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-53-2",
+      "name": "Leroy-Somer LSA 53.2",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-53-2",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-53-2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-53-2.json"
+    },
+    {
+      "id": "europe-nidec-leroy-somer-alternator-lsa-54",
+      "name": "Leroy-Somer LSA 54.2",
+      "manufacturer": "Nidec Leroy-Somer",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-nidec-leroy-somer-alternator-lsa-54",
+      "recordPath": "equipment/europe-nidec-leroy-somer-alternator-lsa-54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-nidec-leroy-somer-alternator-lsa-54.json"
+    },
+    {
+      "id": "europe-mecc-alte-engineering",
+      "name": "Alternator 2D/3D engineering library",
+      "manufacturer": "Mecc Alte",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-mecc-alte-engineering",
+      "recordPath": "equipment/europe-mecc-alte-engineering.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-mecc-alte-engineering.json"
+    },
+    {
+      "id": "uk-fg-wilson-power-centre",
+      "name": "Power Centre configured generator drawings",
+      "manufacturer": "FG Wilson",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-fg-wilson-power-centre",
+      "recordPath": "equipment/uk-fg-wilson-power-centre.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-fg-wilson-power-centre.json"
+    }
+  ]
+}

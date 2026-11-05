@@ -33,7 +33,7 @@ Use C0-00DD1-D.dwg for the physical controller reference. Its DC/sinking-output 
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+A machine-panel layout can locate the controller, power supply and related I/O while leaving the actual field wiring to the matching electrical documentation.
 
 Use C0-00DD1-D.dwg for the physical controller reference. Its DC/sinking-output arrangement differs from the AC-input, relay-output C0-00AR-D variant. Confirm the complete code, power arrangement and field-device interfaces rather than choosing by a similar outline alone.
 

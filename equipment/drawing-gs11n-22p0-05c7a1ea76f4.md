@@ -32,7 +32,7 @@ The verified native member is GS11N-22P0.DWG. Its identity was checked against t
 
 A motor turns electrical energy into movement, usually rotation of a shaft.
 
-In a switchroom ventilation system, the motor turns the fan that moves cooling air through the room.
+For drive cabinet coordination, place the GS11N-22P0 outline alongside the actual enclosure and adjacent hardware. Coordinate the drive or accessory outline with the power and control cable approaches and the manufacturer installation clearances. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is GS11N-22P0.DWG. Its identity was checked against the acquired manufacturer archive. Coordinate the drive or accessory outline with the power and control cable approaches and the manufacturer installation clearances. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

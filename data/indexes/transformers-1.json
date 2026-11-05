@@ -1,0 +1,2099 @@
+{
+  "schemaVersion": 1,
+  "category": "transformers",
+  "page": 1,
+  "entries": [
+    {
+      "id": "post-glover-neutral-grounding-resistor-enclosure-outline",
+      "name": "Neutral grounding resistor enclosure outline",
+      "manufacturer": "Post Glover",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/post-glover-neutral-grounding-resistor-enclosure-outline",
+      "recordPath": "equipment/post-glover-neutral-grounding-resistor-enclosure-outline.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/post-glover-neutral-grounding-resistor-enclosure-outline.json"
+    },
+    {
+      "id": "ad-transformers",
+      "name": "Control Transformers CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-transformers",
+      "recordPath": "equipment/ad-transformers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-transformers.json"
+    },
+    {
+      "id": "audit-power-cressall-neutral-earthing-resistors-and-generator-earthing-technical-source",
+      "name": "Neutral earthing resistors and generator-earthing technical source",
+      "manufacturer": "Cressall",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-cressall-neutral-earthing-resistors-and-generator-earthing-technical-source",
+      "recordPath": "equipment/audit-power-cressall-neutral-earthing-resistors-and-generator-earthing-technical-source.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-cressall-neutral-earthing-resistors-and-generator-earthing-technical-source.json"
+    },
+    {
+      "id": "hammond-power-solutions-control-and-distribution-transformer-configuration-drawings",
+      "name": "Control and distribution transformer configuration drawings",
+      "manufacturer": "Hammond Power Solutions",
+      "formats": [
+        "CAD",
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hammond-power-solutions-control-and-distribution-transformer-configuration-drawings",
+      "recordPath": "equipment/hammond-power-solutions-control-and-distribution-transformer-configuration-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hammond-power-solutions-control-and-distribution-transformer-configuration-drawings.json"
+    },
+    {
+      "id": "post-glover-grounding-transformer-and-resistor-assemblies",
+      "name": "Grounding transformer and resistor assemblies",
+      "manufacturer": "Post Glover",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/post-glover-grounding-transformer-and-resistor-assemblies",
+      "recordPath": "equipment/post-glover-grounding-transformer-and-resistor-assemblies.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/post-glover-grounding-transformer-and-resistor-assemblies.json"
+    },
+    {
+      "id": "post-glover-low-resistance-neutral-grounding-certified-drawings",
+      "name": "Low-resistance neutral grounding certified drawings",
+      "manufacturer": "Post Glover",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/post-glover-low-resistance-neutral-grounding-certified-drawings",
+      "recordPath": "equipment/post-glover-low-resistance-neutral-grounding-certified-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/post-glover-low-resistance-neutral-grounding-certified-drawings.json"
+    },
+    {
+      "id": "audit-power-wilson-transformer-company-power-distribution-transformer-and-compact-mv-substation-engineering-source",
+      "name": "Power/distribution transformer and compact-MV-substation engineering source",
+      "manufacturer": "Wilson Transformer Company",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-wilson-transformer-company-power-distribution-transformer-and-compact-mv-substation-engineering-source",
+      "recordPath": "equipment/audit-power-wilson-transformer-company-power-distribution-transformer-and-compact-mv-substation-engineering-source.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-wilson-transformer-company-power-distribution-transformer-and-compact-mv-substation-engineering-source.json"
+    },
+    {
+      "id": "abb-1000va-transformer-3d-drawing-a9db36e4",
+      "name": "1000VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4549",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1000va-transformer-3d-drawing-a9db36e4",
+      "recordPath": "equipment/abb-1000va-transformer-3d-drawing-a9db36e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1000va-transformer-3d-drawing-a9db36e4.json"
+    },
+    {
+      "id": "abb-100va-transformer-3d-drawing-cd3c62f8",
+      "name": "100VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4541",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-100va-transformer-3d-drawing-cd3c62f8",
+      "recordPath": "equipment/abb-100va-transformer-3d-drawing-cd3c62f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-100va-transformer-3d-drawing-cd3c62f8.json"
+    },
+    {
+      "id": "abb-1600va-transformer-3d-drawing-c5426335",
+      "name": "1600VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4550",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1600va-transformer-3d-drawing-c5426335",
+      "recordPath": "equipment/abb-1600va-transformer-3d-drawing-c5426335.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1600va-transformer-3d-drawing-c5426335.json"
+    },
+    {
+      "id": "abb-160va-transformer-3d-drawing-ae220814",
+      "name": "160VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4543",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-160va-transformer-3d-drawing-ae220814",
+      "recordPath": "equipment/abb-160va-transformer-3d-drawing-ae220814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-160va-transformer-3d-drawing-ae220814.json"
+    },
+    {
+      "id": "abb-2000va-transformer-3d-drawing-42baaf66",
+      "name": "2000VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4551",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2000va-transformer-3d-drawing-42baaf66",
+      "recordPath": "equipment/abb-2000va-transformer-3d-drawing-42baaf66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2000va-transformer-3d-drawing-42baaf66.json"
+    },
+    {
+      "id": "abb-2500va-transformer-3d-drawing-38ba64b2",
+      "name": "2500VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4552",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2500va-transformer-3d-drawing-38ba64b2",
+      "recordPath": "equipment/abb-2500va-transformer-3d-drawing-38ba64b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2500va-transformer-3d-drawing-38ba64b2.json"
+    },
+    {
+      "id": "abb-250va-transformer-3d-drawing-fd54249e",
+      "name": "250VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4545",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-250va-transformer-3d-drawing-fd54249e",
+      "recordPath": "equipment/abb-250va-transformer-3d-drawing-fd54249e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-250va-transformer-3d-drawing-fd54249e.json"
+    },
+    {
+      "id": "abb-320va-transformer-3d-drawing-8adc80a4",
+      "name": "320VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4546",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-320va-transformer-3d-drawing-8adc80a4",
+      "recordPath": "equipment/abb-320va-transformer-3d-drawing-8adc80a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-320va-transformer-3d-drawing-8adc80a4.json"
+    },
+    {
+      "id": "abb-400va-transformer-3d-drawing-1ff5268b",
+      "name": "400VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4547",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-400va-transformer-3d-drawing-1ff5268b",
+      "recordPath": "equipment/abb-400va-transformer-3d-drawing-1ff5268b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-400va-transformer-3d-drawing-1ff5268b.json"
+    },
+    {
+      "id": "abb-50va-transformer-3d-drawing-7a9a58a8",
+      "name": "50VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4540",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-50va-transformer-3d-drawing-7a9a58a8",
+      "recordPath": "equipment/abb-50va-transformer-3d-drawing-7a9a58a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-50va-transformer-3d-drawing-7a9a58a8.json"
+    },
+    {
+      "id": "abb-630va-transformer-3d-drawing-4da1c290",
+      "name": "630VA transformer 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A4548",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-630va-transformer-3d-drawing-4da1c290",
+      "recordPath": "equipment/abb-630va-transformer-3d-drawing-4da1c290.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-630va-transformer-3d-drawing-4da1c290.json"
+    },
+    {
+      "id": "abb-dry-type-transformer-outline-drawing-type-ql-3-phase-csa-c802-2-e131bd40",
+      "name": "DRY TYPE TRANSFORMER OUTLINE DRAWING TYPE QL, 3-PHASE, CSA C802.2",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111CADYP76A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dry-type-transformer-outline-drawing-type-ql-3-phase-csa-c802-2-e131bd40",
+      "recordPath": "equipment/abb-dry-type-transformer-outline-drawing-type-ql-3-phase-csa-c802-2-e131bd40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dry-type-transformer-outline-drawing-type-ql-3-phase-csa-c802-2-e131bd40.json"
+    },
+    {
+      "id": "s-c-electric-cypoxy-insulators-custom-components-1291a5c78b",
+      "name": "Cypoxy™ Insulators & Custom Components",
+      "manufacturer": "S&C Electric",
+      "drawingNumber": "Cypoxy™ Insulators & Custom Components",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/s-c-electric-cypoxy-insulators-custom-components-1291a5c78b",
+      "recordPath": "equipment/s-c-electric-cypoxy-insulators-custom-components-1291a5c78b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/s-c-electric-cypoxy-insulators-custom-components-1291a5c78b.json"
+    },
+    {
+      "id": "abb-ctmax-transformers-d0bec6ec8a",
+      "name": "CTMAX Transformers",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A0405",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ctmax-transformers-d0bec6ec8a",
+      "recordPath": "equipment/abb-ctmax-transformers-d0bec6ec8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ctmax-transformers-d0bec6ec8a.json"
+    },
+    {
+      "id": "abb-ctproxt-transformers-a99b6e9f88",
+      "name": "CTPROXT Transformers",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106930A0407",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ctproxt-transformers-a99b6e9f88",
+      "recordPath": "equipment/abb-ctproxt-transformers-a99b6e9f88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ctproxt-transformers-a99b6e9f88.json"
+    },
+    {
+      "id": "abb-1-phase-servicenter-10kva-outline-drawing-d2ed18c4f4",
+      "name": "1-Phase Servicenter 10kVA Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B915AAP010",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1-phase-servicenter-10kva-outline-drawing-d2ed18c4f4",
+      "recordPath": "equipment/abb-1-phase-servicenter-10kva-outline-drawing-d2ed18c4f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1-phase-servicenter-10kva-outline-drawing-d2ed18c4f4.json"
+    },
+    {
+      "id": "abb-1-phase-servicenter-15kva-outline-drawing-b80ade5b92",
+      "name": "1-Phase Servicenter 15kVA Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B915AAP015",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1-phase-servicenter-15kva-outline-drawing-b80ade5b92",
+      "recordPath": "equipment/abb-1-phase-servicenter-15kva-outline-drawing-b80ade5b92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1-phase-servicenter-15kva-outline-drawing-b80ade5b92.json"
+    },
+    {
+      "id": "abb-1-phase-servicenter-25kva-outline-drawing-202e36d21b",
+      "name": "1-Phase Servicenter 25kVA Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B915AAP025",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1-phase-servicenter-25kva-outline-drawing-202e36d21b",
+      "recordPath": "equipment/abb-1-phase-servicenter-25kva-outline-drawing-202e36d21b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1-phase-servicenter-25kva-outline-drawing-202e36d21b.json"
+    },
+    {
+      "id": "abb-1-phase-servicenter-5kva-outline-drawing-0af9e919ef",
+      "name": "1-Phase Servicenter 5kVA Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B915AAP005",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1-phase-servicenter-5kva-outline-drawing-0af9e919ef",
+      "recordPath": "equipment/abb-1-phase-servicenter-5kva-outline-drawing-0af9e919ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1-phase-servicenter-5kva-outline-drawing-0af9e919ef.json"
+    },
+    {
+      "id": "abb-1-phase-servicenter-7-5kva-outline-drawing-a0609802ba",
+      "name": "1-Phase Servicenter 7.5kVA Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B915AAP007",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1-phase-servicenter-7-5kva-outline-drawing-a0609802ba",
+      "recordPath": "equipment/abb-1-phase-servicenter-7-5kva-outline-drawing-a0609802ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1-phase-servicenter-7-5kva-outline-drawing-a0609802ba.json"
+    },
+    {
+      "id": "abb-3-phase-30-kva-al-general-purpose-outline-303b111geuyp22a-4d44237e37",
+      "name": "3-Phase 30 kVA AL General Purpose Outline 303B111GEUYP22A",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUYP22A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-30-kva-al-general-purpose-outline-303b111geuyp22a-4d44237e37",
+      "recordPath": "equipment/abb-3-phase-30-kva-al-general-purpose-outline-303b111geuyp22a-4d44237e37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-30-kva-al-general-purpose-outline-303b111geuyp22a-4d44237e37.json"
+    },
+    {
+      "id": "abb-3-phase-al-303b111geuxp74a-outline-drawing-52bfcf28f9",
+      "name": "3-Phase AL 303B111GEUXP74A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUXP74A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-al-303b111geuxp74a-outline-drawing-52bfcf28f9",
+      "recordPath": "equipment/abb-3-phase-al-303b111geuxp74a-outline-drawing-52bfcf28f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-al-303b111geuxp74a-outline-drawing-52bfcf28f9.json"
+    },
+    {
+      "id": "abb-3-phase-al-gp-k-factor-outline-303b112gedyp79a-1bddfb4c72",
+      "name": "3-Phase AL GP & K-Factor Outline 303B112GEDYP79A",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDYP79A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-al-gp-k-factor-outline-303b112gedyp79a-1bddfb4c72",
+      "recordPath": "equipment/abb-3-phase-al-gp-k-factor-outline-303b112gedyp79a-1bddfb4c72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-al-gp-k-factor-outline-303b112gedyp79a-1bddfb4c72.json"
+    },
+    {
+      "id": "abb-3-phase-al-gp-outline-303b112cadxp76a-b258f9971d",
+      "name": "3-Phase AL GP Outline 303B112CADXP76A",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112CADXP76A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-al-gp-outline-303b112cadxp76a-b258f9971d",
+      "recordPath": "equipment/abb-3-phase-al-gp-outline-303b112cadxp76a-b258f9971d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-al-gp-outline-303b112cadxp76a-b258f9971d.json"
+    },
+    {
+      "id": "abb-3-phase-al-gp-outline-303b112cadxp79a-052060a1d4",
+      "name": "3-Phase AL GP Outline 303B112CADXP79A",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112CADXP79A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-al-gp-outline-303b112cadxp79a-052060a1d4",
+      "recordPath": "equipment/abb-3-phase-al-gp-outline-303b112cadxp79a-052060a1d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-al-gp-outline-303b112cadxp79a-052060a1d4.json"
+    },
+    {
+      "id": "abb-3-phase-al-gp-outline-303b112gedyp17a-d22917372e",
+      "name": "3-Phase AL GP Outline 303B112GEDYP17A",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDYP17A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-al-gp-outline-303b112gedyp17a-d22917372e",
+      "recordPath": "equipment/abb-3-phase-al-gp-outline-303b112gedyp17a-d22917372e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-al-gp-outline-303b112gedyp17a-d22917372e.json"
+    },
+    {
+      "id": "abb-3-phase-cu-gp-xfmr-outline-303b112cadxp79c-b7829ec341",
+      "name": "3-Phase CU GP Xfmr Outline 303B112CADXP79C",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112CADXP79C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-cu-gp-xfmr-outline-303b112cadxp79c-b7829ec341",
+      "recordPath": "equipment/abb-3-phase-cu-gp-xfmr-outline-303b112cadxp79c-b7829ec341.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-cu-gp-xfmr-outline-303b112cadxp79c-b7829ec341.json"
+    },
+    {
+      "id": "abb-3-phase-cu-xfmr-303b112gedxp79c-drawing-3d31dc72be",
+      "name": "3-Phase CU Xfmr 303B112GEDXP79C drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDXP79C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-cu-xfmr-303b112gedxp79c-drawing-3d31dc72be",
+      "recordPath": "equipment/abb-3-phase-cu-xfmr-303b112gedxp79c-drawing-3d31dc72be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-cu-xfmr-303b112gedxp79c-drawing-3d31dc72be.json"
+    },
+    {
+      "id": "abb-3-phase-guard-ii-112-5-kva-outline-303b403aap075-893ccc5567",
+      "name": "3-Phase Guard II 112.5 kVA Outline 303B403AAP075",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B403AAP075",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-guard-ii-112-5-kva-outline-303b403aap075-893ccc5567",
+      "recordPath": "equipment/abb-3-phase-guard-ii-112-5-kva-outline-303b403aap075-893ccc5567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-guard-ii-112-5-kva-outline-303b403aap075-893ccc5567.json"
+    },
+    {
+      "id": "abb-3-phase-guard-ii-15-kva-outline-303b403aap071-4156c371ce",
+      "name": "3-Phase Guard II 15 kVA Outline 303B403AAP071",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B403AAP071",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-guard-ii-15-kva-outline-303b403aap071-4156c371ce",
+      "recordPath": "equipment/abb-3-phase-guard-ii-15-kva-outline-303b403aap071-4156c371ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-guard-ii-15-kva-outline-303b403aap071-4156c371ce.json"
+    },
+    {
+      "id": "abb-3-phase-guard-ii-30-kva-outline-303b403aap072-e32bcd92e8",
+      "name": "3-Phase Guard II 30 kVA Outline 303B403AAP072",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B403AAP072",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-guard-ii-30-kva-outline-303b403aap072-e32bcd92e8",
+      "recordPath": "equipment/abb-3-phase-guard-ii-30-kva-outline-303b403aap072-e32bcd92e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-guard-ii-30-kva-outline-303b403aap072-e32bcd92e8.json"
+    },
+    {
+      "id": "abb-3-phase-guard-ii-45-kva-outline-303b403aap073-18959011c4",
+      "name": "3-Phase Guard II 45 kVA Outline 303B403AAP073",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B403AAP073",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-guard-ii-45-kva-outline-303b403aap073-18959011c4",
+      "recordPath": "equipment/abb-3-phase-guard-ii-45-kva-outline-303b403aap073-18959011c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-guard-ii-45-kva-outline-303b403aap073-18959011c4.json"
+    },
+    {
+      "id": "abb-3-phase-guard-ii-75-kva-outline-303b403aap074-da093f711a",
+      "name": "3-Phase Guard II 75 kVA Outline 303B403AAP074",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B403AAP074",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-guard-ii-75-kva-outline-303b403aap074-da093f711a",
+      "recordPath": "equipment/abb-3-phase-guard-ii-75-kva-outline-303b403aap074-da093f711a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-guard-ii-75-kva-outline-303b403aap074-da093f711a.json"
+    },
+    {
+      "id": "abb-3-phase-servicenter-outline-drawing-303b424aap015-f99faa4ada",
+      "name": "3-Phase Servicenter Outline Drawing 303B424AAP015",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B424AAP015",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-servicenter-outline-drawing-303b424aap015-f99faa4ada",
+      "recordPath": "equipment/abb-3-phase-servicenter-outline-drawing-303b424aap015-f99faa4ada.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-servicenter-outline-drawing-303b424aap015-f99faa4ada.json"
+    },
+    {
+      "id": "abb-3-phase-servicenter-outline-drawing-303b424aap022-9bb0bbcd60",
+      "name": "3-Phase Servicenter Outline Drawing 303B424AAP022",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B424AAP022",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-servicenter-outline-drawing-303b424aap022-9bb0bbcd60",
+      "recordPath": "equipment/abb-3-phase-servicenter-outline-drawing-303b424aap022-9bb0bbcd60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-servicenter-outline-drawing-303b424aap022-9bb0bbcd60.json"
+    },
+    {
+      "id": "abb-3-phase-servicenter-outline-drawing-303b424aap030-e11d46c58b",
+      "name": "3-Phase Servicenter Outline Drawing 303B424AAP030",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B424AAP030",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-servicenter-outline-drawing-303b424aap030-e11d46c58b",
+      "recordPath": "equipment/abb-3-phase-servicenter-outline-drawing-303b424aap030-e11d46c58b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-servicenter-outline-drawing-303b424aap030-e11d46c58b.json"
+    },
+    {
+      "id": "abb-3-phase-servicenter-ss-outline-303b424ssp015-0c0d86e79b",
+      "name": "3-Phase Servicenter SS Outline 303B424SSP015",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B424SSP015",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-servicenter-ss-outline-303b424ssp015-0c0d86e79b",
+      "recordPath": "equipment/abb-3-phase-servicenter-ss-outline-303b424ssp015-0c0d86e79b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-servicenter-ss-outline-303b424ssp015-0c0d86e79b.json"
+    },
+    {
+      "id": "abb-3-phase-servicenter-ss-outline-303b424ssp022-33b22d8543",
+      "name": "3-Phase Servicenter SS Outline 303B424SSP022",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B424SSP022",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-servicenter-ss-outline-303b424ssp022-33b22d8543",
+      "recordPath": "equipment/abb-3-phase-servicenter-ss-outline-303b424ssp022-33b22d8543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-servicenter-ss-outline-303b424ssp022-33b22d8543.json"
+    },
+    {
+      "id": "abb-3-phase-servicenter-ss-outline-303b424ssp030-85d7b7b34a",
+      "name": "3-Phase Servicenter SS Outline 303B424SSP030",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B424SSP030",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3-phase-servicenter-ss-outline-303b424ssp030-85d7b7b34a",
+      "recordPath": "equipment/abb-3-phase-servicenter-ss-outline-303b424ssp030-85d7b7b34a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3-phase-servicenter-ss-outline-303b424ssp030-85d7b7b34a.json"
+    },
+    {
+      "id": "abb-303b111cadxp76c-outline-drawing-fb161ecad9",
+      "name": "303B111CADXP76C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A4986",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111cadxp76c-outline-drawing-fb161ecad9",
+      "recordPath": "equipment/abb-303b111cadxp76c-outline-drawing-fb161ecad9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111cadxp76c-outline-drawing-fb161ecad9.json"
+    },
+    {
+      "id": "abb-303b111cauxp74c-outline-drawing-ba312f37ab",
+      "name": "303B111CAUXP74C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A4987",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111cauxp74c-outline-drawing-ba312f37ab",
+      "recordPath": "equipment/abb-303b111cauxp74c-outline-drawing-ba312f37ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111cauxp74c-outline-drawing-ba312f37ab.json"
+    },
+    {
+      "id": "abb-303b111gedxp74c-outline-drawing-677f79d7ac",
+      "name": "303B111GEDXP74C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEDXP74C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gedxp74c-outline-drawing-677f79d7ac",
+      "recordPath": "equipment/abb-303b111gedxp74c-outline-drawing-677f79d7ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gedxp74c-outline-drawing-677f79d7ac.json"
+    },
+    {
+      "id": "abb-303b111gedyp06a-outline-drawing-662c21a613",
+      "name": "303B111GEDYP06A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3742",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gedyp06a-outline-drawing-662c21a613",
+      "recordPath": "equipment/abb-303b111gedyp06a-outline-drawing-662c21a613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gedyp06a-outline-drawing-662c21a613.json"
+    },
+    {
+      "id": "abb-303b111gedyp76a-outline-drawing-fcc3cb45bc",
+      "name": "303B111GEDYP76A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEDYP76A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gedyp76a-outline-drawing-fcc3cb45bc",
+      "recordPath": "equipment/abb-303b111gedyp76a-outline-drawing-fcc3cb45bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gedyp76a-outline-drawing-fcc3cb45bc.json"
+    },
+    {
+      "id": "abb-303b111gedyp76c-outline-drawing-d9c1e15a40",
+      "name": "303B111GEDYP76C outline drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEDYP76C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gedyp76c-outline-drawing-d9c1e15a40",
+      "recordPath": "equipment/abb-303b111gedyp76c-outline-drawing-d9c1e15a40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gedyp76c-outline-drawing-d9c1e15a40.json"
+    },
+    {
+      "id": "abb-303b111geuxp71c-outline-drawing-ccd64f5e0d",
+      "name": "303B111GEUXP71C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUXP71C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuxp71c-outline-drawing-ccd64f5e0d",
+      "recordPath": "equipment/abb-303b111geuxp71c-outline-drawing-ccd64f5e0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuxp71c-outline-drawing-ccd64f5e0d.json"
+    },
+    {
+      "id": "abb-303b111geuxp72c-outline-drawing-27d1f87e58",
+      "name": "303B111GEUXP72C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUXP72C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuxp72c-outline-drawing-27d1f87e58",
+      "recordPath": "equipment/abb-303b111geuxp72c-outline-drawing-27d1f87e58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuxp72c-outline-drawing-27d1f87e58.json"
+    },
+    {
+      "id": "abb-303b111geuxp72c-for-9t14c1002g25-dyn5-0b5e84cae0",
+      "name": "303B111GEUXP72C for 9T14C1002G25 Dyn5",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A9925",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuxp72c-for-9t14c1002g25-dyn5-0b5e84cae0",
+      "recordPath": "equipment/abb-303b111geuxp72c-for-9t14c1002g25-dyn5-0b5e84cae0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuxp72c-for-9t14c1002g25-dyn5-0b5e84cae0.json"
+    },
+    {
+      "id": "abb-303b111geuxp73c-outline-drawing-27e99dfe30",
+      "name": "303B111GEUXP73C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUXP73C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuxp73c-outline-drawing-27e99dfe30",
+      "recordPath": "equipment/abb-303b111geuxp73c-outline-drawing-27e99dfe30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuxp73c-outline-drawing-27e99dfe30.json"
+    },
+    {
+      "id": "abb-303b111geuxp74c-outline-drawing-b652df4aa2",
+      "name": "303B111GEUXP74C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUXP74C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuxp74c-outline-drawing-b652df4aa2",
+      "recordPath": "equipment/abb-303b111geuxp74c-outline-drawing-b652df4aa2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuxp74c-outline-drawing-b652df4aa2.json"
+    },
+    {
+      "id": "abb-303b111geuyp24a-outline-drawing-8536d7a41d",
+      "name": "303B111GEUYP24A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUYP24A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuyp24a-outline-drawing-8536d7a41d",
+      "recordPath": "equipment/abb-303b111geuyp24a-outline-drawing-8536d7a41d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuyp24a-outline-drawing-8536d7a41d.json"
+    },
+    {
+      "id": "abb-303b111geuyp73a-outline-drawing-44e2d01e9e",
+      "name": "303B111GEUYP73A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3283",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuyp73a-outline-drawing-44e2d01e9e",
+      "recordPath": "equipment/abb-303b111geuyp73a-outline-drawing-44e2d01e9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuyp73a-outline-drawing-44e2d01e9e.json"
+    },
+    {
+      "id": "abb-303b111geuyp74c-outline-drawing-8978902a51",
+      "name": "303B111GEUYP74C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUYP74C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111geuyp74c-outline-drawing-8978902a51",
+      "recordPath": "equipment/abb-303b111geuyp74c-outline-drawing-8978902a51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111geuyp74c-outline-drawing-8978902a51.json"
+    },
+    {
+      "id": "abb-303b111grdxp75a-outline-drawing-965dd196ad",
+      "name": "303B111GRDXP75A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDXP75A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdxp75a-outline-drawing-965dd196ad",
+      "recordPath": "equipment/abb-303b111grdxp75a-outline-drawing-965dd196ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdxp75a-outline-drawing-965dd196ad.json"
+    },
+    {
+      "id": "abb-303b111grdxp75c-outline-drawing-e7b5d03f3a",
+      "name": "303B111GRDXP75C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDXP75C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdxp75c-outline-drawing-e7b5d03f3a",
+      "recordPath": "equipment/abb-303b111grdxp75c-outline-drawing-e7b5d03f3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdxp75c-outline-drawing-e7b5d03f3a.json"
+    },
+    {
+      "id": "abb-303b111grdxp76c-outline-drawing-e1a3ddbd79",
+      "name": "303B111GRDXP76C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDXP76C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdxp76c-outline-drawing-e1a3ddbd79",
+      "recordPath": "equipment/abb-303b111grdxp76c-outline-drawing-e1a3ddbd79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdxp76c-outline-drawing-e1a3ddbd79.json"
+    },
+    {
+      "id": "abb-303b111grdyp05a-outline-drawing-94a00e255c",
+      "name": "303B111GRDYP05A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDYP05A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdyp05a-outline-drawing-94a00e255c",
+      "recordPath": "equipment/abb-303b111grdyp05a-outline-drawing-94a00e255c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdyp05a-outline-drawing-94a00e255c.json"
+    },
+    {
+      "id": "abb-303b111grdyp05c-outline-drawing-4531c154a5",
+      "name": "303B111GRDYP05C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDYP05C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdyp05c-outline-drawing-4531c154a5",
+      "recordPath": "equipment/abb-303b111grdyp05c-outline-drawing-4531c154a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdyp05c-outline-drawing-4531c154a5.json"
+    },
+    {
+      "id": "abb-303b111grdyp76a-outline-drawing-a1dc15e57f",
+      "name": "303B111GRDYP76A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDYP76A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdyp76a-outline-drawing-a1dc15e57f",
+      "recordPath": "equipment/abb-303b111grdyp76a-outline-drawing-a1dc15e57f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdyp76a-outline-drawing-a1dc15e57f.json"
+    },
+    {
+      "id": "abb-303b111grdyp76c-outline-drawing-0576005bee",
+      "name": "303B111GRDYP76C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRDYP76C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111grdyp76c-outline-drawing-0576005bee",
+      "recordPath": "equipment/abb-303b111grdyp76c-outline-drawing-0576005bee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111grdyp76c-outline-drawing-0576005bee.json"
+    },
+    {
+      "id": "abb-303b111gruxp02c-outline-drawing-37ec6835c1",
+      "name": "303B111GRUXP02C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP02C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp02c-outline-drawing-37ec6835c1",
+      "recordPath": "equipment/abb-303b111gruxp02c-outline-drawing-37ec6835c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp02c-outline-drawing-37ec6835c1.json"
+    },
+    {
+      "id": "abb-303b111gruxp71a-outline-drawing-f5b4803939",
+      "name": "303B111GRUXP71A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP71A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp71a-outline-drawing-f5b4803939",
+      "recordPath": "equipment/abb-303b111gruxp71a-outline-drawing-f5b4803939.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp71a-outline-drawing-f5b4803939.json"
+    },
+    {
+      "id": "abb-303b111gruxp71c-outline-drawing-792f167e9a",
+      "name": "303B111GRUXP71C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP71C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp71c-outline-drawing-792f167e9a",
+      "recordPath": "equipment/abb-303b111gruxp71c-outline-drawing-792f167e9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp71c-outline-drawing-792f167e9a.json"
+    },
+    {
+      "id": "abb-303b111gruxp72a-outline-drawing-ed762c2dc7",
+      "name": "303B111GRUXP72A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP72A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp72a-outline-drawing-ed762c2dc7",
+      "recordPath": "equipment/abb-303b111gruxp72a-outline-drawing-ed762c2dc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp72a-outline-drawing-ed762c2dc7.json"
+    },
+    {
+      "id": "abb-303b111gruxp73a-outline-drawing-ca9fbba99f",
+      "name": "303B111GRUXP73A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP73A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp73a-outline-drawing-ca9fbba99f",
+      "recordPath": "equipment/abb-303b111gruxp73a-outline-drawing-ca9fbba99f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp73a-outline-drawing-ca9fbba99f.json"
+    },
+    {
+      "id": "abb-303b111gruxp73c-outline-drawing-a9a5b7d219",
+      "name": "303B111GRUXP73C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP73C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp73c-outline-drawing-a9a5b7d219",
+      "recordPath": "equipment/abb-303b111gruxp73c-outline-drawing-a9a5b7d219.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp73c-outline-drawing-a9a5b7d219.json"
+    },
+    {
+      "id": "abb-303b111gruxp74a-outline-drawing-43e97c2d9c",
+      "name": "303B111GRUXP74A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP74A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp74a-outline-drawing-43e97c2d9c",
+      "recordPath": "equipment/abb-303b111gruxp74a-outline-drawing-43e97c2d9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp74a-outline-drawing-43e97c2d9c.json"
+    },
+    {
+      "id": "abb-303b111gruxp74c-outline-drawing-d7c88b4ff7",
+      "name": "303B111GRUXP74C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUXP74C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruxp74c-outline-drawing-d7c88b4ff7",
+      "recordPath": "equipment/abb-303b111gruxp74c-outline-drawing-d7c88b4ff7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruxp74c-outline-drawing-d7c88b4ff7.json"
+    },
+    {
+      "id": "abb-303b111gruyp03a-outline-drawing-03507931d8",
+      "name": "303B111GRUYP03A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUYP03A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruyp03a-outline-drawing-03507931d8",
+      "recordPath": "equipment/abb-303b111gruyp03a-outline-drawing-03507931d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruyp03a-outline-drawing-03507931d8.json"
+    },
+    {
+      "id": "abb-303b111gruyp14c-outline-drawing-8e5eb17a12",
+      "name": "303B111GRUYP14C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUYP14C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruyp14c-outline-drawing-8e5eb17a12",
+      "recordPath": "equipment/abb-303b111gruyp14c-outline-drawing-8e5eb17a12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruyp14c-outline-drawing-8e5eb17a12.json"
+    },
+    {
+      "id": "abb-303b111gruyp22a-outline-drawing-ae17582d96",
+      "name": "303B111GRUYP22A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUYP22A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruyp22a-outline-drawing-ae17582d96",
+      "recordPath": "equipment/abb-303b111gruyp22a-outline-drawing-ae17582d96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruyp22a-outline-drawing-ae17582d96.json"
+    },
+    {
+      "id": "abb-303b111gruyp24a-outline-drawing-4d0ba51dfe",
+      "name": "303B111GRUYP24A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GRUYP24A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruyp24a-outline-drawing-4d0ba51dfe",
+      "recordPath": "equipment/abb-303b111gruyp24a-outline-drawing-4d0ba51dfe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruyp24a-outline-drawing-4d0ba51dfe.json"
+    },
+    {
+      "id": "abb-303b111gruyp74a-13bd313ff8",
+      "name": "303B111GRUYP74A",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A9981",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b111gruyp74a-13bd313ff8",
+      "recordPath": "equipment/abb-303b111gruyp74a-13bd313ff8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b111gruyp74a-13bd313ff8.json"
+    },
+    {
+      "id": "abb-303b112cadxp78a-outline-drawing-3ca63ea8f2",
+      "name": "303B112CADXP78A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A5423",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112cadxp78a-outline-drawing-3ca63ea8f2",
+      "recordPath": "equipment/abb-303b112cadxp78a-outline-drawing-3ca63ea8f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112cadxp78a-outline-drawing-3ca63ea8f2.json"
+    },
+    {
+      "id": "abb-303b112cadxp78c-outline-drawing-1ca2a1c63d",
+      "name": "303B112CADXP78C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A4988",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112cadxp78c-outline-drawing-1ca2a1c63d",
+      "recordPath": "equipment/abb-303b112cadxp78c-outline-drawing-1ca2a1c63d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112cadxp78c-outline-drawing-1ca2a1c63d.json"
+    },
+    {
+      "id": "abb-303b112cadyp77c-outline-drawing-e5b5233ddc",
+      "name": "303B112CADYP77C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112CADYP77C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112cadyp77c-outline-drawing-e5b5233ddc",
+      "recordPath": "equipment/abb-303b112cadyp77c-outline-drawing-e5b5233ddc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112cadyp77c-outline-drawing-e5b5233ddc.json"
+    },
+    {
+      "id": "abb-303b112cadyp78a-outline-drawing-eccca0800b",
+      "name": "303B112CADYP78A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3284",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112cadyp78a-outline-drawing-eccca0800b",
+      "recordPath": "equipment/abb-303b112cadyp78a-outline-drawing-eccca0800b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112cadyp78a-outline-drawing-eccca0800b.json"
+    },
+    {
+      "id": "abb-303b112cadyp78c-outline-drawing-c24af56a51",
+      "name": "303B112CADYP78C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3285",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112cadyp78c-outline-drawing-c24af56a51",
+      "recordPath": "equipment/abb-303b112cadyp78c-outline-drawing-c24af56a51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112cadyp78c-outline-drawing-c24af56a51.json"
+    },
+    {
+      "id": "abb-303b112cadyp79a-outline-drawing-d671c5da1a",
+      "name": "303B112CADYP79A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A5424",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112cadyp79a-outline-drawing-d671c5da1a",
+      "recordPath": "equipment/abb-303b112cadyp79a-outline-drawing-d671c5da1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112cadyp79a-outline-drawing-d671c5da1a.json"
+    },
+    {
+      "id": "abb-303b112gedxp76a-outline-drawing-6097f51a7c",
+      "name": "303B112GEDXP76A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDXP76A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedxp76a-outline-drawing-6097f51a7c",
+      "recordPath": "equipment/abb-303b112gedxp76a-outline-drawing-6097f51a7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedxp76a-outline-drawing-6097f51a7c.json"
+    },
+    {
+      "id": "abb-303b112gedxp77a-outline-drawing-3f11c11a0a",
+      "name": "303B112GEDXP77A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3286",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedxp77a-outline-drawing-3f11c11a0a",
+      "recordPath": "equipment/abb-303b112gedxp77a-outline-drawing-3f11c11a0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedxp77a-outline-drawing-3f11c11a0a.json"
+    },
+    {
+      "id": "abb-303b112gedxp77c-outline-drawing-b61f3782f1",
+      "name": "303B112GEDXP77C Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDXP77C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedxp77c-outline-drawing-b61f3782f1",
+      "recordPath": "equipment/abb-303b112gedxp77c-outline-drawing-b61f3782f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedxp77c-outline-drawing-b61f3782f1.json"
+    },
+    {
+      "id": "abb-303b112gedxp78a-outline-drawing-bca30c675d",
+      "name": "303B112GEDXP78A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3287",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedxp78a-outline-drawing-bca30c675d",
+      "recordPath": "equipment/abb-303b112gedxp78a-outline-drawing-bca30c675d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedxp78a-outline-drawing-bca30c675d.json"
+    },
+    {
+      "id": "abb-303b112gedxp79a-outline-drawing-33dda1595e",
+      "name": "303B112GEDXP79A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDXP79A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedxp79a-outline-drawing-33dda1595e",
+      "recordPath": "equipment/abb-303b112gedxp79a-outline-drawing-33dda1595e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedxp79a-outline-drawing-33dda1595e.json"
+    },
+    {
+      "id": "abb-303b112gedyp77a-outline-drawing-49ce1aa93a",
+      "name": "303B112GEDYP77A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDYP77A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedyp77a-outline-drawing-49ce1aa93a",
+      "recordPath": "equipment/abb-303b112gedyp77a-outline-drawing-49ce1aa93a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedyp77a-outline-drawing-49ce1aa93a.json"
+    },
+    {
+      "id": "abb-303b112gedyp78a-outline-drawing-2b97fea0a5",
+      "name": "303B112GEDYP78A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A4879",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112gedyp78a-outline-drawing-2b97fea0a5",
+      "recordPath": "equipment/abb-303b112gedyp78a-outline-drawing-2b97fea0a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112gedyp78a-outline-drawing-2b97fea0a5.json"
+    },
+    {
+      "id": "abb-303b112grdxp76a-outline-drawing-1b5da9946d",
+      "name": "303B112GRDXP76A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP76A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp76a-outline-drawing-1b5da9946d",
+      "recordPath": "equipment/abb-303b112grdxp76a-outline-drawing-1b5da9946d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp76a-outline-drawing-1b5da9946d.json"
+    },
+    {
+      "id": "abb-303b112grdxp77a-outline-drawing-8b3e3f5327",
+      "name": "303B112GRDXP77A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP77A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp77a-outline-drawing-8b3e3f5327",
+      "recordPath": "equipment/abb-303b112grdxp77a-outline-drawing-8b3e3f5327.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp77a-outline-drawing-8b3e3f5327.json"
+    },
+    {
+      "id": "abb-303b112grdxp77c-outline-drawing-aa7778a0e0",
+      "name": "303B112GRDXP77C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP77C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp77c-outline-drawing-aa7778a0e0",
+      "recordPath": "equipment/abb-303b112grdxp77c-outline-drawing-aa7778a0e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp77c-outline-drawing-aa7778a0e0.json"
+    },
+    {
+      "id": "abb-303b112grdxp78a-outline-drawing-9957e229b3",
+      "name": "303B112GRDXP78A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP78A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp78a-outline-drawing-9957e229b3",
+      "recordPath": "equipment/abb-303b112grdxp78a-outline-drawing-9957e229b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp78a-outline-drawing-9957e229b3.json"
+    },
+    {
+      "id": "abb-303b112grdxp78c-outline-drawing-e576472a50",
+      "name": "303B112GRDXP78C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP78C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp78c-outline-drawing-e576472a50",
+      "recordPath": "equipment/abb-303b112grdxp78c-outline-drawing-e576472a50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp78c-outline-drawing-e576472a50.json"
+    },
+    {
+      "id": "abb-303b112grdxp79a-outline-drawing-5de6cc43d3",
+      "name": "303B112GRDXP79A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP79A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp79a-outline-drawing-5de6cc43d3",
+      "recordPath": "equipment/abb-303b112grdxp79a-outline-drawing-5de6cc43d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp79a-outline-drawing-5de6cc43d3.json"
+    },
+    {
+      "id": "abb-303b112grdxp79c-outline-drawing-925539180a",
+      "name": "303B112GRDXP79C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDXP79C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdxp79c-outline-drawing-925539180a",
+      "recordPath": "equipment/abb-303b112grdxp79c-outline-drawing-925539180a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdxp79c-outline-drawing-925539180a.json"
+    },
+    {
+      "id": "abb-303b112grdyp08a-outline-drawing-f624924b41",
+      "name": "303B112GRDYP08A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDYP08A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdyp08a-outline-drawing-f624924b41",
+      "recordPath": "equipment/abb-303b112grdyp08a-outline-drawing-f624924b41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdyp08a-outline-drawing-f624924b41.json"
+    },
+    {
+      "id": "abb-303b112grdyp17a-outline-drawing-04c872806f",
+      "name": "303B112GRDYP17A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDYP17A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdyp17a-outline-drawing-04c872806f",
+      "recordPath": "equipment/abb-303b112grdyp17a-outline-drawing-04c872806f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdyp17a-outline-drawing-04c872806f.json"
+    },
+    {
+      "id": "abb-303b112grdyp67a-outline-drawing-484b82d665",
+      "name": "303B112GRDYP67A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDYP67A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdyp67a-outline-drawing-484b82d665",
+      "recordPath": "equipment/abb-303b112grdyp67a-outline-drawing-484b82d665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdyp67a-outline-drawing-484b82d665.json"
+    },
+    {
+      "id": "abb-303b112grdyp77c-outline-drawing-df48a07e78",
+      "name": "303B112GRDYP77C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDYP77C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdyp77c-outline-drawing-df48a07e78",
+      "recordPath": "equipment/abb-303b112grdyp77c-outline-drawing-df48a07e78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdyp77c-outline-drawing-df48a07e78.json"
+    },
+    {
+      "id": "abb-303b112grdyp78c-outline-drawing-657111051f",
+      "name": "303B112GRDYP78C - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDYP78C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdyp78c-outline-drawing-657111051f",
+      "recordPath": "equipment/abb-303b112grdyp78c-outline-drawing-657111051f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdyp78c-outline-drawing-657111051f.json"
+    },
+    {
+      "id": "abb-303b112grdyp79a-outline-drawing-ca3c494db6",
+      "name": "303B112GRDYP79A - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GRDYP79A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b112grdyp79a-outline-drawing-ca3c494db6",
+      "recordPath": "equipment/abb-303b112grdyp79a-outline-drawing-ca3c494db6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b112grdyp79a-outline-drawing-ca3c494db6.json"
+    },
+    {
+      "id": "abb-303b115geuxp73a-outline-drawing-1a1465fd2f",
+      "name": "303B115GEUXP73A Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A5153",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b115geuxp73a-outline-drawing-1a1465fd2f",
+      "recordPath": "equipment/abb-303b115geuxp73a-outline-drawing-1a1465fd2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b115geuxp73a-outline-drawing-1a1465fd2f.json"
+    },
+    {
+      "id": "abb-303b401aap071-outline-drawing-f3ca9578e6",
+      "name": "303B401AAP071 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B401AAP071",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b401aap071-outline-drawing-f3ca9578e6",
+      "recordPath": "equipment/abb-303b401aap071-outline-drawing-f3ca9578e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b401aap071-outline-drawing-f3ca9578e6.json"
+    },
+    {
+      "id": "abb-303b401aap072-outline-drawing-185247a9b2",
+      "name": "303B401AAP072 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B401AAP072",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b401aap072-outline-drawing-185247a9b2",
+      "recordPath": "equipment/abb-303b401aap072-outline-drawing-185247a9b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b401aap072-outline-drawing-185247a9b2.json"
+    },
+    {
+      "id": "abb-303b401aap073-outline-drawing-6dc2d479e6",
+      "name": "303B401AAP073 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B401AAP073",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b401aap073-outline-drawing-6dc2d479e6",
+      "recordPath": "equipment/abb-303b401aap073-outline-drawing-6dc2d479e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b401aap073-outline-drawing-6dc2d479e6.json"
+    },
+    {
+      "id": "abb-303b401aap074-outline-drawing-9819ada2cd",
+      "name": "303B401AAP074 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B401AAP074",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b401aap074-outline-drawing-9819ada2cd",
+      "recordPath": "equipment/abb-303b401aap074-outline-drawing-9819ada2cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b401aap074-outline-drawing-9819ada2cd.json"
+    },
+    {
+      "id": "abb-303b401aap075-outline-drawing-b453429b8e",
+      "name": "303B401AAP075 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3288",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b401aap075-outline-drawing-b453429b8e",
+      "recordPath": "equipment/abb-303b401aap075-outline-drawing-b453429b8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b401aap075-outline-drawing-b453429b8e.json"
+    },
+    {
+      "id": "abb-303b401aap076-outline-drawing-7d260e5893",
+      "name": "303B401AAP076 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3289",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b401aap076-outline-drawing-7d260e5893",
+      "recordPath": "equipment/abb-303b401aap076-outline-drawing-7d260e5893.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b401aap076-outline-drawing-7d260e5893.json"
+    },
+    {
+      "id": "abb-303b405aap072-outline-drawing-14ce7ad9a6",
+      "name": "303B405AAP072 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3290",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b405aap072-outline-drawing-14ce7ad9a6",
+      "recordPath": "equipment/abb-303b405aap072-outline-drawing-14ce7ad9a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b405aap072-outline-drawing-14ce7ad9a6.json"
+    },
+    {
+      "id": "abb-303b405aap073-outline-drawing-2cb9f3f2b7",
+      "name": "303B405AAP073 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3291",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b405aap073-outline-drawing-2cb9f3f2b7",
+      "recordPath": "equipment/abb-303b405aap073-outline-drawing-2cb9f3f2b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b405aap073-outline-drawing-2cb9f3f2b7.json"
+    },
+    {
+      "id": "abb-303b405aap074-outline-drawing-93e611588a",
+      "name": "303B405AAP074 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B405AAP074",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b405aap074-outline-drawing-93e611588a",
+      "recordPath": "equipment/abb-303b405aap074-outline-drawing-93e611588a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b405aap074-outline-drawing-93e611588a.json"
+    },
+    {
+      "id": "abb-303b405aap075-outline-drawing-c9a8ca0351",
+      "name": "303B405AAP075 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3361",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b405aap075-outline-drawing-c9a8ca0351",
+      "recordPath": "equipment/abb-303b405aap075-outline-drawing-c9a8ca0351.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b405aap075-outline-drawing-c9a8ca0351.json"
+    },
+    {
+      "id": "abb-303b406aap071-outline-drawing-ba7acfc603",
+      "name": "303B406AAP071 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3362",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b406aap071-outline-drawing-ba7acfc603",
+      "recordPath": "equipment/abb-303b406aap071-outline-drawing-ba7acfc603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b406aap071-outline-drawing-ba7acfc603.json"
+    },
+    {
+      "id": "abb-303b406aap072-outline-drawing-1c3a13f72f",
+      "name": "303B406AAP072 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3363",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b406aap072-outline-drawing-1c3a13f72f",
+      "recordPath": "equipment/abb-303b406aap072-outline-drawing-1c3a13f72f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b406aap072-outline-drawing-1c3a13f72f.json"
+    },
+    {
+      "id": "abb-303b406aap073-outline-drawing-ee7b5feb6e",
+      "name": "303B406AAP073 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3365",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b406aap073-outline-drawing-ee7b5feb6e",
+      "recordPath": "equipment/abb-303b406aap073-outline-drawing-ee7b5feb6e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b406aap073-outline-drawing-ee7b5feb6e.json"
+    },
+    {
+      "id": "abb-303b406aap074-outline-drawing-555b94e1ab",
+      "name": "303B406AAP074 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3366",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b406aap074-outline-drawing-555b94e1ab",
+      "recordPath": "equipment/abb-303b406aap074-outline-drawing-555b94e1ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b406aap074-outline-drawing-555b94e1ab.json"
+    },
+    {
+      "id": "abb-303b410cap074-outline-drawing-1403d0e2a9",
+      "name": "303B410CAP074 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B410CAP074",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b410cap074-outline-drawing-1403d0e2a9",
+      "recordPath": "equipment/abb-303b410cap074-outline-drawing-1403d0e2a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b410cap074-outline-drawing-1403d0e2a9.json"
+    },
+    {
+      "id": "abb-303b411cap072-outline-drawing-bb1eb81259",
+      "name": "303B411CAP072 - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B411CAP072",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b411cap072-outline-drawing-bb1eb81259",
+      "recordPath": "equipment/abb-303b411cap072-outline-drawing-bb1eb81259.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b411cap072-outline-drawing-bb1eb81259.json"
+    },
+    {
+      "id": "abb-303b411cap073-outline-drawing-ae6ca9d94d",
+      "name": "303B411CAP073 - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B411CAP073",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b411cap073-outline-drawing-ae6ca9d94d",
+      "recordPath": "equipment/abb-303b411cap073-outline-drawing-ae6ca9d94d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b411cap073-outline-drawing-ae6ca9d94d.json"
+    },
+    {
+      "id": "abb-303b431slp071-outline-drawing-b7d2714669",
+      "name": "303B431SLP071 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3367",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b431slp071-outline-drawing-b7d2714669",
+      "recordPath": "equipment/abb-303b431slp071-outline-drawing-b7d2714669.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b431slp071-outline-drawing-b7d2714669.json"
+    },
+    {
+      "id": "abb-303b431slp072-outline-drawing-2d85db4f6c",
+      "name": "303B431SLP072 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B431SLP072",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b431slp072-outline-drawing-2d85db4f6c",
+      "recordPath": "equipment/abb-303b431slp072-outline-drawing-2d85db4f6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b431slp072-outline-drawing-2d85db4f6c.json"
+    },
+    {
+      "id": "abb-303b431slp073-outline-drawing-f93100c655",
+      "name": "303B431SLP073 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3282",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b431slp073-outline-drawing-f93100c655",
+      "recordPath": "equipment/abb-303b431slp073-outline-drawing-f93100c655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b431slp073-outline-drawing-f93100c655.json"
+    },
+    {
+      "id": "abb-303b431slp074-outline-drawing-bdc59dcffc",
+      "name": "303B431SLP074 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3368",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b431slp074-outline-drawing-bdc59dcffc",
+      "recordPath": "equipment/abb-303b431slp074-outline-drawing-bdc59dcffc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b431slp074-outline-drawing-bdc59dcffc.json"
+    },
+    {
+      "id": "abb-303b912aap177-outline-drawing-705e185525",
+      "name": "303B912AAP177 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3369",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b912aap177-outline-drawing-705e185525",
+      "recordPath": "equipment/abb-303b912aap177-outline-drawing-705e185525.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b912aap177-outline-drawing-705e185525.json"
+    },
+    {
+      "id": "abb-303b912aap178-outline-drawing-b40867c7ab",
+      "name": "303B912AAP178 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3371",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b912aap178-outline-drawing-b40867c7ab",
+      "recordPath": "equipment/abb-303b912aap178-outline-drawing-b40867c7ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b912aap178-outline-drawing-b40867c7ab.json"
+    },
+    {
+      "id": "abb-303b912aap179-outline-drawing-5e793960b0",
+      "name": "303B912AAP179 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3372",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b912aap179-outline-drawing-5e793960b0",
+      "recordPath": "equipment/abb-303b912aap179-outline-drawing-5e793960b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b912aap179-outline-drawing-5e793960b0.json"
+    },
+    {
+      "id": "abb-303b919aap077-outline-drawing-e45f27ecef",
+      "name": "303B919AAP077 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3373",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b919aap077-outline-drawing-e45f27ecef",
+      "recordPath": "equipment/abb-303b919aap077-outline-drawing-e45f27ecef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b919aap077-outline-drawing-e45f27ecef.json"
+    },
+    {
+      "id": "abb-303b919aap178-outline-drawing-a5600d39eb",
+      "name": "303B919AAP178 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3374",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b919aap178-outline-drawing-a5600d39eb",
+      "recordPath": "equipment/abb-303b919aap178-outline-drawing-a5600d39eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b919aap178-outline-drawing-a5600d39eb.json"
+    },
+    {
+      "id": "abb-303b923aap007-outline-drawing-48bb49d655",
+      "name": "303B923AAP007 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108473A2830",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b923aap007-outline-drawing-48bb49d655",
+      "recordPath": "equipment/abb-303b923aap007-outline-drawing-48bb49d655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b923aap007-outline-drawing-48bb49d655.json"
+    },
+    {
+      "id": "abb-303b923aap010-outline-drawing-3f74023545",
+      "name": "303B923AAP010 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108473A2831",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b923aap010-outline-drawing-3f74023545",
+      "recordPath": "equipment/abb-303b923aap010-outline-drawing-3f74023545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b923aap010-outline-drawing-3f74023545.json"
+    },
+    {
+      "id": "abb-303b923aap025-outline-drawing-0787ae04a1",
+      "name": "303B923AAP025 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108473A2832",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b923aap025-outline-drawing-0787ae04a1",
+      "recordPath": "equipment/abb-303b923aap025-outline-drawing-0787ae04a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b923aap025-outline-drawing-0787ae04a1.json"
+    },
+    {
+      "id": "abb-303b931slp076-outline-drawing-edf64422c9",
+      "name": "303B931SLP076 - Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B931SLP076",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b931slp076-outline-drawing-edf64422c9",
+      "recordPath": "equipment/abb-303b931slp076-outline-drawing-edf64422c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b931slp076-outline-drawing-edf64422c9.json"
+    },
+    {
+      "id": "abb-303b931slp078-outline-drawing-c5ce81227c",
+      "name": "303B931SLP078 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3375",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b931slp078-outline-drawing-c5ce81227c",
+      "recordPath": "equipment/abb-303b931slp078-outline-drawing-c5ce81227c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b931slp078-outline-drawing-c5ce81227c.json"
+    },
+    {
+      "id": "abb-303b932aap076-outline-drawing-16de16b4c0",
+      "name": "303B932AAP076 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3376",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b932aap076-outline-drawing-16de16b4c0",
+      "recordPath": "equipment/abb-303b932aap076-outline-drawing-16de16b4c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b932aap076-outline-drawing-16de16b4c0.json"
+    },
+    {
+      "id": "abb-303b932aap077-outline-drawing-0344542020",
+      "name": "303B932AAP077 Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A3377",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-303b932aap077-outline-drawing-0344542020",
+      "recordPath": "equipment/abb-303b932aap077-outline-drawing-0344542020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-303b932aap077-outline-drawing-0344542020.json"
+    },
+    {
+      "id": "abb-9t03a0001-drawing-433c3f4a48",
+      "name": "9T03A0001 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5587",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0001-drawing-433c3f4a48",
+      "recordPath": "equipment/abb-9t03a0001-drawing-433c3f4a48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0001-drawing-433c3f4a48.json"
+    },
+    {
+      "id": "abb-9t03a0002-drawing-b42d973fe1",
+      "name": "9T03A0002 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5590",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0002-drawing-b42d973fe1",
+      "recordPath": "equipment/abb-9t03a0002-drawing-b42d973fe1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0002-drawing-b42d973fe1.json"
+    },
+    {
+      "id": "abb-9t03a0003-drawing-3aa4dc3a7d",
+      "name": "9T03A0003 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5591",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0003-drawing-3aa4dc3a7d",
+      "recordPath": "equipment/abb-9t03a0003-drawing-3aa4dc3a7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0003-drawing-3aa4dc3a7d.json"
+    },
+    {
+      "id": "abb-9t03a0004-drawing-fe0ca82ece",
+      "name": "9T03A0004 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5592",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0004-drawing-fe0ca82ece",
+      "recordPath": "equipment/abb-9t03a0004-drawing-fe0ca82ece.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0004-drawing-fe0ca82ece.json"
+    },
+    {
+      "id": "abb-9t03a0005-drawing-16c0c6d4de",
+      "name": "9T03A0005 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5593",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0005-drawing-16c0c6d4de",
+      "recordPath": "equipment/abb-9t03a0005-drawing-16c0c6d4de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0005-drawing-16c0c6d4de.json"
+    },
+    {
+      "id": "abb-9t03a0006-drawing-f1bfbd31e8",
+      "name": "9T03A0006 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5594",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0006-drawing-f1bfbd31e8",
+      "recordPath": "equipment/abb-9t03a0006-drawing-f1bfbd31e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0006-drawing-f1bfbd31e8.json"
+    },
+    {
+      "id": "abb-9t03a0007-drawing-ea6315347a",
+      "name": "9T03A0007 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5595",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0007-drawing-ea6315347a",
+      "recordPath": "equipment/abb-9t03a0007-drawing-ea6315347a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0007-drawing-ea6315347a.json"
+    },
+    {
+      "id": "abb-9t03a0008-drawing-b85df092e7",
+      "name": "9T03A0008 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5596",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0008-drawing-b85df092e7",
+      "recordPath": "equipment/abb-9t03a0008-drawing-b85df092e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0008-drawing-b85df092e7.json"
+    },
+    {
+      "id": "abb-9t03a0009-drawing-9b7c901689",
+      "name": "9T03A0009 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5597",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03a0009-drawing-9b7c901689",
+      "recordPath": "equipment/abb-9t03a0009-drawing-9b7c901689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03a0009-drawing-9b7c901689.json"
+    },
+    {
+      "id": "abb-9t03c0002-drawing-37aa58abaa",
+      "name": "9T03C0002 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5598",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03c0002-drawing-37aa58abaa",
+      "recordPath": "equipment/abb-9t03c0002-drawing-37aa58abaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03c0002-drawing-37aa58abaa.json"
+    },
+    {
+      "id": "abb-9t03c0003-drawing-64301cdcc2",
+      "name": "9T03C0003 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5599",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03c0003-drawing-64301cdcc2",
+      "recordPath": "equipment/abb-9t03c0003-drawing-64301cdcc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03c0003-drawing-64301cdcc2.json"
+    },
+    {
+      "id": "abb-9t03c0004-drawing-1cf317d428",
+      "name": "9T03C0004 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5600",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03c0004-drawing-1cf317d428",
+      "recordPath": "equipment/abb-9t03c0004-drawing-1cf317d428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03c0004-drawing-1cf317d428.json"
+    },
+    {
+      "id": "abb-9t03c0005-drawing-be3538aed4",
+      "name": "9T03C0005 Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5601",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t03c0005-drawing-be3538aed4",
+      "recordPath": "equipment/abb-9t03c0005-drawing-be3538aed4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t03c0005-drawing-be3538aed4.json"
+    },
+    {
+      "id": "abb-9t10a1005-outline-401a9c35f3",
+      "name": "9T10A1005 OUTLINE",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A4998",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t10a1005-outline-401a9c35f3",
+      "recordPath": "equipment/abb-9t10a1005-outline-401a9c35f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t10a1005-outline-401a9c35f3.json"
+    },
+    {
+      "id": "abb-9t10a1006-outline-1e13b94763",
+      "name": "9T10A1006 OUTLINE",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5000",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t10a1006-outline-1e13b94763",
+      "recordPath": "equipment/abb-9t10a1006-outline-1e13b94763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t10a1006-outline-1e13b94763.json"
+    },
+    {
+      "id": "abb-9t10c1004g31-outline-aeccabaa13",
+      "name": "9T10C1004G31 OUTLINE",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A4996",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t10c1004g31-outline-aeccabaa13",
+      "recordPath": "equipment/abb-9t10c1004g31-outline-aeccabaa13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t10c1004g31-outline-aeccabaa13.json"
+    },
+    {
+      "id": "abb-9t10c1005-outline-dc85432b51",
+      "name": "9T10C1005 OUTLINE",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A4999",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t10c1005-outline-dc85432b51",
+      "recordPath": "equipment/abb-9t10c1005-outline-dc85432b51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t10c1005-outline-dc85432b51.json"
+    },
+    {
+      "id": "abb-9t10c1005g31-outline-8451ee5779",
+      "name": "9T10C1005G31 OUTLINE",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A4997",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t10c1005g31-outline-8451ee5779",
+      "recordPath": "equipment/abb-9t10c1005g31-outline-8451ee5779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t10c1005g31-outline-8451ee5779.json"
+    },
+    {
+      "id": "abb-9t10k4002g26-outline-7377926c10",
+      "name": "9T10K4002G26 OUTLINE",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A4995",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-9t10k4002g26-outline-7377926c10",
+      "recordPath": "equipment/abb-9t10k4002g26-outline-7377926c10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-9t10k4002g26-outline-7377926c10.json"
+    },
+    {
+      "id": "abb-cad-outline-drawing-303b111geuyp72a-a13588afa7",
+      "name": "CAD Outline Drawing 303B111GEUYP72A",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B111GEUYP72A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-outline-drawing-303b111geuyp72a-a13588afa7",
+      "recordPath": "equipment/abb-cad-outline-drawing-303b111geuyp72a-a13588afa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-outline-drawing-303b111geuyp72a-a13588afa7.json"
+    },
+    {
+      "id": "abb-dy67a-frame-outline-drawing-type-qf-3-phase-doe-csa-efficiency-1103e71966",
+      "name": "DY67A Frame - OUTLINE DRAWING, TYPE QF, 3-PHASE, DOE & CSA EFFICIENCY",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDYP67A",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dy67a-frame-outline-drawing-type-qf-3-phase-doe-csa-efficiency-1103e71966",
+      "recordPath": "equipment/abb-dy67a-frame-outline-drawing-type-qf-3-phase-doe-csa-efficiency-1103e71966.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dy67a-frame-outline-drawing-type-qf-3-phase-doe-csa-efficiency-1103e71966.json"
+    },
+    {
+      "id": "abb-guard-iii-hmt-outline-303b931slp075-66f020f126",
+      "name": "Guard III HMT Outline 303B931SLP075",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B931SLP075",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-guard-iii-hmt-outline-303b931slp075-66f020f126",
+      "recordPath": "equipment/abb-guard-iii-hmt-outline-303b931slp075-66f020f126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-guard-iii-hmt-outline-303b931slp075-66f020f126.json"
+    },
+    {
+      "id": "abb-qms-1-phase-outline-drawing-6fc5510132",
+      "name": "QMS 1-Phase Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B923AAP005",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-qms-1-phase-outline-drawing-6fc5510132",
+      "recordPath": "equipment/abb-qms-1-phase-outline-drawing-6fc5510132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-qms-1-phase-outline-drawing-6fc5510132.json"
+    },
+    {
+      "id": "abb-qms-1-phase-outline-frame-19500-e166713c52",
+      "name": "QMS 1-Phase Outline frame 19500",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B923AAP015",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-qms-1-phase-outline-frame-19500-e166713c52",
+      "recordPath": "equipment/abb-qms-1-phase-outline-frame-19500-e166713c52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-qms-1-phase-outline-frame-19500-e166713c52.json"
+    },
+    {
+      "id": "abb-single-phase-71-frame-outline-drawing-b6e6b9dc7c",
+      "name": "Single Phase 71 Frame Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B409CAP071",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-single-phase-71-frame-outline-drawing-b6e6b9dc7c",
+      "recordPath": "equipment/abb-single-phase-71-frame-outline-drawing-b6e6b9dc7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-single-phase-71-frame-outline-drawing-b6e6b9dc7c.json"
+    },
+    {
+      "id": "abb-single-phase-72-frame-outline-drawing-34b3b9a245",
+      "name": "Single Phase 72 Frame Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B409CAP072",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-single-phase-72-frame-outline-drawing-34b3b9a245",
+      "recordPath": "equipment/abb-single-phase-72-frame-outline-drawing-34b3b9a245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-single-phase-72-frame-outline-drawing-34b3b9a245.json"
+    },
+    {
+      "id": "abb-single-phase-73-frame-outline-drawing-b00d24e4ec",
+      "name": "Single Phase 73 Frame Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B409CAP073",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-single-phase-73-frame-outline-drawing-b00d24e4ec",
+      "recordPath": "equipment/abb-single-phase-73-frame-outline-drawing-b00d24e4ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-single-phase-73-frame-outline-drawing-b00d24e4ec.json"
+    },
+    {
+      "id": "abb-single-phase-74-frame-outline-drawing-a7e28659c8",
+      "name": "Single Phase 74 Frame Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B409CAP074",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-single-phase-74-frame-outline-drawing-a7e28659c8",
+      "recordPath": "equipment/abb-single-phase-74-frame-outline-drawing-a7e28659c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-single-phase-74-frame-outline-drawing-a7e28659c8.json"
+    },
+    {
+      "id": "abb-single-phase-75-frame-outline-drawing-abcd5a71b9",
+      "name": "Single Phase 75 Frame Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107992A0770",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-single-phase-75-frame-outline-drawing-abcd5a71b9",
+      "recordPath": "equipment/abb-single-phase-75-frame-outline-drawing-abcd5a71b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-single-phase-75-frame-outline-drawing-abcd5a71b9.json"
+    },
+    {
+      "id": "abb-tle-120-225kva-3-cb-mbc-with-output-208v-transformer-b17ea8c650",
+      "name": "TLE 120-225kVA, 3 CB MBC with output 208V transformer",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A7883",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-120-225kva-3-cb-mbc-with-output-208v-transformer-b17ea8c650",
+      "recordPath": "equipment/abb-tle-120-225kva-3-cb-mbc-with-output-208v-transformer-b17ea8c650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-120-225kva-3-cb-mbc-with-output-208v-transformer-b17ea8c650.json"
+    },
+    {
+      "id": "abb-tle-scalable-40-150kva-3cb-mbc-matching-no-transformer-f1adb329ff",
+      "name": "TLE Scalable 40-150kVA, 3CB MBC, Matching, no transformer",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A7880",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-40-150kva-3cb-mbc-matching-no-transformer-f1adb329ff",
+      "recordPath": "equipment/abb-tle-scalable-40-150kva-3cb-mbc-matching-no-transformer-f1adb329ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-40-150kva-3cb-mbc-matching-no-transformer-f1adb329ff.json"
+    },
+    {
+      "id": "abb-tle-scalable-40-50kva-3-cb-mbc-with-output-208v-transformer-471ae55ad1",
+      "name": "TLE Scalable 40-50kVA, 3 CB MBC with output 208V transformer",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A7881",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-40-50kva-3-cb-mbc-with-output-208v-transformer-471ae55ad1",
+      "recordPath": "equipment/abb-tle-scalable-40-50kva-3-cb-mbc-with-output-208v-transformer-471ae55ad1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-40-50kva-3-cb-mbc-with-output-208v-transformer-471ae55ad1.json"
+    },
+    {
+      "id": "abb-tle-scalable-80-100kva-3-cb-mbc-with-output-208v-transformer-dca3f2dc83",
+      "name": "TLE Scalable 80-100kVA, 3 CB MBC with output 208V transformer",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A7882",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-80-100kva-3-cb-mbc-with-output-208v-transformer-dca3f2dc83",
+      "recordPath": "equipment/abb-tle-scalable-80-100kva-3-cb-mbc-with-output-208v-transformer-dca3f2dc83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-80-100kva-3-cb-mbc-with-output-208v-transformer-dca3f2dc83.json"
+    },
+    {
+      "id": "abb-type-ip-dimensional-drawing-84101d5451",
+      "name": "Type IP Dimensional Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A2144",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-type-ip-dimensional-drawing-84101d5451",
+      "recordPath": "equipment/abb-type-ip-dimensional-drawing-84101d5451.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-type-ip-dimensional-drawing-84101d5451.json"
+    },
+    {
+      "id": "abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2",
+      "name": "XFMR OUTLINE DRAWING TYPE QL, 3-PHASE, DOE 2016 EFFICIENCY (ENCLOSED UNIT)",
+      "manufacturer": "ABB",
+      "drawingNumber": "303B112GEDXP78C",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2",
+      "recordPath": "equipment/abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2.json"
+    }
+  ]
+}

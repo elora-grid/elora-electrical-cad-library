@@ -1,0 +1,106 @@
+# ABB — OX\_260-400E\_2O4\_T\_
+
+OX\_260-400E\_2O4\_T\_: ABB manufacturer STEP resource, document OX\_260-400E\_2O4\_T\_, revision A. Use it to coordinate the source-transfer or auxiliary-power arrangement in the energy system.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2o4-t-b1fbfeae) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2o4-t-b1fbfeae.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2o4-t-b1fbfeae.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OX_260-400E_2O4_T_&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: drawing
+- Part number: Select exact configuration
+- Drawing/document number: OX\_260-400E\_2O4\_T\_
+- Installation applications: microgrids, switchgear
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-03
+
+Download the verified original here. The manufacturer source is linked for revision checks; preview images are for inspection and the original drawing supplies the design dimensions.
+Manufacturer library discovery does not establish regional certification. Match the listed frame, terminal arrangement and accessories to the project.
+Original STEP 3D geometry for OX\_260-400E\_2O4\_T\_; ABB document OX\_260-400E\_2O4\_T\_
+
+## Equipment and file summary
+
+- Equipment / resource: OX\_260-400E\_2O4\_T\_
+- Manufacturer: ABB
+- Resource type: Named drawing reference
+- Manufacturer drawing: OX\_260-400E\_2O4\_T\_
+- Model extents (X × Y × Z, mm): 389.7 × 304.5 × 181.0
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-03
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Model extents (X × Y × Z, mm): 389.7 × 304.5 × 181.0 ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_260-400E_2O4_T_&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
+
+When coordinating OX\_260-400E\_2O4\_T\_ in microgrids, place the documented arrangement beside the adjacent equipment and compare its fixing and connection access with the source drawing. The supplied model spans 389.7 × 304.5 × 181.0 mm along its own X, Y and Z axes.
+
+Use OX\_260\_400E\_2O4\_T\_LIGHT.stp for OX\_260-400E\_2O4\_T\_. STEP is the supplied editable 3D exchange file; the browser model is a simplified display preview. Match ABB document OX\_260-400E\_2O4\_T\_ revision A when checking a replacement.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the configuration named “OX\_260-400E\_2O4\_T\_”; terminal direction, mounting version and pole options can change the outline.
+- Use ABB document OX\_260-400E\_2O4\_T\_, revision A, to check the mounting and connection details before placing this item in the assembly.
+- The supplied model spans 389.7 × 304.5 × 181.0 mm along its own X, Y and Z axes. These are model extents, not installation clearances.
+
+### Which ABB source identifies OX\_260-400E\_2O4\_T\_?
+
+The acquired file is OX\_260\_400E\_2O4\_T\_LIGHT.stp, document OX\_260-400E\_2O4\_T\_, revision A. The manufacturer source and pinned original link appear below.
+
+### Does the preview establish installation clearances?
+
+No. The supplied model spans 389.7 × 304.5 × 181.0 mm along its own X, Y and Z axes. Use the installation requirements for OX\_260-400E\_2O4\_T\_ and the selected assembly to reserve cable and service access.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_260-400E_2O4_T_&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+
+## Choosing a file
+
+Use OX\_260\_400E\_2O4\_T\_LIGHT.stp for OX\_260-400E\_2O4\_T\_. STEP is the supplied editable 3D exchange file; the browser model is a simplified display preview. Match ABB document OX\_260-400E\_2O4\_T\_ revision A when checking a replacement.
+
+## Preview
+
+![ABB OX\_260-400E\_2O4\_T\_: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ox-260-400e-2o4-t-b1fbfeae/original?asset=dbd19c007b6f5c6fc19a079df29314fc282ec05c1114057ea944175fe9d13e87&view=thumb&v=eed7189f26e8219e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2o4-t-b1fbfeae). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OX\_260\_400E\_2O4\_T\_LIGHT.stp
+
+- Format: STEP
+- Purpose: Original STEP 3D geometry for OX\_260-400E\_2O4\_T\_; ABB document OX\_260-400E\_2O4\_T\_
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_260-400E_2O4_T_&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ox-260-400e-2o4-t-b1fbfeae/original)
+- Redistribution: unknown
+- Original SHA-256: dbd19c007b6f5c6fc19a079df29314fc282ec05c1114057ea944175fe9d13e87
+- Original bytes: 3585841
+- Revision: A
+- Retrieved: 2026-11-03T01:36:50.447273+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_260-400E_2O4_T_&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_260-400E_2O4_T_&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; STEP; 3585841 bytes
+- Delivery SHA-256: dbd19c007b6f5c6fc19a079df29314fc282ec05c1114057ea944175fe9d13e87
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

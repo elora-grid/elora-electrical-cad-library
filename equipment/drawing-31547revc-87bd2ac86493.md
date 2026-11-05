@@ -33,7 +33,7 @@ The inspected DWG title identifies BPG6-F120 and includes lid, side and section 
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+A designer can compare the enclosure’s views and entry arrangement with an existing installation before requesting a matching current configuration.
 
 The inspected DWG title identifies BPG6-F120 and includes lid, side and section information. Use those views to coordinate the specific enclosure, not every BPG-family box. Labels in an archived drawing are not independent confirmation of current certification or installation suitability.
 

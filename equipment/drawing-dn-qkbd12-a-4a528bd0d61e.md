@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/DINnectors/Disconnect Te
 
 A disconnect terminal provides a wire connection that can be opened at a defined point for the selected testing or isolation arrangement.
 
-In a substation relay panel, it can provide an identified separation point in an auxiliary measurement or control circuit.
+For example, in a control-panel marshalling strip with an accessible circuit-disconnection point, use the DN-QKBD12-A reference to coordinate disconnect operation, conductor approach and terminal identification. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Other PLC Products/DINnectors/Disconnect Terminal Blocks/DN-QKBD12-A.dwg, a 181,471-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

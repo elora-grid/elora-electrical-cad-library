@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/Konnect-It/KN-F10.dwg, a
 
 A fused terminal combines a wire connection point with a fuse holder so a branch circuit can be connected and protected in one assembly.
 
-In a switchgear control panel, it can provide an identified fused supply connection to an auxiliary device.
+For example, in a control-power marshalling strip with individually protected circuits, use the KN-F10 reference to coordinate fuse access, conductor approach and terminal identification. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Other PLC Products/Konnect-It/KN-F10.dwg, a 141,741-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

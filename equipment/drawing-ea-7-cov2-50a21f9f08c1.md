@@ -32,7 +32,7 @@ The verified native member is Operator Interface/Cmore/EA-7-COV2.dwg. Its signat
 
 An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
 
-In a switchroom, the screen can show which feeders are running and identify the equipment associated with an alarm.
+When arranging EA-7-COV2 in the front face of an HMI, place the native component outline in its intended orientation beside the actual adjoining equipment. Match the protector to the exact display front, keep the viewing and touch area unobstructed, and plan access for replacement. The protector drawing does not define the HMI panel cutout, rear housing or mounting bracket.
 
 The verified native member is Operator Interface/Cmore/EA-7-COV2.dwg. Its signature, byte count and SHA-256 identify the original drawing inspected. The protector drawing does not define the HMI panel cutout, rear housing or mounting bracket. Confirm units and revision in the original before measuring or transferring geometry.
 

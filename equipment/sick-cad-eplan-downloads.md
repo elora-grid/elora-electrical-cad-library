@@ -32,7 +32,7 @@ Search the official CAD download area using the exact product reference or part 
 
 This manufacturer resource helps you find drawings or select versions of industrial sensors, encoders, safety devices. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected industrial sensors drawing before reserving its space, mounting points and cable routes in the layout.
+An engineer can use a sensor STEP model to check placement while importing the matching device data separately into an electrical project.
 
 Search the official CAD download area using the exact product reference or part number. Match any listed STEP/EPLAN resource to that product and revision. For LiDAR or safety-related equipment, also obtain the selected operating and installation documents rather than treating a model as proof of its application suitability.
 

@@ -32,7 +32,7 @@ Use the M10-labelled STEP file for the matching module arrangement. In Victronâ€
 
 A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
 
-Inside a switchgear lineup, the incoming breaker can feed busbars that supply the outgoing feeder breakers.
+A layout can place the distributor beside compatible Lynx equipment, then check how the selected modules join and where cables must enter.
 
 Use the M10-labelled STEP file for the matching module arrangement. In Victronâ€™s documentation, M10 identifies the inter-module busbar joints; it should not be taken to mean every fuse or cable connection is M10. Confirm the exact model and installation documents.
 

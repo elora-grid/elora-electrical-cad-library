@@ -32,7 +32,7 @@ The verified native member is PLC Families/P1000/P1-04ADL-2.dwg. Its identity wa
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+For example, in a process-control panel receiving transmitter signals, use the P1-04ADL-2 reference to coordinate field-signal terminals, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P1000/P1-04ADL-2.dwg. Its identity was checked against the acquired manufacturer archive. Lay out the PAC station before locating cable duct so the terminal strips and expansion joints remain accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

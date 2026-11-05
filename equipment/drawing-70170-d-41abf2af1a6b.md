@@ -32,7 +32,7 @@ The verified native member is Relays and Timers/Timers and Sockets/70170-D.DWG. 
 
 A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
 
-In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+For example, in a control panel where a plug-in device can be replaced without disturbing field wiring, use the 70170-D reference to coordinate socket terminals, retaining parts and plug-in removal route. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Relays and Timers/Timers and Sockets/70170-D.DWG. Its signature, byte count and SHA-256 identify the original drawing inspected. The socket drawing is not a timer or relay function and does not establish mating-device compatibility or pin assignments. Confirm units and revision in the original before measuring or transferring geometry.
 

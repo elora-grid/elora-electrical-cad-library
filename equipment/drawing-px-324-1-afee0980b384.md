@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-324-1.dwg. Its i
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For field-I/O station planning, place the PX-324-1 outline alongside the actual enclosure and adjacent hardware. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Other PLC Products/Protos X IO/PX-324-1.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

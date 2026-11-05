@@ -32,7 +32,7 @@ The verified native member is Pushbuttons Switches Indicators/22mm Non-metal/Eat
 
 An emergency-stop operator sends a stop demand to the connected control system when someone operates it. The complete system determines how the equipment stops.
 
-In a microgrid generator enclosure, an emergency-stop station gives an operator a defined way to request an emergency stop.
+For example, in a machine installation with a clearly accessible stop station, use the E22ASB106 reference to coordinate operator approach, operating head and rear contact wiring. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Pushbuttons Switches Indicators/22mm Non-metal/Eaton Cutler-Hammer E22 Series/E22ASB106.dwg. Its identity was checked against the acquired manufacturer archive. Review the front-panel position and the space behind the device for mounting hardware, contacts and conductor approach. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

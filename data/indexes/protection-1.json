@@ -1,0 +1,2815 @@
+{
+  "schemaVersion": 1,
+  "category": "protection",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-panelmeters",
+      "name": "Panel Meters CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-panelmeters",
+      "recordPath": "equipment/ad-panelmeters.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-panelmeters.json"
+    },
+    {
+      "id": "ad-acuamp",
+      "name": "AcuAmp CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-acuamp",
+      "recordPath": "equipment/ad-acuamp.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-acuamp.json"
+    },
+    {
+      "id": "audit-bender-cad",
+      "name": "Bender electrical-safety 3D and engineering data",
+      "manufacturer": "Bender",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-bender-cad",
+      "recordPath": "equipment/audit-bender-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-bender-cad.json"
+    },
+    {
+      "id": "littelfuse-library",
+      "name": "Littelfuse protection drawing resource library",
+      "manufacturer": "Littelfuse",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/littelfuse-library",
+      "recordPath": "equipment/littelfuse-library.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/littelfuse-library.json"
+    },
+    {
+      "id": "schneider-micom",
+      "name": "MiCOM protection and test-block CAD drawing collection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schneider-micom",
+      "recordPath": "equipment/schneider-micom.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schneider-micom.json"
+    },
+    {
+      "id": "sel-drawings",
+      "name": "SEL configured relay product drawings",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/sel-drawings",
+      "recordPath": "equipment/sel-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/sel-drawings.json"
+    },
+    {
+      "id": "audit-sel751-drawings",
+      "name": "SEL-751 configured drawing workflow",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-sel751-drawings",
+      "recordPath": "equipment/audit-sel751-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-sel751-drawings.json"
+    },
+    {
+      "id": "audit-socomec-corect",
+      "name": "DELTA IC core-balance CT mechanical-CAD requests",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-socomec-corect",
+      "recordPath": "equipment/audit-socomec-corect.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-socomec-corect.json"
+    },
+    {
+      "id": "audit-socomec-dirisa40",
+      "name": "DIRIS A-40 meter mechanical-CAD request",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-socomec-dirisa40",
+      "recordPath": "equipment/audit-socomec-dirisa40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-socomec-dirisa40.json"
+    },
+    {
+      "id": "uk-dse-dsep100",
+      "name": "DSEP100 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dsep100",
+      "recordPath": "equipment/uk-dse-dsep100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dsep100.json"
+    },
+    {
+      "id": "open-hardware-emontx3",
+      "name": "emonTx3 energy-monitor hardware revisions",
+      "manufacturer": "OpenEnergyMonitor",
+      "formats": [
+        "BRD",
+        "SCH"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-emontx3",
+      "recordPath": "equipment/open-hardware-emontx3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-emontx3.json"
+    },
+    {
+      "id": "open-hardware-emonpi2",
+      "name": "emonPi2 energy-monitor hardware and CT expansion",
+      "manufacturer": "OpenEnergyMonitor",
+      "formats": [
+        "BRD",
+        "SCH"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/open-hardware-emonpi2",
+      "recordPath": "equipment/open-hardware-emonpi2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/open-hardware-emonpi2.json"
+    },
+    {
+      "id": "abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-70c01bd0",
+      "name": "(T)AL/AL9 to (T)AL/AL16 contactors, (T)NL..E contactor relays",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307872.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-70c01bd0",
+      "recordPath": "equipment/abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-70c01bd0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t-al-al9-to-t-al-al16-contactors-t-nl-e-contactor-relays-70c01bd0.json"
+    },
+    {
+      "id": "abb-t-al9-rt-t-al12-rt-t-al16-rt-contactors-and-t-nl-ert-contactor-relays-0e4707e9",
+      "name": "(T)AL9..RT, (T)AL12..RT, (T)AL16..RT Contactors and (T)NL..ERT Contactor Relays",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307902.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t-al9-rt-t-al12-rt-t-al16-rt-contactors-and-t-nl-ert-contactor-relays-0e4707e9",
+      "recordPath": "equipment/abb-t-al9-rt-t-al12-rt-t-al16-rt-contactors-and-t-nl-ert-contactor-relays-0e4707e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t-al9-rt-t-al12-rt-t-al16-rt-contactors-and-t-nl-ert-contactor-relays-0e4707e9.json"
+    },
+    {
+      "id": "abb-a26-contactors-ra5-1-interface-relay-dxf-33e3666f",
+      "name": "A26 contactors + RA5-1 interface relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307972.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a26-contactors-ra5-1-interface-relay-dxf-33e3666f",
+      "recordPath": "equipment/abb-a26-contactors-ra5-1-interface-relay-dxf-33e3666f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a26-contactors-ra5-1-interface-relay-dxf-33e3666f.json"
+    },
+    {
+      "id": "abb-a30-a40-contactors-ra5-1-interface-relay-dxf-be5b4743",
+      "name": "A30, A40 contactors + RA5-1 interface relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307973.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a30-a40-contactors-ra5-1-interface-relay-dxf-be5b4743",
+      "recordPath": "equipment/abb-a30-a40-contactors-ra5-1-interface-relay-dxf-be5b4743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a30-a40-contactors-ra5-1-interface-relay-dxf-be5b4743.json"
+    },
+    {
+      "id": "abb-a45-a50-a75-4-pole-contactors-ra5-1-interface-relay-dxf-2a0e525d",
+      "name": "A45, A50, A75 4-pole contactors + RA5-1 interface relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307975.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a45-a50-a75-4-pole-contactors-ra5-1-interface-relay-dxf-2a0e525d",
+      "recordPath": "equipment/abb-a45-a50-a75-4-pole-contactors-ra5-1-interface-relay-dxf-2a0e525d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a45-a50-a75-4-pole-contactors-ra5-1-interface-relay-dxf-2a0e525d.json"
+    },
+    {
+      "id": "abb-a50-a63-a75-3-pole-contactors-ra5-1-interface-relay-dxf-e3197c31",
+      "name": "A50, A63, A75 3-pole contactors + RA5-1 interface relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307974.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a50-a63-a75-3-pole-contactors-ra5-1-interface-relay-dxf-e3197c31",
+      "recordPath": "equipment/abb-a50-a63-a75-3-pole-contactors-ra5-1-interface-relay-dxf-e3197c31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a50-a63-a75-3-pole-contactors-ra5-1-interface-relay-dxf-e3197c31.json"
+    },
+    {
+      "id": "abb-a9-a16-contactors-and-n-e-contactor-relays-ra5-1-interface-relay-dxf-82a42424",
+      "name": "A9...A16 contactors and N..E contactor relays + RA5-1 interface relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307971.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a9-a16-contactors-and-n-e-contactor-relays-ra5-1-interface-relay-dxf-82a42424",
+      "recordPath": "equipment/abb-a9-a16-contactors-and-n-e-contactor-relays-ra5-1-interface-relay-dxf-82a42424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a9-a16-contactors-and-n-e-contactor-relays-ra5-1-interface-relay-dxf-82a42424.json"
+    },
+    {
+      "id": "abb-a95-a110-contactors-ra5-1-interface-relay-dxf-917adee2",
+      "name": "A95, A110 contactors + RA5-1 interface relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "FPTE307976.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-a95-a110-contactors-ra5-1-interface-relay-dxf-917adee2",
+      "recordPath": "equipment/abb-a95-a110-contactors-ra5-1-interface-relay-dxf-917adee2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-a95-a110-contactors-ra5-1-interface-relay-dxf-917adee2.json"
+    },
+    {
+      "id": "abb-af09-af12-af16-3-pole-contactors-with-ef19-electronic-overload-relay-7cf2bc84",
+      "name": "AF09, AF12, AF16 3-pole contactors with EF19 electronic overload relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505037D3501.DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af09-af12-af16-3-pole-contactors-with-ef19-electronic-overload-relay-7cf2bc84",
+      "recordPath": "equipment/abb-af09-af12-af16-3-pole-contactors-with-ef19-electronic-overload-relay-7cf2bc84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af09-af12-af16-3-pole-contactors-with-ef19-electronic-overload-relay-7cf2bc84.json"
+    },
+    {
+      "id": "abb-af09-af12-af16-3-pole-contactors-with-tf42-thermal-overload-relay-f67bd21c",
+      "name": "AF09, AF12, AF16 3-pole contactors with TF42 thermal overload relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505035D3501.DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af09-af12-af16-3-pole-contactors-with-tf42-thermal-overload-relay-f67bd21c",
+      "recordPath": "equipment/abb-af09-af12-af16-3-pole-contactors-with-tf42-thermal-overload-relay-f67bd21c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af09-af12-af16-3-pole-contactors-with-tf42-thermal-overload-relay-f67bd21c.json"
+    },
+    {
+      "id": "abb-af09-af12-af16-30-10-01-contactors-4-pole-nf-contactor-relays-b232af72",
+      "name": "AF09, AF12, AF16..-30-10/01 contactors; 4-pole NF contactor relays",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505024D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af09-af12-af16-30-10-01-contactors-4-pole-nf-contactor-relays-b232af72",
+      "recordPath": "equipment/abb-af09-af12-af16-30-10-01-contactors-4-pole-nf-contactor-relays-b232af72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af09-af12-af16-30-10-01-contactors-4-pole-nf-contactor-relays-b232af72.json"
+    },
+    {
+      "id": "abb-af09-s-af12-s-af16-30-10-01s-contactors-4-pole-nf-s-contactor-relays-with-spring-term-17c669ba",
+      "name": "AF09.S, AF12.S, AF16..-30-10/01S contactors; 4-pole NF.S contactor relays with spring terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505012D3501.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af09-s-af12-s-af16-30-10-01s-contactors-4-pole-nf-s-contactor-relays-with-spring-term-17c669ba",
+      "recordPath": "equipment/abb-af09-s-af12-s-af16-30-10-01s-contactors-4-pole-nf-s-contactor-relays-with-spring-term-17c669ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af09-s-af12-s-af16-30-10-01s-contactors-4-pole-nf-s-contactor-relays-with-spring-term-17c669ba.json"
+    },
+    {
+      "id": "abb-af26-af30-af38-3-pole-contactors-with-ef19-electronic-overload-relay-5c79d17b",
+      "name": "AF26, AF30, AF38 3-pole contactors with EF19 electronic overload relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505038D3501.DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af26-af30-af38-3-pole-contactors-with-ef19-electronic-overload-relay-5c79d17b",
+      "recordPath": "equipment/abb-af26-af30-af38-3-pole-contactors-with-ef19-electronic-overload-relay-5c79d17b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af26-af30-af38-3-pole-contactors-with-ef19-electronic-overload-relay-5c79d17b.json"
+    },
+    {
+      "id": "abb-af26-af30-af38-3-pole-contactors-with-ef45-electronic-overload-relay-c7ed902a",
+      "name": "AF26, AF30, AF38 3-pole contactors with EF45 electronic overload relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505039D3501.DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af26-af30-af38-3-pole-contactors-with-ef45-electronic-overload-relay-c7ed902a",
+      "recordPath": "equipment/abb-af26-af30-af38-3-pole-contactors-with-ef45-electronic-overload-relay-c7ed902a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af26-af30-af38-3-pole-contactors-with-ef45-electronic-overload-relay-c7ed902a.json"
+    },
+    {
+      "id": "abb-af26-af30-af38-3-pole-contactors-with-tf42-thermal-overload-relay-75b91328",
+      "name": "AF26, AF30, AF38 3-pole contactors with TF42 thermal overload relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SBB505036D3501.DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-af26-af30-af38-3-pole-contactors-with-tf42-thermal-overload-relay-75b91328",
+      "recordPath": "equipment/abb-af26-af30-af38-3-pole-contactors-with-tf42-thermal-overload-relay-75b91328.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-af26-af30-af38-3-pole-contactors-with-tf42-thermal-overload-relay-75b91328.json"
+    },
+    {
+      "id": "abb-outline-3-phase-overload-relay-cr324d-size-2-55-531584s1-dwg-4b989de7",
+      "name": "OUTLINE, 3 PHASE OVERLOAD RELAY CR324D (SIZE 2)(55-531584S1)-DWG",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC913506D0201 / DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-3-phase-overload-relay-cr324d-size-2-55-531584s1-dwg-4b989de7",
+      "recordPath": "equipment/abb-outline-3-phase-overload-relay-cr324d-size-2-55-531584s1-dwg-4b989de7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-3-phase-overload-relay-cr324d-size-2-55-531584s1-dwg-4b989de7.json"
+    },
+    {
+      "id": "abb-ref615-ansi-5-1-configuration-d-61dcfaa5",
+      "name": "REF615 ANSI 5.1 configuration D",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA021836_REF615_CONF_D / dwg",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-d-61dcfaa5",
+      "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-d-61dcfaa5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ref615-ansi-5-1-configuration-d-61dcfaa5.json"
+    },
+    {
+      "id": "abb-ref615-ansi-5-1-configuration-f-4dc3ed27",
+      "name": "REF615 ANSI 5.1 configuration F",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA021838_REF615_CONF_F / dwg",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-f-4dc3ed27",
+      "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-f-4dc3ed27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ref615-ansi-5-1-configuration-f-4dc3ed27.json"
+    },
+    {
+      "id": "abb-ref615-ansi-5-1-configuration-l-c4615a69",
+      "name": "REF615 ANSI 5.1 configuration L",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA025328_REF615_CONF_L / dwg",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-l-c4615a69",
+      "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-l-c4615a69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ref615-ansi-5-1-configuration-l-c4615a69.json"
+    },
+    {
+      "id": "abb-ref615-ansi-5-1-configuration-n-f853f6f9",
+      "name": "REF615 ANSI 5.1 configuration N",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA033130_REF615_CONF_N / dwg",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-n-f853f6f9",
+      "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-n-f853f6f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ref615-ansi-5-1-configuration-n-f853f6f9.json"
+    },
+    {
+      "id": "abb-ref615-ansi-5-1-configuration-p-d157fc50",
+      "name": "REF615 ANSI 5.1 configuration P",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A3616 / pdf",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-p-d157fc50",
+      "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-p-d157fc50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ref615-ansi-5-1-configuration-p-d157fc50.json"
+    },
+    {
+      "id": "abb-ret615-ansi-5-1-configuration-b-6246ec55",
+      "name": "RET615 ANSI 5.1 configuration B",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA023582_RET615_CONF_B / dwg",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ret615-ansi-5-1-configuration-b-6246ec55",
+      "recordPath": "equipment/abb-ret615-ansi-5-1-configuration-b-6246ec55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ret615-ansi-5-1-configuration-b-6246ec55.json"
+    },
+    {
+      "id": "abb-ret615-ansi-5-1-configuration-f-082c2929",
+      "name": "RET615 ANSI 5.1 configuration F",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA025333_RET615_CONF_F / dwg",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ret615-ansi-5-1-configuration-f-082c2929",
+      "recordPath": "equipment/abb-ret615-ansi-5-1-configuration-f-082c2929.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ret615-ansi-5-1-configuration-f-082c2929.json"
+    },
+    {
+      "id": "abb-ovr-t1-t2-busbar-tnc-cb323ae0",
+      "name": "OVR+ T1-T2 busbar TNC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0065",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ovr-t1-t2-busbar-tnc-cb323ae0",
+      "recordPath": "equipment/abb-ovr-t1-t2-busbar-tnc-cb323ae0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ovr-t1-t2-busbar-tnc-cb323ae0.json"
+    },
+    {
+      "id": "abb-ovr-t1-t2-busbar-tns-4d5e491c",
+      "name": "OVR+ T1-T2 busbar TNS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A0067",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ovr-t1-t2-busbar-tns-4d5e491c",
+      "recordPath": "equipment/abb-ovr-t1-t2-busbar-tns-4d5e491c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ovr-t1-t2-busbar-tns-4d5e491c.json"
+    },
+    {
+      "id": "abb-v-connection-terminal-ovr-t1-t2-t3-2x25mm2-b9c660dc",
+      "name": "V-connection terminal OVR T1-T2-T3 2x25mm2",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A6661",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-v-connection-terminal-ovr-t1-t2-t3-2x25mm2-b9c660dc",
+      "recordPath": "equipment/abb-v-connection-terminal-ovr-t1-t2-t3-2x25mm2-b9c660dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-v-connection-terminal-ovr-t1-t2-t3-2x25mm2-b9c660dc.json"
+    },
+    {
+      "id": "abb-dimension-drawing-of-ovr-dc-series-af7f3dda",
+      "name": "Dimension drawing of OVR DC series",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A5966",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-of-ovr-dc-series-af7f3dda",
+      "recordPath": "equipment/abb-dimension-drawing-of-ovr-dc-series-af7f3dda.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-of-ovr-dc-series-af7f3dda.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-surge-module-spd-rmm11surge-db72b4b1",
+      "name": "ReliaMod Outline Drawing, Surge Module (SPD), RMM11SURGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0089",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm11surge-db72b4b1",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm11surge-db72b4b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-surge-module-spd-rmm11surge-db72b4b1.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-surge-module-spd-rmm12surge-76b96d59",
+      "name": "ReliaMod Outline Drawing, Surge Module (SPD), RMM12SURGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0090",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm12surge-76b96d59",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm12surge-76b96d59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-surge-module-spd-rmm12surge-76b96d59.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-surge-module-spd-rmm13surge-0406f13a",
+      "name": "ReliaMod Outline Drawing, Surge Module (SPD), RMM13SURGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0091",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm13surge-0406f13a",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm13surge-0406f13a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-surge-module-spd-rmm13surge-0406f13a.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-surge-module-spd-rmm31surge-6ad96902",
+      "name": "ReliaMod Outline Drawing, Surge Module (SPD), RMM31SURGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0092",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm31surge-6ad96902",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm31surge-6ad96902.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-surge-module-spd-rmm31surge-6ad96902.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-surge-module-spd-rmm32surge-1387cb89",
+      "name": "ReliaMod Outline Drawing, Surge Module (SPD), RMM32SURGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0093",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm32surge-1387cb89",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm32surge-1387cb89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-surge-module-spd-rmm32surge-1387cb89.json"
+    },
+    {
+      "id": "abb-reliamod-outline-drawing-surge-module-spd-rmm33surge-7367b54a",
+      "name": "ReliaMod Outline Drawing, Surge Module (SPD), RMM33SURGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1333E0094",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm33surge-7367b54a",
+      "recordPath": "equipment/abb-reliamod-outline-drawing-surge-module-spd-rmm33surge-7367b54a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-reliamod-outline-drawing-surge-module-spd-rmm33surge-7367b54a.json"
+    },
+    {
+      "id": "drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23",
+      "name": "Victron SmartShunt 300A STEP model",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23",
+      "recordPath": "equipment/drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dimension-drawing-smartshunt-300a-3d-c40893683e23.json"
+    },
+    {
+      "id": "drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc",
+      "name": "Victron SmartShunt 300A IP65 STEP model",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc",
+      "recordPath": "equipment/drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-dimension-drawing-smartshunt-300a-ip65-3d-8966993fdbcc.json"
+    },
+    {
+      "id": "deif-2ftq-16258a0ac6",
+      "name": "2FTQ",
+      "manufacturer": "DEIF",
+      "drawingNumber": "2ftq-x-2evq96-x-3d-pdf.pdf; 2ftq-x-2evq96-x-3d-step-file.stp; 2ftq96-x-3d-pdf.pdf",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-2ftq-16258a0ac6",
+      "recordPath": "equipment/deif-2ftq-16258a0ac6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-2ftq-16258a0ac6.json"
+    },
+    {
+      "id": "deif-apu-4-29b09bb3a7",
+      "name": "APU-4",
+      "manufacturer": "DEIF",
+      "drawingNumber": "ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip; ml-2-controller-2d-pdf.pdf",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-apu-4-29b09bb3a7",
+      "recordPath": "equipment/deif-apu-4-29b09bb3a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-apu-4-29b09bb3a7.json"
+    },
+    {
+      "id": "deif-bq-1fd95635f6",
+      "name": "BQ",
+      "manufacturer": "DEIF",
+      "drawingNumber": "bq48-3d-pdf.pdf; bq48-3d-step-file.stp; bq72-3d-pdf.pdf",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-bq-1fd95635f6",
+      "recordPath": "equipment/deif-bq-1fd95635f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-bq-1fd95635f6.json"
+    },
+    {
+      "id": "deif-fq-ftq-e57741f52d",
+      "name": "FQ & FTQ",
+      "manufacturer": "DEIF",
+      "drawingNumber": "ftq96-x-3d-pdf.pdf; ftq96-x-3d-step-file.stp",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-fq-ftq-e57741f52d",
+      "recordPath": "equipment/deif-fq-ftq-e57741f52d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-fq-ftq-e57741f52d.json"
+    },
+    {
+      "id": "deif-gpu-3-e6ec57512e",
+      "name": "GPU-3",
+      "manufacturer": "DEIF",
+      "drawingNumber": "application-notes-interfacing-deif-equipment-4189340670-fr.pdf; ccs_gb20ptb00017_01_uk.pdf; ml-2-2d-cad-drawings.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-gpu-3-e6ec57512e",
+      "recordPath": "equipment/deif-gpu-3-e6ec57512e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-gpu-3-e6ec57512e.json"
+    },
+    {
+      "id": "deif-gpu-3-gas-4876cca1de",
+      "name": "GPU-3 gas",
+      "manufacturer": "DEIF",
+      "drawingNumber": "application-notes-interfacing-deif-equipment-4189340670-fr.pdf; option-m15-ea-erweiterungskarten-4x-4-20-ma-eing-4189340542d-de.pdf; ml-2-2d-cad-drawings.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-gpu-3-gas-4876cca1de",
+      "recordPath": "equipment/deif-gpu-3-gas-4876cca1de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-gpu-3-gas-4876cca1de.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-icon-integrated-communications-optical-network-b82fc7fdaf",
+      "name": "ICON Integrated Communications Optical Network",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "ICON Integrated Communications Optical Network",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-icon-integrated-communications-optical-network-b82fc7fdaf",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-icon-integrated-communications-optical-network-b82fc7fdaf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-icon-integrated-communications-optical-network-b82fc7fdaf.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-ar360-and-linam-ar-overhead-autoranger-fault-indicato-d21df6bb1d",
+      "name": "LINAM AR360 and LINAM AR Overhead AutoRANGER Fault Indicators",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM AR360 and LINAM AR Overhead AutoRANGER Fault Indicators",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-ar360-and-linam-ar-overhead-autoranger-fault-indicato-d21df6bb1d",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-ar360-and-linam-ar-overhead-autoranger-fault-indicato-d21df6bb1d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-ar360-and-linam-ar-overhead-autoranger-fault-indicato-d21df6bb1d.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-aru-underground-autoranger-fault-indicator-079c323a9e",
+      "name": "LINAM ARU Underground AutoRANGER Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM ARU Underground AutoRANGER Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-aru-underground-autoranger-fault-indicator-079c323a9e",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-aru-underground-autoranger-fault-indicator-079c323a9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-aru-underground-autoranger-fault-indicator-079c323a9e.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-cr-underground-current-reset-fault-indicator-ba92bd14e1",
+      "name": "LINAM CR Underground Current Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM CR Underground Current Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-cr-underground-current-reset-fault-indicator-ba92bd14e1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-cr-underground-current-reset-fault-indicator-ba92bd14e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-cr-underground-current-reset-fault-indicator-ba92bd14e1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-crd-overhead-current-reset-fault-indicator-5e3b75215b",
+      "name": "LINAM CRD Overhead Current Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM CRD Overhead Current Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-crd-overhead-current-reset-fault-indicator-5e3b75215b",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-crd-overhead-current-reset-fault-indicator-5e3b75215b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-crd-overhead-current-reset-fault-indicator-5e3b75215b.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-ct-split-core-current-transformers-f8247841d9",
+      "name": "LINAM CT Split-Core Current Transformers",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM CT Split-Core Current Transformers",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-ct-split-core-current-transformers-f8247841d9",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-ct-split-core-current-transformers-f8247841d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-ct-split-core-current-transformers-f8247841d9.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-er-overhead-electrostatic-reset-fault-indicator-02f57e562e",
+      "name": "LINAM ER Overhead Electrostatic Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM ER Overhead Electrostatic Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-er-overhead-electrostatic-reset-fault-indicator-02f57e562e",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-er-overhead-electrostatic-reset-fault-indicator-02f57e562e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-er-overhead-electrostatic-reset-fault-indicator-02f57e562e.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-flt-and-linam-flr-fault-and-load-transmitter-and-rece-b855e17827",
+      "name": "LINAM FLT and LINAM FLR Fault and Load Transmitter and Receiver System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM FLT and LINAM FLR Fault and Load Transmitter and Receiver System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-flt-and-linam-flr-fault-and-load-transmitter-and-rece-b855e17827",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-flt-and-linam-flr-fault-and-load-transmitter-and-rece-b855e17827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-flt-and-linam-flr-fault-and-load-transmitter-and-rece-b855e17827.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-mr-manual-reset-fault-indicator-01621f2aef",
+      "name": "LINAM MR Manual Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM MR Manual Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-mr-manual-reset-fault-indicator-01621f2aef",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-mr-manual-reset-fault-indicator-01621f2aef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-mr-manual-reset-fault-indicator-01621f2aef.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-sct-submersible-separable-core-current-transformer-ec7c1c91cc",
+      "name": "LINAM SCT Submersible Separable-Core Current Transformer",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM SCT Submersible Separable-Core Current Transformer",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-sct-submersible-separable-core-current-transformer-ec7c1c91cc",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-sct-submersible-separable-core-current-transformer-ec7c1c91cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-sct-submersible-separable-core-current-transformer-ec7c1c91cc.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-sr-underground-secondary-low-voltage-reset-fault-indi-d3691e159b",
+      "name": "LINAM SR Underground Secondary/Low-Voltage Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM SR Underground Secondary/Low-Voltage Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-sr-underground-secondary-low-voltage-reset-fault-indi-d3691e159b",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-sr-underground-secondary-low-voltage-reset-fault-indi-d3691e159b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-sr-underground-secondary-low-voltage-reset-fault-indi-d3691e159b.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-tpr-underground-test-point-reset-fault-indicator-a590151583",
+      "name": "LINAM TPR Underground Test Point Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM TPR Underground Test Point Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-tpr-underground-test-point-reset-fault-indicator-a590151583",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-tpr-underground-test-point-reset-fault-indicator-a590151583.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-tpr-underground-test-point-reset-fault-indicator-a590151583.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-tr-underground-timed-reset-fault-indicator-9042af6191",
+      "name": "LINAM TR Underground Timed-Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM TR Underground Timed-Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-tr-underground-timed-reset-fault-indicator-9042af6191",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-tr-underground-timed-reset-fault-indicator-9042af6191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-tr-underground-timed-reset-fault-indicator-9042af6191.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-ugfi-underground-fault-indicator-74f13d4c03",
+      "name": "LINAM UGFI Underground Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM UGFI Underground Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-ugfi-underground-fault-indicator-74f13d4c03",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-ugfi-underground-fault-indicator-74f13d4c03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-ugfi-underground-fault-indicator-74f13d4c03.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-linam-vin-voltage-indicator-f83163f02f",
+      "name": "LINAM VIN Voltage Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "LINAM VIN Voltage Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-linam-vin-voltage-indicator-f83163f02f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-linam-vin-voltage-indicator-f83163f02f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-linam-vin-voltage-indicator-f83163f02f.json"
+    },
+    {
+      "id": "deif-lmr-111d-8610b217c0",
+      "name": "LMR-111D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-lmr-111d-8610b217c0",
+      "recordPath": "equipment/deif-lmr-111d-8610b217c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-lmr-111d-8610b217c0.json"
+    },
+    {
+      "id": "deif-lmr-122d-a35726e23b",
+      "name": "LMR-122D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "lmr-122d-data-sheet-4921240220-uk.pdf; lmr-122d-datenblatt-4921240221-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-lmr-122d-a35726e23b",
+      "recordPath": "equipment/deif-lmr-122d-a35726e23b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-lmr-122d-a35726e23b.json"
+    },
+    {
+      "id": "deif-mib-8000c-7c74babd51",
+      "name": "MIB 8000C",
+      "manufacturer": "DEIF",
+      "drawingNumber": "mib-mic-2-mounting-instructions-4189320052-uk.pdf; mib-8000c-3d-pdf.pdf; mib-8000c-3d-step-file.stp",
+      "formats": [
+        "DWG",
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-mib-8000c-7c74babd51",
+      "recordPath": "equipment/deif-mib-8000c-7c74babd51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-mib-8000c-7c74babd51.json"
+    },
+    {
+      "id": "deif-mtr-4-223b919d96",
+      "name": "MTR-4",
+      "manufacturer": "DEIF",
+      "drawingNumber": "mtr-4-3d-pdf.pdf; mtr-4-3d-step-file.stp",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-mtr-4-223b919d96",
+      "recordPath": "equipment/deif-mtr-4-223b919d96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-mtr-4-223b919d96.json"
+    },
+    {
+      "id": "ge-vernova-multilin-845-transformer-protection-relay-2e5eccdb35",
+      "name": "Multilin 845 transformer protection relay",
+      "manufacturer": "GE Vernova",
+      "drawingNumber": "Multilin 845 transformer protection relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ge-vernova-multilin-845-transformer-protection-relay-2e5eccdb35",
+      "recordPath": "equipment/ge-vernova-multilin-845-transformer-protection-relay-2e5eccdb35.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ge-vernova-multilin-845-transformer-protection-relay-2e5eccdb35.json"
+    },
+    {
+      "id": "ge-vernova-multilin-889-generator-protection-relay-6c99f88b75",
+      "name": "Multilin 889 generator protection relay",
+      "manufacturer": "GE Vernova",
+      "drawingNumber": "Multilin 889 generator protection relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ge-vernova-multilin-889-generator-protection-relay-6c99f88b75",
+      "recordPath": "equipment/ge-vernova-multilin-889-generator-protection-relay-6c99f88b75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ge-vernova-multilin-889-generator-protection-relay-6c99f88b75.json"
+    },
+    {
+      "id": "deif-neq-210a508b13",
+      "name": "NEQ",
+      "manufacturer": "DEIF",
+      "drawingNumber": "NEQ",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-neq-210a508b13",
+      "recordPath": "equipment/deif-neq-210a508b13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-neq-210a508b13.json"
+    },
+    {
+      "id": "deif-navigation-indicator-xdi-n-6a1fb2cf45",
+      "name": "Navigation Indicator (XDi-N)",
+      "manufacturer": "DEIF",
+      "drawingNumber": "dnv-rai-b-medb00003an-uk.pdf; xdi-144-2d-cad-drawings.zip; xdi-192-2d-cad-drawing.dwg",
+      "formats": [
+        "DWG",
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-navigation-indicator-xdi-n-6a1fb2cf45",
+      "recordPath": "equipment/deif-navigation-indicator-xdi-n-6a1fb2cf45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-navigation-indicator-xdi-n-6a1fb2cf45.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-power-supplies-wall-mount-power-supplies-dec01d0d7a",
+      "name": "Power Supplies Wall-Mount Power Supplies",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "Power Supplies Wall-Mount Power Supplies",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-power-supplies-wall-mount-power-supplies-dec01d0d7a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-power-supplies-wall-mount-power-supplies-dec01d0d7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-power-supplies-wall-mount-power-supplies-dec01d0d7a.json"
+    },
+    {
+      "id": "deif-rmc-111d-33882796f6",
+      "name": "RMC-111D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "rmc-111-122-132d-data-sheet-4921240102i-fr.pdf; rmc-111-122-132d-data-sheet-4921240102-uk.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-rmc-111d-33882796f6",
+      "recordPath": "equipment/deif-rmc-111d-33882796f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-rmc-111d-33882796f6.json"
+    },
+    {
+      "id": "deif-rmc-122d-ea2ff15a27",
+      "name": "RMC-122D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "rmc-111-122-132d-data-sheet-4921240102i-fr.pdf; rmc-111-122-132d-data-sheet-4921240102-uk.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-rmc-122d-ea2ff15a27",
+      "recordPath": "equipment/deif-rmc-122d-ea2ff15a27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-rmc-122d-ea2ff15a27.json"
+    },
+    {
+      "id": "deif-rmc-131d-2a6b272542",
+      "name": "RMC-131D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-rmc-131d-2a6b272542",
+      "recordPath": "equipment/deif-rmc-131d-2a6b272542.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-rmc-131d-2a6b272542.json"
+    },
+    {
+      "id": "deif-rmc-142d-f1f7846b6a",
+      "name": "RMC-142D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "rmc-142d-data-sheet-4921240148-uk.pdf; rmc-142d-fiche-technique-4921240148-fr.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-rmc-142d-f1f7846b6a",
+      "recordPath": "equipment/deif-rmc-142d-f1f7846b6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-rmc-142d-f1f7846b6a.json"
+    },
+    {
+      "id": "deif-rmv-112d-063ee9e321",
+      "name": "RMV-112D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "rmv-112-122-132d-data-sheet-4921240096-fr.pdf; rmv-112-122-132d-data-sheet-4921240096-uk.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-rmv-112d-063ee9e321",
+      "recordPath": "equipment/deif-rmv-112d-063ee9e321.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-rmv-112d-063ee9e321.json"
+    },
+    {
+      "id": "deif-rmv-142d-09d4663bc2",
+      "name": "RMV-142D",
+      "manufacturer": "DEIF",
+      "drawingNumber": "rmv-142d-data-sheet-4921240128-uk.pdf; rmv-142d-datenblatt-4921240129-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-rmv-142d-09d4663bc2",
+      "recordPath": "equipment/deif-rmv-142d-09d4663bc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-rmv-142d-09d4663bc2.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-radioranger-underground-wireless-fault-indication-system-5698098d84",
+      "name": "RadioRANGER Underground Wireless Fault Indication System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "RadioRANGER Underground Wireless Fault Indication System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-radioranger-underground-wireless-fault-indication-system-5698098d84",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-radioranger-underground-wireless-fault-indication-system-5698098d84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-radioranger-underground-wireless-fault-indication-system-5698098d84.json"
+    },
+    {
+      "id": "deif-revolution-counter-xdi-d-57482f5508",
+      "name": "Revolution Counter (XDi-D)",
+      "manufacturer": "DEIF",
+      "drawingNumber": "dnv-rai-b-medb00003an-uk.pdf; xdi-144-2d-cad-drawings.zip; xdi-144-2d-pdfs.zip",
+      "formats": [
+        "PDF",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-revolution-counter-xdi-d-57482f5508",
+      "recordPath": "equipment/deif-revolution-counter-xdi-d-57482f5508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-revolution-counter-xdi-d-57482f5508.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-wireless-protection-system-sel-ft50-fault-transmitter-s-a5fc0087a9",
+      "name": "SEL Wireless Protection System SEL-FT50 Fault Transmitter, SEL-RP50 Fault Repeater, and SEL-FR12 Fault Receiver",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL Wireless Protection System SEL-FT50 Fault Transmitter, SEL-RP50 Fault Repeater, and SEL-FR12 Fault Receiver",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-wireless-protection-system-sel-ft50-fault-transmitter-s-a5fc0087a9",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-wireless-protection-system-sel-ft50-fault-transmitter-s-a5fc0087a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-wireless-protection-system-sel-ft50-fault-transmitter-s-a5fc0087a9.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-1102-computing-platform-for-value-added-resellers-ae53e6db04",
+      "name": "SEL-1102 Computing Platform for Value-Added Resellers",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-1102 Computing Platform for Value-Added Resellers",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-1102-computing-platform-for-value-added-resellers-ae53e6db04",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-1102-computing-platform-for-value-added-resellers-ae53e6db04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-1102-computing-platform-for-value-added-resellers-ae53e6db04.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2032-communications-processor-7fc27569c9",
+      "name": "SEL-2032 Communications Processor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2032 Communications Processor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2032-communications-processor-7fc27569c9",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2032-communications-processor-7fc27569c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2032-communications-processor-7fc27569c9.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2100-logic-processor-fd6b9c898d",
+      "name": "SEL-2100 Logic Processor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2100 Logic Processor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2100-logic-processor-fd6b9c898d",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2100-logic-processor-fd6b9c898d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2100-logic-processor-fd6b9c898d.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2431-voltage-regulator-control-61ae3c025f",
+      "name": "SEL-2431 Voltage Regulator Control",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2431 Voltage Regulator Control",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2431-voltage-regulator-control-61ae3c025f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2431-voltage-regulator-control-61ae3c025f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2431-voltage-regulator-control-61ae3c025f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2522-alarm-panel-72d97b0d8a",
+      "name": "SEL-2522 Alarm Panel",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2522 Alarm Panel",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2522-alarm-panel-72d97b0d8a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2522-alarm-panel-72d97b0d8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2522-alarm-panel-72d97b0d8a.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2523-annunciator-panel-16cf01eee1",
+      "name": "SEL-2523 Annunciator Panel",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2523 Annunciator Panel",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2523-annunciator-panel-16cf01eee1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2523-annunciator-panel-16cf01eee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2523-annunciator-panel-16cf01eee1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2533-annunciator-ce4f282c78",
+      "name": "SEL-2533 Annunciator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2533 Annunciator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2533-annunciator-ce4f282c78",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2533-annunciator-ce4f282c78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2533-annunciator-ce4f282c78.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2595-teleprotection-terminal-5c32d18ea2",
+      "name": "SEL-2595 Teleprotection Terminal",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2595 Teleprotection Terminal",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2595-teleprotection-terminal-5c32d18ea2",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2595-teleprotection-terminal-5c32d18ea2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2595-teleprotection-terminal-5c32d18ea2.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2652-trip-coil-monitor-bbb3f5dd30",
+      "name": "SEL-2652 Trip Coil Monitor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2652 Trip Coil Monitor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2652-trip-coil-monitor-bbb3f5dd30",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2652-trip-coil-monitor-bbb3f5dd30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2652-trip-coil-monitor-bbb3f5dd30.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3061-cellular-router-5bf7db05af",
+      "name": "SEL-3061 Cellular Router",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3061 Cellular Router",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3061-cellular-router-5bf7db05af",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3061-cellular-router-5bf7db05af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3061-cellular-router-5bf7db05af.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-311c-transmission-protection-system-647f3b5faf",
+      "name": "SEL-311C Transmission Protection System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-311C Transmission Protection System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-311c-transmission-protection-system-647f3b5faf",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-311c-transmission-protection-system-647f3b5faf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-311c-transmission-protection-system-647f3b5faf.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-321-phase-and-ground-distance-relay-ab823a38d2",
+      "name": "SEL-321 Phase and Ground Distance Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-321 Phase and Ground Distance Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-321-phase-and-ground-distance-relay-ab823a38d2",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-321-phase-and-ground-distance-relay-ab823a38d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-321-phase-and-ground-distance-relay-ab823a38d2.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-321-5-phase-and-ground-distance-relay-bd727dbc6f",
+      "name": "SEL-321-5 Phase and Ground Distance Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-321-5 Phase and Ground Distance Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-321-5-phase-and-ground-distance-relay-bd727dbc6f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-321-5-phase-and-ground-distance-relay-bd727dbc6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-321-5-phase-and-ground-distance-relay-bd727dbc6f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3332-intelligent-server-5646da41f0",
+      "name": "SEL-3332 Intelligent Server",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3332 Intelligent Server",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3332-intelligent-server-5646da41f0",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3332-intelligent-server-5646da41f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3332-intelligent-server-5646da41f0.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3351-system-computing-platform-f319efa716",
+      "name": "SEL-3351 System Computing Platform",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3351 System Computing Platform",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3351-system-computing-platform-f319efa716",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3351-system-computing-platform-f319efa716.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3351-system-computing-platform-f319efa716.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3354-embedded-automation-computing-platform-37f8f32ddd",
+      "name": "SEL-3354 Embedded Automation Computing Platform",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3354 Embedded Automation Computing Platform",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3354-embedded-automation-computing-platform-37f8f32ddd",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3354-embedded-automation-computing-platform-37f8f32ddd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3354-embedded-automation-computing-platform-37f8f32ddd.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3355-computing-platform-8a28335ab9",
+      "name": "SEL-3355 Computing Platform",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3355 Computing Platform",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3355-computing-platform-8a28335ab9",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3355-computing-platform-8a28335ab9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3355-computing-platform-8a28335ab9.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3360-computing-platform-8a0e7e36b4",
+      "name": "SEL-3360 Computing Platform",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3360 Computing Platform",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3360-computing-platform-8a0e7e36b4",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3360-computing-platform-8a0e7e36b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3360-computing-platform-8a0e7e36b4.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3373-station-phasor-data-concentrator-pdc-22f3bb43e2",
+      "name": "SEL-3373 Station Phasor Data Concentrator (PDC)",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3373 Station Phasor Data Concentrator (PDC)",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3373-station-phasor-data-concentrator-pdc-22f3bb43e2",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3373-station-phasor-data-concentrator-pdc-22f3bb43e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3373-station-phasor-data-concentrator-pdc-22f3bb43e2.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3378-synchrophasor-vector-processor-88b15bf5e7",
+      "name": "SEL-3378 Synchrophasor Vector Processor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3378 Synchrophasor Vector Processor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3378-synchrophasor-vector-processor-88b15bf5e7",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3378-synchrophasor-vector-processor-88b15bf5e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3378-synchrophasor-vector-processor-88b15bf5e7.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3390e4-network-adapter-card-dd7ef69c65",
+      "name": "SEL-3390E4 Network Adapter Card",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3390E4 Network Adapter Card",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3390e4-network-adapter-card-dd7ef69c65",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3390e4-network-adapter-card-dd7ef69c65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3390e4-network-adapter-card-dd7ef69c65.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-351s-protection-system-6f7775c647",
+      "name": "SEL-351S Protection System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-351S Protection System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-351s-protection-system-6f7775c647",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-351s-protection-system-6f7775c647.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-351s-protection-system-6f7775c647.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-352-breaker-failure-relay-0bbf483d96",
+      "name": "SEL-352 Breaker Failure Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-352 Breaker Failure Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-352-breaker-failure-relay-0bbf483d96",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-352-breaker-failure-relay-0bbf483d96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-352-breaker-failure-relay-0bbf483d96.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3573-station-phasor-data-concentrator-pdc-c0e0be70c1",
+      "name": "SEL-3573 Station Phasor Data Concentrator (PDC)",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3573 Station Phasor Data Concentrator (PDC)",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3573-station-phasor-data-concentrator-pdc-c0e0be70c1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3573-station-phasor-data-concentrator-pdc-c0e0be70c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3573-station-phasor-data-concentrator-pdc-c0e0be70c1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3610-port-server-bc840e1820",
+      "name": "SEL-3610 Port Server",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3610 Port Server",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3610-port-server-bc840e1820",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3610-port-server-bc840e1820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3610-port-server-bc840e1820.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3622-security-gateway-fb7d78165e",
+      "name": "SEL-3622 Security Gateway",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3622 Security Gateway",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3622-security-gateway-fb7d78165e",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3622-security-gateway-fb7d78165e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3622-security-gateway-fb7d78165e.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-387-current-differential-and-overcurrent-relay-b4fe426306",
+      "name": "SEL-387 Current Differential and Overcurrent Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-387 Current Differential and Overcurrent Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-387-current-differential-and-overcurrent-relay-b4fe426306",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-387-current-differential-and-overcurrent-relay-b4fe426306.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-387-current-differential-and-overcurrent-relay-b4fe426306.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-387a-current-differential-and-overcurrent-relay-db6c40d1ea",
+      "name": "SEL-387A Current Differential and Overcurrent Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-387A Current Differential and Overcurrent Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-387a-current-differential-and-overcurrent-relay-db6c40d1ea",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-387a-current-differential-and-overcurrent-relay-db6c40d1ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-387a-current-differential-and-overcurrent-relay-db6c40d1ea.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-387e-current-differential-and-voltage-relay-ecbd1e7289",
+      "name": "SEL-387E Current Differential and Voltage Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-387E Current Differential and Voltage Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-387e-current-differential-and-voltage-relay-ecbd1e7289",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-387e-current-differential-and-voltage-relay-ecbd1e7289.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-387e-current-differential-and-voltage-relay-ecbd1e7289.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-387l-line-current-differential-relay-e68fb066c4",
+      "name": "SEL-387L Line Current Differential Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-387L Line Current Differential Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-387l-line-current-differential-relay-e68fb066c4",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-387l-line-current-differential-relay-e68fb066c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-387l-line-current-differential-relay-e68fb066c4.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-4000-relay-test-system-81b1eff108",
+      "name": "SEL-4000 Relay Test System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-4000 Relay Test System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-4000-relay-test-system-81b1eff108",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-4000-relay-test-system-81b1eff108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-4000-relay-test-system-81b1eff108.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-401-protection-automation-and-control-merging-unit-a213d7b603",
+      "name": "SEL-401 Protection, Automation, and Control Merging Unit",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-401 Protection, Automation, and Control Merging Unit",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-401-protection-automation-and-control-merging-unit-a213d7b603",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-401-protection-automation-and-control-merging-unit-a213d7b603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-401-protection-automation-and-control-merging-unit-a213d7b603.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-411l-advanced-line-differential-protection-automation-a-723541b2ba",
+      "name": "SEL-411L Advanced Line Differential Protection, Automation, and Control System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-411L Advanced Line Differential Protection, Automation, and Control System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-411l-advanced-line-differential-protection-automation-a-723541b2ba",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-411l-advanced-line-differential-protection-automation-a-723541b2ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-411l-advanced-line-differential-protection-automation-a-723541b2ba.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-421-protection-automation-and-control-system-3bba4f3fe1",
+      "name": "SEL-421 Protection, Automation, and Control System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-421 Protection, Automation, and Control System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-421-protection-automation-and-control-system-3bba4f3fe1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-421-protection-automation-and-control-system-3bba4f3fe1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-421-protection-automation-and-control-system-3bba4f3fe1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-4388-mirrored-bits-tester-5988ad3fa7",
+      "name": "SEL-4388 Mirrored Bits Tester",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-4388 Mirrored Bits Tester",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-4388-mirrored-bits-tester-5988ad3fa7",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-4388-mirrored-bits-tester-5988ad3fa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-4388-mirrored-bits-tester-5988ad3fa7.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-451-protection-automation-and-bay-control-system-e979dd5976",
+      "name": "SEL-451 Protection, Automation, and Bay Control System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-451 Protection, Automation, and Bay Control System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-451-protection-automation-and-bay-control-system-e979dd5976",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-451-protection-automation-and-bay-control-system-e979dd5976.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-451-protection-automation-and-bay-control-system-e979dd5976.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-4520-arc-flash-test-module-f786d9aa20",
+      "name": "SEL-4520 Arc-Flash Test Module",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-4520 Arc-Flash Test Module",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-4520-arc-flash-test-module-f786d9aa20",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-4520-arc-flash-test-module-f786d9aa20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-4520-arc-flash-test-module-f786d9aa20.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-487b-bus-differential-and-breaker-failure-relay-3721416364",
+      "name": "SEL-487B Bus Differential and Breaker Failure Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-487B Bus Differential and Breaker Failure Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-487b-bus-differential-and-breaker-failure-relay-3721416364",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-487b-bus-differential-and-breaker-failure-relay-3721416364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-487b-bus-differential-and-breaker-failure-relay-3721416364.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-487v-capacitor-bank-protection-automation-and-control-s-3aea43d689",
+      "name": "SEL-487V Capacitor Bank Protection, Automation, and Control System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-487V Capacitor Bank Protection, Automation, and Control System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-487v-capacitor-bank-protection-automation-and-control-s-3aea43d689",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-487v-capacitor-bank-protection-automation-and-control-s-3aea43d689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-487v-capacitor-bank-protection-automation-and-control-s-3aea43d689.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-5057-sdn-application-suite-d0709dbee7",
+      "name": "SEL-5057 SDN Application Suite",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-5057 SDN Application Suite",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-5057-sdn-application-suite-d0709dbee7",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-5057-sdn-application-suite-d0709dbee7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-5057-sdn-application-suite-d0709dbee7.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-5078-2-synchrowave-central-50abff6f08",
+      "name": "SEL-5078-2 synchroWAVe Central",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-5078-2 synchroWAVe Central",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-5078-2-synchrowave-central-50abff6f08",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-5078-2-synchrowave-central-50abff6f08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-5078-2-synchrowave-central-50abff6f08.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-547-distributed-generator-interconnection-relay-9f334da707",
+      "name": "SEL-547 Distributed Generator Interconnection Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-547 Distributed Generator Interconnection Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-547-distributed-generator-interconnection-relay-9f334da707",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-547-distributed-generator-interconnection-relay-9f334da707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-547-distributed-generator-interconnection-relay-9f334da707.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-5630-acselerator-meter-reports-dbb1242ed7",
+      "name": "SEL-5630 acSELerator Meter Reports",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-5630 acSELerator Meter Reports",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-5630-acselerator-meter-reports-dbb1242ed7",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-5630-acselerator-meter-reports-dbb1242ed7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-5630-acselerator-meter-reports-dbb1242ed7.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-734-734t-revenue-meter-896e1e410a",
+      "name": "SEL-734/734T Revenue Meter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-734/734T Revenue Meter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-734-734t-revenue-meter-896e1e410a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-734-734t-revenue-meter-896e1e410a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-734-734t-revenue-meter-896e1e410a.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-734b-advanced-monitoring-and-control-system-36e41b57c1",
+      "name": "SEL-734B Advanced Monitoring and Control System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-734B Advanced Monitoring and Control System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-734b-advanced-monitoring-and-control-system-36e41b57c1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-734b-advanced-monitoring-and-control-system-36e41b57c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-734b-advanced-monitoring-and-control-system-36e41b57c1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-735-power-quality-and-revenue-meter-75311118f2",
+      "name": "SEL-735 Power Quality and Revenue Meter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-735 Power Quality and Revenue Meter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-735-power-quality-and-revenue-meter-75311118f2",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-735-power-quality-and-revenue-meter-75311118f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-735-power-quality-and-revenue-meter-75311118f2.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-751a-feeder-protection-relay-5cef28382c",
+      "name": "SEL-751A Feeder Protection Relay",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-751A Feeder Protection Relay",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-751a-feeder-protection-relay-5cef28382c",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-751a-feeder-protection-relay-5cef28382c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-751a-feeder-protection-relay-5cef28382c.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-8301-underground-distribution-sensor-a08524c1a2",
+      "name": "SEL-8301 Underground Distribution Sensor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-8301 Underground Distribution Sensor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-8301-underground-distribution-sensor-a08524c1a2",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-8301-underground-distribution-sensor-a08524c1a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-8301-underground-distribution-sensor-a08524c1a2.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-8315-underground-phase-comparison-fault-indicator-8546309055",
+      "name": "SEL-8315 Underground Phase Comparison Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-8315 Underground Phase Comparison Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-8315-underground-phase-comparison-fault-indicator-8546309055",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-8315-underground-phase-comparison-fault-indicator-8546309055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-8315-underground-phase-comparison-fault-indicator-8546309055.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9192-utility-grade-usb-modem-5111992f62",
+      "name": "SEL-9192 Utility-Grade USB Modem",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9192 Utility-Grade USB Modem",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9192-utility-grade-usb-modem-5111992f62",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9192-utility-grade-usb-modem-5111992f62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9192-utility-grade-usb-modem-5111992f62.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9501-contact-arc-suppressor-3cef7a465a",
+      "name": "SEL-9501 Contact Arc Suppressor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9501 Contact Arc Suppressor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9501-contact-arc-suppressor-3cef7a465a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9501-contact-arc-suppressor-3cef7a465a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9501-contact-arc-suppressor-3cef7a465a.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9502-contact-arc-suppressor-dc2beffc55",
+      "name": "SEL-9502 Contact Arc Suppressor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9502 Contact Arc Suppressor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9502-contact-arc-suppressor-dc2beffc55",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9502-contact-arc-suppressor-dc2beffc55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9502-contact-arc-suppressor-dc2beffc55.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-btri-overhead-beacon-timed-reset-fault-indicator-63a31825ac",
+      "name": "SEL-BTRI Overhead BEACON Timed-Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-BTRI Overhead BEACON Timed-Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-btri-overhead-beacon-timed-reset-fault-indicator-63a31825ac",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-btri-overhead-beacon-timed-reset-fault-indicator-63a31825ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-btri-overhead-beacon-timed-reset-fault-indicator-63a31825ac.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-btrip-overhead-beacon-field-programmable-timed-reset-fa-58ca8a992b",
+      "name": "SEL-BTRIP Overhead BEACON Field-Programmable Timed-Reset Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-BTRIP Overhead BEACON Field-Programmable Timed-Reset Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-btrip-overhead-beacon-field-programmable-timed-reset-fa-58ca8a992b",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-btrip-overhead-beacon-field-programmable-timed-reset-fa-58ca8a992b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-btrip-overhead-beacon-field-programmable-timed-reset-fa-58ca8a992b.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-fc-overhead-fault-counter-fault-indicator-c6b01622f5",
+      "name": "SEL-FC Overhead Fault Counter Fault Indicator",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-FC Overhead Fault Counter Fault Indicator",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-fc-overhead-fault-counter-fault-indicator-c6b01622f5",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-fc-overhead-fault-counter-fault-indicator-c6b01622f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-fc-overhead-fault-counter-fault-indicator-c6b01622f5.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-gfd-underground-ground-fault-detector-99848c74bd",
+      "name": "SEL-GFD Underground Ground Fault Detector",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-GFD Underground Ground Fault Detector",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-gfd-underground-ground-fault-detector-99848c74bd",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-gfd-underground-ground-fault-detector-99848c74bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-gfd-underground-ground-fault-detector-99848c74bd.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-mw-microcontroller-based-wye-voltage-sensor-43e283941f",
+      "name": "SEL-MW Microcontroller-Based Wye Voltage Sensor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-MW Microcontroller-Based Wye Voltage Sensor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-mw-microcontroller-based-wye-voltage-sensor-43e283941f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-mw-microcontroller-based-wye-voltage-sensor-43e283941f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-mw-microcontroller-based-wye-voltage-sensor-43e283941f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-t400l-time-domain-line-protection-b861568f46",
+      "name": "SEL-T400L Time-Domain Line Protection",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-T400L Time-Domain Line Protection",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-t400l-time-domain-line-protection-b861568f46",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-t400l-time-domain-line-protection-b861568f46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-t400l-time-domain-line-protection-b861568f46.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-t4287-traveling-wave-test-system-db876f782d",
+      "name": "SEL-T4287 Traveling-Wave Test System",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-T4287 Traveling-Wave Test System",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-t4287-traveling-wave-test-system-db876f782d",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-t4287-traveling-wave-test-system-db876f782d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-t4287-traveling-wave-test-system-db876f782d.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-wso-overhead-wireless-sensor-f8959f8b3c",
+      "name": "SEL-WSO Overhead Wireless Sensor",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-WSO Overhead Wireless Sensor",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-wso-overhead-wireless-sensor-f8959f8b3c",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-wso-overhead-wireless-sensor-f8959f8b3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-wso-overhead-wireless-sensor-f8959f8b3c.json"
+    },
+    {
+      "id": "deif-tas-311dg-4cb994bd67",
+      "name": "TAS-311DG",
+      "manufacturer": "DEIF",
+      "drawingNumber": "TAS-311DG",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-tas-311dg-4cb994bd67",
+      "recordPath": "equipment/deif-tas-311dg-4cb994bd67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-tas-311dg-4cb994bd67.json"
+    },
+    {
+      "id": "deif-tas-321dg-455f7f7ead",
+      "name": "TAS-321DG",
+      "manufacturer": "DEIF",
+      "drawingNumber": "tas-321dg-installation-instructions-4189300014-uk.pdf",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-tas-321dg-455f7f7ead",
+      "recordPath": "equipment/deif-tas-321dg-455f7f7ead.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-tas-321dg-455f7f7ead.json"
+    },
+    {
+      "id": "deif-tas-331dg-8cbd753a4c",
+      "name": "TAS-331DG",
+      "manufacturer": "DEIF",
+      "drawingNumber": "tas-331dg-3d-pdf.pdf",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-tas-331dg-8cbd753a4c",
+      "recordPath": "equipment/deif-tas-331dg-8cbd753a4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-tas-331dg-8cbd753a4c.json"
+    },
+    {
+      "id": "deif-wss-500-and-wss-550-0bf73ae073",
+      "name": "WSS 500 and WSS 550",
+      "manufacturer": "DEIF",
+      "drawingNumber": "wss-550-2d-cad-drawing.dwg; wss-550-2d-pdf.pdf; wss-550-3d-step-files.stp",
+      "formats": [
+        "DWG",
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-wss-500-and-wss-550-0bf73ae073",
+      "recordPath": "equipment/deif-wss-500-and-wss-550-0bf73ae073.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-wss-500-and-wss-550-0bf73ae073.json"
+    },
+    {
+      "id": "deif-wss-700-and-wss-750-67b019b839",
+      "name": "WSS 700 and WSS 750",
+      "manufacturer": "DEIF",
+      "drawingNumber": "dnv-taa00002df-uk.pdf; wss-750-2d-cad-drawing.dwg; wss-750-3d-step-file.stp",
+      "formats": [
+        "DWG",
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-wss-700-and-wss-750-67b019b839",
+      "recordPath": "equipment/deif-wss-700-and-wss-750-67b019b839.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-wss-700-and-wss-750-67b019b839.json"
+    },
+    {
+      "id": "abb-2d-file-smissline-tp-ovr-404-93522154f8",
+      "name": "SMISSLINE TP OVR 404",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE TP_OVR 404_2D; SMISSLINE TP OVR 404_3D",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-2d-file-smissline-tp-ovr-404-93522154f8",
+      "recordPath": "equipment/abb-2d-file-smissline-tp-ovr-404-93522154f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-2d-file-smissline-tp-ovr-404-93522154f8.json"
+    },
+    {
+      "id": "abb-3d-step-e290-latching-relay-16a-334b3046cf",
+      "name": "STEP E290 latching relay, 16A",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A7125",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-step-e290-latching-relay-16a-334b3046cf",
+      "recordPath": "equipment/abb-3d-step-e290-latching-relay-16a-334b3046cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-step-e290-latching-relay-16a-334b3046cf.json"
+    },
+    {
+      "id": "abb-3d-step-e290-latching-relay-32a-447027b1cc",
+      "name": "STEP E290 latching relay, 32A",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A7126",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-step-e290-latching-relay-32a-447027b1cc",
+      "recordPath": "equipment/abb-3d-step-e290-latching-relay-32a-447027b1cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-step-e290-latching-relay-32a-447027b1cc.json"
+    },
+    {
+      "id": "abb-3d-step-e291s-sequential-latching-relay-d64392cb7a",
+      "name": "STEP E291S sequential latching relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A7127",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-step-e291s-sequential-latching-relay-d64392cb7a",
+      "recordPath": "equipment/abb-3d-step-e291s-sequential-latching-relay-d64392cb7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-step-e291s-sequential-latching-relay-d64392cb7a.json"
+    },
+    {
+      "id": "abb-3d-step-e297-installation-relay-71c62ac810",
+      "name": "STEP E297 installation relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A7132",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-step-e297-installation-relay-71c62ac810",
+      "recordPath": "equipment/abb-3d-step-e297-installation-relay-71c62ac810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-step-e297-installation-relay-71c62ac810.json"
+    },
+    {
+      "id": "abb-3d-step-file-smissline-n-terminal-32a-zls91x-4da71577cf",
+      "name": "step File SMISSLINE N terminal 32A ZLS91X",
+      "manufacturer": "ABB",
+      "drawingNumber": "SMISSLINE N TERMINAL 32A",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-3d-step-file-smissline-n-terminal-32a-zls91x-4da71577cf",
+      "recordPath": "equipment/abb-3d-step-file-smissline-n-terminal-32a-zls91x-4da71577cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-3d-step-file-smissline-n-terminal-32a-zls91x-4da71577cf.json"
+    },
+    {
+      "id": "abb-611-series-2-0-3d-drawing-adafdc57c8",
+      "name": "611 series 2.0, 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_611_20_3D.ZIP",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-611-series-2-0-3d-drawing-adafdc57c8",
+      "recordPath": "equipment/abb-611-series-2-0-3d-drawing-adafdc57c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-611-series-2-0-3d-drawing-adafdc57c8.json"
+    },
+    {
+      "id": "abb-611-series-hmi-front-drawing-9214968469",
+      "name": "611 series, HMI front drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_611_20",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-611-series-hmi-front-drawing-9214968469",
+      "recordPath": "equipment/abb-611-series-hmi-front-drawing-9214968469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-611-series-hmi-front-drawing-9214968469.json"
+    },
+    {
+      "id": "abb-615-series-5-0-fp1-3d-drawing-55acd3bdb5",
+      "name": "615 series 5.0 FP1, 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_615_50FP1_3D.ZIP",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-615-series-5-0-fp1-3d-drawing-55acd3bdb5",
+      "recordPath": "equipment/abb-615-series-5-0-fp1-3d-drawing-55acd3bdb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-615-series-5-0-fp1-3d-drawing-55acd3bdb5.json"
+    },
+    {
+      "id": "abb-615-series-hmi-front-drawing-1f94cccae6",
+      "name": "615 series, HMI front drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_615_50",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-615-series-hmi-front-drawing-1f94cccae6",
+      "recordPath": "equipment/abb-615-series-hmi-front-drawing-1f94cccae6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-615-series-hmi-front-drawing-1f94cccae6.json"
+    },
+    {
+      "id": "abb-620-series-2-0-fp1-3d-drawing-e167b92ba6",
+      "name": "620 series 2.0 FP1, 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_620_20FP1_3D.ZIP",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-620-series-2-0-fp1-3d-drawing-e167b92ba6",
+      "recordPath": "equipment/abb-620-series-2-0-fp1-3d-drawing-e167b92ba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-620-series-2-0-fp1-3d-drawing-e167b92ba6.json"
+    },
+    {
+      "id": "abb-620-series-hmi-front-drawing-29a1ed68c0",
+      "name": "620 series, HMI front drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_620_20",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-620-series-hmi-front-drawing-29a1ed68c0",
+      "recordPath": "equipment/abb-620-series-hmi-front-drawing-29a1ed68c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-620-series-hmi-front-drawing-29a1ed68c0.json"
+    },
+    {
+      "id": "abb-630-series-1-3-3d-drawing-72d9a06018",
+      "name": "630 series 1.3, 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE_630_13_3D.ZIP",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-630-series-1-3-3d-drawing-72d9a06018",
+      "recordPath": "equipment/abb-630-series-1-3-3d-drawing-72d9a06018.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-630-series-1-3-3d-drawing-72d9a06018.json"
+    },
+    {
+      "id": "abb-dimension-drawing-e500du-electronic-overload-relay-dxf-ba0e2dbac5",
+      "name": "Dimension Drawing - E500DU Electronic Overload Relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX711001R0001; 1SAX711001F1101",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-e500du-electronic-overload-relay-dxf-ba0e2dbac5",
+      "recordPath": "equipment/abb-dimension-drawing-e500du-electronic-overload-relay-dxf-ba0e2dbac5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-e500du-electronic-overload-relay-dxf-ba0e2dbac5.json"
+    },
+    {
+      "id": "abb-dimension-drawing-e800du-electronic-overload-relay-dxf-22f504bc21",
+      "name": "Dimension Drawing - E800DU Electronic Overload Relay (.dxf)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX811001R0001; 1SAX811001F1101",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-e800du-electronic-overload-relay-dxf-22f504bc21",
+      "recordPath": "equipment/abb-dimension-drawing-e800du-electronic-overload-relay-dxf-22f504bc21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-e800du-electronic-overload-relay-dxf-22f504bc21.json"
+    },
+    {
+      "id": "abb-drawing-igs-ovr-wt-3l-690-p-ts-a80a6d7c11",
+      "name": "Drawing IGS OVR WT 3L 690 P TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800030F0103.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-igs-ovr-wt-3l-690-p-ts-a80a6d7c11",
+      "recordPath": "equipment/abb-drawing-igs-ovr-wt-3l-690-p-ts-a80a6d7c11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-igs-ovr-wt-3l-690-p-ts-a80a6d7c11.json"
+    },
+    {
+      "id": "abb-drawing-stp-protection-ep-200734ce87",
+      "name": "Drawing STP Protection EP",
+      "manufacturer": "ABB",
+      "drawingNumber": "2CTC800029F0102.STP; 2CTC800029F0100.PDF",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-stp-protection-ep-200734ce87",
+      "recordPath": "equipment/abb-drawing-stp-protection-ep-200734ce87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-stp-protection-ep-200734ce87.json"
+    },
+    {
+      "id": "abb-electronic-overload-relay-e1250-du-03f4ddb529",
+      "name": "Electronic Overload Relay, E1250 DU",
+      "manufacturer": "ABB",
+      "drawingNumber": "5627694-A.DXF; 5627694-A.PDF",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-electronic-overload-relay-e1250-du-03f4ddb529",
+      "recordPath": "equipment/abb-electronic-overload-relay-e1250-du-03f4ddb529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-electronic-overload-relay-e1250-du-03f4ddb529.json"
+    },
+    {
+      "id": "abb-flush-mounting-a-case-into-a-panel-cut-out-620-series-products-drawing-14e38ed6f8",
+      "name": "Flush mounting a case into a panel cut-out, 620 series products, Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "2RCA039301A0001",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-flush-mounting-a-case-into-a-panel-cut-out-620-series-products-drawing-14e38ed6f8",
+      "recordPath": "equipment/abb-flush-mounting-a-case-into-a-panel-cut-out-620-series-products-drawing-14e38ed6f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-flush-mounting-a-case-into-a-panel-cut-out-620-series-products-drawing-14e38ed6f8.json"
+    },
+    {
+      "id": "abb-ovr-zp-3l-2e8047df1a",
+      "name": "OVR ZP 3L",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107680A1114",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ovr-zp-3l-2e8047df1a",
+      "recordPath": "equipment/abb-ovr-zp-3l-2e8047df1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ovr-zp-3l-2e8047df1a.json"
+    },
+    {
+      "id": "abb-ovr-zp-3n-b029d42760",
+      "name": "OVR ZP 3N",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107680A1115",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ovr-zp-3n-b029d42760",
+      "recordPath": "equipment/abb-ovr-zp-3n-b029d42760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ovr-zp-3n-b029d42760.json"
+    },
+    {
+      "id": "abb-ovr-zp-91e2a94d97",
+      "name": "OVR ZP+",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A3026",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ovr-zp-91e2a94d97",
+      "recordPath": "equipment/abb-ovr-zp-91e2a94d97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ovr-zp-91e2a94d97.json"
+    },
+    {
+      "id": "abb-residual-current-protection-unit-rcq020-a-and-rcq020-p-69d856075f",
+      "name": "RESIDUAL CURRENT PROTECTION UNIT RCQ020/A and RCQ020/P",
+      "manufacturer": "ABB",
+      "drawingNumber": "RE1712801_ASM",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-residual-current-protection-unit-rcq020-a-and-rcq020-p-69d856075f",
+      "recordPath": "equipment/abb-residual-current-protection-unit-rcq020-a-and-rcq020-p-69d856075f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-residual-current-protection-unit-rcq020-a-and-rcq020-p-69d856075f.json"
+    },
+    {
+      "id": "abb-rex615-standard-3d-drawing-2d4c010a66",
+      "name": "REX615 standard, 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A4263",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-rex615-standard-3d-drawing-2d4c010a66",
+      "recordPath": "equipment/abb-rex615-standard-3d-drawing-2d4c010a66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-rex615-standard-3d-drawing-2d4c010a66.json"
+    },
+    {
+      "id": "abb-rex615-wide-3d-drawing-3b8f1f53be",
+      "name": "REX615 wide, 3D drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A4264",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-rex615-wide-3d-drawing-3b8f1f53be",
+      "recordPath": "equipment/abb-rex615-wide-3d-drawing-3b8f1f53be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-rex615-wide-3d-drawing-3b8f1f53be.json"
+    },
+    {
+      "id": "abb-rex640-narrow-relay-step-files-for-3d-d33e69f3f4",
+      "name": "REX640 Narrow relay step files for 3D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108470A5678",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-rex640-narrow-relay-step-files-for-3d-d33e69f3f4",
+      "recordPath": "equipment/abb-rex640-narrow-relay-step-files-for-3d-d33e69f3f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-rex640-narrow-relay-step-files-for-3d-d33e69f3f4.json"
+    },
+    {
+      "id": "abb-rex640-display-step-files-for-3d-3f63f403b0",
+      "name": "REX640 display step files for 3D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107680A1667",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-rex640-display-step-files-for-3d-3f63f403b0",
+      "recordPath": "equipment/abb-rex640-display-step-files-for-3d-3f63f403b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-rex640-display-step-files-for-3d-3f63f403b0.json"
+    },
+    {
+      "id": "abb-rex640-relay-step-files-for-3d-9f77085182",
+      "name": "REX640 relay step files for 3D",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107680A1663",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-rex640-relay-step-files-for-3d-9f77085182",
+      "recordPath": "equipment/abb-rex640-relay-step-files-for-3d-9f77085182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-rex640-relay-step-files-for-3d-9f77085182.json"
+    },
+    {
+      "id": "abb-step-data-ovr-zp-3l-7-5-255-bdd0919b93",
+      "name": "STEP data OVR ZP 3L 7.5-255",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A8883",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-step-data-ovr-zp-3l-7-5-255-bdd0919b93",
+      "recordPath": "equipment/abb-step-data-ovr-zp-3l-7-5-255-bdd0919b93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-step-data-ovr-zp-3l-7-5-255-bdd0919b93.json"
+    },
+    {
+      "id": "abb-step-data-ovr-zp-3n-xx-x-255-3ecf4c1f11",
+      "name": "STEP data OVR ZP 3N xx.x-255",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A8884",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-step-data-ovr-zp-3n-xx-x-255-3ecf4c1f11",
+      "recordPath": "equipment/abb-step-data-ovr-zp-3n-xx-x-255-3ecf4c1f11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-step-data-ovr-zp-3n-xx-x-255-3ecf4c1f11.json"
+    },
+    {
+      "id": "abb-step-data-ovr-zp-3n-xx-x-255-ts-ab1bfd847b",
+      "name": "STEP data OVR ZP 3N xx.x-255 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A6255",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-step-data-ovr-zp-3n-xx-x-255-ts-ab1bfd847b",
+      "recordPath": "equipment/abb-step-data-ovr-zp-3n-xx-x-255-ts-ab1bfd847b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-step-data-ovr-zp-3n-xx-x-255-ts-ab1bfd847b.json"
+    },
+    {
+      "id": "abb-sentry-relay-5d445ddb96",
+      "name": "Sentry relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108469A1903",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-sentry-relay-5d445ddb96",
+      "recordPath": "equipment/abb-sentry-relay-5d445ddb96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-sentry-relay-5d445ddb96.json"
+    },
+    {
+      "id": "abb-1006630amep-outline-drawing-0f5bdca6e6",
+      "name": "1006630AMEP Outline Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "1006630AMEP",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1006630amep-outline-drawing-0f5bdca6e6",
+      "recordPath": "equipment/abb-1006630amep-outline-drawing-0f5bdca6e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1006630amep-outline-drawing-0f5bdca6e6.json"
+    },
+    {
+      "id": "abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-is-tsp341-n-l1yb-rev-1-00-3b9a70ffaf",
+      "name": "Control Drawing - TSP341-N | BUZ | Explosion Protection | cFMus IS, TSP341-N-L1YB Rev. 1.00",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TSP341-N/BUZ/CFMUS_IS_TSP341-N-L1YB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-is-tsp341-n-l1yb-rev-1-00-3b9a70ffaf",
+      "recordPath": "equipment/abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-is-tsp341-n-l1yb-rev-1-00-3b9a70ffaf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-is-tsp341-n-l1yb-rev-1-00-3b9a70ffaf.json"
+    },
+    {
+      "id": "abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-ni-tsp341-n-l2yb-rev-1-00-232ec95aae",
+      "name": "Control Drawing - TSP341-N | BUZ | Explosion Protection | cFMus NI, TSP341-N-L2YB Rev. 1.00",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TSP341-N/BUZ/CFMUS_NI_TSP341-N-L2YB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-ni-tsp341-n-l2yb-rev-1-00-232ec95aae",
+      "recordPath": "equipment/abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-ni-tsp341-n-l2yb-rev-1-00-232ec95aae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tsp341-n-buz-explosion-protection-cfmus-ni-tsp341-n-l2yb-rev-1-00-232ec95aae.json"
+    },
+    {
+      "id": "abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-is-tsp341-n-l1h-rev-1-00-443cb8c735",
+      "name": "Control Drawing - TSP341-N | HW-Rev. 01 | Explosion Protection | cFMus IS, TSP341-N-L1H Rev. 1.00",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TSP341-N/HW01/CFMUS_IS_TSP341-N-L1H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-is-tsp341-n-l1h-rev-1-00-443cb8c735",
+      "recordPath": "equipment/abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-is-tsp341-n-l1h-rev-1-00-443cb8c735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-is-tsp341-n-l1h-rev-1-00-443cb8c735.json"
+    },
+    {
+      "id": "abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-ni-tsp341-n-l2h-rev-1-00-26bf19b956",
+      "name": "Control Drawing - TSP341-N | HW-Rev. 01 | Explosion Protection | cFMus NI, TSP341-N-L2H Rev. 1.00",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TSP341-N/HW01/CFMUS_NI_TSP341-N-L2H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-ni-tsp341-n-l2h-rev-1-00-26bf19b956",
+      "recordPath": "equipment/abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-ni-tsp341-n-l2h-rev-1-00-26bf19b956.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tsp341-n-hw-rev-01-explosion-protection-cfmus-ni-tsp341-n-l2h-rev-1-00-26bf19b956.json"
+    },
+    {
+      "id": "abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-is-tsp341-n-l1y-rev-1-00-538a89fad0",
+      "name": "Control Drawing - TSP341-N | TSA | Explosion Protection | cFMus IS, TSP341-N-L1Y Rev. 1.00",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TSP341-N/TSA/CFMUS_IS_TSP341-N-L1Y",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-is-tsp341-n-l1y-rev-1-00-538a89fad0",
+      "recordPath": "equipment/abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-is-tsp341-n-l1y-rev-1-00-538a89fad0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-is-tsp341-n-l1y-rev-1-00-538a89fad0.json"
+    },
+    {
+      "id": "abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-ni-tsp341-n-l2y-rev-1-00-a954bdf9a4",
+      "name": "Control Drawing - TSP341-N | TSA | Explosion Protection | cFMus NI, TSP341-N-L2Y Rev. 1.00",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TSP341-N/TSA/CFMUS_NI_TSP341-N-L2Y",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-ni-tsp341-n-l2y-rev-1-00-a954bdf9a4",
+      "recordPath": "equipment/abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-ni-tsp341-n-l2y-rev-1-00-a954bdf9a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tsp341-n-tsa-explosion-protection-cfmus-ni-tsp341-n-l2y-rev-1-00-a954bdf9a4.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-is-ttf200-l1h-rev-02-02-f288ab70e5",
+      "name": "Control Drawing - TTF200 | HW-Rev. 02 | Explosion Protection | cFMus IS, TTF200-L1H Rev. 02.02",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF200/HW02/CFMUS_IS_TTF200-L1H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-is-ttf200-l1h-rev-02-02-f288ab70e5",
+      "recordPath": "equipment/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-is-ttf200-l1h-rev-02-02-f288ab70e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-is-ttf200-l1h-rev-02-02-f288ab70e5.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-ni-ttf200-l2h-rev-02-01-e0f3469134",
+      "name": "Control Drawing - TTF200 | HW-Rev. 02 | Explosion Protection | cFMus NI, TTF200-L2H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF200/HW02/CFMUS_NI_TTF200-L2H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-ni-ttf200-l2h-rev-02-01-e0f3469134",
+      "recordPath": "equipment/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-ni-ttf200-l2h-rev-02-01-e0f3469134.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-ni-ttf200-l2h-rev-02-01-e0f3469134.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf200-l3h-rev-02-01-eb4966cc21",
+      "name": "Control Drawing - TTF200 | HW-Rev. 02 | Explosion Protection | cFMus XP or IS, TTF200-L3H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF200/HW02/CFMUS_XP_OR_IS_TTF200-L3H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf200-l3h-rev-02-01-eb4966cc21",
+      "recordPath": "equipment/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf200-l3h-rev-02-01-eb4966cc21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf200-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf200-l3h-rev-02-01-eb4966cc21.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-01-explosion-protection-csa-non-incendive-sap-214827-ni-ps-5e35345c98",
+      "name": "Control Drawing - TTF300 | HW-Rev. 01 | Explosion Protection | CSA Non-Incendive | SAP_214827 (NI_PS)",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/CSA/SAP_214827",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-csa-non-incendive-sap-214827-ni-ps-5e35345c98",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-csa-non-incendive-sap-214827-ni-ps-5e35345c98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-csa-non-incendive-sap-214827-ni-ps-5e35345c98.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-intrinsically-safe-sap-214832-095dd534c6",
+      "name": "Control Drawing - TTF300 | HW-Rev. 01 | Explosion Protection | FM Intrinsically Safe | SAP_214832",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/FM/SAP_214832",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-intrinsically-safe-sap-214832-095dd534c6",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-intrinsically-safe-sap-214832-095dd534c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-intrinsically-safe-sap-214832-095dd534c6.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214828-ni-aa-b7cae5c0d1",
+      "name": "Control Drawing - TTF300 | HW-Rev. 01 | Explosion Protection | FM Non-Incendive | SAP_214828 (NI_AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/FM/SAP_214828",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214828-ni-aa-b7cae5c0d1",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214828-ni-aa-b7cae5c0d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214828-ni-aa-b7cae5c0d1.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214830-ni-ps-e99a476bd2",
+      "name": "Control Drawing - TTF300 | HW-Rev. 01 | Explosion Protection | FM Non-Incendive | SAP_214830 (NI_PS)",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/FM/SAP_214830",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214830-ni-ps-e99a476bd2",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214830-ni-ps-e99a476bd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-01-explosion-protection-fm-non-incendive-sap-214830-ni-ps-e99a476bd2.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-is-ttf300-l1h-rev-02-02-1b3f2e2cab",
+      "name": "Control Drawing - TTF300 | HW-Rev. 02 | Explosion Protection | cFMus IS, TTF300-L1H Rev. 02.02",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/HW02/CFMUS_IS_TTF300-L1H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-is-ttf300-l1h-rev-02-02-1b3f2e2cab",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-is-ttf300-l1h-rev-02-02-1b3f2e2cab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-is-ttf300-l1h-rev-02-02-1b3f2e2cab.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-ni-ttf300-l2h-rev-02-01-b96cc162bc",
+      "name": "Control Drawing - TTF300 | HW-Rev. 02 | Explosion Protection | cFMus NI, TTF300-L2H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/HW02/CFMUS_NI_TTF300-L2H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-ni-ttf300-l2h-rev-02-01-b96cc162bc",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-ni-ttf300-l2h-rev-02-01-b96cc162bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-ni-ttf300-l2h-rev-02-01-b96cc162bc.json"
+    },
+    {
+      "id": "abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf300-l3h-rev-02-01-63e651ea19",
+      "name": "Control Drawing - TTF300 | HW-Rev. 02 | Explosion Protection | cFMus XP or IS, TTF300-L3H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTF300/HW02/CFMUS_XP_OR_IS_TTF300-L3H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf300-l3h-rev-02-01-63e651ea19",
+      "recordPath": "equipment/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf300-l3h-rev-02-01-63e651ea19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-ttf300-hw-rev-02-explosion-protection-cfmus-xp-or-is-ttf300-l3h-rev-02-01-63e651ea19.json"
+    },
+    {
+      "id": "abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-is-tth200-l1h-rev-02-01-e7758a6b3a",
+      "name": "Control Drawing - TTH200 | HW-Rev. 02 | Explosion Protection | cFMus IS, TTH200-L1H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTH200/HW02/CFMUS_IS_TTH200-L1H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-is-tth200-l1h-rev-02-01-e7758a6b3a",
+      "recordPath": "equipment/abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-is-tth200-l1h-rev-02-01-e7758a6b3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-is-tth200-l1h-rev-02-01-e7758a6b3a.json"
+    },
+    {
+      "id": "abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-ni-tth200-l2h-rev-02-01-0d8d4b54ab",
+      "name": "Control Drawing - TTH200 | HW-Rev. 02 | Explosion Protection | cFMus NI, TTH200-L2H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTH200/HW02/CFMUS_NI_TTH200-L2H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-ni-tth200-l2h-rev-02-01-0d8d4b54ab",
+      "recordPath": "equipment/abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-ni-tth200-l2h-rev-02-01-0d8d4b54ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tth200-hw-rev-02-explosion-protection-cfmus-ni-tth200-l2h-rev-02-01-0d8d4b54ab.json"
+    },
+    {
+      "id": "abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-is-tth300-l1h-rev-02-01-c4c9ef0470",
+      "name": "Control Drawing - TTH300 | HW-Rev. 02 | Explosion Protection | cFMus IS, TTH300-L1H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTH300/HW02/CFMUS_IS_TTH300-L1H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-is-tth300-l1h-rev-02-01-c4c9ef0470",
+      "recordPath": "equipment/abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-is-tth300-l1h-rev-02-01-c4c9ef0470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-is-tth300-l1h-rev-02-01-c4c9ef0470.json"
+    },
+    {
+      "id": "abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-ni-tth300-l2h-rev-02-01-09c3c58880",
+      "name": "Control Drawing - TTH300 | HW-Rev. 02 | Explosion Protection | cFMus NI, TTH300-L2H Rev. 02.01",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/TTH300/HW02/CFMUS_NI_TTH300-L2H",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-ni-tth300-l2h-rev-02-01-09c3c58880",
+      "recordPath": "equipment/abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-ni-tth300-l2h-rev-02-01-09c3c58880.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-control-drawing-tth300-hw-rev-02-explosion-protection-cfmus-ni-tth300-l2h-rev-02-01-09c3c58880.json"
+    },
+    {
+      "id": "abb-dimension-drawing-dr25-mounted-on-ta25du-thermal-overload-relay-68882e4d0b",
+      "name": "Dimension Drawing - DR25 mounted on TA25DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ200404F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-dr25-mounted-on-ta25du-thermal-overload-relay-68882e4d0b",
+      "recordPath": "equipment/abb-dimension-drawing-dr25-mounted-on-ta25du-thermal-overload-relay-68882e4d0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-dr25-mounted-on-ta25du-thermal-overload-relay-68882e4d0b.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ds25-mounted-on-ta25du-thermal-overload-relay-34cb3e9424",
+      "name": "Dimension Drawing - DS25 mounted on TA25DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ200405F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ds25-mounted-on-ta25du-thermal-overload-relay-34cb3e9424",
+      "recordPath": "equipment/abb-dimension-drawing-ds25-mounted-on-ta25du-thermal-overload-relay-34cb3e9424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ds25-mounted-on-ta25du-thermal-overload-relay-34cb3e9424.json"
+    },
+    {
+      "id": "abb-dimension-drawing-e200du-electronic-overload-relay-b2b1c34042",
+      "name": "Dimension Drawing - E200DU Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX511001F1101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-e200du-electronic-overload-relay-b2b1c34042",
+      "recordPath": "equipment/abb-dimension-drawing-e200du-electronic-overload-relay-b2b1c34042.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-e200du-electronic-overload-relay-b2b1c34042.json"
+    },
+    {
+      "id": "abb-dimension-drawing-e320du-electronic-overload-relay-02783c4582",
+      "name": "Dimension Drawing - E320DU Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX521001F1101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-e320du-electronic-overload-relay-02783c4582",
+      "recordPath": "equipment/abb-dimension-drawing-e320du-electronic-overload-relay-02783c4582.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-e320du-electronic-overload-relay-02783c4582.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef146-electronic-overload-relay-01db4a11d7",
+      "name": "Dimension Drawing - EF146 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX300407F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef146-electronic-overload-relay-01db4a11d7",
+      "recordPath": "equipment/abb-dimension-drawing-ef146-electronic-overload-relay-01db4a11d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef146-electronic-overload-relay-01db4a11d7.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef19-electronic-overload-relay-aeeef5a986",
+      "name": "Dimension Drawing - EF19 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX100403F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef19-electronic-overload-relay-aeeef5a986",
+      "recordPath": "equipment/abb-dimension-drawing-ef19-electronic-overload-relay-aeeef5a986.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef19-electronic-overload-relay-aeeef5a986.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef205-electronic-overload-relay-f7be83c22f",
+      "name": "Dimension Drawing - EF205 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX500401F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef205-electronic-overload-relay-f7be83c22f",
+      "recordPath": "equipment/abb-dimension-drawing-ef205-electronic-overload-relay-f7be83c22f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef205-electronic-overload-relay-f7be83c22f.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef370-electronic-overload-relay-c9369f9c3d",
+      "name": "Dimension Drawing - EF370 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX600401F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef370-electronic-overload-relay-c9369f9c3d",
+      "recordPath": "equipment/abb-dimension-drawing-ef370-electronic-overload-relay-c9369f9c3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef370-electronic-overload-relay-c9369f9c3d.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef45-electronic-overload-relay-3b9087e5b3",
+      "name": "Dimension Drawing - EF45 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX200403F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef45-electronic-overload-relay-3b9087e5b3",
+      "recordPath": "equipment/abb-dimension-drawing-ef45-electronic-overload-relay-3b9087e5b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef45-electronic-overload-relay-3b9087e5b3.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef460-electronic-overload-relay-e02539f65d",
+      "name": "Dimension Drawing - EF460 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX700402F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef460-electronic-overload-relay-e02539f65d",
+      "recordPath": "equipment/abb-dimension-drawing-ef460-electronic-overload-relay-e02539f65d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef460-electronic-overload-relay-e02539f65d.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef65-electronic-overload-relay-f40f8c0aa1",
+      "name": "Dimension Drawing - EF65 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX300405F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef65-electronic-overload-relay-f40f8c0aa1",
+      "recordPath": "equipment/abb-dimension-drawing-ef65-electronic-overload-relay-f40f8c0aa1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef65-electronic-overload-relay-f40f8c0aa1.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef750-electronic-overload-relay-baabe792b6",
+      "name": "Dimension Drawing - EF750 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX800402F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef750-electronic-overload-relay-baabe792b6",
+      "recordPath": "equipment/abb-dimension-drawing-ef750-electronic-overload-relay-baabe792b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef750-electronic-overload-relay-baabe792b6.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ef96-electronic-overload-relay-be4b5f3ee4",
+      "name": "Dimension Drawing - EF96 Electronic Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAX300406F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ef96-electronic-overload-relay-be4b5f3ee4",
+      "recordPath": "equipment/abb-dimension-drawing-ef96-electronic-overload-relay-be4b5f3ee4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ef96-electronic-overload-relay-be4b5f3ee4.json"
+    },
+    {
+      "id": "abb-dimension-drawing-t16-thermal-overload-relay-0529fb4271",
+      "name": "Dimension Drawing - T16 Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ700404F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-t16-thermal-overload-relay-0529fb4271",
+      "recordPath": "equipment/abb-dimension-drawing-t16-thermal-overload-relay-0529fb4271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-t16-thermal-overload-relay-0529fb4271.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta110du-thermal-overload-relay-4645e9e392",
+      "name": "Dimension Drawing - TA110DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ400403F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta110du-thermal-overload-relay-4645e9e392",
+      "recordPath": "equipment/abb-dimension-drawing-ta110du-thermal-overload-relay-4645e9e392.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta110du-thermal-overload-relay-4645e9e392.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta200du-thermal-overload-relay-e3957a04d3",
+      "name": "Dimension Drawing - TA200DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ400401F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta200du-thermal-overload-relay-e3957a04d3",
+      "recordPath": "equipment/abb-dimension-drawing-ta200du-thermal-overload-relay-e3957a04d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta200du-thermal-overload-relay-e3957a04d3.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta25du-dx25-thermal-overload-relay-7ccf19cc84",
+      "name": "Dimension Drawing - TA25DU (+DX25) Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ200402F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta25du-dx25-thermal-overload-relay-7ccf19cc84",
+      "recordPath": "equipment/abb-dimension-drawing-ta25du-dx25-thermal-overload-relay-7ccf19cc84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta25du-dx25-thermal-overload-relay-7ccf19cc84.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta42du-thermal-overload-relay-1769ad3eea",
+      "name": "Dimension Drawing - TA42DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ300401F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta42du-thermal-overload-relay-1769ad3eea",
+      "recordPath": "equipment/abb-dimension-drawing-ta42du-thermal-overload-relay-1769ad3eea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta42du-thermal-overload-relay-1769ad3eea.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta45du-thermal-overload-relay-698b9315d6",
+      "name": "Dimension Drawing - TA45DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ300411F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta45du-thermal-overload-relay-698b9315d6",
+      "recordPath": "equipment/abb-dimension-drawing-ta45du-thermal-overload-relay-698b9315d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta45du-thermal-overload-relay-698b9315d6.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta75du-thermal-overload-relay-0f9b20f625",
+      "name": "Dimension Drawing - TA75DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ300402F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta75du-thermal-overload-relay-0f9b20f625",
+      "recordPath": "equipment/abb-dimension-drawing-ta75du-thermal-overload-relay-0f9b20f625.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta75du-thermal-overload-relay-0f9b20f625.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta80du-thermal-overload-relay-6c0cd5a1c7",
+      "name": "Dimension Drawing - TA80DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ300403F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta80du-thermal-overload-relay-6c0cd5a1c7",
+      "recordPath": "equipment/abb-dimension-drawing-ta80du-thermal-overload-relay-6c0cd5a1c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta80du-thermal-overload-relay-6c0cd5a1c7.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta80du-rt-thermal-overload-relay-3962e61bf2",
+      "name": "Dimension Drawing - TA80DU-RT Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ300406F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta80du-rt-thermal-overload-relay-3962e61bf2",
+      "recordPath": "equipment/abb-dimension-drawing-ta80du-rt-thermal-overload-relay-3962e61bf2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta80du-rt-thermal-overload-relay-3962e61bf2.json"
+    },
+    {
+      "id": "abb-dimension-drawing-ta85du-thermal-overload-relay-40e5c4947c",
+      "name": "Dimension Drawing - TA85DU Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ300412F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-ta85du-thermal-overload-relay-40e5c4947c",
+      "recordPath": "equipment/abb-dimension-drawing-ta85du-thermal-overload-relay-40e5c4947c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-ta85du-thermal-overload-relay-40e5c4947c.json"
+    },
+    {
+      "id": "abb-dimension-drawing-tf140du-tf140du-v1000-thermal-overload-relay-553007a743",
+      "name": "Dimension Drawing - TF140DU / TF140DU-V1000 Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ400404F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-tf140du-tf140du-v1000-thermal-overload-relay-553007a743",
+      "recordPath": "equipment/abb-dimension-drawing-tf140du-tf140du-v1000-thermal-overload-relay-553007a743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-tf140du-tf140du-v1000-thermal-overload-relay-553007a743.json"
+    },
+    {
+      "id": "abb-dimension-drawing-tf42-thermal-overload-relay-3a298c0ad1",
+      "name": "Dimension Drawing - TF42 Thermal Overload Relay",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SAZ700405F0001",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimension-drawing-tf42-thermal-overload-relay-3a298c0ad1",
+      "recordPath": "equipment/abb-dimension-drawing-tf42-thermal-overload-relay-3a298c0ad1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimension-drawing-tf42-thermal-overload-relay-3a298c0ad1.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-zp-3l-7-5-255-ed6685a8a4",
+      "name": "Dimensional drawing OVR ZP 3L 7.5-255",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8238",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-zp-3l-7-5-255-ed6685a8a4",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-zp-3l-7-5-255-ed6685a8a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-zp-3l-7-5-255-ed6685a8a4.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-zp-3n-xx-x-255-0d1e570bcd",
+      "name": "Dimensional drawing OVR ZP 3N xx.x-255",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8239",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-zp-3n-xx-x-255-0d1e570bcd",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-zp-3n-xx-x-255-0d1e570bcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-zp-3n-xx-x-255-0d1e570bcd.json"
+    },
+    {
+      "id": "abb-dimensional-drawing-ovr-zp-3n-xx-x-255-ts-c1a8575e03",
+      "name": "Dimensional drawing OVR ZP 3N xx.x-255 TS",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A8240",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-dimensional-drawing-ovr-zp-3n-xx-x-255-ts-c1a8575e03",
+      "recordPath": "equipment/abb-dimensional-drawing-ovr-zp-3n-xx-x-255-ts-c1a8575e03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-dimensional-drawing-ovr-zp-3n-xx-x-255-ts-c1a8575e03.json"
+    },
+    {
+      "id": "abb-drawing-rmc-100-2105350-bd-to-abb-fcb-coriolis-meter-f49d963876",
+      "name": "Drawing - RMC-100 (2105350 BD) to ABB FCB coriolis meter",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2105592",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-rmc-100-2105350-bd-to-abb-fcb-coriolis-meter-f49d963876",
+      "recordPath": "equipment/abb-drawing-rmc-100-2105350-bd-to-abb-fcb-coriolis-meter-f49d963876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-rmc-100-2105350-bd-to-abb-fcb-coriolis-meter-f49d963876.json"
+    },
+    {
+      "id": "abb-fm-control-drawing-for-pressure-transmitters-261-with-explosion-protection-certification-ea-1531856bde",
+      "name": "FM Control Drawing for Pressure Transmitters 261 with Explosion Protection Certification EA Factory Mutual (FM) - Intrinsically Safe",
+      "manufacturer": "ABB",
+      "drawingNumber": "DWG/A 06 M 503 V/FM/261",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-fm-control-drawing-for-pressure-transmitters-261-with-explosion-protection-certification-ea-1531856bde",
+      "recordPath": "equipment/abb-fm-control-drawing-for-pressure-transmitters-261-with-explosion-protection-certification-ea-1531856bde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-fm-control-drawing-for-pressure-transmitters-261-with-explosion-protection-certification-ea-1531856bde.json"
+    },
+    {
+      "id": "abb-outline-3-phase-overload-relay-cr324c-x-forms-55-532893s1-pdf-3a7c081a97",
+      "name": "OUTLINE, 3 PHASE OVERLOAD RELAY CR324C X FORMS(55-532893S1)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC913511D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-3-phase-overload-relay-cr324c-x-forms-55-532893s1-pdf-3a7c081a97",
+      "recordPath": "equipment/abb-outline-3-phase-overload-relay-cr324c-x-forms-55-532893s1-pdf-3a7c081a97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-3-phase-overload-relay-cr324c-x-forms-55-532893s1-pdf-3a7c081a97.json"
+    },
+    {
+      "id": "abb-outline-3-phase-overload-relaycr324c-55-526670s1-pdf-cc66445603",
+      "name": "OUTLINE, 3 PHASE OVERLOAD RELAYCR324C(55-526670S1)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC913498D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-3-phase-overload-relaycr324c-55-526670s1-pdf-cc66445603",
+      "recordPath": "equipment/abb-outline-3-phase-overload-relaycr324c-55-526670s1-pdf-cc66445603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-3-phase-overload-relaycr324c-55-526670s1-pdf-cc66445603.json"
+    },
+    {
+      "id": "abb-outline-3phase-overload-relaycr224d-size-2-55-513421s1-pdf-95b26dd51d",
+      "name": "OUTLINE, 3PHASE OVERLOAD RELAYCR224D SIZE 2 (55-513421S1)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SQC913477D0201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-3phase-overload-relaycr224d-size-2-55-513421s1-pdf-95b26dd51d",
+      "recordPath": "equipment/abb-outline-3phase-overload-relaycr224d-size-2-55-513421s1-pdf-95b26dd51d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-3phase-overload-relaycr224d-size-2-55-513421s1-pdf-95b26dd51d.json"
+    },
+    {
+      "id": "abb-rex-521-feeder-protection-relay-alarm-led-label-204ca57233",
+      "name": "REX 521, Feeder Protection Relay, Alarm LED Label",
+      "manufacturer": "ABB",
+      "drawingNumber": "1MRS151300",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-rex-521-feeder-protection-relay-alarm-led-label-204ca57233",
+      "recordPath": "equipment/abb-rex-521-feeder-protection-relay-alarm-led-label-204ca57233.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-rex-521-feeder-protection-relay-alarm-led-label-204ca57233.json"
+    },
+    {
+      "id": "abb-tsm020cscu-200a-mc-euserc-meter-main-7c0675a7d8",
+      "name": "TSM020CSCU 200A MC EUSERC METER MAIN",
+      "manufacturer": "ABB",
+      "drawingNumber": "1TQC1833E0139",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tsm020cscu-200a-mc-euserc-meter-main-7c0675a7d8",
+      "recordPath": "equipment/abb-tsm020cscu-200a-mc-euserc-meter-main-7c0675a7d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tsm020cscu-200a-mc-euserc-meter-main-7c0675a7d8.json"
+    },
+    {
+      "id": "abb-user-drawing-2102486-xfc-6410-6411-6413-6414-2100204-bd-to-druck-1040-1240-gp-ap-transducer-eb82e9f2ee",
+      "name": "User drawing - 2102486 - XFC 6410/6411/6413/6414 (2100204 BD) to Druck 1040/1240 GP/AP Transducer or Wika GP Transducer",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102486",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102486-xfc-6410-6411-6413-6414-2100204-bd-to-druck-1040-1240-gp-ap-transducer-eb82e9f2ee",
+      "recordPath": "equipment/abb-user-drawing-2102486-xfc-6410-6411-6413-6414-2100204-bd-to-druck-1040-1240-gp-ap-transducer-eb82e9f2ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102486-xfc-6410-6411-6413-6414-2100204-bd-to-druck-1040-1240-gp-ap-transducer-eb82e9f2ee.json"
+    },
+    {
+      "id": "abb-user-drawing-2102487-xrc-6490-6790-6890-2100355-bd-to-druck-1040-1240-gp-ap-transducer-or-w-b2e194b757",
+      "name": "User drawing - 2102487 - XRC 6490/6790/6890 (2100355 BD) to Druck 1040/1240 GP/AP Transducer or Wika GP Transducer",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102487",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102487-xrc-6490-6790-6890-2100355-bd-to-druck-1040-1240-gp-ap-transducer-or-w-b2e194b757",
+      "recordPath": "equipment/abb-user-drawing-2102487-xrc-6490-6790-6890-2100355-bd-to-druck-1040-1240-gp-ap-transducer-or-w-b2e194b757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102487-xrc-6490-6790-6890-2100355-bd-to-druck-1040-1240-gp-ap-transducer-or-w-b2e194b757.json"
+    },
+    {
+      "id": "abb-user-drawing-2104128-xfc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-e5d471142c",
+      "name": "User drawing - 2104128 - XFC-G4 Electronic board to Druck 1040/1240 GP/AP or WIKA GP Transducers (rev. AB)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104128",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104128-xfc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-e5d471142c",
+      "recordPath": "equipment/abb-user-drawing-2104128-xfc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-e5d471142c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104128-xfc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-e5d471142c.json"
+    },
+    {
+      "id": "abb-user-drawing-2104129-xrc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-02d0ae9139",
+      "name": "User drawing - 2104129 - XRC-G4 Electronic board to Druck 1040/1240 GP/AP or WIKA GP Transducers (Rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104129",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104129-xrc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-02d0ae9139",
+      "recordPath": "equipment/abb-user-drawing-2104129-xrc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-02d0ae9139.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104129-xrc-g4-electronic-board-to-druck-1040-1240-gp-ap-or-wika-gp-transducer-02d0ae9139.json"
+    },
+    {
+      "id": "abb-user-drawing-2104918-xfc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-a0929cad69",
+      "name": "User drawing - 2104918 - XFC-G4 Com1 to ABB FCB Coriolis Meter using Hart Modbus Converter(rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104918",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104918-xfc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-a0929cad69",
+      "recordPath": "equipment/abb-user-drawing-2104918-xfc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-a0929cad69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104918-xfc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-a0929cad69.json"
+    },
+    {
+      "id": "abb-user-drawing-2104921-xfc-g4-to-abb-fcb-coriolis-meter-rev-aa-38ccf57895",
+      "name": "User drawing - 2104921 - XFC-G4 to ABB FCB Coriolis Meter (rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104921",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104921-xfc-g4-to-abb-fcb-coriolis-meter-rev-aa-38ccf57895",
+      "recordPath": "equipment/abb-user-drawing-2104921-xfc-g4-to-abb-fcb-coriolis-meter-rev-aa-38ccf57895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104921-xfc-g4-to-abb-fcb-coriolis-meter-rev-aa-38ccf57895.json"
+    },
+    {
+      "id": "abb-user-drawing-2104922-xrc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-14075e4bd8",
+      "name": "User drawing - 2104922 - XRC-G4 Com1 to ABB FCB Coriolis Meter using Hart Modbus Converter(rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104922",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104922-xrc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-14075e4bd8",
+      "recordPath": "equipment/abb-user-drawing-2104922-xrc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-14075e4bd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104922-xrc-g4-com1-to-abb-fcb-coriolis-meter-using-hart-modbus-converter-rev-14075e4bd8.json"
+    },
+    {
+      "id": "abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579",
+      "name": "User drawing - 2104923 - XRC-G4 to ABB FCB Coriolis Meter (rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104923",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579",
+      "recordPath": "equipment/abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579.json"
+    }
+  ]
+}

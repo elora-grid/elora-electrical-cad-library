@@ -17,7 +17,8 @@
 ## Repository resources
 
 - [Agent guide](docs/agents.md): field interpretation, rights and checksum handling.
-- [Catalogue JSON](data/catalogue.json): complete public snapshot.
+- [Compact discovery index](data/index.json): category shards of at most 250 records, with exact Markdown and live JSON paths. Start here.
+- [Catalogue JSON](data/catalogue.json): complete bulk snapshot; large, intended for local processing.
 - [Equipment CSV](data/catalogue.csv): one row per source.
 - [Files CSV](data/files.csv): one row per listed file, original and delivery checksums.
 - [Equipment directory](equipment/README.md): readable entry pages with equipment facts, file-selection guidance, preview-image links, GA references and provenance.

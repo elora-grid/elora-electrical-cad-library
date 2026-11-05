@@ -24,7 +24,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Part number: AFL-501
 - Listed file formats: RFA, ZIP
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
@@ -46,12 +46,6 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 
 Start with AFL-501. The files above belong to Greenheck's AFL-501 louvers resource; match any model or option suffix in the filename to your selected unit.
 Available here: ZIP. The original filename is AFL-501\_LOD200.zip.
-
-## Preview
-
-![Greenheck AFL-501 louvers: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-afl-501-louvers/greenheck-afl-501-lod200-zip?asset=933eb7982618ed84cb1643543937da703581e056ea5e74b6fe0d25cbff945f79)
-
-[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-afl-501-louvers). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
 ## Equipment references and drawing guides
 

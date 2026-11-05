@@ -32,7 +32,7 @@ The verified native member is Power Products/Edison Power Distribution Blocks/HP
 
 A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
 
-Inside a switchgear lineup, the incoming breaker can feed busbars that supply the outgoing feeder breakers.
+For power distribution connection planning, place the HPB106-2 outline alongside the actual enclosure and adjacent hardware. Reserve cable entry and lug-tool access around the distribution block; the outline does not prove conductor size or terminal ratings. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Power Products/Edison Power Distribution Blocks/HPB106-2.dwg. Its identity was checked against the acquired manufacturer archive. Reserve cable entry and lug-tool access around the distribution block; the outline does not prove conductor size or terminal ratings. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

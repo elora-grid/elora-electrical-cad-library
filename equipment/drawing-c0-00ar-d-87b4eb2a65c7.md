@@ -33,7 +33,7 @@ Open C0-00AR-D.dwg from the CLICK archive. Use its physical arrangement for pane
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+A machine-control panel can place the controller beside its I/O and supply, then document the field connections using the model-specific wiring instructions.
 
 Open C0-00AR-D.dwg from the CLICK archive. Use its physical arrangement for panel coordination and confirm the complete code before using any terminal or I/O information. It is a different electrical variant from the DC-input, sinking-output model in this pilot.
 

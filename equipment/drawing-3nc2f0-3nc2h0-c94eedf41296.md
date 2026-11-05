@@ -32,7 +32,7 @@ Use the matching STEP member, not the smaller 3NC0T0/3NC1Q0 group. Fuji lists th
 
 A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
 
-In a switchroom, a controller can operate a contactor to start a ventilation fan while separate protective devices deal with overloads and faults.
+A replacement project can compare the archived body with the installed contactor and separately assess the manufacturer’s current replacement arrangement.
 
 Use the matching STEP member, not the smaller 3NC0T0/3NC1Q0 group. Fuji lists these basic types in its Orange Line and smaller Odyssey discontinuation notice. Check the proposed replacement’s mounting and contact/accessory arrangement rather than treating the archived geometry as a current product guarantee.
 

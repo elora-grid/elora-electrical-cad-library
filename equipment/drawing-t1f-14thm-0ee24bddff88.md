@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Terminator Field IO/T1F-14THM.d
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For distributed I/O cabinet coordination, place the T1F-14THM outline alongside the actual enclosure and adjacent hardware. Use the device outline to coordinate the I/O station, its terminals and the service access needed beside cable duct. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Other PLC Products/Terminator Field IO/T1F-14THM.dwg. Its identity was checked against the acquired manufacturer archive. Use the device outline to coordinate the I/O station, its terminals and the service access needed beside cable duct. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

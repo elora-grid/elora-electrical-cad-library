@@ -32,7 +32,7 @@ The acquired source archive contains ENYCASE\_KF\_Verschluesse/Verschluss-DK-01x
 
 An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
 
-In a substation marshalling cabinet, the enclosure houses terminals and interfaces between switchyard cables and control-building wiring.
+For example, in an electrical cabinet with controlled maintenance access, use the Verschluss-DK-01xx reference to coordinate lock interface, operating access and door movement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains ENYCASE\_KF\_Verschluesse/Verschluss-DK-01xx.stp, a 16,598-byte STP native file. Its file signature and SHA-256 were checked against the held original. The STEP file header was validated as an ISO 10303 exchange file. An enclosure component does not establish a finished assembly rating, environmental protection or accessory compatibility. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

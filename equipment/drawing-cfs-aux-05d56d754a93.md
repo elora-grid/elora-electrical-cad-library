@@ -32,7 +32,7 @@ The verified native member is Power Products/Gladiator CFS Series Disconnects/CF
 
 An auxiliary contact reports a device's state or provides a related control connection. It is separate from the main power contacts.
 
-In a switchgear panel, an auxiliary contact can report a switch position to the control system.
+For example, in a machine control panel reporting the selected disconnect-switch state, use the CFS-AUX reference to coordinate switch attachment, auxiliary terminals and control-wiring access. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Power Products/Gladiator CFS Series Disconnects/CFS-AUX.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the switch mounting, conductor approach and operator access with the enclosure arrangement. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

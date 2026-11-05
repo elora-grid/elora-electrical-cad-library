@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/ZIPport Multi-Wire Co
 
 A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
 
-In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+For example, in a panel service connector that is covered when the mating plug is absent, use the ZP-MC06B-2-SSM16CA reference to coordinate cover motion, retention and access to the mating interface. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Enclosures and Wiring/ZIPport Multi-Wire Connectors/ZP-MC06B-2-SSM16CA.dwg, a 236,063-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A component outline does not prove that the housing, insert, contacts and seals form a compatible complete connector. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

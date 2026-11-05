@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories
 
 A cable support carries and organises cables along a route. Trays, ladders, baskets and wiring ducts suit different cable sizes and locations.
 
-In a switchroom, a cable ladder can carry power cables above the switchgear while smaller wiring ducts organise wires inside the panels.
+When placing SEP-15E in an electrical equipment layout, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Keep its mounting interface accessible and verify how the part is installed and removed from the surrounding assembly. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories/SEP-15E.DWG, a 5,278,758-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. The mechanical file does not establish the electrical rating or suitability of the complete assembly. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: Enclosures and Wiring/Wire Duct/Accessories/SEP-15E-1.DWG. These paths retain their own archive and native checksums in the file evidence.
 

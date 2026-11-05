@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Terminator Field IO/T1K-01AC.dw
 
 A power supply turns incoming electrical power into the voltage and form needed by connected equipment.
 
-In a switchgear control panel, an AC-to-DC power supply can provide DC power for relays, controller modules and indication circuits.
+For example, in a control panel supplying its controller and interface equipment, use the T1K-01AC reference to coordinate input and output conductor approach, mounting and cooling access. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Terminator Field IO/T1K-01AC.dwg. Its identity was checked against the acquired manufacturer archive. Use the device outline to coordinate the I/O station, its terminals and the service access needed beside cable duct. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

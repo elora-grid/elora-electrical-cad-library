@@ -32,7 +32,7 @@ The verified native member is PLC Families/P3000/P3-04ADS.dwg. Its identity was 
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+For example, in a process-control panel receiving transmitter signals, use the P3-04ADS reference to coordinate field-signal terminals, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P3000/P3-04ADS.dwg. Its identity was checked against the acquired manufacturer archive. Locate the station and its connection faces before routing conductors; maintain access to the removable or serviceable parts shown in the drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: P3-04DA, P3-06DAS-1, P3-06DAS-2, P3-08AD, P3-08DA-1, P3-08DA-2, P3-08NAS, P3-08ND3S, P3-08RTD, P3-08TAS, P3-08TD1S, P3-08TD2S, P3-08THM, P3-08TRS-1, P3-08TRS, P3-16AD-1, P3-16AD-2, P3-16DA-1, P3-16DA-2, P3-16NA, P3-16ND3, P3-16SIM, P3-16TA, P3-16TD1, P3-16TD2, P3-16TR, P3-8AD4DA-1, P3-8AD4DA-2. Grouping does not establish electrical interchangeability.
 

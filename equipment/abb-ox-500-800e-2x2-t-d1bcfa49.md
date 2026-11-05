@@ -1,0 +1,106 @@
+# ABB — OX\_500-800E\_2X2\_T\_
+
+OX\_500-800E\_2X2\_T\_: ABB manufacturer STEP resource, document OX\_500-800E\_2X2\_T\_.STP, revision A. Use it to coordinate the source-transfer or auxiliary-power arrangement in the energy system.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2x2-t-d1bcfa49) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2x2-t-d1bcfa49.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2x2-t-d1bcfa49.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_2X2_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: drawing
+- Part number: Select exact configuration
+- Drawing/document number: OX\_500-800E\_2X2\_T\_.STP
+- Installation applications: microgrids, switchgear
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-03
+
+Download the verified original here. The manufacturer source is linked for revision checks; preview images are for inspection and the original drawing supplies the design dimensions.
+Manufacturer library discovery does not establish regional certification. Match the listed frame, terminal arrangement and accessories to the project.
+Original STEP 3D geometry for OX\_500-800E\_2X2\_T\_; ABB document OX\_500-800E\_2X2\_T\_.STP
+
+## Equipment and file summary
+
+- Equipment / resource: OX\_500-800E\_2X2\_T\_
+- Manufacturer: ABB
+- Resource type: Named drawing reference
+- Manufacturer drawing: OX\_500-800E\_2X2\_T\_.STP
+- Model extents (X × Y × Z, mm): 382.0 × 312.5 × 210.0
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-03
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Model extents (X × Y × Z, mm): 382.0 × 312.5 × 210.0 ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_2X2_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
+
+When coordinating OX\_500-800E\_2X2\_T\_ in microgrids, place the documented arrangement beside the adjacent equipment and compare its fixing and connection access with the source drawing. The supplied model spans 382.0 × 312.5 × 210.0 mm along its own X, Y and Z axes.
+
+Use OX\_500\_800E\_2X2\_T\_LIGHT.stp for OX\_500-800E\_2X2\_T\_. STEP is the supplied editable 3D exchange file; the browser model is a simplified display preview. Match ABB document OX\_500-800E\_2X2\_T\_.STP revision A when checking a replacement.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the configuration named “OX\_500-800E\_2X2\_T\_”; terminal direction, mounting version and pole options can change the outline.
+- Use ABB document OX\_500-800E\_2X2\_T\_.STP, revision A, to check the mounting and connection details before placing this item in the assembly.
+- The supplied model spans 382.0 × 312.5 × 210.0 mm along its own X, Y and Z axes. These are model extents, not installation clearances.
+
+### Which ABB source identifies OX\_500-800E\_2X2\_T\_?
+
+The acquired file is OX\_500\_800E\_2X2\_T\_LIGHT.stp, document OX\_500-800E\_2X2\_T\_.STP, revision A. The manufacturer source and pinned original link appear below.
+
+### Does the preview establish installation clearances?
+
+No. The supplied model spans 382.0 × 312.5 × 210.0 mm along its own X, Y and Z axes. Use the installation requirements for OX\_500-800E\_2X2\_T\_ and the selected assembly to reserve cable and service access.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_2X2_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+
+## Choosing a file
+
+Use OX\_500\_800E\_2X2\_T\_LIGHT.stp for OX\_500-800E\_2X2\_T\_. STEP is the supplied editable 3D exchange file; the browser model is a simplified display preview. Match ABB document OX\_500-800E\_2X2\_T\_.STP revision A when checking a replacement.
+
+## Preview
+
+![ABB OX\_500-800E\_2X2\_T\_: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ox-500-800e-2x2-t-d1bcfa49/original?asset=13a1776f024beaa204573726510eec34db302cdc0d00b2f9c035f1f594607234&view=thumb&v=c071525085f7c0ac)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2x2-t-d1bcfa49). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OX\_500\_800E\_2X2\_T\_LIGHT.stp
+
+- Format: STEP
+- Purpose: Original STEP 3D geometry for OX\_500-800E\_2X2\_T\_; ABB document OX\_500-800E\_2X2\_T\_.STP
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_2X2_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ox-500-800e-2x2-t-d1bcfa49/original)
+- Redistribution: unknown
+- Original SHA-256: 13a1776f024beaa204573726510eec34db302cdc0d00b2f9c035f1f594607234
+- Original bytes: 3607011
+- Revision: A
+- Retrieved: 2026-11-03T01:35:25.968457+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_2X2_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_2X2_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; STEP; 3607011 bytes
+- Delivery SHA-256: 13a1776f024beaa204573726510eec34db302cdc0d00b2f9c035f1f594607234
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

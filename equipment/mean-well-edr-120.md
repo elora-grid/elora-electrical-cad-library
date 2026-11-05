@@ -12,7 +12,7 @@ Official EDR-120 STEP archive for EDR cabinet auxiliary-power sections. The manu
 - Access: direct
 - Checked: 2026-10-29
 
-Use the official manufacturer archive link below. Confirm the latest revision and selected product configuration before design use.
+1 original file is available to download here. Manufacturer sources and revisions are listed below.
 Global manufacturer; this resource is served by its official China website. Confirm the selected regional product, voltage and approvals.
 Retain the EDR-120 model identity when issuing a drawing pack; the NDR-120 archive is a separate manufacturer resource. A series-level mechanical archive does not establish identical geometry or certification for every output-voltage variant.
 
@@ -24,10 +24,10 @@ Retain the EDR-120 model identity when issuing a drawing pack; the NDR-120 archi
 - Part number: EDR-120-12, EDR-120-24, EDR-120-48
 - Listed file formats: STEP, ZIP
 - Listed files: 1
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with EDR-120-12, EDR-120-24, EDR-120-48. The files above belong to MEAN WELL's EDR-120 DIN rail power supply resource; match any model or option suffix in the filename to your selected unit.
 Available here: ZIP. The original filename is EDR-120-3D.zip.
 
+## Preview
+
+![MEAN WELL EDR-120 DIN rail power supply: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mean-well-edr-120/mean-well-edr-120-3d-zip?asset=425fdeea42c01a9bb3f2f2483173b834ad6e5900dfbd867b30f73fea6363f3be&view=thumb&v=f7915ce5aa28ebd7)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mean-well-edr-120). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [MEAN WELL EDR-120 DIN rail power supply](https://eloragrid.ai/objects/mean-well-edr-120)
@@ -63,15 +69,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: ZIP
 - Purpose: Manufacturer 3D mechanical STEP archive
 - [Official source](https://www.meanwell.com.cn/upload/pdf/EDR-120/EDR-120-3D.zip)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mean-well-edr-120/mean-well-edr-120-3d-zip)
 - Redistribution: unknown
 - Original SHA-256: 929a6556ebbc61ff80be004f4a17916bf5a22287fd836bc853a8cb9037092613
 - Original bytes: 506569
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: Official product download page, linked manufacturer product-liability disclaimer and native STEP text reviewed. ZIP contains the named STEP with a valid ISO-10303-21 header; no separate licence or explicit reproduction/confidentiality prohibition was identified in the inspected files. Copyright remains with MEAN WELL; redistribution permission is unconfirmed and no licence is asserted.
-- [Rights evidence](https://www.meanwell.com.cn/webapp/product/search.aspx?prod=EDR-120)
-- [Rights evidence](https://www.meanwell.com/serviceDisclaimer.aspx)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: MEAN WELL
+- [Hosting evidence](https://www.meanwell.com.cn/upload/pdf/EDR-120/EDR-120-3D.zip)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://www.meanwell.com.cn/upload/pdf/EDR-120/EDR-120-3D.zip)
+- Delivery: original; ZIP; 506569 bytes
+- Delivery SHA-256: 929a6556ebbc61ff80be004f4a17916bf5a22287fd836bc853a8cb9037092613
 
 <details>
 <summary>Archive members</summary>

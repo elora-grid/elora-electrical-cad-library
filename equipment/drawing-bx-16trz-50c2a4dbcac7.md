@@ -32,7 +32,7 @@ The verified native member is PLC Families/BRX/BX-16TRZ.dwg. Its identity was ch
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For BRX cabinet coordination, place the BX-16TRZ outline alongside the actual enclosure and adjacent hardware. Place the PLC hardware in its intended module order and keep terminal removal and communication-port access clear. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is PLC Families/BRX/BX-16TRZ.dwg. Its identity was checked against the acquired manufacturer archive. Place the PLC hardware in its intended module order and keep terminal removal and communication-port access clear. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

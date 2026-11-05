@@ -14,6 +14,15 @@ for(const [name,expected] of Object.entries(manifest.files)){
   if(body.length!==expected.bytes||createHash('sha256').update(body).digest('hex')!==expected.sha256)throw Error(`Snapshot checksum mismatch: ${name}`);
 }
 const generated=await readdir(join(root,'equipment'));
-if(generated.length!==catalogue.total+1)throw Error('Unexpected equipment pages');
+const expectedEquipment=Object.keys(manifest.files).filter(name=>name.startsWith('equipment/'));
+if(generated.length!==expectedEquipment.length)throw Error('Unexpected equipment pages');
+const index=JSON.parse(await readFile(join(root,'data/index.json'),'utf8'));
+const indexed=[];
+for(const category of index.categories)for(const page of category.pages){
+  const shard=JSON.parse(await readFile(join(root,page.path),'utf8'));
+  if(shard.entries.length!==page.count||page.count>250)throw Error('Invalid discovery shard');
+  indexed.push(...shard.entries.map(record=>record.id));
+}
+if(indexed.length!==catalogue.total||new Set(indexed).size!==catalogue.total||catalogue.equipment.some(record=>!indexed.includes(record.id)))throw Error('Incomplete discovery index');
 for(const [key,value] of Object.entries(snapshotCounts(catalogue.equipment)))if(manifest.counts[key]!==value)throw Error(`Manifest count mismatch: ${key}`);
 console.log(`Validated ${catalogue.total} entries, ${manifest.counts.listedFiles} file links, ${manifest.counts.hostedFileEntries} site download entries and all generated checksums.`);

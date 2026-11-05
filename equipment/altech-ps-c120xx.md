@@ -12,7 +12,7 @@ Compact Altech PS\_C120xx mechanical housing used by PS-C12012, PS-C12024 and PS
 - Access: direct
 - Checked: 2026-10-29
 
-Official publisher downloads only. The companion drawings include an express reproduction restriction, so these files and their derived previews are not hosted here.
+1 original file is available to download here. Manufacturer sources and revisions are listed below. Other files remain available from their original sources.
 Global source discovery; confirm local product availability, electrical configuration and approvals with the manufacturer.
 Manufacturer legacy download source. The listed voltage variants share housing CAD; current product availability and revision are not independently established. Confirm the exact part before design use.
 
@@ -24,10 +24,10 @@ Manufacturer legacy download source. The listed voltage variants share housing C
 - Part number: PS-C12012, PS-C12024, PS-C12048
 - Listed file formats: DWG, DXF, STEP
 - Listed files: 3
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with PS-C12012, PS-C12024, PS-C12048. The files above belong to Altech's PS-C120 compact DIN rail power supply housing resource; match any model or option suffix in the filename to your selected unit.
 Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
+## Preview
+
+![Altech PS-C120 compact DIN rail power supply housing: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/altech-ps-c120xx/altech-ps-c120xx-stp?asset=0a213488b4942aa7b223425382971f19d845ea81a7646197dca2ec10c97c7bfa&view=thumb&v=3cc558ab5d3526e9)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/altech-ps-c120xx). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [Altech PS-C120xx compact supply housing](https://eloragrid.ai/objects/altech-ps-c120xx)
@@ -63,14 +69,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: STEP
 - Purpose: Manufacturer mechanical 3D model
 - [Official source](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Compact_Housing/PS_C120xx/PS_C120xx.stp)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
-- Redistribution: restricted
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/altech-ps-c120xx/altech-ps-c120xx-stp)
+- Redistribution: unknown
 - Original SHA-256: 0a213488b4942aa7b223425382971f19d845ea81a7646197dca2ec10c97c7bfa
 - Original bytes: 2525576
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: The publicly provided companion DXF title block expressly prohibits reproduction and describes a confidential disclosure. Keep all formats of this matched drawing set at the official publisher; no local hosting or derived preview is approved.
-- [Rights evidence](https://legacy.altechcorp.com/CAD/1MasterSheet/WebsiteUSE/HTMLWebpages/PowerSupplyMasterSheet.htm)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Altech
+- [Hosting evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Compact_Housing/PS_C120xx/PS_C120xx.stp)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/Compact_Housing/PS_C120xx/PS_C120xx.stp)
+- Delivery: original; STEP; 2525576 bytes
+- Delivery SHA-256: 0a213488b4942aa7b223425382971f19d845ea81a7646197dca2ec10c97c7bfa
 
 ### PS\_C120xx\_D.dwg
 

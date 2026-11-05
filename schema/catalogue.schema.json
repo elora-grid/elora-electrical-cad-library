@@ -58,6 +58,7 @@
               "automation",
               "wiring",
               "power-supplies",
+              "motors",
               "thermal",
               "power-quality",
               "transformers",
@@ -96,6 +97,46 @@
                 "Europe",
                 "Global"
               ]
+            }
+          },
+          "drawingNumber": {
+            "type": "string"
+          },
+          "applications": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "switchgear",
+                "switchrooms",
+                "substations",
+                "switchyards",
+                "microgrids"
+              ]
+            }
+          },
+          "technicalFacts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "label": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "string"
+                },
+                "sourceUrl": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                }
+              },
+              "required": [
+                "label",
+                "value",
+                "sourceUrl"
+              ],
+              "additionalProperties": false
             }
           },
           "marketNote": {
@@ -176,6 +217,35 @@
                     "account",
                     "request"
                   ]
+                },
+                "filenameBasis": {
+                  "type": "string",
+                  "enum": [
+                    "source-url",
+                    "response-header",
+                    "document-reference"
+                  ]
+                },
+                "documentNumber": {
+                  "type": "string"
+                },
+                "latestRevisionUrl": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                },
+                "sourceCheckedAt": {
+                  "type": "string"
+                },
+                "reportedBytes": {
+                  "type": "integer",
+                  "minimum": 1
+                },
+                "previewPages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer",
+                    "minimum": 1
+                  }
                 },
                 "bytes": {
                   "type": "integer",
@@ -641,7 +711,6 @@
     "schemaVersion",
     "canonical",
     "scope",
-    "query",
     "total",
     "page",
     "limit",

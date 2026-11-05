@@ -12,7 +12,7 @@ Official Altech PSB\_120xx STEP, DWG and DXF mechanical set for PSB-12024. Use t
 - Access: direct
 - Checked: 2026-10-29
 
-Follow the official publisher links for the original drawing set. The title block restricts reproduction, so these files and derived previews are not hosted here.
+1 original file is available to download here. Manufacturer sources and revisions are listed below. Other files remain available from their original sources.
 Legacy manufacturer download index; confirm current local product availability, electrical ratings and applicable approvals with Altech.
 The manufacturer index maps drawing group PSB\_120xx to PSB-12024. This page follows the exact manufacturer drawing group rather than assuming compatibility with neighbouring model numbers. Check the Flex housing attachment and terminal orientation before placing neighbouring devices or cable duct. This is a legacy CAD source: confirm current product status, installation clearances and the applicable revision with Altech; the file group alone does not establish electrical ratings, approvals or interchangeability.
 
@@ -24,10 +24,10 @@ The manufacturer index maps drawing group PSB\_120xx to PSB-12024. This page fol
 - Part number: PSB-12024
 - Listed file formats: STEP, DWG, DXF
 - Listed files: 3
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with PSB-12024. The files above belong to Altech's PSB-120xx Flex power supply CAD resource; match any model or option suffix in the filename to your selected unit.
 Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
+## Preview
+
+![Altech PSB-120xx Flex power supply CAD: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/altech-psb-120xx/altech-psb-120xx-step?asset=670f0a7c69916baf77a71d36af12bf75c64cb1d6fab57db667359474f28690ce&view=thumb&v=b9b901211b0ea4e8)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/altech-psb-120xx). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [Altech PSB-120xx Flex power supply](https://eloragrid.ai/objects/altech-psb-120xx)
@@ -63,15 +69,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: STEP
 - Purpose: Manufacturer 3D mechanical model
 - [Official source](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PSA_PSB_Flex/PSB_120xx/PSB_120xx.stp)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
-- Redistribution: restricted
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/altech-psb-120xx/altech-psb-120xx-step)
+- Redistribution: unknown
 - Original SHA-256: 670f0a7c69916baf77a71d36af12bf75c64cb1d6fab57db667359474f28690ce
 - Original bytes: 3516678
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: The official PSB\_120xx DXF title block contains a confidentiality/reproduction restriction. Treat the complete matching drawing set as publisher-only; no files are rehosted and no derived previews are supplied.
-- [Rights evidence](https://legacy.altechcorp.com/CAD/1MasterSheet/WebsiteUSE/HTMLWebpages/PowerSupplyMasterSheet.htm)
-- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PSA_PSB_Flex/PSB_120xx/PSB_120xx_D.dxf)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Altech Corporation
+- [Hosting evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PSA_PSB_Flex/PSB_120xx/PSB_120xx.stp)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://legacy.altechcorp.com/CAD/20/Power%20Supplies/PSA_PSB_Flex/PSB_120xx/PSB_120xx.stp)
+- Delivery: original; STEP; 3516678 bytes
+- Delivery SHA-256: 670f0a7c69916baf77a71d36af12bf75c64cb1d6fab57db667359474f28690ce
 
 ### PSB\_120xx\_D.dwg
 

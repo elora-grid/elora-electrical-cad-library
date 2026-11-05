@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-404.dwg. Its ide
 
 An analogue output module turns a controller's requested value into a changing electrical signal for another device.
 
-In a switchroom cooling system, it can send an adjustable speed request to a fan drive.
+For example, in a plant panel sending adjustable commands to a valve or drive, use the PX-404 reference to coordinate output-terminal approach, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Protos X IO/PX-404.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: PX-414. Grouping does not establish electrical interchangeability.
 

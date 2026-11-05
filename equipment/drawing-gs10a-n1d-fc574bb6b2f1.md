@@ -32,7 +32,7 @@ The verified native member is GS10A-N1D.DWG. Its signature, byte count and SHA-2
 
 A variable-speed drive changes the electrical supply to a motor so its speed can be controlled.
 
-In a switchroom, a ventilation fan drive can increase airflow as the room's cooling demand rises.
+When arranging GS10A-N1D in the cable-entry area of the selected drive, place the native component outline in its intended orientation beside the actual adjoining equipment. Check the box-to-drive attachment, entry orientation and access for conduit connections against the actual drive installation. A conduit-box outline does not identify the complete drive envelope or establish an enclosure protection rating for the finished installation.
 
 The verified native member is GS10A-N1D.DWG. Its signature, byte count and SHA-256 identify the original drawing inspected. A conduit-box outline does not identify the complete drive envelope or establish an enclosure protection rating for the finished installation. Confirm units and revision in the original before measuring or transferring geometry.
 

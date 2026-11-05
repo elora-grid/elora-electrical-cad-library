@@ -32,7 +32,7 @@ Keep the PS-260 file identity explicit: the current support-page title and the d
 
 A lamp provides illumination or a visible indication. An indicator lamp shows a control state; an inspection light helps someone see equipment.
 
-In a switchroom, a panel lamp can show that a feeder is running while a separate panel light illuminates the wiring compartment.
+A communications-cabinet layout can use the DWG to coordinate mounting and access around the selected supply.
 
 Keep the PS-260 file identity explicit: the current support-page title and the downloadable drawing labels should both be checked against the actual equipment. Use the model-specific documents for terminals and operating requirements rather than assuming every similarly named supply has the same geometry.
 

@@ -33,7 +33,7 @@ The EDZ contains MIO2.1 and MIO2.1\_3D macros and the named manufacturer part da
 
 A synchronising controller helps generators connect to an AC system and share the load. It checks and adjusts their electrical output before a permitted connection.
 
-In a microgrid with two generators, the controllers help bring the second generator onto the common supply and divide the demand between them.
+An EPLAN user can add the module’s manufacturer part and macros to document its role alongside the selected controller.
 
 The EDZ contains MIO2.1 and MIO2.1\_3D macros and the named manufacturer part data. Import it in a compatible EPLAN environment and verify the imported article. Follow the controller/module documentation for actual I/O and connection requirements.
 

@@ -1,0 +1,2873 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-cfsdisconnects",
+      "name": "Gladiator\n                CFS Series Disconnects CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-cfsdisconnects",
+      "recordPath": "equipment/ad-cfsdisconnects.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-cfsdisconnects.json"
+    },
+    {
+      "id": "ad-nonfused_disconnects",
+      "name": "Non-Fused Disconnects CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-nonfused_disconnects",
+      "recordPath": "equipment/ad-nonfused_disconnects.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-nonfused_disconnects.json"
+    },
+    {
+      "id": "asco-asco-exact-catalogue-transfer-switch-drawings",
+      "name": "ASCO exact-catalogue transfer-switch drawings",
+      "manufacturer": "ASCO",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/asco-asco-exact-catalogue-transfer-switch-drawings",
+      "recordPath": "equipment/asco-asco-exact-catalogue-transfer-switch-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/asco-asco-exact-catalogue-transfer-switch-drawings.json"
+    },
+    {
+      "id": "ad-disconnects",
+      "name": "Socomec Disconnects CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-disconnects",
+      "recordPath": "equipment/ad-disconnects.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-disconnects.json"
+    },
+    {
+      "id": "cubic-galaxy",
+      "name": "CUBIC Galaxy switchboard manufacturing outputs",
+      "manufacturer": "CUBIC",
+      "formats": [
+        "DWG",
+        "PDF",
+        "CSV"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/cubic-galaxy",
+      "recordPath": "equipment/cubic-galaxy.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/cubic-galaxy.json"
+    },
+    {
+      "id": "eaton-request-switchboards",
+      "name": "Configured switchboards custom BIM request",
+      "manufacturer": "Eaton",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-request-switchboards",
+      "recordPath": "equipment/eaton-request-switchboards.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-request-switchboards.json"
+    },
+    {
+      "id": "eaton-request-mcc",
+      "name": "Low-voltage motor control centres custom BIM request",
+      "manufacturer": "Eaton",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-request-mcc",
+      "recordPath": "equipment/eaton-request-mcc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-request-mcc.json"
+    },
+    {
+      "id": "eaton-request-lv-switchgear",
+      "name": "Low-voltage switchgear custom BIM request",
+      "manufacturer": "Eaton",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-request-lv-switchgear",
+      "recordPath": "equipment/eaton-request-lv-switchgear.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-request-lv-switchgear.json"
+    },
+    {
+      "id": "eaton-request-mv-switches",
+      "name": "Medium-voltage switches custom BIM request",
+      "manufacturer": "Eaton",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-request-mv-switches",
+      "recordPath": "equipment/eaton-request-mv-switches.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-request-mv-switches.json"
+    },
+    {
+      "id": "eaton-request-mv-switchgear",
+      "name": "Medium-voltage switchgear custom BIM request",
+      "manufacturer": "Eaton",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-request-mv-switchgear",
+      "recordPath": "equipment/eaton-request-mv-switchgear.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-request-mv-switchgear.json"
+    },
+    {
+      "id": "eaton-us-bim",
+      "name": "US standard distribution BIM library",
+      "manufacturer": "Eaton",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-us-bim",
+      "recordPath": "equipment/eaton-us-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-us-bim.json"
+    },
+    {
+      "id": "generac-transfer-switches-bim",
+      "name": "Transfer switches BIM",
+      "manufacturer": "Generac",
+      "formats": [
+        "Revit"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/generac-transfer-switches-bim",
+      "recordPath": "equipment/generac-transfer-switches-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/generac-transfer-switches-bim.json"
+    },
+    {
+      "id": "hager-bim",
+      "name": "Hager distribution board BIM content",
+      "manufacturer": "Hager",
+      "formats": [
+        "BIM"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-bim",
+      "recordPath": "equipment/hager-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-bim.json"
+    },
+    {
+      "id": "hagercad",
+      "name": "Hagercad switchboard design outputs",
+      "manufacturer": "Hager",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hagercad",
+      "recordPath": "equipment/hagercad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hagercad.json"
+    },
+    {
+      "id": "ipd-cad",
+      "name": "IPD CAD Blocks catalogue",
+      "manufacturer": "IPD",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ipd-cad",
+      "recordPath": "equipment/ipd-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ipd-cad.json"
+    },
+    {
+      "id": "ipd-techno",
+      "name": "Techno switchboard design and fabrication outputs",
+      "manufacturer": "IPD",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ipd-techno",
+      "recordPath": "equipment/ipd-techno.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ipd-techno.json"
+    },
+    {
+      "id": "nhp-concept",
+      "name": "Concept panelboard CAD and Revit library",
+      "manufacturer": "NHP",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/nhp-concept",
+      "recordPath": "equipment/nhp-concept.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/nhp-concept.json"
+    },
+    {
+      "id": "rehlko-automatic-transfer-switches-bim",
+      "name": "Automatic transfer switches BIM",
+      "manufacturer": "Rehlko",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/rehlko-automatic-transfer-switches-bim",
+      "recordPath": "equipment/rehlko-automatic-transfer-switches-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/rehlko-automatic-transfer-switches-bim.json"
+    },
+    {
+      "id": "audit-sc-erection",
+      "name": "S&C primary-switching erection drawings",
+      "manufacturer": "S&C Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-sc-erection",
+      "recordPath": "equipment/audit-sc-erection.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-sc-erection.json"
+    },
+    {
+      "id": "schneider-us-cad",
+      "name": "US CAD drawings and BIM content",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schneider-us-cad",
+      "recordPath": "equipment/schneider-us-cad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schneider-us-cad.json"
+    },
+    {
+      "id": "siemens-bim",
+      "name": "Siemens power distribution BIM library",
+      "manufacturer": "Siemens",
+      "formats": [
+        "RFA"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/siemens-bim",
+      "recordPath": "equipment/siemens-bim.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/siemens-bim.json"
+    },
+    {
+      "id": "socomec-request-39990701",
+      "name": "1 CA F type U auxiliary contact CAD",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/socomec-request-39990701",
+      "recordPath": "equipment/socomec-request-39990701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/socomec-request-39990701.json"
+    },
+    {
+      "id": "socomec-request-39990702",
+      "name": "1 CA O type U auxiliary contact CAD",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/socomec-request-39990702",
+      "recordPath": "equipment/socomec-request-39990702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/socomec-request-39990702.json"
+    },
+    {
+      "id": "socomec-request-39990041",
+      "name": "1 CA O+F type S auxiliary contact CAD",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/socomec-request-39990041",
+      "recordPath": "equipment/socomec-request-39990041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/socomec-request-39990041.json"
+    },
+    {
+      "id": "socomec-request-39990040",
+      "name": "1 CA O+F type S without shaft auxiliary contact CAD",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/socomec-request-39990040",
+      "recordPath": "equipment/socomec-request-39990040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/socomec-request-39990040.json"
+    },
+    {
+      "id": "socomec-request-39990141",
+      "name": "1 CA O+F type ST auxiliary contact CAD",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/socomec-request-39990141",
+      "recordPath": "equipment/socomec-request-39990141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/socomec-request-39990141.json"
+    },
+    {
+      "id": "socomec-resource",
+      "name": "Socomec switch and accessory CAD requests",
+      "manufacturer": "Socomec",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/socomec-resource",
+      "recordPath": "equipment/socomec-resource.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/socomec-resource.json"
+    },
+    {
+      "id": "audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue",
+      "name": "HV circuit-switcher/disconnector drawing catalogue",
+      "manufacturer": "Southern States",
+      "formats": [
+        "engineering drawings"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue",
+      "recordPath": "equipment/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-southern-states-hv-circuit-switcher-disconnector-drawing-catalogue.json"
+    },
+    {
+      "id": "europe-hensel-enycase",
+      "name": "ENYCASE enclosure and distribution-system STEP",
+      "manufacturer": "Hensel",
+      "formats": [
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-hensel-enycase",
+      "recordPath": "equipment/europe-hensel-enycase.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-hensel-enycase.json"
+    },
+    {
+      "id": "europe-hensel-enyflex",
+      "name": "ENYFLEX enclosure and distribution-system STEP",
+      "manufacturer": "Hensel",
+      "formats": [
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-hensel-enyflex",
+      "recordPath": "equipment/europe-hensel-enyflex.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-hensel-enyflex.json"
+    },
+    {
+      "id": "europe-hensel-enystar",
+      "name": "ENYSTAR enclosure and distribution-system STEP",
+      "manufacturer": "Hensel",
+      "formats": [
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-hensel-enystar",
+      "recordPath": "equipment/europe-hensel-enystar.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-hensel-enystar.json"
+    },
+    {
+      "id": "europe-hensel-enymod-mi",
+      "name": "ENYMOD Mi enclosure and distribution-system STEP",
+      "manufacturer": "Hensel",
+      "formats": [
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-hensel-enymod-mi",
+      "recordPath": "equipment/europe-hensel-enymod-mi.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-hensel-enymod-mi.json"
+    },
+    {
+      "id": "uk-dorman-smith-assembly",
+      "name": "UK factory-built switchboard CAD design",
+      "manufacturer": "Dorman Smith",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dorman-smith-assembly",
+      "recordPath": "equipment/uk-dorman-smith-assembly.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dorman-smith-assembly.json"
+    },
+    {
+      "id": "uk-lucy-electric-secondary",
+      "name": "UK secondary switchgear configured drawings",
+      "manufacturer": "Lucy Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-lucy-electric-secondary",
+      "recordPath": "equipment/uk-lucy-electric-secondary.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-lucy-electric-secondary.json"
+    },
+    {
+      "id": "europe-schneider-prismaset-g",
+      "name": "PrismaSeT G enclosure LVS08309",
+      "manufacturer": "Schneider Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-schneider-prismaset-g",
+      "recordPath": "equipment/europe-schneider-prismaset-g.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-schneider-prismaset-g.json"
+    },
+    {
+      "id": "abb-e91-32-pv-7242d8b2",
+      "name": "E91/32 PV",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1081",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e91-32-pv-7242d8b2",
+      "recordPath": "equipment/abb-e91-32-pv-7242d8b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e91-32-pv-7242d8b2.json"
+    },
+    {
+      "id": "abb-e91-32-pv-e91-30-cc-with-led-3d219757",
+      "name": "E91/32 PV E91/30 CC with LED",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1082",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e91-32-pv-e91-30-cc-with-led-3d219757",
+      "recordPath": "equipment/abb-e91-32-pv-e91-30-cc-with-led-3d219757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e91-32-pv-e91-30-cc-with-led-3d219757.json"
+    },
+    {
+      "id": "abb-e92-32-pv-e92-30-cc-debd53a4",
+      "name": "E92/32 PV E92/30 CC",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1083",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e92-32-pv-e92-30-cc-debd53a4",
+      "recordPath": "equipment/abb-e92-32-pv-e92-30-cc-debd53a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e92-32-pv-e92-30-cc-debd53a4.json"
+    },
+    {
+      "id": "abb-e92-32-pv-e92-30-cc-with-led-5c50002a",
+      "name": "E92/32 PV E92/30 CC with LED",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1084",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e92-32-pv-e92-30-cc-with-led-5c50002a",
+      "recordPath": "equipment/abb-e92-32-pv-e92-30-cc-with-led-5c50002a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e92-32-pv-e92-30-cc-with-led-5c50002a.json"
+    },
+    {
+      "id": "abb-egypt-retrofit-vd4-12-06-25-on-polish-truck-4244d2e4",
+      "name": "Egypt: Retrofit VD4 12-06-25 on Polish Truck",
+      "manufacturer": "ABB",
+      "drawingNumber": "MDR 4083001A01",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-egypt-retrofit-vd4-12-06-25-on-polish-truck-4244d2e4",
+      "recordPath": "equipment/abb-egypt-retrofit-vd4-12-06-25-on-polish-truck-4244d2e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-egypt-retrofit-vd4-12-06-25-on-polish-truck-4244d2e4.json"
+    },
+    {
+      "id": "abb-otdc100-200ev22-otdc100-200uv22-893c2d62",
+      "name": "OTDC100...200EV22, OTDC100...200UV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307603F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200ev22-otdc100-200uv22-893c2d62",
+      "recordPath": "equipment/abb-otdc100-200ev22-otdc100-200uv22-893c2d62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200ev22-otdc100-200uv22-893c2d62.json"
+    },
+    {
+      "id": "abb-otdc100-200us22-cb8bb8ad",
+      "name": "OTDC100...200US22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307107F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200us22-cb8bb8ad",
+      "recordPath": "equipment/abb-otdc100-200us22-cb8bb8ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200us22-cb8bb8ad.json"
+    },
+    {
+      "id": "abb-otdc100-200us33-142b8d00",
+      "name": "OTDC100...200US33",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307591F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200us33-142b8d00",
+      "recordPath": "equipment/abb-otdc100-200us33-142b8d00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200us33-142b8d00.json"
+    },
+    {
+      "id": "abb-otdc100-200usv22-95a2561b",
+      "name": "OTDC100...200USV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307585F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200usv22-95a2561b",
+      "recordPath": "equipment/abb-otdc100-200usv22-95a2561b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200usv22-95a2561b.json"
+    },
+    {
+      "id": "abb-otdc100-245u02s-72b74346",
+      "name": "OTDC100...245U02S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307375F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245u02s-72b74346",
+      "recordPath": "equipment/abb-otdc100-245u02s-72b74346.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245u02s-72b74346.json"
+    },
+    {
+      "id": "abb-otdc100-245u20s-6606fa20",
+      "name": "OTDC100...245U20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307379F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245u20s-6606fa20",
+      "recordPath": "equipment/abb-otdc100-245u20s-6606fa20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245u20s-6606fa20.json"
+    },
+    {
+      "id": "abb-otdc100-245us02-5898b363",
+      "name": "OTDC100...245US02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307101F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245us02-5898b363",
+      "recordPath": "equipment/abb-otdc100-245us02-5898b363.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245us02-5898b363.json"
+    },
+    {
+      "id": "abb-otdc100-245us02s-525bab3b",
+      "name": "OTDC100...245US02S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307383F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245us02s-525bab3b",
+      "recordPath": "equipment/abb-otdc100-245us02s-525bab3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245us02s-525bab3b.json"
+    },
+    {
+      "id": "abb-otdc100-245us11-1e79d25c",
+      "name": "OTDC100...245US11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307105F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245us11-1e79d25c",
+      "recordPath": "equipment/abb-otdc100-245us11-1e79d25c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245us11-1e79d25c.json"
+    },
+    {
+      "id": "abb-otdc100-245us20-e8221384",
+      "name": "OTDC100...245US20",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307103F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245us20-e8221384",
+      "recordPath": "equipment/abb-otdc100-245us20-e8221384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245us20-e8221384.json"
+    },
+    {
+      "id": "abb-otdc100-245us20s-0f9c322a",
+      "name": "OTDC100...245US20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307387F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245us20s-0f9c322a",
+      "recordPath": "equipment/abb-otdc100-245us20s-0f9c322a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245us20s-0f9c322a.json"
+    },
+    {
+      "id": "abb-otdc100-250e02-otdc100-245u02-d9bf1cef",
+      "name": "OTDC100...250E02, OTDC100...245U02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307579F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e02-otdc100-245u02-d9bf1cef",
+      "recordPath": "equipment/abb-otdc100-250e02-otdc100-245u02-d9bf1cef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e02-otdc100-245u02-d9bf1cef.json"
+    },
+    {
+      "id": "abb-otdc100-250e11-otdc100-245u11-0a7db376",
+      "name": "OTDC100...250E11, OTDC100...245U11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307007F0002",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e11-otdc100-245u11-0a7db376",
+      "recordPath": "equipment/abb-otdc100-250e11-otdc100-245u11-0a7db376.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e11-otdc100-245u11-0a7db376.json"
+    },
+    {
+      "id": "abb-otdc100-250e20-otdc100-245u20-5cc582d7",
+      "name": "OTDC100...250E20, OTDC100...245U20",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307581F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e20-otdc100-245u20-5cc582d7",
+      "recordPath": "equipment/abb-otdc100-250e20-otdc100-245u20-5cc582d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e20-otdc100-245u20-5cc582d7.json"
+    },
+    {
+      "id": "abb-otdc100-250e22-otdc100-200u22-d72bd792",
+      "name": "OTDC100...250E22, OTDC100...200U22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307583F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e22-otdc100-200u22-d72bd792",
+      "recordPath": "equipment/abb-otdc100-250e22-otdc100-200u22-d72bd792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e22-otdc100-200u22-d72bd792.json"
+    },
+    {
+      "id": "abb-otdc100-250e33-otdc100-200u33-b005c930",
+      "name": "OTDC100...250E33, OTDC100...200U33",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307587F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e33-otdc100-200u33-b005c930",
+      "recordPath": "equipment/abb-otdc100-250e33-otdc100-200u33-b005c930.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e33-otdc100-200u33-b005c930.json"
+    },
+    {
+      "id": "abb-otdc1000e22-otdc1250e22-477acd56",
+      "name": "OTDC1000E22, OTDC1250E22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307491F0203",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc1000e22-otdc1250e22-477acd56",
+      "recordPath": "equipment/abb-otdc1000e22-otdc1250e22-477acd56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc1000e22-otdc1250e22-477acd56.json"
+    },
+    {
+      "id": "abb-otdc1000e22k-otdc1250e22k-ac285067",
+      "name": "OTDC1000E22K, OTDC1250E22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307521F0202",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc1000e22k-otdc1250e22k-ac285067",
+      "recordPath": "equipment/abb-otdc1000e22k-otdc1250e22k-ac285067.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc1000e22k-otdc1250e22k-ac285067.json"
+    },
+    {
+      "id": "abb-otdc16-25u2-otdc16-25us2-23e92112",
+      "name": "OTDC16-25U2, OTDC16-25US2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307479F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-25u2-otdc16-25us2-23e92112",
+      "recordPath": "equipment/abb-otdc16-25u2-otdc16-25us2-23e92112.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-25u2-otdc16-25us2-23e92112.json"
+    },
+    {
+      "id": "abb-otdc16-25ut2-otdc16-25ust2-6ee05151",
+      "name": "OTDC16-25UT2, OTDC16-25UST2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307473F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-25ut2-otdc16-25ust2-6ee05151",
+      "recordPath": "equipment/abb-otdc16-25ut2-otdc16-25ust2-6ee05151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-25ut2-otdc16-25ust2-6ee05151.json"
+    },
+    {
+      "id": "abb-otdc16-32f2-39f81a45",
+      "name": "OTDC16-32F2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301970F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32f2-39f81a45",
+      "recordPath": "equipment/abb-otdc16-32f2-39f81a45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32f2-39f81a45.json"
+    },
+    {
+      "id": "abb-otdc16-32f3-634db076",
+      "name": "OTDC16-32F3",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301972F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32f3-634db076",
+      "recordPath": "equipment/abb-otdc16-32f3-634db076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32f3-634db076.json"
+    },
+    {
+      "id": "abb-otdc16-32f4-6b9c0647",
+      "name": "OTDC16-32F4",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301974F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32f4-6b9c0647",
+      "recordPath": "equipment/abb-otdc16-32f4-6b9c0647.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32f4-6b9c0647.json"
+    },
+    {
+      "id": "abb-otdc16-32ft2-c5fca2a4",
+      "name": "OTDC16-32FT2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307023F0002",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32ft2-c5fca2a4",
+      "recordPath": "equipment/abb-otdc16-32ft2-c5fca2a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32ft2-c5fca2a4.json"
+    },
+    {
+      "id": "abb-otdc16-32ft3-3cddc0b6",
+      "name": "OTDC16-32FT3",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307021F0003",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32ft3-3cddc0b6",
+      "recordPath": "equipment/abb-otdc16-32ft3-3cddc0b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32ft3-3cddc0b6.json"
+    },
+    {
+      "id": "abb-otdc16-32ft4-04de25ba",
+      "name": "OTDC16-32FT4",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307019F0002",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32ft4-04de25ba",
+      "recordPath": "equipment/abb-otdc16-32ft4-04de25ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32ft4-04de25ba.json"
+    },
+    {
+      "id": "abb-otdc16-32u4-otdc16-32us4-de6616dc",
+      "name": "OTDC16-32U4, OTDC16-32US4",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307481F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32u4-otdc16-32us4-de6616dc",
+      "recordPath": "equipment/abb-otdc16-32u4-otdc16-32us4-de6616dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32u4-otdc16-32us4-de6616dc.json"
+    },
+    {
+      "id": "abb-otdc16-32ut4-otdc16-32ust4-4d6183ba",
+      "name": "OTDC16-32UT4, OTDC16-32UST4",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307475F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32ut4-otdc16-32ust4-4d6183ba",
+      "recordPath": "equipment/abb-otdc16-32ut4-otdc16-32ust4-4d6183ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16-32ut4-otdc16-32ust4-4d6183ba.json"
+    },
+    {
+      "id": "abb-otdc16u6-otdc16us6-faacb325",
+      "name": "OTDC16U6, OTDC16US6",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307483F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16u6-otdc16us6-faacb325",
+      "recordPath": "equipment/abb-otdc16u6-otdc16us6-faacb325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16u6-otdc16us6-faacb325.json"
+    },
+    {
+      "id": "abb-otdc16ut6-otdc16ust6-71c910ea",
+      "name": "OTDC16UT6, OTDC16UST6",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307477F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16ut6-otdc16ust6-71c910ea",
+      "recordPath": "equipment/abb-otdc16ut6-otdc16ust6-71c910ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc16ut6-otdc16ust6-71c910ea.json"
+    },
+    {
+      "id": "abb-otdc250-400u12-d889c192",
+      "name": "OTDC250...400U12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307399F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400u12-d889c192",
+      "recordPath": "equipment/abb-otdc250-400u12-d889c192.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400u12-d889c192.json"
+    },
+    {
+      "id": "abb-otdc250-400u12k-108e9d02",
+      "name": "OTDC250...400U12K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307401F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400u12k-108e9d02",
+      "recordPath": "equipment/abb-otdc250-400u12k-108e9d02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400u12k-108e9d02.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs02s-otdc250-400ufsv02s-a2499dc6",
+      "name": "OTDC250...400UFS02S, OTDC250...400UFSV02S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307769F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs02s-otdc250-400ufsv02s-a2499dc6",
+      "recordPath": "equipment/abb-otdc250-400ufs02s-otdc250-400ufsv02s-a2499dc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs02s-otdc250-400ufsv02s-a2499dc6.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs20s-otdc250-400ufsv20s-de31e02f",
+      "name": "OTDC250...400UFS20S, OTDC250...400UFSV20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307767F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs20s-otdc250-400ufsv20s-de31e02f",
+      "recordPath": "equipment/abb-otdc250-400ufs20s-otdc250-400ufsv20s-de31e02f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs20s-otdc250-400ufsv20s-de31e02f.json"
+    },
+    {
+      "id": "abb-otdc250-400ufv11-sh-33763af5",
+      "name": "OTDC250...400UFV11-SH",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307783F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufv11-sh-33763af5",
+      "recordPath": "equipment/abb-otdc250-400ufv11-sh-33763af5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufv11-sh-33763af5.json"
+    },
+    {
+      "id": "abb-otdc250-400us02-341246d7",
+      "name": "OTDC250...400US02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307363F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us02-341246d7",
+      "recordPath": "equipment/abb-otdc250-400us02-341246d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us02-341246d7.json"
+    },
+    {
+      "id": "abb-otdc250-400us02k-aac641b4",
+      "name": "OTDC250...400US02K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307365F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us02k-aac641b4",
+      "recordPath": "equipment/abb-otdc250-400us02k-aac641b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us02k-aac641b4.json"
+    },
+    {
+      "id": "abb-otdc250-400us11-1b0c7df7",
+      "name": "OTDC250...400US11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307289F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us11-1b0c7df7",
+      "recordPath": "equipment/abb-otdc250-400us11-1b0c7df7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us11-1b0c7df7.json"
+    },
+    {
+      "id": "abb-otdc250-400us11k-5e7cab22",
+      "name": "OTDC250...400US11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307355F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us11k-5e7cab22",
+      "recordPath": "equipment/abb-otdc250-400us11k-5e7cab22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us11k-5e7cab22.json"
+    },
+    {
+      "id": "abb-otdc250-400us22-63132fca",
+      "name": "OTDC250...400US22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307295F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us22-63132fca",
+      "recordPath": "equipment/abb-otdc250-400us22-63132fca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us22-63132fca.json"
+    },
+    {
+      "id": "abb-otdc250-400us22k-6fa76d05",
+      "name": "OTDC250...400US22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307362F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us22k-6fa76d05",
+      "recordPath": "equipment/abb-otdc250-400us22k-6fa76d05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us22k-6fa76d05.json"
+    },
+    {
+      "id": "abb-otdc250-600uf02s-otdc250-600ufv02s-otdc315-630f02s-otdc315-630fv02s-ffe3e329",
+      "name": "OTDC250...600UF02S, OTDC250...600UFV02S, OTDC315...630F02S, OTDC315...630FV02S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307765F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf02s-otdc250-600ufv02s-otdc315-630f02s-otdc315-630fv02s-ffe3e329",
+      "recordPath": "equipment/abb-otdc250-600uf02s-otdc250-600ufv02s-otdc315-630f02s-otdc315-630fv02s-ffe3e329.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf02s-otdc250-600ufv02s-otdc315-630f02s-otdc315-630fv02s-ffe3e329.json"
+    },
+    {
+      "id": "abb-otdc250-600uf20s-otdc250-600ufv20s-otdc315-630f20s-otdc315-630fv20s-1db0dab9",
+      "name": "OTDC250...600UF20S, OTDC250...600UFV20S, OTDC315...630F20S, OTDC315...630FV20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307773F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf20s-otdc250-600ufv20s-otdc315-630f20s-otdc315-630fv20s-1db0dab9",
+      "recordPath": "equipment/abb-otdc250-600uf20s-otdc250-600ufv20s-otdc315-630f20s-otdc315-630fv20s-1db0dab9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf20s-otdc250-600ufv20s-otdc315-630f20s-otdc315-630fv20s-1db0dab9.json"
+    },
+    {
+      "id": "abb-otdc315-500e02-otdc250-400u02-c1a82692",
+      "name": "OTDC315...500E02, OTDC250...400U02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307241F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e02-otdc250-400u02-c1a82692",
+      "recordPath": "equipment/abb-otdc315-500e02-otdc250-400u02-c1a82692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e02-otdc250-400u02-c1a82692.json"
+    },
+    {
+      "id": "abb-otdc315-500e11-otdc250-400u11-ae68f88e",
+      "name": "OTDC315...500E11, OTDC250...400U11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307265F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e11-otdc250-400u11-ae68f88e",
+      "recordPath": "equipment/abb-otdc315-500e11-otdc250-400u11-ae68f88e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e11-otdc250-400u11-ae68f88e.json"
+    },
+    {
+      "id": "abb-otdc315-500e11k-otdc250-400u11k-66f1c42b",
+      "name": "OTDC315...500E11K, OTDC250...400U11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307331F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e11k-otdc250-400u11k-66f1c42b",
+      "recordPath": "equipment/abb-otdc315-500e11k-otdc250-400u11k-66f1c42b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e11k-otdc250-400u11k-66f1c42b.json"
+    },
+    {
+      "id": "abb-otdc315-500e22-otdc250-400u22-f20983b4",
+      "name": "OTDC315...500E22, OTDC250...400U22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307283F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e22-otdc250-400u22-f20983b4",
+      "recordPath": "equipment/abb-otdc315-500e22-otdc250-400u22-f20983b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e22-otdc250-400u22-f20983b4.json"
+    },
+    {
+      "id": "abb-otdc315-500e22k-otdc250-400u22k-bec53168",
+      "name": "OTDC315...500E22K, OTDC250...400U22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307349F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e22k-otdc250-400u22k-bec53168",
+      "recordPath": "equipment/abb-otdc315-500e22k-otdc250-400u22k-bec53168.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e22k-otdc250-400u22k-bec53168.json"
+    },
+    {
+      "id": "abb-otdc315-500e33-68a3d55f",
+      "name": "OTDC315...500E33",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307415F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e33-68a3d55f",
+      "recordPath": "equipment/abb-otdc315-500e33-68a3d55f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e33-68a3d55f.json"
+    },
+    {
+      "id": "abb-otdc315-500e33k-d91caca0",
+      "name": "OTDC315...500E33K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307417F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e33k-d91caca0",
+      "recordPath": "equipment/abb-otdc315-500e33k-d91caca0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500e33k-d91caca0.json"
+    },
+    {
+      "id": "abb-otdc315-500ev12-b3d84dde",
+      "name": "OTDC315...500EV12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307269F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500ev12-b3d84dde",
+      "recordPath": "equipment/abb-otdc315-500ev12-b3d84dde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500ev12-b3d84dde.json"
+    },
+    {
+      "id": "abb-otdc315-500ev12k-8a7541ec",
+      "name": "OTDC315...500EV12K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307335F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500ev12k-8a7541ec",
+      "recordPath": "equipment/abb-otdc315-500ev12k-8a7541ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500ev12k-8a7541ec.json"
+    },
+    {
+      "id": "abb-otdc400ufv11-wa-f4ea96c3",
+      "name": "OTDC400UFV11-WA",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307924F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc400ufv11-wa-f4ea96c3",
+      "recordPath": "equipment/abb-otdc400ufv11-wa-f4ea96c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc400ufv11-wa-f4ea96c3.json"
+    },
+    {
+      "id": "abb-otdc400ufv21-wa-7c368de7",
+      "name": "OTDC400UFV21-WA",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307926F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc400ufv21-wa-7c368de7",
+      "recordPath": "equipment/abb-otdc400ufv21-wa-7c368de7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc400ufv21-wa-7c368de7.json"
+    },
+    {
+      "id": "abb-otdc600ufs02s-otdc600ufsv02s-93b24304",
+      "name": "OTDC600UFS02S, OTDC600UFSV02S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307777F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs02s-otdc600ufsv02s-93b24304",
+      "recordPath": "equipment/abb-otdc600ufs02s-otdc600ufsv02s-93b24304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs02s-otdc600ufsv02s-93b24304.json"
+    },
+    {
+      "id": "abb-otdc600ufs20s-otdc600ufsv20s-8ba2cd79",
+      "name": "OTDC600UFS20S, OTDC600UFSV20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307775F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs20s-otdc600ufsv20s-8ba2cd79",
+      "recordPath": "equipment/abb-otdc600ufs20s-otdc600ufsv20s-8ba2cd79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs20s-otdc600ufsv20s-8ba2cd79.json"
+    },
+    {
+      "id": "abb-otdc600uspp22-1f40f0b4",
+      "name": "OTDC600USPP22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307469F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600uspp22-1f40f0b4",
+      "recordPath": "equipment/abb-otdc600uspp22-1f40f0b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600uspp22-1f40f0b4.json"
+    },
+    {
+      "id": "abb-otdc600uspp22k-aafd727d",
+      "name": "OTDC600USPP22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307471F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600uspp22k-aafd727d",
+      "recordPath": "equipment/abb-otdc600uspp22k-aafd727d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600uspp22k-aafd727d.json"
+    },
+    {
+      "id": "abb-otdc630-800epp22-otdc600upp22-e988dca3",
+      "name": "OTDC630...800EPP22, OTDC600UPP22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307453F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc630-800epp22-otdc600upp22-e988dca3",
+      "recordPath": "equipment/abb-otdc630-800epp22-otdc600upp22-e988dca3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc630-800epp22-otdc600upp22-e988dca3.json"
+    },
+    {
+      "id": "abb-otdc630-800epp22k-otdc600upp22k-c6b787d3",
+      "name": "OTDC630...800EPP22K, OTDC600UPP22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307457F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc630-800epp22k-otdc600upp22k-c6b787d3",
+      "recordPath": "equipment/abb-otdc630-800epp22k-otdc600upp22k-c6b787d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc630-800epp22k-otdc600upp22k-c6b787d3.json"
+    },
+    {
+      "id": "abb-otdc800-1000f22-otdc800-1000fv22-otdc800-1000uf22-otdc800-1000ufv22-22016b4e",
+      "name": "OTDC800...1000F22, OTDC800...1000FV22, OTDC800...1000UF22, OTDC800...1000UFV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307779F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc800-1000f22-otdc800-1000fv22-otdc800-1000uf22-otdc800-1000ufv22-22016b4e",
+      "recordPath": "equipment/abb-otdc800-1000f22-otdc800-1000fv22-otdc800-1000uf22-otdc800-1000ufv22-22016b4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc800-1000f22-otdc800-1000fv22-otdc800-1000uf22-otdc800-1000ufv22-22016b4e.json"
+    },
+    {
+      "id": "abb-otdc800us22-otdc1000us22-c97e6740",
+      "name": "OTDC800US22, OTDC1000US22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307497F0202",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc800us22-otdc1000us22-c97e6740",
+      "recordPath": "equipment/abb-otdc800us22-otdc1000us22-c97e6740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc800us22-otdc1000us22-c97e6740.json"
+    },
+    {
+      "id": "abb-otdc800us22k-otdc1000us22k-2402c0d5",
+      "name": "OTDC800US22K, OTDC1000US22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307525F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc800us22k-otdc1000us22k-2402c0d5",
+      "recordPath": "equipment/abb-otdc800us22k-otdc1000us22k-2402c0d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc800us22k-otdc1000us22k-2402c0d5.json"
+    },
+    {
+      "id": "abb-otdcb200g-2-af08b272",
+      "name": "OTDCB200G/2",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCB200G_2.STP",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcb200g-2-af08b272",
+      "recordPath": "equipment/abb-otdcb200g-2-af08b272.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcb200g-2-af08b272.json"
+    },
+    {
+      "id": "abb-otdcb250-1f2a074c",
+      "name": "OTDCB250",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCB250.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcb250-1f2a074c",
+      "recordPath": "equipment/abb-otdcb250-1f2a074c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcb250-1f2a074c.json"
+    },
+    {
+      "id": "abb-otdcb400f-c94a9a67",
+      "name": "OTDCB400F",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCB400F.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcb400f-c94a9a67",
+      "recordPath": "equipment/abb-otdcb400f-c94a9a67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcb400f-c94a9a67.json"
+    },
+    {
+      "id": "abb-otdck159595sm20-stp-a2e7a3c2",
+      "name": "OTDCK159595SM20.stp",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCK159595SM20.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdck159595sm20-stp-a2e7a3c2",
+      "recordPath": "equipment/abb-otdck159595sm20-stp-a2e7a3c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdck159595sm20-stp-a2e7a3c2.json"
+    },
+    {
+      "id": "abb-otdck179595sm25-stp-ef33231f",
+      "name": "OTDCK179595SM25.stp",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCK179595SM25.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdck179595sm25-stp-ef33231f",
+      "recordPath": "equipment/abb-otdck179595sm25-stp-ef33231f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdck179595sm25-stp-ef33231f.json"
+    },
+    {
+      "id": "abb-otdckit1250b11-b0af723c",
+      "name": "OTDCKIT1250B11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCKIT1250B11.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit1250b11-b0af723c",
+      "recordPath": "equipment/abb-otdckit1250b11-b0af723c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit1250b11-b0af723c.json"
+    },
+    {
+      "id": "abb-otdckit250gs11-5a9dbc22",
+      "name": "OTDCKIT250GS11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCKIT250GS11.STP",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit250gs11-5a9dbc22",
+      "recordPath": "equipment/abb-otdckit250gs11-5a9dbc22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit250gs11-5a9dbc22.json"
+    },
+    {
+      "id": "abb-otdckit250s11-8d823417",
+      "name": "OTDCKIT250S11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCKIT250S11.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit250s11-8d823417",
+      "recordPath": "equipment/abb-otdckit250s11-8d823417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit250s11-8d823417.json"
+    },
+    {
+      "id": "abb-otdckit400fs11-cf8eed10",
+      "name": "OTDCKIT400FS11",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A8524",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit400fs11-cf8eed10",
+      "recordPath": "equipment/abb-otdckit400fs11-cf8eed10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit400fs11-cf8eed10.json"
+    },
+    {
+      "id": "abb-otdckit600fs101-1890ad94",
+      "name": "OTDCKIT600FS101",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCKIT600FS101.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit600fs101-1890ad94",
+      "recordPath": "equipment/abb-otdckit600fs101-1890ad94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit600fs101-1890ad94.json"
+    },
+    {
+      "id": "abb-otdckit600fs11-f9c212bf",
+      "name": "OTDCKIT600FS11",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108467A8526",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit600fs11-f9c212bf",
+      "recordPath": "equipment/abb-otdckit600fs11-f9c212bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit600fs11-f9c212bf.json"
+    },
+    {
+      "id": "abb-otdckit800fs11-d504593f",
+      "name": "OTDCKIT800FS11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCKIT800FS11.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit800fs11-d504593f",
+      "recordPath": "equipment/abb-otdckit800fs11-d504593f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit800fs11-d504593f.json"
+    },
+    {
+      "id": "abb-otdckit800fs12-47993db9",
+      "name": "OTDCKIT800FS12",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCKIT800FS12.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit800fs12-47993db9",
+      "recordPath": "equipment/abb-otdckit800fs12-47993db9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit800fs12-47993db9.json"
+    },
+    {
+      "id": "abb-otdcs200gg1-af59b591",
+      "name": "OTDCS200GG1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCS200GG1.STP",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcs200gg1-af59b591",
+      "recordPath": "equipment/abb-otdcs200gg1-af59b591.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcs200gg1-af59b591.json"
+    },
+    {
+      "id": "abb-otdcs400ft1-b9f88f41",
+      "name": "OTDCS400FT1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCS400FT1.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcs400ft1-b9f88f41",
+      "recordPath": "equipment/abb-otdcs400ft1-b9f88f41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcs400ft1-b9f88f41.json"
+    },
+    {
+      "id": "abb-ox-260-400e-1o2-b-4f55b38e",
+      "name": "OX_260-400E_1O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_1O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-1o2-b-4f55b38e",
+      "recordPath": "equipment/abb-ox-260-400e-1o2-b-4f55b38e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-1o2-b-4f55b38e.json"
+    },
+    {
+      "id": "abb-ox-260-400e-1o2-t-0af2cf4f",
+      "name": "OX_260-400E_1O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_1O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-1o2-t-0af2cf4f",
+      "recordPath": "equipment/abb-ox-260-400e-1o2-t-0af2cf4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-1o2-t-0af2cf4f.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2o2-b-ba6ee44e",
+      "name": "OX_260-400E_2O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_2O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2o2-b-ba6ee44e",
+      "recordPath": "equipment/abb-ox-260-400e-2o2-b-ba6ee44e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2o2-b-ba6ee44e.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2o2-t-d8ba8720",
+      "name": "OX_260-400E_2O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_2O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2o2-t-d8ba8720",
+      "recordPath": "equipment/abb-ox-260-400e-2o2-t-d8ba8720.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2o2-t-d8ba8720.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2o4-b-222e9bec",
+      "name": "OX_260-400E_2O4_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_2O4_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2o4-b-222e9bec",
+      "recordPath": "equipment/abb-ox-260-400e-2o4-b-222e9bec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2o4-b-222e9bec.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2o4-t-b1fbfeae",
+      "name": "OX_260-400E_2O4_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_2O4_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2o4-t-b1fbfeae",
+      "recordPath": "equipment/abb-ox-260-400e-2o4-t-b1fbfeae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2o4-t-b1fbfeae.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3o3-t-a73a0e29",
+      "name": "OX_260-400E_3O3_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_3O3_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3o3-t-a73a0e29",
+      "recordPath": "equipment/abb-ox-260-400e-3o3-t-a73a0e29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3o3-t-a73a0e29.json"
+    },
+    {
+      "id": "abb-ox-30u-250-1o2-b-b72e27d0",
+      "name": "OX_30U-250_1O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_1O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-1o2-b-b72e27d0",
+      "recordPath": "equipment/abb-ox-30u-250-1o2-b-b72e27d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-1o2-b-b72e27d0.json"
+    },
+    {
+      "id": "abb-ox-30u-250-1o2-t-fc831ad2",
+      "name": "OX_30U-250_1O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_1O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-1o2-t-fc831ad2",
+      "recordPath": "equipment/abb-ox-30u-250-1o2-t-fc831ad2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-1o2-t-fc831ad2.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2o2-b-429093e1",
+      "name": "OX_30U-250_2O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_2O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2o2-b-429093e1",
+      "recordPath": "equipment/abb-ox-30u-250-2o2-b-429093e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2o2-b-429093e1.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2o2-t-d1ff6338",
+      "name": "OX_30U-250_2O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_2O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2o2-t-d1ff6338",
+      "recordPath": "equipment/abb-ox-30u-250-2o2-t-d1ff6338.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2o2-t-d1ff6338.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3o2-b-91fbd8a7",
+      "name": "OX_30U-250_3O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_3O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3o2-b-91fbd8a7",
+      "recordPath": "equipment/abb-ox-30u-250-3o2-b-91fbd8a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3o2-b-91fbd8a7.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3o2-t-ec6211c0",
+      "name": "OX_30U-250_3O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_3O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3o2-t-ec6211c0",
+      "recordPath": "equipment/abb-ox-30u-250-3o2-t-ec6211c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3o2-t-ec6211c0.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3s3-t-feb474f9",
+      "name": "OX_30U-250_3S3_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_3S3_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3s3-t-feb474f9",
+      "recordPath": "equipment/abb-ox-30u-250-3s3-t-feb474f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3s3-t-feb474f9.json"
+    },
+    {
+      "id": "abb-ox-400u1o2-b-c5658008",
+      "name": "OX_400U1O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U1O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u1o2-b-c5658008",
+      "recordPath": "equipment/abb-ox-400u1o2-b-c5658008.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u1o2-b-c5658008.json"
+    },
+    {
+      "id": "abb-ox-400u1o2-t-8aaf00fd",
+      "name": "OX_400U1O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U1O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u1o2-t-8aaf00fd",
+      "recordPath": "equipment/abb-ox-400u1o2-t-8aaf00fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u1o2-t-8aaf00fd.json"
+    },
+    {
+      "id": "abb-ox-400u2o2-b-4df5a57b",
+      "name": "OX_400U2O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U2O2_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u2o2-b-4df5a57b",
+      "recordPath": "equipment/abb-ox-400u2o2-b-4df5a57b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u2o2-b-4df5a57b.json"
+    },
+    {
+      "id": "abb-ox-400u2o2-t-147b1f2e",
+      "name": "OX_400U2O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U2O2_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u2o2-t-147b1f2e",
+      "recordPath": "equipment/abb-ox-400u2o2-t-147b1f2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u2o2-t-147b1f2e.json"
+    },
+    {
+      "id": "abb-ox-400u2o4-b-ca5ae692",
+      "name": "OX_400U2O4_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U2O4_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u2o4-b-ca5ae692",
+      "recordPath": "equipment/abb-ox-400u2o4-b-ca5ae692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u2o4-b-ca5ae692.json"
+    },
+    {
+      "id": "abb-ox-400u2o4-t-16330e04",
+      "name": "OX_400U2O4_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U2O4_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u2o4-t-16330e04",
+      "recordPath": "equipment/abb-ox-400u2o4-t-16330e04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u2o4-t-16330e04.json"
+    },
+    {
+      "id": "abb-ox-400u3o2-b-9bfe6b80",
+      "name": "OX_400U3O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U3O2_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u3o2-b-9bfe6b80",
+      "recordPath": "equipment/abb-ox-400u3o2-b-9bfe6b80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u3o2-b-9bfe6b80.json"
+    },
+    {
+      "id": "abb-ox-400u3o2-t-3122bab4",
+      "name": "OX_400U3O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U3O2_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u3o2-t-3122bab4",
+      "recordPath": "equipment/abb-ox-400u3o2-t-3122bab4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u3o2-t-3122bab4.json"
+    },
+    {
+      "id": "abb-ox-400u3o4-b-9030f5cf",
+      "name": "OX_400U3O4_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U3O4_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u3o4-b-9030f5cf",
+      "recordPath": "equipment/abb-ox-400u3o4-b-9030f5cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u3o4-b-9030f5cf.json"
+    },
+    {
+      "id": "abb-ox-400u3o4-t-c26e9254",
+      "name": "OX_400U3O4_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_400U3O4_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u3o4-t-c26e9254",
+      "recordPath": "equipment/abb-ox-400u3o4-t-c26e9254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u3o4-t-c26e9254.json"
+    },
+    {
+      "id": "abb-ox-500-800e-1o2-b-3555a4e3",
+      "name": "OX_500-800E_1O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_1O2_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-1o2-b-3555a4e3",
+      "recordPath": "equipment/abb-ox-500-800e-1o2-b-3555a4e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-1o2-b-3555a4e3.json"
+    },
+    {
+      "id": "abb-ox-500-800e-1o2-t-60c5035c",
+      "name": "OX_500-800E_1O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_1O2_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-1o2-t-60c5035c",
+      "recordPath": "equipment/abb-ox-500-800e-1o2-t-60c5035c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-1o2-t-60c5035c.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2o2-b-855948ca",
+      "name": "OX_500-800E_2O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_2O2_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2o2-b-855948ca",
+      "recordPath": "equipment/abb-ox-500-800e-2o2-b-855948ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2o2-b-855948ca.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2o3-t-259a8ba0",
+      "name": "OX_500-800E_2O3_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_2O3_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2o3-t-259a8ba0",
+      "recordPath": "equipment/abb-ox-500-800e-2o3-t-259a8ba0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2o3-t-259a8ba0.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2x2-t-d1bcfa49",
+      "name": "OX_500-800E_2X2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_2X2_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2x2-t-d1bcfa49",
+      "recordPath": "equipment/abb-ox-500-800e-2x2-t-d1bcfa49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2x2-t-d1bcfa49.json"
+    },
+    {
+      "id": "abb-ox-500-800e-3o2-b-94344be2",
+      "name": "OX_500-800E_3O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_3O2_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-3o2-b-94344be2",
+      "recordPath": "equipment/abb-ox-500-800e-3o2-b-94344be2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-3o2-b-94344be2.json"
+    },
+    {
+      "id": "abb-ox-500-800e-3o2-t-cbcc14b9",
+      "name": "OX_500-800E_3O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_3O2_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-3o2-t-cbcc14b9",
+      "recordPath": "equipment/abb-ox-500-800e-3o2-t-cbcc14b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-3o2-t-cbcc14b9.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-2o2-b-50ba8c28",
+      "name": "OX_800U-1600E_2O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_2O2_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-2o2-b-50ba8c28",
+      "recordPath": "equipment/abb-ox-800u-1600e-2o2-b-50ba8c28.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-2o2-b-50ba8c28.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-2o2-t-f7d40505",
+      "name": "OX_800U-1600E_2O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_2O2_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-2o2-t-f7d40505",
+      "recordPath": "equipment/abb-ox-800u-1600e-2o2-t-f7d40505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-2o2-t-f7d40505.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-2o4-b-5e7ee92c",
+      "name": "OX_800U-1600E_2O4_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_2O4_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-2o4-b-5e7ee92c",
+      "recordPath": "equipment/abb-ox-800u-1600e-2o4-b-5e7ee92c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-2o4-b-5e7ee92c.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-2o4-t-18e71bba",
+      "name": "OX_800U-1600E_2O4_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_2O4_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-2o4-t-18e71bba",
+      "recordPath": "equipment/abb-ox-800u-1600e-2o4-t-18e71bba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-2o4-t-18e71bba.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-3o2-b-9883939e",
+      "name": "OX_800U-1600E_3O2_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_3O2_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-3o2-b-9883939e",
+      "recordPath": "equipment/abb-ox-800u-1600e-3o2-b-9883939e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-3o2-b-9883939e.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-3o2-t-80b8eeea",
+      "name": "OX_800U-1600E_3O2_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_3O2_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-3o2-t-80b8eeea",
+      "recordPath": "equipment/abb-ox-800u-1600e-3o2-t-80b8eeea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-3o2-t-80b8eeea.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-3o4-b-650bd5fe",
+      "name": "OX_800U-1600E_3O4_B_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_3O4_B_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-3o4-b-650bd5fe",
+      "recordPath": "equipment/abb-ox-800u-1600e-3o4-b-650bd5fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-3o4-b-650bd5fe.json"
+    },
+    {
+      "id": "abb-ox-800u-1600e-3o4-t-976c3bff",
+      "name": "OX_800U-1600E_3O4_T_",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_800U-1600E_3O4_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-800u-1600e-3o4-t-976c3bff",
+      "recordPath": "equipment/abb-ox-800u-1600e-3o4-t-976c3bff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-800u-1600e-3o4-t-976c3bff.json"
+    },
+    {
+      "id": "abb-vd4-fixed-version-dimensional-drawings-43bc1391",
+      "name": "VD4 fixed version – dimensional drawings",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107492A2553",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-fixed-version-dimensional-drawings-43bc1391",
+      "recordPath": "equipment/abb-vd4-fixed-version-dimensional-drawings-43bc1391.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-fixed-version-dimensional-drawings-43bc1391.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-l-p-230-78becb34",
+      "name": "VD4/R - Overall dimensions, VD4/L p. 230",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD003453",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-l-p-230-78becb34",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-l-p-230-78becb34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-l-p-230-78becb34.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-l-p-300-ce452df2",
+      "name": "VD4/R - Overall dimensions, VD4/L p. 300",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD003454",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-l-p-300-ce452df2",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-l-p-300-ce452df2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-l-p-300-ce452df2.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-r-p-230-9f4f70f1",
+      "name": "VD4/R - Overall dimensions, VD4/R p.230",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000100",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-r-p-230-9f4f70f1",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-r-p-230-9f4f70f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-r-p-230-9f4f70f1.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-r-p-300-f099a252",
+      "name": "VD4/R - Overall dimensions, VD4/R p.300",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000101",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-r-p-300-f099a252",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-r-p-300-f099a252.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-r-p-300-f099a252.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-s-d17d1e7a",
+      "name": "VD4/R - Overall dimensions, VD4/S",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000098",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-s-d17d1e7a",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-s-d17d1e7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-s-d17d1e7a.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-uniair-dd7fb281",
+      "name": "VD4/R - Overall dimensions, VD4/Uniair",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000102",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-uniair-dd7fb281",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-uniair-dd7fb281.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-uniair-dd7fb281.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-uniair-2r-b3c2bfa3",
+      "name": "VD4/R - Overall dimensions, VD4/Uniair-2R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000103",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-uniair-2r-b3c2bfa3",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-uniair-2r-b3c2bfa3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-uniair-2r-b3c2bfa3.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-uniair-a-bdcb1aa0",
+      "name": "VD4/R - Overall dimensions, VD4/Uniair-A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000104",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-uniair-a-bdcb1aa0",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-uniair-a-bdcb1aa0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-uniair-a-bdcb1aa0.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-unimix-f-0556db48",
+      "name": "VD4/R - Overall dimensions, VD4/Unimix-F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000106",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-unimix-f-0556db48",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-unimix-f-0556db48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-unimix-f-0556db48.json"
+    },
+    {
+      "id": "abb-vd4-r-overall-dimensions-vd4-unimix-r-60234f46",
+      "name": "VD4/R - Overall dimensions, VD4/Unimix-R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1VCD000107",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-vd4-r-overall-dimensions-vd4-unimix-r-60234f46",
+      "recordPath": "equipment/abb-vd4-r-overall-dimensions-vd4-unimix-r-60234f46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-vd4-r-overall-dimensions-vd4-unimix-r-60234f46.json"
+    },
+    {
+      "id": "lapp-insulators-315202-70",
+      "name": "315202-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315202-70",
+      "recordPath": "equipment/lapp-insulators-315202-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315202-70.json"
+    },
+    {
+      "id": "lapp-insulators-315222-70",
+      "name": "315222-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315222-70",
+      "recordPath": "equipment/lapp-insulators-315222-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315222-70.json"
+    },
+    {
+      "id": "lapp-insulators-315232-70-l",
+      "name": "315232-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315232-70-l",
+      "recordPath": "equipment/lapp-insulators-315232-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315232-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315205-70",
+      "name": "315205-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315205-70",
+      "recordPath": "equipment/lapp-insulators-315205-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315205-70.json"
+    },
+    {
+      "id": "lapp-insulators-315225-70",
+      "name": "315225-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315225-70",
+      "recordPath": "equipment/lapp-insulators-315225-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315225-70.json"
+    },
+    {
+      "id": "lapp-insulators-315235-70-l",
+      "name": "315235-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315235-70-l",
+      "recordPath": "equipment/lapp-insulators-315235-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315235-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315208-70",
+      "name": "315208-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315208-70",
+      "recordPath": "equipment/lapp-insulators-315208-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315208-70.json"
+    },
+    {
+      "id": "lapp-insulators-315227-70",
+      "name": "315227-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315227-70",
+      "recordPath": "equipment/lapp-insulators-315227-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315227-70.json"
+    },
+    {
+      "id": "lapp-insulators-315237-70-l",
+      "name": "315237-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315237-70-l",
+      "recordPath": "equipment/lapp-insulators-315237-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315237-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315210-70",
+      "name": "315210-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315210-70",
+      "recordPath": "equipment/lapp-insulators-315210-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315210-70.json"
+    },
+    {
+      "id": "lapp-insulators-315231-70",
+      "name": "315231-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315231-70",
+      "recordPath": "equipment/lapp-insulators-315231-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315231-70.json"
+    },
+    {
+      "id": "lapp-insulators-315241-70-l",
+      "name": "315241-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315241-70-l",
+      "recordPath": "equipment/lapp-insulators-315241-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315241-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315214-70",
+      "name": "315214-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315214-70",
+      "recordPath": "equipment/lapp-insulators-315214-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315214-70.json"
+    },
+    {
+      "id": "lapp-insulators-315267-70",
+      "name": "315267-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315267-70",
+      "recordPath": "equipment/lapp-insulators-315267-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315267-70.json"
+    },
+    {
+      "id": "lapp-insulators-318459-70",
+      "name": "318459-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-318459-70",
+      "recordPath": "equipment/lapp-insulators-318459-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-318459-70.json"
+    },
+    {
+      "id": "lapp-insulators-315216-70",
+      "name": "315216-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315216-70",
+      "recordPath": "equipment/lapp-insulators-315216-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315216-70.json"
+    },
+    {
+      "id": "lapp-insulators-315278-70",
+      "name": "315278-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315278-70",
+      "recordPath": "equipment/lapp-insulators-315278-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315278-70.json"
+    },
+    {
+      "id": "lapp-insulators-318461-70",
+      "name": "318461-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-318461-70",
+      "recordPath": "equipment/lapp-insulators-318461-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-318461-70.json"
+    },
+    {
+      "id": "lapp-insulators-315286-70-l",
+      "name": "315286-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315286-70-l",
+      "recordPath": "equipment/lapp-insulators-315286-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315286-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315287-70-l",
+      "name": "315287-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315287-70-l",
+      "recordPath": "equipment/lapp-insulators-315287-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315287-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-318457-70",
+      "name": "318457-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-318457-70",
+      "recordPath": "equipment/lapp-insulators-318457-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-318457-70.json"
+    },
+    {
+      "id": "lapp-insulators-315288-70-l",
+      "name": "315288-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315288-70-l",
+      "recordPath": "equipment/lapp-insulators-315288-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315288-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315289-70-l",
+      "name": "315289-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315289-70-l",
+      "recordPath": "equipment/lapp-insulators-315289-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315289-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-314857-70",
+      "name": "314857-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-314857-70",
+      "recordPath": "equipment/lapp-insulators-314857-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-314857-70.json"
+    },
+    {
+      "id": "lapp-insulators-315291-70-l",
+      "name": "315291-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315291-70-l",
+      "recordPath": "equipment/lapp-insulators-315291-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315291-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315295-70-l",
+      "name": "315295-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315295-70-l",
+      "recordPath": "equipment/lapp-insulators-315295-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315295-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-318441-70",
+      "name": "318441-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-318441-70",
+      "recordPath": "equipment/lapp-insulators-318441-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-318441-70.json"
+    },
+    {
+      "id": "lapp-insulators-315304-70-l",
+      "name": "315304-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315304-70-l",
+      "recordPath": "equipment/lapp-insulators-315304-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315304-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315308-70-l",
+      "name": "315308-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315308-70-l",
+      "recordPath": "equipment/lapp-insulators-315308-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315308-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-314925-70-l",
+      "name": "314925-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-314925-70-l",
+      "recordPath": "equipment/lapp-insulators-314925-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-314925-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-314161-70",
+      "name": "314161-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-314161-70",
+      "recordPath": "equipment/lapp-insulators-314161-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-314161-70.json"
+    },
+    {
+      "id": "lapp-insulators-315312-70",
+      "name": "315312-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315312-70",
+      "recordPath": "equipment/lapp-insulators-315312-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315312-70.json"
+    },
+    {
+      "id": "lapp-insulators-315316-70",
+      "name": "315316-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315316-70",
+      "recordPath": "equipment/lapp-insulators-315316-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315316-70.json"
+    },
+    {
+      "id": "lapp-insulators-315362-70",
+      "name": "315362-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315362-70",
+      "recordPath": "equipment/lapp-insulators-315362-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315362-70.json"
+    },
+    {
+      "id": "lapp-insulators-315324-70",
+      "name": "315324-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315324-70",
+      "recordPath": "equipment/lapp-insulators-315324-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315324-70.json"
+    },
+    {
+      "id": "lapp-insulators-315367-70",
+      "name": "315367-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315367-70",
+      "recordPath": "equipment/lapp-insulators-315367-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315367-70.json"
+    },
+    {
+      "id": "lapp-insulators-315368-70",
+      "name": "315368-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315368-70",
+      "recordPath": "equipment/lapp-insulators-315368-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315368-70.json"
+    },
+    {
+      "id": "lapp-insulators-315369-70",
+      "name": "315369-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315369-70",
+      "recordPath": "equipment/lapp-insulators-315369-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315369-70.json"
+    },
+    {
+      "id": "lapp-insulators-315330-70",
+      "name": "315330-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315330-70",
+      "recordPath": "equipment/lapp-insulators-315330-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315330-70.json"
+    },
+    {
+      "id": "lapp-insulators-315371-70",
+      "name": "315371-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315371-70",
+      "recordPath": "equipment/lapp-insulators-315371-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315371-70.json"
+    },
+    {
+      "id": "lapp-insulators-315373-70",
+      "name": "315373-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315373-70",
+      "recordPath": "equipment/lapp-insulators-315373-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315373-70.json"
+    },
+    {
+      "id": "lapp-insulators-315372-70",
+      "name": "315372-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315372-70",
+      "recordPath": "equipment/lapp-insulators-315372-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315372-70.json"
+    },
+    {
+      "id": "lapp-insulators-314732-70",
+      "name": "314732-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-314732-70",
+      "recordPath": "equipment/lapp-insulators-314732-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-314732-70.json"
+    },
+    {
+      "id": "lapp-insulators-315379-70-l",
+      "name": "315379-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315379-70-l",
+      "recordPath": "equipment/lapp-insulators-315379-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315379-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315380-70-l",
+      "name": "315380-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315380-70-l",
+      "recordPath": "equipment/lapp-insulators-315380-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315380-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315391-70",
+      "name": "315391-70 porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315391-70",
+      "recordPath": "equipment/lapp-insulators-315391-70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315391-70.json"
+    },
+    {
+      "id": "lapp-insulators-315392-70-l",
+      "name": "315392-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315392-70-l",
+      "recordPath": "equipment/lapp-insulators-315392-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315392-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315393-70-l",
+      "name": "315393-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315393-70-l",
+      "recordPath": "equipment/lapp-insulators-315393-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315393-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315400-70-l",
+      "name": "315400-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315400-70-l",
+      "recordPath": "equipment/lapp-insulators-315400-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315400-70-l.json"
+    },
+    {
+      "id": "lapp-insulators-315401-70-l",
+      "name": "315401-70+L porcelain station-post insulator",
+      "manufacturer": "LAPP Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lapp-insulators-315401-70-l",
+      "recordPath": "equipment/lapp-insulators-315401-70-l.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lapp-insulators-315401-70-l.json"
+    },
+    {
+      "id": "victor-insulators-1750",
+      "name": "1750 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1750",
+      "recordPath": "equipment/victor-insulators-1750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1750.json"
+    },
+    {
+      "id": "victor-insulators-1751",
+      "name": "1751 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1751",
+      "recordPath": "equipment/victor-insulators-1751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1751.json"
+    },
+    {
+      "id": "victor-insulators-1752",
+      "name": "1752 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1752",
+      "recordPath": "equipment/victor-insulators-1752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1752.json"
+    },
+    {
+      "id": "victor-insulators-1753",
+      "name": "1753 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1753",
+      "recordPath": "equipment/victor-insulators-1753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1753.json"
+    },
+    {
+      "id": "victor-insulators-1754",
+      "name": "1754 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1754",
+      "recordPath": "equipment/victor-insulators-1754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1754.json"
+    },
+    {
+      "id": "victor-insulators-1755",
+      "name": "1755 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1755",
+      "recordPath": "equipment/victor-insulators-1755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1755.json"
+    },
+    {
+      "id": "victor-insulators-1766",
+      "name": "1766 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1766",
+      "recordPath": "equipment/victor-insulators-1766.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1766.json"
+    },
+    {
+      "id": "victor-insulators-1767",
+      "name": "1767 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1767",
+      "recordPath": "equipment/victor-insulators-1767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1767.json"
+    },
+    {
+      "id": "victor-insulators-1768",
+      "name": "1768 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1768",
+      "recordPath": "equipment/victor-insulators-1768.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1768.json"
+    },
+    {
+      "id": "victor-insulators-1764",
+      "name": "1764 porcelain station-post insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1764",
+      "recordPath": "equipment/victor-insulators-1764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1764.json"
+    },
+    {
+      "id": "victor-insulators-1544",
+      "name": "1544 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1544",
+      "recordPath": "equipment/victor-insulators-1544.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1544.json"
+    },
+    {
+      "id": "victor-insulators-1689",
+      "name": "1689 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1689",
+      "recordPath": "equipment/victor-insulators-1689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1689.json"
+    },
+    {
+      "id": "victor-insulators-1748",
+      "name": "1748 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1748",
+      "recordPath": "equipment/victor-insulators-1748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1748.json"
+    },
+    {
+      "id": "victor-insulators-1598",
+      "name": "1598 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1598",
+      "recordPath": "equipment/victor-insulators-1598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1598.json"
+    },
+    {
+      "id": "victor-insulators-1746",
+      "name": "1746 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1746",
+      "recordPath": "equipment/victor-insulators-1746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1746.json"
+    },
+    {
+      "id": "victor-insulators-1502",
+      "name": "1502 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1502",
+      "recordPath": "equipment/victor-insulators-1502.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1502.json"
+    },
+    {
+      "id": "victor-insulators-1747",
+      "name": "1747 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1747",
+      "recordPath": "equipment/victor-insulators-1747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1747.json"
+    },
+    {
+      "id": "victor-insulators-1589",
+      "name": "1589 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1589",
+      "recordPath": "equipment/victor-insulators-1589.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1589.json"
+    },
+    {
+      "id": "victor-insulators-1769",
+      "name": "1769 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1769",
+      "recordPath": "equipment/victor-insulators-1769.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1769.json"
+    },
+    {
+      "id": "victor-insulators-1536",
+      "name": "1536 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1536",
+      "recordPath": "equipment/victor-insulators-1536.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1536.json"
+    },
+    {
+      "id": "victor-insulators-1599",
+      "name": "1599 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1599",
+      "recordPath": "equipment/victor-insulators-1599.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1599.json"
+    },
+    {
+      "id": "victor-insulators-1696",
+      "name": "1696 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1696",
+      "recordPath": "equipment/victor-insulators-1696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1696.json"
+    },
+    {
+      "id": "victor-insulators-1529",
+      "name": "1529 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1529",
+      "recordPath": "equipment/victor-insulators-1529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1529.json"
+    },
+    {
+      "id": "victor-insulators-1543",
+      "name": "1543 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1543",
+      "recordPath": "equipment/victor-insulators-1543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1543.json"
+    },
+    {
+      "id": "victor-insulators-1548",
+      "name": "1548 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1548",
+      "recordPath": "equipment/victor-insulators-1548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1548.json"
+    },
+    {
+      "id": "victor-insulators-1590",
+      "name": "1590 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1590",
+      "recordPath": "equipment/victor-insulators-1590.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1590.json"
+    },
+    {
+      "id": "victor-insulators-1770",
+      "name": "1770 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1770",
+      "recordPath": "equipment/victor-insulators-1770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1770.json"
+    },
+    {
+      "id": "victor-insulators-1587",
+      "name": "1587 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1587",
+      "recordPath": "equipment/victor-insulators-1587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1587.json"
+    },
+    {
+      "id": "victor-insulators-1537",
+      "name": "1537 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1537",
+      "recordPath": "equipment/victor-insulators-1537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1537.json"
+    },
+    {
+      "id": "victor-insulators-1535",
+      "name": "1535 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1535",
+      "recordPath": "equipment/victor-insulators-1535.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1535.json"
+    },
+    {
+      "id": "victor-insulators-1546",
+      "name": "1546 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1546",
+      "recordPath": "equipment/victor-insulators-1546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1546.json"
+    },
+    {
+      "id": "victor-insulators-1623",
+      "name": "1623 cap-and-pin replacement insulator",
+      "manufacturer": "Victor Insulators",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victor-insulators-1623",
+      "recordPath": "equipment/victor-insulators-1623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victor-insulators-1623.json"
+    }
+  ]
+}

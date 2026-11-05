@@ -33,7 +33,7 @@ Use the named DWG for the module’s physical arrangement. Follow its separate w
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+A control-panel design can bring a current-output transmitter to this module so the controller can read its measured condition.
 
 Use the named DWG for the module’s physical arrangement. Follow its separate wiring documentation for channels, signal references and terminal-block selection. A four-channel input module is a different functional choice from the voltage-input and universal-input models nearby in the collection.
 

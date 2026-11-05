@@ -1,0 +1,3008 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 10,
+  "entries": [
+    {
+      "id": "abb-xt2-3p-4p-fixed-rhs-right-min-7383f15199",
+      "name": "XT2 3p 4p Fixed RHS right min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0829",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-rhs-right-min-7383f15199",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-rhs-right-min-7383f15199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-rhs-right-min-7383f15199.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-f-2727492c4f",
+      "name": "XT2 3p FIXED F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002230A1001",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-f-2727492c4f",
+      "recordPath": "equipment/abb-xt2-3p-fixed-f-2727492c4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-f-2727492c4f.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-f-ekip-touch-f7b05c204f",
+      "name": "XT2 3p FIXED F - EKIP TOUCH",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0155",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-f-ekip-touch-f7b05c204f",
+      "recordPath": "equipment/abb-xt2-3p-fixed-f-ekip-touch-f7b05c204f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-f-ekip-touch-f7b05c204f.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ltc-low-a0561800c6",
+      "name": "XT2 3p FIXED LTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0167",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ltc-low-a0561800c6",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ltc-low-a0561800c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ltc-low-a0561800c6.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-ltc-up-67ed03e00d",
+      "name": "XT2 3p FIXED LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0168",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-ltc-up-67ed03e00d",
+      "recordPath": "equipment/abb-xt2-3p-fixed-ltc-up-67ed03e00d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-ltc-up-67ed03e00d.json"
+    },
+    {
+      "id": "abb-xt2-3p-fixed-rhs-left-min-f0418f2250",
+      "name": "XT2 3p Fixed RHS left min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0831",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-fixed-rhs-left-min-f0418f2250",
+      "recordPath": "equipment/abb-xt2-3p-fixed-rhs-left-min-f0418f2250.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-fixed-rhs-left-min-f0418f2250.json"
+    },
+    {
+      "id": "abb-xt2-3p-withdrawable-fixing-50mm-ceff13e22d",
+      "name": "XT2 3p WITHDRAWABLE FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0240",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-withdrawable-fixing-50mm-ceff13e22d",
+      "recordPath": "equipment/abb-xt2-3p-withdrawable-fixing-50mm-ceff13e22d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-withdrawable-fixing-50mm-ceff13e22d.json"
+    },
+    {
+      "id": "abb-xt2-3p-withdrawable-fixing-70mm-2b3bb000c7",
+      "name": "XT2 3p WITHDRAWABLE FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0241",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-withdrawable-fixing-70mm-2b3bb000c7",
+      "recordPath": "equipment/abb-xt2-3p-withdrawable-fixing-70mm-2b3bb000c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-withdrawable-fixing-70mm-2b3bb000c7.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-fccu-mc-terminals-4af745377a",
+      "name": "XT2 3p-4p Plug in FcCu-Mc terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-fccu-mc-terminals-4af745377a",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-fccu-mc-terminals-4af745377a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-fccu-mc-terminals-4af745377a.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-fccual-terminals-b28f659553",
+      "name": "XT2 3p-4p Plug in FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-fccual-terminals-b28f659553",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-fccual-terminals-b28f659553.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-fccual-terminals-b28f659553.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-extended-front-terminals-561d93b570",
+      "name": "XT2 3p-4p Plug in extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-extended-front-terminals-561d93b570",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-extended-front-terminals-561d93b570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-extended-front-terminals-561d93b570.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-front-spread-extended-terminals-68363f80a6",
+      "name": "XT2 3p-4p Plug in front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-front-spread-extended-terminals-68363f80a6",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-front-spread-extended-terminals-68363f80a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-front-spread-extended-terminals-68363f80a6.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-rear-terminals-0e3e4a2052",
+      "name": "XT2 3p-4p Plug in rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-rear-terminals-0e3e4a2052",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-rear-terminals-0e3e4a2052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-rear-terminals-0e3e4a2052.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-din-channel-assemby-849df0253f",
+      "name": "XT2 3p-4p fixed DIN channel assemby",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0119",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-din-channel-assemby-849df0253f",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-din-channel-assemby-849df0253f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-din-channel-assemby-849df0253f.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-fccu-mc-terminals-64c2af0fff",
+      "name": "XT2 3p-4p fixed FcCu - Mc terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-fccu-mc-terminals-64c2af0fff",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-fccu-mc-terminals-64c2af0fff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-fccu-mc-terminals-64c2af0fff.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-fccual-terminals-c788a12650",
+      "name": "XT2 3p-4p fixed FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-fccual-terminals-c788a12650",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-fccual-terminals-c788a12650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-fccual-terminals-c788a12650.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-direct-rotary-handle-rhd-ad963cb2cd",
+      "name": "XT2 3p-4p fixed direct rotary handle RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-direct-rotary-handle-rhd-ad963cb2cd",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-direct-rotary-handle-rhd-ad963cb2cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-direct-rotary-handle-rhd-ad963cb2cd.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-front-and-spread-extended-terminals-befcf4d808",
+      "name": "XT2 3p-4p fixed front and spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-front-and-spread-extended-terminals-befcf4d808",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-front-and-spread-extended-terminals-befcf4d808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-front-and-spread-extended-terminals-befcf4d808.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-front-extended-terminals-3a6dff361f",
+      "name": "XT2 3p-4p fixed front extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0144",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-front-extended-terminals-3a6dff361f",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-front-extended-terminals-3a6dff361f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-front-extended-terminals-3a6dff361f.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-front-terminals-d2e9796b8f",
+      "name": "XT2 3p-4p fixed front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-front-terminals-d2e9796b8f",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-front-terminals-d2e9796b8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-front-terminals-d2e9796b8f.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-rear-terminals-164af07fd2",
+      "name": "XT2 3p-4p fixed rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-rear-terminals-164af07fd2",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-rear-terminals-164af07fd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-rear-terminals-164af07fd2.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-transmetted-rotary-handle-rhe-2c91b7cacc",
+      "name": "XT2 3p-4p fixed transmetted rotary handle RHE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-transmetted-rotary-handle-rhe-2c91b7cacc",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-transmetted-rotary-handle-rhe-2c91b7cacc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-transmetted-rotary-handle-rhe-2c91b7cacc.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-with-ekip-display-ekip-led-meter-4cacbabaa3",
+      "name": "XT2 3p-4p fixed with Ekip Display - Ekip Led Meter",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0132",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-with-ekip-display-ekip-led-meter-4cacbabaa3",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-with-ekip-display-ekip-led-meter-4cacbabaa3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-with-ekip-display-ekip-led-meter-4cacbabaa3.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-with-fld-front-panel-with-padlock-device-dfe48f93d0",
+      "name": "XT2 3p-4p fixed with FLD front panel with padlock device",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0116",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-with-fld-front-panel-with-padlock-device-dfe48f93d0",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-with-fld-front-panel-with-padlock-device-dfe48f93d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-with-fld-front-panel-with-padlock-device-dfe48f93d0.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-fixed-plug-in-with-optional-flange-86ed5d176a",
+      "name": "XT2 3p-4p fixed-plug in with optional flange",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0129",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-fixed-plug-in-with-optional-flange-86ed5d176a",
+      "recordPath": "equipment/abb-xt2-3p-4p-fixed-plug-in-with-optional-flange-86ed5d176a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-fixed-plug-in-with-optional-flange-86ed5d176a.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-with-ekip-display-ekip-led-meter-83666f0ba7",
+      "name": "XT2 3p-4p plug in with Ekip Display - Ekip Led Meter",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0133",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-with-ekip-display-ekip-led-meter-83666f0ba7",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-with-ekip-display-ekip-led-meter-83666f0ba7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-with-ekip-display-ekip-led-meter-83666f0ba7.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-with-fccual-terminals-1d17ae70cc",
+      "name": "XT2 3p-4p plug in with FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0137",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-with-fccual-terminals-1d17ae70cc",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-with-fccual-terminals-1d17ae70cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-with-fccual-terminals-1d17ae70cc.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-with-fccual-terminals-2x95mmq-45951e9946",
+      "name": "XT2 3p-4p plug in with FcCuAl terminals 2x95mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0140",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-with-fccual-terminals-2x95mmq-45951e9946",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-with-fccual-terminals-2x95mmq-45951e9946.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-with-fccual-terminals-2x95mmq-45951e9946.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-89b9856784",
+      "name": "XT2 3p-4p plug in with front panel with padlock device FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0122",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-89b9856784",
+      "recordPath": "equipment/abb-xt2-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-89b9856784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-89b9856784.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-fccu-mc-terminals-7b7542f369",
+      "name": "XT2 3p-4p withdrawable FcCu - Mc terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-fccu-mc-terminals-7b7542f369",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-fccu-mc-terminals-7b7542f369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-fccu-mc-terminals-7b7542f369.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-fccual-terminals-5295115911",
+      "name": "XT2 3p-4p withdrawable FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-fccual-terminals-5295115911",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-fccual-terminals-5295115911.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-fccual-terminals-5295115911.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-extended-front-terminals-a54e546f30",
+      "name": "XT2 3p-4p withdrawable extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0113",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-extended-front-terminals-a54e546f30",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-extended-front-terminals-a54e546f30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-extended-front-terminals-a54e546f30.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-front-spread-extended-terminals-4bc2c70726",
+      "name": "XT2 3p-4p withdrawable front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-front-spread-extended-terminals-4bc2c70726",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-front-spread-extended-terminals-4bc2c70726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-front-spread-extended-terminals-4bc2c70726.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-rear-terminals-hr-vr-5a71fcc354",
+      "name": "XT2 3p-4p withdrawable rear terminals HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-rear-terminals-hr-vr-5a71fcc354",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-rear-terminals-hr-vr-5a71fcc354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-rear-terminals-hr-vr-5a71fcc354.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-with-fccual-esternal-terminals-2x95mmq-c619af5ee6",
+      "name": "XT2 3p-4p withdrawable with FcCuAl esternal terminals 2x95mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0141",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-with-fccual-esternal-terminals-2x95mmq-c619af5ee6",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-with-fccual-esternal-terminals-2x95mmq-c619af5ee6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-with-fccual-esternal-terminals-2x95mmq-c619af5ee6.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-with-direct-rotary-handle-rhd-fb874562e5",
+      "name": "XT2 3p-4p withdrawable with direct rotary handle RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0127",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-with-direct-rotary-handle-rhd-fb874562e5",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-with-direct-rotary-handle-rhd-fb874562e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-with-direct-rotary-handle-rhd-fb874562e5.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-e99b41a8d5",
+      "name": "XT2 3p-4p withdrawable with front panel with padlock device FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0126",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-e99b41a8d5",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-e99b41a8d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-e99b41a8d5.json"
+    },
+    {
+      "id": "abb-xt2-3p-4p-withdrawable-with-transmetted-rotary-handle-rhe-6240ae851e",
+      "name": "XT2 3p-4p withdrawable with transmetted rotary handle RHE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0128",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-3p-4p-withdrawable-with-transmetted-rotary-handle-rhe-6240ae851e",
+      "recordPath": "equipment/abb-xt2-3p-4p-withdrawable-with-transmetted-rotary-handle-rhe-6240ae851e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-3p-4p-withdrawable-with-transmetted-rotary-handle-rhe-6240ae851e.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-f-bottom-da2dfd1859",
+      "name": "XT2 4P Fixed F bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0812",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-f-bottom-da2dfd1859",
+      "recordPath": "equipment/abb-xt2-4p-fixed-f-bottom-da2dfd1859.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-f-bottom-da2dfd1859.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-f-top-31d67f6074",
+      "name": "XT2 4P Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0811",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-f-top-31d67f6074",
+      "recordPath": "equipment/abb-xt2-4p-fixed-f-top-31d67f6074.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-f-top-31d67f6074.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-f-5972c71f1a",
+      "name": "XT2 4p FIXED F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002230A1002",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-f-5972c71f1a",
+      "recordPath": "equipment/abb-xt2-4p-fixed-f-5972c71f1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-f-5972c71f1a.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-f-ekip-touch-400bb2f2df",
+      "name": "XT2 4p FIXED F - EKIP TOUCH",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0280",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-f-ekip-touch-400bb2f2df",
+      "recordPath": "equipment/abb-xt2-4p-fixed-f-ekip-touch-400bb2f2df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-f-ekip-touch-400bb2f2df.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-fccual-2x95mmq-up-f81da3f7b5",
+      "name": "XT2 4p FIXED FCCuAl 2x95mmq UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0282",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-fccual-2x95mmq-up-f81da3f7b5",
+      "recordPath": "equipment/abb-xt2-4p-fixed-fccual-2x95mmq-up-f81da3f7b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-fccual-2x95mmq-up-f81da3f7b5.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-fccual-low-3de4ea48d7",
+      "name": "XT2 4p FIXED FCCuAl LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0285",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-fccual-low-3de4ea48d7",
+      "recordPath": "equipment/abb-xt2-4p-fixed-fccual-low-3de4ea48d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-fccual-low-3de4ea48d7.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-fccual-up-570600511b",
+      "name": "XT2 4p FIXED FCCuAl UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0286",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-fccual-up-570600511b",
+      "recordPath": "equipment/abb-xt2-4p-fixed-fccual-up-570600511b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-fccual-up-570600511b.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-flange-2f3a102c01",
+      "name": "XT2 4p FIXED FLANGE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0297",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-flange-2f3a102c01",
+      "recordPath": "equipment/abb-xt2-4p-fixed-flange-2f3a102c01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-flange-2f3a102c01.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-flange-moe-bd2fc94a15",
+      "name": "XT2 4p FIXED FLANGE MOE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0300",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-flange-moe-bd2fc94a15",
+      "recordPath": "equipment/abb-xt2-4p-fixed-flange-moe-bd2fc94a15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-flange-moe-bd2fc94a15.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-flange-rc-9fc68980a2",
+      "name": "XT2 4p FIXED FLANGE RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0298",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-flange-rc-9fc68980a2",
+      "recordPath": "equipment/abb-xt2-4p-fixed-flange-rc-9fc68980a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-flange-rc-9fc68980a2.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-htc-low-4a549b9faa",
+      "name": "XT2 4p FIXED HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0290",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-htc-low-4a549b9faa",
+      "recordPath": "equipment/abb-xt2-4p-fixed-htc-low-4a549b9faa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-htc-low-4a549b9faa.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-htc-up-9750fb1f9c",
+      "name": "XT2 4p FIXED HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0291",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-htc-up-9750fb1f9c",
+      "recordPath": "equipment/abb-xt2-4p-fixed-htc-up-9750fb1f9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-htc-up-9750fb1f9c.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ltc-low-2fc610ecbc",
+      "name": "XT2 4p FIXED LTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0292",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ltc-low-2fc610ecbc",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ltc-low-2fc610ecbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ltc-low-2fc610ecbc.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ltc-up-1d01414e1b",
+      "name": "XT2 4p FIXED LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0293",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ltc-up-1d01414e1b",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ltc-up-1d01414e1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ltc-up-1d01414e1b.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-mc-low-568b9b8baa",
+      "name": "XT2 4p FIXED MC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0294",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-mc-low-568b9b8baa",
+      "recordPath": "equipment/abb-xt2-4p-fixed-mc-low-568b9b8baa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-mc-low-568b9b8baa.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-mc-up-627c3f1bf9",
+      "name": "XT2 4p FIXED MC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0295",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-mc-up-627c3f1bf9",
+      "recordPath": "equipment/abb-xt2-4p-fixed-mc-up-627c3f1bf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-mc-up-627c3f1bf9.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ps-100mm-low-b589b1bf87",
+      "name": "XT2 4p FIXED PS 100mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0303",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ps-100mm-low-b589b1bf87",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ps-100mm-low-b589b1bf87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ps-100mm-low-b589b1bf87.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ps-100mm-up-5c40e704d2",
+      "name": "XT2 4p FIXED PS 100mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0304",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ps-100mm-up-5c40e704d2",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ps-100mm-up-5c40e704d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ps-100mm-up-5c40e704d2.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ps-200mm-low-c9da317503",
+      "name": "XT2 4p FIXED PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0305",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ps-200mm-low-c9da317503",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ps-200mm-low-c9da317503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ps-200mm-low-c9da317503.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ps-200mm-up-28e18eaf66",
+      "name": "XT2 4p FIXED PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0306",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ps-200mm-up-28e18eaf66",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ps-200mm-up-28e18eaf66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ps-200mm-up-28e18eaf66.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ps-25mm-low-77a6a14cea",
+      "name": "XT2 4p FIXED PS 25mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0307",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ps-25mm-low-77a6a14cea",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ps-25mm-low-77a6a14cea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ps-25mm-low-77a6a14cea.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469",
+      "name": "XT2 4p FIXED PS 25mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0308",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469",
+      "recordPath": "equipment/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-r-low-89b0f15c76",
+      "name": "XT2 4p FIXED R LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0312",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-r-low-89b0f15c76",
+      "recordPath": "equipment/abb-xt2-4p-fixed-r-low-89b0f15c76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-r-low-89b0f15c76.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-rc-4fbba2c8e6",
+      "name": "XT2 4p FIXED RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0274",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-rc-4fbba2c8e6",
+      "recordPath": "equipment/abb-xt2-4p-fixed-rc-4fbba2c8e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-rc-4fbba2c8e6.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-rhs-left-min-eb4c76826f",
+      "name": "XT2 4p Fixed RHS left min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0845",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-rhs-left-min-eb4c76826f",
+      "recordPath": "equipment/abb-xt2-4p-fixed-rhs-left-min-eb4c76826f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-rhs-left-min-eb4c76826f.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-adapter-low-1c14e656ad",
+      "name": "XT2 4p PLUG-IN ADAPTER LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0316",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-adapter-low-1c14e656ad",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-adapter-low-1c14e656ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-adapter-low-1c14e656ad.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-adapter-up-f8b91e8143",
+      "name": "XT2 4p PLUG-IN ADAPTER UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0317",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-adapter-up-f8b91e8143",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-adapter-up-f8b91e8143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-adapter-up-f8b91e8143.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ef-low-38c7ae2443",
+      "name": "XT2 4p PLUG-IN EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0319",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ef-low-38c7ae2443",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ef-low-38c7ae2443.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ef-low-38c7ae2443.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ef-up-4ff7bc1ae7",
+      "name": "XT2 4p PLUG-IN EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0320",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ef-up-4ff7bc1ae7",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ef-up-4ff7bc1ae7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ef-up-4ff7bc1ae7.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-low-2b2ac3a97a",
+      "name": "XT2 4p PLUG-IN EXTERNAL TERMINALS FCCuAl 2x95mm2 LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0352",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-low-2b2ac3a97a",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-low-2b2ac3a97a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-low-2b2ac3a97a.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-up-b78332571f",
+      "name": "XT2 4p PLUG-IN EXTERNAL TERMINALS FCCuAl 2x95mm2 UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0353",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-up-b78332571f",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-up-b78332571f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-external-terminals-fccual-2x95mm2-up-b78332571f.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-external-terminals-low-78b7281d31",
+      "name": "XT2 4p PLUG-IN EXTERNAL TERMINALS LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0354",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-external-terminals-low-78b7281d31",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-external-terminals-low-78b7281d31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-external-terminals-low-78b7281d31.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c",
+      "name": "XT2 4p PLUG-IN EXTERNAL TERMINALS UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0355",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-fixing-50mm-953cbabaf0",
+      "name": "XT2 4p PLUG-IN FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0327",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-fixing-50mm-953cbabaf0",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-fixing-50mm-953cbabaf0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-fixing-50mm-953cbabaf0.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-fixing-70mm-bd13c70b58",
+      "name": "XT2 4p PLUG-IN FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0328",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-fixing-70mm-bd13c70b58",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-fixing-70mm-bd13c70b58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-fixing-70mm-bd13c70b58.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-flange-moe-043ed46bf3",
+      "name": "XT2 4p PLUG-IN FLANGE MOE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0340",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-flange-moe-043ed46bf3",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-flange-moe-043ed46bf3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-flange-moe-043ed46bf3.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-hr-low-6a9a17d50f",
+      "name": "XT2 4p PLUG-IN HR LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0330",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-hr-low-6a9a17d50f",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-hr-low-6a9a17d50f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-hr-low-6a9a17d50f.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-hr-up-018f3be4bc",
+      "name": "XT2 4p PLUG-IN HR UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0331",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-hr-up-018f3be4bc",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-hr-up-018f3be4bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-hr-up-018f3be4bc.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-htc-low-e226f8a926",
+      "name": "XT2 4p PLUG-IN HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0332",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-htc-low-e226f8a926",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-htc-low-e226f8a926.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-htc-low-e226f8a926.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-htc-up-171c54d8ec",
+      "name": "XT2 4p PLUG-IN HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0333",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-htc-up-171c54d8ec",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-htc-up-171c54d8ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-htc-up-171c54d8ec.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ps-100mmx48mm-low-9149e8e78d",
+      "name": "XT2 4p PLUG-IN PS 100mmx48mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0344",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ps-100mmx48mm-low-9149e8e78d",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ps-100mmx48mm-low-9149e8e78d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ps-100mmx48mm-low-9149e8e78d.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ps-100mmx48mm-up-808451fb7b",
+      "name": "XT2 4p PLUG-IN PS 100mmx48mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0345",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ps-100mmx48mm-up-808451fb7b",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ps-100mmx48mm-up-808451fb7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ps-100mmx48mm-up-808451fb7b.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ps-100mmx68mm-low-0f4eee7458",
+      "name": "XT2 4p PLUG-IN PS 100mmx68mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0346",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ps-100mmx68mm-low-0f4eee7458",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ps-100mmx68mm-low-0f4eee7458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ps-100mmx68mm-low-0f4eee7458.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7",
+      "name": "XT2 4p PLUG-IN PS 100mmx68mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0347",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ps-200mm-low-698f54f697",
+      "name": "XT2 4p PLUG-IN PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0348",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ps-200mm-low-698f54f697",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ps-200mm-low-698f54f697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ps-200mm-low-698f54f697.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-ps-200mm-up-2aa8984695",
+      "name": "XT2 4p PLUG-IN PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0349",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-ps-200mm-up-2aa8984695",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-ps-200mm-up-2aa8984695.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-ps-200mm-up-2aa8984695.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-psr-90mm-low-9a403963cd",
+      "name": "XT2 4p PLUG-IN PSR 90mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0342",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-psr-90mm-low-9a403963cd",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-psr-90mm-low-9a403963cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-psr-90mm-low-9a403963cd.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-psr-90mm-up-34d0b64750",
+      "name": "XT2 4p PLUG-IN PSR 90mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0343",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-psr-90mm-up-34d0b64750",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-psr-90mm-up-34d0b64750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-psr-90mm-up-34d0b64750.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-rc-794445220f",
+      "name": "XT2 4p PLUG-IN RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0318",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-rc-794445220f",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-rc-794445220f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-rc-794445220f.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-vr-low-d87d1e04a5",
+      "name": "XT2 4p PLUG-IN VR LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0356",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-vr-low-d87d1e04a5",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-vr-low-d87d1e04a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-vr-low-d87d1e04a5.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-side-connector-for-ekip-touch-hi-touch-be466c08ca",
+      "name": "XT2 4p Plug-in Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0911",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-side-connector-for-ekip-touch-hi-touch-be466c08ca",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-side-connector-for-ekip-touch-hi-touch-be466c08ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-side-connector-for-ekip-touch-hi-touch-be466c08ca.json"
+    },
+    {
+      "id": "abb-xt2-4p-withdrawable-fixing-50mm-acc42d2e4f",
+      "name": "XT2 4p WITHDRAWABLE FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0369",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-withdrawable-fixing-50mm-acc42d2e4f",
+      "recordPath": "equipment/abb-xt2-4p-withdrawable-fixing-50mm-acc42d2e4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-withdrawable-fixing-50mm-acc42d2e4f.json"
+    },
+    {
+      "id": "abb-xt2-4p-withdrawable-fixing-70mm-a40bdcf8f1",
+      "name": "XT2 4p WITHDRAWABLE FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0370",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-withdrawable-fixing-70mm-a40bdcf8f1",
+      "recordPath": "equipment/abb-xt2-4p-withdrawable-fixing-70mm-a40bdcf8f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-withdrawable-fixing-70mm-a40bdcf8f1.json"
+    },
+    {
+      "id": "abb-xt2-4p-withdrawable-flange-rc-15c1a0dd95",
+      "name": "XT2 4p WITHDRAWABLE FLANGE RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0380",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-withdrawable-flange-rc-15c1a0dd95",
+      "recordPath": "equipment/abb-xt2-4p-withdrawable-flange-rc-15c1a0dd95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-withdrawable-flange-rc-15c1a0dd95.json"
+    },
+    {
+      "id": "abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4",
+      "name": "XT2 4p Withdrawable Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0901",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4",
+      "recordPath": "equipment/abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4.json"
+    },
+    {
+      "id": "abb-xt2-4p-fixed-with-residual-current-313b5f7223",
+      "name": "XT2 4p fixed with residual current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0120",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-fixed-with-residual-current-313b5f7223",
+      "recordPath": "equipment/abb-xt2-4p-fixed-with-residual-current-313b5f7223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-fixed-with-residual-current-313b5f7223.json"
+    },
+    {
+      "id": "abb-xt2-4p-plug-in-with-resudual-current-8752bf3187",
+      "name": "XT2 4p plug in with resudual current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0123",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-plug-in-with-resudual-current-8752bf3187",
+      "recordPath": "equipment/abb-xt2-4p-plug-in-with-resudual-current-8752bf3187.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-plug-in-with-resudual-current-8752bf3187.json"
+    },
+    {
+      "id": "abb-xt2-4p-withdrawable-with-residual-current-67b20080e8",
+      "name": "XT2 4p withdrawable with residual current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0124",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-4p-withdrawable-with-residual-current-67b20080e8",
+      "recordPath": "equipment/abb-xt2-4p-withdrawable-with-residual-current-67b20080e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-4p-withdrawable-with-residual-current-67b20080e8.json"
+    },
+    {
+      "id": "abb-xt2-circuit-breaker-with-actuator-for-flange-handle-09b25661ac",
+      "name": "XT2 Circuit Breaker with Actuator for Flange Handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1012",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-circuit-breaker-with-actuator-for-flange-handle-09b25661ac",
+      "recordPath": "equipment/abb-xt2-circuit-breaker-with-actuator-for-flange-handle-09b25661ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-circuit-breaker-with-actuator-for-flange-handle-09b25661ac.json"
+    },
+    {
+      "id": "abb-xt2-flange-handle-bell-crank-acutator-assembly-7349d776ef",
+      "name": "XT2 Flange Handle, Bell Crank & Acutator Assembly",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003R1011",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-flange-handle-bell-crank-acutator-assembly-7349d776ef",
+      "recordPath": "equipment/abb-xt2-flange-handle-bell-crank-acutator-assembly-7349d776ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-flange-handle-bell-crank-acutator-assembly-7349d776ef.json"
+    },
+    {
+      "id": "abb-xt2-iii-iv-fixed-rhe-padlock-ul-eaeeda8913",
+      "name": "XT2 III-IV fixed RHE padlock UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0146",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-iii-iv-fixed-rhe-padlock-ul-eaeeda8913",
+      "recordPath": "equipment/abb-xt2-iii-iv-fixed-rhe-padlock-ul-eaeeda8913.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-iii-iv-fixed-rhe-padlock-ul-eaeeda8913.json"
+    },
+    {
+      "id": "abb-xt2-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-2c55a53927",
+      "name": "XT2 III-IV fixed version front terminals F with lateral plug",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0150",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-2c55a53927",
+      "recordPath": "equipment/abb-xt2-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-2c55a53927.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-2c55a53927.json"
+    },
+    {
+      "id": "abb-xt2-iii-iv-withdrawable-rhe-padlock-ul-5698b310c2",
+      "name": "XT2 III-IV withdrawable RHE padlock UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0145",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-iii-iv-withdrawable-rhe-padlock-ul-5698b310c2",
+      "recordPath": "equipment/abb-xt2-iii-iv-withdrawable-rhe-padlock-ul-5698b310c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-iii-iv-withdrawable-rhe-padlock-ul-5698b310c2.json"
+    },
+    {
+      "id": "abb-xt2-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-a33e19a080",
+      "name": "XT2 III-IV withdrawable version extended front terminals EF with lateral plug",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0151",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-a33e19a080",
+      "recordPath": "equipment/abb-xt2-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-a33e19a080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-a33e19a080.json"
+    },
+    {
+      "id": "abb-xt2-iv-fixed-version-horizontal-rear-terminals-with-residual-current-release-891f0b8b24",
+      "name": "XT2 IV Fixed version horizontal rear terminals with residual current release",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0142",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-iv-fixed-version-horizontal-rear-terminals-with-residual-current-release-891f0b8b24",
+      "recordPath": "equipment/abb-xt2-iv-fixed-version-horizontal-rear-terminals-with-residual-current-release-891f0b8b24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-iv-fixed-version-horizontal-rear-terminals-with-residual-current-release-891f0b8b24.json"
+    },
+    {
+      "id": "abb-xt2-lateral-rhs-r-l-db35af3516",
+      "name": "XT2 Lateral RHS-R-L",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000721R0143",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-lateral-rhs-r-l-db35af3516",
+      "recordPath": "equipment/abb-xt2-lateral-rhs-r-l-db35af3516.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-lateral-rhs-r-l-db35af3516.json"
+    },
+    {
+      "id": "abb-xt2-xt4-external-current-sensor-041146b628",
+      "name": "XT2-XT4 External current sensor",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0908",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-xt4-external-current-sensor-041146b628",
+      "recordPath": "equipment/abb-xt2-xt4-external-current-sensor-041146b628.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-xt4-external-current-sensor-041146b628.json"
+    },
+    {
+      "id": "abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-position-d8ce1b9d05",
+      "name": "XT2-XT4 PLL Fixed lock with padlocks in open position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0823",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-position-d8ce1b9d05",
+      "recordPath": "equipment/abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-position-d8ce1b9d05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-position-d8ce1b9d05.json"
+    },
+    {
+      "id": "abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-closed-position-790d446cb5",
+      "name": "XT2-XT4 PLL Fixed lock with padlocks in open-closed position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0824",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-closed-position-790d446cb5",
+      "recordPath": "equipment/abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-closed-position-790d446cb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-xt4-pll-fixed-lock-with-padlocks-in-open-closed-position-790d446cb5.json"
+    },
+    {
+      "id": "abb-xt2-xt4-rhe-mb-metallic-rotary-handle-operating-mechanism-base-78edb7b70d",
+      "name": "XT2-XT4 RHE MB - Metallic rotary handle operating mechanism base",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0798",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt2-xt4-rhe-mb-metallic-rotary-handle-operating-mechanism-base-78edb7b70d",
+      "recordPath": "equipment/abb-xt2-xt4-rhe-mb-metallic-rotary-handle-operating-mechanism-base-78edb7b70d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt2-xt4-rhe-mb-metallic-rotary-handle-operating-mechanism-base-78edb7b70d.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-f-bottom-0a94954990",
+      "name": "XT3 3P Fixed F bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0814",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-f-bottom-0a94954990",
+      "recordPath": "equipment/abb-xt3-3p-fixed-f-bottom-0a94954990.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-f-bottom-0a94954990.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-f-top-9cae996413",
+      "name": "XT3 3P Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0813",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-f-top-9cae996413",
+      "recordPath": "equipment/abb-xt3-3p-fixed-f-top-9cae996413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-f-top-9cae996413.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-rhs-left-max-1ea39d2923",
+      "name": "XT3 3p 4p Fixed RHS left max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0836",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-rhs-left-max-1ea39d2923",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-rhs-left-max-1ea39d2923.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-rhs-left-max-1ea39d2923.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-rhs-right-max-a204349706",
+      "name": "XT3 3p 4p Fixed RHS right max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0834",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-rhs-right-max-a204349706",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-rhs-right-max-a204349706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-rhs-right-max-a204349706.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-rhs-right-min-5f1b86544a",
+      "name": "XT3 3p 4p Fixed RHS right min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0833",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-rhs-right-min-5f1b86544a",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-rhs-right-min-5f1b86544a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-rhs-right-min-5f1b86544a.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-f-2af377aacb",
+      "name": "XT3 3p FIXED F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0409",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-f-2af377aacb",
+      "recordPath": "equipment/abb-xt3-3p-fixed-f-2af377aacb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-f-2af377aacb.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-ltc-low-9e3fb71d00",
+      "name": "XT3 3p FIXED LTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0420",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-ltc-low-9e3fb71d00",
+      "recordPath": "equipment/abb-xt3-3p-fixed-ltc-low-9e3fb71d00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-ltc-low-9e3fb71d00.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-ltc-up-d99b898639",
+      "name": "XT3 3p FIXED LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0421",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-ltc-up-d99b898639",
+      "recordPath": "equipment/abb-xt3-3p-fixed-ltc-up-d99b898639.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-ltc-up-d99b898639.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-rc221-rc222-125413e1e7",
+      "name": "XT3 3p FIXED RC221-RC222",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0436",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-rc221-rc222-125413e1e7",
+      "recordPath": "equipment/abb-xt3-3p-fixed-rc221-rc222-125413e1e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-rc221-rc222-125413e1e7.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-rhs-left-min-c18f52964b",
+      "name": "XT3 3p Fixed RHS left min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0835",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-rhs-left-min-c18f52964b",
+      "recordPath": "equipment/abb-xt3-3p-fixed-rhs-left-min-c18f52964b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-rhs-left-min-c18f52964b.json"
+    },
+    {
+      "id": "abb-xt3-3p-fixed-with-residual-cueent-rc-sel-rc-inst-fc803a94e8",
+      "name": "XT3 3p fixed with Residual cueent RC Sel/RC Inst",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-fixed-with-residual-cueent-rc-sel-rc-inst-fc803a94e8",
+      "recordPath": "equipment/abb-xt3-3p-fixed-with-residual-cueent-rc-sel-rc-inst-fc803a94e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-fixed-with-residual-cueent-rc-sel-rc-inst-fc803a94e8.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-3p-4p-plug-in-with-front-terminals-spread-db76c0dd68",
+      "name": "XT3 3p-4p 3p-4p plug in with front terminals spread",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-3p-4p-plug-in-with-front-terminals-spread-db76c0dd68",
+      "recordPath": "equipment/abb-xt3-3p-4p-3p-4p-plug-in-with-front-terminals-spread-db76c0dd68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-3p-4p-plug-in-with-front-terminals-spread-db76c0dd68.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-plug-in-for-cual-cables-front-terminals-30-150mmq-cdc18fbb34",
+      "name": "XT3 3p-4p Plug in for CuAl cables front terminals 30...150mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0122",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-plug-in-for-cual-cables-front-terminals-30-150mmq-cdc18fbb34",
+      "recordPath": "equipment/abb-xt3-3p-4p-plug-in-for-cual-cables-front-terminals-30-150mmq-cdc18fbb34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-plug-in-for-cual-cables-front-terminals-30-150mmq-cdc18fbb34.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-rhs-r-l-lateral-f8f3e701c6",
+      "name": "XT3 3p-4p RHS-R-L lateral",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0132",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-rhs-r-l-lateral-f8f3e701c6",
+      "recordPath": "equipment/abb-xt3-3p-4p-rhs-r-l-lateral-f8f3e701c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-rhs-r-l-lateral-f8f3e701c6.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-din-channel-assemby-0569446150",
+      "name": "XT3 3p-4p fixed DIN channel assemby",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0113",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-din-channel-assemby-0569446150",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-din-channel-assemby-0569446150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-din-channel-assemby-0569446150.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-direct-rotary-handle-48c84a86f7",
+      "name": "XT3 3p-4p fixed direct rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-direct-rotary-handle-48c84a86f7",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-direct-rotary-handle-48c84a86f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-direct-rotary-handle-48c84a86f7.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-extended-front-terminals-14a84c2d9c",
+      "name": "XT3 3p-4p fixed extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0123",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-extended-front-terminals-14a84c2d9c",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-extended-front-terminals-14a84c2d9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-extended-front-terminals-14a84c2d9c.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-front-cables-fc-cu-or-mc-terminals-b3f4402f91",
+      "name": "XT3 3p-4p fixed front cables FC Cu or MC terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-front-cables-fc-cu-or-mc-terminals-b3f4402f91",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-front-cables-fc-cu-or-mc-terminals-b3f4402f91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-front-cables-fc-cu-or-mc-terminals-b3f4402f91.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-front-for-cables-terminals-cu-al-30-150mmq-6f6f7f56e5",
+      "name": "XT3 3p-4p fixed front for cables terminals Cu Al 30...150mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-front-for-cables-terminals-cu-al-30-150mmq-6f6f7f56e5",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-front-for-cables-terminals-cu-al-30-150mmq-6f6f7f56e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-front-for-cables-terminals-cu-al-30-150mmq-6f6f7f56e5.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-front-spread-extended-terminals-f7ff91e261",
+      "name": "XT3 3p-4p fixed front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-front-spread-extended-terminals-f7ff91e261",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-front-spread-extended-terminals-f7ff91e261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-front-spread-extended-terminals-f7ff91e261.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-front-terminals-ff6713c04d",
+      "name": "XT3 3p-4p fixed front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-front-terminals-ff6713c04d",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-front-terminals-ff6713c04d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-front-terminals-ff6713c04d.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-front-terminals-for-cables-fc-cual-and-2x150mm2-5d95de25ae",
+      "name": "XT3 3p-4p fixed front terminals for cables FC CuAl and 2x150mm2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-front-terminals-for-cables-fc-cual-and-2x150mm2-5d95de25ae",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-front-terminals-for-cables-fc-cual-and-2x150mm2-5d95de25ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-front-terminals-for-cables-fc-cual-and-2x150mm2-5d95de25ae.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-rear-terminals-afb97adbbf",
+      "name": "XT3 3p-4p fixed rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-rear-terminals-afb97adbbf",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-rear-terminals-afb97adbbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-rear-terminals-afb97adbbf.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-rotary-handle-rhe-wide-type-504cef2ad5",
+      "name": "XT3 3p-4p fixed rotary handle RHE wide type",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0130",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-rotary-handle-rhe-wide-type-504cef2ad5",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-rotary-handle-rhe-wide-type-504cef2ad5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-rotary-handle-rhe-wide-type-504cef2ad5.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-with-front-terminals-2x150mm2-e52d828c0e",
+      "name": "XT3 3p-4p fixed with front terminals 2x150mm2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0133",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-with-front-terminals-2x150mm2-e52d828c0e",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-with-front-terminals-2x150mm2-e52d828c0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-with-front-terminals-2x150mm2-e52d828c0e.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-with-optional-flange-46a6ab2bee",
+      "name": "XT3 3p-4p fixed with optional flange",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-with-optional-flange-46a6ab2bee",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-with-optional-flange-46a6ab2bee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-with-optional-flange-46a6ab2bee.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-fixed-with-transmetted-rotary-handle-ef36392408",
+      "name": "XT3 3p-4p fixed with transmetted rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-fixed-with-transmetted-rotary-handle-ef36392408",
+      "recordPath": "equipment/abb-xt3-3p-4p-fixed-with-transmetted-rotary-handle-ef36392408.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-fixed-with-transmetted-rotary-handle-ef36392408.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-plug-in-for-fc-al-cables-front-terminals-9e33454079",
+      "name": "XT3 3p-4p plug in for Fc Al cables front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-plug-in-for-fc-al-cables-front-terminals-9e33454079",
+      "recordPath": "equipment/abb-xt3-3p-4p-plug-in-for-fc-al-cables-front-terminals-9e33454079.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-plug-in-for-fc-al-cables-front-terminals-9e33454079.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-plug-in-for-cables-fc-cu-or-mc-front-terminals-a88a9c5893",
+      "name": "XT3 3p-4p plug in for cables FC Cu or MC front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-plug-in-for-cables-fc-cu-or-mc-front-terminals-a88a9c5893",
+      "recordPath": "equipment/abb-xt3-3p-4p-plug-in-for-cables-fc-cu-or-mc-front-terminals-a88a9c5893.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-plug-in-for-cables-fc-cu-or-mc-front-terminals-a88a9c5893.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-plug-in-with-fccual-terminals-2-150mmq-66c24872d4",
+      "name": "XT3 3p-4p plug in with FcCuAl terminals 2*150mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0120",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-plug-in-with-fccual-terminals-2-150mmq-66c24872d4",
+      "recordPath": "equipment/abb-xt3-3p-4p-plug-in-with-fccual-terminals-2-150mmq-66c24872d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-plug-in-with-fccual-terminals-2-150mmq-66c24872d4.json"
+    },
+    {
+      "id": "abb-xt3-3p-4p-plug-in-with-extended-front-terminals-8a19e4a86b",
+      "name": "XT3 3p-4p plug in with extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-3p-4p-plug-in-with-extended-front-terminals-8a19e4a86b",
+      "recordPath": "equipment/abb-xt3-3p-4p-plug-in-with-extended-front-terminals-8a19e4a86b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-3p-4p-plug-in-with-extended-front-terminals-8a19e4a86b.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-f-bottom-a84f9fbac7",
+      "name": "XT3 4P Fixed F bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0816",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-f-bottom-a84f9fbac7",
+      "recordPath": "equipment/abb-xt3-4p-fixed-f-bottom-a84f9fbac7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-f-bottom-a84f9fbac7.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-f-top-c622539f2c",
+      "name": "XT3 4P Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0815",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-f-top-c622539f2c",
+      "recordPath": "equipment/abb-xt3-4p-fixed-f-top-c622539f2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-f-top-c622539f2c.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-f-ecdd3b980d",
+      "name": "XT3 4p FIXED F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0483",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-f-ecdd3b980d",
+      "recordPath": "equipment/abb-xt3-4p-fixed-f-ecdd3b980d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-f-ecdd3b980d.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-ltc-low-f70b7de509",
+      "name": "XT3 4p FIXED LTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0494",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-ltc-low-f70b7de509",
+      "recordPath": "equipment/abb-xt3-4p-fixed-ltc-low-f70b7de509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-ltc-low-f70b7de509.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-ltc-up-03649261d1",
+      "name": "XT3 4p FIXED LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0495",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-ltc-up-03649261d1",
+      "recordPath": "equipment/abb-xt3-4p-fixed-ltc-up-03649261d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-ltc-up-03649261d1.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-rc221-rc222-7bb1ef3e12",
+      "name": "XT3 4p FIXED RC221-RC222",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0510",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-rc221-rc222-7bb1ef3e12",
+      "recordPath": "equipment/abb-xt3-4p-fixed-rc221-rc222-7bb1ef3e12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-rc221-rc222-7bb1ef3e12.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-rhs-left-min-0237db369b",
+      "name": "XT3 4p Fixed RHS left min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0844",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-rhs-left-min-0237db369b",
+      "recordPath": "equipment/abb-xt3-4p-fixed-rhs-left-min-0237db369b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-rhs-left-min-0237db369b.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-ef-low-ce13f5def7",
+      "name": "XT3 4p PLUG-IN EF LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0520",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-ef-low-ce13f5def7",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-ef-low-ce13f5def7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-ef-low-ce13f5def7.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-ef-up-395e577da4",
+      "name": "XT3 4p PLUG-IN EF UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0521",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-ef-up-395e577da4",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-ef-up-395e577da4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-ef-up-395e577da4.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-fccu-low-48dd6026f7",
+      "name": "XT3 4p PLUG-IN FCCu LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0528",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-fccu-low-48dd6026f7",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-fccu-low-48dd6026f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-fccu-low-48dd6026f7.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-low-80d358a4ac",
+      "name": "XT3 4p PLUG-IN FCCuAl EXTERNAL TERMINALS 2x150mm2 LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0526",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-low-80d358a4ac",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-low-80d358a4ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-low-80d358a4ac.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-up-73a9e1c0e9",
+      "name": "XT3 4p PLUG-IN FCCuAl EXTERNAL TERMINALS 2x150mm2 UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0527",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-up-73a9e1c0e9",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-up-73a9e1c0e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-fccual-external-terminals-2x150mm2-up-73a9e1c0e9.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-fixing-50mm-1750858592",
+      "name": "XT3 4p PLUG-IN FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0530",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-fixing-50mm-1750858592",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-fixing-50mm-1750858592.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-fixing-50mm-1750858592.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-fixing-70mm-13a0e8de90",
+      "name": "XT3 4p PLUG-IN FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0531",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-fixing-70mm-13a0e8de90",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-fixing-70mm-13a0e8de90.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-fixing-70mm-13a0e8de90.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-hr-low-b8e7654ee3",
+      "name": "XT3 4p PLUG-IN HR LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0532",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-hr-low-b8e7654ee3",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-hr-low-b8e7654ee3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-hr-low-b8e7654ee3.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-hr-up-f252aa14e2",
+      "name": "XT3 4p PLUG-IN HR UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0533",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-hr-up-f252aa14e2",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-hr-up-f252aa14e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-hr-up-f252aa14e2.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-htc-low-d1a9718781",
+      "name": "XT3 4p PLUG-IN HTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0534",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-htc-low-d1a9718781",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-htc-low-d1a9718781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-htc-low-d1a9718781.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-htc-up-180531573f",
+      "name": "XT3 4p PLUG-IN HTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0535",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-htc-up-180531573f",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-htc-up-180531573f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-htc-up-180531573f.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547",
+      "name": "XT3 4p PLUG-IN PS 100mmx48mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0544",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-ps-100mmx48mm-up-8dccb5a70f",
+      "name": "XT3 4p PLUG-IN PS 100mmx48mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0545",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-ps-100mmx48mm-up-8dccb5a70f",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-ps-100mmx48mm-up-8dccb5a70f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-ps-100mmx48mm-up-8dccb5a70f.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-ps-200mm-low-09b378915c",
+      "name": "XT3 4p PLUG-IN PS 200mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0548",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-ps-200mm-low-09b378915c",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-ps-200mm-low-09b378915c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-ps-200mm-low-09b378915c.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-ps-200mm-up-2721b7ab31",
+      "name": "XT3 4p PLUG-IN PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0549",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-ps-200mm-up-2721b7ab31",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-ps-200mm-up-2721b7ab31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-ps-200mm-up-2721b7ab31.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42",
+      "name": "XT3 4p PLUG-IN PSR 90mm LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0542",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e",
+      "name": "XT3 4p PLUG-IN PSR 90mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0543",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e.json"
+    },
+    {
+      "id": "abb-xt3-4p-plug-in-vr-low-138c119a39",
+      "name": "XT3 4p PLUG-IN VR LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0550",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-plug-in-vr-low-138c119a39",
+      "recordPath": "equipment/abb-xt3-4p-plug-in-vr-low-138c119a39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-plug-in-vr-low-138c119a39.json"
+    },
+    {
+      "id": "abb-xt3-4p-rc-type-b-91960fdd17",
+      "name": "XT3 4p RC Type B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0801",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-rc-type-b-91960fdd17",
+      "recordPath": "equipment/abb-xt3-4p-rc-type-b-91960fdd17.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-rc-type-b-91960fdd17.json"
+    },
+    {
+      "id": "abb-xt3-4p-fixed-with-residual-current-rc-sel-rc-inst-77a89753f9",
+      "name": "XT3 4p fixed with residual current RC Sel/RC Inst",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0115",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-4p-fixed-with-residual-current-rc-sel-rc-inst-77a89753f9",
+      "recordPath": "equipment/abb-xt3-4p-fixed-with-residual-current-rc-sel-rc-inst-77a89753f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-4p-fixed-with-residual-current-rc-sel-rc-inst-77a89753f9.json"
+    },
+    {
+      "id": "abb-xt3-circuit-breaker-with-actuator-for-flange-handle-242e5de2dd",
+      "name": "XT3 Circuit Breaker with Actuator for Flange Handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1022",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-circuit-breaker-with-actuator-for-flange-handle-242e5de2dd",
+      "recordPath": "equipment/abb-xt3-circuit-breaker-with-actuator-for-flange-handle-242e5de2dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-circuit-breaker-with-actuator-for-flange-handle-242e5de2dd.json"
+    },
+    {
+      "id": "abb-xt3-flange-handle-bell-crank-acutator-assembly-4f0a3e6c6b",
+      "name": "XT3 Flange Handle, Bell Crank & Acutator Assembly",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003R1021",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-flange-handle-bell-crank-acutator-assembly-4f0a3e6c6b",
+      "recordPath": "equipment/abb-xt3-flange-handle-bell-crank-acutator-assembly-4f0a3e6c6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-flange-handle-bell-crank-acutator-assembly-4f0a3e6c6b.json"
+    },
+    {
+      "id": "abb-xt3-iii-iv-rhe-padlock-ul-d639c71209",
+      "name": "XT3 III-IV RHE Padlock UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0140",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-iii-iv-rhe-padlock-ul-d639c71209",
+      "recordPath": "equipment/abb-xt3-iii-iv-rhe-padlock-ul-d639c71209.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-iii-iv-rhe-padlock-ul-d639c71209.json"
+    },
+    {
+      "id": "abb-xt3-iii-iv-plug-in-rear-terminals-hr-vr-ab2b01079d",
+      "name": "XT3 III-IV plug-in rear terminals HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-iii-iv-plug-in-rear-terminals-hr-vr-ab2b01079d",
+      "recordPath": "equipment/abb-xt3-iii-iv-plug-in-rear-terminals-hr-vr-ab2b01079d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-iii-iv-plug-in-rear-terminals-hr-vr-ab2b01079d.json"
+    },
+    {
+      "id": "abb-xt3-iv-fixed-hr-terminal-with-residual-current-de603584bc",
+      "name": "XT3 IV Fixed HR Terminal with Residual Current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000720R0131",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-iv-fixed-hr-terminal-with-residual-current-de603584bc",
+      "recordPath": "equipment/abb-xt3-iv-fixed-hr-terminal-with-residual-current-de603584bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-iv-fixed-hr-terminal-with-residual-current-de603584bc.json"
+    },
+    {
+      "id": "abb-xt3-pll-fixed-lock-with-padlocks-in-open-position-a3a030fb2b",
+      "name": "XT3 PLL Fixed lock with padlocks in open position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0821",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-pll-fixed-lock-with-padlocks-in-open-position-a3a030fb2b",
+      "recordPath": "equipment/abb-xt3-pll-fixed-lock-with-padlocks-in-open-position-a3a030fb2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-pll-fixed-lock-with-padlocks-in-open-position-a3a030fb2b.json"
+    },
+    {
+      "id": "abb-xt3-pll-fixed-lock-with-padlocks-in-open-closed-position-923a2d7883",
+      "name": "XT3 PLL Fixed lock with padlocks in open-closed position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0822",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-pll-fixed-lock-with-padlocks-in-open-closed-position-923a2d7883",
+      "recordPath": "equipment/abb-xt3-pll-fixed-lock-with-padlocks-in-open-closed-position-923a2d7883.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-pll-fixed-lock-with-padlocks-in-open-closed-position-923a2d7883.json"
+    },
+    {
+      "id": "abb-xt3-pll-removable-lock-with-padlocks-in-open-position-7fa4e8a497",
+      "name": "XT3 PLL Removable lock with padlocks in open position",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0820",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-pll-removable-lock-with-padlocks-in-open-position-7fa4e8a497",
+      "recordPath": "equipment/abb-xt3-pll-removable-lock-with-padlocks-in-open-position-7fa4e8a497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-pll-removable-lock-with-padlocks-in-open-position-7fa4e8a497.json"
+    },
+    {
+      "id": "abb-xt3-rhe-mb-metallic-rotary-handle-operating-mechanism-base-72b3201998",
+      "name": "XT3 RHE MB - Metallic rotary handle operating mechanism base",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0797",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt3-rhe-mb-metallic-rotary-handle-operating-mechanism-base-72b3201998",
+      "recordPath": "equipment/abb-xt3-rhe-mb-metallic-rotary-handle-operating-mechanism-base-72b3201998.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt3-rhe-mb-metallic-rotary-handle-operating-mechanism-base-72b3201998.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-rhs-right-max-3ba8546910",
+      "name": "XT4 3p 4p Fixed RHS right max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0838",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-rhs-right-max-3ba8546910",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-rhs-right-max-3ba8546910.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-rhs-right-max-3ba8546910.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-rhs-right-min-18462fafae",
+      "name": "XT4 3p 4p Fixed RHS right min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0837",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-rhs-right-min-18462fafae",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-rhs-right-min-18462fafae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-rhs-right-min-18462fafae.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-f-a3e35c4ed6",
+      "name": "XT4 3p FIXED F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002230A1003",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-f-a3e35c4ed6",
+      "recordPath": "equipment/abb-xt4-3p-fixed-f-a3e35c4ed6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-f-a3e35c4ed6.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-f-ekip-touch-feeaac2289",
+      "name": "XT4 3p FIXED F - EKIP TOUCH",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0557",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-f-ekip-touch-feeaac2289",
+      "recordPath": "equipment/abb-xt4-3p-fixed-f-ekip-touch-feeaac2289.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-f-ekip-touch-feeaac2289.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ltc-low-7e8029e60e",
+      "name": "XT4 3p FIXED LTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0567",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ltc-low-7e8029e60e",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ltc-low-7e8029e60e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ltc-low-7e8029e60e.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-ltc-up-e235f8664f",
+      "name": "XT4 3p FIXED LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0568",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-ltc-up-e235f8664f",
+      "recordPath": "equipment/abb-xt4-3p-fixed-ltc-up-e235f8664f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-ltc-up-e235f8664f.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-f-bottom-6ac0b28764",
+      "name": "XT4 3p Fixed F bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0802",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-f-bottom-6ac0b28764",
+      "recordPath": "equipment/abb-xt4-3p-fixed-f-bottom-6ac0b28764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-f-bottom-6ac0b28764.json"
+    },
+    {
+      "id": "abb-xt4-3p-fixed-f-top-57d59c9134",
+      "name": "XT4 3p Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0799",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-fixed-f-top-57d59c9134",
+      "recordPath": "equipment/abb-xt4-3p-fixed-f-top-57d59c9134.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-fixed-f-top-57d59c9134.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-fixing-50mm-4ecc5329fa",
+      "name": "XT4 3p PLUG-IN FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0598",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-fixing-50mm-4ecc5329fa",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-fixing-50mm-4ecc5329fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-fixing-50mm-4ecc5329fa.json"
+    },
+    {
+      "id": "abb-xt4-3p-plug-in-fixing-70mm-284b9af2dc",
+      "name": "XT4 3p PLUG-IN FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0599",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-plug-in-fixing-70mm-284b9af2dc",
+      "recordPath": "equipment/abb-xt4-3p-plug-in-fixing-70mm-284b9af2dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-plug-in-fixing-70mm-284b9af2dc.json"
+    },
+    {
+      "id": "abb-xt4-3p-withdrawable-fixing-50mm-897174ca78",
+      "name": "XT4 3p WITHDRAWABLE FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0638",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-withdrawable-fixing-50mm-897174ca78",
+      "recordPath": "equipment/abb-xt4-3p-withdrawable-fixing-50mm-897174ca78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-withdrawable-fixing-50mm-897174ca78.json"
+    },
+    {
+      "id": "abb-xt4-3p-withdrawable-fixing-70mm-2f3ed39c5f",
+      "name": "XT4 3p WITHDRAWABLE FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0639",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-withdrawable-fixing-70mm-2f3ed39c5f",
+      "recordPath": "equipment/abb-xt4-3p-withdrawable-fixing-70mm-2f3ed39c5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-withdrawable-fixing-70mm-2f3ed39c5f.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-front-terminals-with-residual-current-1d385f0a34",
+      "name": "XT4 3p-4p Plug in front terminals with residual current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0128",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-front-terminals-with-residual-current-1d385f0a34",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-front-terminals-with-residual-current-1d385f0a34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-front-terminals-with-residual-current-1d385f0a34.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-din-channel-assemby-4a5eac00e3",
+      "name": "XT4 3p-4p fixed DIN channel assemby",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0119",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-din-channel-assemby-4a5eac00e3",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-din-channel-assemby-4a5eac00e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-din-channel-assemby-4a5eac00e3.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-front-terminals-with-residual-current-ff83f109d4",
+      "name": "XT4 3p-4p fixed front terminals with residual current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0127",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-front-terminals-with-residual-current-ff83f109d4",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-front-terminals-with-residual-current-ff83f109d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-front-terminals-with-residual-current-ff83f109d4.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-transmetted-rotary-handle-rhe-ff9969dba7",
+      "name": "XT4 3p-4p fixed transmetted rotary handle RHE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-transmetted-rotary-handle-rhe-ff9969dba7",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-transmetted-rotary-handle-rhe-ff9969dba7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-transmetted-rotary-handle-rhe-ff9969dba7.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-ekip-display-ekip-led-meter-92dea14753",
+      "name": "XT4 3p-4p fixed with Ekip Display - Ekip Led Meter",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0121",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-ekip-display-ekip-led-meter-92dea14753",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-ekip-display-ekip-led-meter-92dea14753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-ekip-display-ekip-led-meter-92dea14753.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-fld-front-panel-with-padlock-device-c9eaff1c2f",
+      "name": "XT4 3p-4p fixed with FLD front panel with padlock device",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0116",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-fld-front-panel-with-padlock-device-c9eaff1c2f",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-fld-front-panel-with-padlock-device-c9eaff1c2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-fld-front-panel-with-padlock-device-c9eaff1c2f.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-fccu-mc-terminals-a398660478",
+      "name": "XT4 3p-4p fixed with FcCu - Mc terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-fccu-mc-terminals-a398660478",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-fccu-mc-terminals-a398660478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-fccu-mc-terminals-a398660478.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-fccual-terminals-07a5e16153",
+      "name": "XT4 3p-4p fixed with FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-fccual-terminals-07a5e16153",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-fccual-terminals-07a5e16153.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-fccual-terminals-07a5e16153.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-direct-rotary-handle-rhd-52f123d227",
+      "name": "XT4 3p-4p fixed with direct rotary handle RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-direct-rotary-handle-rhd-52f123d227",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-direct-rotary-handle-rhd-52f123d227.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-direct-rotary-handle-rhd-52f123d227.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-front-spread-extended-terminals-179b3f037e",
+      "name": "XT4 3p-4p fixed with front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-front-spread-extended-terminals-179b3f037e",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-front-spread-extended-terminals-179b3f037e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-front-spread-extended-terminals-179b3f037e.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-front-terminals-5b98d02ee3",
+      "name": "XT4 3p-4p fixed with front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-front-terminals-5b98d02ee3",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-front-terminals-5b98d02ee3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-front-terminals-5b98d02ee3.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-with-rear-adjustable-terminals-4b83deb86b",
+      "name": "XT4 3p-4p fixed with rear adjustable terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-with-rear-adjustable-terminals-4b83deb86b",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-with-rear-adjustable-terminals-4b83deb86b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-with-rear-adjustable-terminals-4b83deb86b.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-fixed-plug-in-with-optional-flange-15f7ab468d",
+      "name": "XT4 3p-4p fixed-plug in with optional flange",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0132",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-fixed-plug-in-with-optional-flange-15f7ab468d",
+      "recordPath": "equipment/abb-xt4-3p-4p-fixed-plug-in-with-optional-flange-15f7ab468d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-fixed-plug-in-with-optional-flange-15f7ab468d.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-ekip-display-ekip-led-meter-bba13d407c",
+      "name": "XT4 3p-4p plug in with Ekip Display- Ekip Led Meter",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0125",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-ekip-display-ekip-led-meter-bba13d407c",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-ekip-display-ekip-led-meter-bba13d407c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-ekip-display-ekip-led-meter-bba13d407c.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-fccual-esternal-terminals-2x150mmq-2c131a1f65",
+      "name": "XT4 3p-4p plug in with FcCuAl esternal terminals 2x150mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0136",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-fccual-esternal-terminals-2x150mmq-2c131a1f65",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-fccual-esternal-terminals-2x150mmq-2c131a1f65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-fccual-esternal-terminals-2x150mmq-2c131a1f65.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-extended-front-terminals-56bf05ff43",
+      "name": "XT4 3p-4p plug in with extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-extended-front-terminals-56bf05ff43",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-extended-front-terminals-56bf05ff43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-extended-front-terminals-56bf05ff43.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-front-fccu-mc-terminals-5cce4faff5",
+      "name": "XT4 3p-4p plug in with front FcCu-Mc terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-front-fccu-mc-terminals-5cce4faff5",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-front-fccu-mc-terminals-5cce4faff5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-front-fccu-mc-terminals-5cce4faff5.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-front-fccual-terminals-0b8e89783d",
+      "name": "XT4 3p-4p plug in with front FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-front-fccual-terminals-0b8e89783d",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-front-fccual-terminals-0b8e89783d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-front-fccual-terminals-0b8e89783d.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-b025cb1dc1",
+      "name": "XT4 3p-4p plug in with front panel with padlock device FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0124",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-b025cb1dc1",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-b025cb1dc1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-front-panel-with-padlock-device-fld-b025cb1dc1.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-front-spread-extended-terminals-dcbd544d54",
+      "name": "XT4 3p-4p plug in with front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-front-spread-extended-terminals-dcbd544d54",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-front-spread-extended-terminals-dcbd544d54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-front-spread-extended-terminals-dcbd544d54.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-plug-in-with-rear-terminals-hr-vr-94f6d3a531",
+      "name": "XT4 3p-4p plug in with rear terminals HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-plug-in-with-rear-terminals-hr-vr-94f6d3a531",
+      "recordPath": "equipment/abb-xt4-3p-4p-plug-in-with-rear-terminals-hr-vr-94f6d3a531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-plug-in-with-rear-terminals-hr-vr-94f6d3a531.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-extended-front-terminals-4936059fee",
+      "name": "XT4 3p-4p withdrawable extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0113",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-extended-front-terminals-4936059fee",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-extended-front-terminals-4936059fee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-extended-front-terminals-4936059fee.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-front-terminals-with-residual-current-d161f557ad",
+      "name": "XT4 3p-4p withdrawable front terminals with residual current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0129",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-front-terminals-with-residual-current-d161f557ad",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-front-terminals-with-residual-current-d161f557ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-front-terminals-with-residual-current-d161f557ad.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-rear-terminals-hr-vr-292fd42fb6",
+      "name": "XT4 3p-4p withdrawable rear terminals HR-VR",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-rear-terminals-hr-vr-292fd42fb6",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-rear-terminals-hr-vr-292fd42fb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-rear-terminals-hr-vr-292fd42fb6.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-with-fccu-mc-terminals-8042a47f89",
+      "name": "XT4 3p-4p withdrawable with FcCu-Mc terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-with-fccu-mc-terminals-8042a47f89",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-with-fccu-mc-terminals-8042a47f89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-with-fccu-mc-terminals-8042a47f89.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-with-fccual-esternal-terminals-2x150mmq-e0b3b20cf9",
+      "name": "XT4 3p-4p withdrawable with FcCuAl esternal terminals 2x150mmq",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0137",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-with-fccual-esternal-terminals-2x150mmq-e0b3b20cf9",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-with-fccual-esternal-terminals-2x150mmq-e0b3b20cf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-with-fccual-esternal-terminals-2x150mmq-e0b3b20cf9.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-with-fccual-terminals-5ce2f5539b",
+      "name": "XT4 3p-4p withdrawable with FcCuAl terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-with-fccual-terminals-5ce2f5539b",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-with-fccual-terminals-5ce2f5539b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-with-fccual-terminals-5ce2f5539b.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-aabf6ec389",
+      "name": "XT4 3p-4p withdrawable with front panel with padlock device FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0131",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-aabf6ec389",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-aabf6ec389.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-with-front-panel-with-padlock-device-fld-aabf6ec389.json"
+    },
+    {
+      "id": "abb-xt4-3p-4p-withdrawable-with-front-spread-extended-terminals-f63d2ae07b",
+      "name": "XT4 3p-4p withdrawable with front spread extended terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0110",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-3p-4p-withdrawable-with-front-spread-extended-terminals-f63d2ae07b",
+      "recordPath": "equipment/abb-xt4-3p-4p-withdrawable-with-front-spread-extended-terminals-f63d2ae07b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-3p-4p-withdrawable-with-front-spread-extended-terminals-f63d2ae07b.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-f-b40011ef32",
+      "name": "XT4 4p FIXED F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0677",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-f-b40011ef32",
+      "recordPath": "equipment/abb-xt4-4p-fixed-f-b40011ef32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-f-b40011ef32.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-ltc-low-6841509770",
+      "name": "XT4 4p FIXED LTC LOW",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0687",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-ltc-low-6841509770",
+      "recordPath": "equipment/abb-xt4-4p-fixed-ltc-low-6841509770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-ltc-low-6841509770.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-ltc-up-2b89222e85",
+      "name": "XT4 4p FIXED LTC UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0688",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-ltc-up-2b89222e85",
+      "recordPath": "equipment/abb-xt4-4p-fixed-ltc-up-2b89222e85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-ltc-up-2b89222e85.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-f-bottom-bc5c8522ef",
+      "name": "XT4 4p Fixed F bottom",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0804",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-f-bottom-bc5c8522ef",
+      "recordPath": "equipment/abb-xt4-4p-fixed-f-bottom-bc5c8522ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-f-bottom-bc5c8522ef.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-f-top-125b9e527c",
+      "name": "XT4 4p Fixed F top",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0803",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-f-top-125b9e527c",
+      "recordPath": "equipment/abb-xt4-4p-fixed-f-top-125b9e527c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-f-top-125b9e527c.json"
+    },
+    {
+      "id": "abb-xt4-4p-fixed-rhs-left-min-4994b7d78a",
+      "name": "XT4 4p Fixed RHS left min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0843",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-fixed-rhs-left-min-4994b7d78a",
+      "recordPath": "equipment/abb-xt4-4p-fixed-rhs-left-min-4994b7d78a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-fixed-rhs-left-min-4994b7d78a.json"
+    },
+    {
+      "id": "abb-xt4-4p-plug-in-fixing-50mm-200a275d69",
+      "name": "XT4 4p PLUG-IN FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0720",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-plug-in-fixing-50mm-200a275d69",
+      "recordPath": "equipment/abb-xt4-4p-plug-in-fixing-50mm-200a275d69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-plug-in-fixing-50mm-200a275d69.json"
+    },
+    {
+      "id": "abb-xt4-4p-plug-in-fixing-70mm-8765a472f4",
+      "name": "XT4 4p PLUG-IN FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0721",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-plug-in-fixing-70mm-8765a472f4",
+      "recordPath": "equipment/abb-xt4-4p-plug-in-fixing-70mm-8765a472f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-plug-in-fixing-70mm-8765a472f4.json"
+    },
+    {
+      "id": "abb-xt4-4p-plug-in-rc-3fe1647cc4",
+      "name": "XT4 4p PLUG-IN RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0711",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-plug-in-rc-3fe1647cc4",
+      "recordPath": "equipment/abb-xt4-4p-plug-in-rc-3fe1647cc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-plug-in-rc-3fe1647cc4.json"
+    },
+    {
+      "id": "abb-xt4-4p-withdrawable-fixing-50mm-807c37ca72",
+      "name": "XT4 4p WITHDRAWABLE FIXING 50mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0762",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-withdrawable-fixing-50mm-807c37ca72",
+      "recordPath": "equipment/abb-xt4-4p-withdrawable-fixing-50mm-807c37ca72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-withdrawable-fixing-50mm-807c37ca72.json"
+    },
+    {
+      "id": "abb-xt4-4p-withdrawable-fixing-70mm-60902d30d0",
+      "name": "XT4 4p WITHDRAWABLE FIXING 70mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0763",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-withdrawable-fixing-70mm-60902d30d0",
+      "recordPath": "equipment/abb-xt4-4p-withdrawable-fixing-70mm-60902d30d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-withdrawable-fixing-70mm-60902d30d0.json"
+    },
+    {
+      "id": "abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9",
+      "name": "XT4 4p WITHDRAWABLE PS 200mm UP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0786",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9",
+      "recordPath": "equipment/abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9.json"
+    },
+    {
+      "id": "abb-xt4-4p-withdrawable-rc-3229529665",
+      "name": "XT4 4p WITHDRAWABLE RC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001295R0751",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-4p-withdrawable-rc-3229529665",
+      "recordPath": "equipment/abb-xt4-4p-withdrawable-rc-3229529665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-4p-withdrawable-rc-3229529665.json"
+    },
+    {
+      "id": "abb-xt4-circuit-breaker-with-actuator-for-flange-handle-b31e99974d",
+      "name": "XT4 Circuit Breaker with Actuator for Flange Handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1032",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-circuit-breaker-with-actuator-for-flange-handle-b31e99974d",
+      "recordPath": "equipment/abb-xt4-circuit-breaker-with-actuator-for-flange-handle-b31e99974d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-circuit-breaker-with-actuator-for-flange-handle-b31e99974d.json"
+    },
+    {
+      "id": "abb-xt4-flange-handle-bell-crank-acutator-assembly-f35eb064de",
+      "name": "XT4 Flange Handle, Bell Crank & Acutator Assembly",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003R1031",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-flange-handle-bell-crank-acutator-assembly-f35eb064de",
+      "recordPath": "equipment/abb-xt4-flange-handle-bell-crank-acutator-assembly-f35eb064de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-flange-handle-bell-crank-acutator-assembly-f35eb064de.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-fixed-version-extended-front-terminals-accc8920d7",
+      "name": "XT4 III-IV Fixed version extended front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0144",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-fixed-version-extended-front-terminals-accc8920d7",
+      "recordPath": "equipment/abb-xt4-iii-iv-fixed-version-extended-front-terminals-accc8920d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-fixed-version-extended-front-terminals-accc8920d7.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-withdrawable-version-with-indirect-handle-rhe-a990ce77de",
+      "name": "XT4 III-IV Withdrawable version with indirect handle RHE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0143",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-withdrawable-version-with-indirect-handle-rhe-a990ce77de",
+      "recordPath": "equipment/abb-xt4-iii-iv-withdrawable-version-with-indirect-handle-rhe-a990ce77de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-withdrawable-version-with-indirect-handle-rhe-a990ce77de.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-fixed-rhe-padlock-ul-f954f98f6e",
+      "name": "XT4 III-IV fixed RHE padlock UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0141",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-fixed-rhe-padlock-ul-f954f98f6e",
+      "recordPath": "equipment/abb-xt4-iii-iv-fixed-rhe-padlock-ul-f954f98f6e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-fixed-rhe-padlock-ul-f954f98f6e.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-d57e99bb88",
+      "name": "XT4 III-IV fixed version front terminals F with lateral plug",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0150",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-d57e99bb88",
+      "recordPath": "equipment/abb-xt4-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-d57e99bb88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-fixed-version-front-terminals-f-with-lateral-plug-d57e99bb88.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-withdrawable-rhe-padlock-ul-4b9ffe4b82",
+      "name": "XT4 III-IV withdrawable RHE padlock UL",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0140",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-withdrawable-rhe-padlock-ul-4b9ffe4b82",
+      "recordPath": "equipment/abb-xt4-iii-iv-withdrawable-rhe-padlock-ul-4b9ffe4b82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-withdrawable-rhe-padlock-ul-4b9ffe4b82.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-6e40dcdac4",
+      "name": "XT4 III-IV withdrawable version extended front terminals EF with lateral plug",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0151",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-6e40dcdac4",
+      "recordPath": "equipment/abb-xt4-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-6e40dcdac4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-withdrawable-version-extended-front-terminals-ef-with-lateral-plug-6e40dcdac4.json"
+    },
+    {
+      "id": "abb-xt4-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-224f8d49f0",
+      "name": "XT4 III-IV withdrawable version with direct rotary handle (RHD)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0145",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-224f8d49f0",
+      "recordPath": "equipment/abb-xt4-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-224f8d49f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iii-iv-withdrawable-version-with-direct-rotary-handle-rhd-224f8d49f0.json"
+    },
+    {
+      "id": "abb-xt4-iv-front-terminal-with-residual-current-9aeb613f0e",
+      "name": "XT4 IV Front Terminal with Residual Current",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000722R0138",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-iv-front-terminal-with-residual-current-9aeb613f0e",
+      "recordPath": "equipment/abb-xt4-iv-front-terminal-with-residual-current-9aeb613f0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-iv-front-terminal-with-residual-current-9aeb613f0e.json"
+    },
+    {
+      "id": "abb-xt4-p-fp-4p-ef-10df291587",
+      "name": "XT4 P FP 4p EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A5233; 9AKK108471A5268",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt4-p-fp-4p-ef-10df291587",
+      "recordPath": "equipment/abb-xt4-p-fp-4p-ef-10df291587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt4-p-fp-4p-ef-10df291587.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-fld-6688143f33",
+      "name": "XT5 3p 4p Fixed FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1402",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-fld-6688143f33",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-fld-6688143f33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-fld-6688143f33.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-moe-7705d1b2d1",
+      "name": "XT5 3p 4p Fixed MOE",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1144",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-moe-7705d1b2d1",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-moe-7705d1b2d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-moe-7705d1b2d1.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-rhe-max-f48ad616f0",
+      "name": "XT5 3p 4p Fixed RHE max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1400",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-rhe-max-f48ad616f0",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-rhe-max-f48ad616f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-rhe-max-f48ad616f0.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-rhe-min-65a8d2ebda",
+      "name": "XT5 3p 4p Fixed RHE min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1401",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-rhe-min-65a8d2ebda",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-rhe-min-65a8d2ebda.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-rhe-min-65a8d2ebda.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-rhs-left-max-18dcb9679c",
+      "name": "XT5 3p 4p Fixed RHS left max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1592",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-rhs-left-max-18dcb9679c",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-rhs-left-max-18dcb9679c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-rhs-left-max-18dcb9679c.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-rhs-left-min-615b752f1d",
+      "name": "XT5 3p 4p Fixed RHS left min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1591",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-rhs-left-min-615b752f1d",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-rhs-left-min-615b752f1d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-rhs-left-min-615b752f1d.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-rhs-right-max-17219d107a",
+      "name": "XT5 3p 4p Fixed RHS right max",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1590",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-rhs-right-max-17219d107a",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-rhs-right-max-17219d107a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-rhs-right-max-17219d107a.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-fixed-rhs-right-min-de6275dff6",
+      "name": "XT5 3p 4p Fixed RHS right min",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1588",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-fixed-rhs-right-min-de6275dff6",
+      "recordPath": "equipment/abb-xt5-3p-4p-fixed-rhs-right-min-de6275dff6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-fixed-rhs-right-min-de6275dff6.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-front-plate-f64f56d198",
+      "name": "XT5 3p 4p Front plate",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1131",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-front-plate-f64f56d198",
+      "recordPath": "equipment/abb-xt5-3p-4p-front-plate-f64f56d198.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-front-plate-f64f56d198.json"
+    },
+    {
+      "id": "abb-xt5-3p-4p-p-w-fld-d92552a191",
+      "name": "XT5 3p 4p P-W FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH002065A1344",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xt5-3p-4p-p-w-fld-d92552a191",
+      "recordPath": "equipment/abb-xt5-3p-4p-p-w-fld-d92552a191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xt5-3p-4p-p-w-fld-d92552a191.json"
+    }
+  ]
+}

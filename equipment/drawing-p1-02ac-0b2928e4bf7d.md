@@ -32,7 +32,7 @@ The verified native member is PLC Families/P1000/P1-02AC.dwg. Its identity was c
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For example, in a machine cabinet with a dedicated supply for its controller assembly, use the P1-02AC reference to coordinate supply terminals, protective-earth route and adjacent controller modules. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P1000/P1-02AC.dwg. Its identity was checked against the acquired manufacturer archive. Lay out the PAC station before locating cable duct so the terminal strips and expansion joints remain accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

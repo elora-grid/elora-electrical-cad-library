@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/Konnect-It/KN-ECT4GRY.DW
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+For example, in a field-terminal strip with a defined end and accessible marking, use the KN-ECT4GRY reference to coordinate terminal side face, neighbouring end restraint and marking. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Other PLC Products/Konnect-It/KN-ECT4GRY.DWG, a 132,937-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

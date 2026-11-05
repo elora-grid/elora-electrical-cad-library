@@ -1,0 +1,2064 @@
+{
+  "schemaVersion": 1,
+  "category": "power-supplies",
+  "page": 1,
+  "entries": [
+    {
+      "id": "ad-powersupplies",
+      "name": "Power Supplies CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-powersupplies",
+      "recordPath": "equipment/ad-powersupplies.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-powersupplies.json"
+    },
+    {
+      "id": "puls-qs20-241",
+      "name": "QS20.241 24 V 20 A DIN-rail supply",
+      "manufacturer": "PULS",
+      "formats": [
+        "DXF",
+        "DWG",
+        "STEP",
+        "EPLAN"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/puls-qs20-241",
+      "recordPath": "equipment/puls-qs20-241.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/puls-qs20-241.json"
+    },
+    {
+      "id": "audit-power-sens-powercab2-10-vrla-battery-two-cabinet-dc-ups",
+      "name": "PowerCab2 10-VRLA-battery two-cabinet DC UPS",
+      "manufacturer": "SENS",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-sens-powercab2-10-vrla-battery-two-cabinet-dc-ups",
+      "recordPath": "equipment/audit-power-sens-powercab2-10-vrla-battery-two-cabinet-dc-ups.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-sens-powercab2-10-vrla-battery-two-cabinet-dc-ups.json"
+    },
+    {
+      "id": "victron-energy-skylla-ip65",
+      "name": "Skylla-IP65",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-skylla-ip65",
+      "recordPath": "equipment/victron-energy-skylla-ip65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-skylla-ip65.json"
+    },
+    {
+      "id": "westermo-ps-260-power-supply",
+      "name": "PS-260 power supply",
+      "manufacturer": "Westermo",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/westermo-ps-260-power-supply",
+      "recordPath": "equipment/westermo-ps-260-power-supply.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/westermo-ps-260-power-supply.json"
+    },
+    {
+      "id": "audit-power-eaton-93pm-480v-industrial-ups-engineering-source",
+      "name": "93PM 480V industrial UPS engineering source",
+      "manufacturer": "Eaton",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-eaton-93pm-480v-industrial-ups-engineering-source",
+      "recordPath": "equipment/audit-power-eaton-93pm-480v-industrial-ups-engineering-source.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-eaton-93pm-480v-industrial-ups-engineering-source.json"
+    },
+    {
+      "id": "audit-power-sens-microgenius-s4-battery-charger",
+      "name": "MicroGenius S4 battery charger",
+      "manufacturer": "SENS",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-sens-microgenius-s4-battery-charger",
+      "recordPath": "equipment/audit-power-sens-microgenius-s4-battery-charger.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-sens-microgenius-s4-battery-charger.json"
+    },
+    {
+      "id": "tdk-d1se120-24-a3",
+      "name": "D1SE120-24-A3 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-d1se120-24-a3",
+      "recordPath": "equipment/tdk-d1se120-24-a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-d1se120-24-a3.json"
+    },
+    {
+      "id": "tdk-d1se240-24-a3",
+      "name": "D1SE240-24-A3 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-d1se240-24-a3",
+      "recordPath": "equipment/tdk-d1se240-24-a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-d1se240-24-a3.json"
+    },
+    {
+      "id": "tdk-d1se480-24-a3",
+      "name": "D1SE480-24-A3 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-d1se480-24-a3",
+      "recordPath": "equipment/tdk-d1se480-24-a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-d1se480-24-a3.json"
+    },
+    {
+      "id": "tdk-dbm20",
+      "name": "DBM20 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-dbm20",
+      "recordPath": "equipment/tdk-dbm20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-dbm20.json"
+    },
+    {
+      "id": "tdk-drb15",
+      "name": "DRB15 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-drb15",
+      "recordPath": "equipment/tdk-drb15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-drb15.json"
+    },
+    {
+      "id": "tdk-drb30",
+      "name": "DRB30 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-drb30",
+      "recordPath": "equipment/tdk-drb30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-drb30.json"
+    },
+    {
+      "id": "tdk-drb480",
+      "name": "DRB480 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-drb480",
+      "recordPath": "equipment/tdk-drb480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-drb480.json"
+    },
+    {
+      "id": "tdk-drf960",
+      "name": "DRF960 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-drf960",
+      "recordPath": "equipment/tdk-drf960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-drf960.json"
+    },
+    {
+      "id": "tdk-drm40",
+      "name": "DRM40 mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-drm40",
+      "recordPath": "equipment/tdk-drm40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-drm40.json"
+    },
+    {
+      "id": "tdk-dush960-1248-1m",
+      "name": "DUSH960-1248-1M mechanical model",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-dush960-1248-1m",
+      "recordPath": "equipment/tdk-dush960-1248-1m.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-dush960-1248-1m.json"
+    },
+    {
+      "id": "tdk-library",
+      "name": "TDK-Lambda 3D power-supply drawing index",
+      "manufacturer": "TDK-Lambda",
+      "formats": [
+        "STEP",
+        "IGES",
+        "DXF",
+        "Parasolid"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/tdk-library",
+      "recordPath": "equipment/tdk-library.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/tdk-library.json"
+    },
+    {
+      "id": "audit-power-thycon-australian-industrial-ups-and-energy-storage-source",
+      "name": "Australian industrial UPS and energy-storage source",
+      "manufacturer": "THYCON",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/audit-power-thycon-australian-industrial-ups-and-energy-storage-source",
+      "recordPath": "equipment/audit-power-thycon-australian-industrial-ups-and-energy-storage-source.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/audit-power-thycon-australian-industrial-ups-and-energy-storage-source.json"
+    },
+    {
+      "id": "altech-psc-60",
+      "name": "PSC-60 DIN rail power supply housing",
+      "manufacturer": "Altech",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-60",
+      "recordPath": "equipment/altech-psc-60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-60.json"
+    },
+    {
+      "id": "altech-psc-241",
+      "name": "PSC-241 DIN rail power supply housing",
+      "manufacturer": "Altech",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-241",
+      "recordPath": "equipment/altech-psc-241.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-241.json"
+    },
+    {
+      "id": "altech-psc-rm20",
+      "name": "PSC-RM20 DIN rail redundancy module",
+      "manufacturer": "Altech",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-rm20",
+      "recordPath": "equipment/altech-psc-rm20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-rm20.json"
+    },
+    {
+      "id": "altech-pst-960xx",
+      "name": "PST-960 DIN rail power supply housing",
+      "manufacturer": "Altech",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-pst-960xx",
+      "recordPath": "equipment/altech-pst-960xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-pst-960xx.json"
+    },
+    {
+      "id": "altech-ps-c120xx",
+      "name": "PS-C120 compact DIN rail power supply housing",
+      "manufacturer": "Altech",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-c120xx",
+      "recordPath": "equipment/altech-ps-c120xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-c120xx.json"
+    },
+    {
+      "id": "altech-psh-c480xx",
+      "name": "PSH-C480 compact DIN rail power supply housing",
+      "manufacturer": "Altech",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psh-c480xx",
+      "recordPath": "equipment/altech-psh-c480xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psh-c480xx.json"
+    },
+    {
+      "id": "victron-energy-orion-xs-12-12-50a",
+      "name": "Orion XS 12/12-50A DC-DC battery charger",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-orion-xs-12-12-50a",
+      "recordPath": "equipment/victron-energy-orion-xs-12-12-50a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-orion-xs-12-12-50a.json"
+    },
+    {
+      "id": "victron-energy-orion-xs-12-12-70a",
+      "name": "Orion XS 12/12-70A DC-DC battery charger",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-orion-xs-12-12-70a",
+      "recordPath": "equipment/victron-energy-orion-xs-12-12-70a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-orion-xs-12-12-70a.json"
+    },
+    {
+      "id": "victron-energy-orion-xs-1400",
+      "name": "Orion XS 1400 DC-DC battery charger",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-orion-xs-1400",
+      "recordPath": "equipment/victron-energy-orion-xs-1400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-orion-xs-1400.json"
+    },
+    {
+      "id": "mean-well-hdr-60",
+      "name": "HDR-60 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-hdr-60",
+      "recordPath": "equipment/mean-well-hdr-60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-hdr-60.json"
+    },
+    {
+      "id": "mean-well-ndr-240",
+      "name": "NDR-240 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-ndr-240",
+      "recordPath": "equipment/mean-well-ndr-240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-ndr-240.json"
+    },
+    {
+      "id": "mean-well-sdr-120",
+      "name": "SDR-120 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-sdr-120",
+      "recordPath": "equipment/mean-well-sdr-120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-sdr-120.json"
+    },
+    {
+      "id": "altech-psc-10",
+      "name": "PSC-10 compact power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-10",
+      "recordPath": "equipment/altech-psc-10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-10.json"
+    },
+    {
+      "id": "altech-psc-20",
+      "name": "PSC-20 compact power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-20",
+      "recordPath": "equipment/altech-psc-20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-20.json"
+    },
+    {
+      "id": "altech-psc-40",
+      "name": "PSC-40 compact power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-40",
+      "recordPath": "equipment/altech-psc-40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-40.json"
+    },
+    {
+      "id": "altech-psc-96",
+      "name": "PSC-96 compact power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-96",
+      "recordPath": "equipment/altech-psc-96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-96.json"
+    },
+    {
+      "id": "altech-psc-151",
+      "name": "PSC-151 compact power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-151",
+      "recordPath": "equipment/altech-psc-151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-151.json"
+    },
+    {
+      "id": "altech-psc-481",
+      "name": "PSC-481 compact power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psc-481",
+      "recordPath": "equipment/altech-psc-481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psc-481.json"
+    },
+    {
+      "id": "altech-psa-120xx",
+      "name": "PSA-120xx Flex power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psa-120xx",
+      "recordPath": "equipment/altech-psa-120xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psa-120xx.json"
+    },
+    {
+      "id": "altech-psa-360xx",
+      "name": "PSA-360xx Flex power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psa-360xx",
+      "recordPath": "equipment/altech-psa-360xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psa-360xx.json"
+    },
+    {
+      "id": "altech-psb-120xx",
+      "name": "PSB-120xx Flex power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psb-120xx",
+      "recordPath": "equipment/altech-psb-120xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psb-120xx.json"
+    },
+    {
+      "id": "altech-psb-360xx",
+      "name": "PSB-360xx Flex power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psb-360xx",
+      "recordPath": "equipment/altech-psb-360xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psb-360xx.json"
+    },
+    {
+      "id": "altech-ps-s10xx",
+      "name": "PS-S10xx slimline power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-s10xx",
+      "recordPath": "equipment/altech-ps-s10xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-s10xx.json"
+    },
+    {
+      "id": "altech-ps-s40xx",
+      "name": "PS-S40xx slimline power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-s40xx",
+      "recordPath": "equipment/altech-ps-s40xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-s40xx.json"
+    },
+    {
+      "id": "altech-ps-s100xx",
+      "name": "PS-S100xx slimline power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-s100xx",
+      "recordPath": "equipment/altech-ps-s100xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-s100xx.json"
+    },
+    {
+      "id": "altech-ps-15xx",
+      "name": "PS-15xx low-profile power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-15xx",
+      "recordPath": "equipment/altech-ps-15xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-15xx.json"
+    },
+    {
+      "id": "altech-ps-45xx",
+      "name": "PS-45xx low-profile power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-45xx",
+      "recordPath": "equipment/altech-ps-45xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-45xx.json"
+    },
+    {
+      "id": "altech-ps-100xx",
+      "name": "PS-100xx low-profile power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-100xx",
+      "recordPath": "equipment/altech-ps-100xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-100xx.json"
+    },
+    {
+      "id": "altech-psh-120xx",
+      "name": "PSH-120xx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psh-120xx",
+      "recordPath": "equipment/altech-psh-120xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psh-120xx.json"
+    },
+    {
+      "id": "altech-psp-240xx",
+      "name": "PSP-240xx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psp-240xx",
+      "recordPath": "equipment/altech-psp-240xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psp-240xx.json"
+    },
+    {
+      "id": "altech-psp-480xx",
+      "name": "PSP-480xx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psp-480xx",
+      "recordPath": "equipment/altech-psp-480xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psp-480xx.json"
+    },
+    {
+      "id": "altech-psp-480sxx",
+      "name": "PSP-480Sxx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psp-480sxx",
+      "recordPath": "equipment/altech-psp-480sxx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psp-480sxx.json"
+    },
+    {
+      "id": "altech-pst-240xx",
+      "name": "PST-240xx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-pst-240xx",
+      "recordPath": "equipment/altech-pst-240xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-pst-240xx.json"
+    },
+    {
+      "id": "altech-pst-480xx",
+      "name": "PST-480xx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-pst-480xx",
+      "recordPath": "equipment/altech-pst-480xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-pst-480xx.json"
+    },
+    {
+      "id": "altech-ps-c240xx",
+      "name": "PS-C240xx compact-housing power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-c240xx",
+      "recordPath": "equipment/altech-ps-c240xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-c240xx.json"
+    },
+    {
+      "id": "altech-psw-120xx",
+      "name": "PSW-120xx industrial power supply CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-psw-120xx",
+      "recordPath": "equipment/altech-psw-120xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-psw-120xx.json"
+    },
+    {
+      "id": "altech-cbi12xx",
+      "name": "CBI12xx DC UPS CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-cbi12xx",
+      "recordPath": "equipment/altech-cbi12xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-cbi12xx.json"
+    },
+    {
+      "id": "altech-cbi24xx",
+      "name": "CBI24xx DC UPS CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-cbi24xx",
+      "recordPath": "equipment/altech-cbi24xx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-cbi24xx.json"
+    },
+    {
+      "id": "altech-ps-rdn",
+      "name": "PS-RDN power-supply redundancy accessory CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-rdn",
+      "recordPath": "equipment/altech-ps-rdn.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-rdn.json"
+    },
+    {
+      "id": "altech-ps-ups",
+      "name": "PS-UPS UPS accessory CAD",
+      "manufacturer": "Altech",
+      "formats": [
+        "STEP",
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/altech-ps-ups",
+      "recordPath": "equipment/altech-ps-ups.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/altech-ps-ups.json"
+    },
+    {
+      "id": "mean-well-hdr-15",
+      "name": "HDR-15 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-hdr-15",
+      "recordPath": "equipment/mean-well-hdr-15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-hdr-15.json"
+    },
+    {
+      "id": "mean-well-hdr-30",
+      "name": "HDR-30 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-hdr-30",
+      "recordPath": "equipment/mean-well-hdr-30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-hdr-30.json"
+    },
+    {
+      "id": "mean-well-hdr-100",
+      "name": "HDR-100 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-hdr-100",
+      "recordPath": "equipment/mean-well-hdr-100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-hdr-100.json"
+    },
+    {
+      "id": "mean-well-ndr-75",
+      "name": "NDR-75 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-ndr-75",
+      "recordPath": "equipment/mean-well-ndr-75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-ndr-75.json"
+    },
+    {
+      "id": "mean-well-ndr-120",
+      "name": "NDR-120 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-ndr-120",
+      "recordPath": "equipment/mean-well-ndr-120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-ndr-120.json"
+    },
+    {
+      "id": "mean-well-ndr-480",
+      "name": "NDR-480 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-ndr-480",
+      "recordPath": "equipment/mean-well-ndr-480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-ndr-480.json"
+    },
+    {
+      "id": "mean-well-edr-75",
+      "name": "EDR-75 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-edr-75",
+      "recordPath": "equipment/mean-well-edr-75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-edr-75.json"
+    },
+    {
+      "id": "mean-well-edr-120",
+      "name": "EDR-120 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-edr-120",
+      "recordPath": "equipment/mean-well-edr-120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-edr-120.json"
+    },
+    {
+      "id": "mean-well-edr-150",
+      "name": "EDR-150 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-edr-150",
+      "recordPath": "equipment/mean-well-edr-150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-edr-150.json"
+    },
+    {
+      "id": "mean-well-sdr-75",
+      "name": "SDR-75 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-sdr-75",
+      "recordPath": "equipment/mean-well-sdr-75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-sdr-75.json"
+    },
+    {
+      "id": "mean-well-sdr-240",
+      "name": "SDR-240 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-sdr-240",
+      "recordPath": "equipment/mean-well-sdr-240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-sdr-240.json"
+    },
+    {
+      "id": "mean-well-sdr-960",
+      "name": "SDR-960 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-sdr-960",
+      "recordPath": "equipment/mean-well-sdr-960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-sdr-960.json"
+    },
+    {
+      "id": "mean-well-tdr-240",
+      "name": "TDR-240 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-tdr-240",
+      "recordPath": "equipment/mean-well-tdr-240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-tdr-240.json"
+    },
+    {
+      "id": "mean-well-tdr-480",
+      "name": "TDR-480 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-tdr-480",
+      "recordPath": "equipment/mean-well-tdr-480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-tdr-480.json"
+    },
+    {
+      "id": "mean-well-tdr-960",
+      "name": "TDR-960 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-tdr-960",
+      "recordPath": "equipment/mean-well-tdr-960.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-tdr-960.json"
+    },
+    {
+      "id": "mean-well-wdr-120",
+      "name": "WDR-120 DIN rail power supply",
+      "manufacturer": "MEAN WELL",
+      "formats": [
+        "STEP",
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mean-well-wdr-120",
+      "recordPath": "equipment/mean-well-wdr-120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mean-well-wdr-120.json"
+    },
+    {
+      "id": "abb-cad-drawing-dwg-cp-d24-2-5-06c2bab5",
+      "name": "CAD-Drawing (.DWG) CP-D24/2.5",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108466A4474",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dwg-cp-d24-2-5-06c2bab5",
+      "recordPath": "equipment/abb-cad-drawing-dwg-cp-d24-2-5-06c2bab5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dwg-cp-d24-2-5-06c2bab5.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-nti-z-28-30-1-9c5e0a24",
+      "name": "CAD-Drawing (.DXF) NTI/Z 28.30.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-107947 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-nti-z-28-30-1-9c5e0a24",
+      "recordPath": "equipment/abb-cad-drawing-dxf-nti-z-28-30-1-9c5e0a24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-nti-z-28-30-1-9c5e0a24.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-ntu-s12-2000-1-33d1a2e1",
+      "name": "CAD-Drawing (.DXF) NTU/S12.2000.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-107964 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-ntu-s12-2000-1-33d1a2e1",
+      "recordPath": "equipment/abb-cad-drawing-dxf-ntu-s12-2000-1-33d1a2e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-ntu-s12-2000-1-33d1a2e1.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-su-s30-640-1-b9acda8f",
+      "name": "CAD-Drawing (.DXF) SU/S30.640.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108603 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-su-s30-640-1-b9acda8f",
+      "recordPath": "equipment/abb-cad-drawing-dxf-su-s30-640-1-b9acda8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-su-s30-640-1-b9acda8f.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s-30-160-1-1-552f13f0",
+      "name": "CAD-Drawing (.DXF) SV/S 30.160.1.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108610 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s-30-160-1-1-552f13f0",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s-30-160-1-1-552f13f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s-30-160-1-1-552f13f0.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s-30-320-1-1-d6cb5ea8",
+      "name": "CAD-Drawing (.DXF) SV/S 30.320.1.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108618 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s-30-320-1-1-d6cb5ea8",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s-30-320-1-1-d6cb5ea8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s-30-320-1-1-d6cb5ea8.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s-30-640-3-1-af0ff10c",
+      "name": "CAD-Drawing (.DXF) SV/S 30.640.3.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108633 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s-30-640-3-1-af0ff10c",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s-30-640-3-1-af0ff10c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s-30-640-3-1-af0ff10c.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s30-160-5-5afe10eb",
+      "name": "CAD-Drawing (.DXF) SV/S30.160.5",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108613 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s30-160-5-5afe10eb",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s30-160-5-5afe10eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s30-160-5-5afe10eb.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s30-320-2-1-903b6754",
+      "name": "CAD-Drawing (.DXF) SV/S30.320.2.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108621 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s30-320-2-1-903b6754",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s30-320-2-1-903b6754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s30-320-2-1-903b6754.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s30-320-5-db675567",
+      "name": "CAD-Drawing (.DXF) SV/S30.320.5",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108627 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s30-320-5-db675567",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s30-320-5-db675567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s30-320-5-db675567.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s30-640-5-063fff5a",
+      "name": "CAD-Drawing (.DXF) SV/S30.640.5",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108641 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s30-640-5-063fff5a",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s30-640-5-063fff5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s30-640-5-063fff5a.json"
+    },
+    {
+      "id": "abb-cad-drawing-dxf-sv-s30-640-5-1-4deff02d",
+      "name": "CAD-Drawing (.DXF) SV/S30.640.5.1",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK2017-108636 / 1",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawing-dxf-sv-s30-640-5-1-4deff02d",
+      "recordPath": "equipment/abb-cad-drawing-dxf-sv-s30-640-5-1-4deff02d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawing-dxf-sv-s30-640-5-1-4deff02d.json"
+    },
+    {
+      "id": "abb-cad-drawings-dxf-su-s-30-640-2-595d77e8",
+      "name": "CAD-Drawings (.DXF) SU/S 30.640.2",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A1669",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-drawings-dxf-su-s-30-640-2-595d77e8",
+      "recordPath": "equipment/abb-cad-drawings-dxf-su-s-30-640-2-595d77e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-drawings-dxf-su-s-30-640-2-595d77e8.json"
+    },
+    {
+      "id": "abb-drawing-ud-2104365-xrcg4-2103329-bd-to-power-one-power-supply-3b17e836",
+      "name": "Drawing - UD - 2104365 - XRCG4 (2103329 BD) to power-one power supply",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104365",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-ud-2104365-xrcg4-2103329-bd-to-power-one-power-supply-3b17e836",
+      "recordPath": "equipment/abb-drawing-ud-2104365-xrcg4-2103329-bd-to-power-one-power-supply-3b17e836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-ud-2104365-xrcg4-2103329-bd-to-power-one-power-supply-3b17e836.json"
+    },
+    {
+      "id": "abb-megaflex-480v-ul-1-2-1-6-mw-mechanical-lineup-a0161498",
+      "name": "MegaFlex 480V UL - 1.2 - 1.6 MW Mechanical Lineup",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001166327",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-480v-ul-1-2-1-6-mw-mechanical-lineup-a0161498",
+      "recordPath": "equipment/abb-megaflex-480v-ul-1-2-1-6-mw-mechanical-lineup-a0161498.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-480v-ul-1-2-1-6-mw-mechanical-lineup-a0161498.json"
+    },
+    {
+      "id": "abb-megaflex-ul-415v-1-0-1-35-mw-mechanical-outline-b1fbbe27",
+      "name": "MegaFlex UL 415V - 1.0 - 1.35 MW Mechanical Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWD005739",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-415v-1-0-1-35-mw-mechanical-outline-b1fbbe27",
+      "recordPath": "equipment/abb-megaflex-ul-415v-1-0-1-35-mw-mechanical-outline-b1fbbe27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-415v-1-0-1-35-mw-mechanical-outline-b1fbbe27.json"
+    },
+    {
+      "id": "abb-megaflex-ul-ups-mbc-3cb-3pole-mechanical-lineup-16a04c22",
+      "name": "MegaFlex UL UPS, MBC 3CB, 3Pole, Mechanical Lineup",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A8183",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-ups-mbc-3cb-3pole-mechanical-lineup-16a04c22",
+      "recordPath": "equipment/abb-megaflex-ul-ups-mbc-3cb-3pole-mechanical-lineup-16a04c22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-ups-mbc-3cb-3pole-mechanical-lineup-16a04c22.json"
+    },
+    {
+      "id": "abb-power-supply-flx-ps24-cad-drawing-dwg-952c72cc",
+      "name": "Power Supply FLX-PS24 CAD Drawing (.DWG)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A3775",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-power-supply-flx-ps24-cad-drawing-dwg-952c72cc",
+      "recordPath": "equipment/abb-power-supply-flx-ps24-cad-drawing-dwg-952c72cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-power-supply-flx-ps24-cad-drawing-dwg-952c72cc.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-1000kva-mechanical-outline-diagram-5932ab62",
+      "name": "TLE 480V UL UPS - 1000kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050351",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-1000kva-mechanical-outline-diagram-5932ab62",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-1000kva-mechanical-outline-diagram-5932ab62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-1000kva-mechanical-outline-diagram-5932ab62.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-160kva-mechanical-outline-diagram-c4382a00",
+      "name": "TLE 480V UL UPS - 160kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050342",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-160kva-mechanical-outline-diagram-c4382a00",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-160kva-mechanical-outline-diagram-c4382a00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-160kva-mechanical-outline-diagram-c4382a00.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-200kva-mechanical-outline-diagram-56cab2ed",
+      "name": "TLE 480V UL UPS - 200kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050343",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-200kva-mechanical-outline-diagram-56cab2ed",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-200kva-mechanical-outline-diagram-56cab2ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-200kva-mechanical-outline-diagram-56cab2ed.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-225kva-mechanical-outline-diagram-e5b6b4b4",
+      "name": "TLE 480V UL UPS - 225kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050344",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-225kva-mechanical-outline-diagram-e5b6b4b4",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-225kva-mechanical-outline-diagram-e5b6b4b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-225kva-mechanical-outline-diagram-e5b6b4b4.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-250kva-mechanical-outline-diagram-68ad57c1",
+      "name": "TLE 480V UL UPS - 250kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050345",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-250kva-mechanical-outline-diagram-68ad57c1",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-250kva-mechanical-outline-diagram-68ad57c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-250kva-mechanical-outline-diagram-68ad57c1.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-300kva-mechanical-outline-diagram-4604606b",
+      "name": "TLE 480V UL UPS - 300kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050346",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-300kva-mechanical-outline-diagram-4604606b",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-300kva-mechanical-outline-diagram-4604606b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-300kva-mechanical-outline-diagram-4604606b.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-400kva-mechanical-outline-diagram-c0071d2e",
+      "name": "TLE 480V UL UPS - 400kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050347",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-400kva-mechanical-outline-diagram-c0071d2e",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-400kva-mechanical-outline-diagram-c0071d2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-400kva-mechanical-outline-diagram-c0071d2e.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-500kva-mechanical-outline-diagram-ffbaf390",
+      "name": "TLE 480V UL UPS - 500kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050348",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-500kva-mechanical-outline-diagram-ffbaf390",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-500kva-mechanical-outline-diagram-ffbaf390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-500kva-mechanical-outline-diagram-ffbaf390.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-625kva-mechanical-outline-diagram-d260fc70",
+      "name": "TLE 480V UL UPS - 625kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050349",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-625kva-mechanical-outline-diagram-d260fc70",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-625kva-mechanical-outline-diagram-d260fc70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-625kva-mechanical-outline-diagram-d260fc70.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-750kva-mechanical-outline-diagram-487c04f6",
+      "name": "TLE 480V UL UPS - 750kVA Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001050350",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-750kva-mechanical-outline-diagram-487c04f6",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-750kva-mechanical-outline-diagram-487c04f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-750kva-mechanical-outline-diagram-487c04f6.json"
+    },
+    {
+      "id": "abb-tle-hp-250kva-300kva-3-cb-mbc-with-output-208v-transformer-14a68d34",
+      "name": "TLE HP 250kVA - 300kVA 3 CB MBC with output 208V transformer",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108471A7884",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-hp-250kva-300kva-3-cb-mbc-with-output-208v-transformer-14a68d34",
+      "recordPath": "equipment/abb-tle-hp-250kva-300kva-3-cb-mbc-with-output-208v-transformer-14a68d34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-hp-250kva-300kva-3-cb-mbc-with-output-208v-transformer-14a68d34.json"
+    },
+    {
+      "id": "abb-tle-scalable-ul-series-ups-40-150kw-mechanical-outline-diagram-e0265dbe",
+      "name": "TLE Scalable UL Series UPS 40-150kW - Mechanical Outline Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001300086",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-ul-series-ups-40-150kw-mechanical-outline-diagram-e0265dbe",
+      "recordPath": "equipment/abb-tle-scalable-ul-series-ups-40-150kw-mechanical-outline-diagram-e0265dbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-ul-series-ups-40-150kw-mechanical-outline-diagram-e0265dbe.json"
+    },
+    {
+      "id": "chargepoint-design-resources",
+      "name": "ChargePoint charger CAD and Revit design resources",
+      "manufacturer": "ChargePoint",
+      "formats": [
+        "STEP",
+        "Revit"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/chargepoint-design-resources",
+      "recordPath": "equipment/chargepoint-design-resources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/chargepoint-design-resources.json"
+    },
+    {
+      "id": "alfen-eve-charger-models",
+      "name": "Alfen Eve Single and Eve Double STEP-model guide",
+      "manufacturer": "Alfen",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/alfen-eve-charger-models",
+      "recordPath": "equipment/alfen-eve-charger-models.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/alfen-eve-charger-models.json"
+    },
+    {
+      "id": "drawing-c0-00ac-c3479ebd9bf7",
+      "name": "CLICK C0-00AC power-supply DWG drawing",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-c0-00ac-c3479ebd9bf7",
+      "recordPath": "equipment/drawing-c0-00ac-c3479ebd9bf7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-c0-00ac-c3479ebd9bf7.json"
+    },
+    {
+      "id": "drawing-westermo-cad-ps-260-e4d3c5ec4075",
+      "name": "Westermo PS-260 power-supply DWG",
+      "manufacturer": "Westermo",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-westermo-cad-ps-260-e4d3c5ec4075",
+      "recordPath": "equipment/drawing-westermo-cad-ps-260-e4d3c5ec4075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-westermo-cad-ps-260-e4d3c5ec4075.json"
+    },
+    {
+      "id": "deif-dbc-1-5460921977",
+      "name": "DBC-1",
+      "manufacturer": "DEIF",
+      "drawingNumber": "dbc-1-3d-pdf.pdf; dbc-1-3d-step-file.stp",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-dbc-1-5460921977",
+      "recordPath": "equipment/deif-dbc-1-5460921977.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-dbc-1-5460921977.json"
+    },
+    {
+      "id": "deif-dcp2-24v-557e4ccc6d",
+      "name": "DCP2 (24V)",
+      "manufacturer": "DEIF",
+      "drawingNumber": "dcp2-3d-step-file.stp",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-dcp2-24v-557e4ccc6d",
+      "recordPath": "equipment/deif-dcp2-24v-557e4ccc6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-dcp2-24v-557e4ccc6d.json"
+    },
+    {
+      "id": "deif-power-supply-8a6c8ebc81",
+      "name": "Power supply",
+      "manufacturer": "DEIF",
+      "drawingNumber": "Power supply",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/deif-power-supply-8a6c8ebc81",
+      "recordPath": "equipment/deif-power-supply-8a6c8ebc81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/deif-power-supply-8a6c8ebc81.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9321-low-voltage-dc-power-supply-9250d0dc7a",
+      "name": "SEL-9321 Low-Voltage DC Power Supply",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9321 Low-Voltage DC Power Supply",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9321-low-voltage-dc-power-supply-9250d0dc7a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9321-low-voltage-dc-power-supply-9250d0dc7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9321-low-voltage-dc-power-supply-9250d0dc7a.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9322-15-vdc-power-supply-51a90b0eab",
+      "name": "SEL-9322 15 VDC Power Supply",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9322 15 VDC Power Supply",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9322-15-vdc-power-supply-51a90b0eab",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9322-15-vdc-power-supply-51a90b0eab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9322-15-vdc-power-supply-51a90b0eab.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9331-power-supply-d44be396c7",
+      "name": "SEL-9331 Power Supply",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9331 Power Supply",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9331-power-supply-d44be396c7",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9331-power-supply-d44be396c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9331-power-supply-d44be396c7.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-lps-linear-power-supply-56f266c316",
+      "name": "SEL-LPS Linear Power Supply",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-LPS Linear Power Supply",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-lps-linear-power-supply-56f266c316",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-lps-linear-power-supply-56f266c316.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-lps-linear-power-supply-56f266c316.json"
+    },
+    {
+      "id": "abb-1seb621558-v-clamp-300-sts-kit-w-copperbars-3d-igs-drawing-4ae49b80dd",
+      "name": "1SEB621558_V-Clamp 300 STS kit w/ copperbars 3D IGS drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A0751",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1seb621558-v-clamp-300-sts-kit-w-copperbars-3d-igs-drawing-4ae49b80dd",
+      "recordPath": "equipment/abb-1seb621558-v-clamp-300-sts-kit-w-copperbars-3d-igs-drawing-4ae49b80dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1seb621558-v-clamp-300-sts-kit-w-copperbars-3d-igs-drawing-4ae49b80dd.json"
+    },
+    {
+      "id": "abb-1seb621779-v-clamp-300-sts-kit-3d-igs-drawing-ff0f4d5309",
+      "name": "1SEB621779_V-Clamp 300 STS kit 3D IGS drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A0759",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1seb621779-v-clamp-300-sts-kit-3d-igs-drawing-ff0f4d5309",
+      "recordPath": "equipment/abb-1seb621779-v-clamp-300-sts-kit-3d-igs-drawing-ff0f4d5309.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1seb621779-v-clamp-300-sts-kit-3d-igs-drawing-ff0f4d5309.json"
+    },
+    {
+      "id": "abb-1sep622011r0001-drawing-bzh1000a-1p-sts-m12-cs-stp-file-3e9e7b6898",
+      "name": "1SEP622011R0001_drawing_BZH1000A-1P-STS-M12-CS(STP-file)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A1065",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622011r0001-drawing-bzh1000a-1p-sts-m12-cs-stp-file-3e9e7b6898",
+      "recordPath": "equipment/abb-1sep622011r0001-drawing-bzh1000a-1p-sts-m12-cs-stp-file-3e9e7b6898.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622011r0001-drawing-bzh1000a-1p-sts-m12-cs-stp-file-3e9e7b6898.json"
+    },
+    {
+      "id": "abb-1sep622012r0001-drawing-bzh1600a-1p-sts-m12-cs-stp-file-45a0d713b5",
+      "name": "1SEP622012R0001_drawing_BZH1600A-1P-STS-M12-CS(STP-file)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108468A1066",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-1sep622012r0001-drawing-bzh1600a-1p-sts-m12-cs-stp-file-45a0d713b5",
+      "recordPath": "equipment/abb-1sep622012r0001-drawing-bzh1600a-1p-sts-m12-cs-stp-file-45a0d713b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-1sep622012r0001-drawing-bzh1600a-1p-sts-m12-cs-stp-file-45a0d713b5.json"
+    },
+    {
+      "id": "abb-cad-model-step-amr-p603v-automatic-charger-eu-version-rev00-61abe5939c",
+      "name": "CAD Model, STEP, AMR P603V Automatic Charger EU Version, rev00",
+      "manufacturer": "ABB",
+      "drawingNumber": "3HKA00000322289",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-model-step-amr-p603v-automatic-charger-eu-version-rev00-61abe5939c",
+      "recordPath": "equipment/abb-cad-model-step-amr-p603v-automatic-charger-eu-version-rev00-61abe5939c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-model-step-amr-p603v-automatic-charger-eu-version-rev00-61abe5939c.json"
+    },
+    {
+      "id": "abb-cad-model-step-amr-p603v-automatic-charger-floating-connector-rev00-5d98839216",
+      "name": "CAD Model, STEP, AMR P603V Automatic Charger Floating Connector, rev00",
+      "manufacturer": "ABB",
+      "drawingNumber": "3HKA00000288915",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-model-step-amr-p603v-automatic-charger-floating-connector-rev00-5d98839216",
+      "recordPath": "equipment/abb-cad-model-step-amr-p603v-automatic-charger-floating-connector-rev00-5d98839216.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-model-step-amr-p603v-automatic-charger-floating-connector-rev00-5d98839216.json"
+    },
+    {
+      "id": "abb-cad-model-step-amr-p603v-automatic-charger-us-version-rev00-8989824945",
+      "name": "CAD Model, STEP, AMR P603V Automatic Charger US Version, rev00",
+      "manufacturer": "ABB",
+      "drawingNumber": "3HKA00000264442",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cad-model-step-amr-p603v-automatic-charger-us-version-rev00-8989824945",
+      "recordPath": "equipment/abb-cad-model-step-amr-p603v-automatic-charger-us-version-rev00-8989824945.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cad-model-step-amr-p603v-automatic-charger-us-version-rev00-8989824945.json"
+    },
+    {
+      "id": "abb-e-distribution-panel-mepcontent-abb-ups-powerwave-33-plus-500kw-iec-int-en-4b5df5ff3e",
+      "name": "E Distribution Panel MEPcontent ABB UPS Powerwave 33 Plus 500kW IEC INT-EN",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1558",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-e-distribution-panel-mepcontent-abb-ups-powerwave-33-plus-500kw-iec-int-en-4b5df5ff3e",
+      "recordPath": "equipment/abb-e-distribution-panel-mepcontent-abb-ups-powerwave-33-plus-500kw-iec-int-en-4b5df5ff3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-e-distribution-panel-mepcontent-abb-ups-powerwave-33-plus-500kw-iec-int-en-4b5df5ff3e.json"
+    },
+    {
+      "id": "abb-odps230-igs-file-c3dbab3128",
+      "name": "ODPS230",
+      "manufacturer": "ABB",
+      "drawingNumber": "ODPS230.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-odps230-igs-file-c3dbab3128",
+      "recordPath": "equipment/abb-odps230-igs-file-c3dbab3128.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-odps230-igs-file-c3dbab3128.json"
+    },
+    {
+      "id": "abb-powervalue-11-rt-g2-ul-ups-1-3kva-mechanical-drawings-b4f3176b86",
+      "name": "PowerValue 11 RT G2 UL UPS 1-3kVA - Mechanical drawings",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A2497",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-powervalue-11-rt-g2-ul-ups-1-3kva-mechanical-drawings-b4f3176b86",
+      "recordPath": "equipment/abb-powervalue-11-rt-g2-ul-ups-1-3kva-mechanical-drawings-b4f3176b86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-powervalue-11-rt-g2-ul-ups-1-3kva-mechanical-drawings-b4f3176b86.json"
+    },
+    {
+      "id": "abb-connection-detail-dpa-120kw-ups-208v-ul-cabinet-3d0374155f",
+      "name": "Connection Detail DPA 120kW UPS 208V UL Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWD003005",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-connection-detail-dpa-120kw-ups-208v-ul-cabinet-3d0374155f",
+      "recordPath": "equipment/abb-connection-detail-dpa-120kw-ups-208v-ul-cabinet-3d0374155f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-connection-detail-dpa-120kw-ups-208v-ul-cabinet-3d0374155f.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-100-250a-power-stage-19eb8e94b8",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 100-250A, power stage",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-9100-00068645",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-100-250a-power-stage-19eb8e94b8",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-100-250a-power-stage-19eb8e94b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-100-250a-power-stage-19eb8e94b8.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-1600a-4e580850a4",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 1600A",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000130",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-1600a-4e580850a4",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-1600a-4e580850a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-1600a-4e580850a4.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-2000a-482d9335b9",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 2000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000123",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-2000a-482d9335b9",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-2000a-482d9335b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-2000a-482d9335b9.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-200a-400a-4-pole-ss4-power-stage-877ec045a8",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 200A - 400A 4-POLE SS4, Power Stage",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWR072524",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-200a-400a-4-pole-ss4-power-stage-877ec045a8",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-200a-400a-4-pole-ss4-power-stage-877ec045a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-200a-400a-4-pole-ss4-power-stage-877ec045a8.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-3000-4000a-5800ece3e2",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 3000-4000A",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000193",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-3000-4000a-5800ece3e2",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-3000-4000a-5800ece3e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-3000-4000a-5800ece3e2.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-400-600a-3-pole-6f41b54aee",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 400-600A, 3-pole",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A9054",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-400-600a-3-pole-6f41b54aee",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-400-600a-3-pole-6f41b54aee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-400-600a-3-pole-6f41b54aee.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-600a-800a-4-pole-ss4-power-stage-ec6eca0964",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 600A - 800A 4-POLE SS4, Power Stage",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWR042689",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-600a-800a-4-pole-ss4-power-stage-ec6eca0964",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-600a-800a-4-pole-ss4-power-stage-ec6eca0964.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-600a-800a-4-pole-ss4-power-stage-ec6eca0964.json"
+    },
+    {
+      "id": "abb-cyberex-superswitch-4-dsts-oneline-dwg-800-1200a-3-pole-d4c2dcc41d",
+      "name": "Cyberex® SuperSwitch®4 DSTS Oneline DWG 800-1200A, 3-pole",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107045A5655",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-800-1200a-3-pole-d4c2dcc41d",
+      "recordPath": "equipment/abb-cyberex-superswitch-4-dsts-oneline-dwg-800-1200a-3-pole-d4c2dcc41d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-cyberex-superswitch-4-dsts-oneline-dwg-800-1200a-3-pole-d4c2dcc41d.json"
+    },
+    {
+      "id": "abb-drawing-wi-2102440-power-supply-xrc6990-wiring-interconnect-c3afdb9f7f",
+      "name": "Drawing - WI - 2102440 - POWER SUPPLY, XRC6990 WIRING INTERCONNECT",
+      "manufacturer": "ABB",
+      "drawingNumber": "WI/2102440",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-wi-2102440-power-supply-xrc6990-wiring-interconnect-c3afdb9f7f",
+      "recordPath": "equipment/abb-drawing-wi-2102440-power-supply-xrc6990-wiring-interconnect-c3afdb9f7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-wi-2102440-power-supply-xrc6990-wiring-interconnect-c3afdb9f7f.json"
+    },
+    {
+      "id": "abb-megaflex-480v-ul-1-0-1-2-mw-single-line-diagram-7c53df72ad",
+      "name": "MegaFlex 480V UL - 1.0 - 1.2 MW Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001185499",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-480v-ul-1-0-1-2-mw-single-line-diagram-7c53df72ad",
+      "recordPath": "equipment/abb-megaflex-480v-ul-1-0-1-2-mw-single-line-diagram-7c53df72ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-480v-ul-1-0-1-2-mw-single-line-diagram-7c53df72ad.json"
+    },
+    {
+      "id": "abb-megaflex-480v-ul-1-5-1-6-mw-single-line-diagram-027d6b200e",
+      "name": "MegaFlex 480V UL - 1.5 - 1.6 MW Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001186356",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-480v-ul-1-5-1-6-mw-single-line-diagram-027d6b200e",
+      "recordPath": "equipment/abb-megaflex-480v-ul-1-5-1-6-mw-single-line-diagram-027d6b200e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-480v-ul-1-5-1-6-mw-single-line-diagram-027d6b200e.json"
+    },
+    {
+      "id": "abb-megaflex-ul-415v-1-0-mw-single-line-diagram-003fa3a952",
+      "name": "MegaFlex UL 415V - 1.0 MW Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWD005741",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-415v-1-0-mw-single-line-diagram-003fa3a952",
+      "recordPath": "equipment/abb-megaflex-ul-415v-1-0-mw-single-line-diagram-003fa3a952.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-415v-1-0-mw-single-line-diagram-003fa3a952.json"
+    },
+    {
+      "id": "abb-megaflex-ul-415v-1-1-1-35-mw-single-line-diagram-399ae9364c",
+      "name": "MegaFlex UL 415V - 1.1 - 1.35 MW Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWD005740",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-415v-1-1-1-35-mw-single-line-diagram-399ae9364c",
+      "recordPath": "equipment/abb-megaflex-ul-415v-1-1-1-35-mw-single-line-diagram-399ae9364c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-415v-1-1-1-35-mw-single-line-diagram-399ae9364c.json"
+    },
+    {
+      "id": "abb-megaflex-ul-480v-4w-g-1-0-1-25mw-single-line-diagram-9e23702edd",
+      "name": "MegaFlex UL 480V - 4W+G 1.0 - 1.25MW Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1926",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-480v-4w-g-1-0-1-25mw-single-line-diagram-9e23702edd",
+      "recordPath": "equipment/abb-megaflex-ul-480v-4w-g-1-0-1-25mw-single-line-diagram-9e23702edd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-480v-4w-g-1-0-1-25mw-single-line-diagram-9e23702edd.json"
+    },
+    {
+      "id": "abb-megaflex-ul-480v-4w-g-1-0-1-6-mw-mechanical-outline-7666495762",
+      "name": "MegaFlex UL 480V - 4W+G 1.0 - 1.6 MW Mechanical Outline",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1922",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-480v-4w-g-1-0-1-6-mw-mechanical-outline-7666495762",
+      "recordPath": "equipment/abb-megaflex-ul-480v-4w-g-1-0-1-6-mw-mechanical-outline-7666495762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-480v-4w-g-1-0-1-6-mw-mechanical-outline-7666495762.json"
+    },
+    {
+      "id": "abb-megaflex-ul-480v-4w-g-1-5-1-6mw-single-line-diagram-86f66bdba9",
+      "name": "MegaFlex UL 480V - 4W+G 1.5 - 1.6MW Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108472A1927",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-megaflex-ul-480v-4w-g-1-5-1-6mw-single-line-diagram-86f66bdba9",
+      "recordPath": "equipment/abb-megaflex-ul-480v-4w-g-1-5-1-6mw-single-line-diagram-86f66bdba9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-megaflex-ul-480v-4w-g-1-5-1-6mw-single-line-diagram-86f66bdba9.json"
+    },
+    {
+      "id": "abb-oneline-dpa-120-ul-ups-dwg-ff4716cd2c",
+      "name": "Oneline DPA 120 UL UPS",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000131",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-dpa-120-ul-ups-dwg-ff4716cd2c",
+      "recordPath": "equipment/abb-oneline-dpa-120-ul-ups-dwg-ff4716cd2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-dpa-120-ul-ups-dwg-ff4716cd2c.json"
+    },
+    {
+      "id": "abb-oneline-dpa-300kw-ups-480v-ul-cabinet-dwg-2429f89031",
+      "name": "Oneline DPA 300kW UPS 480V UL Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000087",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-dpa-300kw-ups-480v-ul-cabinet-dwg-2429f89031",
+      "recordPath": "equipment/abb-oneline-dpa-300kw-ups-480v-ul-cabinet-dwg-2429f89031.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-dpa-300kw-ups-480v-ul-cabinet-dwg-2429f89031.json"
+    },
+    {
+      "id": "abb-oneline-dpa-500kw-ups-480v-ul-cabinet-dwg-698bf29409",
+      "name": "Oneline DPA 500kW UPS 480V UL Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000050",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-dpa-500kw-ups-480v-ul-cabinet-dwg-698bf29409",
+      "recordPath": "equipment/abb-oneline-dpa-500kw-ups-480v-ul-cabinet-dwg-698bf29409.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-dpa-500kw-ups-480v-ul-cabinet-dwg-698bf29409.json"
+    },
+    {
+      "id": "abb-oneline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-7d49ab2cd5",
+      "name": "Oneline Drawing TruFit PDU, 400-800kVA, 480V - 415Y/240V and 208Y/120V",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000444",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-7d49ab2cd5",
+      "recordPath": "equipment/abb-oneline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-7d49ab2cd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-7d49ab2cd5.json"
+    },
+    {
+      "id": "abb-oneline-drawings-trufit-pdu-50-300kva-distribution-options-90bae57877",
+      "name": "Oneline drawings TruFit PDU, 50-300kVA, Distribution Options",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000200",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-drawings-trufit-pdu-50-300kva-distribution-options-90bae57877",
+      "recordPath": "equipment/abb-oneline-drawings-trufit-pdu-50-300kva-distribution-options-90bae57877.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-drawings-trufit-pdu-50-300kva-distribution-options-90bae57877.json"
+    },
+    {
+      "id": "abb-oneline-for-all-dpa-ul-ups-external-mbc-dwg-ca845e0319",
+      "name": "Oneline for All DPA UL UPS - External MBC",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-7300-00000052",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oneline-for-all-dpa-ul-ups-external-mbc-dwg-ca845e0319",
+      "recordPath": "equipment/abb-oneline-for-all-dpa-ul-ups-external-mbc-dwg-ca845e0319.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oneline-for-all-dpa-ul-ups-external-mbc-dwg-ca845e0319.json"
+    },
+    {
+      "id": "abb-outline-dpa-120kw-ups-208v-ul-master-cabinet-c146a124a5",
+      "name": "Outline DPA 120kW UPS 208V UL Master Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NWD003006",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-dpa-120kw-ups-208v-ul-master-cabinet-c146a124a5",
+      "recordPath": "equipment/abb-outline-dpa-120kw-ups-208v-ul-master-cabinet-c146a124a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-dpa-120kw-ups-208v-ul-master-cabinet-c146a124a5.json"
+    },
+    {
+      "id": "abb-outline-dpa-120kw-ups-208v-ul-slave-cabinet-b75e4131ff",
+      "name": "Outline DPA 120kW UPS 208V UL Slave Cabinet",
+      "manufacturer": "ABB",
+      "drawingNumber": "4NW0003470",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-dpa-120kw-ups-208v-ul-slave-cabinet-b75e4131ff",
+      "recordPath": "equipment/abb-outline-dpa-120kw-ups-208v-ul-slave-cabinet-b75e4131ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-dpa-120kw-ups-208v-ul-slave-cabinet-b75e4131ff.json"
+    },
+    {
+      "id": "abb-outline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-fc782c005a",
+      "name": "Outline Drawing TruFit PDU, 400-800kVA, 480V - 415Y/240V and 208Y/120V",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-9200-00071858",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-fc782c005a",
+      "recordPath": "equipment/abb-outline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-fc782c005a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawing-trufit-pdu-400-800kva-480v-415y-240v-and-208y-120v-fc782c005a.json"
+    },
+    {
+      "id": "abb-outline-drawings-trufit-pdu-50-300kva-8d61cd795b",
+      "name": "Outline Drawings TruFit PDU 50-300kVA",
+      "manufacturer": "ABB",
+      "drawingNumber": "94-9200-00071840",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-outline-drawings-trufit-pdu-50-300kva-8d61cd795b",
+      "recordPath": "equipment/abb-outline-drawings-trufit-pdu-50-300kva-8d61cd795b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-outline-drawings-trufit-pdu-50-300kva-8d61cd795b.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-1000kva-electrical-single-line-diagram-be19e18697",
+      "name": "TLE 480V UL UPS - 1000kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048314",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-1000kva-electrical-single-line-diagram-be19e18697",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-1000kva-electrical-single-line-diagram-be19e18697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-1000kva-electrical-single-line-diagram-be19e18697.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-160kva-electrical-single-line-diagram-4c83d637f0",
+      "name": "TLE 480V UL UPS - 160kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048305",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-160kva-electrical-single-line-diagram-4c83d637f0",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-160kva-electrical-single-line-diagram-4c83d637f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-160kva-electrical-single-line-diagram-4c83d637f0.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-200kva-electrical-single-line-diagram-756a11a3e7",
+      "name": "TLE 480V UL UPS - 200kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048306",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-200kva-electrical-single-line-diagram-756a11a3e7",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-200kva-electrical-single-line-diagram-756a11a3e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-200kva-electrical-single-line-diagram-756a11a3e7.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-225kva-electrical-single-line-diagram-7c462a934b",
+      "name": "TLE 480V UL UPS - 225kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048307",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-225kva-electrical-single-line-diagram-7c462a934b",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-225kva-electrical-single-line-diagram-7c462a934b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-225kva-electrical-single-line-diagram-7c462a934b.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-250kva-electrical-single-line-diagram-3402ebd6c3",
+      "name": "TLE 480V UL UPS - 250kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048308",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-250kva-electrical-single-line-diagram-3402ebd6c3",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-250kva-electrical-single-line-diagram-3402ebd6c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-250kva-electrical-single-line-diagram-3402ebd6c3.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-300kva-electrical-single-line-diagram-6c5c4f6512",
+      "name": "TLE 480V UL UPS - 300kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048309",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-300kva-electrical-single-line-diagram-6c5c4f6512",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-300kva-electrical-single-line-diagram-6c5c4f6512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-300kva-electrical-single-line-diagram-6c5c4f6512.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-400kva-electrical-single-line-diagram-95e7ce3c9a",
+      "name": "TLE 480V UL UPS - 400kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048310",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-400kva-electrical-single-line-diagram-95e7ce3c9a",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-400kva-electrical-single-line-diagram-95e7ce3c9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-400kva-electrical-single-line-diagram-95e7ce3c9a.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-500kva-electrical-single-line-diagram-4d2b2df6b5",
+      "name": "TLE 480V UL UPS - 500kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048311",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-500kva-electrical-single-line-diagram-4d2b2df6b5",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-500kva-electrical-single-line-diagram-4d2b2df6b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-500kva-electrical-single-line-diagram-4d2b2df6b5.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-625kva-electrical-single-line-diagram-0eb2c0e6c8",
+      "name": "TLE 480V UL UPS - 625kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048312",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-625kva-electrical-single-line-diagram-0eb2c0e6c8",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-625kva-electrical-single-line-diagram-0eb2c0e6c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-625kva-electrical-single-line-diagram-0eb2c0e6c8.json"
+    },
+    {
+      "id": "abb-tle-480v-ul-ups-750kva-electrical-single-line-diagram-ad65eaa3e7",
+      "name": "TLE 480V UL UPS - 750kVA Electrical Single Line Diagram",
+      "manufacturer": "ABB",
+      "drawingNumber": "0001048313",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-480v-ul-ups-750kva-electrical-single-line-diagram-ad65eaa3e7",
+      "recordPath": "equipment/abb-tle-480v-ul-ups-750kva-electrical-single-line-diagram-ad65eaa3e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-480v-ul-ups-750kva-electrical-single-line-diagram-ad65eaa3e7.json"
+    },
+    {
+      "id": "abb-tle-scalable-ul-series-ups-battery-cabinet-40-150kw-mechanical-drawing-070f1cbef3",
+      "name": "TLE Scalable UL Series UPS Battery Cabinet - 40 - 150kW - Mechanical Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "BC50-CONFIG 201",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-ul-series-ups-battery-cabinet-40-150kw-mechanical-drawing-070f1cbef3",
+      "recordPath": "equipment/abb-tle-scalable-ul-series-ups-battery-cabinet-40-150kw-mechanical-drawing-070f1cbef3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-ul-series-ups-battery-cabinet-40-150kw-mechanical-drawing-070f1cbef3.json"
+    },
+    {
+      "id": "abb-tle-scalable-ul-series-ups-battery-cabinet-40-to-80kw-mechanical-drawing-19843b5747",
+      "name": "TLE Scalable UL Series UPS Battery Cabinet - 40 to 80kW - Mechanical Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "BC41-CONFIG 200",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-ul-series-ups-battery-cabinet-40-to-80kw-mechanical-drawing-19843b5747",
+      "recordPath": "equipment/abb-tle-scalable-ul-series-ups-battery-cabinet-40-to-80kw-mechanical-drawing-19843b5747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-ul-series-ups-battery-cabinet-40-to-80kw-mechanical-drawing-19843b5747.json"
+    },
+    {
+      "id": "abb-tle-scalable-ul-series-ups-output-panelboard-distribution-cabinet-mechanical-drawing-dbe4b980d0",
+      "name": "TLE Scalable UL Series UPS Output Panelboard Distribution Cabinet - Mechanical Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "90862-F-CONFIG 167",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-ul-series-ups-output-panelboard-distribution-cabinet-mechanical-drawing-dbe4b980d0",
+      "recordPath": "equipment/abb-tle-scalable-ul-series-ups-output-panelboard-distribution-cabinet-mechanical-drawing-dbe4b980d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-ul-series-ups-output-panelboard-distribution-cabinet-mechanical-drawing-dbe4b980d0.json"
+    },
+    {
+      "id": "abb-tle-scalable-ul-series-ups-subfeed-breaker-output-distribution-cabinet-mechanical-drawing-02b8f3f625",
+      "name": "TLE Scalable UL Series UPS Subfeed Breaker Output Distribution Cabinet - Mechanical Drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "90864-F-CONFIG 168",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-tle-scalable-ul-series-ups-subfeed-breaker-output-distribution-cabinet-mechanical-drawing-02b8f3f625",
+      "recordPath": "equipment/abb-tle-scalable-ul-series-ups-subfeed-breaker-output-distribution-cabinet-mechanical-drawing-02b8f3f625.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-tle-scalable-ul-series-ups-subfeed-breaker-output-distribution-cabinet-mechanical-drawing-02b8f3f625.json"
+    },
+    {
+      "id": "abb-user-drawing-2103687-24-vdc-charger-voltage-adapter-to-xseries-board-rev-ab-fd18d416d2",
+      "name": "User drawing - 2103687 - 24 VDC Charger Voltage Adapter to XSeries Board (rev. AB)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2103687",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2103687-24-vdc-charger-voltage-adapter-to-xseries-board-rev-ab-fd18d416d2",
+      "recordPath": "equipment/abb-user-drawing-2103687-24-vdc-charger-voltage-adapter-to-xseries-board-rev-ab-fd18d416d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2103687-24-vdc-charger-voltage-adapter-to-xseries-board-rev-ab-fd18d416d2.json"
+    },
+    {
+      "id": "abb-user-drawing-2103939-24-vdc-charger-voltage-adapter-to-microflo-rev-ab-a54e30db8c",
+      "name": "User drawing - 2103939 - 24 VDC Charger Voltage Adapter to microFLO (rev. AB)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2103939",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2103939-24-vdc-charger-voltage-adapter-to-microflo-rev-ab-a54e30db8c",
+      "recordPath": "equipment/abb-user-drawing-2103939-24-vdc-charger-voltage-adapter-to-microflo-rev-ab-a54e30db8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2103939-24-vdc-charger-voltage-adapter-to-microflo-rev-ab-a54e30db8c.json"
+    },
+    {
+      "id": "abb-v-clamp-300-sts-kit-dimensional-drawing-c7b7b2491d",
+      "name": "V-Clamp 300 STS kit Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A0757",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-v-clamp-300-sts-kit-dimensional-drawing-c7b7b2491d",
+      "recordPath": "equipment/abb-v-clamp-300-sts-kit-dimensional-drawing-c7b7b2491d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-v-clamp-300-sts-kit-dimensional-drawing-c7b7b2491d.json"
+    },
+    {
+      "id": "abb-v-clamp-300-sts-kit-w-copperbars-dimensional-drawing-7ed163a39c",
+      "name": "V-Clamp 300 STS kit w/ copperbars Dimensional drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK107991A0749",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-v-clamp-300-sts-kit-w-copperbars-dimensional-drawing-7ed163a39c",
+      "recordPath": "equipment/abb-v-clamp-300-sts-kit-w-copperbars-dimensional-drawing-7ed163a39c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-v-clamp-300-sts-kit-w-copperbars-dimensional-drawing-7ed163a39c.json"
+    }
+  ]
+}

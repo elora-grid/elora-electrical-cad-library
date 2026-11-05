@@ -33,7 +33,7 @@ Open C0-00AC.dwg from the CLICK archive. Use its physical views to coordinate th
 
 A power supply turns incoming electrical power into the voltage and form needed by connected equipment.
 
-In a switchgear control panel, an AC-to-DC power supply can provide DC power for relays, controller modules and indication circuits.
+A panel designer places this supply beside the selected CLICK controller and checks mounting space and wiring access.
 
 Open C0-00AC.dwg from the CLICK archive. Use its physical views to coordinate the supply’s position and fixing arrangement, then consult the selected supply documentation for input/output connections. The archive’s PLC-family name does not change the equipment’s actual role.
 

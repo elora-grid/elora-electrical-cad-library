@@ -5,7 +5,7 @@ export const CATEGORIES = {
   enclosures: 'Enclosures & hardware', busbar: 'Busbar & distribution',
   protection: 'Protection & metering', automation: 'Automation & controls',
   wiring: 'Wiring & terminals', 'power-supplies': 'Auxiliary power & UPS',
-  thermal: 'Thermal management', 'power-quality': 'Power quality & drives',
+  motors: 'Motors & drives', thermal: 'Thermal management', 'power-quality': 'Power quality & drives',
   transformers: 'Transformers & earthing', generation: 'Generators & alternators',
   'generator-auxiliaries': 'Generator auxiliaries', storage: 'Battery storage & PCS',
   solar: 'Solar & inverters', communications: 'Communications',
@@ -20,6 +20,9 @@ const enumeration = values => ({type:'string',enum:values});
 const object = (properties,required=Object.keys(properties)) => ({type:'object',properties,required,additionalProperties:false});
 const file = object({
   id,name:str,format:str,purpose:str,url,availability:enumeration(['direct','account','request']),
+  filenameBasis:enumeration(['source-url','response-header','document-reference']),
+  documentNumber:str,latestRevisionUrl:url,sourceCheckedAt:str,reportedBytes:{type:'integer',minimum:1},
+  previewPages:{type:'array',items:{type:'integer',minimum:1}},
   bytes:{type:'integer',minimum:1},sha256:hash,retrievedAt:str,revision:str,archiveContents:strings,archiveMember:str,
   validation:enumeration(['signature-checked','archive-inspected','link-verified']),hosted:{type:'boolean'},downloadUrl:url,
   redistribution:enumeration(['unknown','permitted','restricted']),
@@ -31,6 +34,8 @@ const file = object({
 const record = object({
   id,name:str,manufacturer:str,category:enumeration(Object.keys(CATEGORIES)),description:str,
   equipment:strings,keywords:strings,markets:{type:'array',items:enumeration(['US','AU','UK','Europe','Global'])},
+  drawingNumber:str,applications:{type:'array',items:enumeration(['switchgear','switchrooms','substations','switchyards','microgrids'])},
+  technicalFacts:{type:'array',items:object({label:str,value:str,sourceUrl:url})},
   marketNote:str,kind:enumeration(['product','family','library','configurator','drawing']),partNumber:str,
   sourceUrl:url,officialEvidenceUrl:url,sourcePublisher:str,formats:strings,
   availability:enumeration(['direct','account','configurator','request','catalogue']),accessNote:str,checkedAt:str,
@@ -48,7 +53,7 @@ export const SCHEMA = {
   $id:'https://raw.githubusercontent.com/elora-grid/elora-electrical-cad-library/main/schema/catalogue.schema.json',
   title:'Elora official electrical CAD catalogue',
   description:'Public metadata only. Manufacturer CAD licences are recorded per file and are separate from the catalogue licence.',
-  ...object({schemaVersion:{const:3},canonical:{const:BASE},scope:str,query:{const:''},total:{type:'integer',minimum:1},page:{const:1},limit:{type:'integer',minimum:1},returned:{type:'integer',minimum:1},equipment:{type:'array',items:record}})
+  ...object({schemaVersion:{const:3},canonical:{const:BASE},scope:str,query:{const:''},total:{type:'integer',minimum:1},page:{const:1},limit:{type:'integer',minimum:1},returned:{type:'integer',minimum:1},equipment:{type:'array',items:record}},['schemaVersion','canonical','scope','total','page','limit','returned','equipment'])
 };
 // Deliberately implements only the schema keywords used above. No dependencies.
 export function validateSchema(value,schema,path='$') {
@@ -126,9 +131,12 @@ export function entryMarkdown(r){return [
   `# ${md(r.manufacturer)} — ${md(r.name)}`,'',md(r.description),'',
   `[Equipment page and downloads](${r.canonicalUrl}) · [Live Markdown](${BASE}/entries/${r.id}.md) · [Live JSON](${BASE}/entries/${r.id}.json) · [Official manufacturer source](${r.sourceUrl})`,'',
   `- Category: ${CATEGORIES[r.category]}`,`- Entry type: ${r.kind}`,`- Part number: ${md(r.partNumber||'Select exact configuration')}`,
+  ...(r.drawingNumber?[`- Drawing/document number: ${md(r.drawingNumber)}`]:[]),
+  ...(r.applications?.length?[`- Installation applications: ${r.applications.map(md).join(', ')}`]:[]),
   `- Formats: ${r.formats.join(', ')||'Confirm with manufacturer'}`,`- Discovery markets: ${r.markets.join(', ')}`,`- Access: ${r.availability}`,`- Checked: ${r.checkedAt}`,'',
   md(r.accessNote),md(r.marketNote),md(r.configurationNote||''),md(r.standardNote||''),'',
   ...(r.equipmentFacts?.length?['## Equipment and file summary','',...r.equipmentFacts.map(f=>`- ${md(f.label)}: ${md(f.value)}`),'']:[]),
+  ...(r.technicalFacts?.length?['## Source-linked technical facts','',...r.technicalFacts.map(f=>`- ${md(f.label)}: ${md(f.value)} ([source](${f.sourceUrl}))`),'']:[]),
   ...(r.plainEnglish?[
     `## ${md(r.plainEnglish.title)}`,'',md(r.plainEnglish.introduction),'',md(r.plainEnglish.example),'',md(r.plainEnglish.drawings),'',
     ...r.plainEnglish.terms.map(t=>`- **${md(t.name)}**: ${md(t.meaning)}`),'',

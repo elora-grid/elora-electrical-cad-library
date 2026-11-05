@@ -32,7 +32,7 @@ The verified native member is PLC Families/CLICK/C0-08SIM.DWG. Its identity was 
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For example, in a controller commissioning test setup before field wiring is connected, use the C0-08SIM reference to coordinate test controls, compatible controller connection and access for removal. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/CLICK/C0-08SIM.DWG. Its identity was checked against the acquired manufacturer archive. Plan the controller and expansion devices together, with separate space for terminal wiring and programming access. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

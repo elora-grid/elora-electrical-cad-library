@@ -32,7 +32,7 @@ The verified native member is 800000-CS-SKR-A103.DWG. Its identity was checked a
 
 An interlock prevents a specified action unless the required conditions are satisfied. Its mechanical or electrical arrangement determines what it supervises.
 
-In switchgear, an interlock can prevent a particular switching operation while the associated equipment is in an incompatible position.
+For example, in an electrical enclosure where access follows a documented interlock sequence, use the 800000-CS-SKR-A103 reference to coordinate operating face, fixing points and controlled mechanism. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is 800000-CS-SKR-A103.DWG. Its identity was checked against the acquired manufacturer archive. Align the interlock hardware with the intended door or mechanical interface and keep key insertion and withdrawal clear. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: 800000-CS-SKR-A105. Grouping does not establish electrical interchangeability.
 

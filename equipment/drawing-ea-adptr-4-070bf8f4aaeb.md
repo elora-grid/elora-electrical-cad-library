@@ -32,7 +32,7 @@ The verified native member is Operator Interface/Cmore Accessories/EA-ADPTR-4.dw
 
 An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
 
-In a switchroom, the screen can show which feeders are running and identify the equipment associated with an alarm.
+For operator-panel accessory coordination, place the EA-ADPTR-4 outline alongside the actual enclosure and adjacent hardware. Match the accessory drawing to the exact host panel before fixing its position, retaining hardware or cable route. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Operator Interface/Cmore Accessories/EA-ADPTR-4.dwg. Its identity was checked against the acquired manufacturer archive. Match the accessory drawing to the exact host panel before fixing its position, retaining hardware or cable route. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

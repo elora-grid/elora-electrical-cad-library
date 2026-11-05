@@ -12,7 +12,7 @@ Official mechanical STEP for the Orion XS 12/12-70A DC-DC battery charger, part 
 - Access: direct
 - Checked: 2026-10-29
 
-Download the unchanged original files from the official publisher using the links below. Confirm the latest revision and selected product configuration before design use.
+1 original file is available to download here. Manufacturer sources and revisions are listed below.
 Global source discovery; confirm local product availability, electrical configuration and approvals with the manufacturer.
 Confirm selected size, mounting orientation, revision and installation clearances against the manufacturer installation documents. CAD geometry is not a substitute for operating or maintenance clearances.
 
@@ -24,10 +24,10 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Part number: ORI121221040
 - Listed file formats: STEP
 - Listed files: 1
-- Available previews: Manufacturer source / drawing request
+- Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -47,6 +47,12 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 Start with ORI121221040. The files above belong to Victron Energy's Orion XS 12/12-70A DC-DC battery charger resource; match any model or option suffix in the filename to your selected unit.
 Available here: STEP. The original filename is DimensionDrawing-ORI121221040-Orion-XS-12-12-70A-DC-DC-battery-charger-3D.STEP.
 
+## Preview
+
+![Victron Energy Orion XS 12/12-70A DC-DC battery charger: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/victron-energy-orion-xs-12-12-70a/victron-energy-dimensiondrawing-ori121221040-orion-xs-12-12-70a-dc-dc-battery-charger-3d-step?asset=bed3b70e5c77effd4893a3b833f0c7642e14ed15489d4532af53fe014ee5051b&view=thumb&v=f09c0c3804f871cf)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/victron-energy-orion-xs-12-12-70a). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
 ## Equipment references and drawing guides
 
 - [Victron Energy Orion XS 12/12-70A DC-DC charger](https://eloragrid.ai/objects/victron-energy-orion-xs-12-12-70a)
@@ -63,15 +69,18 @@ Related GA references provide equipment context; a related category does not est
 - Format: STEP
 - Purpose: 3D mechanical model
 - [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-ORI121221040-Orion-XS-12-12-70A-DC-DC-battery-charger-3D.STEP)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-orion-xs-12-12-70a/victron-energy-dimensiondrawing-ori121221040-orion-xs-12-12-70a-dc-dc-battery-charger-3d-step)
 - Redistribution: unknown
 - Original SHA-256: bed3b70e5c77effd4893a3b833f0c7642e14ed15489d4532af53fe014ee5051b
 - Original bytes: 41799059
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: Official product page, legal notice and linked terms of sale checked. The terms address sold products, supplied software and confidential buyer data; no specific prohibition for this public STEP was identified. The STEP header/content contains no detected copyright or reproduction notice. Redistribution remains unconfirmed; no licence is asserted.
-- [Rights evidence](https://www.victronenergy.com/dc-dc-converters/orion-xs-dc-dc-battery-chargers)
-- [Rights evidence](https://www.victronenergy.com/p/legal-notice)
-- [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Victron Energy
+- [Hosting evidence](https://www.victronenergy.com/upload/documents/DimensionDrawing-ORI121221040-Orion-XS-12-12-70A-DC-DC-battery-charger-3D.STEP)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://www.victronenergy.com/upload/documents/DimensionDrawing-ORI121221040-Orion-XS-12-12-70A-DC-DC-battery-charger-3D.STEP)
+- Delivery: original; STEP; 41799059 bytes
+- Delivery SHA-256: bed3b70e5c77effd4893a3b833f0c7642e14ed15489d4532af53fe014ee5051b
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -32,7 +32,7 @@ The verified native member is Power Products/Non-fused Disconnects/SD-HRY.DWG. I
 
 A switch changes an electrical connection when a person or mechanism operates it. Its contacts determine which control paths are made or broken.
 
-In a switchroom, a local pushbutton can send a start or stop request to a ventilation control circuit.
+For example, in a control-panel door with a selected handle and operating linkage, use the SD-HRY reference to coordinate shaft or handle interface, fixing access and door motion. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Power Products/Non-fused Disconnects/SD-HRY.DWG. Its identity was checked against the acquired manufacturer archive. Place the disconnect and its operating hardware together so door alignment, travel and terminal access can be reviewed. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

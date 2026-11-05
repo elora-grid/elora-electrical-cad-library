@@ -32,7 +32,7 @@ Import the IP65-labelled file and compare it with the equipment being specified.
 
 The SmartShunt measures how much current flows into and out of a battery. This helps track charging and use, and estimate how much charge remains.
 
-In a microgrid battery system, it can show whether the battery is charging from solar generation or supplying the site's loads.
+A designer can check the selected shunt’s placement and cable approach without substituting the separately listed standard-version model.
 
 Import the IP65-labelled file and compare it with the equipment being specified. The model’s title identifies the version; the installation manual establishes the wiring and actual environmental-use requirements. A geometric model is not a substitute for that documentation.
 

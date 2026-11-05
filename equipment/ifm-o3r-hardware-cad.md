@@ -32,7 +32,7 @@ Follow the O3R documentation’s hardware table to the exact unit’s drawing ro
 
 This manufacturer resource helps you find drawings or select versions of vision sensors, industrial sensing, O3R cameras. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected vision sensors drawing before reserving its space, mounting points and cable routes in the layout.
+A machine layout can place the processing unit inside an enclosure and position the selected camera head where it can view the intended area.
 
 Follow the O3R documentation’s hardware table to the exact unit’s drawing route. Identify the OVP or O3R reference and check hardware/documentation version. Use mechanical CAD for placement, then obtain the separate connector, cable and sensing/visibility requirements.
 

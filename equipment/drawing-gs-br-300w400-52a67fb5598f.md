@@ -33,7 +33,7 @@ Open GS-BR-300W400.DWG from the drive archive. Use the drawing to coordinate the
 
 A braking resistor turns electrical energy returned by a slowing motor into heat when used with the selected drive's braking arrangement.
 
-In a switchroom services drive, it can help manage energy returned while a suitable motor-driven load slows down.
+A panel layout may need to place a resistor separately from its drive while allowing the installation and heat-management arrangements specified by the manufacturer.
 
 Open GS-BR-300W400.DWG from the drive archive. Use the drawing to coordinate the resistor’s body and fixing points. Drive compatibility, braking duty, electrical connection and thermal clearances require the selected manufacturer instructions; the archive name alone establishes none of them.
 

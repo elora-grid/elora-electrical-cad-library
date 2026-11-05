@@ -32,7 +32,7 @@ The verified native member is PLC Families/P3000/P3-32ND3.dwg. Its identity was 
 
 An input module brings measurements or on/off signals from equipment into a controller so its program can respond.
 
-In a substation control panel, an input module can report whether a breaker is open or closed.
+For example, in a pump panel collecting status from level and position switches, use the P3-32ND3 reference to coordinate field-input terminals, identification labels and module replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P3000/P3-32ND3.dwg. Its identity was checked against the acquired manufacturer archive. Locate the station and its connection faces before routing conductors; maintain access to the removable or serviceable parts shown in the drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: P3-32TD1, P3-32TD2. Grouping does not establish electrical interchangeability.
 

@@ -32,7 +32,7 @@ Import the named STEP model to coordinate its shape and location. Fuji’s 2025 
 
 A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
 
-In a switchroom, a controller can operate a contactor to start a ventilation fan while separate protective devices deal with overloads and faults.
+For maintenance or replacement planning, a drafter can compare the archived contactor geometry with the actual unit and the proposed replacement.
 
 Import the named STEP model to coordinate its shape and location. Fuji’s 2025 notice lists these basic types in a range discontinued from February 2026, so treat this as a legacy drawing resource. Replacement selection must account for mounting, contacts, coil and associated equipment.
 

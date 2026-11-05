@@ -32,7 +32,7 @@ The verified native member is SX-2GATE-SET.dwg. Its identity was checked against
 
 An interlock prevents a specified action unless the required conditions are satisfied. Its mechanical or electrical arrangement determines what it supervises.
 
-In switchgear, an interlock can prevent a particular switching operation while the associated equipment is in an incompatible position.
+For example, in an electrical enclosure where access follows a documented interlock sequence, use the SX-2GATE-SET reference to coordinate operating face, fixing points and controlled mechanism. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is SX-2GATE-SET.dwg. Its identity was checked against the acquired manufacturer archive. Align the interlock hardware with the intended door or mechanical interface and keep key insertion and withdrawal clear. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

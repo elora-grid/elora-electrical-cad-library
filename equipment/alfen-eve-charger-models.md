@@ -32,7 +32,7 @@ Use Alfen’s model table to match the product family and mounting configuration
 
 This manufacturer resource helps you find drawings or select versions of electric vehicle charging stations, Eve Single chargers, Eve Double chargers. Use it to locate the matching equipment outline or model for your design.
 
-When planning a microgrid installation, you can use this collection to find the selected EV charging stations drawing before reserving its space, mounting points and cable routes in the layout.
+A designer can choose the exact Eve model and mounting arrangement before placing it beside a parking bay or building wall.
 
 Use Alfen’s model table to match the product family and mounting configuration, then download the corresponding available STEP model. Check the installation documents separately for fixing, supply and service requirements. A useful request includes the complete variant instead of only the word Eve.
 

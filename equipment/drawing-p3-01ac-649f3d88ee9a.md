@@ -32,7 +32,7 @@ The verified native member is PLC Families/P3000/P3-01AC.dwg. Its identity was c
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For example, in a machine cabinet with a dedicated supply for its controller assembly, use the P3-01AC reference to coordinate supply terminals, protective-earth route and adjacent controller modules. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P3000/P3-01AC.dwg. Its identity was checked against the acquired manufacturer archive. Locate the station and its connection faces before routing conductors; maintain access to the removable or serviceable parts shown in the drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: P3-01DC. Grouping does not establish electrical interchangeability.
 

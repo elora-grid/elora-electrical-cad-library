@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Terminator Field IO/T1K-08TRS.d
 
 An output module passes a controller's commands to connected equipment through the type of electrical output provided.
 
-In a switchroom ventilation panel, an output can request a contactor to start a fan.
+For example, in a conveyor panel sending commands to interposing relays, use the T1K-08TRS reference to coordinate output-terminal access, conductor routing and module replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Terminator Field IO/T1K-08TRS.dwg. Its identity was checked against the acquired manufacturer archive. Use the device outline to coordinate the I/O station, its terminals and the service access needed beside cable duct. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

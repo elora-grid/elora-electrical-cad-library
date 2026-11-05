@@ -32,7 +32,7 @@ The verified native member is Power Products/Gladiator CFS Series Disconnects/CF
 
 A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
 
-In a switchyard, a disconnector provides an isolation point for a circuit section within the site's operating procedure.
+For example, in a machine control panel with a door-operated main switch, use the CFS-3PCC30 reference to coordinate power-terminal approach, operating shaft and door handle. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Power Products/Gladiator CFS Series Disconnects/CFS-3PCC30.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the switch mounting, conductor approach and operator access with the enclosure arrangement. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

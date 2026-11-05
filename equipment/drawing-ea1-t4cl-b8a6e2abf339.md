@@ -32,7 +32,7 @@ The verified native member is Operator Interface/Cmore Micro Graphic/EA1-T4CL.dw
 
 An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
 
-In a switchroom, the screen can show which feeders are running and identify the equipment associated with an alarm.
+For example, in a packaging-machine door with an operator touchscreen, use the EA1-T4CL reference to coordinate front-face operating position, panel cut-out and rear connectors. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Operator Interface/Cmore Micro Graphic/EA1-T4CL.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the front-panel footprint with the rear connector approach and any accessory clearance shown by the drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

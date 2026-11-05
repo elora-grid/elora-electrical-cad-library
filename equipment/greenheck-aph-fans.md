@@ -24,7 +24,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Part number: APH
 - Listed file formats: DWG, RFA, ZIP
 - Listed files: 3
-- Available previews: 3 drawing previews
+- Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available

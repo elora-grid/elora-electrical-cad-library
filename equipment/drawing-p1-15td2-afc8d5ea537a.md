@@ -32,7 +32,7 @@ The verified native member is PLC Families/P1000/P1-15TD2.dwg. Its identity was 
 
 A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
 
-In a switchroom, it can read temperature and fan-status signals, then request ventilation and report an alarm if the fan fails to run.
+For compact PAC panel layout, place the P1-15TD2 outline alongside the actual enclosure and adjacent hardware. Lay out the PAC station before locating cable duct so the terminal strips and expansion joints remain accessible. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is PLC Families/P1000/P1-15TD2.dwg. Its identity was checked against the acquired manufacturer archive. Lay out the PAC station before locating cable duct so the terminal strips and expansion joints remain accessible. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

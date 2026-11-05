@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-302.dwg. Its ide
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+For example, in a process-control panel receiving transmitter signals, use the PX-302 reference to coordinate field-signal terminals, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Protos X IO/PX-302.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

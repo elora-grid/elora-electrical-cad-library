@@ -4,7 +4,7 @@ Use this catalogue to find official electrical CAD/BIM sources and downloadable 
 
 ## Start here
 
-1. Read `data/catalogue.json` or call `https://eloragrid.ai/tools/cad-library/catalogue.json?all=1` for the current snapshot.
+1. Read `data/index.json`, choose a category shard from its `categories[].pages[]`, then follow an entry’s `recordPath` or `jsonUrl`. Each shard contains at most 250 compact records. The complete `data/catalogue.json` remains available for local bulk processing; the live full feed redirects to `https://eloragrid.ai/cad-library/catalogue.json`.
 2. Search names, manufacturer, part number, equipment, keywords and archive filenames. Narrow by category, format and discovery market. See `docs/api.md` and `openapi.json`.
 3. Inspect the entry's `kind`, exact `partNumber`, configuration notes and individual files before recommending it.
 4. Read `equipmentFacts`, `fileChoiceGuidance` and `plainEnglish` for equipment-specific explanations. Related GA references provide context and may be generic; they do not all represent exact product matches.
@@ -21,6 +21,7 @@ The root `llms.txt` is a compact navigation guide, not a search-engine indexing 
 | `equipmentFacts`, `fileChoiceGuidance`, `plainEnglish` | Public equipment/file facts and readable guidance from the website; these do not add unverified technical ratings. |
 | `previewImage` | Root-relative image path on `https://eloragrid.ai`; resolve against that origin, not GitHub. It is an illustration, not the original CAD or model binary. |
 | `relatedReferences` | GA reference names and website URLs, including related generic equipment categories. |
+| `drawingNumber`, `applications`, `technicalFacts` | Manufacturer document identifier, installation discovery tags, and source-linked technical facts. |
 | `drawingReference` | Original drawing family, filenames and parent catalogue ID. A drawing entry is not a new independently configured product. |
 | `nativeFiles` | Identified native filenames, formats, sizes, hashes and containing-archive provenance. |
 | `files[].archiveMember` | The particular native filename within a family archive; the download may contain other members. |

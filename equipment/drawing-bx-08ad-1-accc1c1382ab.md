@@ -32,7 +32,7 @@ The verified native member is PLC Families/BRX/BX-08AD-1.dwg. Its identity was c
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+For example, in a process-control panel receiving transmitter signals, use the BX-08AD-1 reference to coordinate field-signal terminals, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/BRX/BX-08AD-1.dwg. Its identity was checked against the acquired manufacturer archive. Place the PLC hardware in its intended module order and keep terminal removal and communication-port access clear. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

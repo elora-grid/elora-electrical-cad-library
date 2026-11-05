@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 1,
+  "category": "communications",
+  "page": 1,
+  "entries": [
+    {
+      "id": "victron-energy-cerbo-gx",
+      "name": "Cerbo GX",
+      "manufacturer": "Victron Energy",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-cerbo-gx",
+      "recordPath": "equipment/victron-energy-cerbo-gx.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/victron-energy-cerbo-gx.json"
+    },
+    {
+      "id": "westermo-lynx-5612-e-f4g-t8g-lv",
+      "name": "Lynx 5612-E-F4G-T8G-LV",
+      "manufacturer": "Westermo",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/westermo-lynx-5612-e-f4g-t8g-lv",
+      "recordPath": "equipment/westermo-lynx-5612-e-f4g-t8g-lv.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/westermo-lynx-5612-e-f4g-t8g-lv.json"
+    },
+    {
+      "id": "ad-comm",
+      "name": "Communications Products CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-comm",
+      "recordPath": "equipment/ad-comm.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-comm.json"
+    },
+    {
+      "id": "ad-seslvpn",
+      "name": "Stride VPN CAD package",
+      "manufacturer": "AutomationDirect",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ad-seslvpn",
+      "recordPath": "equipment/ad-seslvpn.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ad-seslvpn.json"
+    },
+    {
+      "id": "hubbell-drawings",
+      "name": "Hubbell communications customer drawings",
+      "manufacturer": "Hubbell",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hubbell-drawings",
+      "recordPath": "equipment/hubbell-drawings.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hubbell-drawings.json"
+    },
+    {
+      "id": "europe-lovato-exccon02",
+      "name": "EXCCON02 RS485/Ethernet Modbus converter",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-exccon02",
+      "recordPath": "equipment/europe-lovato-exccon02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/europe-lovato-exccon02.json"
+    },
+    {
+      "id": "uk-dse-dse8003-mkii",
+      "name": "DSE8003 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse8003-mkii",
+      "recordPath": "equipment/uk-dse-dse8003-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse8003-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse857",
+      "name": "DSE857 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse857",
+      "recordPath": "equipment/uk-dse-dse857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse857.json"
+    },
+    {
+      "id": "uk-dse-dse890-mkii",
+      "name": "DSE890 MKII wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse890-mkii",
+      "recordPath": "equipment/uk-dse-dse890-mkii.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse890-mkii.json"
+    },
+    {
+      "id": "uk-dse-dse892",
+      "name": "DSE892 wiring CAD",
+      "manufacturer": "Deep Sea Electronics",
+      "formats": [
+        "CAD"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-dse-dse892",
+      "recordPath": "equipment/uk-dse-dse892.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-dse-dse892.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-category-5e-ethernet-cables-b3a4b5e9eb",
+      "name": "Category 5e Ethernet Cables",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "Category 5e Ethernet Cables",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-category-5e-ethernet-cables-b3a4b5e9eb",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-category-5e-ethernet-cables-b3a4b5e9eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-category-5e-ethernet-cables-b3a4b5e9eb.json"
+    },
+    {
+      "id": "s-c-electric-communication-control-units-ca62b1a900",
+      "name": "Communication & Control Units",
+      "manufacturer": "S&C Electric",
+      "drawingNumber": "Communication & Control Units",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/s-c-electric-communication-control-units-ca62b1a900",
+      "recordPath": "equipment/s-c-electric-communication-control-units-ca62b1a900.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/s-c-electric-communication-control-units-ca62b1a900.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2401-satellite-synchronized-clock-cc70c67314",
+      "name": "SEL-2401 Satellite-Synchronized Clock",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2401 Satellite-Synchronized Clock",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2401-satellite-synchronized-clock-cc70c67314",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2401-satellite-synchronized-clock-cc70c67314.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2401-satellite-synchronized-clock-cc70c67314.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2407-satellite-synchronized-clock-861ad818d1",
+      "name": "SEL-2407 Satellite-Synchronized Clock",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2407 Satellite-Synchronized Clock",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2407-satellite-synchronized-clock-861ad818d1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2407-satellite-synchronized-clock-861ad818d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2407-satellite-synchronized-clock-861ad818d1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2488-satellite-synchronized-network-clock-ff944e8ca4",
+      "name": "SEL-2488 Satellite-Synchronized Network Clock",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2488 Satellite-Synchronized Network Clock",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2488-satellite-synchronized-network-clock-ff944e8ca4",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2488-satellite-synchronized-network-clock-ff944e8ca4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2488-satellite-synchronized-network-clock-ff944e8ca4.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2725-five-port-ethernet-switch-39bc1c3453",
+      "name": "SEL-2725 Five-Port Ethernet Switch",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2725 Five-Port Ethernet Switch",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2725-five-port-ethernet-switch-39bc1c3453",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2725-five-port-ethernet-switch-39bc1c3453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2725-five-port-ethernet-switch-39bc1c3453.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2726u-eight-port-ethernet-switch-ef11b7b26a",
+      "name": "SEL-2726U Eight-Port Ethernet Switch",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2726U Eight-Port Ethernet Switch",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2726u-eight-port-ethernet-switch-ef11b7b26a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2726u-eight-port-ethernet-switch-ef11b7b26a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2726u-eight-port-ethernet-switch-ef11b7b26a.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2730m-managed-24-port-ethernet-switch-1c99701a1f",
+      "name": "SEL-2730M Managed 24-Port Ethernet Switch",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2730M Managed 24-Port Ethernet Switch",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2730m-managed-24-port-ethernet-switch-1c99701a1f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2730m-managed-24-port-ethernet-switch-1c99701a1f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2730m-managed-24-port-ethernet-switch-1c99701a1f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2730u-unmanaged-24-port-ethernet-switch-a0a8fe1ad1",
+      "name": "SEL-2730U Unmanaged 24-Port Ethernet Switch",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2730U Unmanaged 24-Port Ethernet Switch",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2730u-unmanaged-24-port-ethernet-switch-a0a8fe1ad1",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2730u-unmanaged-24-port-ethernet-switch-a0a8fe1ad1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2730u-unmanaged-24-port-ethernet-switch-a0a8fe1ad1.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2741-ethernet-switch-8373f65b79",
+      "name": "SEL-2741 Ethernet Switch",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2741 Ethernet Switch",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2741-ethernet-switch-8373f65b79",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2741-ethernet-switch-8373f65b79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2741-ethernet-switch-8373f65b79.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2742-ethernet-switch-412d283da8",
+      "name": "SEL-2742 Ethernet Switch",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2742 Ethernet Switch",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2742-ethernet-switch-412d283da8",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2742-ethernet-switch-412d283da8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2742-ethernet-switch-412d283da8.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2800-fiber-optic-transceivers-1c86286f30",
+      "name": "SEL-2800 Fiber-Optic Transceivers",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2800 Fiber-Optic Transceivers",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2800-fiber-optic-transceivers-1c86286f30",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2800-fiber-optic-transceivers-1c86286f30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2800-fiber-optic-transceivers-1c86286f30.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2810-fiber-optic-transceivers-with-irig-b-7533541533",
+      "name": "SEL-2810 Fiber-Optic Transceivers With IRIG-B",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2810 Fiber-Optic Transceivers With IRIG-B",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2810-fiber-optic-transceivers-with-irig-b-7533541533",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2810-fiber-optic-transceivers-with-irig-b-7533541533.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2810-fiber-optic-transceivers-with-irig-b-7533541533.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2812-fiber-optic-transceivers-with-irig-b-53f340647e",
+      "name": "SEL-2812 Fiber-Optic Transceivers With IRIG-B",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2812 Fiber-Optic Transceivers With IRIG-B",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2812-fiber-optic-transceivers-with-irig-b-53f340647e",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2812-fiber-optic-transceivers-with-irig-b-53f340647e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2812-fiber-optic-transceivers-with-irig-b-53f340647e.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2814-fiber-optic-transceivers-with-hardware-flow-contro-0ef6736c22",
+      "name": "SEL-2814 Fiber-Optic Transceivers With Hardware Flow Control",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2814 Fiber-Optic Transceivers With Hardware Flow Control",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2814-fiber-optic-transceivers-with-hardware-flow-contro-0ef6736c22",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2814-fiber-optic-transceivers-with-hardware-flow-contro-0ef6736c22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2814-fiber-optic-transceivers-with-hardware-flow-contro-0ef6736c22.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2815-fiber-optic-transceiver-modem-849ca70f55",
+      "name": "SEL-2815 Fiber-Optic Transceiver/Modem",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2815 Fiber-Optic Transceiver/Modem",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2815-fiber-optic-transceiver-modem-849ca70f55",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2815-fiber-optic-transceiver-modem-849ca70f55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2815-fiber-optic-transceiver-modem-849ca70f55.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2820-multimode-fiber-optic-eia-485-transceivers-45b31445d9",
+      "name": "SEL-2820 Multimode Fiber-Optic EIA-485 Transceivers",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2820 Multimode Fiber-Optic EIA-485 Transceivers",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2820-multimode-fiber-optic-eia-485-transceivers-45b31445d9",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2820-multimode-fiber-optic-eia-485-transceivers-45b31445d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2820-multimode-fiber-optic-eia-485-transceivers-45b31445d9.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2824-multimode-fiber-optic-eia-485-transceivers-2cc5f9710f",
+      "name": "SEL-2824 Multimode Fiber-Optic EIA-485 Transceivers",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2824 Multimode Fiber-Optic EIA-485 Transceivers",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2824-multimode-fiber-optic-eia-485-transceivers-2cc5f9710f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2824-multimode-fiber-optic-eia-485-transceivers-2cc5f9710f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2824-multimode-fiber-optic-eia-485-transceivers-2cc5f9710f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2829-single-mode-fiber-optic-transceiver-modem-e978fc0468",
+      "name": "SEL-2829 Single-Mode Fiber-Optic Transceiver/Modem",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2829 Single-Mode Fiber-Optic Transceiver/Modem",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2829-single-mode-fiber-optic-transceiver-modem-e978fc0468",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2829-single-mode-fiber-optic-transceiver-modem-e978fc0468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2829-single-mode-fiber-optic-transceiver-modem-e978fc0468.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2830-single-mode-fiber-optic-transceiver-modem-fc61c89fe4",
+      "name": "SEL-2830 Single-Mode Fiber-Optic Transceiver/Modem",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2830 Single-Mode Fiber-Optic Transceiver/Modem",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2830-single-mode-fiber-optic-transceiver-modem-fc61c89fe4",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2830-single-mode-fiber-optic-transceiver-modem-fc61c89fe4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2830-single-mode-fiber-optic-transceiver-modem-fc61c89fe4.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2831-single-mode-fiber-optic-transceiver-modem-a9fe9eac23",
+      "name": "SEL-2831 Single-Mode Fiber-Optic Transceiver/Modem",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2831 Single-Mode Fiber-Optic Transceiver/Modem",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2831-single-mode-fiber-optic-transceiver-modem-a9fe9eac23",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2831-single-mode-fiber-optic-transceiver-modem-a9fe9eac23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2831-single-mode-fiber-optic-transceiver-modem-a9fe9eac23.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2886-eia-232-to-eia-485-interface-converter-4924349a56",
+      "name": "SEL-2886 EIA-232 to EIA-485 Interface Converter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2886 EIA-232 to EIA-485 Interface Converter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2886-eia-232-to-eia-485-interface-converter-4924349a56",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2886-eia-232-to-eia-485-interface-converter-4924349a56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2886-eia-232-to-eia-485-interface-converter-4924349a56.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2890-ethernet-transceiver-9a6a74977b",
+      "name": "SEL-2890 Ethernet Transceiver",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2890 Ethernet Transceiver",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2890-ethernet-transceiver-9a6a74977b",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2890-ethernet-transceiver-9a6a74977b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2890-ethernet-transceiver-9a6a74977b.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2894-interface-converter-b9909a6eee",
+      "name": "SEL-2894 Interface Converter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2894 Interface Converter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2894-interface-converter-b9909a6eee",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2894-interface-converter-b9909a6eee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2894-interface-converter-b9909a6eee.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2924-portable-bluetooth-serial-adapter-88e094acdb",
+      "name": "SEL-2924 Portable BLUETOOTH Serial Adapter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2924 Portable BLUETOOTH Serial Adapter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2924-portable-bluetooth-serial-adapter-88e094acdb",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2924-portable-bluetooth-serial-adapter-88e094acdb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2924-portable-bluetooth-serial-adapter-88e094acdb.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-2925-bluetooth-serial-adapter-91319cf505",
+      "name": "SEL-2925 BLUETOOTH Serial Adapter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-2925 BLUETOOTH Serial Adapter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-2925-bluetooth-serial-adapter-91319cf505",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-2925-bluetooth-serial-adapter-91319cf505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-2925-bluetooth-serial-adapter-91319cf505.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3025-serial-shield-e4712031af",
+      "name": "SEL-3025 Serial Shield",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3025 Serial Shield",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3025-serial-shield-e4712031af",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3025-serial-shield-e4712031af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3025-serial-shield-e4712031af.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3031-serial-radio-transceiver-8723f19f08",
+      "name": "SEL-3031 Serial Radio Transceiver",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3031 Serial Radio Transceiver",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3031-serial-radio-transceiver-8723f19f08",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3031-serial-radio-transceiver-8723f19f08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3031-serial-radio-transceiver-8723f19f08.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3060-ethernet-radio-fc4c2eb7e3",
+      "name": "SEL-3060 Ethernet Radio",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3060 Ethernet Radio",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3060-ethernet-radio-fc4c2eb7e3",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3060-ethernet-radio-fc4c2eb7e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3060-ethernet-radio-fc4c2eb7e3.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3094-interface-converter-ce3a795f81",
+      "name": "SEL-3094 Interface Converter",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3094 Interface Converter",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3094-interface-converter-ce3a795f81",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3094-interface-converter-ce3a795f81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3094-interface-converter-ce3a795f81.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3390s8-serial-adapter-card-2356604e7c",
+      "name": "SEL-3390S8 Serial Adapter Card",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3390S8 Serial Adapter Card",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3390s8-serial-adapter-card-2356604e7c",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3390s8-serial-adapter-card-2356604e7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3390s8-serial-adapter-card-2356604e7c.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3390t-time-and-ethernet-adapter-card-e74a6d6643",
+      "name": "SEL-3390T Time and Ethernet Adapter Card",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3390T Time and Ethernet Adapter Card",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3390t-time-and-ethernet-adapter-card-e74a6d6643",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3390t-time-and-ethernet-adapter-card-e74a6d6643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3390t-time-and-ethernet-adapter-card-e74a6d6643.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3400-irig-b-distribution-module-553a504b2a",
+      "name": "SEL-3400 IRIG-B Distribution Module",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3400 IRIG-B Distribution Module",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3400-irig-b-distribution-module-553a504b2a",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3400-irig-b-distribution-module-553a504b2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3400-irig-b-distribution-module-553a504b2a.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3401-digital-clock-91ad92dbea",
+      "name": "SEL-3401 Digital Clock",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3401 Digital Clock",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3401-digital-clock-91ad92dbea",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3401-digital-clock-91ad92dbea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3401-digital-clock-91ad92dbea.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3405-high-accuracy-irig-b-fiber-optic-transceiver-df3f1e6b32",
+      "name": "SEL-3405 High-Accuracy IRIG-B Fiber-Optic Transceiver",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3405 High-Accuracy IRIG-B Fiber-Optic Transceiver",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3405-high-accuracy-irig-b-fiber-optic-transceiver-df3f1e6b32",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3405-high-accuracy-irig-b-fiber-optic-transceiver-df3f1e6b32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3405-high-accuracy-irig-b-fiber-optic-transceiver-df3f1e6b32.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-3620-ethernet-security-gateway-755b0cdae4",
+      "name": "SEL-3620 Ethernet Security Gateway",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-3620 Ethernet Security Gateway",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-3620-ethernet-security-gateway-755b0cdae4",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-3620-ethernet-security-gateway-755b0cdae4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-3620-ethernet-security-gateway-755b0cdae4.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9220-fiber-optic-adapter-for-sel-300-series-relays-c4d01b5d56",
+      "name": "SEL-9220 Fiber-Optic Adapter for SEL-300 Series Relays",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9220 Fiber-Optic Adapter for SEL-300 Series Relays",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9220-fiber-optic-adapter-for-sel-300-series-relays-c4d01b5d56",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9220-fiber-optic-adapter-for-sel-300-series-relays-c4d01b5d56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9220-fiber-optic-adapter-for-sel-300-series-relays-c4d01b5d56.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9524-gnss-antenna-47e832aa55",
+      "name": "SEL-9524 GNSS Antenna",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9524 GNSS Antenna",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9524-gnss-antenna-47e832aa55",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9524-gnss-antenna-47e832aa55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9524-gnss-antenna-47e832aa55.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-9929-satellite-synchronized-clock-display-kit-a89198584f",
+      "name": "SEL-9929 Satellite-Synchronized Clock Display Kit",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-9929 Satellite-Synchronized Clock Display Kit",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-9929-satellite-synchronized-clock-display-kit-a89198584f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-9929-satellite-synchronized-clock-display-kit-a89198584f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-9929-satellite-synchronized-clock-display-kit-a89198584f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-c804-multimode-arc-flash-detection-fiber-optic-cables-ed32b12770",
+      "name": "SEL-C804 Multimode Arc-Flash Detection Fiber-Optic Cables",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-C804 Multimode Arc-Flash Detection Fiber-Optic Cables",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-c804-multimode-arc-flash-detection-fiber-optic-cables-ed32b12770",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-c804-multimode-arc-flash-detection-fiber-optic-cables-ed32b12770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-c804-multimode-arc-flash-detection-fiber-optic-cables-ed32b12770.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-c805-200-m-multimode-fiber-optic-cable-ef1dd1bb04",
+      "name": "SEL-C805 200 µm Multimode Fiber-Optic Cable",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-C805 200 µm Multimode Fiber-Optic Cable",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-c805-200-m-multimode-fiber-optic-cable-ef1dd1bb04",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-c805-200-m-multimode-fiber-optic-cable-ef1dd1bb04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-c805-200-m-multimode-fiber-optic-cable-ef1dd1bb04.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-c807-62-5-200-m-multimode-fiber-optic-cable-41ac9f882f",
+      "name": "SEL-C807 62.5/200 µm Multimode Fiber-Optic Cable",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-C807 62.5/200 µm Multimode Fiber-Optic Cable",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-c807-62-5-200-m-multimode-fiber-optic-cable-41ac9f882f",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-c807-62-5-200-m-multimode-fiber-optic-cable-41ac9f882f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-c807-62-5-200-m-multimode-fiber-optic-cable-41ac9f882f.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-c808-62-5-125-m-multimode-fiber-optic-cable-23a409a884",
+      "name": "SEL-C808 62.5/125 µm Multimode Fiber-Optic Cable",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-C808 62.5/125 µm Multimode Fiber-Optic Cable",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-c808-62-5-125-m-multimode-fiber-optic-cable-23a409a884",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-c808-62-5-125-m-multimode-fiber-optic-cable-23a409a884.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-c808-62-5-125-m-multimode-fiber-optic-cable-23a409a884.json"
+    },
+    {
+      "id": "schweitzer-engineering-laboratories-sel-c809-9-m-single-mode-fiber-optic-cables-1b0ec30642",
+      "name": "SEL-C809 9 µm Single-Mode Fiber-Optic Cables",
+      "manufacturer": "Schweitzer Engineering Laboratories",
+      "drawingNumber": "SEL-C809 9 µm Single-Mode Fiber-Optic Cables",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/schweitzer-engineering-laboratories-sel-c809-9-m-single-mode-fiber-optic-cables-1b0ec30642",
+      "recordPath": "equipment/schweitzer-engineering-laboratories-sel-c809-9-m-single-mode-fiber-optic-cables-1b0ec30642.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/schweitzer-engineering-laboratories-sel-c809-9-m-single-mode-fiber-optic-cables-1b0ec30642.json"
+    },
+    {
+      "id": "abb-drawing-ud-2104551-xrcg4-2103329-bd-comm1-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-7615bf042a",
+      "name": "Drawing - UD - 2104551 - XRCG4 (2103329 BD) COMM1 (RS-485) w/FCU power & UCI2 (RS-485) to Airlink Raven XT radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104551",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-ud-2104551-xrcg4-2103329-bd-comm1-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-7615bf042a",
+      "recordPath": "equipment/abb-drawing-ud-2104551-xrcg4-2103329-bd-comm1-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-7615bf042a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-ud-2104551-xrcg4-2103329-bd-comm1-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-7615bf042a.json"
+    },
+    {
+      "id": "abb-drawing-ud-2104552-xrcg4-2103329-bd-comm2-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-5333933c04",
+      "name": "Drawing - UD - 2104552 - XRCG4 (2103329 BD) COMM2 (RS-485) w/FCU power &UCI2 (RS-485) to Airlink Raven XT radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104552",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-drawing-ud-2104552-xrcg4-2103329-bd-comm2-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-5333933c04",
+      "recordPath": "equipment/abb-drawing-ud-2104552-xrcg4-2103329-bd-comm2-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-5333933c04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-drawing-ud-2104552-xrcg4-2103329-bd-comm2-rs-485-w-fcu-power-uci2-rs-485-to-airlink-raven-x-5333933c04.json"
+    },
+    {
+      "id": "abb-user-drawing-2101641-microflo-w-communication-terminal-board-to-freewave-radio-rs-232-0673b93ae1",
+      "name": "User drawing - 2101641- MicroFLO w/ Communication Terminal Board to Freewave Radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2101641",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2101641-microflo-w-communication-terminal-board-to-freewave-radio-rs-232-0673b93ae1",
+      "recordPath": "equipment/abb-user-drawing-2101641-microflo-w-communication-terminal-board-to-freewave-radio-rs-232-0673b93ae1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2101641-microflo-w-communication-terminal-board-to-freewave-radio-rs-232-0673b93ae1.json"
+    },
+    {
+      "id": "abb-user-drawing-2101642-microflo-w-o-communication-terminal-board-to-freewave-radio-rs-232-1c4de13385",
+      "name": "User drawing - 2101642 - MicroFLO w/o Communication Terminal Board to Freewave Radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2101642",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2101642-microflo-w-o-communication-terminal-board-to-freewave-radio-rs-232-1c4de13385",
+      "recordPath": "equipment/abb-user-drawing-2101642-microflo-w-o-communication-terminal-board-to-freewave-radio-rs-232-1c4de13385.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2101642-microflo-w-o-communication-terminal-board-to-freewave-radio-rs-232-1c4de13385.json"
+    },
+    {
+      "id": "abb-user-drawing-2101978-xrc-comm-1-2100355-bd-to-mds-transnet-900-radio-rs485-8eb5f70e1e",
+      "name": "User drawing - 2101978 - XRC Comm 1 (2100355 BD) to MDS Transnet 900 Radio (RS485)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2101978",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2101978-xrc-comm-1-2100355-bd-to-mds-transnet-900-radio-rs485-8eb5f70e1e",
+      "recordPath": "equipment/abb-user-drawing-2101978-xrc-comm-1-2100355-bd-to-mds-transnet-900-radio-rs485-8eb5f70e1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2101978-xrc-comm-1-2100355-bd-to-mds-transnet-900-radio-rs485-8eb5f70e1e.json"
+    },
+    {
+      "id": "abb-user-drawing-2101979-xrc-comm-2-2100355-bd-to-mds-transnet-900-radio-rs485-bd5c9839cf",
+      "name": "User drawing - 2101979 - XRC Comm 2 (2100355 BD) to MDS Transnet 900 Radio (RS485)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2101979",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2101979-xrc-comm-2-2100355-bd-to-mds-transnet-900-radio-rs485-bd5c9839cf",
+      "recordPath": "equipment/abb-user-drawing-2101979-xrc-comm-2-2100355-bd-to-mds-transnet-900-radio-rs485-bd5c9839cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2101979-xrc-comm-2-2100355-bd-to-mds-transnet-900-radio-rs485-bd5c9839cf.json"
+    },
+    {
+      "id": "abb-user-drawing-2102200-xrc-6490-6790-6890-comm-2-2100355-bd-to-mds-radio-2310-4310-4710-9710b-a4edb9e17e",
+      "name": "User drawing - 2102200 - XRC 6490/6790/6890 Comm 2 (2100355 BD) to MDS Radio 2310/4310/4710/9710B/9810 (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102200",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102200-xrc-6490-6790-6890-comm-2-2100355-bd-to-mds-radio-2310-4310-4710-9710b-a4edb9e17e",
+      "recordPath": "equipment/abb-user-drawing-2102200-xrc-6490-6790-6890-comm-2-2100355-bd-to-mds-radio-2310-4310-4710-9710b-a4edb9e17e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102200-xrc-6490-6790-6890-comm-2-2100355-bd-to-mds-radio-2310-4310-4710-9710b-a4edb9e17e.json"
+    },
+    {
+      "id": "abb-user-drawing-2102914-uc12-w-ext-continuous-pwr-to-mds-radio-2310-4310-4710-9710b-9810-w-swi-055b2b2b95",
+      "name": "User drawing - 2102914 - UC12 w/ EXT Continuous PWR to MDS Radio 2310/4310/4710/9710B/9810 w/ Switched PWR (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102914",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102914-uc12-w-ext-continuous-pwr-to-mds-radio-2310-4310-4710-9710b-9810-w-swi-055b2b2b95",
+      "recordPath": "equipment/abb-user-drawing-2102914-uc12-w-ext-continuous-pwr-to-mds-radio-2310-4310-4710-9710b-9810-w-swi-055b2b2b95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102914-uc12-w-ext-continuous-pwr-to-mds-radio-2310-4310-4710-9710b-9810-w-swi-055b2b2b95.json"
+    },
+    {
+      "id": "abb-user-drawing-2102917-uc12-w-ext-switched-pwr-to-freewave-radio-dgr09rfs-rev-ae-ah-fgrio-m-s-df562177fa",
+      "name": "User drawing - 2102917 - UC12 w/ EXT Switched PWR to Freewave Radio DGR09RFS Rev AE/AH FGRIO-M/S (RS-232) (rev. AC)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102917",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102917-uc12-w-ext-switched-pwr-to-freewave-radio-dgr09rfs-rev-ae-ah-fgrio-m-s-df562177fa",
+      "recordPath": "equipment/abb-user-drawing-2102917-uc12-w-ext-switched-pwr-to-freewave-radio-dgr09rfs-rev-ae-ah-fgrio-m-s-df562177fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102917-uc12-w-ext-switched-pwr-to-freewave-radio-dgr09rfs-rev-ae-ah-fgrio-m-s-df562177fa.json"
+    },
+    {
+      "id": "abb-user-drawing-2102930-xfc-comm-1-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-a22c4273d0",
+      "name": "User drawing - 2102930 - XFC Comm 1 (2100204 BD) w/ FCU PWR and UCI2 (RS-485) to MDS 2310/4310/4710/9710B/9810 Radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102930",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102930-xfc-comm-1-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-a22c4273d0",
+      "recordPath": "equipment/abb-user-drawing-2102930-xfc-comm-1-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-a22c4273d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102930-xfc-comm-1-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-a22c4273d0.json"
+    },
+    {
+      "id": "abb-user-drawing-2102931-xfc-comm-2-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-fcde126c78",
+      "name": "User drawing - 2102931 - XFC Comm 2 (2100204 BD) w/ FCU PWR and UCI2 (RS-485) to MDS 2310/4310/4710/9710B/9810 Radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102931",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102931-xfc-comm-2-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-fcde126c78",
+      "recordPath": "equipment/abb-user-drawing-2102931-xfc-comm-2-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-fcde126c78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102931-xfc-comm-2-2100204-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-fcde126c78.json"
+    },
+    {
+      "id": "abb-user-drawing-2102932-xfc-comm-1-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-62e557ceb9",
+      "name": "User drawing - 2102932 - XFC Comm 1 (2100355 BD) w/ FCU PWR and UCI2 (RS-485) to MDS 2310/4310/4710/9710B/9810 Radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102932",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102932-xfc-comm-1-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-62e557ceb9",
+      "recordPath": "equipment/abb-user-drawing-2102932-xfc-comm-1-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-62e557ceb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102932-xfc-comm-1-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-62e557ceb9.json"
+    },
+    {
+      "id": "abb-user-drawing-2102933-xfc-comm-2-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-478c92b512",
+      "name": "User drawing - 2102933 - XFC Comm 2 (2100355 BD) w/ FCU PWR and UCI2 (RS-485) to MDS 2310/4310/4710/9710B/9810 Radio (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2102933",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2102933-xfc-comm-2-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-478c92b512",
+      "recordPath": "equipment/abb-user-drawing-2102933-xfc-comm-2-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-478c92b512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2102933-xfc-comm-2-2100355-bd-w-fcu-pwr-and-uci2-rs-485-to-mds-2310-4310-4710-478c92b512.json"
+    },
+    {
+      "id": "abb-user-drawing-2104141-xrc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-aa-c69414909c",
+      "name": "User drawing - 2104141 - XRC-G4 Com1 to Airlink Raven XT Radio RS-232 (rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104141",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104141-xrc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-aa-c69414909c",
+      "recordPath": "equipment/abb-user-drawing-2104141-xrc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-aa-c69414909c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104141-xrc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-aa-c69414909c.json"
+    },
+    {
+      "id": "abb-user-drawing-2104142-xrc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-aa-baa9431b63",
+      "name": "User drawing - 2104142 - XRC-G4 Com2 to Airlink Raven XT Radio RS-232 (rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104142",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104142-xrc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-aa-baa9431b63",
+      "recordPath": "equipment/abb-user-drawing-2104142-xrc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-aa-baa9431b63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104142-xrc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-aa-baa9431b63.json"
+    },
+    {
+      "id": "abb-user-drawing-2104143-microflo-com-to-airlink-raven-xt-radio-rs-232-rev-aa-5c488ab568",
+      "name": "User drawing - 2104143 - microFLO Com to Airlink Raven XT Radio RS-232 (rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104143",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104143-microflo-com-to-airlink-raven-xt-radio-rs-232-rev-aa-5c488ab568",
+      "recordPath": "equipment/abb-user-drawing-2104143-microflo-com-to-airlink-raven-xt-radio-rs-232-rev-aa-5c488ab568.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104143-microflo-com-to-airlink-raven-xt-radio-rs-232-rev-aa-5c488ab568.json"
+    },
+    {
+      "id": "abb-user-drawing-2104222-xfc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-ab-129a1a3ca0",
+      "name": "User drawing - 2104222 - XFC-G4 Com1 to Airlink Raven XT Radio RS-232 (rev. AB)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104222",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104222-xfc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-ab-129a1a3ca0",
+      "recordPath": "equipment/abb-user-drawing-2104222-xfc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-ab-129a1a3ca0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104222-xfc-g4-com1-to-airlink-raven-xt-radio-rs-232-rev-ab-129a1a3ca0.json"
+    },
+    {
+      "id": "abb-user-drawing-2104223-xfc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-ab-0bca544650",
+      "name": "User drawing - 2104223 - XFC-G4 Com2 to Airlink Raven XT Radio RS-232 (rev. AB)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104223",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104223-xfc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-ab-0bca544650",
+      "recordPath": "equipment/abb-user-drawing-2104223-xfc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-ab-0bca544650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104223-xfc-g4-com2-to-airlink-raven-xt-radio-rs-232-rev-ab-0bca544650.json"
+    },
+    {
+      "id": "abb-user-drawing-2104331-uflo-w-rs-485-com-term-bd-w-fcu-pwr-uci2-rs-485-to-mds-4710-9710b-9810-e6540a804a",
+      "name": "User drawing - 2104331 - UFLO W/RS-485 COM TERM BD W\\FCU PWR & UCI2 (RS-485) TO MDS 4710/9710B/9810 RADIO (RS-232)(Rev. AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104331",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104331-uflo-w-rs-485-com-term-bd-w-fcu-pwr-uci2-rs-485-to-mds-4710-9710b-9810-e6540a804a",
+      "recordPath": "equipment/abb-user-drawing-2104331-uflo-w-rs-485-com-term-bd-w-fcu-pwr-uci2-rs-485-to-mds-4710-9710b-9810-e6540a804a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104331-uflo-w-rs-485-com-term-bd-w-fcu-pwr-uci2-rs-485-to-mds-4710-9710b-9810-e6540a804a.json"
+    },
+    {
+      "id": "abb-user-drawing-2104576-uflo-g4-2104356-board-comm1-to-mds-4710-9710b-9810-radio-rs-232-edbee3265a",
+      "name": "User drawing - 2104576-UFLO G4 (2104356) BOARD COMM1 TO MDS 4710/9710B/9810 RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104576",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104576-uflo-g4-2104356-board-comm1-to-mds-4710-9710b-9810-radio-rs-232-edbee3265a",
+      "recordPath": "equipment/abb-user-drawing-2104576-uflo-g4-2104356-board-comm1-to-mds-4710-9710b-9810-radio-rs-232-edbee3265a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104576-uflo-g4-2104356-board-comm1-to-mds-4710-9710b-9810-radio-rs-232-edbee3265a.json"
+    },
+    {
+      "id": "abb-user-drawing-2104580-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-232-19ca8c1dcc",
+      "name": "User drawing - 2104580-UFLO G4 (2104356) BOARD COMM1 TO MDS TRANSNET 900 RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104580",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104580-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-232-19ca8c1dcc",
+      "recordPath": "equipment/abb-user-drawing-2104580-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-232-19ca8c1dcc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104580-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-232-19ca8c1dcc.json"
+    },
+    {
+      "id": "abb-user-drawing-2104583-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-485-799098ff90",
+      "name": "User drawing - 2104583-uFLO G4 OPT1 I/O (2104395 BOARD) COMM2 TO MDS TRANSNET 900 RADIO (RS-485)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104583",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104583-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-485-799098ff90",
+      "recordPath": "equipment/abb-user-drawing-2104583-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-485-799098ff90.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104583-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-485-799098ff90.json"
+    },
+    {
+      "id": "abb-user-drawing-2105141-xrcg4-2103329-bd-to-1410-tropos-bridge-or-router-via-ethernet-with-poe-cdc6bf39af",
+      "name": "User drawing - 2105141 - XRCG4 (2103329 BD) to 1410 Tropos bridge or router via Ethernet with POE injector (rev AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2105141",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2105141-xrcg4-2103329-bd-to-1410-tropos-bridge-or-router-via-ethernet-with-poe-cdc6bf39af",
+      "recordPath": "equipment/abb-user-drawing-2105141-xrcg4-2103329-bd-to-1410-tropos-bridge-or-router-via-ethernet-with-poe-cdc6bf39af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2105141-xrcg4-2103329-bd-to-1410-tropos-bridge-or-router-via-ethernet-with-poe-cdc6bf39af.json"
+    },
+    {
+      "id": "abb-user-drawing-2105142-xrcg4-2103329-bd-to-1410-haz-tropos-bridge-or-router-via-ethernet-with-cc1f411aa2",
+      "name": "User drawing - 2105142 - XRCG4 (2103329 BD) to 1410-HAZ Tropos bridge or router via Ethernet with POE injector (rev AA)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2105142",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2105142-xrcg4-2103329-bd-to-1410-haz-tropos-bridge-or-router-via-ethernet-with-cc1f411aa2",
+      "recordPath": "equipment/abb-user-drawing-2105142-xrcg4-2103329-bd-to-1410-haz-tropos-bridge-or-router-via-ethernet-with-cc1f411aa2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2105142-xrcg4-2103329-bd-to-1410-haz-tropos-bridge-or-router-via-ethernet-with-cc1f411aa2.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-485-b98c596d7b",
+      "name": "User drawing - uFLO G4 (2104356) BOARD COMM1 TO MDS TRANSNET 900 RADIO (RS-485)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104582",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-485-b98c596d7b",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-485-b98c596d7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-2104356-board-comm1-to-mds-transnet-900-radio-rs-485-b98c596d7b.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-232-6eb8481a08",
+      "name": "User drawing - uFLO G4 OPT1 I/O (2104395 BOARD) COMM2 TO FREEWAVE RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104570",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-232-6eb8481a08",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-232-6eb8481a08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-232-6eb8481a08.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-485-979d018e41",
+      "name": "User drawing - uFLO G4 OPT1 I/O (2104395 BOARD) COMM2 TO FREEWAVE RADIO (RS-485)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104572",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-485-979d018e41",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-485-979d018e41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-freewave-radio-rs-485-979d018e41.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-485-a148e6e885",
+      "name": "User drawing -UFLO G4 (2104356) BOARD COMM1 TO FREEWAVE RADIO (RS-485)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104571",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-485-a148e6e885",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-485-a148e6e885.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-485-a148e6e885.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-232-4d7352a9df",
+      "name": "User drawing -uFLO G4 (2104356) BOARD COMM1 TO FREEWAVE RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104569",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-232-4d7352a9df",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-232-4d7352a9df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-2104356-board-comm1-to-freewave-radio-rs-232-4d7352a9df.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm1-w-fcu-pwr-uci2-rs-485-to-mds-4710-8ab4a0644a",
+      "name": "User drawing -uFLO G4 COMM ENCLOSURE TO G4 MICROFLO COMM1 W\\FCU PWR & UCI2 (RS-485) TO MDS 4710/9710B/9810 RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104578",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm1-w-fcu-pwr-uci2-rs-485-to-mds-4710-8ab4a0644a",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm1-w-fcu-pwr-uci2-rs-485-to-mds-4710-8ab4a0644a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm1-w-fcu-pwr-uci2-rs-485-to-mds-4710-8ab4a0644a.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm2-w-fcu-pwr-uci2-rs-485-to-mds-4710-f17288738d",
+      "name": "User drawing -uFLO G4 COMM ENCLOSURE TO G4 MICROFLO COMM2 W\\FCU PWR & UCI2 (RS-485) TO MDS 4710/9710B/9810 RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104579",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm2-w-fcu-pwr-uci2-rs-485-to-mds-4710-f17288738d",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm2-w-fcu-pwr-uci2-rs-485-to-mds-4710-f17288738d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-comm-enclosure-to-g4-microflo-comm2-w-fcu-pwr-uci2-rs-485-to-mds-4710-f17288738d.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-4710-9710b-9810-radio-rs-232-68748a27a1",
+      "name": "User drawing -uFLO G4 OPT1 I/O (2104395 BOARD) COMM2 TO MDS 4710/9710B/9810 RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104577",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-4710-9710b-9810-radio-rs-232-68748a27a1",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-4710-9710b-9810-radio-rs-232-68748a27a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-4710-9710b-9810-radio-rs-232-68748a27a1.json"
+    },
+    {
+      "id": "abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d",
+      "name": "User drawing -uFLO G4 OPT1 I/O (2104395 BOARD) COMM2 TO MDS TRANSNET 900 RADIO (RS-232)",
+      "manufacturer": "ABB",
+      "drawingNumber": "UD/2104581",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d",
+      "recordPath": "equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d.json"
+    }
+  ]
+}

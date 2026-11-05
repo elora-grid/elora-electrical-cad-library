@@ -32,7 +32,7 @@ The acquired source archive contains Mi\_Sammelschienentraeger/Mi\_ST\_41.stp, a
 
 A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
 
-Inside a switchgear lineup, the incoming breaker can feed busbars that supply the outgoing feeder breakers.
+For example, in a distribution assembly with a separately selected supported busbar, use the Mi\_ST\_41 reference to coordinate support fixings, conductor interface and adjacent equipment. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Mi\_Sammelschienentraeger/Mi\_ST\_41.stp, a 580,313-byte STP native file. Its file signature and SHA-256 were checked against the held original. The STEP file header was validated as an ISO 10303 exchange file. The mechanical file does not establish the electrical rating or suitability of the complete assembly. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: Mi\_Sammelschienentraeger.zip!/Mi\_Sammelschienentraeger/Mi\_ST\_41.stp. These paths retain their own archive and native checksums in the file evidence.
 

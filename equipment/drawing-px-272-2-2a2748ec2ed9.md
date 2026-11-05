@@ -32,7 +32,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-272-2.dwg. Its i
 
 An output module passes a controller's commands to connected equipment through the type of electrical output provided.
 
-In a switchroom ventilation panel, an output can request a contactor to start a fan.
+For example, in a conveyor panel sending commands to interposing relays, use the PX-272-2 reference to coordinate output-terminal access, conductor routing and module replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is Other PLC Products/Protos X IO/PX-272-2.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the field-I/O assembly and its cable approach, then map the selected hardware to the control drawing. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

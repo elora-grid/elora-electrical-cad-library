@@ -1,0 +1,3038 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 7,
+  "entries": [
+    {
+      "id": "abb-ot630-ot800e11-igs-file-5c393ba45a",
+      "name": "OT630...OT800E11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E11.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e11-igs-file-5c393ba45a",
+      "recordPath": "equipment/abb-ot630-ot800e11-igs-file-5c393ba45a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e11-igs-file-5c393ba45a.json"
+    },
+    {
+      "id": "abb-ot630-ot800e11k-457505f197",
+      "name": "OT630...OT800E11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307728F0001; OT630-800E11K.STP",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e11k-457505f197",
+      "recordPath": "equipment/abb-ot630-ot800e11k-457505f197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e11k-457505f197.json"
+    },
+    {
+      "id": "abb-ot630-ot800e12-igs-file-f8316dd7be",
+      "name": "OT630...OT800E12",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E12.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e12-igs-file-f8316dd7be",
+      "recordPath": "equipment/abb-ot630-ot800e12-igs-file-f8316dd7be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e12-igs-file-f8316dd7be.json"
+    },
+    {
+      "id": "abb-ot630-ot800e13-igs-file-7b3c56f0c3",
+      "name": "OT630...OT800E13",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E13.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e13-igs-file-7b3c56f0c3",
+      "recordPath": "equipment/abb-ot630-ot800e13-igs-file-7b3c56f0c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e13-igs-file-7b3c56f0c3.json"
+    },
+    {
+      "id": "abb-ot630-ot800e22-igs-file-d594a22ab1",
+      "name": "OT630...OT800E22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E22.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e22-igs-file-d594a22ab1",
+      "recordPath": "equipment/abb-ot630-ot800e22-igs-file-d594a22ab1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e22-igs-file-d594a22ab1.json"
+    },
+    {
+      "id": "abb-ot630-ot800e23-42f2bc57ec",
+      "name": "OT630...OT800E23",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307374F0001; OT630-800E23.STP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e23-42f2bc57ec",
+      "recordPath": "equipment/abb-ot630-ot800e23-42f2bc57ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e23-42f2bc57ec.json"
+    },
+    {
+      "id": "abb-ot630-ot800e30-igs-file-e5abbcb89f",
+      "name": "OT630...OT800E30",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E30.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e30-igs-file-e5abbcb89f",
+      "recordPath": "equipment/abb-ot630-ot800e30-igs-file-e5abbcb89f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e30-igs-file-e5abbcb89f.json"
+    },
+    {
+      "id": "abb-ot630-ot800e33-28decc751d",
+      "name": "OT630...OT800E33",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301487F0001; OT630-800E33.STP",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e33-28decc751d",
+      "recordPath": "equipment/abb-ot630-ot800e33-28decc751d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e33-28decc751d.json"
+    },
+    {
+      "id": "abb-ot630-ot800e40-igs-file-1ccaee062b",
+      "name": "OT630...OT800E40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E40.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e40-igs-file-1ccaee062b",
+      "recordPath": "equipment/abb-ot630-ot800e40-igs-file-1ccaee062b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e40-igs-file-1ccaee062b.json"
+    },
+    {
+      "id": "abb-ot630-ot800e03-igs-file-1b50a8bbd6",
+      "name": "OT630...OT800e03",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT600_800E03.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630-ot800e03-igs-file-1b50a8bbd6",
+      "recordPath": "equipment/abb-ot630-ot800e03-igs-file-1b50a8bbd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630-ot800e03-igs-file-1b50a8bbd6.json"
+    },
+    {
+      "id": "abb-ot630e01-6b5ca74bad",
+      "name": "OT630E01",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301306F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e01-6b5ca74bad",
+      "recordPath": "equipment/abb-ot630e01-6b5ca74bad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e01-6b5ca74bad.json"
+    },
+    {
+      "id": "abb-ot630e02-1fd5d185e6",
+      "name": "OT630E02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301307F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e02-1fd5d185e6",
+      "recordPath": "equipment/abb-ot630e02-1fd5d185e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e02-1fd5d185e6.json"
+    },
+    {
+      "id": "abb-ot630e03-f4572d6d7e",
+      "name": "OT630E03",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301309F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e03-f4572d6d7e",
+      "recordPath": "equipment/abb-ot630e03-f4572d6d7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e03-f4572d6d7e.json"
+    },
+    {
+      "id": "abb-ot630e03d-ot800e03d-igs-file-1a3859d162",
+      "name": "OT630E03D, OT800E03D",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT630-800E03D.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e03d-ot800e03d-igs-file-1a3859d162",
+      "recordPath": "equipment/abb-ot630e03d-ot800e03d-igs-file-1a3859d162.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e03d-ot800e03d-igs-file-1a3859d162.json"
+    },
+    {
+      "id": "abb-ot630e04-60a132d798",
+      "name": "OT630E04",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301312F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e04-60a132d798",
+      "recordPath": "equipment/abb-ot630e04-60a132d798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e04-60a132d798.json"
+    },
+    {
+      "id": "abb-ot630e11-0a54cd12be",
+      "name": "OT630E11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301318F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e11-0a54cd12be",
+      "recordPath": "equipment/abb-ot630e11-0a54cd12be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e11-0a54cd12be.json"
+    },
+    {
+      "id": "abb-ot630e12-22b820b19d",
+      "name": "OT630E12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301320F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e12-22b820b19d",
+      "recordPath": "equipment/abb-ot630e12-22b820b19d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e12-22b820b19d.json"
+    },
+    {
+      "id": "abb-ot630e13-5021a08bf4",
+      "name": "OT630E13",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301322F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e13-5021a08bf4",
+      "recordPath": "equipment/abb-ot630e13-5021a08bf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e13-5021a08bf4.json"
+    },
+    {
+      "id": "abb-ot630e22-d99bb29692",
+      "name": "OT630E22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301323F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e22-d99bb29692",
+      "recordPath": "equipment/abb-ot630e22-d99bb29692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e22-d99bb29692.json"
+    },
+    {
+      "id": "abb-ot630e30-daaecbe937",
+      "name": "OT630E30",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301313F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e30-daaecbe937",
+      "recordPath": "equipment/abb-ot630e30-daaecbe937.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e30-daaecbe937.json"
+    },
+    {
+      "id": "abb-ot630e40-2c9bc56192",
+      "name": "OT630E40",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301316F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e40-2c9bc56192",
+      "recordPath": "equipment/abb-ot630e40-2c9bc56192.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630e40-2c9bc56192.json"
+    },
+    {
+      "id": "abb-ot630es03k-ot800es03k-ot600us03k-2c1ecee1f2",
+      "name": "OT630ES03K OT800ES03K OT600US03K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301676F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630es03k-ot800es03k-ot600us03k-2c1ecee1f2",
+      "recordPath": "equipment/abb-ot630es03k-ot800es03k-ot600us03k-2c1ecee1f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630es03k-ot800es03k-ot600us03k-2c1ecee1f2.json"
+    },
+    {
+      "id": "abb-ot630es04-ot800es04-ot600us04-d5e74cbfcd",
+      "name": "OT630ES04 OT800ES04 OT600US04",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301674F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630es04-ot800es04-ot600us04-d5e74cbfcd",
+      "recordPath": "equipment/abb-ot630es04-ot800es04-ot600us04-d5e74cbfcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630es04-ot800es04-ot600us04-d5e74cbfcd.json"
+    },
+    {
+      "id": "abb-ot630es04k-ot800es04k-ot600us04k-4116323354",
+      "name": "OT630ES04K OT800ES04K OT600US04K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301678F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630es04k-ot800es04k-ot600us04k-4116323354",
+      "recordPath": "equipment/abb-ot630es04k-ot800es04k-ot600us04k-4116323354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630es04k-ot800es04k-ot600us04k-4116323354.json"
+    },
+    {
+      "id": "abb-ot630es40-ot800es40-ot600us40-a37d243097",
+      "name": "OT630ES40 OT800ES40 OT600US40",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301682F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630es40-ot800es40-ot600us40-a37d243097",
+      "recordPath": "equipment/abb-ot630es40-ot800es40-ot600us40-a37d243097.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630es40-ot800es40-ot600us40-a37d243097.json"
+    },
+    {
+      "id": "abb-ot630es40k-ot800es40k-ot600us40k-531e9d7736",
+      "name": "OT630ES40K OT800ES40K OT600US40K",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301406F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot630es40k-ot800es40k-ot600us40k-531e9d7736",
+      "recordPath": "equipment/abb-ot630es40k-ot800es40k-ot600us40k-531e9d7736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot630es40k-ot800es40k-ot600us40k-531e9d7736.json"
+    },
+    {
+      "id": "abb-ot63etur3y-l01-zip-c643e96d37",
+      "name": "OT63ETUR3Y-L01.zip",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT63ETUR3Y-L01.ZIP",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot63etur3y-l01-zip-c643e96d37",
+      "recordPath": "equipment/abb-ot63etur3y-l01-zip-c643e96d37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot63etur3y-l01-zip-c643e96d37.json"
+    },
+    {
+      "id": "abb-ot800-ot1200u02-204b164469",
+      "name": "OT800...OT1200U02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307743F0001; OT800-1200U02.STP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800-ot1200u02-204b164469",
+      "recordPath": "equipment/abb-ot800-ot1200u02-204b164469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800-ot1200u02-204b164469.json"
+    },
+    {
+      "id": "abb-ot800-ot1200u03-igs-file-7f2b2d8b7b",
+      "name": "OT800...OT1200U03",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800-1200U03.IGS; OT800-1200U03.STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800-ot1200u03-igs-file-7f2b2d8b7b",
+      "recordPath": "equipment/abb-ot800-ot1200u03-igs-file-7f2b2d8b7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800-ot1200u03-igs-file-7f2b2d8b7b.json"
+    },
+    {
+      "id": "abb-ot800-ot1200u04-d23dfee9b5",
+      "name": "OT800...OT1200U04",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307726F0001; OT800-1200U04.STP",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800-ot1200u04-d23dfee9b5",
+      "recordPath": "equipment/abb-ot800-ot1200u04-d23dfee9b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800-ot1200u04-d23dfee9b5.json"
+    },
+    {
+      "id": "abb-ot800-ot1200u12-36797e3df2",
+      "name": "OT800...OT1200U12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307751F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800-ot1200u12-36797e3df2",
+      "recordPath": "equipment/abb-ot800-ot1200u12-36797e3df2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800-ot1200u12-36797e3df2.json"
+    },
+    {
+      "id": "abb-ot800-ot1200u22-20f5f79faf",
+      "name": "OT800...OT1200U22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800-1200U22.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800-ot1200u22-20f5f79faf",
+      "recordPath": "equipment/abb-ot800-ot1200u22-20f5f79faf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800-ot1200u22-20f5f79faf.json"
+    },
+    {
+      "id": "abb-ot800-ot1200u30-f00fb30f0d",
+      "name": "OT800...OT1200U30",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307736F0001; OT800-1200U30.STP",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800-ot1200u30-f00fb30f0d",
+      "recordPath": "equipment/abb-ot800-ot1200u30-f00fb30f0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800-ot1200u30-f00fb30f0d.json"
+    },
+    {
+      "id": "abb-ot800e01-bb94287e50",
+      "name": "OT800E01",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301325F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e01-bb94287e50",
+      "recordPath": "equipment/abb-ot800e01-bb94287e50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e01-bb94287e50.json"
+    },
+    {
+      "id": "abb-ot800e02-5f12557b32",
+      "name": "OT800E02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301328F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e02-5f12557b32",
+      "recordPath": "equipment/abb-ot800e02-5f12557b32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e02-5f12557b32.json"
+    },
+    {
+      "id": "abb-ot800e03-61ce3ab458",
+      "name": "OT800E03",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301330F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e03-61ce3ab458",
+      "recordPath": "equipment/abb-ot800e03-61ce3ab458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e03-61ce3ab458.json"
+    },
+    {
+      "id": "abb-ot800e04-acda76dc20",
+      "name": "OT800E04",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301331F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e04-acda76dc20",
+      "recordPath": "equipment/abb-ot800e04-acda76dc20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e04-acda76dc20.json"
+    },
+    {
+      "id": "abb-ot800e11-023d675c9c",
+      "name": "OT800E11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301338F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e11-023d675c9c",
+      "recordPath": "equipment/abb-ot800e11-023d675c9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e11-023d675c9c.json"
+    },
+    {
+      "id": "abb-ot800e12-d66d455629",
+      "name": "OT800E12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301339F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e12-d66d455629",
+      "recordPath": "equipment/abb-ot800e12-d66d455629.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e12-d66d455629.json"
+    },
+    {
+      "id": "abb-ot800e13-1e8fa3e518",
+      "name": "OT800E13",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301341F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e13-1e8fa3e518",
+      "recordPath": "equipment/abb-ot800e13-1e8fa3e518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e13-1e8fa3e518.json"
+    },
+    {
+      "id": "abb-ot800e22-151f402553",
+      "name": "OT800E22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301343F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e22-151f402553",
+      "recordPath": "equipment/abb-ot800e22-151f402553.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e22-151f402553.json"
+    },
+    {
+      "id": "abb-ot800e30-696e25a910",
+      "name": "OT800E30",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301333F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e30-696e25a910",
+      "recordPath": "equipment/abb-ot800e30-696e25a910.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e30-696e25a910.json"
+    },
+    {
+      "id": "abb-ot800e40-838548db70",
+      "name": "OT800E40",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301335F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800e40-838548db70",
+      "recordPath": "equipment/abb-ot800e40-838548db70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800e40-838548db70.json"
+    },
+    {
+      "id": "abb-ot800es03-igs-file-c7fad16294",
+      "name": "OT800ES03",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES03.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es03-igs-file-c7fad16294",
+      "recordPath": "equipment/abb-ot800es03-igs-file-c7fad16294.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es03-igs-file-c7fad16294.json"
+    },
+    {
+      "id": "abb-ot800es03k-igs-file-2726841ac9",
+      "name": "OT800ES03K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES03K.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es03k-igs-file-2726841ac9",
+      "recordPath": "equipment/abb-ot800es03k-igs-file-2726841ac9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es03k-igs-file-2726841ac9.json"
+    },
+    {
+      "id": "abb-ot800es04-igs-file-13bb9dd68f",
+      "name": "OT800ES04",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES04.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es04-igs-file-13bb9dd68f",
+      "recordPath": "equipment/abb-ot800es04-igs-file-13bb9dd68f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es04-igs-file-13bb9dd68f.json"
+    },
+    {
+      "id": "abb-ot800es04k-igs-file-bf2c744beb",
+      "name": "OT800ES04K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES04K.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es04k-igs-file-bf2c744beb",
+      "recordPath": "equipment/abb-ot800es04k-igs-file-bf2c744beb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es04k-igs-file-bf2c744beb.json"
+    },
+    {
+      "id": "abb-ot800es30-igs-file-071da76a1e",
+      "name": "OT800ES30",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES30.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es30-igs-file-071da76a1e",
+      "recordPath": "equipment/abb-ot800es30-igs-file-071da76a1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es30-igs-file-071da76a1e.json"
+    },
+    {
+      "id": "abb-ot800es30k-igs-file-7905b0ace7",
+      "name": "OT800ES30K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES30K.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es30k-igs-file-7905b0ace7",
+      "recordPath": "equipment/abb-ot800es30k-igs-file-7905b0ace7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es30k-igs-file-7905b0ace7.json"
+    },
+    {
+      "id": "abb-ot800es40-igs-file-2e42f68adc",
+      "name": "OT800ES40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES40.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es40-igs-file-2e42f68adc",
+      "recordPath": "equipment/abb-ot800es40-igs-file-2e42f68adc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es40-igs-file-2e42f68adc.json"
+    },
+    {
+      "id": "abb-ot800es40k-igs-file-b66eb2e810",
+      "name": "OT800ES40K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800ES40K.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800es40k-igs-file-b66eb2e810",
+      "recordPath": "equipment/abb-ot800es40k-igs-file-b66eb2e810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800es40k-igs-file-b66eb2e810.json"
+    },
+    {
+      "id": "abb-ot800u02-non-fusible-800a-frame-ul98-dwg-47f4d9148c",
+      "name": "OT800U02: Non-fusible, 800A frame, UL98",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2501 8002-005DWG; D 2501 8002-005_PDF",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u02-non-fusible-800a-frame-ul98-dwg-47f4d9148c",
+      "recordPath": "equipment/abb-ot800u02-non-fusible-800a-frame-ul98-dwg-47f4d9148c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u02-non-fusible-800a-frame-ul98-dwg-47f4d9148c.json"
+    },
+    {
+      "id": "abb-ot800u03-non-fusible-800a-frame-ul98-dwg-4254e827aa",
+      "name": "OT800U03: Non-fusible, 800A frame, UL98",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2501 8003-017DWG; D 2501 8003-017PDF",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u03-non-fusible-800a-frame-ul98-dwg-4254e827aa",
+      "recordPath": "equipment/abb-ot800u03-non-fusible-800a-frame-ul98-dwg-4254e827aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u03-non-fusible-800a-frame-ul98-dwg-4254e827aa.json"
+    },
+    {
+      "id": "abb-ot800u04-non-fusible-800a-frame-ul98-dwg-9aa5d5f365",
+      "name": "OT800U04: Non-fusible, 800A frame, UL98",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2501 8004-015DWG; D 2501 8004-015PDF",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u04-non-fusible-800a-frame-ul98-dwg-9aa5d5f365",
+      "recordPath": "equipment/abb-ot800u04-non-fusible-800a-frame-ul98-dwg-9aa5d5f365.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u04-non-fusible-800a-frame-ul98-dwg-9aa5d5f365.json"
+    },
+    {
+      "id": "abb-ot800u12-non-fusible-800a-frame-ul98-dwg-e1d1ec2b85",
+      "name": "OT800U12: Non-fusible, 800A frame, UL98",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2501 8003-018DWG; D 2501 8003-018PDF",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u12-non-fusible-800a-frame-ul98-dwg-e1d1ec2b85",
+      "recordPath": "equipment/abb-ot800u12-non-fusible-800a-frame-ul98-dwg-e1d1ec2b85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u12-non-fusible-800a-frame-ul98-dwg-e1d1ec2b85.json"
+    },
+    {
+      "id": "abb-ot800u13-non-fusible-800a-frame-ul98-dwg-45dbe59fb8",
+      "name": "OT800U13: Non-fusible, 800A frame, UL98",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2501 8004-016DWG; D 2501 8004-016PDF",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u13-non-fusible-800a-frame-ul98-dwg-45dbe59fb8",
+      "recordPath": "equipment/abb-ot800u13-non-fusible-800a-frame-ul98-dwg-45dbe59fb8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u13-non-fusible-800a-frame-ul98-dwg-45dbe59fb8.json"
+    },
+    {
+      "id": "abb-ot800u21-efd73e3d31",
+      "name": "OT800U21",
+      "manufacturer": "ABB",
+      "drawingNumber": "OT800U21.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u21-efd73e3d31",
+      "recordPath": "equipment/abb-ot800u21-efd73e3d31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u21-efd73e3d31.json"
+    },
+    {
+      "id": "abb-ot800u22-non-fusible-800a-frame-ul98-dwg-cb256796c4",
+      "name": "OT800U22: Non-fusible, 800A frame, UL98",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2501 8004-017DWG; D 2501 8004-017PDF",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot800u22-non-fusible-800a-frame-ul98-dwg-cb256796c4",
+      "recordPath": "equipment/abb-ot800u22-non-fusible-800a-frame-ul98-dwg-cb256796c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ot800u22-non-fusible-800a-frame-ul98-dwg-cb256796c4.json"
+    },
+    {
+      "id": "abb-otb1600-6c-stp-492749c1e2",
+      "name": "OTB1600-6C",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTB1600-6C.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otb1600-6c-stp-492749c1e2",
+      "recordPath": "equipment/abb-otb1600-6c-stp-492749c1e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otb1600-6c-stp-492749c1e2.json"
+    },
+    {
+      "id": "abb-otb1600-6-8fdccbfefa",
+      "name": "OTB1600_6",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTB1600_6.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otb1600-6-8fdccbfefa",
+      "recordPath": "equipment/abb-otb1600-6-8fdccbfefa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otb1600-6-8fdccbfefa.json"
+    },
+    {
+      "id": "abb-otb800-6-e654280632",
+      "name": "OTB800/6",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTB800/6.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otb800-6-e654280632",
+      "recordPath": "equipment/abb-otb800-6-e654280632.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otb800-6-e654280632.json"
+    },
+    {
+      "id": "abb-otcmg3-3bs-a388ef84c3",
+      "name": "OTCMG3-3BS",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTCM_G3-3BS_SR.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otcmg3-3bs-a388ef84c3",
+      "recordPath": "equipment/abb-otcmg3-3bs-a388ef84c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otcmg3-3bs-a388ef84c3.json"
+    },
+    {
+      "id": "abb-otcmg3-4bs-47594338b2",
+      "name": "OTCMG3-4BS",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTCM_G3-4BS_SR.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otcmg3-4bs-47594338b2",
+      "recordPath": "equipment/abb-otcmg3-4bs-47594338b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otcmg3-4bs-47594338b2.json"
+    },
+    {
+      "id": "abb-otdc100-200e33-igs-file-b8bc46785b",
+      "name": "OTDC100...200E33",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_200E33.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200e33-igs-file-b8bc46785b",
+      "recordPath": "equipment/abb-otdc100-200e33-igs-file-b8bc46785b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200e33-igs-file-b8bc46785b.json"
+    },
+    {
+      "id": "abb-otdc100-200ev22-igs-file-e795d9cd90",
+      "name": "OTDC100...200EV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_200EV22.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200ev22-igs-file-e795d9cd90",
+      "recordPath": "equipment/abb-otdc100-200ev22-igs-file-e795d9cd90.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200ev22-igs-file-e795d9cd90.json"
+    },
+    {
+      "id": "abb-otdc100-200u22-igs-file-ea361db74a",
+      "name": "OTDC100...200U22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_200U22.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200u22-igs-file-ea361db74a",
+      "recordPath": "equipment/abb-otdc100-200u22-igs-file-ea361db74a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200u22-igs-file-ea361db74a.json"
+    },
+    {
+      "id": "abb-otdc100-200u33-igs-file-e0c0bdca27",
+      "name": "OTDC100...200U33",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_200U33.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200u33-igs-file-e0c0bdca27",
+      "recordPath": "equipment/abb-otdc100-200u33-igs-file-e0c0bdca27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200u33-igs-file-e0c0bdca27.json"
+    },
+    {
+      "id": "abb-otdc100-200uv22-igs-file-c2329ad910",
+      "name": "OTDC100...200UV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_200UV22.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200uv22-igs-file-c2329ad910",
+      "recordPath": "equipment/abb-otdc100-200uv22-igs-file-c2329ad910.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-200uv22-igs-file-c2329ad910.json"
+    },
+    {
+      "id": "abb-otdc100-245u02-igs-file-3a7a33776b",
+      "name": "OTDC100...245U02",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_245U02.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245u02-igs-file-3a7a33776b",
+      "recordPath": "equipment/abb-otdc100-245u02-igs-file-3a7a33776b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245u02-igs-file-3a7a33776b.json"
+    },
+    {
+      "id": "abb-otdc100-245u11-igs-file-464005f00c",
+      "name": "OTDC100...245U11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_245U11.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245u11-igs-file-464005f00c",
+      "recordPath": "equipment/abb-otdc100-245u11-igs-file-464005f00c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245u11-igs-file-464005f00c.json"
+    },
+    {
+      "id": "abb-otdc100-245u20-igs-file-c0ebf5679c",
+      "name": "OTDC100...245U20",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_245U20.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-245u20-igs-file-c0ebf5679c",
+      "recordPath": "equipment/abb-otdc100-245u20-igs-file-c0ebf5679c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-245u20-igs-file-c0ebf5679c.json"
+    },
+    {
+      "id": "abb-otdc100-250e02-igs-file-09ff96431f",
+      "name": "OTDC100...250E02",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_250E02.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e02-igs-file-09ff96431f",
+      "recordPath": "equipment/abb-otdc100-250e02-igs-file-09ff96431f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e02-igs-file-09ff96431f.json"
+    },
+    {
+      "id": "abb-otdc100-250e11-igs-file-d18b81b51c",
+      "name": "OTDC100...250E11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_250E11.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e11-igs-file-d18b81b51c",
+      "recordPath": "equipment/abb-otdc100-250e11-igs-file-d18b81b51c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e11-igs-file-d18b81b51c.json"
+    },
+    {
+      "id": "abb-otdc100-250e20-igs-file-70c3265ba6",
+      "name": "OTDC100...250E20",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_250E20.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e20-igs-file-70c3265ba6",
+      "recordPath": "equipment/abb-otdc100-250e20-igs-file-70c3265ba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e20-igs-file-70c3265ba6.json"
+    },
+    {
+      "id": "abb-otdc100-250e22-igs-file-699204b087",
+      "name": "OTDC100...250E22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100_200E22.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e22-igs-file-699204b087",
+      "recordPath": "equipment/abb-otdc100-250e22-igs-file-699204b087.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250e22-igs-file-699204b087.json"
+    },
+    {
+      "id": "abb-otdc100-250-g02s-otdc100-250-gv02s-08992110d3",
+      "name": "OTDC100…250_G02S, OTDC100…250_GV02S",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100-250_G_02S_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250-g02s-otdc100-250-gv02s-08992110d3",
+      "recordPath": "equipment/abb-otdc100-250-g02s-otdc100-250-gv02s-08992110d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250-g02s-otdc100-250-gv02s-08992110d3.json"
+    },
+    {
+      "id": "abb-otdc100-250-g11-otdc100-250-gv11-a82d248eb4",
+      "name": "OTDC100…250_G11, OTDC100…250_GV11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100-250_G_11_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250-g11-otdc100-250-gv11-a82d248eb4",
+      "recordPath": "equipment/abb-otdc100-250-g11-otdc100-250-gv11-a82d248eb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250-g11-otdc100-250-gv11-a82d248eb4.json"
+    },
+    {
+      "id": "abb-otdc100-250-g22-otdc100-250-gv22-0a4c5ca933",
+      "name": "OTDC100…250_G22, OTDC100…250_GV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC100-250_G_22_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250-g22-otdc100-250-gv22-0a4c5ca933",
+      "recordPath": "equipment/abb-otdc100-250-g22-otdc100-250-gv22-0a4c5ca933.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc100-250-g22-otdc100-250-gv22-0a4c5ca933.json"
+    },
+    {
+      "id": "abb-otdc250-400u20s-igs-file-b083bd668b",
+      "name": "OTDC250...400U20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC400U20S.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400u20s-igs-file-b083bd668b",
+      "recordPath": "equipment/abb-otdc250-400u20s-igs-file-b083bd668b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400u20s-igs-file-b083bd668b.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs02-otdc250-400ufsv02-igs-file-72041ce7a3",
+      "name": "OTDC250...400UFS02, OTDC250...400UFSV02",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-400UFSV02_IGS; OTDC250-400UFSV02_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs02-otdc250-400ufsv02-igs-file-72041ce7a3",
+      "recordPath": "equipment/abb-otdc250-400ufs02-otdc250-400ufsv02-igs-file-72041ce7a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs02-otdc250-400ufsv02-igs-file-72041ce7a3.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs02k-otdc250-400ufsv02k-de608af1ae",
+      "name": "OTDC250...400UFS02K, OTDC250...400UFSV02K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-400UFSV02K_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs02k-otdc250-400ufsv02k-de608af1ae",
+      "recordPath": "equipment/abb-otdc250-400ufs02k-otdc250-400ufsv02k-de608af1ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs02k-otdc250-400ufsv02k-de608af1ae.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs11-otdc250-400ufsv11-igs-file-bfe9ab668d",
+      "name": "OTDC250...400UFS11, OTDC250...400UFSV11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-400UFSV11_IGS; OTDC250-400UFSV11_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs11-otdc250-400ufsv11-igs-file-bfe9ab668d",
+      "recordPath": "equipment/abb-otdc250-400ufs11-otdc250-400ufsv11-igs-file-bfe9ab668d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs11-otdc250-400ufsv11-igs-file-bfe9ab668d.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs11k-otdc250-400ufsv11k-igs-file-58b2fa1857",
+      "name": "OTDC250...400UFS11K, OTDC250...400UFSV11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-400UFSV11K_IGS; OTDC250-400UFSV11K.STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs11k-otdc250-400ufsv11k-igs-file-58b2fa1857",
+      "recordPath": "equipment/abb-otdc250-400ufs11k-otdc250-400ufsv11k-igs-file-58b2fa1857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs11k-otdc250-400ufsv11k-igs-file-58b2fa1857.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs22-otdc250-400ufsv22-igs-file-3faca60fb7",
+      "name": "OTDC250...400UFS22, OTDC250...400UFSV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-400UFSV22_IGS; OTDC250-400UFSV22_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs22-otdc250-400ufsv22-igs-file-3faca60fb7",
+      "recordPath": "equipment/abb-otdc250-400ufs22-otdc250-400ufsv22-igs-file-3faca60fb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs22-otdc250-400ufsv22-igs-file-3faca60fb7.json"
+    },
+    {
+      "id": "abb-otdc250-400ufs22k-otdc250-400ufsv22k-c235ee8197",
+      "name": "OTDC250...400UFS22K, OTDC250...400UFSV22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-400UFSV22K_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400ufs22k-otdc250-400ufsv22k-c235ee8197",
+      "recordPath": "equipment/abb-otdc250-400ufs22k-otdc250-400ufsv22k-c235ee8197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400ufs22k-otdc250-400ufsv22k-c235ee8197.json"
+    },
+    {
+      "id": "abb-otdc250-400us20s-igs-file-aae2c772b9",
+      "name": "OTDC250...400US20S",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC400US20S.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us20s-igs-file-aae2c772b9",
+      "recordPath": "equipment/abb-otdc250-400us20s-igs-file-aae2c772b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-400us20s-igs-file-aae2c772b9.json"
+    },
+    {
+      "id": "abb-otdc250-600uf02-otdc250-600ufv02-7c84a86e88",
+      "name": "OTDC250...600UF02, OTDC250...600UFV02",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-600UFV02_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf02-otdc250-600ufv02-7c84a86e88",
+      "recordPath": "equipment/abb-otdc250-600uf02-otdc250-600ufv02-7c84a86e88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf02-otdc250-600ufv02-7c84a86e88.json"
+    },
+    {
+      "id": "abb-otdc250-600uf02k-otdc250-600ufv02k-igs-file-7c6a8e0b07",
+      "name": "OTDC250...600UF02K, OTDC250...600UFV02K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-600UFV02K_IGS; OTDC250-600UFV02K_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf02k-otdc250-600ufv02k-igs-file-7c6a8e0b07",
+      "recordPath": "equipment/abb-otdc250-600uf02k-otdc250-600ufv02k-igs-file-7c6a8e0b07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf02k-otdc250-600ufv02k-igs-file-7c6a8e0b07.json"
+    },
+    {
+      "id": "abb-otdc250-600uf11-otdc250-600ufv11-bc1558bcb4",
+      "name": "OTDC250...600UF11, OTDC250...600UFV11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-600UFV11_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf11-otdc250-600ufv11-bc1558bcb4",
+      "recordPath": "equipment/abb-otdc250-600uf11-otdc250-600ufv11-bc1558bcb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf11-otdc250-600ufv11-bc1558bcb4.json"
+    },
+    {
+      "id": "abb-otdc250-600uf11k-otdc250-600ufv11k-igs-file-69974c5118",
+      "name": "OTDC250...600UF11K, OTDC250...600UFV11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-600UFV11K_IGS; OTDC250-600UFV11K_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf11k-otdc250-600ufv11k-igs-file-69974c5118",
+      "recordPath": "equipment/abb-otdc250-600uf11k-otdc250-600ufv11k-igs-file-69974c5118.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf11k-otdc250-600ufv11k-igs-file-69974c5118.json"
+    },
+    {
+      "id": "abb-otdc250-600uf22-otdc250-600ufv22-igs-file-31b1a6df63",
+      "name": "OTDC250...600UF22, OTDC250...600UFV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-600UFV22_IGS; OTDC250-600UFV22_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf22-otdc250-600ufv22-igs-file-31b1a6df63",
+      "recordPath": "equipment/abb-otdc250-600uf22-otdc250-600ufv22-igs-file-31b1a6df63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf22-otdc250-600ufv22-igs-file-31b1a6df63.json"
+    },
+    {
+      "id": "abb-otdc250-600uf22k-otdc250-600ufv22k-7845efe84a",
+      "name": "OTDC250...600UF22K, OTDC250...600UFV22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC250-600UFV22K_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-600uf22k-otdc250-600ufv22k-7845efe84a",
+      "recordPath": "equipment/abb-otdc250-600uf22k-otdc250-600ufv22k-7845efe84a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250-600uf22k-otdc250-600ufv22k-7845efe84a.json"
+    },
+    {
+      "id": "abb-otdc250uv12-eb3329b2cf",
+      "name": "OTDC250UV12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307575F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250uv12-eb3329b2cf",
+      "recordPath": "equipment/abb-otdc250uv12-eb3329b2cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc250uv12-eb3329b2cf.json"
+    },
+    {
+      "id": "abb-otdc315-500f33-otdc315-500fv33-igs-file-b78fc941eb",
+      "name": "OTDC315...500F33, OTDC315...500FV33",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-500F33_IGS; OTDC315-500F33_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500f33-otdc315-500fv33-igs-file-b78fc941eb",
+      "recordPath": "equipment/abb-otdc315-500f33-otdc315-500fv33-igs-file-b78fc941eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500f33-otdc315-500fv33-igs-file-b78fc941eb.json"
+    },
+    {
+      "id": "abb-otdc315-500f33k-otdc315-500fv33k-igs-file-e7953a4f47",
+      "name": "OTDC315...500F33K, OTDC315...500FV33K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-500F33K_IGS; OTDC315-500F33K_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500f33k-otdc315-500fv33k-igs-file-e7953a4f47",
+      "recordPath": "equipment/abb-otdc315-500f33k-otdc315-500fv33k-igs-file-e7953a4f47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-500f33k-otdc315-500fv33k-igs-file-e7953a4f47.json"
+    },
+    {
+      "id": "abb-otdc315-630f02-otdc315-630fv02-otdc250-600uf02-otdc250-600ufv02-9508a945af",
+      "name": "OTDC315...630F02, OTDC315...630FV02, OTDC250...600UF02, OTDC250...600UFV02",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307662F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f02-otdc315-630fv02-otdc250-600uf02-otdc250-600ufv02-9508a945af",
+      "recordPath": "equipment/abb-otdc315-630f02-otdc315-630fv02-otdc250-600uf02-otdc250-600ufv02-9508a945af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f02-otdc315-630fv02-otdc250-600uf02-otdc250-600ufv02-9508a945af.json"
+    },
+    {
+      "id": "abb-otdc315-630f02-otdc315-630fv02-igs-file-bcb68c7a2a",
+      "name": "OTDC315...630F02, OTDC315...630FV02",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-630FV02_IGS; OTDC315-630FV02_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f02-otdc315-630fv02-igs-file-bcb68c7a2a",
+      "recordPath": "equipment/abb-otdc315-630f02-otdc315-630fv02-igs-file-bcb68c7a2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f02-otdc315-630fv02-igs-file-bcb68c7a2a.json"
+    },
+    {
+      "id": "abb-otdc315-630f02k-otdc315-630fv02k-d01ab178c6",
+      "name": "OTDC315...630F02K, OTDC315...630FV02K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-630FV02K_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f02k-otdc315-630fv02k-d01ab178c6",
+      "recordPath": "equipment/abb-otdc315-630f02k-otdc315-630fv02k-d01ab178c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f02k-otdc315-630fv02k-d01ab178c6.json"
+    },
+    {
+      "id": "abb-otdc315-630f11-otdc315-630fv11-c701e2e6c4",
+      "name": "OTDC315...630F11, OTDC315...630FV11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-630FV11_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f11-otdc315-630fv11-c701e2e6c4",
+      "recordPath": "equipment/abb-otdc315-630f11-otdc315-630fv11-c701e2e6c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f11-otdc315-630fv11-c701e2e6c4.json"
+    },
+    {
+      "id": "abb-otdc315-630f11k-otdc315-630fv11k-119d57c87b",
+      "name": "OTDC315...630F11K, OTDC315...630FV11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-630FV11K_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f11k-otdc315-630fv11k-119d57c87b",
+      "recordPath": "equipment/abb-otdc315-630f11k-otdc315-630fv11k-119d57c87b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f11k-otdc315-630fv11k-119d57c87b.json"
+    },
+    {
+      "id": "abb-otdc315-630f22-otdc315-630fv22-otdc250-600uf22-otdc250-600ufv22-856ec7ee96",
+      "name": "OTDC315...630F22, OTDC315...630FV22, OTDC250...600UF22, OTDC250...600UFV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307664F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f22-otdc315-630fv22-otdc250-600uf22-otdc250-600ufv22-856ec7ee96",
+      "recordPath": "equipment/abb-otdc315-630f22-otdc315-630fv22-otdc250-600uf22-otdc250-600ufv22-856ec7ee96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f22-otdc315-630fv22-otdc250-600uf22-otdc250-600ufv22-856ec7ee96.json"
+    },
+    {
+      "id": "abb-otdc315-630f22-otdc315-630fv22-igs-file-6bc3507ff6",
+      "name": "OTDC315...630F22, OTDC315...630FV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-630FV22_IGS; OTDC315-630FV22_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f22-otdc315-630fv22-igs-file-6bc3507ff6",
+      "recordPath": "equipment/abb-otdc315-630f22-otdc315-630fv22-igs-file-6bc3507ff6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f22-otdc315-630fv22-igs-file-6bc3507ff6.json"
+    },
+    {
+      "id": "abb-otdc315-630f22k-otdc315-630fv22k-igs-file-7c94484850",
+      "name": "OTDC315...630F22K, OTDC315...630FV22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC315-630FV22K_IGS; OTDC315-630FV22K_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-630f22k-otdc315-630fv22k-igs-file-7c94484850",
+      "recordPath": "equipment/abb-otdc315-630f22k-otdc315-630fv22k-igs-file-7c94484850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-630f22k-otdc315-630fv22k-igs-file-7c94484850.json"
+    },
+    {
+      "id": "abb-otdc315-800f11-otdc315-800fv11-otdc250-600uf11-otdc250-600ufv11-f68381f111",
+      "name": "OTDC315...800F11, OTDC315...800FV11, OTDC250...600UF11, OTDC250...600UFV11",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307658F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-800f11-otdc315-800fv11-otdc250-600uf11-otdc250-600ufv11-f68381f111",
+      "recordPath": "equipment/abb-otdc315-800f11-otdc315-800fv11-otdc250-600uf11-otdc250-600ufv11-f68381f111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc315-800f11-otdc315-800fv11-otdc250-600uf11-otdc250-600ufv11-f68381f111.json"
+    },
+    {
+      "id": "abb-otdc400uv12-9c29f43ad2",
+      "name": "OTDC400UV12",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307503F0202",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc400uv12-9c29f43ad2",
+      "recordPath": "equipment/abb-otdc400uv12-9c29f43ad2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc400uv12-9c29f43ad2.json"
+    },
+    {
+      "id": "abb-otdc600ufs02-otdc600ufsv02-igs-file-70f51b4460",
+      "name": "OTDC600UFS02, OTDC600UFSV02",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC600UFSV02_IGS; OTDC600UFSV02_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs02-otdc600ufsv02-igs-file-70f51b4460",
+      "recordPath": "equipment/abb-otdc600ufs02-otdc600ufsv02-igs-file-70f51b4460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs02-otdc600ufsv02-igs-file-70f51b4460.json"
+    },
+    {
+      "id": "abb-otdc600ufs02k-otdc600ufsv02k-igs-file-f61b3bca81",
+      "name": "OTDC600UFS02K, OTDC600UFSV02K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC600UFSV02K_IGS; OTDC600UFSV02K_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs02k-otdc600ufsv02k-igs-file-f61b3bca81",
+      "recordPath": "equipment/abb-otdc600ufs02k-otdc600ufsv02k-igs-file-f61b3bca81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs02k-otdc600ufsv02k-igs-file-f61b3bca81.json"
+    },
+    {
+      "id": "abb-otdc600ufs11-otdc600ufsv11-igs-file-13783c5e18",
+      "name": "OTDC600UFS11, OTDC600UFSV11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC600UFSV11_IGS; OTDC600UFSV11_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs11-otdc600ufsv11-igs-file-13783c5e18",
+      "recordPath": "equipment/abb-otdc600ufs11-otdc600ufsv11-igs-file-13783c5e18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs11-otdc600ufsv11-igs-file-13783c5e18.json"
+    },
+    {
+      "id": "abb-otdc600ufs11k-otdc600ufsv11k-igs-file-8ac3290a41",
+      "name": "OTDC600UFS11K, OTDC600UFSV11K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC600UFSV11K_IGS; OTDC600UFSV11K_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs11k-otdc600ufsv11k-igs-file-8ac3290a41",
+      "recordPath": "equipment/abb-otdc600ufs11k-otdc600ufsv11k-igs-file-8ac3290a41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs11k-otdc600ufsv11k-igs-file-8ac3290a41.json"
+    },
+    {
+      "id": "abb-otdc600ufs22-otdc600ufsv22-igs-file-d69f37dd42",
+      "name": "OTDC600UFS22, OTDC600UFSV22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC600UFSV22_IGS; OTDC600UFSV22_STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs22-otdc600ufsv22-igs-file-d69f37dd42",
+      "recordPath": "equipment/abb-otdc600ufs22-otdc600ufsv22-igs-file-d69f37dd42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs22-otdc600ufsv22-igs-file-d69f37dd42.json"
+    },
+    {
+      "id": "abb-otdc600ufs22k-otdc600ufsv22k-b24ac0f7a3",
+      "name": "OTDC600UFS22K, OTDC600UFSV22K",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC600UFSV22K_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600ufs22k-otdc600ufsv22k-b24ac0f7a3",
+      "recordPath": "equipment/abb-otdc600ufs22k-otdc600ufsv22k-b24ac0f7a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc600ufs22k-otdc600ufsv22k-b24ac0f7a3.json"
+    },
+    {
+      "id": "abb-otdc800-1000f22-otdckit800fs11-otdc800-1000fv22-otdckit800fs11-otdc800-1000uf22-otdckit800f-d75093468b",
+      "name": "OTDC800...1000F22+OTDCKIT800FS11, OTDC800...1000FV22+OTDCKIT800FS11, OTDC800...1000UF22+OTDCKIT800FS11, OTDC800...1000UFV22+OTDCKIT800FS11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC800...1000_F_22_OTDCKIT800FS11.IGS; OTDC800...1000_F_22_OTDCKIT800FS11.STP",
+      "formats": [
+        "IGS",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc800-1000f22-otdckit800fs11-otdc800-1000fv22-otdckit800fs11-otdc800-1000uf22-otdckit800f-d75093468b",
+      "recordPath": "equipment/abb-otdc800-1000f22-otdckit800fs11-otdc800-1000fv22-otdckit800fs11-otdc800-1000uf22-otdckit800f-d75093468b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc800-1000f22-otdckit800fs11-otdc800-1000fv22-otdckit800fs11-otdc800-1000uf22-otdckit800f-d75093468b.json"
+    },
+    {
+      "id": "abb-otdc800uf23-52264ecf30",
+      "name": "OTDC800UF23",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDC800UF23.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdc800uf23-52264ecf30",
+      "recordPath": "equipment/abb-otdc800uf23-52264ecf30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdc800uf23-52264ecf30.json"
+    },
+    {
+      "id": "abb-otdckit250gs101-b6b14eb4ee",
+      "name": "OTDCKIT250GS101",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC301837F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit250gs101-b6b14eb4ee",
+      "recordPath": "equipment/abb-otdckit250gs101-b6b14eb4ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdckit250gs101-b6b14eb4ee.json"
+    },
+    {
+      "id": "abb-otdcs400fg1-51fcc0f115",
+      "name": "OTDCS400FG1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCS400FG1",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcs400fg1-51fcc0f115",
+      "recordPath": "equipment/abb-otdcs400fg1-51fcc0f115.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcs400fg1-51fcc0f115.json"
+    },
+    {
+      "id": "abb-otdcs400t2l-9bc5697fa8",
+      "name": "OTDCS400T2L",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307622F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcs400t2l-9bc5697fa8",
+      "recordPath": "equipment/abb-otdcs400t2l-9bc5697fa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcs400t2l-9bc5697fa8.json"
+    },
+    {
+      "id": "abb-otdcztml-6644d79fb9",
+      "name": "OTDCZTML",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDCZTML_STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdcztml-6644d79fb9",
+      "recordPath": "equipment/abb-otdcztml-6644d79fb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdcztml-6644d79fb9.json"
+    },
+    {
+      "id": "abb-otdv200gk-5818ab5264",
+      "name": "OTDV200GK",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDV200GK.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdv200gk-5818ab5264",
+      "recordPath": "equipment/abb-otdv200gk-5818ab5264.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdv200gk-5818ab5264.json"
+    },
+    {
+      "id": "abb-otdv250ek-db55aa84ba",
+      "name": "OTDV250EK",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDV250EK.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdv250ek-db55aa84ba",
+      "recordPath": "equipment/abb-otdv250ek-db55aa84ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdv250ek-db55aa84ba.json"
+    },
+    {
+      "id": "abb-otdv400fk1-864969f849",
+      "name": "OTDV400FK1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDV400FK1.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdv400fk1-864969f849",
+      "recordPath": "equipment/abb-otdv400fk1-864969f849.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdv400fk1-864969f849.json"
+    },
+    {
+      "id": "abb-otdv400fk2-403d40fc65",
+      "name": "OTDV400FK2",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTDV400FK2.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otdv400fk2-403d40fc65",
+      "recordPath": "equipment/abb-otdv400fk2-403d40fc65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otdv400fk2-403d40fc65.json"
+    },
+    {
+      "id": "abb-otfk1161313rm25-stp-25198d606a",
+      "name": "OTFK1161313RM25",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTFK1161313RM25.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otfk1161313rm25-stp-25198d606a",
+      "recordPath": "equipment/abb-otfk1161313rm25-stp-25198d606a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otfk1161313rm25-stp-25198d606a.json"
+    },
+    {
+      "id": "abb-otfk1161313rm32-stp-1db4f68eaf",
+      "name": "OTFK1161313RM32",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTFK1161313RM32.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otfk1161313rm32-stp-1db4f68eaf",
+      "recordPath": "equipment/abb-otfk1161313rm32-stp-1db4f68eaf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otfk1161313rm32-stp-1db4f68eaf.json"
+    },
+    {
+      "id": "abb-otfk2231614rm40-stp-682824e14d",
+      "name": "OTFK2231614RM40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTFK2231614RM40.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otfk2231614rm40-stp-682824e14d",
+      "recordPath": "equipment/abb-otfk2231614rm40-stp-682824e14d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otfk2231614rm40-stp-682824e14d.json"
+    },
+    {
+      "id": "abb-otfk3624221pbl48-stp-90b3536d50",
+      "name": "OTFK3624221PBL48",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTFK3624221PBL48.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otfk3624221pbl48-stp-90b3536d50",
+      "recordPath": "equipment/abb-otfk3624221pbl48-stp-90b3536d50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otfk3624221pbl48-stp-90b3536d50.json"
+    },
+    {
+      "id": "abb-otfk4734821pbl68-stp-0704821850",
+      "name": "OTFK4734821PBL68",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTFK4734821PBL68.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otfk4734821pbl68-stp-0704821850",
+      "recordPath": "equipment/abb-otfk4734821pbl68-stp-0704821850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otfk4734821pbl68-stp-0704821850.json"
+    },
+    {
+      "id": "abb-otfk5975827pbl68-stp-7407ea346d",
+      "name": "OTFK5975827PBL68",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTFK5975827PBL68.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otfk5975827pbl68-stp-7407ea346d",
+      "recordPath": "equipment/abb-otfk5975827pbl68-stp-7407ea346d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otfk5975827pbl68-stp-7407ea346d.json"
+    },
+    {
+      "id": "abb-othv200u03-78d682878a",
+      "name": "OTHV200U03",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV200U03.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv200u03-78d682878a",
+      "recordPath": "equipment/abb-othv200u03-78d682878a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv200u03-78d682878a.json"
+    },
+    {
+      "id": "abb-othv200u04-b52ce726fa",
+      "name": "OTHV200U04",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV200U04.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv200u04-b52ce726fa",
+      "recordPath": "equipment/abb-othv200u04-b52ce726fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv200u04-b52ce726fa.json"
+    },
+    {
+      "id": "abb-othv200u12-9c370a9a71",
+      "name": "OTHV200U12",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV200U12.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv200u12-9c370a9a71",
+      "recordPath": "equipment/abb-othv200u12-9c370a9a71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv200u12-9c370a9a71.json"
+    },
+    {
+      "id": "abb-othv200u22-e67fa92496",
+      "name": "OTHV200U22",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV200U22.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv200u22-e67fa92496",
+      "recordPath": "equipment/abb-othv200u22-e67fa92496.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv200u22-e67fa92496.json"
+    },
+    {
+      "id": "abb-othv400u03-aa261c444b",
+      "name": "OTHV400U03",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV400U03.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv400u03-aa261c444b",
+      "recordPath": "equipment/abb-othv400u03-aa261c444b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv400u03-aa261c444b.json"
+    },
+    {
+      "id": "abb-othv400u04-3224072692",
+      "name": "OTHV400U04",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV400U04.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv400u04-3224072692",
+      "recordPath": "equipment/abb-othv400u04-3224072692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv400u04-3224072692.json"
+    },
+    {
+      "id": "abb-othv600-800u03-99ac40cf0a",
+      "name": "OTHV600-800U03",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV600-800U03.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv600-800u03-99ac40cf0a",
+      "recordPath": "equipment/abb-othv600-800u03-99ac40cf0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv600-800u03-99ac40cf0a.json"
+    },
+    {
+      "id": "abb-othv600-800u04-19fc7ed3f0",
+      "name": "OTHV600-800U04",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV600-800U04.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv600-800u04-19fc7ed3f0",
+      "recordPath": "equipment/abb-othv600-800u04-19fc7ed3f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv600-800u04-19fc7ed3f0.json"
+    },
+    {
+      "id": "abb-othv600-800u12-11dcefc13a",
+      "name": "OTHV600-800U12",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTHV600-800U12.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-othv600-800u12-11dcefc13a",
+      "recordPath": "equipment/abb-othv600-800u12-11dcefc13a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-othv600-800u12-11dcefc13a.json"
+    },
+    {
+      "id": "abb-otkit2500b11-bb7d523ee0",
+      "name": "OTKIT2500B11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTKIT2500B11.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otkit2500b11-bb7d523ee0",
+      "recordPath": "equipment/abb-otkit2500b11-bb7d523ee0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otkit2500b11-bb7d523ee0.json"
+    },
+    {
+      "id": "abb-otkit3200b11-9c812fc72e",
+      "name": "OTKIT3200B11",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTKIT3200B11.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otkit3200b11-9c812fc72e",
+      "recordPath": "equipment/abb-otkit3200b11-9c812fc72e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otkit3200b11-9c812fc72e.json"
+    },
+    {
+      "id": "abb-otkm402518p40-c117a76591",
+      "name": "OTKM402518P40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTKM402518P40.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otkm402518p40-c117a76591",
+      "recordPath": "equipment/abb-otkm402518p40-c117a76591.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otkm402518p40-c117a76591.json"
+    },
+    {
+      "id": "abb-otlk201510s32-stp-03a97ba3f8",
+      "name": "OTLK201510S32",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTLK201510S32.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otlk201510s32-stp-03a97ba3f8",
+      "recordPath": "equipment/abb-otlk201510s32-stp-03a97ba3f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otlk201510s32-stp-03a97ba3f8.json"
+    },
+    {
+      "id": "abb-otlk251611s32-stp-400119d2d7",
+      "name": "OTLK251611S32",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTLK251611S32.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otlk251611s32-stp-400119d2d7",
+      "recordPath": "equipment/abb-otlk251611s32-stp-400119d2d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otlk251611s32-stp-400119d2d7.json"
+    },
+    {
+      "id": "abb-otlk302013p40-stp-bc8c2489c5",
+      "name": "OTLK302013P40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTLK302013P40.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otlk302013p40-stp-bc8c2489c5",
+      "recordPath": "equipment/abb-otlk302013p40-stp-bc8c2489c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otlk302013p40-stp-bc8c2489c5.json"
+    },
+    {
+      "id": "abb-otlk302013p50-stp-18e9151204",
+      "name": "OTLK302013P50",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTLK302013P50.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otlk302013p50-stp-18e9151204",
+      "recordPath": "equipment/abb-otlk302013p50-stp-18e9151204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otlk302013p50-stp-18e9151204.json"
+    },
+    {
+      "id": "abb-otlk302013pbl-stp-8d84633e9b",
+      "name": "OTLK302013PBL",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTLK302013PBL.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otlk302013pbl-stp-8d84633e9b",
+      "recordPath": "equipment/abb-otlk302013pbl-stp-8d84633e9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otlk302013pbl-stp-8d84633e9b.json"
+    },
+    {
+      "id": "abb-otm1600e2m-02ca8a51d0",
+      "name": "OTM1600E2M",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM1600E2M.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm1600e2m-02ca8a51d0",
+      "recordPath": "equipment/abb-otm1600e2m-02ca8a51d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm1600e2m-02ca8a51d0.json"
+    },
+    {
+      "id": "abb-otm2000-2500e4m-7b418846ef",
+      "name": "OTM2000-2500E4M",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM2000-2500E4M.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm2000-2500e4m-7b418846ef",
+      "recordPath": "equipment/abb-otm2000-2500e4m-7b418846ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm2000-2500e4m-7b418846ef.json"
+    },
+    {
+      "id": "abb-otm3200e3-igs-file-cabe1e6126",
+      "name": "OTM3200E3",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM3200E3.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm3200e3-igs-file-cabe1e6126",
+      "recordPath": "equipment/abb-otm3200e3-igs-file-cabe1e6126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm3200e3-igs-file-cabe1e6126.json"
+    },
+    {
+      "id": "abb-otm3200e3w8-eced4c9baf",
+      "name": "OTM3200E3W8",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307174F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm3200e3w8-eced4c9baf",
+      "recordPath": "equipment/abb-otm3200e3w8-eced4c9baf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm3200e3w8-eced4c9baf.json"
+    },
+    {
+      "id": "abb-otm3200e4-igs-file-a9428c618c",
+      "name": "OTM3200E4",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM3200E4.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm3200e4-igs-file-a9428c618c",
+      "recordPath": "equipment/abb-otm3200e4-igs-file-a9428c618c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm3200e4-igs-file-a9428c618c.json"
+    },
+    {
+      "id": "abb-otm3200e4m-064cf3ff87",
+      "name": "OTM3200E4M",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM3200E4M.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm3200e4m-064cf3ff87",
+      "recordPath": "equipment/abb-otm3200e4m-064cf3ff87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm3200e4m-064cf3ff87.json"
+    },
+    {
+      "id": "abb-otm3200e4m230v-135-fe8f6da847",
+      "name": "OTM3200E4M230V-135",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM3200E4M230V-135.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm3200e4m230v-135-fe8f6da847",
+      "recordPath": "equipment/abb-otm3200e4m230v-135-fe8f6da847.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm3200e4m230v-135-fe8f6da847.json"
+    },
+    {
+      "id": "abb-otm3200e4w8-bda80704c9",
+      "name": "OTM3200E4W8",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307178F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm3200e4w8-bda80704c9",
+      "recordPath": "equipment/abb-otm3200e4w8-bda80704c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm3200e4w8-bda80704c9.json"
+    },
+    {
+      "id": "abb-otm4000e3-bd4c6f612c",
+      "name": "OTM4000E3",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307164F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm4000e3-bd4c6f612c",
+      "recordPath": "equipment/abb-otm4000e3-bd4c6f612c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm4000e3-bd4c6f612c.json"
+    },
+    {
+      "id": "abb-otm4000e3w8-f908886a20",
+      "name": "OTM4000E3W8",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307176F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm4000e3w8-f908886a20",
+      "recordPath": "equipment/abb-otm4000e3w8-f908886a20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm4000e3w8-f908886a20.json"
+    },
+    {
+      "id": "abb-otm4000e4-7f6977a0bb",
+      "name": "OTM4000E4",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307167F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm4000e4-7f6977a0bb",
+      "recordPath": "equipment/abb-otm4000e4-7f6977a0bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm4000e4-7f6977a0bb.json"
+    },
+    {
+      "id": "abb-otm4000e4w8-f24e83f8c8",
+      "name": "OTM4000E4W8",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC307180F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otm4000e4w8-f24e83f8c8",
+      "recordPath": "equipment/abb-otm4000e4w8-f24e83f8c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otm4000e4w8-f24e83f8c8.json"
+    },
+    {
+      "id": "abb-otmg3-3bsev-b1edc9cb96",
+      "name": "OTMG3-3BSEV",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM_G3-3BSEV_SR.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otmg3-3bsev-b1edc9cb96",
+      "recordPath": "equipment/abb-otmg3-3bsev-b1edc9cb96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otmg3-3bsev-b1edc9cb96.json"
+    },
+    {
+      "id": "abb-otmg3-4bsev-2ee4e48d36",
+      "name": "OTMG3-4BSEV",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTM_G3-4BSEV_SR.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otmg3-4bsev-2ee4e48d36",
+      "recordPath": "equipment/abb-otmg3-4bsev-2ee4e48d36.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otmg3-4bsev-2ee4e48d36.json"
+    },
+    {
+      "id": "abb-otp16-3m-c49b92c881",
+      "name": "OTP16_3M",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPK0128560SQM20.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otp16-3m-c49b92c881",
+      "recordPath": "equipment/abb-otp16-3m-c49b92c881.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otp16-3m-c49b92c881.json"
+    },
+    {
+      "id": "abb-otp16-3m25-fb84c3113e",
+      "name": "OTP16_3M25",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPK0128560SQM25.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otp16-3m25-fb84c3113e",
+      "recordPath": "equipment/abb-otp16-3m25-fb84c3113e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otp16-3m25-fb84c3113e.json"
+    },
+    {
+      "id": "abb-otpd40fp-76d72a1557",
+      "name": "OTPD40FP",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPD40FP.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpd40fp-76d72a1557",
+      "recordPath": "equipment/abb-otpd40fp-76d72a1557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpd40fp-76d72a1557.json"
+    },
+    {
+      "id": "abb-otpe125fp-c15feb6ee1",
+      "name": "OTPE125FP",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPE125FP.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpe125fp-c15feb6ee1",
+      "recordPath": "equipment/abb-otpe125fp-c15feb6ee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpe125fp-c15feb6ee1.json"
+    },
+    {
+      "id": "abb-otpe40fp-ea89a642f9",
+      "name": "OTPE40FP",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPE40FP.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpe40fp-ea89a642f9",
+      "recordPath": "equipment/abb-otpe40fp-ea89a642f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpe40fp-ea89a642f9.json"
+    },
+    {
+      "id": "abb-otpk201490sm32-stp-0af5c17681",
+      "name": "OTPK201490SM32",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPK201490SM32.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpk201490sm32-stp-0af5c17681",
+      "recordPath": "equipment/abb-otpk201490sm32-stp-0af5c17681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpk201490sm32-stp-0af5c17681.json"
+    },
+    {
+      "id": "abb-otpk382813pii-0326857c1e",
+      "name": "OTPK382813PII",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPK382813PII.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpk382813pii-0326857c1e",
+      "recordPath": "equipment/abb-otpk382813pii-0326857c1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpk382813pii-0326857c1e.json"
+    },
+    {
+      "id": "abb-otpk402014pi-stp-a00bab5d5a",
+      "name": "OTPK402014PI",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPK402014PI.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpk402014pi-stp-a00bab5d5a",
+      "recordPath": "equipment/abb-otpk402014pi-stp-a00bab5d5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpk402014pi-stp-a00bab5d5a.json"
+    },
+    {
+      "id": "abb-otpk402014sm50-stp-2708ad17f6",
+      "name": "OTPK402014SM50",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPK402014SM50.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpk402014sm50-stp-2708ad17f6",
+      "recordPath": "equipment/abb-otpk402014sm50-stp-2708ad17f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpk402014sm50-stp-2708ad17f6.json"
+    },
+    {
+      "id": "abb-otpn40fd-otpe40fd-c9b07c1e73",
+      "name": "OTPN40FD,OTPE40FD",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPN40FD",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpn40fd-otpe40fd-c9b07c1e73",
+      "recordPath": "equipment/abb-otpn40fd-otpe40fd-c9b07c1e73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpn40fd-otpe40fd-c9b07c1e73.json"
+    },
+    {
+      "id": "abb-otpn80fd-otpe80fd-8b6538dd31",
+      "name": "OTPN80FD, OTPE80FD",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPN80FD",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otpn80fd-otpe80fd-8b6538dd31",
+      "recordPath": "equipment/abb-otpn80fd-otpe80fd-8b6538dd31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otpn80fd-otpe80fd-8b6538dd31.json"
+    },
+    {
+      "id": "abb-otps125fp-020c1fe4c8",
+      "name": "OTPS125FP",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTPS125FP.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otps125fp-020c1fe4c8",
+      "recordPath": "equipment/abb-otps125fp-020c1fe4c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otps125fp-020c1fe4c8.json"
+    },
+    {
+      "id": "abb-otp-125fd-54b9f2b34f",
+      "name": "OTP_125FD",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTP_125FD.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otp-125fd-54b9f2b34f",
+      "recordPath": "equipment/abb-otp-125fd-54b9f2b34f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otp-125fd-54b9f2b34f.json"
+    },
+    {
+      "id": "abb-otp-80fp-c1ec9c8f01",
+      "name": "OTP_80FP",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC340168F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otp-80fp-c1ec9c8f01",
+      "recordPath": "equipment/abb-otp-80fp-c1ec9c8f01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otp-80fp-c1ec9c8f01.json"
+    },
+    {
+      "id": "abb-ots1600g1l-d104e56163",
+      "name": "OTS1600G1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS1600G1L.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots1600g1l-d104e56163",
+      "recordPath": "equipment/abb-ots1600g1l-d104e56163.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots1600g1l-d104e56163.json"
+    },
+    {
+      "id": "abb-ots160g1l3-1b285c9c5f",
+      "name": "OTS160G1L3",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS160G1L3.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots160g1l3-1b285c9c5f",
+      "recordPath": "equipment/abb-ots160g1l3-1b285c9c5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots160g1l3-1b285c9c5f.json"
+    },
+    {
+      "id": "abb-ots2500g1l-a44da8db37",
+      "name": "OTS2500G1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS2500G1L.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots2500g1l-a44da8db37",
+      "recordPath": "equipment/abb-ots2500g1l-a44da8db37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots2500g1l-a44da8db37.json"
+    },
+    {
+      "id": "abb-ots250-1l-dxf-drawing-02b3c3c8df",
+      "name": "OTS250_1L, DXF-drawing",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390262F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots250-1l-dxf-drawing-02b3c3c8df",
+      "recordPath": "equipment/abb-ots250-1l-dxf-drawing-02b3c3c8df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots250-1l-dxf-drawing-02b3c3c8df.json"
+    },
+    {
+      "id": "abb-ots400g1l-cf961fb512",
+      "name": "OTS400G1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS400G1L.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots400g1l-cf961fb512",
+      "recordPath": "equipment/abb-ots400g1l-cf961fb512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots400g1l-cf961fb512.json"
+    },
+    {
+      "id": "abb-ots400g1s-bbe237cb6e",
+      "name": "OTS400G1S",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS400G1S.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots400g1s-bbe237cb6e",
+      "recordPath": "equipment/abb-ots400g1s-bbe237cb6e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots400g1s-bbe237cb6e.json"
+    },
+    {
+      "id": "abb-ots40t1-igs-file-a5bdcd7ad4",
+      "name": "OTS40T1",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS40T1.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots40t1-igs-file-a5bdcd7ad4",
+      "recordPath": "equipment/abb-ots40t1-igs-file-a5bdcd7ad4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots40t1-igs-file-a5bdcd7ad4.json"
+    },
+    {
+      "id": "abb-ots40t3-igs-file-37987f1982",
+      "name": "OTS40T3",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS40T3.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots40t3-igs-file-37987f1982",
+      "recordPath": "equipment/abb-ots40t3-igs-file-37987f1982.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots40t3-igs-file-37987f1982.json"
+    },
+    {
+      "id": "abb-ots63t3-igs-file-96e34cf0b9",
+      "name": "OTS63T3",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS63T3_IGS.IGS",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots63t3-igs-file-96e34cf0b9",
+      "recordPath": "equipment/abb-ots63t3-igs-file-96e34cf0b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots63t3-igs-file-96e34cf0b9.json"
+    },
+    {
+      "id": "abb-ots800g1l-99b4649a58",
+      "name": "OTS800G1L",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTS800G1L.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ots800g1l-99b4649a58",
+      "recordPath": "equipment/abb-ots800g1l-99b4649a58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ots800g1l-99b4649a58.json"
+    },
+    {
+      "id": "abb-otv1000ek-d9fa2d7201",
+      "name": "OTV1000EK",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTV1000EK.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otv1000ek-d9fa2d7201",
+      "recordPath": "equipment/abb-otv1000ek-d9fa2d7201.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otv1000ek-d9fa2d7201.json"
+    },
+    {
+      "id": "abb-otv800ek-1db70e5e39",
+      "name": "OTV800EK",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTV800EK.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otv800ek-1db70e5e39",
+      "recordPath": "equipment/abb-otv800ek-1db70e5e39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otv800ek-1db70e5e39.json"
+    },
+    {
+      "id": "abb-otzc14-igs-file-8c71d9c127",
+      "name": "OTZC14",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTZC14",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otzc14-igs-file-8c71d9c127",
+      "recordPath": "equipment/abb-otzc14-igs-file-8c71d9c127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otzc14-igs-file-8c71d9c127.json"
+    },
+    {
+      "id": "abb-otzc24-igs-file-fac94301e3",
+      "name": "OTZC24",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTZC24",
+      "formats": [
+        "IGS"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otzc24-igs-file-fac94301e3",
+      "recordPath": "equipment/abb-otzc24-igs-file-fac94301e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otzc24-igs-file-fac94301e3.json"
+    },
+    {
+      "id": "abb-otzt1a-cb0cb7b2da",
+      "name": "OTZT1A",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTZT1A.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otzt1a-cb0cb7b2da",
+      "recordPath": "equipment/abb-otzt1a-cb0cb7b2da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otzt1a-cb0cb7b2da.json"
+    },
+    {
+      "id": "abb-otzw17-b20352d257",
+      "name": "OTZW17",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTZW17.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otzw17-b20352d257",
+      "recordPath": "equipment/abb-otzw17-b20352d257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otzw17-b20352d257.json"
+    },
+    {
+      "id": "abb-otzw25-c9e9c82c4d",
+      "name": "OTZW25",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTZW25.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otzw25-c9e9c82c4d",
+      "recordPath": "equipment/abb-otzw25-c9e9c82c4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otzw25-c9e9c82c4d.json"
+    },
+    {
+      "id": "abb-otzw26-ab45032c9d",
+      "name": "OTZW26",
+      "manufacturer": "ABB",
+      "drawingNumber": "OTZW26.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-otzw26-ab45032c9d",
+      "recordPath": "equipment/abb-otzw26-ab45032c9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-otzw26-ab45032c9d.json"
+    },
+    {
+      "id": "abb-owc6d125-65a3be4f51",
+      "name": "OWC6D125",
+      "manufacturer": "ABB",
+      "drawingNumber": "OWC6D125.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-owc6d125-65a3be4f51",
+      "recordPath": "equipment/abb-owc6d125-65a3be4f51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-owc6d125-65a3be4f51.json"
+    },
+    {
+      "id": "abb-owc6d40-cbbda7e3ff",
+      "name": "OWC6D40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OWC6D40.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-owc6d40-cbbda7e3ff",
+      "recordPath": "equipment/abb-owc6d40-cbbda7e3ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-owc6d40-cbbda7e3ff.json"
+    },
+    {
+      "id": "abb-owp6d125-eafedc94ce",
+      "name": "OWP6D125",
+      "manufacturer": "ABB",
+      "drawingNumber": "OWP6D125.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-owp6d125-eafedc94ce",
+      "recordPath": "equipment/abb-owp6d125-eafedc94ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-owp6d125-eafedc94ce.json"
+    },
+    {
+      "id": "abb-owp6d40-3499a329ce",
+      "name": "OWP6D40",
+      "manufacturer": "ABB",
+      "drawingNumber": "OWP6D40.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-owp6d40-3499a329ce",
+      "recordPath": "equipment/abb-owp6d40-3499a329ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-owp6d40-3499a329ce.json"
+    },
+    {
+      "id": "abb-owp6d80-04a1655b4b",
+      "name": "OWP6D80",
+      "manufacturer": "ABB",
+      "drawingNumber": "OWP6D80.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-owp6d80-04a1655b4b",
+      "recordPath": "equipment/abb-owp6d80-04a1655b4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-owp6d80-04a1655b4b.json"
+    },
+    {
+      "id": "abb-oxec21-1scc307761f0201-dxf-5f0fd1116d",
+      "name": "OXEC21_1SCC307761F0201",
+      "manufacturer": "ABB",
+      "drawingNumber": "OXEC21_1SCC307761F0201.DXF",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxec21-1scc307761f0201-dxf-5f0fd1116d",
+      "recordPath": "equipment/abb-oxec21-1scc307761f0201-dxf-5f0fd1116d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxec21-1scc307761f0201-dxf-5f0fd1116d.json"
+    },
+    {
+      "id": "abb-oxec21-1scc307762f0201-dwg-c73784c5cd",
+      "name": "OXEC21_1SCC307762F0201",
+      "manufacturer": "ABB",
+      "drawingNumber": "OXEC21_1SCC307762F0201.DWG",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxec21-1scc307762f0201-dwg-c73784c5cd",
+      "recordPath": "equipment/abb-oxec21-1scc307762f0201-dwg-c73784c5cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxec21-1scc307762f0201-dwg-c73784c5cd.json"
+    },
+    {
+      "id": "abb-oxn1250t-25fff73359",
+      "name": "OXN1250T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390151F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxn1250t-25fff73359",
+      "recordPath": "equipment/abb-oxn1250t-25fff73359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxn1250t-25fff73359.json"
+    },
+    {
+      "id": "abb-oxn250-18491a9ad3",
+      "name": "OXN250",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390131F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxn250-18491a9ad3",
+      "recordPath": "equipment/abb-oxn250-18491a9ad3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxn250-18491a9ad3.json"
+    },
+    {
+      "id": "abb-oxn400-1c0ca98d25",
+      "name": "OXN400",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390133F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxn400-1c0ca98d25",
+      "recordPath": "equipment/abb-oxn400-1c0ca98d25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxn400-1c0ca98d25.json"
+    },
+    {
+      "id": "abb-oxn800t-a199b60111",
+      "name": "OXN800T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390147F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxn800t-a199b60111",
+      "recordPath": "equipment/abb-oxn800t-a199b60111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxn800t-a199b60111.json"
+    },
+    {
+      "id": "abb-oxp6-12x190-66d72fd54e",
+      "name": "OXP6/12X190",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390258F0201",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxp6-12x190-66d72fd54e",
+      "recordPath": "equipment/abb-oxp6-12x190-66d72fd54e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxp6-12x190-66d72fd54e.json"
+    },
+    {
+      "id": "abb-oxp6x150-1bba16b121",
+      "name": "OXP6X150",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC390265F0201",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-oxp6x150-1bba16b121",
+      "recordPath": "equipment/abb-oxp6x150-1bba16b121.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-oxp6x150-1bba16b121.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2b-84ef2b8939",
+      "name": "OX_260-400E_2B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308280F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2b-84ef2b8939",
+      "recordPath": "equipment/abb-ox-260-400e-2b-84ef2b8939.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2b-84ef2b8939.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2b-hmi-e6bc0b4472",
+      "name": "OX_260-400E_2B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308283F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2b-hmi-e6bc0b4472",
+      "recordPath": "equipment/abb-ox-260-400e-2b-hmi-e6bc0b4472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2b-hmi-e6bc0b4472.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2t-371da70ceb",
+      "name": "OX_260-400E_2T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308284F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2t-371da70ceb",
+      "recordPath": "equipment/abb-ox-260-400e-2t-371da70ceb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2t-371da70ceb.json"
+    },
+    {
+      "id": "abb-ox-260-400e-2t-hmi-8240ddb7ac",
+      "name": "OX_260-400E_2T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308287F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-2t-hmi-8240ddb7ac",
+      "recordPath": "equipment/abb-ox-260-400e-2t-hmi-8240ddb7ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-2t-hmi-8240ddb7ac.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3b-d37f793ef2",
+      "name": "OX_260-400E_3B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308288F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3b-d37f793ef2",
+      "recordPath": "equipment/abb-ox-260-400e-3b-d37f793ef2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3b-d37f793ef2.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3b-hmi-a3f67650df",
+      "name": "OX_260-400E_3B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308290F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3b-hmi-a3f67650df",
+      "recordPath": "equipment/abb-ox-260-400e-3b-hmi-a3f67650df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3b-hmi-a3f67650df.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3o4-b-4c0788a8b9",
+      "name": "OX_260-400E_3O4_B",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_3O4_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3o4-b-4c0788a8b9",
+      "recordPath": "equipment/abb-ox-260-400e-3o4-b-4c0788a8b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3o4-b-4c0788a8b9.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3o4-t-96cd4e588b",
+      "name": "OX_260-400E_3O4_T",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_260-400E_3O4_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3o4-t-96cd4e588b",
+      "recordPath": "equipment/abb-ox-260-400e-3o4-t-96cd4e588b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3o4-t-96cd4e588b.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3t-4e5cbcf352",
+      "name": "OX_260-400E_3T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308292F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3t-4e5cbcf352",
+      "recordPath": "equipment/abb-ox-260-400e-3t-4e5cbcf352.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3t-4e5cbcf352.json"
+    },
+    {
+      "id": "abb-ox-260-400e-3t-hmi-c808769e26",
+      "name": "OX_260-400E_3T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308294F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-3t-hmi-c808769e26",
+      "recordPath": "equipment/abb-ox-260-400e-3t-hmi-c808769e26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-3t-hmi-c808769e26.json"
+    },
+    {
+      "id": "abb-ox-260-400e-4b-42df6b56e9",
+      "name": "OX_260-400E_4B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308296F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-4b-42df6b56e9",
+      "recordPath": "equipment/abb-ox-260-400e-4b-42df6b56e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-4b-42df6b56e9.json"
+    },
+    {
+      "id": "abb-ox-260-400e-4b-hmi-2167e2cc19",
+      "name": "OX_260-400E_4B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308299F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-4b-hmi-2167e2cc19",
+      "recordPath": "equipment/abb-ox-260-400e-4b-hmi-2167e2cc19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-4b-hmi-2167e2cc19.json"
+    },
+    {
+      "id": "abb-ox-260-400e-4t-3ce8646df9",
+      "name": "OX_260-400E_4T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308300F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-4t-3ce8646df9",
+      "recordPath": "equipment/abb-ox-260-400e-4t-3ce8646df9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-4t-3ce8646df9.json"
+    },
+    {
+      "id": "abb-ox-260-400e-4t-hmi-db338c5f42",
+      "name": "OX_260-400E_4T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308302F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-260-400e-4t-hmi-db338c5f42",
+      "recordPath": "equipment/abb-ox-260-400e-4t-hmi-db338c5f42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-260-400e-4t-hmi-db338c5f42.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2b-33c4315bad",
+      "name": "OX_30U-250_2B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308169F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2b-33c4315bad",
+      "recordPath": "equipment/abb-ox-30u-250-2b-33c4315bad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2b-33c4315bad.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2b-hmi-fb6caf54ec",
+      "name": "OX_30U-250_2B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308233F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2b-hmi-fb6caf54ec",
+      "recordPath": "equipment/abb-ox-30u-250-2b-hmi-fb6caf54ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2b-hmi-fb6caf54ec.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2o4-b-ec2cebbda8",
+      "name": "OX_30U-250_2O4_B",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_2O4_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2o4-b-ec2cebbda8",
+      "recordPath": "equipment/abb-ox-30u-250-2o4-b-ec2cebbda8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2o4-b-ec2cebbda8.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2o4-t-7df0096cd2",
+      "name": "OX_30U-250_2O4_T",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_2O4_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2o4-t-7df0096cd2",
+      "recordPath": "equipment/abb-ox-30u-250-2o4-t-7df0096cd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2o4-t-7df0096cd2.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2t-c85fc5c3c6",
+      "name": "OX_30U-250_2T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308234F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2t-c85fc5c3c6",
+      "recordPath": "equipment/abb-ox-30u-250-2t-c85fc5c3c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2t-c85fc5c3c6.json"
+    },
+    {
+      "id": "abb-ox-30u-250-2t-hmi-1eeaf58620",
+      "name": "OX_30U-250_2T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308237F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-2t-hmi-1eeaf58620",
+      "recordPath": "equipment/abb-ox-30u-250-2t-hmi-1eeaf58620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-2t-hmi-1eeaf58620.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3b-ce96e8adae",
+      "name": "OX_30U-250_3B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308171F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3b-ce96e8adae",
+      "recordPath": "equipment/abb-ox-30u-250-3b-ce96e8adae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3b-ce96e8adae.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3b-hmi-6f8f98a87f",
+      "name": "OX_30U-250_3B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308238F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3b-hmi-6f8f98a87f",
+      "recordPath": "equipment/abb-ox-30u-250-3b-hmi-6f8f98a87f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3b-hmi-6f8f98a87f.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3o4-b-784388c3bc",
+      "name": "OX_30U-250_3O4_B",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_3O4_B_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3o4-b-784388c3bc",
+      "recordPath": "equipment/abb-ox-30u-250-3o4-b-784388c3bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3o4-b-784388c3bc.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3o4-t-d74365f6c0",
+      "name": "OX_30U-250_3O4_T",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_30U-250_3O4_T_",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3o4-t-d74365f6c0",
+      "recordPath": "equipment/abb-ox-30u-250-3o4-t-d74365f6c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3o4-t-d74365f6c0.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3t-2d0beb3ae8",
+      "name": "OX_30U-250_3T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308240F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3t-2d0beb3ae8",
+      "recordPath": "equipment/abb-ox-30u-250-3t-2d0beb3ae8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3t-2d0beb3ae8.json"
+    },
+    {
+      "id": "abb-ox-30u-250-3t-hmi-68dddd75ce",
+      "name": "OX_30U-250_3T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308242F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-3t-hmi-68dddd75ce",
+      "recordPath": "equipment/abb-ox-30u-250-3t-hmi-68dddd75ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-3t-hmi-68dddd75ce.json"
+    },
+    {
+      "id": "abb-ox-30u-250-4b-7d923710ec",
+      "name": "OX_30U-250_4B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308173F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-4b-7d923710ec",
+      "recordPath": "equipment/abb-ox-30u-250-4b-7d923710ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-4b-7d923710ec.json"
+    },
+    {
+      "id": "abb-ox-30u-250-4b-hmi-1dc3e52eb1",
+      "name": "OX_30U-250_4B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308245F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-4b-hmi-1dc3e52eb1",
+      "recordPath": "equipment/abb-ox-30u-250-4b-hmi-1dc3e52eb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-4b-hmi-1dc3e52eb1.json"
+    },
+    {
+      "id": "abb-ox-30u-250-4t-4dda9c4ca7",
+      "name": "OX_30U-250_4T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308247F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-4t-4dda9c4ca7",
+      "recordPath": "equipment/abb-ox-30u-250-4t-4dda9c4ca7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-4t-4dda9c4ca7.json"
+    },
+    {
+      "id": "abb-ox-30u-250-4t-hmi-41956f74a1",
+      "name": "OX_30U-250_4T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308249F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-30u-250-4t-hmi-41956f74a1",
+      "recordPath": "equipment/abb-ox-30u-250-4t-hmi-41956f74a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-30u-250-4t-hmi-41956f74a1.json"
+    },
+    {
+      "id": "abb-ox-400u-2b-78807ab8e9",
+      "name": "OX_400U_2B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308305F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-2b-78807ab8e9",
+      "recordPath": "equipment/abb-ox-400u-2b-78807ab8e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-2b-78807ab8e9.json"
+    },
+    {
+      "id": "abb-ox-400u-2b-hmi-81b1959f4c",
+      "name": "OX_400U_2B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308307F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-2b-hmi-81b1959f4c",
+      "recordPath": "equipment/abb-ox-400u-2b-hmi-81b1959f4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-2b-hmi-81b1959f4c.json"
+    },
+    {
+      "id": "abb-ox-400u-2t-7df586bfc0",
+      "name": "OX_400U_2T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308309F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-2t-7df586bfc0",
+      "recordPath": "equipment/abb-ox-400u-2t-7df586bfc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-2t-7df586bfc0.json"
+    },
+    {
+      "id": "abb-ox-400u-2t-hmi-dbcdea3a3c",
+      "name": "OX_400U_2T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308311F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-2t-hmi-dbcdea3a3c",
+      "recordPath": "equipment/abb-ox-400u-2t-hmi-dbcdea3a3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-2t-hmi-dbcdea3a3c.json"
+    },
+    {
+      "id": "abb-ox-400u-3b-f707f2a679",
+      "name": "OX_400U_3B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308313F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-3b-f707f2a679",
+      "recordPath": "equipment/abb-ox-400u-3b-f707f2a679.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-3b-f707f2a679.json"
+    },
+    {
+      "id": "abb-ox-400u-3b-hmi-94f76c087d",
+      "name": "OX_400U_3B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308315F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-3b-hmi-94f76c087d",
+      "recordPath": "equipment/abb-ox-400u-3b-hmi-94f76c087d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-3b-hmi-94f76c087d.json"
+    },
+    {
+      "id": "abb-ox-400u-3t-f25c5b0660",
+      "name": "OX_400U_3T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308317F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-3t-f25c5b0660",
+      "recordPath": "equipment/abb-ox-400u-3t-f25c5b0660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-3t-f25c5b0660.json"
+    },
+    {
+      "id": "abb-ox-400u-3t-hmi-dbe750c84e",
+      "name": "OX_400U_3T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308319F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-3t-hmi-dbe750c84e",
+      "recordPath": "equipment/abb-ox-400u-3t-hmi-dbe750c84e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-3t-hmi-dbe750c84e.json"
+    },
+    {
+      "id": "abb-ox-400u-4b-83b853c8c4",
+      "name": "OX_400U_4B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308321F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-4b-83b853c8c4",
+      "recordPath": "equipment/abb-ox-400u-4b-83b853c8c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-4b-83b853c8c4.json"
+    },
+    {
+      "id": "abb-ox-400u-4t-5dd3627eb4",
+      "name": "OX_400U_4T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308324F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-4t-5dd3627eb4",
+      "recordPath": "equipment/abb-ox-400u-4t-5dd3627eb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-4t-5dd3627eb4.json"
+    },
+    {
+      "id": "abb-ox-400u-4t-hmi-84868eca41",
+      "name": "OX_400U_4T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308327F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-400u-4t-hmi-84868eca41",
+      "recordPath": "equipment/abb-ox-400u-4t-hmi-84868eca41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-400u-4t-hmi-84868eca41.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2b-a7ca65e7f5",
+      "name": "OX_500-800E_2B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308175F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2b-a7ca65e7f5",
+      "recordPath": "equipment/abb-ox-500-800e-2b-a7ca65e7f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2b-a7ca65e7f5.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2b-hmi-ec32b65abe",
+      "name": "OX_500-800E_2B_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308251F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2b-hmi-ec32b65abe",
+      "recordPath": "equipment/abb-ox-500-800e-2b-hmi-ec32b65abe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2b-hmi-ec32b65abe.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2o4-t-8257ce524b",
+      "name": "OX_500-800E_2O4_T",
+      "manufacturer": "ABB",
+      "drawingNumber": "OX_500-800E_2O4_T_.STP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2o4-t-8257ce524b",
+      "recordPath": "equipment/abb-ox-500-800e-2o4-t-8257ce524b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2o4-t-8257ce524b.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2t-a0c79920a2",
+      "name": "OX_500-800E_2T",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308253F0001",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2t-a0c79920a2",
+      "recordPath": "equipment/abb-ox-500-800e-2t-a0c79920a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2t-a0c79920a2.json"
+    },
+    {
+      "id": "abb-ox-500-800e-2t-hmi-3aa525eb37",
+      "name": "OX_500-800E_2T_HMI",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308254F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-2t-hmi-3aa525eb37",
+      "recordPath": "equipment/abb-ox-500-800e-2t-hmi-3aa525eb37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-2t-hmi-3aa525eb37.json"
+    },
+    {
+      "id": "abb-ox-500-800e-3b-bea3f00d2b",
+      "name": "OX_500-800E_3B",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SCC308176F0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ox-500-800e-3b-bea3f00d2b",
+      "recordPath": "equipment/abb-ox-500-800e-3b-bea3f00d2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-ox-500-800e-3b-bea3f00d2b.json"
+    }
+  ]
+}

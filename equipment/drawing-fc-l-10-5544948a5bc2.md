@@ -32,7 +32,7 @@ The acquired source archive contains Mi\_Fixconnect\_Klemmen/FC\_L\_10.stp, a 1,
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+When placing FC\_L\_10 in a rail-mounted terminal strip, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Check conductor approach, screwdriver access and identification space before fixing the next device. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Mi\_Fixconnect\_Klemmen/FC\_L\_10.stp, a 1,691,235-byte STP native file. Its file signature and SHA-256 were checked against the held original. The STEP file header was validated as an ISO 10303 exchange file. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: Mi\_Fixconnect\_Klemmen.zip!/Mi\_Fixconnect\_Klemmen/FC\_L\_10.stp. These paths retain their own archive and native checksums in the file evidence.
 

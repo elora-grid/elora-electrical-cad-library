@@ -32,7 +32,7 @@ The verified native member is Relays and Timers/Timers and Sockets/MS4SA + TP48X
 
 A connector provides a connection that can be separated without permanently joining the wires. Its matching parts and ratings determine what it can connect.
 
-In a switchroom control panel, a plug-and-socket connection can let a module be removed without undoing every wire individually.
+For timed-control hardware coordination, place the MS4SA + TP48X outline alongside the actual enclosure and adjacent hardware. Place the timer or socket outline so wiring, adjustment and removal access can be checked in the panel layout. Review that physical arrangement against the project connection drawing before construction issue.
 
 The verified native member is Relays and Timers/Timers and Sockets/MS4SA + TP48X.dwg. Its identity was checked against the acquired manufacturer archive. Place the timer or socket outline so wiring, adjustment and removal access can be checked in the panel layout. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: MS4SC + TP48X. Grouping does not establish electrical interchangeability.
 

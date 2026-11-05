@@ -32,7 +32,7 @@ The acquired source archive contains HFWNSP2024C.dwg, a 522,215-byte DWG native 
 
 Mounting hardware holds equipment in its intended position. Rails, plates, adapters and supports each provide a particular attachment or support arrangement.
 
-In a switchroom control cabinet, a mounting plate and DIN rail can support terminals, relays and power supplies in an organised layout.
+When placing HFWNSP2024C in a mounting panel inside an electrical enclosure, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Check the usable fixing area and all mounting offsets before arranging rails, terminals or power equipment. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains HFWNSP2024C.dwg, a 522,215-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A mounting panel model does not establish the completed enclosure rating or the permitted equipment loading. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

@@ -32,7 +32,7 @@ The verified native member is PLC Families/CLICK/C0-08NA.dwg. Its identity was c
 
 An input module brings measurements or on/off signals from equipment into a controller so its program can respond.
 
-In a substation control panel, an input module can report whether a breaker is open or closed.
+For example, in a pump panel collecting status from level and position switches, use the C0-08NA reference to coordinate field-input terminals, identification labels and module replacement. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/CLICK/C0-08NA.dwg. Its identity was checked against the acquired manufacturer archive. Plan the controller and expansion devices together, with separate space for terminal wiring and programming access. The drawing is a mechanical coordination reference, not a circuit design or certification record. Associated drawing identities with matching non-text geometry or explicit voltage/view aliases are grouped here: C0-08ND3-1, C0-08ND3, C0-08NE3, C0-08TA, C0-08TD1, C0-08TD2, C0-08TR. Grouping does not establish electrical interchangeability.
 

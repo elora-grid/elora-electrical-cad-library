@@ -24,7 +24,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Part number: TBI-FS
 - Listed file formats: DWG, RFA, ZIP
 - Listed files: 3
-- Available previews: 3 drawing previews
+- Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
 - Download access: Email registration for site downloads; official source links are also available
@@ -49,7 +49,7 @@ Available here: ZIP, DWG. The individual filenames above distinguish the supplie
 
 ## Preview
 
-![Greenheck TBI-FS fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-tbi-fs-fans/greenheck-tbi-fs-lod200-allsizes-zip?asset=9636142d46489cfda822cf336755cbf257cd56561185a6fd963f8eb52cef958d)
+![Greenheck TBI-FS fans: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/greenheck-tbi-fs-fans/greenheck-tbi-fs-inline-3d-dwg?asset=6071040fbdb08d3da85ddd64ce3e2c957b5520248edf46f24238f1135131ab1b)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/greenheck-tbi-fs-fans). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

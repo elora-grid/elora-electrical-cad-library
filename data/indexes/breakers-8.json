@@ -1,0 +1,3016 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 8,
+  "entries": [
+    {
+      "id": "abb-stp-file-for-ovr-pv-t2-40-1000-1500-without-ts-auxiliary-contact-dc19ba1d84",
+      "name": "STP file for OVR PV T2 40-1000/1500 WITHOUT TS (auxiliary contact)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108466A2019",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-stp-file-for-ovr-pv-t2-40-1000-1500-without-ts-auxiliary-contact-dc19ba1d84",
+      "recordPath": "equipment/abb-stp-file-for-ovr-pv-t2-40-1000-1500-without-ts-auxiliary-contact-dc19ba1d84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-stp-file-for-ovr-pv-t2-40-1000-1500-without-ts-auxiliary-contact-dc19ba1d84.json"
+    },
+    {
+      "id": "abb-stp-file-for-ovr-pv-t2-40-1000-1500-with-ts-auxiliary-contact-0e19bfc7a2",
+      "name": "STP file for OVR PV T2 40-1000/1500 with TS (auxiliary contact)",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK108466A2018",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-stp-file-for-ovr-pv-t2-40-1000-1500-with-ts-auxiliary-contact-0e19bfc7a2",
+      "recordPath": "equipment/abb-stp-file-for-ovr-pv-t2-40-1000-1500-with-ts-auxiliary-contact-0e19bfc7a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-stp-file-for-ovr-pv-t2-40-1000-1500-with-ts-auxiliary-contact-0e19bfc7a2.json"
+    },
+    {
+      "id": "abb-t1-3p-4p-fixed-protection-ip42-f0c95a59cb",
+      "name": "T1 3p-4p Fixed Protection IP42",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0011147",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-3p-4p-fixed-protection-ip42-f0c95a59cb",
+      "recordPath": "equipment/abb-t1-3p-4p-fixed-protection-ip42-f0c95a59cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-3p-4p-fixed-protection-ip42-f0c95a59cb.json"
+    },
+    {
+      "id": "abb-t1-fixed-3poles-fccu-d2c6a426c5",
+      "name": "T1 fixed 3poles FCCu",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0001",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-fixed-3poles-fccu-d2c6a426c5",
+      "recordPath": "equipment/abb-t1-fixed-3poles-fccu-d2c6a426c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-fixed-3poles-fccu-d2c6a426c5.json"
+    },
+    {
+      "id": "abb-t1-3-pole-0a95a37ecf",
+      "name": "T1, 3 Pole.",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A4760; 9AKK106103A4762",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-3-pole-0a95a37ecf",
+      "recordPath": "equipment/abb-t1-3-pole-0a95a37ecf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-3-pole-0a95a37ecf.json"
+    },
+    {
+      "id": "abb-t1-4-pole-iges-file-9ce08162be",
+      "name": "T1, 4 Pole",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A4767; 9AKK106103A4766",
+      "formats": [
+        "IGES",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1-4-pole-iges-file-9ce08162be",
+      "recordPath": "equipment/abb-t1-4-pole-iges-file-9ce08162be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1-4-pole-iges-file-9ce08162be.json"
+    },
+    {
+      "id": "abb-t1d-pv-4p-fixed-1100v-bb1a240178",
+      "name": "T1D PV 4P Fixed 1100V",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000986R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1d-pv-4p-fixed-1100v-bb1a240178",
+      "recordPath": "equipment/abb-t1d-pv-4p-fixed-1100v-bb1a240178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1d-pv-4p-fixed-1100v-bb1a240178.json"
+    },
+    {
+      "id": "abb-t1d-pv-4p-fixed-1100v-jumper-2-2-b7611aa89f",
+      "name": "T1D PV 4P Fixed 1100V Jumper 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000986R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1d-pv-4p-fixed-1100v-jumper-2-2-b7611aa89f",
+      "recordPath": "equipment/abb-t1d-pv-4p-fixed-1100v-jumper-2-2-b7611aa89f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1d-pv-4p-fixed-1100v-jumper-2-2-b7611aa89f.json"
+    },
+    {
+      "id": "abb-t1d-pv-4p-fixed-1100v-jumper-4ps-91b9126c01",
+      "name": "T1D PV 4P Fixed 1100V Jumper 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000986R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1d-pv-4p-fixed-1100v-jumper-4ps-91b9126c01",
+      "recordPath": "equipment/abb-t1d-pv-4p-fixed-1100v-jumper-4ps-91b9126c01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1d-pv-4p-fixed-1100v-jumper-4ps-91b9126c01.json"
+    },
+    {
+      "id": "abb-t1d-pv-ul-1000v-jumper-4ps-eac4cc016c",
+      "name": "T1D PV UL 1000V Jumper 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000986R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1d-pv-ul-1000v-jumper-4ps-eac4cc016c",
+      "recordPath": "equipment/abb-t1d-pv-ul-1000v-jumper-4ps-eac4cc016c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1d-pv-ul-1000v-jumper-4ps-eac4cc016c.json"
+    },
+    {
+      "id": "abb-t1d-pv-ul-fixed-1000v-jumper-2-2-b18170e8a4",
+      "name": "T1D PV UL Fixed 1000V Jumper 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000986R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t1d-pv-ul-fixed-1000v-jumper-2-2-b18170e8a4",
+      "recordPath": "equipment/abb-t1d-pv-ul-fixed-1000v-jumper-2-2-b18170e8a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t1d-pv-ul-fixed-1000v-jumper-2-2-b18170e8a4.json"
+    },
+    {
+      "id": "abb-t2-3p-4p-fixed-protection-ip42-00f071213b",
+      "name": "T2 3p-4p Fixed Protection IP42",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0012147",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t2-3p-4p-fixed-protection-ip42-00f071213b",
+      "recordPath": "equipment/abb-t2-3p-4p-fixed-protection-ip42-00f071213b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t2-3p-4p-fixed-protection-ip42-00f071213b.json"
+    },
+    {
+      "id": "abb-t2-fixed-3poles-f-ab04e3409b",
+      "name": "T2 fixed 3poles F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0003",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t2-fixed-3poles-f-ab04e3409b",
+      "recordPath": "equipment/abb-t2-fixed-3poles-f-ab04e3409b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t2-fixed-3poles-f-ab04e3409b.json"
+    },
+    {
+      "id": "abb-t2-fixed-part-4poles-f-9b573fce74",
+      "name": "T2 fixed part 4poles F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0006",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t2-fixed-part-4poles-f-9b573fce74",
+      "recordPath": "equipment/abb-t2-fixed-part-4poles-f-9b573fce74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t2-fixed-part-4poles-f-9b573fce74.json"
+    },
+    {
+      "id": "abb-t2-3-pole-plugin-base-iges-file-fb775f8b18",
+      "name": "T2, 3 Pole plugin base",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A4772",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t2-3-pole-plugin-base-iges-file-fb775f8b18",
+      "recordPath": "equipment/abb-t2-3-pole-plugin-base-iges-file-fb775f8b18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t2-3-pole-plugin-base-iges-file-fb775f8b18.json"
+    },
+    {
+      "id": "abb-t2-3-pole-plugin-front-terminals-d3b537eadc",
+      "name": "T2, 3 Pole plugin front terminals.",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A4773",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t2-3-pole-plugin-front-terminals-d3b537eadc",
+      "recordPath": "equipment/abb-t2-3-pole-plugin-front-terminals-d3b537eadc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t2-3-pole-plugin-front-terminals-d3b537eadc.json"
+    },
+    {
+      "id": "abb-t2-3-pole-987dce7dbe",
+      "name": "T2, 3 Pole.",
+      "manufacturer": "ABB",
+      "drawingNumber": "9AKK106103A4769; 9AKK106103A4770",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t2-3-pole-987dce7dbe",
+      "recordPath": "equipment/abb-t2-3-pole-987dce7dbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t2-3-pole-987dce7dbe.json"
+    },
+    {
+      "id": "abb-t3-3p-4p-fixed-protection-ip42-2763923d93",
+      "name": "T3 3p-4p Fixed Protection IP42",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0013147",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3-3p-4p-fixed-protection-ip42-2763923d93",
+      "recordPath": "equipment/abb-t3-3p-4p-fixed-protection-ip42-2763923d93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3-3p-4p-fixed-protection-ip42-2763923d93.json"
+    },
+    {
+      "id": "abb-t3-3p-4p-interlock-between-2-overlying-cb-edc739b37e",
+      "name": "T3 3p-4p interlock between 2 overlying CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000551R0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3-3p-4p-interlock-between-2-overlying-cb-edc739b37e",
+      "recordPath": "equipment/abb-t3-3p-4p-interlock-between-2-overlying-cb-edc739b37e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3-3p-4p-interlock-between-2-overlying-cb-edc739b37e.json"
+    },
+    {
+      "id": "abb-t3-3p-4p-interlock-between-2-side-by-side-cb-c1cef68f9f",
+      "name": "T3 3p-4p interlock between 2 side-by-side CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000550R0001",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3-3p-4p-interlock-between-2-side-by-side-cb-c1cef68f9f",
+      "recordPath": "equipment/abb-t3-3p-4p-interlock-between-2-side-by-side-cb-c1cef68f9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3-3p-4p-interlock-between-2-side-by-side-cb-c1cef68f9f.json"
+    },
+    {
+      "id": "abb-t3-fixed-part-3poles-f-5b805d1f49",
+      "name": "T3 fixed part 3poles F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0008",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3-fixed-part-3poles-f-5b805d1f49",
+      "recordPath": "equipment/abb-t3-fixed-part-3poles-f-5b805d1f49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3-fixed-part-3poles-f-5b805d1f49.json"
+    },
+    {
+      "id": "abb-t3-fixed-part-4poles-f-df0f03b222",
+      "name": "T3 fixed part 4poles F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0010",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3-fixed-part-4poles-f-df0f03b222",
+      "recordPath": "equipment/abb-t3-fixed-part-4poles-f-df0f03b222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3-fixed-part-4poles-f-df0f03b222.json"
+    },
+    {
+      "id": "abb-t3-with-residual-current-r223-e00b7f0a01",
+      "name": "T3 with residual current R223",
+      "manufacturer": "ABB",
+      "drawingNumber": "ITSCE-RH0013150",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3-with-residual-current-r223-e00b7f0a01",
+      "recordPath": "equipment/abb-t3-with-residual-current-r223-e00b7f0a01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3-with-residual-current-r223-e00b7f0a01.json"
+    },
+    {
+      "id": "abb-t3d-pv-iec-4p-fixed-1100v-jumper-2-2-14c38bf243",
+      "name": "T3D PV IEC 4P Fixed 1100V Jumper 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000778R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3d-pv-iec-4p-fixed-1100v-jumper-2-2-14c38bf243",
+      "recordPath": "equipment/abb-t3d-pv-iec-4p-fixed-1100v-jumper-2-2-14c38bf243.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3d-pv-iec-4p-fixed-1100v-jumper-2-2-14c38bf243.json"
+    },
+    {
+      "id": "abb-t3d-pv-iec-4p-fixed-1100v-jumper-4ps-3d178d081e",
+      "name": "T3D PV IEC 4P Fixed 1100V Jumper 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000778R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t3d-pv-iec-4p-fixed-1100v-jumper-4ps-3d178d081e",
+      "recordPath": "equipment/abb-t3d-pv-iec-4p-fixed-1100v-jumper-4ps-3d178d081e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t3d-pv-iec-4p-fixed-1100v-jumper-4ps-3d178d081e.json"
+    },
+    {
+      "id": "abb-t4-3-poles-fixed-5e8951dfcb",
+      "name": "T4 3 poles Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0013",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3-poles-fixed-5e8951dfcb",
+      "recordPath": "equipment/abb-t4-3-poles-fixed-5e8951dfcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3-poles-fixed-5e8951dfcb.json"
+    },
+    {
+      "id": "abb-t4-3-poles-fixed-right-connectors-0e01bf8bcd",
+      "name": "T4 3 poles Fixed (right connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0012",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3-poles-fixed-right-connectors-0e01bf8bcd",
+      "recordPath": "equipment/abb-t4-3-poles-fixed-right-connectors-0e01bf8bcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3-poles-fixed-right-connectors-0e01bf8bcd.json"
+    },
+    {
+      "id": "abb-t4-3-poles-plug-in-fixed-part-8c68823ad4",
+      "name": "T4 3 poles Plug-in fixed part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0015",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3-poles-plug-in-fixed-part-8c68823ad4",
+      "recordPath": "equipment/abb-t4-3-poles-plug-in-fixed-part-8c68823ad4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3-poles-plug-in-fixed-part-8c68823ad4.json"
+    },
+    {
+      "id": "abb-t4-3-poles-plug-in-fixed-part-right-connectors-916bfbc2aa",
+      "name": "T4 3 poles Plug-in fixed part (right connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0014",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3-poles-plug-in-fixed-part-right-connectors-916bfbc2aa",
+      "recordPath": "equipment/abb-t4-3-poles-plug-in-fixed-part-right-connectors-916bfbc2aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3-poles-plug-in-fixed-part-right-connectors-916bfbc2aa.json"
+    },
+    {
+      "id": "abb-t4-3-poles-withdrawable-fixed-part-0baf1bab9f",
+      "name": "T4 3 poles Withdrawable fixed part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0016",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3-poles-withdrawable-fixed-part-0baf1bab9f",
+      "recordPath": "equipment/abb-t4-3-poles-withdrawable-fixed-part-0baf1bab9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3-poles-withdrawable-fixed-part-0baf1bab9f.json"
+    },
+    {
+      "id": "abb-t4-3-poles-withdrawable-plug-in-fixed-part-left-connectors-359b7d05a3",
+      "name": "T4 3 poles Withdrawable_Plug-in fixed part (left connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0017",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-3-poles-withdrawable-plug-in-fixed-part-left-connectors-359b7d05a3",
+      "recordPath": "equipment/abb-t4-3-poles-withdrawable-plug-in-fixed-part-left-connectors-359b7d05a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-3-poles-withdrawable-plug-in-fixed-part-left-connectors-359b7d05a3.json"
+    },
+    {
+      "id": "abb-t4-4-poles-fixed-a35520bca6",
+      "name": "T4 4 poles Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0021",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-4-poles-fixed-a35520bca6",
+      "recordPath": "equipment/abb-t4-4-poles-fixed-a35520bca6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-4-poles-fixed-a35520bca6.json"
+    },
+    {
+      "id": "abb-t4-4-poles-plug-in-fixed-part-238258ec27",
+      "name": "T4 4 poles Plug-in fixed part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0022",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-4-poles-plug-in-fixed-part-238258ec27",
+      "recordPath": "equipment/abb-t4-4-poles-plug-in-fixed-part-238258ec27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-4-poles-plug-in-fixed-part-238258ec27.json"
+    },
+    {
+      "id": "abb-t4-4-poles-withdrawable-plug-in-fixed-part-left-connectors-d67f9f0428",
+      "name": "T4 4 poles Withdrawable_Plug-in fixed part (left connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0024",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-4-poles-withdrawable-plug-in-fixed-part-left-connectors-d67f9f0428",
+      "recordPath": "equipment/abb-t4-4-poles-withdrawable-plug-in-fixed-part-left-connectors-d67f9f0428.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-4-poles-withdrawable-plug-in-fixed-part-left-connectors-d67f9f0428.json"
+    },
+    {
+      "id": "abb-t4-iii-withdrawable-configuration-rear-horizontal-terminals-72179643c0",
+      "name": "T4 III withdrawable configuration rear horizontal terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000436R0146",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-iii-withdrawable-configuration-rear-horizontal-terminals-72179643c0",
+      "recordPath": "equipment/abb-t4-iii-withdrawable-configuration-rear-horizontal-terminals-72179643c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-iii-withdrawable-configuration-rear-horizontal-terminals-72179643c0.json"
+    },
+    {
+      "id": "abb-t4-pv-ul-3p-fixed-1000v-jumper-2-1-612874e1fa",
+      "name": "T4 PV UL 3P Fixed 1000V Jumper 2+1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000779R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-pv-ul-3p-fixed-1000v-jumper-2-1-612874e1fa",
+      "recordPath": "equipment/abb-t4-pv-ul-3p-fixed-1000v-jumper-2-1-612874e1fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-pv-ul-3p-fixed-1000v-jumper-2-1-612874e1fa.json"
+    },
+    {
+      "id": "abb-t4-pv-ul-3p-fixed-1000v-jumper-3-0-1e1afab2b5",
+      "name": "T4 PV UL 3P Fixed 1000V Jumper 3+0",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000779R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4-pv-ul-3p-fixed-1000v-jumper-3-0-1e1afab2b5",
+      "recordPath": "equipment/abb-t4-pv-ul-3p-fixed-1000v-jumper-3-0-1e1afab2b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4-pv-ul-3p-fixed-1000v-jumper-3-0-1e1afab2b5.json"
+    },
+    {
+      "id": "abb-t4d-pv-fixed-4p-1100v-1500v-jumper-2-2-0da3fa811a",
+      "name": "T4D PV Fixed 4P 1100V - 1500V Jumper 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000779R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-2-2-0da3fa811a",
+      "recordPath": "equipment/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-2-2-0da3fa811a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-2-2-0da3fa811a.json"
+    },
+    {
+      "id": "abb-t4d-pv-fixed-4p-1100v-1500v-jumper-4ps-9ba5730b6a",
+      "name": "T4D PV Fixed 4P 1100V - 1500V Jumper 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000779R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-4ps-9ba5730b6a",
+      "recordPath": "equipment/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-4ps-9ba5730b6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-4ps-9ba5730b6a.json"
+    },
+    {
+      "id": "abb-t5-3-poles-fixed-left-connectors-20ead5e404",
+      "name": "T5 3 poles Fixed (left connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0025",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3-poles-fixed-left-connectors-20ead5e404",
+      "recordPath": "equipment/abb-t5-3-poles-fixed-left-connectors-20ead5e404.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3-poles-fixed-left-connectors-20ead5e404.json"
+    },
+    {
+      "id": "abb-t5-3-poles-fixed-right-connectors-5d17710cbb",
+      "name": "T5 3 poles Fixed (right connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0026",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3-poles-fixed-right-connectors-5d17710cbb",
+      "recordPath": "equipment/abb-t5-3-poles-fixed-right-connectors-5d17710cbb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3-poles-fixed-right-connectors-5d17710cbb.json"
+    },
+    {
+      "id": "abb-t5-3-poles-plug-in-fixed-part-right-connectors-f6a1027e88",
+      "name": "T5 3 poles Plug-in fixed part (right connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0028",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3-poles-plug-in-fixed-part-right-connectors-f6a1027e88",
+      "recordPath": "equipment/abb-t5-3-poles-plug-in-fixed-part-right-connectors-f6a1027e88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3-poles-plug-in-fixed-part-right-connectors-f6a1027e88.json"
+    },
+    {
+      "id": "abb-t5-3-poles-plug-in-fixed-part-630-a-0ff21c2c0e",
+      "name": "T5 3 poles Plug-in fixed part 630 A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0029",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3-poles-plug-in-fixed-part-630-a-0ff21c2c0e",
+      "recordPath": "equipment/abb-t5-3-poles-plug-in-fixed-part-630-a-0ff21c2c0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3-poles-plug-in-fixed-part-630-a-0ff21c2c0e.json"
+    },
+    {
+      "id": "abb-t5-3-poles-withdrawable-fixed-part-a405fff100",
+      "name": "T5 3 poles Withdrawable fixed part",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0032",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3-poles-withdrawable-fixed-part-a405fff100",
+      "recordPath": "equipment/abb-t5-3-poles-withdrawable-fixed-part-a405fff100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3-poles-withdrawable-fixed-part-a405fff100.json"
+    },
+    {
+      "id": "abb-t5-3p-4p-fixed-version-adjustable-depth-rotary-handle-14d00f5ba4",
+      "name": "T5 3p/4p fixed version adjustable depth rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000437R0161",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3p-4p-fixed-version-adjustable-depth-rotary-handle-14d00f5ba4",
+      "recordPath": "equipment/abb-t5-3p-4p-fixed-version-adjustable-depth-rotary-handle-14d00f5ba4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3p-4p-fixed-version-adjustable-depth-rotary-handle-14d00f5ba4.json"
+    },
+    {
+      "id": "abb-t5-3p-4p-fixed-version-front-panel-for-locking-devices-5fd08d2cd3",
+      "name": "T5 3p/4p fixed version front panel for locking devices",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000437R0164",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3p-4p-fixed-version-front-panel-for-locking-devices-5fd08d2cd3",
+      "recordPath": "equipment/abb-t5-3p-4p-fixed-version-front-panel-for-locking-devices-5fd08d2cd3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3p-4p-fixed-version-front-panel-for-locking-devices-5fd08d2cd3.json"
+    },
+    {
+      "id": "abb-t5-3p-4p-fixed-version-rotary-handle-direct-e9183d2283",
+      "name": "T5 3p/4p fixed version rotary handle direct",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000437R0160",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-3p-4p-fixed-version-rotary-handle-direct-e9183d2283",
+      "recordPath": "equipment/abb-t5-3p-4p-fixed-version-rotary-handle-direct-e9183d2283.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-3p-4p-fixed-version-rotary-handle-direct-e9183d2283.json"
+    },
+    {
+      "id": "abb-t5-4-poles-fixed-d4cdd8d4ec",
+      "name": "T5 4 poles Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0037",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-4-poles-fixed-d4cdd8d4ec",
+      "recordPath": "equipment/abb-t5-4-poles-fixed-d4cdd8d4ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-4-poles-fixed-d4cdd8d4ec.json"
+    },
+    {
+      "id": "abb-t5-4-poles-fixed-left-connectors-78e7e708da",
+      "name": "T5 4 poles Fixed (left connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0034",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-4-poles-fixed-left-connectors-78e7e708da",
+      "recordPath": "equipment/abb-t5-4-poles-fixed-left-connectors-78e7e708da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-4-poles-fixed-left-connectors-78e7e708da.json"
+    },
+    {
+      "id": "abb-t5-4-poles-fixed-right-connectors-97cc77ab45",
+      "name": "T5 4 poles Fixed (right connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0035",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-4-poles-fixed-right-connectors-97cc77ab45",
+      "recordPath": "equipment/abb-t5-4-poles-fixed-right-connectors-97cc77ab45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-4-poles-fixed-right-connectors-97cc77ab45.json"
+    },
+    {
+      "id": "abb-t5-4-poles-plug-in-fixed-part-right-connectors-bd4c6e6eed",
+      "name": "T5 4 poles Plug-in fixed part (right connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0039",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-4-poles-plug-in-fixed-part-right-connectors-bd4c6e6eed",
+      "recordPath": "equipment/abb-t5-4-poles-plug-in-fixed-part-right-connectors-bd4c6e6eed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-4-poles-plug-in-fixed-part-right-connectors-bd4c6e6eed.json"
+    },
+    {
+      "id": "abb-t5-4-poles-withdrawable-fixed-part-630-a-9d97da83a7",
+      "name": "T5 4 poles Withdrawable fixed part 630 A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0040",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-4-poles-withdrawable-fixed-part-630-a-9d97da83a7",
+      "recordPath": "equipment/abb-t5-4-poles-withdrawable-fixed-part-630-a-9d97da83a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-4-poles-withdrawable-fixed-part-630-a-9d97da83a7.json"
+    },
+    {
+      "id": "abb-t5-4-poles-withdrawable-plug-in-fixed-part-left-connectors-53dc00b181",
+      "name": "T5 4 poles Withdrawable_Plug-in fixed part (left connectors)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0042",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-4-poles-withdrawable-plug-in-fixed-part-left-connectors-53dc00b181",
+      "recordPath": "equipment/abb-t5-4-poles-withdrawable-plug-in-fixed-part-left-connectors-53dc00b181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-4-poles-withdrawable-plug-in-fixed-part-left-connectors-53dc00b181.json"
+    },
+    {
+      "id": "abb-t5-circuit-breaker-with-actuator-for-flange-handle-eb300021a4",
+      "name": "T5 Circuit Breaker with Actuator for Flange Handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1052",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-circuit-breaker-with-actuator-for-flange-handle-eb300021a4",
+      "recordPath": "equipment/abb-t5-circuit-breaker-with-actuator-for-flange-handle-eb300021a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-circuit-breaker-with-actuator-for-flange-handle-eb300021a4.json"
+    },
+    {
+      "id": "abb-t5-flange-handle-bell-crank-acutator-assembly-1d9640cde1",
+      "name": "T5 Flange Handle, Bell Crank & Acutator Assembly",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003R1051",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-flange-handle-bell-crank-acutator-assembly-1d9640cde1",
+      "recordPath": "equipment/abb-t5-flange-handle-bell-crank-acutator-assembly-1d9640cde1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-flange-handle-bell-crank-acutator-assembly-1d9640cde1.json"
+    },
+    {
+      "id": "abb-t5-pv-iec-4p-fixed-jumper-2-2-f3904ea69e",
+      "name": "T5 PV IEC 4P Fixed Jumper 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000780R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-pv-iec-4p-fixed-jumper-2-2-f3904ea69e",
+      "recordPath": "equipment/abb-t5-pv-iec-4p-fixed-jumper-2-2-f3904ea69e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-pv-iec-4p-fixed-jumper-2-2-f3904ea69e.json"
+    },
+    {
+      "id": "abb-t5-pv-iec-4p-fixed-jumper-4ps-888dbfa2cc",
+      "name": "T5 PV IEC 4P Fixed Jumper 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000780R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-pv-iec-4p-fixed-jumper-4ps-888dbfa2cc",
+      "recordPath": "equipment/abb-t5-pv-iec-4p-fixed-jumper-4ps-888dbfa2cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-pv-iec-4p-fixed-jumper-4ps-888dbfa2cc.json"
+    },
+    {
+      "id": "abb-t5-pv-ul-3p-fixed-1000v-jumper-2-1-344f290d2f",
+      "name": "T5 PV UL 3P Fixed 1000V Jumper 2+1",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000780R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-pv-ul-3p-fixed-1000v-jumper-2-1-344f290d2f",
+      "recordPath": "equipment/abb-t5-pv-ul-3p-fixed-1000v-jumper-2-1-344f290d2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-pv-ul-3p-fixed-1000v-jumper-2-1-344f290d2f.json"
+    },
+    {
+      "id": "abb-t5-pv-ul-3p-fixed-1000v-jumper-3-0-ed54debc12",
+      "name": "T5 PV UL 3P Fixed 1000V Jumper 3+0",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000780R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t5-pv-ul-3p-fixed-1000v-jumper-3-0-ed54debc12",
+      "recordPath": "equipment/abb-t5-pv-ul-3p-fixed-1000v-jumper-3-0-ed54debc12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t5-pv-ul-3p-fixed-1000v-jumper-3-0-ed54debc12.json"
+    },
+    {
+      "id": "abb-t6-3p-fixed-adjustable-rotary-handle-7266b45e5d",
+      "name": "T6 3p Fixed adjustable rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3p-fixed-adjustable-rotary-handle-7266b45e5d",
+      "recordPath": "equipment/abb-t6-3p-fixed-adjustable-rotary-handle-7266b45e5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3p-fixed-adjustable-rotary-handle-7266b45e5d.json"
+    },
+    {
+      "id": "abb-t6-3p-fixed-front-panel-with-padlock-device-e5f3439269",
+      "name": "T6 3p Fixed front panel with padlock device",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3p-fixed-front-panel-with-padlock-device-e5f3439269",
+      "recordPath": "equipment/abb-t6-3p-fixed-front-panel-with-padlock-device-e5f3439269.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3p-fixed-front-panel-with-padlock-device-e5f3439269.json"
+    },
+    {
+      "id": "abb-t6-3p-fixed-rotary-handle-047a14bd76",
+      "name": "T6 3p Fixed rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0116",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3p-fixed-rotary-handle-047a14bd76",
+      "recordPath": "equipment/abb-t6-3p-fixed-rotary-handle-047a14bd76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3p-fixed-rotary-handle-047a14bd76.json"
+    },
+    {
+      "id": "abb-t6-3p-4p-withdrawable-with-rotary-handle-247aa23a7c",
+      "name": "T6 3p-4p Withdrawable with rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0124",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3p-4p-withdrawable-with-rotary-handle-247aa23a7c",
+      "recordPath": "equipment/abb-t6-3p-4p-withdrawable-with-rotary-handle-247aa23a7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3p-4p-withdrawable-with-rotary-handle-247aa23a7c.json"
+    },
+    {
+      "id": "abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-downstream-d4ce68a4b3",
+      "name": "T6 3p-4p mechanical interlock between 2 CB mounted downstream",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0123",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-downstream-d4ce68a4b3",
+      "recordPath": "equipment/abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-downstream-d4ce68a4b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-downstream-d4ce68a4b3.json"
+    },
+    {
+      "id": "abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-side-by-side-6b566225f1",
+      "name": "T6 3p-4p mechanical interlock between 2 CB mounted side by side",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0122",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-side-by-side-6b566225f1",
+      "recordPath": "equipment/abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-side-by-side-6b566225f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3p-4p-mechanical-interlock-between-2-cb-mounted-side-by-side-6b566225f1.json"
+    },
+    {
+      "id": "abb-t6-4p-fixed-adjustable-rotary-handle-8a309e4e5d",
+      "name": "T6 4p Fixed adjustable rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0119",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-4p-fixed-adjustable-rotary-handle-8a309e4e5d",
+      "recordPath": "equipment/abb-t6-4p-fixed-adjustable-rotary-handle-8a309e4e5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-4p-fixed-adjustable-rotary-handle-8a309e4e5d.json"
+    },
+    {
+      "id": "abb-t6-4p-fixed-front-panel-with-padlock-device-0351db5ff6",
+      "name": "T6 4p Fixed front panel with padlock device",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0115",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-4p-fixed-front-panel-with-padlock-device-0351db5ff6",
+      "recordPath": "equipment/abb-t6-4p-fixed-front-panel-with-padlock-device-0351db5ff6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-4p-fixed-front-panel-with-padlock-device-0351db5ff6.json"
+    },
+    {
+      "id": "abb-t6-4p-fixed-rotary-handle-e71f426da8",
+      "name": "T6 4p Fixed rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000479R0117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-4p-fixed-rotary-handle-e71f426da8",
+      "recordPath": "equipment/abb-t6-4p-fixed-rotary-handle-e71f426da8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-4p-fixed-rotary-handle-e71f426da8.json"
+    },
+    {
+      "id": "abb-t6-circuit-breaker-with-actuator-for-flange-handle-ae07acc546",
+      "name": "T6 Circuit Breaker with Actuator for Flange Handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1072",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-circuit-breaker-with-actuator-for-flange-handle-ae07acc546",
+      "recordPath": "equipment/abb-t6-circuit-breaker-with-actuator-for-flange-handle-ae07acc546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-circuit-breaker-with-actuator-for-flange-handle-ae07acc546.json"
+    },
+    {
+      "id": "abb-t6-flange-handle-and-bell-crank-85b5368615",
+      "name": "T6 Flange Handle and Bell Crank",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1081",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-flange-handle-and-bell-crank-85b5368615",
+      "recordPath": "equipment/abb-t6-flange-handle-and-bell-crank-85b5368615.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-flange-handle-and-bell-crank-85b5368615.json"
+    },
+    {
+      "id": "abb-t6-flange-handle-bell-crank-acutator-assembly-012391d229",
+      "name": "T6 Flange Handle, Bell Crank & Acutator Assembly",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003R1071",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-flange-handle-bell-crank-acutator-assembly-012391d229",
+      "recordPath": "equipment/abb-t6-flange-handle-bell-crank-acutator-assembly-012391d229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-flange-handle-bell-crank-acutator-assembly-012391d229.json"
+    },
+    {
+      "id": "abb-t6-iii-f-78853e4f92",
+      "name": "T6 III F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0044",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-78853e4f92",
+      "recordPath": "equipment/abb-t6-iii-f-78853e4f92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-78853e4f92.json"
+    },
+    {
+      "id": "abb-t6-iii-f-fld-4591fff5b1",
+      "name": "T6 III F - FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0076",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-fld-4591fff5b1",
+      "recordPath": "equipment/abb-t6-iii-f-fld-4591fff5b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-fld-4591fff5b1.json"
+    },
+    {
+      "id": "abb-t6-iii-f-flange-for-compartment-door-f8a903b1ea",
+      "name": "T6 III F - Flange for compartment door",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0067",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-flange-for-compartment-door-f8a903b1ea",
+      "recordPath": "equipment/abb-t6-iii-f-flange-for-compartment-door-f8a903b1ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-flange-for-compartment-door-f8a903b1ea.json"
+    },
+    {
+      "id": "abb-t6-iii-f-flange-for-compartment-door-for-mo-b642e46db9",
+      "name": "T6 III F - Flange for compartment door (for MO)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0065",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-flange-for-compartment-door-for-mo-b642e46db9",
+      "recordPath": "equipment/abb-t6-iii-f-flange-for-compartment-door-for-mo-b642e46db9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-flange-for-compartment-door-for-mo-b642e46db9.json"
+    },
+    {
+      "id": "abb-t6-iii-f-flange-for-compartment-door-for-rhd-a10ce91ea9",
+      "name": "T6 III F - Flange for compartment door (for RHD)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0066",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-flange-for-compartment-door-for-rhd-a10ce91ea9",
+      "recordPath": "equipment/abb-t6-iii-f-flange-for-compartment-door-for-rhd-a10ce91ea9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-flange-for-compartment-door-for-rhd-a10ce91ea9.json"
+    },
+    {
+      "id": "abb-t6-iii-f-flange-for-compartment-door-for-lever-operating-mechanism-bbd4952f03",
+      "name": "T6 III F - Flange for compartment door (for lever operating mechanism)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0064",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-flange-for-compartment-door-for-lever-operating-mechanism-bbd4952f03",
+      "recordPath": "equipment/abb-t6-iii-f-flange-for-compartment-door-for-lever-operating-mechanism-bbd4952f03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-flange-for-compartment-door-for-lever-operating-mechanism-bbd4952f03.json"
+    },
+    {
+      "id": "abb-t6-iii-f-htc-down-609702ff59",
+      "name": "T6 III F - HTC down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0068",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-htc-down-609702ff59",
+      "recordPath": "equipment/abb-t6-iii-f-htc-down-609702ff59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-htc-down-609702ff59.json"
+    },
+    {
+      "id": "abb-t6-iii-f-htc-up-9b2c2ec3b3",
+      "name": "T6 III F - HTC up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0069",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-htc-up-9b2c2ec3b3",
+      "recordPath": "equipment/abb-t6-iii-f-htc-up-9b2c2ec3b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-htc-up-9b2c2ec3b3.json"
+    },
+    {
+      "id": "abb-t6-iii-f-ltc-up-21c253c63e",
+      "name": "T6 III F - LTC up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0071",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-ltc-up-21c253c63e",
+      "recordPath": "equipment/abb-t6-iii-f-ltc-up-21c253c63e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-ltc-up-21c253c63e.json"
+    },
+    {
+      "id": "abb-t6-iii-f-mo-f984ad49fc",
+      "name": "T6 III F - MO",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0072",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-mo-f984ad49fc",
+      "recordPath": "equipment/abb-t6-iii-f-mo-f984ad49fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-mo-f984ad49fc.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rhd-on-cb-0d72a83d38",
+      "name": "T6 III F - RHD on CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0075",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rhd-on-cb-0d72a83d38",
+      "recordPath": "equipment/abb-t6-iii-f-rhd-on-cb-0d72a83d38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rhd-on-cb-0d72a83d38.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rhd-on-compartment-door-max-1b13f19d5c",
+      "name": "T6 III F - RHD on compartment door (max)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0073",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rhd-on-compartment-door-max-1b13f19d5c",
+      "recordPath": "equipment/abb-t6-iii-f-rhd-on-compartment-door-max-1b13f19d5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rhd-on-compartment-door-max-1b13f19d5c.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rhd-on-compartment-door-min-51f6ca554e",
+      "name": "T6 III F - RHD on compartment door (min)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0074",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rhd-on-compartment-door-min-51f6ca554e",
+      "recordPath": "equipment/abb-t6-iii-f-rhd-on-compartment-door-min-51f6ca554e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rhd-on-compartment-door-min-51f6ca554e.json"
+    },
+    {
+      "id": "abb-t6-iii-f-ef-630a-htc-83bd8120a6",
+      "name": "T6 III F EF 630A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0045",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-ef-630a-htc-83bd8120a6",
+      "recordPath": "equipment/abb-t6-iii-f-ef-630a-htc-83bd8120a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-ef-630a-htc-83bd8120a6.json"
+    },
+    {
+      "id": "abb-t6-iii-f-ef-630a-ltc-4ed9bd6c4b",
+      "name": "T6 III F EF 630A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0046",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-ef-630a-ltc-4ed9bd6c4b",
+      "recordPath": "equipment/abb-t6-iii-f-ef-630a-ltc-4ed9bd6c4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-ef-630a-ltc-4ed9bd6c4b.json"
+    },
+    {
+      "id": "abb-t6-iii-f-ef-800a-htc-693801c989",
+      "name": "T6 III F EF 800A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0047",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-ef-800a-htc-693801c989",
+      "recordPath": "equipment/abb-t6-iii-f-ef-800a-htc-693801c989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-ef-800a-htc-693801c989.json"
+    },
+    {
+      "id": "abb-t6-iii-f-ef-800a-ltc-33c67051e3",
+      "name": "T6 III F EF 800A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0048",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-ef-800a-ltc-33c67051e3",
+      "recordPath": "equipment/abb-t6-iii-f-ef-800a-ltc-33c67051e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-ef-800a-ltc-33c67051e3.json"
+    },
+    {
+      "id": "abb-t6-iii-f-es-htc-de0f3b1ead",
+      "name": "T6 III F ES HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0049",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-es-htc-de0f3b1ead",
+      "recordPath": "equipment/abb-t6-iii-f-es-htc-de0f3b1ead.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-es-htc-de0f3b1ead.json"
+    },
+    {
+      "id": "abb-t6-iii-f-es-ltc-afd7ab214c",
+      "name": "T6 III F ES LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0050",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-es-ltc-afd7ab214c",
+      "recordPath": "equipment/abb-t6-iii-f-es-ltc-afd7ab214c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-es-ltc-afd7ab214c.json"
+    },
+    {
+      "id": "abb-t6-iii-f-fc-cual-1000a-htc-c68712d8ff",
+      "name": "T6 III F FC CuAl 1000A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0054",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-fc-cual-1000a-htc-c68712d8ff",
+      "recordPath": "equipment/abb-t6-iii-f-fc-cual-1000a-htc-c68712d8ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-fc-cual-1000a-htc-c68712d8ff.json"
+    },
+    {
+      "id": "abb-t6-iii-f-fc-cual-1000a-ltc-7cd783d04d",
+      "name": "T6 III F FC CuAl 1000A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0055",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-fc-cual-1000a-ltc-7cd783d04d",
+      "recordPath": "equipment/abb-t6-iii-f-fc-cual-1000a-ltc-7cd783d04d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-fc-cual-1000a-ltc-7cd783d04d.json"
+    },
+    {
+      "id": "abb-t6-iii-f-fc-cual-630a-htc-e0f17672e2",
+      "name": "T6 III F FC CuAl 630A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0051",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-fc-cual-630a-htc-e0f17672e2",
+      "recordPath": "equipment/abb-t6-iii-f-fc-cual-630a-htc-e0f17672e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-fc-cual-630a-htc-e0f17672e2.json"
+    },
+    {
+      "id": "abb-t6-iii-f-fc-cual-630a-ltc-7e8b040848",
+      "name": "T6 III F FC CuAl 630A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0052",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-fc-cual-630a-ltc-7e8b040848",
+      "recordPath": "equipment/abb-t6-iii-f-fc-cual-630a-ltc-7e8b040848.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-fc-cual-630a-ltc-7e8b040848.json"
+    },
+    {
+      "id": "abb-t6-iii-f-fc-cual-800a-ltc-cf697fa39d",
+      "name": "T6 III F FC CuAl 800A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0053",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-fc-cual-800a-ltc-cf697fa39d",
+      "recordPath": "equipment/abb-t6-iii-f-fc-cual-800a-ltc-cf697fa39d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-fc-cual-800a-ltc-cf697fa39d.json"
+    },
+    {
+      "id": "abb-t6-iii-f-hr-htc-f54b016e7e",
+      "name": "T6 III F HR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0056",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-hr-htc-f54b016e7e",
+      "recordPath": "equipment/abb-t6-iii-f-hr-htc-f54b016e7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-hr-htc-f54b016e7e.json"
+    },
+    {
+      "id": "abb-t6-iii-f-hr-ltc-c26367de64",
+      "name": "T6 III F HR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0057",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-hr-ltc-c26367de64",
+      "recordPath": "equipment/abb-t6-iii-f-hr-ltc-c26367de64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-hr-ltc-c26367de64.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rc-cual-630a-htc-0ac8f63a53",
+      "name": "T6 III F RC CuAl 630A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0060",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rc-cual-630a-htc-0ac8f63a53",
+      "recordPath": "equipment/abb-t6-iii-f-rc-cual-630a-htc-0ac8f63a53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rc-cual-630a-htc-0ac8f63a53.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rc-cual-630a-ltc-56d113d3ff",
+      "name": "T6 III F RC CuAl 630A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0061",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rc-cual-630a-ltc-56d113d3ff",
+      "recordPath": "equipment/abb-t6-iii-f-rc-cual-630a-ltc-56d113d3ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rc-cual-630a-ltc-56d113d3ff.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rc-cual-800a-htc-df66f623e6",
+      "name": "T6 III F RC CuAl 800A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0062",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rc-cual-800a-htc-df66f623e6",
+      "recordPath": "equipment/abb-t6-iii-f-rc-cual-800a-htc-df66f623e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rc-cual-800a-htc-df66f623e6.json"
+    },
+    {
+      "id": "abb-t6-iii-f-rc-cual-800a-ltc-549cdd45d6",
+      "name": "T6 III F RC CuAl 800A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0063",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-rc-cual-800a-ltc-549cdd45d6",
+      "recordPath": "equipment/abb-t6-iii-f-rc-cual-800a-ltc-549cdd45d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-rc-cual-800a-ltc-549cdd45d6.json"
+    },
+    {
+      "id": "abb-t6-iii-f-vr-htc-cdf1a9f712",
+      "name": "T6 III F VR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0058",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-vr-htc-cdf1a9f712",
+      "recordPath": "equipment/abb-t6-iii-f-vr-htc-cdf1a9f712.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-vr-htc-cdf1a9f712.json"
+    },
+    {
+      "id": "abb-t6-iii-f-vr-ltc-510053226a",
+      "name": "T6 III F VR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0059",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-f-vr-ltc-510053226a",
+      "recordPath": "equipment/abb-t6-iii-f-vr-ltc-510053226a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-f-vr-ltc-510053226a.json"
+    },
+    {
+      "id": "abb-t6-iii-w-2f142b4366",
+      "name": "T6 III W",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0077",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-2f142b4366",
+      "recordPath": "equipment/abb-t6-iii-w-2f142b4366.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-2f142b4366.json"
+    },
+    {
+      "id": "abb-t6-iii-w-flange-for-fld-b60b28644b",
+      "name": "T6 III W - Flange for FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0084",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-flange-for-fld-b60b28644b",
+      "recordPath": "equipment/abb-t6-iii-w-flange-for-fld-b60b28644b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-flange-for-fld-b60b28644b.json"
+    },
+    {
+      "id": "abb-t6-iii-w-flange-for-mo-dd9dd363ac",
+      "name": "T6 III W - Flange for MO",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0085",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-flange-for-mo-dd9dd363ac",
+      "recordPath": "equipment/abb-t6-iii-w-flange-for-mo-dd9dd363ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-flange-for-mo-dd9dd363ac.json"
+    },
+    {
+      "id": "abb-t6-iii-w-mo-3ff74baf65",
+      "name": "T6 III W - MO",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0087",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-mo-3ff74baf65",
+      "recordPath": "equipment/abb-t6-iii-w-mo-3ff74baf65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-mo-3ff74baf65.json"
+    },
+    {
+      "id": "abb-t6-iii-w-rhd-on-cb-dc89095ca4",
+      "name": "T6 III W - RHD on CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0088",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-rhd-on-cb-dc89095ca4",
+      "recordPath": "equipment/abb-t6-iii-w-rhd-on-cb-dc89095ca4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-rhd-on-cb-dc89095ca4.json"
+    },
+    {
+      "id": "abb-t6-iii-w-hr-ltc-da6343eec2",
+      "name": "T6 III W HR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0081",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-hr-ltc-da6343eec2",
+      "recordPath": "equipment/abb-t6-iii-w-hr-ltc-da6343eec2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-hr-ltc-da6343eec2.json"
+    },
+    {
+      "id": "abb-t6-iii-w-vr-htc-862291518a",
+      "name": "T6 III W VR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0082",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iii-w-vr-htc-862291518a",
+      "recordPath": "equipment/abb-t6-iii-w-vr-htc-862291518a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iii-w-vr-htc-862291518a.json"
+    },
+    {
+      "id": "abb-t6-iv-f-5c61c382d5",
+      "name": "T6 IV F",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0089",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-5c61c382d5",
+      "recordPath": "equipment/abb-t6-iv-f-5c61c382d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-5c61c382d5.json"
+    },
+    {
+      "id": "abb-t6-iv-f-fld-82a4545600",
+      "name": "T6 IV F - FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0122",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-fld-82a4545600",
+      "recordPath": "equipment/abb-t6-iv-f-fld-82a4545600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-fld-82a4545600.json"
+    },
+    {
+      "id": "abb-t6-iv-f-flange-for-fld-a68bbc9bf8",
+      "name": "T6 IV F - Flange for FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0111",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-flange-for-fld-a68bbc9bf8",
+      "recordPath": "equipment/abb-t6-iv-f-flange-for-fld-a68bbc9bf8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-flange-for-fld-a68bbc9bf8.json"
+    },
+    {
+      "id": "abb-t6-iv-f-flange-for-rhd-abba471ca4",
+      "name": "T6 IV F - Flange for RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0113",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-flange-for-rhd-abba471ca4",
+      "recordPath": "equipment/abb-t6-iv-f-flange-for-rhd-abba471ca4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-flange-for-rhd-abba471ca4.json"
+    },
+    {
+      "id": "abb-t6-iv-f-flange-for-compartment-door-711b3f2d4d",
+      "name": "T6 IV F - Flange for compartment door",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0110",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-flange-for-compartment-door-711b3f2d4d",
+      "recordPath": "equipment/abb-t6-iv-f-flange-for-compartment-door-711b3f2d4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-flange-for-compartment-door-711b3f2d4d.json"
+    },
+    {
+      "id": "abb-t6-iv-f-htc-up-7519620753",
+      "name": "T6 IV F - HTC Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0115",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-htc-up-7519620753",
+      "recordPath": "equipment/abb-t6-iv-f-htc-up-7519620753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-htc-up-7519620753.json"
+    },
+    {
+      "id": "abb-t6-iv-f-ltc-down-e6bd0b49c0",
+      "name": "T6 IV F - LTC Down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0116",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-ltc-down-e6bd0b49c0",
+      "recordPath": "equipment/abb-t6-iv-f-ltc-down-e6bd0b49c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-ltc-down-e6bd0b49c0.json"
+    },
+    {
+      "id": "abb-t6-iv-f-ltc-up-203ecd553c",
+      "name": "T6 IV F - LTC Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0117",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-ltc-up-203ecd553c",
+      "recordPath": "equipment/abb-t6-iv-f-ltc-up-203ecd553c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-ltc-up-203ecd553c.json"
+    },
+    {
+      "id": "abb-t6-iv-f-mo-75fd69a1ed",
+      "name": "T6 IV F - MO",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0118",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-mo-75fd69a1ed",
+      "recordPath": "equipment/abb-t6-iv-f-mo-75fd69a1ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-mo-75fd69a1ed.json"
+    },
+    {
+      "id": "abb-t6-iv-f-rhd-on-cb-99f8db18c2",
+      "name": "T6 IV F - RHD on CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0121",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-rhd-on-cb-99f8db18c2",
+      "recordPath": "equipment/abb-t6-iv-f-rhd-on-cb-99f8db18c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-rhd-on-cb-99f8db18c2.json"
+    },
+    {
+      "id": "abb-t6-iv-f-rhd-on-the-compartment-door-max-7def1579f2",
+      "name": "T6 IV F - RHD on the compartment door (max)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0119",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-rhd-on-the-compartment-door-max-7def1579f2",
+      "recordPath": "equipment/abb-t6-iv-f-rhd-on-the-compartment-door-max-7def1579f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-rhd-on-the-compartment-door-max-7def1579f2.json"
+    },
+    {
+      "id": "abb-t6-iv-f-rhd-on-the-compartment-door-min-51d93b3287",
+      "name": "T6 IV F - RHD on the compartment door (min)",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0120",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-rhd-on-the-compartment-door-min-51d93b3287",
+      "recordPath": "equipment/abb-t6-iv-f-rhd-on-the-compartment-door-min-51d93b3287.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-rhd-on-the-compartment-door-min-51d93b3287.json"
+    },
+    {
+      "id": "abb-t6-iv-f-ef-630a-htc-c7299d447e",
+      "name": "T6 IV F EF 630A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0090",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-ef-630a-htc-c7299d447e",
+      "recordPath": "equipment/abb-t6-iv-f-ef-630a-htc-c7299d447e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-ef-630a-htc-c7299d447e.json"
+    },
+    {
+      "id": "abb-t6-iv-f-ef-800a-htc-52d9a9ab47",
+      "name": "T6 IV F EF 800A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0092",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-ef-800a-htc-52d9a9ab47",
+      "recordPath": "equipment/abb-t6-iv-f-ef-800a-htc-52d9a9ab47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-ef-800a-htc-52d9a9ab47.json"
+    },
+    {
+      "id": "abb-t6-iv-f-es-ltc-d5b49752c0",
+      "name": "T6 IV F ES LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0095",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-es-ltc-d5b49752c0",
+      "recordPath": "equipment/abb-t6-iv-f-es-ltc-d5b49752c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-es-ltc-d5b49752c0.json"
+    },
+    {
+      "id": "abb-t6-iv-f-fc-cual-1000a-htc-36a0b4d082",
+      "name": "T6 IV F FC CuAl 1000A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0100",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-fc-cual-1000a-htc-36a0b4d082",
+      "recordPath": "equipment/abb-t6-iv-f-fc-cual-1000a-htc-36a0b4d082.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-fc-cual-1000a-htc-36a0b4d082.json"
+    },
+    {
+      "id": "abb-t6-iv-f-fc-cual-1000a-ltc-285c06c2c5",
+      "name": "T6 IV F FC CuAl 1000A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0101",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-fc-cual-1000a-ltc-285c06c2c5",
+      "recordPath": "equipment/abb-t6-iv-f-fc-cual-1000a-ltc-285c06c2c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-fc-cual-1000a-ltc-285c06c2c5.json"
+    },
+    {
+      "id": "abb-t6-iv-f-fc-cual-630a-htc-53443ae77c",
+      "name": "T6 IV F FC CuAl 630A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0096",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-fc-cual-630a-htc-53443ae77c",
+      "recordPath": "equipment/abb-t6-iv-f-fc-cual-630a-htc-53443ae77c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-fc-cual-630a-htc-53443ae77c.json"
+    },
+    {
+      "id": "abb-t6-iv-f-fc-cual-800a-htc-c458306ef1",
+      "name": "T6 IV F FC CuAl 800A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0098",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-fc-cual-800a-htc-c458306ef1",
+      "recordPath": "equipment/abb-t6-iv-f-fc-cual-800a-htc-c458306ef1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-fc-cual-800a-htc-c458306ef1.json"
+    },
+    {
+      "id": "abb-t6-iv-f-fc-cual-800a-ltc-40ce1338ab",
+      "name": "T6 IV F FC CuAl 800A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0099",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-fc-cual-800a-ltc-40ce1338ab",
+      "recordPath": "equipment/abb-t6-iv-f-fc-cual-800a-ltc-40ce1338ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-fc-cual-800a-ltc-40ce1338ab.json"
+    },
+    {
+      "id": "abb-t6-iv-f-hr-htc-e29d288b29",
+      "name": "T6 IV F HR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0102",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-hr-htc-e29d288b29",
+      "recordPath": "equipment/abb-t6-iv-f-hr-htc-e29d288b29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-hr-htc-e29d288b29.json"
+    },
+    {
+      "id": "abb-t6-iv-f-hr-ltc-8301ecfaa4",
+      "name": "T6 IV F HR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0103",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-hr-ltc-8301ecfaa4",
+      "recordPath": "equipment/abb-t6-iv-f-hr-ltc-8301ecfaa4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-hr-ltc-8301ecfaa4.json"
+    },
+    {
+      "id": "abb-t6-iv-f-rc-cual-630a-ltc-69aa8c98ca",
+      "name": "T6 IV F RC CuAl 630A LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0107",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-rc-cual-630a-ltc-69aa8c98ca",
+      "recordPath": "equipment/abb-t6-iv-f-rc-cual-630a-ltc-69aa8c98ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-rc-cual-630a-ltc-69aa8c98ca.json"
+    },
+    {
+      "id": "abb-t6-iv-f-rc-cual-800a-htc-e85635eb42",
+      "name": "T6 IV F RC CuAl 800A HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0108",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-rc-cual-800a-htc-e85635eb42",
+      "recordPath": "equipment/abb-t6-iv-f-rc-cual-800a-htc-e85635eb42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-rc-cual-800a-htc-e85635eb42.json"
+    },
+    {
+      "id": "abb-t6-iv-f-vr-htc-573b779d7c",
+      "name": "T6 IV F VR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0104",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-vr-htc-573b779d7c",
+      "recordPath": "equipment/abb-t6-iv-f-vr-htc-573b779d7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-vr-htc-573b779d7c.json"
+    },
+    {
+      "id": "abb-t6-iv-f-vr-ltc-5765bdc587",
+      "name": "T6 IV F VR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0105",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-f-vr-ltc-5765bdc587",
+      "recordPath": "equipment/abb-t6-iv-f-vr-ltc-5765bdc587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-f-vr-ltc-5765bdc587.json"
+    },
+    {
+      "id": "abb-t6-iv-w-flange-for-fld-b13443cb33",
+      "name": "T6 IV W - Flange for FLD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0130",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-flange-for-fld-b13443cb33",
+      "recordPath": "equipment/abb-t6-iv-w-flange-for-fld-b13443cb33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-flange-for-fld-b13443cb33.json"
+    },
+    {
+      "id": "abb-t6-iv-w-flange-for-mo-28d0a8e94c",
+      "name": "T6 IV W - Flange for MO",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0131",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-flange-for-mo-28d0a8e94c",
+      "recordPath": "equipment/abb-t6-iv-w-flange-for-mo-28d0a8e94c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-flange-for-mo-28d0a8e94c.json"
+    },
+    {
+      "id": "abb-t6-iv-w-flange-for-rhd-996d35b2fd",
+      "name": "T6 IV W - Flange for RHD",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0132",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-flange-for-rhd-996d35b2fd",
+      "recordPath": "equipment/abb-t6-iv-w-flange-for-rhd-996d35b2fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-flange-for-rhd-996d35b2fd.json"
+    },
+    {
+      "id": "abb-t6-iv-w-mo-36c9b77fb1",
+      "name": "T6 IV W - MO",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0133",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-mo-36c9b77fb1",
+      "recordPath": "equipment/abb-t6-iv-w-mo-36c9b77fb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-mo-36c9b77fb1.json"
+    },
+    {
+      "id": "abb-t6-iv-w-rhd-on-cb-2b0feb71d2",
+      "name": "T6 IV W - RHD on CB",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0134",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-rhd-on-cb-2b0feb71d2",
+      "recordPath": "equipment/abb-t6-iv-w-rhd-on-cb-2b0feb71d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-rhd-on-cb-2b0feb71d2.json"
+    },
+    {
+      "id": "abb-t6-iv-w-f-htc-5bad1fa6e8",
+      "name": "T6 IV W F HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0124",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-f-htc-5bad1fa6e8",
+      "recordPath": "equipment/abb-t6-iv-w-f-htc-5bad1fa6e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-f-htc-5bad1fa6e8.json"
+    },
+    {
+      "id": "abb-t6-iv-w-hr-htc-443427e4ef",
+      "name": "T6 IV W HR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0128",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-hr-htc-443427e4ef",
+      "recordPath": "equipment/abb-t6-iv-w-hr-htc-443427e4ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-hr-htc-443427e4ef.json"
+    },
+    {
+      "id": "abb-t6-iv-w-hr-ltc-978a49aa78",
+      "name": "T6 IV W HR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0129",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-hr-ltc-978a49aa78",
+      "recordPath": "equipment/abb-t6-iv-w-hr-ltc-978a49aa78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-hr-ltc-978a49aa78.json"
+    },
+    {
+      "id": "abb-t6-iv-w-vr-htc-3d853772b1",
+      "name": "T6 IV W VR HTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0126",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-vr-htc-3d853772b1",
+      "recordPath": "equipment/abb-t6-iv-w-vr-htc-3d853772b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-vr-htc-3d853772b1.json"
+    },
+    {
+      "id": "abb-t6-iv-w-vr-ltc-5814a00c8f",
+      "name": "T6 IV W VR LTC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0127",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-iv-w-vr-ltc-5814a00c8f",
+      "recordPath": "equipment/abb-t6-iv-w-vr-ltc-5814a00c8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-iv-w-vr-ltc-5814a00c8f.json"
+    },
+    {
+      "id": "abb-t6-pv-4ps-18b251a559",
+      "name": "T6 PV 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000781R0102",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-pv-4ps-18b251a559",
+      "recordPath": "equipment/abb-t6-pv-4ps-18b251a559.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-pv-4ps-18b251a559.json"
+    },
+    {
+      "id": "abb-t6-pv-fixed-2-2-4ad96a08c9",
+      "name": "T6 PV Fixed 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000781R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-pv-fixed-2-2-4ad96a08c9",
+      "recordPath": "equipment/abb-t6-pv-fixed-2-2-4ad96a08c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-pv-fixed-2-2-4ad96a08c9.json"
+    },
+    {
+      "id": "abb-t6-pv-ul-2-2-ec1040ffb7",
+      "name": "T6 PV UL 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000781R0103",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-pv-ul-2-2-ec1040ffb7",
+      "recordPath": "equipment/abb-t6-pv-ul-2-2-ec1040ffb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-pv-ul-2-2-ec1040ffb7.json"
+    },
+    {
+      "id": "abb-t6-pv-ul-4ps-05aefffde1",
+      "name": "T6 PV UL 4PS",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000781R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-pv-ul-4ps-05aefffde1",
+      "recordPath": "equipment/abb-t6-pv-ul-4ps-05aefffde1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-pv-ul-4ps-05aefffde1.json"
+    },
+    {
+      "id": "abb-t6-pv-ul-4ps-ef-800a-a63c645a5e",
+      "name": "T6 PV UL 4PS EF 800A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000781R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-pv-ul-4ps-ef-800a-a63c645a5e",
+      "recordPath": "equipment/abb-t6-pv-ul-4ps-ef-800a-a63c645a5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-pv-ul-4ps-ef-800a-a63c645a5e.json"
+    },
+    {
+      "id": "abb-t6-pv-ul-ef-800a-1f841e0bd2",
+      "name": "T6 PV UL EF 800A",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000781R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-pv-ul-ef-800a-1f841e0bd2",
+      "recordPath": "equipment/abb-t6-pv-ul-ef-800a-1f841e0bd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-pv-ul-ef-800a-1f841e0bd2.json"
+    },
+    {
+      "id": "abb-t6-3-4-pole-withdrawable-front-terminals-dwg-450a4aeabf",
+      "name": "T6, 3/4 Pole withdrawable front terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2202 9000-031_DWG; D 2202 9000-031_PDF",
+      "formats": [
+        "DWG",
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3-4-pole-withdrawable-front-terminals-dwg-450a4aeabf",
+      "recordPath": "equipment/abb-t6-3-4-pole-withdrawable-front-terminals-dwg-450a4aeabf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3-4-pole-withdrawable-front-terminals-dwg-450a4aeabf.json"
+    },
+    {
+      "id": "abb-t6-3-4-pole-withdrawable-horizontal-rear-terminals-dwg-72160ed904",
+      "name": "T6, 3/4 Pole withdrawable horizontal rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2202 9000-032_DWG; D 2202 9000-032_PDF",
+      "formats": [
+        "DWG",
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3-4-pole-withdrawable-horizontal-rear-terminals-dwg-72160ed904",
+      "recordPath": "equipment/abb-t6-3-4-pole-withdrawable-horizontal-rear-terminals-dwg-72160ed904.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3-4-pole-withdrawable-horizontal-rear-terminals-dwg-72160ed904.json"
+    },
+    {
+      "id": "abb-t6-3-4-pole-withdrawable-vertical-rear-terminals-dwg-a834ee24e4",
+      "name": "T6, 3/4 Pole withdrawable vertical rear terminals",
+      "manufacturer": "ABB",
+      "drawingNumber": "D 2202 9000-035_DWG; D 2202 9000-035_PDF",
+      "formats": [
+        "DWG",
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6-3-4-pole-withdrawable-vertical-rear-terminals-dwg-a834ee24e4",
+      "recordPath": "equipment/abb-t6-3-4-pole-withdrawable-vertical-rear-terminals-dwg-a834ee24e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6-3-4-pole-withdrawable-vertical-rear-terminals-dwg-a834ee24e4.json"
+    },
+    {
+      "id": "abb-t6v-3p-f-front-panel-with-padlock-device-518cba80f1",
+      "name": "T6V 3p F front panel with padlock device",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000783R0114",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6v-3p-f-front-panel-with-padlock-device-518cba80f1",
+      "recordPath": "equipment/abb-t6v-3p-f-front-panel-with-padlock-device-518cba80f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6v-3p-f-front-panel-with-padlock-device-518cba80f1.json"
+    },
+    {
+      "id": "abb-t6v-3p-f-rotary-handle-6c3e82ee20",
+      "name": "T6V 3p F rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000783R0116",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6v-3p-f-rotary-handle-6c3e82ee20",
+      "recordPath": "equipment/abb-t6v-3p-f-rotary-handle-6c3e82ee20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6v-3p-f-rotary-handle-6c3e82ee20.json"
+    },
+    {
+      "id": "abb-t6v-3p-f-with-transmetted-rotary-handle-b267e10a1a",
+      "name": "T6V 3p F with transmetted rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000783R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6v-3p-f-with-transmetted-rotary-handle-b267e10a1a",
+      "recordPath": "equipment/abb-t6v-3p-f-with-transmetted-rotary-handle-b267e10a1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6v-3p-f-with-transmetted-rotary-handle-b267e10a1a.json"
+    },
+    {
+      "id": "abb-t6v-4p-f-front-panel-with-padlock-device-a1039dffc5",
+      "name": "T6V 4p F front panel with padlock device",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000783R0115",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6v-4p-f-front-panel-with-padlock-device-a1039dffc5",
+      "recordPath": "equipment/abb-t6v-4p-f-front-panel-with-padlock-device-a1039dffc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6v-4p-f-front-panel-with-padlock-device-a1039dffc5.json"
+    },
+    {
+      "id": "abb-t6v-4p-f-rotary-handle-45cdaa6420",
+      "name": "T6V 4p F rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000783R0117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6v-4p-f-rotary-handle-45cdaa6420",
+      "recordPath": "equipment/abb-t6v-4p-f-rotary-handle-45cdaa6420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6v-4p-f-rotary-handle-45cdaa6420.json"
+    },
+    {
+      "id": "abb-t6v-4p-f-with-transmetted-rotary-handle-bfef6e0c7c",
+      "name": "T6V 4p F with transmetted rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000783R0119",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t6v-4p-f-with-transmetted-rotary-handle-bfef6e0c7c",
+      "recordPath": "equipment/abb-t6v-4p-f-with-transmetted-rotary-handle-bfef6e0c7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t6v-4p-f-with-transmetted-rotary-handle-bfef6e0c7c.json"
+    },
+    {
+      "id": "abb-t7-flange-for-compartment-door-ee2d6d13d0",
+      "name": "T7 - Flange for compartment door",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0192",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-flange-for-compartment-door-ee2d6d13d0",
+      "recordPath": "equipment/abb-t7-flange-for-compartment-door-ee2d6d13d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-flange-for-compartment-door-ee2d6d13d0.json"
+    },
+    {
+      "id": "abb-t7-flange-for-compartment-door-max-distance-164mm-f24aded6f1",
+      "name": "T7 - Flange for compartment door, max distance 164mm",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0191",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-flange-for-compartment-door-max-distance-164mm-f24aded6f1",
+      "recordPath": "equipment/abb-t7-flange-for-compartment-door-max-distance-164mm-f24aded6f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-flange-for-compartment-door-max-distance-164mm-f24aded6f1.json"
+    },
+    {
+      "id": "abb-t7-flange-for-the-rotary-handle-e272702d65",
+      "name": "T7 - Flange for the rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0193",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-flange-for-the-rotary-handle-e272702d65",
+      "recordPath": "equipment/abb-t7-flange-for-the-rotary-handle-e272702d65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-flange-for-the-rotary-handle-e272702d65.json"
+    },
+    {
+      "id": "abb-t7-reduced-flange-for-the-compartment-door-2e000bfcc0",
+      "name": "T7 - Reduced flange for the compartment door",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0194",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-reduced-flange-for-the-compartment-door-2e000bfcc0",
+      "recordPath": "equipment/abb-t7-reduced-flange-for-the-compartment-door-2e000bfcc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-reduced-flange-for-the-compartment-door-2e000bfcc0.json"
+    },
+    {
+      "id": "abb-t7-rotary-handle-540cb8d2b9",
+      "name": "T7 - Rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0195",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-rotary-handle-540cb8d2b9",
+      "recordPath": "equipment/abb-t7-rotary-handle-540cb8d2b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-rotary-handle-540cb8d2b9.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-fccual-4x240-44bbe320c8",
+      "name": "T7 3p 4p FCCuAL 4x240",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0107",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-fccual-4x240-44bbe320c8",
+      "recordPath": "equipment/abb-t7-3p-4p-fccual-4x240-44bbe320c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-fccual-4x240-44bbe320c8.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-fixed-ef-es-47ced11d33",
+      "name": "T7 3p 4p Fixed EF ES",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0108",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-fixed-ef-es-47ced11d33",
+      "recordPath": "equipment/abb-t7-3p-4p-fixed-ef-es-47ced11d33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-fixed-ef-es-47ced11d33.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-fixed-withdrawable-with-interlock-f91d7a672f",
+      "name": "T7 3p 4p Fixed/withdrawable with interlock",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0112",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-fixed-withdrawable-with-interlock-f91d7a672f",
+      "recordPath": "equipment/abb-t7-3p-4p-fixed-withdrawable-with-interlock-f91d7a672f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-fixed-withdrawable-with-interlock-f91d7a672f.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-withdrawable-rh-rv-ef-a7ca898b3c",
+      "name": "T7 3p 4p Withdrawable RH RV EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0109",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-withdrawable-rh-rv-ef-a7ca898b3c",
+      "recordPath": "equipment/abb-t7-3p-4p-withdrawable-rh-rv-ef-a7ca898b3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-withdrawable-rh-rv-ef-a7ca898b3c.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-withdrawable-with-rotary-handle-rh-rv-ef-dbc0bc2ac2",
+      "name": "T7 3p 4p Withdrawable with rotary handle RH RV EF",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0111",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-withdrawable-with-rotary-handle-rh-rv-ef-dbc0bc2ac2",
+      "recordPath": "equipment/abb-t7-3p-4p-withdrawable-with-rotary-handle-rh-rv-ef-dbc0bc2ac2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-withdrawable-with-rotary-handle-rh-rv-ef-dbc0bc2ac2.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-with-rh-rv-db8a261245",
+      "name": "T7 3p 4p with RH RV",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0106",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-with-rh-rv-db8a261245",
+      "recordPath": "equipment/abb-t7-3p-4p-with-rh-rv-db8a261245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-with-rh-rv-db8a261245.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-with-lever-mechanism-fccua-2x240-f0e9434ecc",
+      "name": "T7 3p 4p with lever mechanism FCCuA 2x240",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0118",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-with-lever-mechanism-fccua-2x240-f0e9434ecc",
+      "recordPath": "equipment/abb-t7-3p-4p-with-lever-mechanism-fccua-2x240-f0e9434ecc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-with-lever-mechanism-fccua-2x240-f0e9434ecc.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-with-lever-mechanism-r-7bd44aed1a",
+      "name": "T7 3p 4p with lever mechanism R",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0116",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-with-lever-mechanism-r-7bd44aed1a",
+      "recordPath": "equipment/abb-t7-3p-4p-with-lever-mechanism-r-7bd44aed1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-with-lever-mechanism-r-7bd44aed1a.json"
+    },
+    {
+      "id": "abb-t7-3p-4p-with-rotary-handle-920f9c87ad",
+      "name": "T7 3p 4p with rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0117",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-4p-with-rotary-handle-920f9c87ad",
+      "recordPath": "equipment/abb-t7-3p-4p-with-rotary-handle-920f9c87ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-4p-with-rotary-handle-920f9c87ad.json"
+    },
+    {
+      "id": "abb-t7-3p-fixed-e4bc1863fb",
+      "name": "T7 3p Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-fixed-e4bc1863fb",
+      "recordPath": "equipment/abb-t7-3p-fixed-e4bc1863fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-fixed-e4bc1863fb.json"
+    },
+    {
+      "id": "abb-t7-3p-fixed-with-rotary-handle-dc6d3065c9",
+      "name": "T7 3p Fixed with rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0104",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-3p-fixed-with-rotary-handle-dc6d3065c9",
+      "recordPath": "equipment/abb-t7-3p-fixed-with-rotary-handle-dc6d3065c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-3p-fixed-with-rotary-handle-dc6d3065c9.json"
+    },
+    {
+      "id": "abb-t7-4p-fixed-9bb4f51b8e",
+      "name": "T7 4p Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-4p-fixed-9bb4f51b8e",
+      "recordPath": "equipment/abb-t7-4p-fixed-9bb4f51b8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-4p-fixed-9bb4f51b8e.json"
+    },
+    {
+      "id": "abb-t7-4p-fixed-with-rotary-handle-81bad5247e",
+      "name": "T7 4p Fixed with rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH000529R0105",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-4p-fixed-with-rotary-handle-81bad5247e",
+      "recordPath": "equipment/abb-t7-4p-fixed-with-rotary-handle-81bad5247e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-4p-fixed-with-rotary-handle-81bad5247e.json"
+    },
+    {
+      "id": "abb-t7-circuit-breaker-with-actuator-for-flange-handle-306ed37c4d",
+      "name": "T7 Circuit Breaker with Actuator for Flange Handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1092",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-circuit-breaker-with-actuator-for-flange-handle-306ed37c4d",
+      "recordPath": "equipment/abb-t7-circuit-breaker-with-actuator-for-flange-handle-306ed37c4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-circuit-breaker-with-actuator-for-flange-handle-306ed37c4d.json"
+    },
+    {
+      "id": "abb-t7-flange-handle-and-bell-crank-e703224648",
+      "name": "T7 Flange Handle and Bell Crank",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003P1101",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-flange-handle-and-bell-crank-e703224648",
+      "recordPath": "equipment/abb-t7-flange-handle-and-bell-crank-e703224648.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-flange-handle-and-bell-crank-e703224648.json"
+    },
+    {
+      "id": "abb-t7-flange-handle-bell-crank-acutator-assembly-fedd7922ad",
+      "name": "T7 Flange Handle, Bell Crank & Acutator Assembly",
+      "manufacturer": "ABB",
+      "drawingNumber": "2TSE730003R1091",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-flange-handle-bell-crank-acutator-assembly-fedd7922ad",
+      "recordPath": "equipment/abb-t7-flange-handle-bell-crank-acutator-assembly-fedd7922ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-flange-handle-bell-crank-acutator-assembly-fedd7922ad.json"
+    },
+    {
+      "id": "abb-t7-iii-f-t7-3-poles-fixed-18c4396678",
+      "name": "T7 III F - T7 3 poles Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0135",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-t7-3-poles-fixed-18c4396678",
+      "recordPath": "equipment/abb-t7-iii-f-t7-3-poles-fixed-18c4396678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-t7-3-poles-fixed-18c4396678.json"
+    },
+    {
+      "id": "abb-t7-iii-f-ef-down-extended-front-terminals-ef-down-f69b41aa5e",
+      "name": "T7 III F EF Down - Extended front terminals EF down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0136",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-ef-down-extended-front-terminals-ef-down-f69b41aa5e",
+      "recordPath": "equipment/abb-t7-iii-f-ef-down-extended-front-terminals-ef-down-f69b41aa5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-ef-down-extended-front-terminals-ef-down-f69b41aa5e.json"
+    },
+    {
+      "id": "abb-t7-iii-f-ef-up-extended-front-terminals-ef-up-321b7f0d47",
+      "name": "T7 III F EF Up - Extended front terminals EF up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0137",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-ef-up-extended-front-terminals-ef-up-321b7f0d47",
+      "recordPath": "equipment/abb-t7-iii-f-ef-up-extended-front-terminals-ef-up-321b7f0d47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-ef-up-extended-front-terminals-ef-up-321b7f0d47.json"
+    },
+    {
+      "id": "abb-t7-iii-f-es-down-spreaded-extended-front-terminals-es-down-0c3234ada6",
+      "name": "T7 III F ES Down - Spreaded extended front terminals ES down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0146",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-es-down-spreaded-extended-front-terminals-es-down-0c3234ada6",
+      "recordPath": "equipment/abb-t7-iii-f-es-down-spreaded-extended-front-terminals-es-down-0c3234ada6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-es-down-spreaded-extended-front-terminals-es-down-0c3234ada6.json"
+    },
+    {
+      "id": "abb-t7-iii-f-es-up-spreaded-extended-front-terminals-es-up-a51e66f304",
+      "name": "T7 III F ES Up - Spreaded extended front terminals ES up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0147",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-es-up-spreaded-extended-front-terminals-es-up-a51e66f304",
+      "recordPath": "equipment/abb-t7-iii-f-es-up-spreaded-extended-front-terminals-es-up-a51e66f304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-es-up-spreaded-extended-front-terminals-es-up-a51e66f304.json"
+    },
+    {
+      "id": "abb-t7-iii-f-fccual-down-front-terminals-for-cables-cual-down-935ec8f057",
+      "name": "T7 III F FCCuAl Down - Front terminals for cables CuAl down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0148",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-fccual-down-front-terminals-for-cables-cual-down-935ec8f057",
+      "recordPath": "equipment/abb-t7-iii-f-fccual-down-front-terminals-for-cables-cual-down-935ec8f057.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-fccual-down-front-terminals-for-cables-cual-down-935ec8f057.json"
+    },
+    {
+      "id": "abb-t7-iii-f-fccual-up-front-terminals-for-cables-cual-up-9ee314524e",
+      "name": "T7 III F FCCuAl Up - Front terminals for cables CuAl Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0149",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-fccual-up-front-terminals-for-cables-cual-up-9ee314524e",
+      "recordPath": "equipment/abb-t7-iii-f-fccual-up-front-terminals-for-cables-cual-up-9ee314524e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-fccual-up-front-terminals-for-cables-cual-up-9ee314524e.json"
+    },
+    {
+      "id": "abb-t7-iii-f-htc-down-high-insulating-terminal-cover-down-5769c736f7",
+      "name": "T7 III F HTC Down - High insulating terminal cover down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0150",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-htc-down-high-insulating-terminal-cover-down-5769c736f7",
+      "recordPath": "equipment/abb-t7-iii-f-htc-down-high-insulating-terminal-cover-down-5769c736f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-htc-down-high-insulating-terminal-cover-down-5769c736f7.json"
+    },
+    {
+      "id": "abb-t7-iii-f-htc-up-high-insulating-terminal-cover-up-2b1bbe1476",
+      "name": "T7 III F HTC Up - High insulating terminal cover up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0151",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-htc-up-high-insulating-terminal-cover-up-2b1bbe1476",
+      "recordPath": "equipment/abb-t7-iii-f-htc-up-high-insulating-terminal-cover-up-2b1bbe1476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-htc-up-high-insulating-terminal-cover-up-2b1bbe1476.json"
+    },
+    {
+      "id": "abb-t7-iii-f-ltc-down-low-insulating-terminal-cover-down-e0433a5111",
+      "name": "T7 III F LTC Down - low insulating terminal cover down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0152",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-ltc-down-low-insulating-terminal-cover-down-e0433a5111",
+      "recordPath": "equipment/abb-t7-iii-f-ltc-down-low-insulating-terminal-cover-down-e0433a5111.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-ltc-down-low-insulating-terminal-cover-down-e0433a5111.json"
+    },
+    {
+      "id": "abb-t7-iii-f-ltc-up-low-insulating-terminal-cover-up-ce919f8cd6",
+      "name": "T7 III F LTC Up - low insulating terminal cover up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0153",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-ltc-up-low-insulating-terminal-cover-up-ce919f8cd6",
+      "recordPath": "equipment/abb-t7-iii-f-ltc-up-low-insulating-terminal-cover-up-ce919f8cd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-ltc-up-low-insulating-terminal-cover-up-ce919f8cd6.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rh-down-rear-terminals-rh-down-039d51e947",
+      "name": "T7 III F RH Down - Rear terminals RH down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0138",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rh-down-rear-terminals-rh-down-039d51e947",
+      "recordPath": "equipment/abb-t7-iii-f-rh-down-rear-terminals-rh-down-039d51e947.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rh-down-rear-terminals-rh-down-039d51e947.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rh-down-rear-terminals-rh-orientable-down-29201576aa",
+      "name": "T7 III F RH Down - Rear terminals RH orientable down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0139",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rh-down-rear-terminals-rh-orientable-down-29201576aa",
+      "recordPath": "equipment/abb-t7-iii-f-rh-down-rear-terminals-rh-orientable-down-29201576aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rh-down-rear-terminals-rh-orientable-down-29201576aa.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rh-up-rear-terminals-rh-orientable-up-57461a34d2",
+      "name": "T7 III F RH Up - Rear terminals RH orientable up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0140",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rh-up-rear-terminals-rh-orientable-up-57461a34d2",
+      "recordPath": "equipment/abb-t7-iii-f-rh-up-rear-terminals-rh-orientable-up-57461a34d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rh-up-rear-terminals-rh-orientable-up-57461a34d2.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rh-up-rear-terminals-rh-up-54c7692178",
+      "name": "T7 III F RH Up - Rear terminals RH up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0141",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rh-up-rear-terminals-rh-up-54c7692178",
+      "recordPath": "equipment/abb-t7-iii-f-rh-up-rear-terminals-rh-up-54c7692178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rh-up-rear-terminals-rh-up-54c7692178.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rv-down-rear-terminals-rv-down-82e6364e16",
+      "name": "T7 III F RV Down - Rear terminals RV down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0142",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rv-down-rear-terminals-rv-down-82e6364e16",
+      "recordPath": "equipment/abb-t7-iii-f-rv-down-rear-terminals-rv-down-82e6364e16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rv-down-rear-terminals-rv-down-82e6364e16.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rv-down-rear-terminals-rv-orientable-down-512255559a",
+      "name": "T7 III F RV Down - Rear terminals RV orientable down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0143",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rv-down-rear-terminals-rv-orientable-down-512255559a",
+      "recordPath": "equipment/abb-t7-iii-f-rv-down-rear-terminals-rv-orientable-down-512255559a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rv-down-rear-terminals-rv-orientable-down-512255559a.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rv-up-rear-terminals-rv-orientable-up-9437f501d6",
+      "name": "T7 III F RV Up - Rear terminals RV orientable up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0144",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rv-up-rear-terminals-rv-orientable-up-9437f501d6",
+      "recordPath": "equipment/abb-t7-iii-f-rv-up-rear-terminals-rv-orientable-up-9437f501d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rv-up-rear-terminals-rv-orientable-up-9437f501d6.json"
+    },
+    {
+      "id": "abb-t7-iii-f-rv-up-rear-terminals-rv-up-b28622ee21",
+      "name": "T7 III F RV Up - Rear terminals RV up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0145",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-rv-up-rear-terminals-rv-up-b28622ee21",
+      "recordPath": "equipment/abb-t7-iii-f-rv-up-rear-terminals-rv-up-b28622ee21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-rv-up-rear-terminals-rv-up-b28622ee21.json"
+    },
+    {
+      "id": "abb-t7-iii-f-with-rhd-fixed-with-rotary-handle-ac1f08cd52",
+      "name": "T7 III F with RHD - Fixed with rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0154",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-f-with-rhd-fixed-with-rotary-handle-ac1f08cd52",
+      "recordPath": "equipment/abb-t7-iii-f-with-rhd-fixed-with-rotary-handle-ac1f08cd52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-f-with-rhd-fixed-with-rotary-handle-ac1f08cd52.json"
+    },
+    {
+      "id": "abb-t7-iii-w-t7-3-poles-withdrawable-9442748ea8",
+      "name": "T7 III W - T7 3 poles Withdrawable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0157",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-t7-3-poles-withdrawable-9442748ea8",
+      "recordPath": "equipment/abb-t7-iii-w-t7-3-poles-withdrawable-9442748ea8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-t7-3-poles-withdrawable-9442748ea8.json"
+    },
+    {
+      "id": "abb-t7-iii-w-front-terminals-down-b0731405b8",
+      "name": "T7 III W Front terminals Down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0155",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-front-terminals-down-b0731405b8",
+      "recordPath": "equipment/abb-t7-iii-w-front-terminals-down-b0731405b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-front-terminals-down-b0731405b8.json"
+    },
+    {
+      "id": "abb-t7-iii-w-front-terminals-up-bb0a20b42a",
+      "name": "T7 III W Front terminals Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0156",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-front-terminals-up-bb0a20b42a",
+      "recordPath": "equipment/abb-t7-iii-w-front-terminals-up-bb0a20b42a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-front-terminals-up-bb0a20b42a.json"
+    },
+    {
+      "id": "abb-t7-iii-w-rh-down-rear-terminal-rh-down-43a9e934ba",
+      "name": "T7 III W RH Down - Rear terminal RH Down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0158",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-rh-down-rear-terminal-rh-down-43a9e934ba",
+      "recordPath": "equipment/abb-t7-iii-w-rh-down-rear-terminal-rh-down-43a9e934ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-rh-down-rear-terminal-rh-down-43a9e934ba.json"
+    },
+    {
+      "id": "abb-t7-iii-w-rh-up-rear-terminal-rh-up-70d74a8049",
+      "name": "T7 III W RH Up - Rear terminal RH Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0159",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-rh-up-rear-terminal-rh-up-70d74a8049",
+      "recordPath": "equipment/abb-t7-iii-w-rh-up-rear-terminal-rh-up-70d74a8049.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-rh-up-rear-terminal-rh-up-70d74a8049.json"
+    },
+    {
+      "id": "abb-t7-iii-w-rv-down-rear-terminals-rv-down-4c69abfc80",
+      "name": "T7 III W RV Down - Rear terminals RV Down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0160",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-rv-down-rear-terminals-rv-down-4c69abfc80",
+      "recordPath": "equipment/abb-t7-iii-w-rv-down-rear-terminals-rv-down-4c69abfc80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-rv-down-rear-terminals-rv-down-4c69abfc80.json"
+    },
+    {
+      "id": "abb-t7-iii-w-rv-up-rear-terminals-rv-up-4a13b28a48",
+      "name": "T7 III W RV Up - Rear terminals RV Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0161",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-rv-up-rear-terminals-rv-up-4a13b28a48",
+      "recordPath": "equipment/abb-t7-iii-w-rv-up-rear-terminals-rv-up-4a13b28a48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-rv-up-rear-terminals-rv-up-4a13b28a48.json"
+    },
+    {
+      "id": "abb-t7-iii-w-with-rhd-with-rotary-handle-3fa139a5fa",
+      "name": "T7 III W with RHD - With rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0162",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iii-w-with-rhd-with-rotary-handle-3fa139a5fa",
+      "recordPath": "equipment/abb-t7-iii-w-with-rhd-with-rotary-handle-3fa139a5fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iii-w-with-rhd-with-rotary-handle-3fa139a5fa.json"
+    },
+    {
+      "id": "abb-t7-iv-f-t7-4-poles-fixed-6a4a11fce9",
+      "name": "T7 IV F - T7 4 poles Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0163",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-t7-4-poles-fixed-6a4a11fce9",
+      "recordPath": "equipment/abb-t7-iv-f-t7-4-poles-fixed-6a4a11fce9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-t7-4-poles-fixed-6a4a11fce9.json"
+    },
+    {
+      "id": "abb-t7-iv-f-ef-down-extended-front-terminals-ef-down-9053215b3f",
+      "name": "T7 IV F EF Down - Extended front terminals EF down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0164",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-ef-down-extended-front-terminals-ef-down-9053215b3f",
+      "recordPath": "equipment/abb-t7-iv-f-ef-down-extended-front-terminals-ef-down-9053215b3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-ef-down-extended-front-terminals-ef-down-9053215b3f.json"
+    },
+    {
+      "id": "abb-t7-iv-f-ef-up-extended-front-terminals-ef-up-06b2ccec5f",
+      "name": "T7 IV F EF Up - Extended front terminals EF up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0165",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-ef-up-extended-front-terminals-ef-up-06b2ccec5f",
+      "recordPath": "equipment/abb-t7-iv-f-ef-up-extended-front-terminals-ef-up-06b2ccec5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-ef-up-extended-front-terminals-ef-up-06b2ccec5f.json"
+    },
+    {
+      "id": "abb-t7-iv-f-es-down-spreaded-extended-front-terminals-es-down-f44563cdc6",
+      "name": "T7 IV F ES Down - Spreaded extended front terminals ES down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0166",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-es-down-spreaded-extended-front-terminals-es-down-f44563cdc6",
+      "recordPath": "equipment/abb-t7-iv-f-es-down-spreaded-extended-front-terminals-es-down-f44563cdc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-es-down-spreaded-extended-front-terminals-es-down-f44563cdc6.json"
+    },
+    {
+      "id": "abb-t7-iv-f-es-up-spreaded-extended-front-terminals-es-up-256a3c5832",
+      "name": "T7 IV F ES Up - Spreaded extended front terminals ES up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0167",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-es-up-spreaded-extended-front-terminals-es-up-256a3c5832",
+      "recordPath": "equipment/abb-t7-iv-f-es-up-spreaded-extended-front-terminals-es-up-256a3c5832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-es-up-spreaded-extended-front-terminals-es-up-256a3c5832.json"
+    },
+    {
+      "id": "abb-t7-iv-f-fccual-down-front-terminals-for-cables-cual-down-d4e2b96e78",
+      "name": "T7 IV F FCCuAl Down - Front terminals for cables CuAl Down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0168",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-fccual-down-front-terminals-for-cables-cual-down-d4e2b96e78",
+      "recordPath": "equipment/abb-t7-iv-f-fccual-down-front-terminals-for-cables-cual-down-d4e2b96e78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-fccual-down-front-terminals-for-cables-cual-down-d4e2b96e78.json"
+    },
+    {
+      "id": "abb-t7-iv-f-fccual-up-front-terminals-for-cables-cual-up-d90405b4e8",
+      "name": "T7 IV F FCCuAl Up - Front terminals for cables CuAl Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0169",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-fccual-up-front-terminals-for-cables-cual-up-d90405b4e8",
+      "recordPath": "equipment/abb-t7-iv-f-fccual-up-front-terminals-for-cables-cual-up-d90405b4e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-fccual-up-front-terminals-for-cables-cual-up-d90405b4e8.json"
+    },
+    {
+      "id": "abb-t7-iv-f-htc-down-high-insulating-terminal-cover-down-10cc997a3f",
+      "name": "T7 IV F HTC Down - High insulating terminal cover down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0179",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-htc-down-high-insulating-terminal-cover-down-10cc997a3f",
+      "recordPath": "equipment/abb-t7-iv-f-htc-down-high-insulating-terminal-cover-down-10cc997a3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-htc-down-high-insulating-terminal-cover-down-10cc997a3f.json"
+    },
+    {
+      "id": "abb-t7-iv-f-htc-up-high-insulating-terminal-cover-up-23492587c3",
+      "name": "T7 IV F HTC Up - High insulating terminal cover up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0180",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-htc-up-high-insulating-terminal-cover-up-23492587c3",
+      "recordPath": "equipment/abb-t7-iv-f-htc-up-high-insulating-terminal-cover-up-23492587c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-htc-up-high-insulating-terminal-cover-up-23492587c3.json"
+    },
+    {
+      "id": "abb-t7-iv-f-ltc-down-low-insulating-terminal-cover-down-b9b812fcd5",
+      "name": "T7 IV F LTC Down - Low insulating terminal cover down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0181",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-ltc-down-low-insulating-terminal-cover-down-b9b812fcd5",
+      "recordPath": "equipment/abb-t7-iv-f-ltc-down-low-insulating-terminal-cover-down-b9b812fcd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-ltc-down-low-insulating-terminal-cover-down-b9b812fcd5.json"
+    },
+    {
+      "id": "abb-t7-iv-f-ltc-up-low-insulating-terminal-cover-up-c0b24e8dbe",
+      "name": "T7 IV F LTC Up - Low insulating terminal cover up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0182",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-ltc-up-low-insulating-terminal-cover-up-c0b24e8dbe",
+      "recordPath": "equipment/abb-t7-iv-f-ltc-up-low-insulating-terminal-cover-up-c0b24e8dbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-ltc-up-low-insulating-terminal-cover-up-c0b24e8dbe.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rh-down-rear-terminals-rh-down-8a212457a5",
+      "name": "T7 IV F RH Down - Rear terminals RH down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0170",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rh-down-rear-terminals-rh-down-8a212457a5",
+      "recordPath": "equipment/abb-t7-iv-f-rh-down-rear-terminals-rh-down-8a212457a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rh-down-rear-terminals-rh-down-8a212457a5.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rh-down-rear-terminals-rh-orientables-down-f461c082b1",
+      "name": "T7 IV F RH Down - Rear terminals RH orientables down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0171",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rh-down-rear-terminals-rh-orientables-down-f461c082b1",
+      "recordPath": "equipment/abb-t7-iv-f-rh-down-rear-terminals-rh-orientables-down-f461c082b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rh-down-rear-terminals-rh-orientables-down-f461c082b1.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rh-up-rear-terminals-rh-orientables-up-878e1adffa",
+      "name": "T7 IV F RH Up - Rear terminals RH orientables up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0172",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rh-up-rear-terminals-rh-orientables-up-878e1adffa",
+      "recordPath": "equipment/abb-t7-iv-f-rh-up-rear-terminals-rh-orientables-up-878e1adffa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rh-up-rear-terminals-rh-orientables-up-878e1adffa.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rh-up-rear-terminals-rh-up-ef10196707",
+      "name": "T7 IV F RH Up - Rear terminals RH up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0173",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rh-up-rear-terminals-rh-up-ef10196707",
+      "recordPath": "equipment/abb-t7-iv-f-rh-up-rear-terminals-rh-up-ef10196707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rh-up-rear-terminals-rh-up-ef10196707.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rv-down-rear-terminals-rv-down-a018b0fa96",
+      "name": "T7 IV F RV Down - Rear terminals RV down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0174",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rv-down-rear-terminals-rv-down-a018b0fa96",
+      "recordPath": "equipment/abb-t7-iv-f-rv-down-rear-terminals-rv-down-a018b0fa96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rv-down-rear-terminals-rv-down-a018b0fa96.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rv-down-rear-terminals-rv-orientables-down-f36cd2cd87",
+      "name": "T7 IV F RV Down - Rear terminals RV orientables down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0175",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rv-down-rear-terminals-rv-orientables-down-f36cd2cd87",
+      "recordPath": "equipment/abb-t7-iv-f-rv-down-rear-terminals-rv-orientables-down-f36cd2cd87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rv-down-rear-terminals-rv-orientables-down-f36cd2cd87.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rv-up-rear-terminals-rv-orientables-up-f70cd682cf",
+      "name": "T7 IV F RV Up - Rear terminals RV orientables up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0176",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rv-up-rear-terminals-rv-orientables-up-f70cd682cf",
+      "recordPath": "equipment/abb-t7-iv-f-rv-up-rear-terminals-rv-orientables-up-f70cd682cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rv-up-rear-terminals-rv-orientables-up-f70cd682cf.json"
+    },
+    {
+      "id": "abb-t7-iv-f-rv-up-rear-terminals-rv-up-54f3783c06",
+      "name": "T7 IV F RV Up - Rear terminals RV up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0177",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-rv-up-rear-terminals-rv-up-54f3783c06",
+      "recordPath": "equipment/abb-t7-iv-f-rv-up-rear-terminals-rv-up-54f3783c06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-rv-up-rear-terminals-rv-up-54f3783c06.json"
+    },
+    {
+      "id": "abb-t7-iv-f-with-rhd-with-rotary-handle-b143dfefd7",
+      "name": "T7 IV F with RHD - With rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0178",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-f-with-rhd-with-rotary-handle-b143dfefd7",
+      "recordPath": "equipment/abb-t7-iv-f-with-rhd-with-rotary-handle-b143dfefd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-f-with-rhd-with-rotary-handle-b143dfefd7.json"
+    },
+    {
+      "id": "abb-t7-iv-w-t7-4-poles-withdrawable-8f355a2ba4",
+      "name": "T7 IV W - T7 4 poles Withdrawable",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0183",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-t7-4-poles-withdrawable-8f355a2ba4",
+      "recordPath": "equipment/abb-t7-iv-w-t7-4-poles-withdrawable-8f355a2ba4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-t7-4-poles-withdrawable-8f355a2ba4.json"
+    },
+    {
+      "id": "abb-t7-iv-w-front-terminals-down-8e85ca5381",
+      "name": "T7 IV W Front terminals Down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0184",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-front-terminals-down-8e85ca5381",
+      "recordPath": "equipment/abb-t7-iv-w-front-terminals-down-8e85ca5381.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-front-terminals-down-8e85ca5381.json"
+    },
+    {
+      "id": "abb-t7-iv-w-front-terminals-up-18c325e393",
+      "name": "T7 IV W Front terminals Up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0185",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-front-terminals-up-18c325e393",
+      "recordPath": "equipment/abb-t7-iv-w-front-terminals-up-18c325e393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-front-terminals-up-18c325e393.json"
+    },
+    {
+      "id": "abb-t7-iv-w-rh-down-rear-terminals-rh-down-5f93941b59",
+      "name": "T7 IV W RH Down - Rear terminals RH down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0186",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-rh-down-rear-terminals-rh-down-5f93941b59",
+      "recordPath": "equipment/abb-t7-iv-w-rh-down-rear-terminals-rh-down-5f93941b59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-rh-down-rear-terminals-rh-down-5f93941b59.json"
+    },
+    {
+      "id": "abb-t7-iv-w-rh-up-rear-terminals-rh-up-b1277d0ece",
+      "name": "T7 IV W RH Up - Rear terminals RH up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0187",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-rh-up-rear-terminals-rh-up-b1277d0ece",
+      "recordPath": "equipment/abb-t7-iv-w-rh-up-rear-terminals-rh-up-b1277d0ece.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-rh-up-rear-terminals-rh-up-b1277d0ece.json"
+    },
+    {
+      "id": "abb-t7-iv-w-rv-down-rear-terminals-rv-down-5b35141f6b",
+      "name": "T7 IV W RV Down - Rear terminals RV down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0188",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-rv-down-rear-terminals-rv-down-5b35141f6b",
+      "recordPath": "equipment/abb-t7-iv-w-rv-down-rear-terminals-rv-down-5b35141f6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-rv-down-rear-terminals-rv-down-5b35141f6b.json"
+    },
+    {
+      "id": "abb-t7-iv-w-rv-up-rear-terminals-rv-up-746bfbd3fe",
+      "name": "T7 IV W RV Up - Rear terminals RV up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0189",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-rv-up-rear-terminals-rv-up-746bfbd3fe",
+      "recordPath": "equipment/abb-t7-iv-w-rv-up-rear-terminals-rv-up-746bfbd3fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-rv-up-rear-terminals-rv-up-746bfbd3fe.json"
+    },
+    {
+      "id": "abb-t7-iv-w-with-rhd-with-rotary-handle-5ed0a352cf",
+      "name": "T7 IV W with RHD - With rotary handle",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0190",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7-iv-w-with-rhd-with-rotary-handle-5ed0a352cf",
+      "recordPath": "equipment/abb-t7-iv-w-with-rhd-with-rotary-handle-5ed0a352cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7-iv-w-with-rhd-with-rotary-handle-5ed0a352cf.json"
+    },
+    {
+      "id": "abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-6766cb5b52",
+      "name": "T7D - T7DM PV Fixed 4P 1100V 2+2",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001002R0101",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-6766cb5b52",
+      "recordPath": "equipment/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-6766cb5b52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-6766cb5b52.json"
+    },
+    {
+      "id": "abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-fc-a8ae82ca38",
+      "name": "T7D - T7DM PV Fixed 4P 1100V 2+2 FC",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001002R0100",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-fc-a8ae82ca38",
+      "recordPath": "equipment/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-fc-a8ae82ca38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-fc-a8ae82ca38.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-t7m-3-poles-fixed-4d69c2eb84",
+      "name": "T7M F III - T7M 3 poles Fixed",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0196",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-t7m-3-poles-fixed-4d69c2eb84",
+      "recordPath": "equipment/abb-t7m-f-iii-t7m-3-poles-fixed-4d69c2eb84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-t7m-3-poles-fixed-4d69c2eb84.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-ef-down-extended-front-terminals-ef-down-5380c3b699",
+      "name": "T7M F III EF Down - Extended front terminals EF down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0201",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-ef-down-extended-front-terminals-ef-down-5380c3b699",
+      "recordPath": "equipment/abb-t7m-f-iii-ef-down-extended-front-terminals-ef-down-5380c3b699.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-ef-down-extended-front-terminals-ef-down-5380c3b699.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-ef-up-extended-front-terminals-ef-up-e51a482662",
+      "name": "T7M F III EF Up - Extended front terminals EF up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0202",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-ef-up-extended-front-terminals-ef-up-e51a482662",
+      "recordPath": "equipment/abb-t7m-f-iii-ef-up-extended-front-terminals-ef-up-e51a482662.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-ef-up-extended-front-terminals-ef-up-e51a482662.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-es-down-spreaded-extended-front-terminals-es-down-f65308e4d6",
+      "name": "T7M F III ES Down - Spreaded extended front terminals ES down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0197",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-es-down-spreaded-extended-front-terminals-es-down-f65308e4d6",
+      "recordPath": "equipment/abb-t7m-f-iii-es-down-spreaded-extended-front-terminals-es-down-f65308e4d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-es-down-spreaded-extended-front-terminals-es-down-f65308e4d6.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-es-up-spreaded-extended-front-terminals-es-up-c6a238cdb6",
+      "name": "T7M F III ES Up - Spreaded extended front terminals ES up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0198",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-es-up-spreaded-extended-front-terminals-es-up-c6a238cdb6",
+      "recordPath": "equipment/abb-t7m-f-iii-es-up-spreaded-extended-front-terminals-es-up-c6a238cdb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-es-up-spreaded-extended-front-terminals-es-up-c6a238cdb6.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-fccual-down-front-terminals-for-cables-cual-down-e44564e1fe",
+      "name": "T7M F III FCCuAl Down - Front terminals for cables CuAl down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0199",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-fccual-down-front-terminals-for-cables-cual-down-e44564e1fe",
+      "recordPath": "equipment/abb-t7m-f-iii-fccual-down-front-terminals-for-cables-cual-down-e44564e1fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-fccual-down-front-terminals-for-cables-cual-down-e44564e1fe.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-fccual-up-front-terminals-for-cables-cual-up-6ff253af2d",
+      "name": "T7M F III FCCuAl Up - Front terminals for cables CuAl up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0200",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-fccual-up-front-terminals-for-cables-cual-up-6ff253af2d",
+      "recordPath": "equipment/abb-t7m-f-iii-fccual-up-front-terminals-for-cables-cual-up-6ff253af2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-fccual-up-front-terminals-for-cables-cual-up-6ff253af2d.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-htc-down-high-insulating-terminal-cover-down-c27c2140b8",
+      "name": "T7M F III HTC Down - High insulating terminal cover down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0211",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-htc-down-high-insulating-terminal-cover-down-c27c2140b8",
+      "recordPath": "equipment/abb-t7m-f-iii-htc-down-high-insulating-terminal-cover-down-c27c2140b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-htc-down-high-insulating-terminal-cover-down-c27c2140b8.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-htc-up-high-insulating-terminal-cover-up-aaf3bad941",
+      "name": "T7M F III HTC Up - High insulating terminal cover up",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0212",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-htc-up-high-insulating-terminal-cover-up-aaf3bad941",
+      "recordPath": "equipment/abb-t7m-f-iii-htc-up-high-insulating-terminal-cover-up-aaf3bad941.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-htc-up-high-insulating-terminal-cover-up-aaf3bad941.json"
+    },
+    {
+      "id": "abb-t7m-f-iii-ltc-down-low-insulating-terminal-cover-down-f9f42e19aa",
+      "name": "T7M F III LTC Down - Low insulating terminal cover down",
+      "manufacturer": "ABB",
+      "drawingNumber": "1SDH001291R0213",
+      "formats": [
+        "ZIP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-t7m-f-iii-ltc-down-low-insulating-terminal-cover-down-f9f42e19aa",
+      "recordPath": "equipment/abb-t7m-f-iii-ltc-down-low-insulating-terminal-cover-down-f9f42e19aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-t7m-f-iii-ltc-down-low-insulating-terminal-cover-down-f9f42e19aa.json"
+    }
+  ]
+}

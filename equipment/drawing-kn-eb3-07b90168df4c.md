@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/Konnect-It/KN-EB3.DWG, a
 
 A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
 
-In a substation relay panel, numbered terminals connect the switchyard cables to the protection and control equipment.
+For example, in a field-terminal row that needs a defined end and service access, use the KN-EB3 reference to coordinate strip end, fastening access and adjacent marking. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The acquired source archive contains Other PLC Products/Konnect-It/KN-EB3.DWG, a 147,936-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. This accessory outline does not establish the geometry or load capacity of the complete supporting rail assembly. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

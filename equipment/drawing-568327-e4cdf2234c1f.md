@@ -32,7 +32,7 @@ The acquired source archive contains Enclosures and Wiring/Cable Entry/568327.DW
 
 A cable gland or entry system secures and seals the place where cables enter an enclosure, according to the selected product's design.
 
-In a substation marshalling cabinet, it provides an organised cable entry through the enclosure wall or gland plate.
+When placing 568327 in a cable entry on an electrical enclosure, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Coordinate the entry position with cable bend room, nearby fixings and access to the inside face. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Enclosures and Wiring/Cable Entry/568327.DWG, a 5,451,606-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. The entry outline does not confirm sealing performance for the chosen cable or finished enclosure. Use the original drawing annotations and current installation instructions to confirm units, revision and service space.
 

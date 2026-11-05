@@ -32,7 +32,7 @@ The acquired source archive contains Other PLC Products/DINnectors/Disconnect Te
 
 A disconnect terminal provides a wire connection that can be opened at a defined point for the selected testing or isolation arrangement.
 
-In a substation relay panel, it can provide an identified separation point in an auxiliary measurement or control circuit.
+When placing DN-DIS4L12 in a rail-mounted terminal strip, import the original file into the project model and establish the installation orientation before positioning adjacent equipment. Check conductor approach, screwdriver access and identification space before fixing the next device. Compare the selected item with its complete manufacturer assembly before issuing a fabrication layout.
 
 The acquired source archive contains Other PLC Products/DINnectors/Disconnect Terminal Blocks/DN-DIS4L12.dwg, a 182,429-byte DWG native file. Its file signature and SHA-256 were checked against the held original. Native non-text geometry was also compared to identify repeated mechanical outlines. A terminal drawing does not establish the circuit connection or the current permitted for a complete terminal strip. Use the original drawing annotations and current installation instructions to confirm units, revision and service space. Additional verified grouped archive paths: Other PLC Products/DINnectors/Disconnect Terminal Blocks/DN-DIS4L12MN.dwg; Other PLC Products/DINnectors/Disconnect Terminal Blocks/DN-DIS4L24MN.dwg. These paths retain their own archive and native checksums in the file evidence.
 

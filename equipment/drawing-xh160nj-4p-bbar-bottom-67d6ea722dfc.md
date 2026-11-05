@@ -32,7 +32,7 @@ This set uses the exact filename stem XH160NJ-4P-BBAR. Its views are stored in T
 
 A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
 
-In a substation, the feeder breaker opens when the protection system detects a fault on the outgoing circuit.
+When updating a panel drawing for XH160NJ-4P-BBAR, insert the front DWG for the panel elevation, then compare the bottom and top views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
 
 This set uses the exact filename stem XH160NJ-4P-BBAR. Its views are stored in Tembreak 1/Terminal Bars. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 

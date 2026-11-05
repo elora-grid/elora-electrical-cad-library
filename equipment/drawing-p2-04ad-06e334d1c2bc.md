@@ -32,7 +32,7 @@ The verified native member is PLC Families/P2000/P2-04AD.dwg. Its identity was c
 
 An analogue input module measures changing signals, such as a sensor voltage or current, and gives the controller a numerical reading.
 
-In a microgrid control panel, it can read a temperature transmitter and report how hot the generator cooling system is.
+For example, in a process-control panel receiving transmitter signals, use the P2-04AD reference to coordinate field-signal terminals, module removal and the controller connection. Show the neighbouring equipment and the connection route so the installer can understand the intended arrangement.
 
 The verified native member is PLC Families/P2000/P2-04AD.dwg. Its identity was checked against the acquired manufacturer archive. Coordinate the station hardware with its terminal approach and document the position of each module in the panel schedule. The drawing is a mechanical coordination reference, not a circuit design or certification record.
 

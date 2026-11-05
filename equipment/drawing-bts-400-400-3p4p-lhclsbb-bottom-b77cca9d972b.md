@@ -32,7 +32,7 @@ This set uses the exact filename stem BTS-400\_400-3P4P-LHclsbb. Its views are s
 
 A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
 
-In a microgrid switchroom, a transfer assembly can change selected loads from the incoming network to a standby generator when the designed conditions are met.
+When updating a panel drawing for BTS-400 400-3P4P-LHclsbb, insert the front DWG for the panel elevation, then compare the bottom views before locating the terminal connections. Retain the original filenames in the drawing register so a later revision can be matched to this set.
 
 This set uses the exact filename stem BTS-400\_400-3P4P-LHclsbb. Its views are stored in Tembreak 1/BTS. Keep these views together when coordinating the breaker outline and its terminal orientation; a different pole or connection suffix identifies a different drawing set.
 

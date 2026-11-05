@@ -12,7 +12,7 @@ ESD-403 louvre drawing set for wall-opening and frame coordination. DWG details 
 - Access: direct
 - Checked: 2026-10-29
 
-Download the originals from Greenheck. The matched drawing set contains a reproduction restriction and is not hosted or previewed here.
+1 original file is available to download here. Manufacturer sources and revisions are listed below. Other files remain available from their original sources.
 Global source discovery; confirm local product availability, electrical configuration and approvals with the manufacturer.
 Confirm selected size, mounting orientation, revision and installation clearances against the manufacturer installation documents. CAD geometry is not a substitute for operating or maintenance clearances.
 
@@ -24,10 +24,10 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Part number: ESD-403
 - Listed file formats: DWG, RFA, ZIP
 - Listed files: 2
-- Available previews: Manufacturer source / drawing request
+- Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -78,15 +78,19 @@ Related GA references provide equipment context; a related category does not est
 - Format: ZIP
 - Purpose: Revit family archive
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10012/ESD-403_LOD200.zip)
-- Site download: unavailable; use the official source or Request CAD on the equipment page.
-- Redistribution: restricted
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-esd-403-louvers/greenheck-esd-403-lod200-zip)
+- Redistribution: unknown
 - Original SHA-256: b6b723671d61e3775d2819fd93e70e0afda5b3951da590df3165b88dfa6e3285
 - Original bytes: 1131420
 - Revision: Not recorded
 - Retrieved: 2026-10-29
-- Rights review: The official louvre DWG title block contains an express proprietary/reproduction restriction. Keep the matched DWG/Revit set at the publisher; local hosting and derived previews are not approved.
-- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
-- [Rights evidence](https://www.greenheck.com/)
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10012/ESD-403_LOD200.zip)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10012/ESD-403_LOD200.zip)
+- Delivery: original; ZIP; 1131420 bytes
+- Delivery SHA-256: b6b723671d61e3775d2819fd93e70e0afda5b3951da590df3165b88dfa6e3285
 
 <details>
 <summary>Archive members</summary>

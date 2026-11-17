@@ -31,7 +31,7 @@ The supplied configuration is “XT6 4p Withdrawable HTC top”. Keep those fram
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1421\_XT6\_4p\_Withdrawable\_HTC\_top.stp revision A for the supp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-4p-withdrawable-htc-top-58ab7fc7c2)
+
+- 1SDH002065A1421\_XT6\_4p\_Withdrawable\_HTC\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1421\_XT6\_4p\_Withdrawable\_HTC\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1421\_XT6\_4p\_Withdrawable\_HTC\_top.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1421\_XT6\_4p\_Withdrawable\_HTC\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1421&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-4p-withdrawable-htc-top-58ab7fc7c2/7a1da776f8cd51add788-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7a1da776f8cd51add78837bba56dfdf882f6045d3b8de40887296aba8ea41571
 - Original bytes: 4110044

@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT1 3p PLUG-IN PS 100mmx48mm UP; ABB document 1SDH
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0064\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_PS\_100mmx48mm\_SUP.stp fo
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt1-3p-plug-in-ps-100mmx48mm-up-e792da78)
+
+- 1SDH001295R0064\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_PS\_100mmx48mm\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0064\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_PS\_100mmx48mm\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0064\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_PS\_100mmx48mm\_SUP.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0064\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_PS\_100mmx48mm\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0064&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-3p-plug-in-ps-100mmx48mm-up-e792da78/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b129e477fd659009358d187d27f88d37c150bc275d49a2c77692d40365100d76
 - Original bytes: 50370

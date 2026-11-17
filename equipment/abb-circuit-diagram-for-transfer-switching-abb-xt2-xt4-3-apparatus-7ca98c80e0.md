@@ -30,7 +30,7 @@ The supplied configuration is “Circuit diagram for transfer switching - ABB XT
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use ABB\_SZR\_3xXT2\_XT4.dwg revision - for editable DWG drawing geometry. Keep 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-3-apparatus-7ca98c80e0)
+
+- ABB\_SZR\_3xXT2\_XT4.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ABB\_SZR\_3xXT2\_XT4.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### ABB\_SZR\_3xXT2\_XT4.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ABB\_SZR\_3xXT2\_XT4.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3905&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-3-apparatus-7ca98c80e0/5739392714c394de8777-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 5739392714c394de8777b7da204f76165cb6b7603f92348e2d338ec12835bcb6
 - Original bytes: 367975

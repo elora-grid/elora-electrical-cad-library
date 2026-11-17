@@ -32,7 +32,7 @@ Use the manufacturer configuration named XT4 3p FIXED DIN RAIL.
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use 1SDH001295R0552.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-xt4-3p-fixed-din-rail-b40b93ae6a)
+
+- 1SDH001295R0552.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1SDH001295R0552.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0552.stp
@@ -113,7 +121,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0552.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0552&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt4-3p-fixed-din-rail-b40b93ae6a/abb-2d90bda8c3d79fafbddd-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e3e30acb52742bd1080f43d678e2457ae610d350024c3931b3a93a01a210d210
 - Original bytes: 196298

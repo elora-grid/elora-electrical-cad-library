@@ -29,7 +29,7 @@ Use the manufacturer configuration named LIGHTING CONTACTOR TYPE 1 ENCLOSED (55-
 - Available previews: 2 drawing previews
 - Recorded revisions: F
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC911028D0201.dwg (revision F) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-lighting-contactor-type-1-enclosed-55-213300s1-25f291366b)
+
+- 1SQC911028D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC911028D0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SQC911028D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC911028D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC911028D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC911028D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=F)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-lighting-contactor-type-1-enclosed-55-213300s1-25f291366b/abb-ed027d97c830dd51ff1d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: cac829c383db327a8d06d6db266c2ac5e5eb5d41ac812926d36431d23cd20fc5
 - Original bytes: 408827

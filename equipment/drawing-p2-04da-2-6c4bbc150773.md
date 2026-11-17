@@ -26,7 +26,7 @@ The verified native member is PLC Families/P2000/P2-04DA-2.DWG. Its identity was
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -88,6 +88,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 2e745fcc300c6280505925d4bf3a66a00e49525cff356a1d84fd7f9dc62df8a3
 - Containing archive SHA-256: a2d671d88a315ff0f83a66009757f8477af13778fbb647e5331ba12253ec59d5
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/p2000.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-p2-04da-2-6c4bbc150773)
+
+- p2000.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

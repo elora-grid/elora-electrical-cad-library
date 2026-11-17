@@ -34,7 +34,7 @@ E6.2 3D Drawing Emax 2
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,14 @@ Use 1SDH001252R0255.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-e6-2-iv-fs-f-ip30-protection-for-switchg-b96cac6fa6)
+
+- 1SDH001252R0255.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0255.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0255.stp
@@ -115,7 +123,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0255.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0255&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-e6-2-iv-fs-f-ip30-protection-for-switchg-b96cac6fa6/abb-a683ac35fda754e8d69a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2f20c1cf422eae619bc2cdabfec38f5d780484d9590039e9a0e4c1225d6b0ba2
 - Original bytes: 126933

@@ -29,11 +29,11 @@ The supplied configuration is “07LYJ135\_20.40”. Keep those frame, mounting 
 - Motor drawing designation (07LYJ135): STD HORZ 213-5TC TENV 307M INVERTER (THRU-SHAFT ENCODER)
 - Manufacturer reference: 07LYJ135
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 7
+- Listed files: 8
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,20 @@ Use 07LYJ135\_20.40.dwg revision E for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-07lyj135-20-40-dwg-2d-autocad-dwg-2000-5defa9193d)
+
+- 07LYJ135\_20.40.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 07LYJ135\_20.40.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 07LYJ135.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 07LYJ135\_20.40.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 07LYJ135\_20.40.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 07LYJ135\_20.40.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 07LYJ135\_20.40.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 07LYJ135\_20.40.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -226,5 +240,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYJ135_20.40&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; SLDPRT; 1581568 bytes
 - Delivery SHA-256: 1b3b92841615a193cbb3616d2603c4743c01408860a34b1bb1058731d1d65c39
+
+### 07LYJ135\_20.40.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 07LYJ135\_20.40, revision E. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYJ135_20.40&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=E)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: E
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

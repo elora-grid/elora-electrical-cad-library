@@ -30,7 +30,7 @@ The supplied configuration is “E6.2 3-4p Withdrawable HR”. Keep those frame,
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 1SDH001060R0105\_1DR\_001\_08\_1SDH001060R0105\_1DR\_001\_08\_TN\_E6.2\_W\_I
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-3-4p-withdrawable-hr-e261ae24ea)
+
+- 1SDH001060R0105\_1DR\_001\_08\_1SDH001060R0105\_1DR\_001\_08\_TN\_E6.2\_W\_III\_IV\_TERM\_H.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

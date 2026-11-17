@@ -32,7 +32,7 @@ DS202CR 2D CAD Drawing
 - Available previews: 2 drawing previews
 - Recorded revisions: A, C
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -85,6 +85,15 @@ Use 9AKK108467A0592.dwg (revision A) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-ds202cr-rcbo-2p-37ba976abd)
+
+- 9AKK108467A0592.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 9AKK108467A0592.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 9AKK108467A0585.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK108467A0592.dwg
@@ -111,7 +120,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK108467A0592.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A0592&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ds202cr-rcbo-2p-37ba976abd/abb-4912cf785cad5e6f8ebd-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 90a0a84f9bb6ac9815982ab2c4e7cf37311a993a413145d3d7b8d57194082da5
 - Original bytes: 440693

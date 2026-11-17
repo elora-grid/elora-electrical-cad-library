@@ -30,7 +30,7 @@ Original DWG drawing for OXEC22\_1SCC307764F0201.dwg; ABB document OXEC22\_1SCC3
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -73,6 +73,13 @@ This source-only entry identifies OXEC22\_1SCC307764F0201.dwg, manufacturer docu
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-oxec22-1scc307764f0201-dwg-caca0bd5)
+
+- OXEC22\_1SCC307764F0201.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -31,11 +31,11 @@ The supplied configuration is “35LYT995\_13.84”. Keep those frame, mounting 
 - Model envelope: 35LYT995\_14.84.step: 376.8 × 179 × 233.1 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 35LYT995
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 11
+- Listed files: 13
 - Available previews: 3 drawing previews; 2 interactive model variants
 - Recorded revisions: H
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -104,6 +104,25 @@ Use 35LYT995\_13.84.dwg revision H for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lyt995-13-84-dwg-2d-autocad-dwg-2000-c8c397a1e9)
+
+- 35LYT995\_13.84.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYT995\_13.84.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 35LYT995.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYT995\_13.84.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYT995\_14.84.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYT995\_14.84.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 35LYT995\_14.84.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYT995\_13.84.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYT995\_13.84.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYT995\_14.84.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYT995\_14.84.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYT995\_13.84.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 35LYT995\_14.84.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -315,5 +334,29 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_14.84&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=H)
 - Delivery: original; SLDPRT; 869610 bytes
 - Delivery SHA-256: c43d6c9ba8e58dd548c4406164b13e14a1038358ac30be29b810863294681bd7
+
+### 35LYT995\_13.84.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYT995\_13.84, revision H. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_13.84&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=H)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: H
+- Retrieved: Not acquired
+
+### 35LYT995\_14.84.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYT995\_14.84, revision H. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_14.84&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=H)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: H
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

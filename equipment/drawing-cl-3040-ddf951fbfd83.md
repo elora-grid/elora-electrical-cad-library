@@ -26,7 +26,7 @@ The acquired source archive contains Enclosures and Wiring/Wire Duct/Accessories
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 994dd17548baf19105f44238214f9b6530bc3ca7b20790bc511a11d4b81f5c29
 - Containing archive SHA-256: b8c7cf9f74ad957337812fc4939962a8e2a3b5cba7eddce13ea1c0b6c9c9eab3
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/wireduct.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-cl-3040-ddf951fbfd83)
+
+- wireduct.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

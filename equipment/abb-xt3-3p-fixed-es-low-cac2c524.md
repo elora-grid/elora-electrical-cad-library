@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT3 3p FIXED ES LOW; ABB document 1SDH001295R0407
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0407\_1PA\_001\_00\_XT3\_3P\_FIXED\_ES\_INF.stp for XT3 3p FIXED 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt3-3p-fixed-es-low-cac2c524)
+
+- 1SDH001295R0407\_1PA\_001\_00\_XT3\_3P\_FIXED\_ES\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0407\_1PA\_001\_00\_XT3\_3P\_FIXED\_ES\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0407\_1PA\_001\_00\_XT3\_3P\_FIXED\_ES\_INF.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0407\_1PA\_001\_00\_XT3\_3P\_FIXED\_ES\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0407&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-3p-fixed-es-low-cac2c524/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0f15ec169b73a5aab18111cac9f4dca68c25af154e1cde83a648209bb9ba788a
 - Original bytes: 90740

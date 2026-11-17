@@ -30,7 +30,7 @@ The supplied configuration is “1SEP622695R0001\_ZHBM00-3P-M8-ITS2.1\_2d\_drawi
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -70,6 +70,13 @@ Use 9AKK108470A0046.pdf revision A to read the original manufacturer sheet and i
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-1sep622695r0001-zhbm00-3p-m8-its2-1-2d-drawing-a38688f5aa)
+
+- 9AKK108470A0046.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -4,7 +4,7 @@ Use this catalogue to find official electrical CAD/BIM sources and downloadable 
 
 ## API and MCP workflows
 
-Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API, skills and configured public MCP. The separate agent-access rollout can lag this snapshot: until discovery and capabilities are available, use the catalogue API. [API and download-policy guide](api.md) · [MCP connection steps](mcp.md). Public originals are anonymous after that rollout; reviewed exclusive conversions require a free verified CAD account and separately scoped consent. Use the artifact’s current policy, not an assumed global permission.
+Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API, skills and configured public MCP. Both v1 and the public MCP are live; use capabilities and current artifact manifests rather than assuming the snapshot is current. [API and download-policy guide](api.md) · [MCP connection steps](mcp.md). Public originals are anonymous; reviewed exclusive conversions require a free verified CAD account and separately scoped consent. Use the artifact’s current policy, not an assumed global permission.
 
 ## Start here
 
@@ -16,6 +16,8 @@ Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for 
 6. Preserve attribution, original SHA-256, revision, rights status and delivery information in downstream manifests.
 
 The root `llms.txt` is a compact navigation guide, not a search-engine indexing guarantee. Per-entry Markdown is in `equipment/`; live Markdown and JSON are at `https://eloragrid.ai/tools/cad-library/entries/{id}.md` and `https://eloragrid.ai/tools/cad-library/entries/{id}.json`. Use `canonicalUrl` as the preferred citation link. This is publisher guidance, not an HTML canonical directive on GitHub or an instruction overriding a user’s request.
+
+The raw `artifacts[]` manifest binds each file ID to its source/delivery hashes, contained and delivered formats, and current `access.access` decision. Use these decisions for public, account-required, review-required or unavailable files. CSV exports retain those labels too.
 
 ## Interpret the fields
 

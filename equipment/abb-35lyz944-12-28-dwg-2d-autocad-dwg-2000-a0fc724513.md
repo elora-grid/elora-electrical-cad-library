@@ -31,11 +31,11 @@ The supplied configuration is “35LYZ944\_12.28”. Keep those frame, mounting 
 - Manufacturer reference: 35LYZ944\_14.16; 35LYZ944
 - Manufacturer reference: 35LYZ944
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 14
+- Listed files: 17
 - Available previews: 4 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -108,6 +108,29 @@ Use 35LYZ944\_12.28.dwg revision B for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513)
+
+- 35LYZ944\_12.28.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYZ944\_12.28.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYZ944.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYZ944\_12.28.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYZ944\_13.28.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYZ944\_13.28.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYZ944\_14.16.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYZ944\_14.16.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYZ944\_12.28.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYZ944\_12.28.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYZ944\_13.28.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYZ944\_14.16.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 35LYZ944\_14.16.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYZ944\_14.16.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYZ944\_12.28.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 35LYZ944\_13.28.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 35LYZ944\_14.16.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 35LYZ944\_12.28.dwg
@@ -134,7 +157,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYZ944\_12.28.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_12.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513/812c0a8b07ebd11413e1-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 812c0a8b07ebd11413e1f6c2fa6304ca9b3f342b4f4dd4297eb0efcf64d3b41b
 - Original bytes: 493707
@@ -210,7 +233,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYZ944\_13.28.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513/f24846318c316f7c5bec-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f24846318c316f7c5bec3202055a7aa722e8eb2643da41ef988031a13e9e615f
 - Original bytes: 487324
@@ -248,7 +271,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYZ944\_14.16.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513/46a8f1b29439081214cb-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 46a8f1b29439081214cb378f400485229f8b929d7ce22483b53cf612ebea00ad
 - Original bytes: 497340
@@ -375,5 +398,41 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; SLDPRT; 2387968 bytes
 - Delivery SHA-256: bfb38d6de49b49442f03bfaff6dd4f26c2ce2fede9df520cb90e2cde11f5c134
+
+### 35LYZ944\_12.28.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYZ944\_12.28, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_12.28&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
+
+### 35LYZ944\_13.28.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYZ944\_13.28, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_13.28&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
+
+### 35LYZ944\_14.16.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYZ944\_14.16, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

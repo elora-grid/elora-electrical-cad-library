@@ -26,7 +26,7 @@ Native project CAD can depend on symbols and footprints in the official reposito
 - Available previews: 12 drawing previews
 - Recorded revisions: cd3fd55c51e7
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -60,6 +60,27 @@ Available here: BRD, SCH. The individual filenames above distinguish the supplie
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/open-hardware-emonpi2)
+
+- emonPi\_v2.0.0\_CT\_ext.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonPi\_v2.0.0\_CT\_ext.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- fascias\_v2.0.0.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- fascias\_v2.0.1.zig1.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- fascias\_v2.1.0.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- fascias\_v2.1.0\_dxf\_prepare\_r2.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- back.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- bottom.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- frontA.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- frontB.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- top.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonPi\_v2.0.0.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonPi\_v2.0.0.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonPi\_v2.0.1.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonPi\_v2.0.1.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

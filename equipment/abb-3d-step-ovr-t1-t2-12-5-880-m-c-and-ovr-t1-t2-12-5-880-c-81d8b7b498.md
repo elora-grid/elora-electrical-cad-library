@@ -31,7 +31,7 @@ The supplied configuration is “STEP OVR T1-T2 12.5-880 M C and OVR T1-T2 12.5-
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,13 @@ Use 9AKK108472A1181\_en\_A\_3D\_STEP\_OVR\_T1\_T2\_12.5\_880\_M\_C.stp revision 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-3d-step-ovr-t1-t2-12-5-880-m-c-and-ovr-t1-t2-12-5-880-c-81d8b7b498)
+
+- 9AKK108472A1181\_en\_A\_3D\_STEP\_OVR\_T1\_T2\_12.5\_880\_M\_C.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

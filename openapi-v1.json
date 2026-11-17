@@ -1,0 +1,1484 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Elora CAD Library agent API",
+    "version": "1.0.0",
+    "description": "Find manufacturer files and download prepared formats. Public originals require no Elora signup. Only exclusive Elora conversions require a free verified account. Shared service capacity budgets are reported in RateLimit headers. Delivery admission reserves attachment sizes; it is not confirmed transfer or billing."
+  },
+  "servers": [
+    {
+      "url": "https://eloragrid.ai/api/cad/v1"
+    }
+  ],
+  "paths": {
+    "/items": {
+      "get": {
+        "operationId": "searchCad",
+        "summary": "Find manufacturer CAD; normalised part matches rank first",
+        "description": "Read only. Creates no account, conversion, project, charge or email. Customer price is zero.",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 160
+            },
+            "description": ""
+          },
+          {
+            "name": "manufacturer",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 100
+            },
+            "description": ""
+          },
+          {
+            "name": "part_number",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 100
+            },
+            "description": ""
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 80
+            },
+            "description": ""
+          },
+          {
+            "name": "format",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "maxLength": 32
+            },
+            "description": ""
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 99999,
+              "default": 1
+            },
+            "description": ""
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 20
+            },
+            "description": ""
+          },
+          {
+            "name": "catalogue_version",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$",
+              "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+            }
+          }
+        ],
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResults"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input; correct parameters",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown or unpublished artifact",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Published catalogue changed; restart pagination.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Capacity limit; obey Retry-After",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Temporarily unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/items/{id}": {
+      "get": {
+        "operationId": "getCadItem",
+        "summary": "Read exact item, provenance and artifact access",
+        "description": "Read only. Creates no account, conversion, project, charge or email. Customer price is zero.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "maxLength": 160,
+              "pattern": "^[a-z0-9_-]+$"
+            }
+          }
+        ],
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ItemDetail"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input; correct parameters",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown or unpublished artifact",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Capacity limit; obey Retry-After",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Temporarily unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/items/{id}/related": {
+      "get": {
+        "operationId": "getRelatedCad",
+        "summary": "Read evidenced relationships; collection references do not imply compatibility",
+        "description": "Read only. Creates no account, conversion, project, charge or email. Customer price is zero.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "maxLength": 160,
+              "pattern": "^[a-z0-9_-]+$"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 99999,
+              "default": 1
+            },
+            "description": ""
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 20
+            },
+            "description": ""
+          },
+          {
+            "name": "catalogue_version",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$",
+              "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+            }
+          }
+        ],
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RelatedPage"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input; correct parameters",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown or unpublished artifact",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Published catalogue changed; restart pagination.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Capacity limit; obey Retry-After",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Temporarily unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/items/{id}/artifacts": {
+      "get": {
+        "operationId": "listCadArtifacts",
+        "summary": "Read per-file access, geometry and available formats",
+        "description": "Read only. Creates no account, conversion, project, charge or email. Customer price is zero.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "maxLength": 160,
+              "pattern": "^[a-z0-9_-]+$"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 99999,
+              "default": 1
+            },
+            "description": ""
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 20
+            },
+            "description": ""
+          },
+          {
+            "name": "coverage",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "enum": [
+                "1"
+              ]
+            },
+            "description": "Include outstanding target-format requirements for the selected source page."
+          },
+          {
+            "name": "catalogue_version",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "pattern": "^[a-f0-9]{64}$",
+              "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+            }
+          }
+        ],
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ArtifactPage"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input; correct parameters",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown or unpublished artifact",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "409": {
+            "description": "Published catalogue changed; restart pagination.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Capacity limit; obey Retry-After",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Temporarily unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/deliveries": {
+      "post": {
+        "operationId": "prepareCadDownloads",
+        "summary": "Plan 1–50 independent downloads synchronously; safe to retry",
+        "description": "Read only. Creates no account, conversion, project, charge or email. Customer price is zero.",
+        "parameters": [],
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Delivery"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Invalid input; correct parameters",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown or unpublished artifact",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Capacity limit; obey Retry-After",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Temporarily unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        },
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Selection"
+              }
+            }
+          }
+        },
+        "x-idempotency": "No persistent state or packaging jobs. selection_id hashes the sorted set; current availability is revalidated on every request."
+      }
+    },
+    "/artifacts/{id}/download": {
+      "get": {
+        "operationId": "downloadCadArtifact",
+        "summary": "Download an already prepared artifact; never starts conversion",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "maxLength": 401,
+              "description": "artifact_id returned by the manifest; URL-encode it."
+            }
+          }
+        ],
+        "security": [],
+        "responses": {
+          "302": {
+            "description": "Redirect to approved public file or, for HTML clients, the fixed app account screen."
+          },
+          "401": {
+            "description": "Exclusive conversion requires free account. Request Accept: application/json for next_action.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Withdrawn or unknown file"
+          },
+          "409": {
+            "description": "Awaiting access review"
+          },
+          "429": {
+            "description": "Obey Retry-After"
+          },
+          "503": {
+            "description": "Storage or exclusive account delivery unavailable"
+          }
+        }
+      }
+    },
+    "/capabilities": {
+      "get": {
+        "operationId": "getCadCapabilities",
+        "summary": "Discover published counts, formats, catalogue identity, limits and access policy.",
+        "security": [],
+        "responses": {
+          "200": {
+            "description": "Capabilities of this deployed catalogue. Counts exclude held candidates.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Capabilities"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Capacity limit; obey Retry-After",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Temporarily unavailable",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Access": {
+        "type": "object",
+        "properties": {
+          "policy_version": {
+            "type": "integer",
+            "const": 1
+          },
+          "access": {
+            "enum": [
+              "public",
+              "cad_account",
+              "review_required",
+              "unavailable"
+            ]
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "policy_version",
+          "access",
+          "reason"
+        ]
+      },
+      "Item": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "manufacturer": {
+            "type": "string"
+          },
+          "part_number": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "kind": {
+            "enum": [
+              "product",
+              "family",
+              "library",
+              "configurator",
+              "drawing"
+            ]
+          },
+          "category": {
+            "type": "string"
+          },
+          "formats": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "configuration_note": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "canonical_url": {
+            "type": "string"
+          },
+          "match_reason": {
+            "type": "string",
+            "enum": [
+              "normalised_part_number",
+              "catalogue_text",
+              "browse"
+            ]
+          },
+          "part_number_basis": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "enum": [
+              "filename_reference",
+              "catalogue_reference",
+              null
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "name",
+          "manufacturer",
+          "part_number",
+          "kind",
+          "category",
+          "formats",
+          "configuration_note",
+          "canonical_url"
+        ]
+      },
+      "Artifact": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "artifact_id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "format": {
+            "type": "string"
+          },
+          "purpose": {
+            "type": "string"
+          },
+          "provenance": {
+            "enum": [
+              "manufacturer_source",
+              "prepared_conversion"
+            ]
+          },
+          "geometry_kind": {
+            "enum": [
+              "unknown",
+              "2d_drawing",
+              "brep_solid",
+              "surface_model",
+              "mesh",
+              "application_native",
+              "reference_document"
+            ]
+          },
+          "units": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "bytes": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "artifact_sha256": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "source_sha256": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "access": {
+            "$ref": "#/components/schemas/Access"
+          },
+          "download_url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "customer_price": {
+            "type": "integer",
+            "const": 0
+          },
+          "contained_formats": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "download_format": {
+            "type": "string"
+          },
+          "source_url": {
+            "type": "string"
+          },
+          "archive_member": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "revision": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "validation": {
+            "type": [
+              "object",
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "id",
+          "artifact_id",
+          "name",
+          "format",
+          "purpose",
+          "provenance",
+          "geometry_kind",
+          "units",
+          "bytes",
+          "artifact_sha256",
+          "source_sha256",
+          "access",
+          "download_url",
+          "customer_price"
+        ]
+      },
+      "Error": {
+        "type": "object",
+        "properties": {
+          "error": {
+            "type": "object",
+            "properties": {
+              "code": {
+                "type": "string"
+              },
+              "message": {
+                "type": "string"
+              },
+              "retryable": {
+                "type": "boolean"
+              },
+              "request_id": {
+                "type": "string"
+              },
+              "hint": {
+                "type": "string"
+              },
+              "next_action": {
+                "type": "object",
+                "properties": {
+                  "type": {
+                    "type": "string"
+                  },
+                  "url": {
+                    "type": "string"
+                  },
+                  "after_seconds": {
+                    "type": "integer"
+                  },
+                  "catalogue_version": {
+                    "type": "string",
+                    "pattern": "^[a-f0-9]{64}$",
+                    "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+                  }
+                }
+              }
+            },
+            "required": [
+              "code",
+              "message",
+              "retryable"
+            ]
+          }
+        },
+        "required": [
+          "error"
+        ]
+      },
+      "DeliveryResult": {
+        "type": "object",
+        "properties": {
+          "artifact_id": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "ready",
+              "authentication_required",
+              "artifact_pending",
+              "artifact_withdrawn",
+              "temporarily_unavailable"
+            ]
+          },
+          "format": {
+            "type": "string"
+          },
+          "access": {
+            "enum": [
+              "public",
+              "cad_account",
+              "review_required",
+              "unavailable"
+            ]
+          },
+          "download_url": {
+            "type": "string"
+          },
+          "next_action": {
+            "type": "object",
+            "properties": {
+              "type": {
+                "const": "sign_in"
+              },
+              "url": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "type",
+              "url"
+            ]
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "artifact_id",
+          "status"
+        ]
+      },
+      "SearchResults": {
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "const": "1"
+          },
+          "total": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "next_page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "needs_clarification": {
+            "type": "boolean"
+          },
+          "clarification": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "items": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Item"
+            }
+          },
+          "catalogue_version": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$",
+            "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+          }
+        },
+        "required": [
+          "schema_version",
+          "total",
+          "page",
+          "limit",
+          "next_page",
+          "needs_clarification",
+          "clarification",
+          "items",
+          "catalogue_version"
+        ]
+      },
+      "ItemDetail": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/Item"
+          },
+          {
+            "type": "object",
+            "properties": {
+              "description": {
+                "type": "string"
+              },
+              "source_url": {
+                "type": "string"
+              },
+              "source_checked_at": {
+                "type": "string"
+              },
+              "artifacts": {
+                "type": "array",
+                "maxItems": 100,
+                "items": {
+                  "$ref": "#/components/schemas/Artifact"
+                }
+              },
+              "artifacts_total": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "artifacts_url": {
+                "type": "string"
+              },
+              "related_url": {
+                "type": "string"
+              },
+              "customer_price": {
+                "const": 0
+              },
+              "source_evidence_url": {
+                "type": "string"
+              },
+              "source_publisher": {
+                "type": "string"
+              },
+              "catalogue_version": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$",
+                "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+              }
+            },
+            "required": [
+              "description",
+              "source_url",
+              "source_checked_at",
+              "artifacts",
+              "artifacts_total",
+              "artifacts_url",
+              "related_url",
+              "customer_price"
+            ]
+          }
+        ]
+      },
+      "ArtifactPage": {
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "const": "1"
+          },
+          "total": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "next_page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          },
+          "artifacts": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Artifact"
+            }
+          },
+          "coverage": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "source_file_id",
+                "targets"
+              ],
+              "properties": {
+                "source_file_id": {
+                  "type": "string"
+                },
+                "targets": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": [
+                      "format",
+                      "state",
+                      "artifact_id",
+                      "access"
+                    ],
+                    "properties": {
+                      "format": {
+                        "$ref": "#/components/schemas/TargetFormat"
+                      },
+                      "state": {
+                        "$ref": "#/components/schemas/CoverageState"
+                      },
+                      "artifact_id": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      "access": {
+                        "anyOf": [
+                          {
+                            "$ref": "#/components/schemas/Access"
+                          },
+                          {
+                            "type": "null"
+                          }
+                        ]
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "catalogue_version": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$",
+            "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+          }
+        },
+        "required": [
+          "schema_version",
+          "total",
+          "page",
+          "limit",
+          "next_page",
+          "artifacts",
+          "catalogue_version"
+        ]
+      },
+      "RelatedPage": {
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "const": "1"
+          },
+          "total": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "page": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "related": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "enum": [
+                    "source_collection_reference",
+                    "same_equipment_file",
+                    "revision_of",
+                    "documented_accessory",
+                    "family_member",
+                    "similar_item"
+                  ]
+                },
+                "basis": {
+                  "type": "string"
+                },
+                "evidence_urls": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "compatibility_claim": {
+                  "type": "boolean"
+                },
+                "item": {
+                  "$ref": "#/components/schemas/Item"
+                }
+              },
+              "required": [
+                "type",
+                "basis",
+                "evidence_urls",
+                "compatibility_claim",
+                "item"
+              ]
+            }
+          },
+          "catalogue_version": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$",
+            "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+          },
+          "next_page": {
+            "type": [
+              "integer",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "schema_version",
+          "total",
+          "page",
+          "limit",
+          "related",
+          "catalogue_version",
+          "next_page"
+        ]
+      },
+      "Selection": {
+        "type": "object",
+        "properties": {
+          "artifact_ids": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 50,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "maxLength": 401
+            }
+          }
+        },
+        "required": [
+          "artifact_ids"
+        ],
+        "additionalProperties": false
+      },
+      "Delivery": {
+        "type": "object",
+        "properties": {
+          "schema_version": {
+            "const": "1"
+          },
+          "selection_id": {
+            "type": "string"
+          },
+          "status": {
+            "const": "complete"
+          },
+          "results": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DeliveryResult"
+            }
+          },
+          "customer_price": {
+            "const": 0
+          },
+          "creates_account": {
+            "const": false
+          },
+          "starts_conversion": {
+            "const": false
+          },
+          "catalogue_version": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$",
+            "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+          }
+        },
+        "required": [
+          "schema_version",
+          "selection_id",
+          "status",
+          "results",
+          "customer_price",
+          "creates_account",
+          "starts_conversion",
+          "catalogue_version"
+        ]
+      },
+      "TargetFormat": {
+        "type": "string",
+        "enum": [
+          "DWG",
+          "DXF",
+          "PDF",
+          "SVG",
+          "STEP",
+          "IGES",
+          "SAT",
+          "STL",
+          "OBJ",
+          "GLB",
+          "IFC",
+          "RFA",
+          "RVT",
+          "SLDPRT",
+          "SLDASM",
+          "FCSTD",
+          "X_T",
+          "X_B",
+          "DGN",
+          "DWFX",
+          "JT",
+          "IPT",
+          "IAM",
+          "EDZ",
+          "EMA",
+          "EMP",
+          "EMS",
+          "KICAD_PCB",
+          "KICAD_SCH",
+          "BRD",
+          "SCH",
+          "SCAD",
+          "IES",
+          "LDT",
+          "CSV"
+        ]
+      },
+      "CoverageState": {
+        "type": "string",
+        "enum": [
+          "original_available",
+          "released_conversion",
+          "access_review_required",
+          "not_prepared",
+          "needs_authoring",
+          "needs_inspection",
+          "source_only",
+          "unavailable"
+        ]
+      },
+      "Capabilities": {
+        "type": "object",
+        "required": [
+          "schema_version",
+          "catalogue_version",
+          "published_items",
+          "formats",
+          "workflows",
+          "limits",
+          "public_account_required",
+          "exclusive_conversion_account_required",
+          "customer_price",
+          "starts_conversion",
+          "creates_account",
+          "asynchronous_delivery",
+          "webhooks",
+          "catalogue_change_recovery",
+          "guide"
+        ],
+        "properties": {
+          "schema_version": {
+            "const": "1"
+          },
+          "catalogue_version": {
+            "type": "string",
+            "pattern": "^[a-f0-9]{64}$",
+            "description": "Identity of the published catalogue. Pass it on subsequent pages; HTTP 409 requires restarting at page 1."
+          },
+          "published_items": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "formats": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "workflows": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "limits": {
+            "type": "object",
+            "required": [
+              "default_page_size",
+              "max_page_size",
+              "max_selection",
+              "max_selection_body_bytes"
+            ],
+            "properties": {
+              "default_page_size": {
+                "type": "integer"
+              },
+              "max_page_size": {
+                "type": "integer"
+              },
+              "max_selection": {
+                "type": "integer"
+              },
+              "max_selection_body_bytes": {
+                "type": "integer"
+              }
+            }
+          },
+          "public_account_required": {
+            "const": false
+          },
+          "exclusive_conversion_account_required": {
+            "const": true
+          },
+          "customer_price": {
+            "const": 0
+          },
+          "starts_conversion": {
+            "const": false
+          },
+          "creates_account": {
+            "const": false
+          },
+          "asynchronous_delivery": {
+            "const": false
+          },
+          "webhooks": {
+            "const": false
+          },
+          "catalogue_change_recovery": {
+            "type": "string"
+          },
+          "guide": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "security": []
+}

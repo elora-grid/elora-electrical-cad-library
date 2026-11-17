@@ -31,7 +31,7 @@ SpaceLogic Modbus Glass Touch Panel, Combo Bedside Panel with 9 buttons & Thermo
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -81,6 +81,14 @@ Use SLGM09BT07.dwg (revision 1.0) to insert the supplied editable drawing into y
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-slgm09bt07-file-2c710e76b3)
+
+- SLGM09BT07.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SLGM09BT07.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SLGM09BT07.dwg
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SLGM09BT07.dwg).
 - [Official source](https://download.se.com/files?p_Doc_Ref=SLGM09BT07_CAD&p_enDocType=CAD)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-slgm09bt07-file-2c710e76b3/se-b8656cc840b401b43241-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: fe8cb3e7489a24b0dcc8cefb0b7f5db05ceda97723316076289dd6a0515cb1f3
 - Original bytes: 832507

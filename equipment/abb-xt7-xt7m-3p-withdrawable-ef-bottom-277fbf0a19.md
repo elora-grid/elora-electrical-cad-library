@@ -31,7 +31,7 @@ The supplied configuration is “XT7-XT7M 3P Withdrawable EF bottom”. Keep tho
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1442\_XT7\_XT7M\_3P\_Withdrawable\_EF\_bottom.stp revision A for 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-xt7m-3p-withdrawable-ef-bottom-277fbf0a19)
+
+- 1SDH002065A1442\_XT7\_XT7M\_3P\_Withdrawable\_EF\_bottom.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1442\_XT7\_XT7M\_3P\_Withdrawable\_EF\_bottom.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1442\_XT7\_XT7M\_3P\_Withdrawable\_EF\_bottom.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1442\_XT7\_XT7M\_3P\_Withdrawable\_EF\_bottom.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1442&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-withdrawable-ef-bottom-277fbf0a19/93a0e5748c6f9e56d998-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 93a0e5748c6f9e56d998bd5df64070677fb7c149355d199e49a3aab7fd9be920
 - Original bytes: 1071682

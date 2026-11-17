@@ -34,7 +34,7 @@ The supplied configuration is “A1 2p PS 100mm UP”. Keep those frame, mountin
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001294R0022\_1PA\_001\_00\_A1\_2p\_PS\_100mm\_sup.stp revision A for the
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-a1-2p-ps-100mm-up-eef7507beb)
+
+- 1SDH001294R0022\_1PA\_001\_00\_A1\_2p\_PS\_100mm\_sup.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001294R0022\_1PA\_001\_00\_A1\_2p\_PS\_100mm\_sup.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001294R0088\_1PA\_001\_00\_A2\_2p\_PS\_100mm\_sup.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001294R0088\_1PA\_001\_00\_A2\_2p\_PS\_100mm\_sup.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001294R0022\_1PA\_001\_00\_A1\_2p\_PS\_100mm\_sup.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0022\_1PA\_001\_00\_A1\_2p\_PS\_100mm\_sup.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0022&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a1-2p-ps-100mm-up-eef7507beb/a4c3b7dce23edb4e1861-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a4c3b7dce23edb4e1861726a235df402e26220fe4551860c13fa9b16b5d563f1
 - Original bytes: 26907
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0088\_1PA\_001\_00\_A2\_2p\_PS\_100mm\_sup.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0088&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a1-2p-ps-100mm-up-eef7507beb/eff179fc6a19ff17db86-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: eff179fc6a19ff17db866f6f039e63ee33a657ee04e6e69c70cda7cfb8b39ae7
 - Original bytes: 26907

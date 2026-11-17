@@ -34,7 +34,7 @@ The supplied configuration is “XT3 4p PLUG-IN FCCu LOW”. Keep those frame, m
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001295R0528\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_INF.stp revision A f
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt3-4p-plug-in-fccu-low-48dd6026f7)
+
+- 1SDH001295R0528\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0528\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0529\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0529\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0528\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_INF.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0528\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0528&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-fccu-low-48dd6026f7/9074f272bb214076e101-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9074f272bb214076e101d423d2a8d08e2ac473468ab75ae795b684b367e679ee
 - Original bytes: 221403
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0529\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_FCCu\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0529&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-fccu-low-48dd6026f7/dc2c23d71be985d16baf-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dc2c23d71be985d16bafc487f7bb5119a83ce911c0b2ed936fc93cc36d9fe2d8
 - Original bytes: 220535

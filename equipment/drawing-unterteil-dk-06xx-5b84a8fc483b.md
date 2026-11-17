@@ -26,7 +26,7 @@ The acquired source archive contains ENYCASE\_DK\_Unterteile/Unterteil\_DK 06xx.
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -89,6 +89,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 1035a36e53efa915e6916a3ef3a3a16159374a0a55b096cc4740621a63613143
 - Containing archive SHA-256: ec87d16a9fb0cec76f3c989c46ad26722538b7b23dff4a57d9461f9ce1c4a539
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/HENSEL_ENYCASE_DK_KF_Unterteile.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-unterteil-dk-06xx-5b84a8fc483b)
+
+- HENSEL\_ENYCASE\_DK\_KF\_Unterteile.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Elora Grid official CAD discovery",
-    "version": "3.1.0",
+    "version": "3.2.0",
     "description": "Free read-only discovery of official CAD sources. Metadata, official publisher routes and direct-site official CAD downloads with recorded rights status for USA, Australia, UK and Europe."
   },
   "servers": [
@@ -11,10 +11,57 @@
     }
   ],
   "paths": {
+    "/tools/cad-library/artifacts/{record}": {
+      "get": {
+        "operationId": "listCadArtifactAccess",
+        "summary": "List exact files, provenance, formats and access decisions without signup or storage access",
+        "parameters": [
+          {
+            "name": "record",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 99999,
+              "default": 1
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 100,
+              "default": 50
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Versioned per-artifact access manifest, bounded by page/limit"
+          },
+          "400": {
+            "description": "Invalid pagination"
+          },
+          "404": {
+            "description": "Unknown or unpublished record"
+          }
+        }
+      }
+    },
     "/tools/cad-library/download/{record}/{file}": {
       "get": {
         "operationId": "downloadOfficialCad",
-        "summary": "Email registration required for CAD downloads; licences and delivery are recorded per file",
+        "summary": "Download public originals without signup; converted output access is reviewed per artifact",
         "parameters": [
           {
             "name": "record",
@@ -35,16 +82,16 @@
         ],
         "responses": {
           "302": {
-            "description": "Registered visitor: redirect to a five-minute signed attachment or official publisher route; use the stable site URL on later visits"
-          },
-          "307": {
-            "description": "Enter email at the returned location to receive a file-specific seven-day download link on screen and by email; the private browser cookie remains compatible"
+            "description": "Public artifact: redirect to a five-minute signed attachment or official publisher route; no email or account is required"
           },
           "404": {
-            "description": "Unknown file, explicitly restricted file or revoked publication"
+            "description": "Unknown file, invalid conversion source or revoked storage publication"
+          },
+          "409": {
+            "description": "Converted output awaits public-equivalence/exclusivity review; no storage URL is issued"
           },
           "503": {
-            "description": "Storage temporarily unavailable; use the official publisher URL"
+            "description": "Storage temporarily unavailable, or CAD account connections for exclusive outputs are not enabled; public originals remain independently available"
           }
         }
       }

@@ -28,7 +28,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -63,6 +63,15 @@ Available here: DWG, DXF, STP. The individual filenames above distinguish the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/europe-lovato-ffl700dp)
+
+- 2d\_FFL700DP.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2d\_FFL700DP.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 3d\_FFL700DP.stp: public (public\_original); delivered format STP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2d\_FFL700DP.dwg
@@ -90,7 +99,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2d\_FFL700DP.dwg).
 - [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_FFL700DP.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-ffl700dp/europe-lovato-ffl700dp-ea6c0ed76860-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f66711c44be48748e5bee7a59251ad0551d23f23957a928c478260c1262c858e
 - Original bytes: 67071

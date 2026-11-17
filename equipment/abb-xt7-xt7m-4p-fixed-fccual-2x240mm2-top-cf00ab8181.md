@@ -31,7 +31,7 @@ The supplied configuration is “XT7-XT7M 4p Fixed FCCuAl 2x240mm2 top”. Keep 
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1417\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_top.stp revision A 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-top-cf00ab8181)
+
+- 1SDH002065A1417\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1417\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_top.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1417\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_top.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1417\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1417&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-top-cf00ab8181/0acc31bc0b9476f8c4e5-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0acc31bc0b9476f8c4e50041ab5b131f301371487e359c6f2d832ca6d32db2ec
 - Original bytes: 1076775

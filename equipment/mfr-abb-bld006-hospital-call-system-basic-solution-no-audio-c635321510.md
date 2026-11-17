@@ -30,7 +30,7 @@ Tipico impianto chiamata ospedaliera con prodotti Clinos
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -81,6 +81,14 @@ Use 9AKK108471A8920.dwg (revision B) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-bld006-hospital-call-system-basic-solution-no-audio-c635321510)
+
+- 9AKK108471A8920.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 9AKK108471A8920.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK108471A8920.dwg
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK108471A8920.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A8920&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-bld006-hospital-call-system-basic-solution-no-audio-c635321510/abb-8b43d7d7565b70baa745-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 570f646ec83b72d012af0f85c6323d722a381ee6a91314ea8677169d6b738d3e
 - Original bytes: 1241319

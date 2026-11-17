@@ -26,7 +26,7 @@ The exact supplied files are ZAG10\_10.9.dwg. Use the listed geometry for the ma
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -93,6 +93,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: f50ab9b94c5c79f670b096d2acbdd9a2384d26634ee325a7341464c77be10731
 - Containing archive SHA-256: ad22ab2953f8d13dda67b44f4826aab67545a9808d69f21a5096e453357512aa
 - [Original publisher source](https://www.abtech-inc.com/downloads/129/zag_2d.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zag10-10-9-c88a293b6c20)
+
+- zag\_2d.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -29,7 +29,7 @@ Use the manufacturer configuration named NEMA SIZE 3, 4, 5 POLE(55-194089S1).
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC913435D0201.dwg (revision C) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-nema-size-3-4-5-pole-55-194089s1-f95a5306dc)
+
+- 1SQC913435D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC913435D0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SQC913435D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC913435D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC913435D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913435D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-nema-size-3-4-5-pole-55-194089s1-f95a5306dc/abb-e13b46e2c24616eda202-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 3741bea0f951bb4cf991d2e4943b90076db30ca1245ffcdff96f278851e99bf3
 - Original bytes: 173496

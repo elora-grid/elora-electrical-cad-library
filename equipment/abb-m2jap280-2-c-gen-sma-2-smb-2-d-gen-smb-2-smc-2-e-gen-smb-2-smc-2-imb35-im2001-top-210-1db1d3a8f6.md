@@ -30,7 +30,7 @@ The supplied configuration is “M2JAP280 2 (C-gen) SMA 2,SMB 2;(D-gen) SMB 2,SM
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 3GZH500228-6.pdf revision A to read the original manufacturer sheet and its 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-m2jap280-2-c-gen-sma-2-smb-2-d-gen-smb-2-smc-2-e-gen-smb-2-smc-2-imb35-im2001-top-210-1db1d3a8f6)
+
+- 3GZH500228-6.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -28,7 +28,7 @@ Manufacturer reference LINAM AR360 and LINAM AR Overhead AutoRANGER Fault Indica
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Using the LINAM AR360 and LINAM AR Overhead AutoRANGER Fault Indicators reference
 
@@ -61,6 +61,12 @@ The official source identifies Schweitzer Engineering Laboratories LINAM AR360 a
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/schweitzer-engineering-laboratories-linam-ar360-and-linam-ar-overhead-autoranger-fault-indicato-d21df6bb1d)
+
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

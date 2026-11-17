@@ -36,7 +36,7 @@ The supplied configuration is “XT3 4p PLUG-IN PS 100mmx48mm LOW”. Keep those
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -96,6 +96,18 @@ Use 1SDH001295R0544\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp re
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547)
+
+- 1SDH001295R0544\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0544\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0737\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0737\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0781\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_100mmx48mm\_.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0781\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_100mmx48mm\_.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0544\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp
@@ -122,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0544\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0544&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547/4c6d9e50eeeece7f8de2-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 4c6d9e50eeeece7f8de2328361df8535b138512e441bc483e4ba45d5b8dc28f4
 - Original bytes: 74913
@@ -160,7 +172,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0737\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0737&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547/64a2dde64fd32f598dd6-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 64a2dde64fd32f598dd667e20fd3a4b72bd08a48e4390d2212bd70daaafb965a
 - Original bytes: 74913
@@ -198,7 +210,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0781\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_100mmx48mm\_.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0781&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-ps-100mmx48mm-low-4eb0c0d547/adf4d1842a4218a5afb1-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: adf4d1842a4218a5afb10d43d20deebf7989b495b66cce31aa1d889952d5c61e
 - Original bytes: 74917

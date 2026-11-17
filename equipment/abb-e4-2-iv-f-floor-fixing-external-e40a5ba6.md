@@ -30,7 +30,7 @@ Original STEP 3D geometry for E4.2 IV F FLOOR FIXING EXTERNAL; ABB document 1SDH
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0199\_1PA\_001\_00\_E4.2\_IV\_F\_FLOOR\_FIXING\_EXTERNAL.stp for 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-iv-f-floor-fixing-external-e40a5ba6)
+
+- 1SDH001252R0199\_1PA\_001\_00\_E4.2\_IV\_F\_FLOOR\_FIXING\_EXTERNAL.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0199\_1PA\_001\_00\_E4.2\_IV\_F\_FLOOR\_FIXING\_EXTERNAL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0199\_1PA\_001\_00\_E4.2\_IV\_F\_FLOOR\_FIXING\_EXTERNAL.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0199\_1PA\_001\_00\_E4.2\_IV\_F\_FLOOR\_FIXING\_EXTERNAL.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0199&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-iv-f-floor-fixing-external-e40a5ba6/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a1612cf67e8e6e701a615e4a071b1db036ed3af8a66a41f5a009bf1cd6ddc110
 - Original bytes: 21284

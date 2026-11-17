@@ -30,7 +30,7 @@ The supplied configuration is “M2GAX315 2 (C-gen) MLA 2;(M-gen) MLA 2;IMB3/IM1
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 3GZH500031-1367.pdf revision B to read the original manufacturer sheet and i
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-m2gax315-2-c-gen-mla-2-m-gen-mla-2-imb3-im1001-top-na-d4697e242c)
+
+- 3GZH500031-1367.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

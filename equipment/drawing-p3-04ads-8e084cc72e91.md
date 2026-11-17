@@ -26,7 +26,7 @@ The verified native member is PLC Families/P3000/P3-04ADS.dwg. Its identity was 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -340,6 +340,41 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 79465a7769715fd0c725d07560639e3085cd33ba2dc2ff5c7c41f11a5c9b5a87
 - Containing archive SHA-256: ed6f7b177d85ad16fa26931a04cb0fa487077db158f6de9bf92751562b71a010
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/p3000pac.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-p3-04ads-8e084cc72e91)
+
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- p3000pac.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

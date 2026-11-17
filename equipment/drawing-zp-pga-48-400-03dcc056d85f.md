@@ -26,7 +26,7 @@ The acquired source archive contains Enclosures and Wiring/ZIPport PIC/ZP-PGA-48
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -86,6 +86,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 7f1f608ef64a3cb4e2b2b954533874fc8a2359953978c8186a3d61238155ff45
 - Containing archive SHA-256: a56a22fa860bec217cd79d79e1d52864bd81b241f29f6f4686e1396a9f282862
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/pic.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zp-pga-48-400-03dcc056d85f)
+
+- pic.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

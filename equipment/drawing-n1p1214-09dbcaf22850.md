@@ -26,7 +26,7 @@ The acquired source archive contains N1P1214.dwg, a 247,350-byte DWG native file
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -105,6 +105,15 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 64069bb26902c24a09791941d54ebc24f10b076caae336dcf1fc8ee0414a6fae
 - Containing archive SHA-256: a23944ca845e5c9c8277597634b4a0b7b6fbd17ba47866fb296385820901de5e
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/encsubpanels.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-n1p1214-09dbcaf22850)
+
+- encsubpanels.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- encsubpanels.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- encsubpanels.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

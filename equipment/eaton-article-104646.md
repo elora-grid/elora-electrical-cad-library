@@ -30,7 +30,7 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,15 @@ Use nzm1\_xci43\_2\_tvdvr.stp to place the original solid geometry in your 3D as
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/eaton-article-104646)
+
+- nzm1\_xci43\_2\_tvdvr.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- eaton-enclosure-mcad-drawings-nzm1-xci23-tvdvr.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- eaton-insulated-switchboard-mcad-drawings-nzm1-xci43-2-tvdvr-tvd.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

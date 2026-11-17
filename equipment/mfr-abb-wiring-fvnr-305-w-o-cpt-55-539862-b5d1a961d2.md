@@ -29,7 +29,7 @@ Use the manufacturer configuration named Wiring , FVNR, 305, W/O CPT (55-539862)
 - Available previews: 2 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC912858D0201.dwg (revision B) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-wiring-fvnr-305-w-o-cpt-55-539862-b5d1a961d2)
+
+- 1SQC912858D0201.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1SQC912858D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC912858D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC912858D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC912858D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912858D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-fvnr-305-w-o-cpt-55-539862-b5d1a961d2/abb-d95a754cef1abc0c90db-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7ae3782b11fbbc0c83d605bbb5d7e42fb643dfdf5088fb13846092dd290b0b74
 - Original bytes: 283187

@@ -30,7 +30,7 @@ The supplied configuration is “PB8 Breaker Compartment 38kV - 3D Dimensional d
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,14 @@ Use 2RDA032669.step revision A for the supplied solid assembly in your 3D layout
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-pb8-breaker-compartment-38kv-3d-dimensional-drawing-b58b2134fe)
+
+- 2RDA032669.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 2RDA032669.A0000\_2D.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

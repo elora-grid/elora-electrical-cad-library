@@ -31,11 +31,11 @@ The supplied configuration is “617429-003”. Keep those frame, mounting and a
 - Drawing units (617429-003.pdf, page 1): inches / millimetres
 - Drawing units (617429-003.pdf, page 2): inches / millimetres
 - Listed file formats: DWG, IGS, PDF, STEP, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -94,6 +94,18 @@ Use 617429\_003.dwg revision B for editable DWG drawing geometry. Keep its origi
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-617429-003-dwg-2d-autocad-dwg-2000-213240ebbf)
+
+- 617429\_003.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 617429\_003.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 617429-003.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 617429\_003.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 617429\_003.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 617429-003.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 617429\_003.dwg
@@ -120,7 +132,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (617429\_003.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=617429-003&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-617429-003-dwg-2d-autocad-dwg-2000-213240ebbf/9749f50ebf0e284463ae-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9749f50ebf0e284463ae7809a0ea635ff50e7c98e83cd5a9f47a3aa341f39170
 - Original bytes: 1491540
@@ -190,5 +202,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=617429-003&LanguageCode=en&DocumentPartId=IGS&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; IGS; 17653452 bytes
 - Delivery SHA-256: 2f88b5647f34701ffc2c2445e759bd2c3d4228411a88cae927d8795b3c571d10
+
+### 617429-003.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 617429-003, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=617429-003&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

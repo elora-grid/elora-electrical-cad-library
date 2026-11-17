@@ -29,7 +29,7 @@ Use the manufacturer configuration named SRE0604026316.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use NVENT-SRE0604026316-2D-CAD-Block.dwg to insert the supplied editable drawing
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nvent-hoffman-sre0604026316-151ad5d247)
+
+- NVENT-SRE0604026316-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- NVENT-SRE0604026316-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### NVENT-SRE0604026316-2D-CAD-Block.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (NVENT-SRE0604026316-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/NVENT-SRE0604026316-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nvent-hoffman-sre0604026316-151ad5d247/nhp-179157-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 3f3a2f46c30f481e1ba71d9e901e73a70c5089bd13f514ef1bedc01b761cce23
 - Original bytes: 284394

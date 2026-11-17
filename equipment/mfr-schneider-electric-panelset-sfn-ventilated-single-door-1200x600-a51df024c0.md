@@ -31,7 +31,7 @@ Use the manufacturer configuration named PanelSeT SFN Ventilated single door 120
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: V2
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -85,6 +85,14 @@ Use NSYPCVDN126\_2D-front.dxf (revision V2) to insert the supplied editable draw
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-panelset-sfn-ventilated-single-door-1200x600-a51df024c0)
+
+- NSYPCVDN126\_2D-front.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- NSYPCVDN126\_3D-Simplified.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

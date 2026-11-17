@@ -30,7 +30,7 @@ This is an electrical connection reference. Use a separate equipment outline for
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,15 @@ Use 1SQC913907D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_3\_4\_5\_\_\_6\
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-wiring-diagram-nema-size-2-3-4-5-6-w-decel-relay-pfpr-55-537491s1-dwg-ca99ffe424)
+
+- 1SQC913907D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_3\_4\_5\_\_\_6\_W\_\_DECEL.\_RELAY\_\_\_PFPR\_55\_537491S1\_\_DWG.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC913907D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_3\_4\_5\_\_\_6\_W\_\_DECEL.\_RELAY\_\_\_PFPR\_55\_537491S1\_\_DWG.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC913907D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC913907D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_3\_4\_5\_\_\_6\_W\_\_DECEL.\_RELAY\_\_\_PFPR\_55\_537491S1\_\_DWG.dwg
@@ -102,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC913907D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_3\_4\_5\_\_\_6\_W\_\_DECEL.\_RELAY\_\_\_PFPR\_55\_537491S1\_\_DWG.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913907D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-wiring-diagram-nema-size-2-3-4-5-6-w-decel-relay-pfpr-55-537491s1-dwg-ca99ffe424/e61b73f68c19bd53dde0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e61b73f68c19bd53dde024c479ebad40eac61ab7ff0f90c343ef20414adc7b3f
 - Original bytes: 213857

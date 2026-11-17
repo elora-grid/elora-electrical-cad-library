@@ -26,7 +26,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: 26 drawing previews; 16 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,30 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/uk-abtech-bpg)
+
+- bpg.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- BPG 1.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 2.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 3.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 4.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 5.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 6.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 7.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 8.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 9.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 10.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 11.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 12.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 13.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 13.5.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 14.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPG 15.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- BPGF\_DWG.zip: public (public\_original); delivered format ZIP, contained formats DWG, PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

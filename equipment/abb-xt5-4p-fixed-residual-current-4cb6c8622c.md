@@ -31,7 +31,7 @@ The supplied configuration is “XT5 4p Fixed Residual Current”. Keep those fr
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.stp revision A for the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-4p-fixed-residual-current-4cb6c8622c)
+
+- 1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1230&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-fixed-residual-current-4cb6c8622c/35e0b6f5445a7055aeba-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 35e0b6f5445a7055aeba3e6e94e6dea40ec61143a1da3022ac123c187cb99fad
 - Original bytes: 3570343

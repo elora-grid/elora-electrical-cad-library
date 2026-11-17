@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E4.2/E4.3 III W TE
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001336R0193\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_2500A
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-e4-3-iii-w-terminals-vr-lower-2500a-ul-17cadb72fb)
+
+- 1SDH001336R0193\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_2500A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0193\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_2500A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001336R0195\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_UPPER\_2500A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0195\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_UPPER\_2500A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0193\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_2500A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0193\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_2500A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0193&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iii-w-terminals-vr-lower-2500a-ul-17cadb72fb/2d07477a990d7455c963-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2d07477a990d7455c963e1b39a3082291d880624dfdf91426453df8e323ba8a8
 - Original bytes: 1264324
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0195\_1PA\_001\_00\_E4.2\_W\_III\_TERMINALS\_VR\_UL\_UPPER\_2500A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0195&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iii-w-terminals-vr-lower-2500a-ul-17cadb72fb/48ddbbf0c891e6390817-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 48ddbbf0c891e639081740623ffc6a3e0505da356c568a3c3155ffcbc1cbc4fe
 - Original bytes: 1265455

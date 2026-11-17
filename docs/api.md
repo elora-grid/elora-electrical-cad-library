@@ -1,6 +1,6 @@
 # CAD library APIs
 
-The canonical service is https://eloragrid.ai/tools/cad-library. Metadata reads are public. The versioned agent-access release is deployed separately from this GitHub snapshot: check live discovery and capabilities before using v1. A 404 means that rollout is not available at that origin yet; the catalogue endpoints below remain available.
+The canonical service is https://eloragrid.ai/tools/cad-library. Metadata reads are public. The versioned API and public MCP are live. Check discovery and capabilities for current endpoints, catalogue identity and limits; the catalogue endpoints below remain available.
 
 ## Versioned agent API
 
@@ -26,9 +26,9 @@ Inspect ambiguity, configuration, revision and `kind` before selecting. Follow `
 
 POST selection bodies contain only `{"artifact_ids":["record-id:file-id"]}`. This plans independent file links; it does not create an account, email, bundle, conversion job or engineering design. Download bytes to disk outside model context. Native/contained formats differ from the delivered ZIP/RAR container. Geometry and units remain unknown unless evidenced.
 
-The v1 access policy makes public manufacturer originals and reviewed public equivalents anonymous. Reviewed exclusive conversions require a free verified CAD account and separate scoped agent consent. Read the artifact’s current access result rather than inferring availability from this snapshot. A legacy website download can still show registration before that access release is deployed. Stable links renew short-lived attachments; verify delivered bytes against the artifact/delivery SHA-256, and source bytes against the original SHA-256.
+The v1 access policy makes public manufacturer originals and reviewed public equivalents anonymous. Reviewed exclusive conversions require a free verified CAD account and separate scoped agent consent. Read the artifact’s current access result rather than inferring availability from this snapshot. Stable links renew short-lived attachments; verify delivered bytes against the artifact/delivery SHA-256, and source bytes against the original SHA-256.
 
-Official standalone clients are linked from the workflow guide: [Python](https://eloragrid.ai/cad-library/sdk/cad_library.py) and [TypeScript](https://eloragrid.ai/cad-library/sdk/cad-library.ts). These are HTTP clients; client availability follows the agent-access rollout.
+Official standalone clients are linked from the workflow guide: [Python](https://eloragrid.ai/cad-library/sdk/cad_library.py) and [TypeScript](https://eloragrid.ai/cad-library/sdk/cad-library.ts). These are official HTTP clients for the live API.
 
 ## Existing catalogue API and bulk exports
 

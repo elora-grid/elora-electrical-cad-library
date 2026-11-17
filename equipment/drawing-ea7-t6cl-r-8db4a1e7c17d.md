@@ -26,7 +26,7 @@ The verified native member is Operator Interface/Cmore/EA7-T6CL-R.dwg. Its ident
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 7c9f0453baff4d6377a00f70d6c4d55ef3db951425e38ed7141c0fad51c531e5
 - Containing archive SHA-256: 22f4917a65b61496a3c1a69e1a421bca857ad9e50845425d4b85f579d3217618
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/cmore.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-ea7-t6cl-r-8db4a1e7c17d)
+
+- cmore.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

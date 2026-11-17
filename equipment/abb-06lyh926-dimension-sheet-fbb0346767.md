@@ -29,11 +29,11 @@ The supplied configuration is “06LYH926: Dimension Sheet”. Keep those frame,
 - Motor drawing designation (06LYH926): STD HORZ 182-4TC TEFC V\*S MASTER INVERTER
 - Manufacturer reference: 06LYH926\_20.23; 06LYH926
 - Listed file formats: IGS, PDF, SLDPRT, STEP, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,18 @@ Use 06LYH926.pdf revision D to read the original manufacturer sheet and its anno
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-06lyh926-dimension-sheet-fbb0346767)
+
+- 06LYH926.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 06LYH926\_20.23.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 06LYH926\_20.23.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 06LYH926\_20.23.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 06LYH926\_20.23.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 06LYH926\_20.23.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -152,7 +164,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (06LYH926\_20.23.step).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=STEP&Action=Launch&DocumentRevisionId=D)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-06lyh926-dimension-sheet-fbb0346767/f8a969d8f4f8772ad50d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f8a969d8f4f8772ad50d724cf003c8c0692b9aa1ad468736db629d67836de1c0
 - Original bytes: 11764667
@@ -184,5 +196,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; SLDPRT; 6315520 bytes
 - Delivery SHA-256: 4411e9e913bf6392ee970ddb95d57357c43cbef0ad2af7606f046c5fc56fc52b
+
+### 06LYH926\_20.23.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 06LYH926\_20.23, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

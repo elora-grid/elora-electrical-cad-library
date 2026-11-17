@@ -32,7 +32,7 @@ Use the manufacturer configuration named 569160 Distribution Block Lug Adaptor.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,15 @@ Use 569160-Distribution-Block-Lug-Adaptor-DWG-2D-CAD-Block.dwg to insert the sup
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nvent-eriflex-569160-distribution-block-lug-adaptor-32ca9a13d5)
+
+- 569160-Distribution-Block-Lug-Adaptor-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 569160-Distribution-Block-Lug-Adaptor-DWG-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 569160-Distribution-Block-Lug-Adaptor-STEP-3D-CAD-Block.step: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 569160-Distribution-Block-Lug-Adaptor-DWG-2D-CAD-Block.dwg
@@ -110,7 +119,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (569160-Distribution-Block-Lug-Adaptor-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/569160-Distribution-Block-Lug-Adaptor-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nvent-eriflex-569160-distribution-block-lug-adaptor-32ca9a13d5/nhp-198924-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 084fd9669d704349f33a898825ac9d6d264648d72ac5ade98fcaab3195ac3a18
 - Original bytes: 80325

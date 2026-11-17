@@ -28,11 +28,11 @@ The supplied configuration is “10LYT004\_34.48”. Keep those frame, mounting 
 - Document revision: B
 - Manufacturer reference: 10LYT004
 - Listed file formats: DWG, PDF, SLDPRT, DXF
-- Listed files: 4
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -85,6 +85,17 @@ Use 10LYT004\_34.48.dwg revision B for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyt004-34-48-dwg-2d-autocad-dwg-2000-daf2e25e37)
+
+- 10LYT004\_34.48.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 10LYT004\_34.48.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 10LYT004.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYT004\_34.48.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 10LYT004\_34.48.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 10LYT004\_34.48.dwg
@@ -111,7 +122,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (10LYT004\_34.48.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyt004-34-48-dwg-2d-autocad-dwg-2000-daf2e25e37/f1431a09fef6fac64611-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f1431a09fef6fac64611d40a6fb2f2dc8f3bdf72cb23cdfb563574fe79387386
 - Original bytes: 3545229
@@ -162,5 +173,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; SLDPRT; 9528819 bytes
 - Delivery SHA-256: c241b7295a0864096b4e47dc3fd12d5408a185e6679da89c194d712a81aa964b
+
+### 10LYT004\_34.48.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 10LYT004\_34.48, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

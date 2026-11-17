@@ -26,7 +26,7 @@ This set uses the exact filename stem BTS-1250\_1250-4P3P. Its views are stored 
 - Available previews: 6 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -134,6 +134,18 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 3146bfc5dc03fd7c87fa6de59c8e21fa46f4e1b65727c864a901a568c66dd5e7
 - Containing archive SHA-256: a300645966ff7c6a2f99f211e8516c11c769fdd821cf08b2835b0f59cfde8ed6
 - [Original publisher source](https://www.nhp.com.au/public/assets/pim/Original/10028/Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bts-1250-1250-4p3p-bottom-769698cde6e2)
+
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

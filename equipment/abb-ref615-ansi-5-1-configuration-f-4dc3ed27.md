@@ -29,7 +29,7 @@ Original DWG drawing for REF615 ANSI 5.1 configuration F; ABB document 2RCA02183
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -74,6 +74,14 @@ Use 2RCA021838\_REF615\_conf\_F.dwg for REF615 ANSI 5.1 configuration F. DWG is 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ref615-ansi-5-1-configuration-f-4dc3ed27)
+
+- 2RCA021838\_REF615\_conf\_F.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2RCA021838\_REF615\_conf\_F.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2RCA021838\_REF615\_conf\_F.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2RCA021838\_REF615\_conf\_F.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2RCA021838_REF615_CONF_F&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ref615-ansi-5-1-configuration-f-4dc3ed27/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a05da402ee5ef35a8a738f5080a1bd52f131aa6eaf2ad184ab2d1a7330d91c41
 - Original bytes: 139338

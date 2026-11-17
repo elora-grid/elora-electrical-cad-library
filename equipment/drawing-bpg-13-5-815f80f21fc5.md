@@ -26,7 +26,7 @@ The exact supplied files are BPG 13.5.STEP. Use the STEP assembly to coordinate 
 - Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -93,6 +93,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: cef219ee31a8b43a1197d88b8d75c439af675d8dcfd62f515ad528451e698253
 - Containing archive SHA-256: a9558cc1361b47e1d8a48b44bd1f8943a99c8de4b6aa03dfd6ecdfeb84fbb265
 - [Original publisher source](https://www.abtech-inc.com/downloads/186/BPG%2013.5.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bpg-13-5-815f80f21fc5)
+
+- BPG 13.5.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

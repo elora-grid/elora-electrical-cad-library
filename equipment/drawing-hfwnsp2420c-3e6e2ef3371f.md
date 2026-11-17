@@ -26,7 +26,7 @@ The acquired source archive contains HFWNSP2420C.dwg, a 494,703-byte DWG native 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: f0fc868a26fc23d675c94e091e8fd550cebf01b14e6db198de8befefd98bedae
 - Containing archive SHA-256: a23944ca845e5c9c8277597634b4a0b7b6fbd17ba47866fb296385820901de5e
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/encsubpanels.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-hfwnsp2420c-3e6e2ef3371f)
+
+- encsubpanels.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

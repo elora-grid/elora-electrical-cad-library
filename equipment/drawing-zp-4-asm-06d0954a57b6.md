@@ -26,7 +26,7 @@ The exact supplied files are ZP 4 asm.STEP, ZP4.dwg. Use STEP for placing the en
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -102,6 +102,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: f17167a997299deecd9aac2f927e89ca9c4b6b968d97dd75c44ba4a884e4c625
 - Containing archive SHA-256: a370a89a2f4cbec84763c6c1ce74da54c105033038eedd3021468b000191f782
 - [Original publisher source](https://www.abtech-inc.com/downloads/130/zp_2d.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zp-4-asm-06d0954a57b6)
+
+- ZP 4.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- zp\_2d.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

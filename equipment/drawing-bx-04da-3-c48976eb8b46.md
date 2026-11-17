@@ -26,7 +26,7 @@ The verified native member is PLC Families/BRX/BX-04DA-3.dwg. Its identity was c
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: c4acfefabffe8a2d4cabc55a1b1e1d502643b3a04d77f0393dd46123ae023d1e
 - Containing archive SHA-256: 11630269a263f1fece253869adca11af60afefa4b76c9ae8c9a30c5d6efeaa4a
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/brx.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bx-04da-3-c48976eb8b46)
+
+- brx.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -27,7 +27,7 @@ WEG ACW\_IEC, DW\_IEC and DW\_UL moulded case breakers: use the manufacturer fam
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-16
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -71,6 +71,12 @@ WEG ACW\_IEC, DW\_IEC and DW\_UL moulded case breakers: check fixed or withdrawa
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/market-weg-acw-iec-dw-iec-and-dw-ul-moulded-case-breakers)
+
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

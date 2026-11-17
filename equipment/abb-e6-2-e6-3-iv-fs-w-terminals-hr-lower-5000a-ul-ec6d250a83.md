@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E6.2/E6.3 IV FS W 
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001336R0268\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_LOWER\_50
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e6-3-iv-fs-w-terminals-hr-lower-5000a-ul-ec6d250a83)
+
+- 1SDH001336R0268\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_LOWER\_5000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0268\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_LOWER\_5000A.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SDH001336R0270\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_UPPER\_5000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0270\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_UPPER\_5000A.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0268\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_LOWER\_5000A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0268\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_LOWER\_5000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0268&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iv-fs-w-terminals-hr-lower-5000a-ul-ec6d250a83/f19285b91b82380bcde0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f19285b91b82380bcde00f629f65317d726e57f0662ce583253ea69fcc8a7400
 - Original bytes: 3406523
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0270\_1PA\_001\_00\_E6.2\_W\_IV\_TERMINALS\_FS\_HR\_UL\_UPPER\_5000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0270&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iv-fs-w-terminals-hr-lower-5000a-ul-ec6d250a83/d8b0d5cb194e276ac3e4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d8b0d5cb194e276ac3e4bd4013bdc7ee95cafb49471b01a444174dd8f348da1e
 - Original bytes: 3409485

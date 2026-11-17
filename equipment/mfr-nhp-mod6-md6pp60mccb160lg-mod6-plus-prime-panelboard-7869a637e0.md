@@ -27,7 +27,7 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use MD6PP60M250LG-MOD6-Plus-Prime-Panelboard-2D-CAD-Block.dwg to insert the supp
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-mod6-md6pp60mccb160lg-mod6-plus-prime-panelboard-7869a637e0)
+
+- MD6PP60M250LG-MOD6-Plus-Prime-Panelboard-2D-CAD-Block.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

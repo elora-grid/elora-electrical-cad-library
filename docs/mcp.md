@@ -2,8 +2,16 @@
 
 The public CAD MCP and the protected main-product MCP are separate services. This repository is a metadata snapshot, not an MCP server.
 
+The public endpoint verified on 17 November 2026 is:
+
+```text
+https://elora-production-cad-mcp-891798621854.us-east4.run.app/mcp
+```
+
+It exposed all six tools below and reported 56,512 published items without credentials. Use live discovery for future endpoint changes.
+
 1. Read `https://eloragrid.ai/.well-known/cad-library.json`.
-2. Use its `public_mcp_endpoint` only when `public_mcp_status` is `configured`. If the document is unavailable or reports `not_configured`, use the catalogue HTTP API while the separate agent-access rollout completes. Do not use a staging or guessed URL.
+2. Use its `public_mcp_endpoint` only when `public_mcp_status` is `configured`. If the document is unavailable or reports `not_configured`, use the catalogue HTTP API and check the current service status. Do not use a staging or guessed URL.
 3. Connect an MCP-compatible client to that exact HTTPS `/mcp` endpoint using Streamable HTTP. Initialise and list its tools at runtime.
 4. Start with `get_cad_capabilities`, then search and inspect exact equipment before selecting files.
 

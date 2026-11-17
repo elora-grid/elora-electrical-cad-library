@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E2.2/E2.3 III W TE
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001336R0119\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_1600\
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2)
+
+- 1SDH001336R0119\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_1600\_2000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0119\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_1600\_2000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001336R0121\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_UPPER\_1600\_2000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0121\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_UPPER\_1600\_2000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0119\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_1600\_2000A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0119\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_LOWER\_1600\_2000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0119&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2/92f812ae979f6e8dd7d8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 92f812ae979f6e8dd7d8c42736a3e7bd94a8b37f3d694ac2efe7e8522711d493
 - Original bytes: 1156721
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0121\_1PA\_001\_00\_E2.2\_W\_III\_TERMINALS\_VR\_UL\_UPPER\_1600\_2000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0121&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-w-terminals-vr-lower-2000a-ul-3eccd95ef2/dd6f33e19029f155d881-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dd6f33e19029f155d881196b5db61145b12b7308d402aa77d00007fa61430722
 - Original bytes: 1156101

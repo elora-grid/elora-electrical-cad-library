@@ -30,7 +30,7 @@ Original STEP 3D geometry for E6.2 III F INSULATING SHEET; ABB document 1SDH0012
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.stp for E6.2 II
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-iii-f-insulating-sheet-1551bcb6)
+
+- 1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-iii-f-insulating-sheet-1551bcb6/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b4d267bb16e8221f8bc6ef5f93529a51786b1071b3427f02231050bfeeff9732
 - Original bytes: 15335

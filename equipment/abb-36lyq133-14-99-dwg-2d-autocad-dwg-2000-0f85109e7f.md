@@ -34,7 +34,7 @@ The supplied configuration is “36LYQ133\_14.99”. Keep those frame, mounting 
 - Available previews: 4 drawing previews; 1 interactive model variants
 - Recorded revisions: G
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -106,6 +106,26 @@ Use 36LYQ133\_14.99.dwg revision G for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-36lyq133-14-99-dwg-2d-autocad-dwg-2000-0f85109e7f)
+
+- 36LYQ133\_14.99.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYQ133.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 36LYQ133\_14.99.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 36LYQ133\_16.49.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 36LYQ133\_16.49.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 36LYQ133\_13.61.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYQ133\_14.99.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 36LYQ133\_14.99.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYQ133\_14.99.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 36LYQ133\_16.49.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 36LYQ133\_16.49.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYQ133\_16.49.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 36LYQ133\_13.61.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 36LYQ133\_13.61.sat: public (public\_original); delivered format SAT, contained formats SAT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

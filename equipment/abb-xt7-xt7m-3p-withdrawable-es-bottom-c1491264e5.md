@@ -31,7 +31,7 @@ The supplied configuration is “XT7-XT7M 3P Withdrawable ES bottom”. Keep tho
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1447\_XT7\_XT7M\_3P\_Withdrawable\_ES\_bottom\_Rev\_B.stp revisio
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-xt7m-3p-withdrawable-es-bottom-c1491264e5)
+
+- 1SDH002065A1447\_XT7\_XT7M\_3P\_Withdrawable\_ES\_bottom\_Rev\_B.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1447\_XT7\_XT7M\_3P\_Withdrawable\_ES\_bottom\_Rev\_B.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1447\_XT7\_XT7M\_3P\_Withdrawable\_ES\_bottom\_Rev\_B.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1447\_XT7\_XT7M\_3P\_Withdrawable\_ES\_bottom\_Rev\_B.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1447&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-withdrawable-es-bottom-c1491264e5/744939906c62514d454d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 744939906c62514d454dd9d9077ba152fa47f0ecba30d84af6cf5643d75936ab
 - Original bytes: 1590666

@@ -26,7 +26,7 @@ The acquired source archive contains ENYCASE\_DK\_Deckel/Deckel-DK-01xx.stp, a 1
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -89,6 +89,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 3578fafdf63abec6a25c132a4dd155bc241abc636a5da1f28e1e4e550df9f63b
 - Containing archive SHA-256: 6d65262749ee3e17eb5901470d5070cba84eeddfd2a93c63d9797acabe1b4b16
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/HENSEL_ENYCASE_DK_KF_Deckel.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-deckel-dk-01xx-5211dd34f673)
+
+- HENSEL\_ENYCASE\_DK\_KF\_Deckel.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

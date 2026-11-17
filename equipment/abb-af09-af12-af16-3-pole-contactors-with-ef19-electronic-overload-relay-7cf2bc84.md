@@ -32,7 +32,7 @@ Original DWG drawing for AF09, AF12, AF16 3-pole contactors with EF19 electronic
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,13 @@ This source-only entry identifies AF09, AF12, AF16 3-pole contactors with EF19 e
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-af09-af12-af16-3-pole-contactors-with-ef19-electronic-overload-relay-7cf2bc84)
+
+- 1SBB505037D3501.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

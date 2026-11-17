@@ -26,7 +26,7 @@ This set uses the exact filename stem XE2000NE-4P-RC. Its views are stored in Te
 - Available previews: 3 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -110,6 +110,15 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: a5b1d93274fc5a058c1c90f645d90a5191e93b61080c1c0f3db8ac97e95f1506
 - Containing archive SHA-256: a300645966ff7c6a2f99f211e8516c11c769fdd821cf08b2835b0f59cfde8ed6
 - [Original publisher source](https://www.nhp.com.au/public/assets/pim/Original/10028/Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-xe2000ne-4p-rc-bottom-1e83be1cff94)
+
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT5 3p Fixed PS 100mm top; ABB document 1SDH002065
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1149\_XT5\_3p\_Fixed\_PS\_100mm\_top.stp for XT5 3p Fixed PS 100m
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-3p-fixed-ps-100mm-top-5a1a3f0e)
+
+- 1SDH002065A1149\_XT5\_3p\_Fixed\_PS\_100mm\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1149\_XT5\_3p\_Fixed\_PS\_100mm\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1149\_XT5\_3p\_Fixed\_PS\_100mm\_top.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1149\_XT5\_3p\_Fixed\_PS\_100mm\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1149&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-fixed-ps-100mm-top-5a1a3f0e/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9870f9a7f75f1ac322d60115e1d6f2b77dd5792898b8f6e97b83ef378bee12dc
 - Original bytes: 1311455

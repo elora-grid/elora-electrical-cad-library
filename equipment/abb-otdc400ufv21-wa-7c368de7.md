@@ -29,7 +29,7 @@ Original DWG drawing for OTDC400UFV21-WA; ABB document 1SCC307926F0201
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,14 @@ Use 1SCC307926F0201.dwg for OTDC400UFV21-WA. DWG is the supplied drawing format;
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc400ufv21-wa-7c368de7)
+
+- 1SCC307926F0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SCC307926F0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SCC307926F0201.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SCC307926F0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307926F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdc400ufv21-wa-7c368de7/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 5f0a01e4dbe502e997f44a81612416a9727938eaef59173bc93b32af18b1f7a7
 - Original bytes: 1911082

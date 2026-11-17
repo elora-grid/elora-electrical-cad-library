@@ -28,7 +28,7 @@ Use the manufacturer configuration named Plastic Terminal Box Base 1313B.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use NHP-NLINE-Plastic-Terminal-Box-Base-1313B-DWG-2D-CAD-Block.dwg to insert the
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-nline-plastic-terminal-box-base-1313b-d36b7f2196)
+
+- NHP-NLINE-Plastic-Terminal-Box-Base-1313B-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- NHP-NLINE-Plastic-Terminal-Box-Base-1313B-DWG-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### NHP-NLINE-Plastic-Terminal-Box-Base-1313B-DWG-2D-CAD-Block.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (NHP-NLINE-Plastic-Terminal-Box-Base-1313B-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Base-1313B-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-nline-plastic-terminal-box-base-1313b-d36b7f2196/nhp-198155-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 56d1c66c3c21debd30f07207c509a5501d4fabfc635f4d4364957a9a90b73375
 - Original bytes: 86521

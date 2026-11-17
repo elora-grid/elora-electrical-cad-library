@@ -29,7 +29,7 @@ Use the manufacturer configuration named Lighting Contactor 463 (55-217108).
 - Available previews: 2 drawing previews
 - Recorded revisions: F
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC911033D0201.dwg (revision F) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-lighting-contactor-463-55-217108-e2eb5411b3)
+
+- 1SQC911033D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC911033D0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SQC911033D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC911033D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC911033D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC911033D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-lighting-contactor-463-55-217108-e2eb5411b3/abb-1245127dcc410106cb83-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 79cb9b5130f389b95836ecbbf787416f44ce66005dd9e7193d2fec4ce0b7eb86
 - Original bytes: 405280

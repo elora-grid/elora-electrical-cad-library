@@ -32,7 +32,7 @@ Use the manufacturer configuration named EEXZS73SR1O1SRC HAE Belt Alignment Swit
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,13 @@ Steute-EEXZS73SR1O1SRC-HAE-Belt-Alignment-Switch-STEP-3D-CAD-Block.zip is the or
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-steute-eexzs73sr1o1src-hae-belt-alignment-switch-43527cc9e4)
+
+- Steute-EEXZS73SR1O1SRC-HAE-Belt-Alignment-Switch-STEP-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

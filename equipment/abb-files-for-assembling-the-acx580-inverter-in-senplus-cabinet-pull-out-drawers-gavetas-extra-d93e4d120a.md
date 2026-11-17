@@ -30,7 +30,7 @@ Manufacturer reference 9AKK108472A0413 identifies this enclosure or mounting-har
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ The manufacturer supplies 9AKK108472A0413.zip as ZIP (276.0 MB reported by the m
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-files-for-assembling-the-acx580-inverter-in-senplus-cabinet-pull-out-drawers-gavetas-extra-d93e4d120a)
+
+- 9AKK108472A0413.zip: public (official\_source); delivered format ZIP, contained formats not recorded.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

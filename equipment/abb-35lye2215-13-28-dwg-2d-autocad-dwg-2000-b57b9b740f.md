@@ -29,11 +29,11 @@ The supplied configuration is “35LYE2215\_13.28”. Keep those frame, mounting
 - Model envelope: 35LYE2215\_13.28.step: 337.4 × 181.5 × 234.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 35LYE2215
 - Listed file formats: DWG, PDF, SLDPRT, STEP, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,18 @@ Use 35LYE2215\_13.28.dwg revision D for editable DWG drawing geometry. Keep its 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lye2215-13-28-dwg-2d-autocad-dwg-2000-b57b9b740f)
+
+- 35LYE2215\_13.28.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYE2215\_13.28.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 35LYE2215.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYE2215\_13.28.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYE2215\_13.28.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYE2215\_13.28.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -186,5 +198,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2215_13.28&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; SLDPRT; 2435584 bytes
 - Delivery SHA-256: 09109fd5cbf9d03ee224c4bce8d934fedab9f14d84b80b485664fe06f68c5e81
+
+### 35LYE2215\_13.28.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYE2215\_13.28, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2215_13.28&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

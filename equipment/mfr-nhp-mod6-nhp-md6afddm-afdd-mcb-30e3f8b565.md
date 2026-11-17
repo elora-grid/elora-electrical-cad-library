@@ -32,7 +32,7 @@ Use the manufacturer configuration named NHP MD6AFDDM AFDD MCB.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,15 @@ Use NHP-MD6AFDDM-AFDD-MCB-2D-CAD-Block.dwg to insert the supplied editable drawi
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-mod6-nhp-md6afddm-afdd-mcb-30e3f8b565)
+
+- NHP-MD6AFDDM-AFDD-MCB-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- NHP-MD6AFDDM-AFDD-MCB-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- NHP-MD6AFDDM-AFDD-MCB-3D-CAD-Block.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### NHP-MD6AFDDM-AFDD-MCB-2D-CAD-Block.dwg
@@ -110,7 +119,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (NHP-MD6AFDDM-AFDD-MCB-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10041/NHP-MD6AFDDM-AFDD-MCB-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-mod6-nhp-md6afddm-afdd-mcb-30e3f8b565/nhp-157731-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 5f8c89b7ce39c3653a91c4fb4a8ca937a5d56d26f5d47a6a5de13822c6a9599c
 - Original bytes: 214168

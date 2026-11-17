@@ -29,7 +29,7 @@ Use the manufacturer configuration named TemWay XEP MCCB Chassis XEP63036U.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use Terasaki-XEP63036U-2D-CAD-Block.dwg to insert the supplied editable drawing 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-terasaki-temway-xep-mccb-chassis-xep63036u-17c9038b64)
+
+- Terasaki-XEP63036U-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Terasaki-XEP63036U-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Terasaki-XEP63036U-2D-CAD-Block.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Terasaki-XEP63036U-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10047/Terasaki-XEP63036U-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-terasaki-temway-xep-mccb-chassis-xep63036u-17c9038b64/nhp-182510-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 96273ef7a9130c1547ed15f6dfc6d25c943ef940d4802aca977d96ddc0e0023a
 - Original bytes: 60521

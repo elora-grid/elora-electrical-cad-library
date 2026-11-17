@@ -31,7 +31,7 @@ The supplied configuration is “OT200UDS33”. Keep those frame, mounting and a
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,15 @@ Use OT200UDS33\_1SCC307655F0001.dwg revision A for editable DWG drawing geometry
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ot200uds33-061eaf3ede)
+
+- OT200UDS33\_1SCC307655F0001.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- OT200UDS33\_1SCC307655F0001.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- OT200UDS33.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### OT200UDS33\_1SCC307655F0001.dwg
@@ -104,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (OT200UDS33\_1SCC307655F0001.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307655F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot200uds33-061eaf3ede/275ba193ec2b821cb83d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 275ba193ec2b821cb83d4aa29dd4a5a6f0cc5a5511b53bf6e709488eb40f1e0d
 - Original bytes: 1692459

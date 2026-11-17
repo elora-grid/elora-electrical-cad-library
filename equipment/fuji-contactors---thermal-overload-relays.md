@@ -26,7 +26,7 @@ Each archive may cover several variants. Match original drawing title and model 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -54,6 +54,55 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/fuji-contactors---thermal-overload-relays)
+
+- SC-M01.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-M02.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-M01G.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E03.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E04.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E05.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E1.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E2.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E2S.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E3.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E4.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E5.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E6.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E7.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E02G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E03G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E04G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E05G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E1G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E2G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E2SG.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E3G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E4G.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- TK-E02.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- TK-E2.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- TK-E3.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- TK-E5.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- TK-E6.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- TK-E6H.DXF.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- SC-E02.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E1.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E3.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E02G.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E1G.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E3G.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E5.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E6.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC-E7.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TK-E02.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TK-E2.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TK-E3.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TK-E5.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TK-E6.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

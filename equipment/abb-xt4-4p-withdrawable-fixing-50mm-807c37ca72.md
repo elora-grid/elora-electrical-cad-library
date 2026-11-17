@@ -31,7 +31,7 @@ The supplied configuration is “XT4 4p WITHDRAWABLE FIXING 50mm”. Keep those 
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0762\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_FIXING\_50MM.stp revis
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt4-4p-withdrawable-fixing-50mm-807c37ca72)
+
+- 1SDH001295R0762\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_FIXING\_50MM.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0762\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_FIXING\_50MM.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0762\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_FIXING\_50MM.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0762\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_FIXING\_50MM.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0762&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-4p-withdrawable-fixing-50mm-807c37ca72/3beeaf0a946af6a98674-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 3beeaf0a946af6a98674233a36aee8a43100cf51057cdda1df462f1afe278c33
 - Original bytes: 1249787

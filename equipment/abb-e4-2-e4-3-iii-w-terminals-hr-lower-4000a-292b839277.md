@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E4.2/E4.3 III W TE
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001252R0190\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_LOWER\_4000A.stp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-e4-3-iii-w-terminals-hr-lower-4000a-292b839277)
+
+- 1SDH001252R0190\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_LOWER\_4000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0190\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_LOWER\_4000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0192\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_UPPER\_4000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0192\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_UPPER\_4000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0190\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_LOWER\_4000A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0190\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_LOWER\_4000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0190&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iii-w-terminals-hr-lower-4000a-292b839277/69a9818c4d41193fdfa4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 69a9818c4d41193fdfa4e14f239c21fc41b7d9ec57e4970290a5555831ee125c
 - Original bytes: 752728
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0192\_1PA\_001\_00\_E4.2\_III\_W\_TERMINALS\_HR\_UPPER\_4000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0192&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iii-w-terminals-hr-lower-4000a-292b839277/7bb571a14f6c2f271438-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7bb571a14f6c2f271438fad0e908b5bf0612dc4e32d9ba9e0582f764a872aadc
 - Original bytes: 753850

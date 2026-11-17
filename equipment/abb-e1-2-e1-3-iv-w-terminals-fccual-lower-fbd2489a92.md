@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E1.2/E1.3 IV W TER
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001252R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER.stp rev
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92)
+
+- 1SDH001252R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001336R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0075&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92/5f247e326a7806e534eb-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 5f247e326a7806e534eb79e11a4496ab3f609109b99ec3c67840c939e73a928a
 - Original bytes: 1034486
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0075\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0075&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iv-w-terminals-fccual-lower-fbd2489a92/40de4e0151fe74123c5d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 40de4e0151fe74123c5d1306f0ef98f7d11d32fb21e5056016a03ae1bc8f7c76
 - Original bytes: 1034429

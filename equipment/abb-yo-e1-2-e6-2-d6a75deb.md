@@ -30,7 +30,7 @@ Original STEP 3D geometry for YO E1.2...E6.2; ABB document 1SDH001252R0313
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.stp for YO E1.2...E6.2. STEP 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-yo-e1-2-e6-2-d6a75deb)
+
+- 1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0313&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-yo-e1-2-e6-2-d6a75deb/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 59c916c6bcf1d56d35bbda6439e969298bbb9cbe157b1fb5b441af087c121821
 - Original bytes: 172260

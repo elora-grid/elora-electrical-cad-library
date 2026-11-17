@@ -28,7 +28,7 @@ Use the manufacturer configuration named Load Break Switch 194E A32 1753 MODELG.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use Allen-Bradley-Load-Break-Switch-194E-A32-1753-MODELG-DWG-2D-CAD-Block.dwg to
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-load-break-switch-194e-a32-1753-modelg-3c44aed654)
+
+- Allen-Bradley-Load-Break-Switch-194E-A32-1753-MODELG-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Allen-Bradley-Load-Break-Switch-194E-A32-1753-MODELG-DWG-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Allen-Bradley-Load-Break-Switch-194E-A32-1753-MODELG-DWG-2D-CAD-Block.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-Load-Break-Switch-194E-A32-1753-MODELG-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-Load-Break-Switch-194E-A32-1753-MODELG-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-load-break-switch-194e-a32-1753-modelg-3c44aed654/nhp-198342-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ad942c5f0db7d11e8a1ed05d6d53451e6b552d8ab8d5dd0d68397c879782b08b
 - Original bytes: 398662

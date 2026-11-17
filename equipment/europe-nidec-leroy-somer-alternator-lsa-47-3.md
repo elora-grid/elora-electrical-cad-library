@@ -27,7 +27,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -54,6 +54,32 @@ Available here: DXF. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/europe-nidec-leroy-somer-alternator-lsa-47-3)
+
+- LSA473-8-020.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-019.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-018.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-017.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-016A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-015B.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-014A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-013A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-012A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-011B.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-010A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-009A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-008A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-007B.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-006A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-005A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-004B.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-003B.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-002A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA473-8-001A.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

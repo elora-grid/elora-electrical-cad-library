@@ -32,7 +32,7 @@ The supplied configuration is “E4.2 III W 3200A”. Keep those frame, mounting
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH001252R0433\_E4.2\_III\_W\_3200\_N0761.stp revision - for the supplied s
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-iii-w-3200a-72c9f3ff47)
+
+- 1SDH001252R0433\_E4.2\_III\_W\_3200\_N0761.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0433\_E4.2\_III\_W\_3200\_N0761.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0433\_E4.2\_III\_W\_3200\_N0761.stp
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0433\_E4.2\_III\_W\_3200\_N0761.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0433&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-iii-w-3200a-72c9f3ff47/7580741c003455bbe3d4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7580741c003455bbe3d466427b9ef2e87e27a275a3e926eac1ed56fd6581551f
 - Original bytes: 3782132

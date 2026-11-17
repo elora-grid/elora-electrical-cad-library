@@ -30,11 +30,11 @@ The supplied configuration is “06LYF550\_17.21”. Keep those frame, mounting 
 - Motor drawing designation (06LYF550): STD HORZ 182-4TC TENV VECTOR (THRU-SHAFT ENCODER)
 - Manufacturer reference: 06LYF550
 - Listed file formats: DWG, PDF, STEP, DXF
-- Listed files: 4
+- Listed files: 5
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,17 @@ Use 06LYF550\_17.21.dwg revision D for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-06lyf550-17-21-dwg-2d-autocad-dwg-5529bdbe96)
+
+- 06LYF550\_17.21.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 06LYF550\_17.21.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 06LYF550.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 06lyf550\_17.21.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 06LYF550\_17.21.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -169,5 +180,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYF550_17.21&LanguageCode=en&DocumentPartId=STEP&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; STEP; 723041 bytes
 - Delivery SHA-256: 92420557d70c02116f76a82a8e702ea375605153c7946fb3b3cabb8efbff8e66
+
+### 06LYF550\_17.21.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 06LYF550\_17.21, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYF550_17.21&LanguageCode=en&DocumentPartId=dxf&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

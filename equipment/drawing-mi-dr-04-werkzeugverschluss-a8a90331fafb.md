@@ -26,7 +26,7 @@ The acquired source archive contains Mi\_Verschluss/Mi\_DR\_04\_Werkzeugverschlu
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -97,6 +97,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 0845939e31595e239dbad531168195551e76a7062a1c4e51843d629c7a9b83b6
 - Containing archive SHA-256: a5c5b8df6bcb0127f97d6c4c0a15b1bc74c4e299f7089c1f0a53cad46b30ec4a
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/Mi_gesamt.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-mi-dr-04-werkzeugverschluss-a8a90331fafb)
+
+- Mi\_gesamt.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- Mi\_Verschluss.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -31,7 +31,7 @@ The supplied configuration is “OT200...OT250E21”. Keep those frame, mounting
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,15 @@ Use OT200\_250E21\_1SCC307693F0001.dwg revision A for editable DWG drawing geome
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ot200-ot250e21-fe6d2f7aab)
+
+- OT200\_250E21\_1SCC307693F0001.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- OT200\_250E21\_1SCC307693F0001.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- OT200\_250E21.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### OT200\_250E21\_1SCC307693F0001.dwg
@@ -104,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (OT200\_250E21\_1SCC307693F0001.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307693F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot200-ot250e21-fe6d2f7aab/bf2a4de8f2352e85d3d4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: bf2a4de8f2352e85d3d4cfffb584c4e530049880158e7b8555e64ece8f45030c
 - Original bytes: 1483771

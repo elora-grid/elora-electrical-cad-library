@@ -29,7 +29,7 @@ Use the manufacturer configuration named Section 4 - 5 kV and 15 kV Drawout Vacu
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.3
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,13 @@ Use 46040-652.dxf (revision 1.3) to insert the supplied editable drawing into yo
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-section-4-5-kv-and-15-kv-drawout-vacuum-circuit-breakers-and-structures-wiring-diagram-baa3ae7f1a)
+
+- 46040-652.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

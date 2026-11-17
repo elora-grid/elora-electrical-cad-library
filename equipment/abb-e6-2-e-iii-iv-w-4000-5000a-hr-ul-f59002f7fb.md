@@ -30,7 +30,7 @@ The supplied configuration is “E6.2 /E III-IV W 4000/5000A HR UL”. Keep thos
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ Use 1SDH001060R0355\_enit\_A\_E6.2\_\_E\_III\_IV\_W\_4000\_5000A\_HR\_UL.dxf rev
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e-iii-iv-w-4000-5000a-hr-ul-f59002f7fb)
+
+- 1SDH001060R0355\_enit\_A\_E6.2\_\_E\_III\_IV\_W\_4000\_5000A\_HR\_UL.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

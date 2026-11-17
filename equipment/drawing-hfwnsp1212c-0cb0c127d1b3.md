@@ -26,7 +26,7 @@ The acquired source archive contains HFWNSP1212C.dwg, a 590,036-byte DWG native 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 32c3834a5be9284684ea0cafb879af314c31af984648f40d3938ffa97d06578e
 - Containing archive SHA-256: a23944ca845e5c9c8277597634b4a0b7b6fbd17ba47866fb296385820901de5e
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/encsubpanels.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-hfwnsp1212c-0cb0c127d1b3)
+
+- encsubpanels.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

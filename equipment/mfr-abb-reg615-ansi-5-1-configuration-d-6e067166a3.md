@@ -30,7 +30,7 @@ Use the manufacturer configuration named REG615 ANSI 5.1 configuration D.
 - Available previews: 2 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,15 @@ Use 2RCA036568\_REG615\_D.dwg (revision A) to insert the supplied editable drawi
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-reg615-ansi-5-1-configuration-d-6e067166a3)
+
+- 2RCA036568\_REG615\_D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2RCA036568\_REG615\_D.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 9AKK108469A3643.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2RCA036568\_REG615\_D.dwg
@@ -106,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2RCA036568\_REG615\_D.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2RCA036568_REG615_D&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-reg615-ansi-5-1-configuration-d-6e067166a3/abb-3420bfe2fc1a3673e107-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ac6350ce9afa1651d3de3a1370fbd471e0e59b777619067652f4799447a2421c
 - Original bytes: 153424

@@ -31,7 +31,7 @@ This reference covers the connection or accessory named in “E1.2/E1.3 III W TE
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH001252R0039\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_SHR\_UPPER.stp revis
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e1-2-e1-3-iii-w-terminals-shr-upper-c8942c4366)
+
+- 1SDH001252R0039\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_SHR\_UPPER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0039\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_SHR\_UPPER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0039\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_SHR\_UPPER.stp
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0039\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_SHR\_UPPER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0039&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-w-terminals-shr-upper-c8942c4366/b07ce0483fa131d9ec2e-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b07ce0483fa131d9ec2ed00825c6d5d5c37612297e7cef1975ae9f467380648d
 - Original bytes: 833581

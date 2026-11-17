@@ -27,7 +27,7 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,17 @@ Available here: DWG, DXF, ZIP. The individual filenames above distinguish the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-qeid-upblast-fans)
+
+- QEID-UB-3D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- QEID-UB-3D.dxf: review_required (conversion\_access\_review\_required); delivered format DXF, contained formats DXF.
+- QEID-UB-33-300.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- QEID-UB-33-300.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- QEID\_UB\_LOD200\_AllSizes.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### QEID-UB-3D.dwg
@@ -88,7 +99,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (QEID-UB-3D.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-3D.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qeid-upblast-fans/greenheck-qeid-ub-3d-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 68f43dd9edfe52d3356f1b506e0604935e01598a46d4bc8b7ea58647048fe9aa
 - Original bytes: 399008
@@ -126,7 +137,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (QEID-UB-33-300.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-33-300.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qeid-upblast-fans/greenheck-qeid-ub-33-300-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 24b53eaa0d8904d8c18f7069fd51f3942496d7ff5b9d19ea56cae04015764370
 - Original bytes: 390166

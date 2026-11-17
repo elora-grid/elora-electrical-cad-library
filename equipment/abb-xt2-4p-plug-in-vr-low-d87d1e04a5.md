@@ -38,7 +38,7 @@ The supplied configuration is “XT2 4p PLUG-IN VR LOW”. Keep those frame, mou
 - Available previews: 4 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -103,6 +103,20 @@ Use 1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.stp revision A for
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-plug-in-vr-low-d87d1e04a5)
+
+- 1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0357\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0357\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.stp
@@ -129,7 +143,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0356&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/52ee5049ca74f102dfc2-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 52ee5049ca74f102dfc2e47a10378c00b406870e7fc59953dbf99e4de47d97cf
 - Original bytes: 94777
@@ -167,7 +181,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0357\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0357&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/50ac0192f78494cb9595-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 50ac0192f78494cb9595f300067a911600ad2b11789ab951520274059bc663ee
 - Original bytes: 94397
@@ -205,7 +219,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0402&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/2151678827bd0b2252c7-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2151678827bd0b2252c748e0c9bc464cdcfdf3f78fdf41c68a5d6fa063753992
 - Original bytes: 94787
@@ -243,7 +257,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0403&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/4db2c3124fe3257dea33-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 4db2c3124fe3257dea336bf55269edd6510b0824f4fa008734cdf786d7e778ab
 - Original bytes: 94407

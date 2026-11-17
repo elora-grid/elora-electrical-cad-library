@@ -32,11 +32,11 @@ The supplied configuration is “36LYQ126\_16.54”. Keep those frame, mounting 
 - Manufacturer reference: 36LYQ126\_18.04; 36LYQ126
 - Manufacturer reference: 36LYQ126
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 9
+- Listed files: 11
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -103,6 +103,23 @@ Use 36LYQ126\_16.54.dwg revision A for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-36lyq126-16-54-dwg-2d-autocad-dwg-2000-f31fcd1b8d)
+
+- 36LYQ126\_16.54.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYQ126\_16.54.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 36LYQ126.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 36LYQ126\_16.54.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 36LYQ126\_18.04.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYQ126\_18.04.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 36LYQ126\_16.54.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYQ126\_16.54.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 36LYQ126\_18.04.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYQ126\_16.54.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 36LYQ126\_18.04.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -206,7 +223,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (36LYQ126\_18.04.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ126_18.04&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyq126-16-54-dwg-2d-autocad-dwg-2000-f31fcd1b8d/adbd9a9c3f1f66b1c8b5-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: adbd9a9c3f1f66b1c8b512ded56b4569e89eea3e0e47882fef834820c9f44158
 - Original bytes: 531923
@@ -276,5 +293,29 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ126_18.04&LanguageCode=en&DocumentPartId=sat&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; SAT; 4075189 bytes
 - Delivery SHA-256: 1b7b879e7c5ac370591c25844e4436ab67a4fe0e3600cf2ef1b2243824c5a11e
+
+### 36LYQ126\_16.54.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 36LYQ126\_16.54, revision A. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ126_16.54&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: A
+- Retrieved: Not acquired
+
+### 36LYQ126\_18.04.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 36LYQ126\_18.04, revision A. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ126_18.04&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: A
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

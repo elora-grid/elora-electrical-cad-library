@@ -32,7 +32,7 @@ Use the manufacturer configuration named XT4 3p WITHDRAWABLE PS 100mmx48mm LOW.
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use 1SDH001295R0656.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-xt4-3p-withdrawable-ps-100mmx48mm-low-a0a5b5f176)
+
+- 1SDH001295R0656.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0656.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0656.stp
@@ -113,7 +121,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0656.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0656&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt4-3p-withdrawable-ps-100mmx48mm-low-a0a5b5f176/abb-2d6cd7c01797a23c27ff-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d3c61c90f60aaf3a4d0f31dea977f4ba71b821c59d14fedfba242a286c750ab2
 - Original bytes: 50537

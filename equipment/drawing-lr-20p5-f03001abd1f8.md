@@ -26,7 +26,7 @@ The verified native member is Drives-Motors-Motion/GS and Durapulse AC Drives/AC
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -132,6 +132,18 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 87d7a79737f1ec5353d945e263f5a4bc31fd5cc5855bb7a987039fcac68642ad
 - Containing archive SHA-256: 497f09da39e7b0d1621a9c66339a497adbdfbb2ecaf123a8df172efea1091a2c
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/ac_linereactors.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-lr-20p5-f03001abd1f8)
+
+- ac\_linereactors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- ac\_linereactors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- ac\_linereactors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- ac\_linereactors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- ac\_linereactors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- ac\_linereactors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

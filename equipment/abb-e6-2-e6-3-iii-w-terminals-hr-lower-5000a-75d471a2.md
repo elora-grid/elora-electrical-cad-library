@@ -30,7 +30,7 @@ Original STEP 3D geometry for E6.2/E6.3 III W TERMINALS HR LOWER 5000A; ABB docu
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0241\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_HR\_LOWER\_5000A.stp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e6-3-iii-w-terminals-hr-lower-5000a-75d471a2)
+
+- 1SDH001252R0241\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_HR\_LOWER\_5000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0241\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_HR\_LOWER\_5000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0241\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_HR\_LOWER\_5000A.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0241\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_HR\_LOWER\_5000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0241&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iii-w-terminals-hr-lower-5000a-75d471a2/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 72e21f58d220681f60d17489267fa472522d876b8a59b9f4c6ebf501520e69bb
 - Original bytes: 1115497

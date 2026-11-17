@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 8 drawing previews; 8 interactive model variants
 - Recorded revisions: 00, 01, 05
 - Source checked: 2026-10-28
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,28 @@ Choose IP21 for the standard unit in a dry location or IP65 for the sealed unit 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/victron-energy-smartshunt)
+
+- Dimension-Drawing-SmartShunt-300A-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- Dimension-Drawing-SmartShunt-300A-IP65-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-SmartShunt-500A50mV-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-SmartShunt1000A50mV-IP65-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-SmartShunt2000A50mV-IP65-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-SmartShunt500A50mV-IP65-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- SmartShunt-1000A50mV-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- SmartShunt-2000A50mV-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- Dimension-Drawing-SmartShunt-300A-IP65.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- Dimension-Drawing-SmartShunt-300A.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- DimensionDrawing-SmartShunt-500A50mV.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- DimensionDrawing-SmartShunt1000A50mV-IP65.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- DimensionDrawing-SmartShunt2000A50mV-IP65.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- DimensionDrawing-SmartShunt500A50mV-IP65.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- SmartShunt-1000A50mV.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- SmartShunt-2000A50mV.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

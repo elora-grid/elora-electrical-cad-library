@@ -30,7 +30,7 @@ The supplied configuration is “XT7 3p Withdrawable Circuit Breaker and Fixed P
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 1SDH002065A1439\_XT7\_3p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.s
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-3p-withdrawable-circuit-breaker-and-fixed-part-85e4d8dd3c)
+
+- 1SDH002065A1439\_XT7\_3p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1439\_XT7\_3p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1439\_XT7\_3p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.stp
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1439\_XT7\_3p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1439&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-3p-withdrawable-circuit-breaker-and-fixed-part-85e4d8dd3c/f422ee3efa1b2988db4e-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f422ee3efa1b2988db4e85ffadb1e1950c70395cc7b1ce31d44f2943e0f2dab8
 - Original bytes: 32152486

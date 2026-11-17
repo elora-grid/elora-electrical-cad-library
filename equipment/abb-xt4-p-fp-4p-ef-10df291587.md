@@ -31,7 +31,7 @@ The supplied configuration is “XT4 P FP 4p EF”. Keep those frame, mounting a
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 9AKK108471A5233\_enit\_A\_XT4\_P\_FP\_4p\_EF.stp revision A for the supplied
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt4-p-fp-4p-ef-10df291587)
+
+- 9AKK108471A5233\_enit\_A\_XT4\_P\_FP\_4p\_EF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 9AKK108471A5268.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

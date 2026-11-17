@@ -30,7 +30,7 @@ This reference covers the connection or accessory named in “E6.2/E6.3 IV F TER
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use 1SDH001252R0334\_E6.2\_IV\_F\_TERMINALS\_F\_UPPER.stp revision - for the sup
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e6-3-iv-f-terminals-f-upper-150f3da3e5)
+
+- 1SDH001252R0334\_E6.2\_IV\_F\_TERMINALS\_F\_UPPER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0334\_E6.2\_IV\_F\_TERMINALS\_F\_UPPER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0334\_E6.2\_IV\_F\_TERMINALS\_F\_UPPER.stp
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0334\_E6.2\_IV\_F\_TERMINALS\_F\_UPPER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0334&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iv-f-terminals-f-upper-150f3da3e5/1c04dc4097994ba10d83-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 1c04dc4097994ba10d831266a8f7accabb93ea486049e3cf0c4c8ecfdcfc7608
 - Original bytes: 9352770

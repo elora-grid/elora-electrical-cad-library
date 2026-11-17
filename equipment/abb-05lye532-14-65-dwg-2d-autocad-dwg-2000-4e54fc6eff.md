@@ -30,11 +30,11 @@ The supplied configuration is “05LYE532\_14.65”. Keep those frame, mounting 
 - Motor drawing designation (05LYE532): STD HORZ 143-5TC TENV VECTOR W/STD "BA" (THRU-SHAFT ENCODER)
 - Manufacturer reference: 05LYE532
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -94,6 +94,19 @@ Use 05LYE532\_14.65.dwg revision C for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-05lye532-14-65-dwg-2d-autocad-dwg-2000-4e54fc6eff)
+
+- 05LYE532\_14.65.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 05LYE532\_14.65.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 05LYE532.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 05LYE532\_14.65.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 05LYE532\_14.65.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 05LYE532\_14.65.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 05LYE532\_14.65.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -210,5 +223,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYE532_14.65&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 1202297 bytes
 - Delivery SHA-256: a25c26e99ce9c4d2f602e38653cffe5312da2d26505508dbb6a823b629e2e0ea
+
+### 05LYE532\_14.65.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 05LYE532\_14.65, revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=05LYE532_14.65&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

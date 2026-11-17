@@ -29,7 +29,7 @@ Use the manufacturer configuration named WIRING CR160MC LIGHTING CONTACTOR(55-21
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC911107D0201.dwg (revision C) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-wiring-cr160mc-lighting-contactor-55-216230s1-ac8fba7efb)
+
+- 1SQC911107D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC911107D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC911107D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC911107D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC911107D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC911107D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-cr160mc-lighting-contactor-55-216230s1-ac8fba7efb/abb-622500e9d885471aac30-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 28c42ad9319f6e427a17038580150ee2349da1fb5f5ad08f06a4c1ce1fb3ff7d
 - Original bytes: 262618

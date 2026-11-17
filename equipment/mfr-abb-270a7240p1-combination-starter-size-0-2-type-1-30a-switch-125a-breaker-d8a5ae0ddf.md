@@ -29,7 +29,7 @@ Use the manufacturer configuration named 270A7240P1 - COMBINATION STARTER SIZE 0
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC912022D0201.dwg (revision C) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-270a7240p1-combination-starter-size-0-2-type-1-30a-switch-125a-breaker-d8a5ae0ddf)
+
+- 1SQC912022D0201.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1SQC912022D0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SQC912022D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC912022D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC912022D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912022D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-270a7240p1-combination-starter-size-0-2-type-1-30a-switch-125a-breaker-d8a5ae0ddf/abb-88b42b937a2e7a2e1d45-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 8a5b07a0c4f8be2f631609614909e03607f4b024b971445eaad3b36322c8233e
 - Original bytes: 195616

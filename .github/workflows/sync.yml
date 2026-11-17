@@ -22,7 +22,7 @@ jobs:
       - run: npm run validate
       - name: Commit changed public metadata
         run: |
-          git add data schema equipment openapi.json README.md
+          git add data schema equipment openapi.json openapi-v1.json README.md
           if git diff --cached --quiet; then
             echo "Catalogue is already current."
             exit 0

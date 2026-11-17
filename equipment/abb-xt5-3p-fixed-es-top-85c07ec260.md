@@ -31,7 +31,7 @@ The supplied configuration is “XT5 3p Fixed ES top”. Keep those frame, mount
 - Available previews: 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1120\_XT5\_3p\_Fixed\_ES\_top\_Rev\_C.stp revision C for the supp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-3p-fixed-es-top-85c07ec260)
+
+- 1SDH002065A1120\_XT5\_3p\_Fixed\_ES\_top\_Rev\_C.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1120\_XT5\_3p\_Fixed\_ES\_top\_Rev\_C.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1120\_XT5\_3p\_Fixed\_ES\_top\_Rev\_C.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1120\_XT5\_3p\_Fixed\_ES\_top\_Rev\_C.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1120&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-fixed-es-top-85c07ec260/d5b08fb2f9a4697f893a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d5b08fb2f9a4697f893a119e3b8f5e7b27d0f33982df7858b7597add52c46ebe
 - Original bytes: 3783972

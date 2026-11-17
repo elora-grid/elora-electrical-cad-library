@@ -29,7 +29,7 @@ Use the manufacturer configuration named EXTENDED STARTER CR309HH(55-533945S1).
 - Available previews: 1 drawing previews
 - Recorded revisions: D
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 1SQC913515D0201.dwg (revision D) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-extended-starter-cr309hh-55-533945s1-d5a09b422b)
+
+- 1SQC913515D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC913515D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC913515D0201.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC913515D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913515D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=D)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-extended-starter-cr309hh-55-533945s1-d5a09b422b/abb-58d598d44da82215b8a8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f43118c283921973c5e71647f075e7907722235f493cb3d498d3d3e047a2284d
 - Original bytes: 188945

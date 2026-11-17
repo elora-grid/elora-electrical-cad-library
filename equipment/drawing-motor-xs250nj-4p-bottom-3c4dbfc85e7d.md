@@ -26,7 +26,7 @@ This set uses the exact filename stem MOTOR-XS250NJ-4P. Its views are stored in 
 - Available previews: 3 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -110,6 +110,15 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: a33e0c8f7acf5645261644ca43d036dccc29053a0595a2e9fa8e8ebf4a5e9793
 - Containing archive SHA-256: a300645966ff7c6a2f99f211e8516c11c769fdd821cf08b2835b0f59cfde8ed6
 - [Original publisher source](https://www.nhp.com.au/public/assets/pim/Original/10028/Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-motor-xs250nj-4p-bottom-3c4dbfc85e7d)
+
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-Tembreak-1-MCCB-CAD-Blocks-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

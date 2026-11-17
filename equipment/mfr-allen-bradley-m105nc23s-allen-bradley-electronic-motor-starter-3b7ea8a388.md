@@ -29,7 +29,7 @@ Use the manufacturer configuration named M105NC23S Allen Bradley Electronic Moto
 - Available previews: 4 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ M105NC23S-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip is the origina
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-m105nc23s-allen-bradley-electronic-motor-starter-3b7ea8a388)
+
+- M105NC23S-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- M105NC23S-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ Original STEP 3D geometry for E6.2 IVFS F INSULATING SHEET; ABB document 1SDH001
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0370\_E6.2\_IVFS\_F\_INSULATING\_SHEET.stp for E6.2 IVFS F INSULA
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-ivfs-f-insulating-sheet-025923ed)
+
+- 1SDH001252R0370\_E6.2\_IVFS\_F\_INSULATING\_SHEET.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0370\_E6.2\_IVFS\_F\_INSULATING\_SHEET.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0370\_E6.2\_IVFS\_F\_INSULATING\_SHEET.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0370\_E6.2\_IVFS\_F\_INSULATING\_SHEET.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0370&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-ivfs-f-insulating-sheet-025923ed/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0c89332510526d1aa7cbe3e55f1aa6ee513c158cc9afab0bee188be6b22af6e7
 - Original bytes: 15572

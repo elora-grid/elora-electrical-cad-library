@@ -31,7 +31,7 @@ This reference covers the connection or accessory named in “E2.2/E2.3 IV W TER
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH001252R0325\_1PA\_001\_02\_E2.2\_IV\_W\_TERMINALS\_F\_LOWER.stp revision
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-e2-3-iv-w-terminals-f-lower-f33e8d4029)
+
+- 1SDH001252R0325\_1PA\_001\_02\_E2.2\_IV\_W\_TERMINALS\_F\_LOWER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0325\_1PA\_001\_02\_E2.2\_IV\_W\_TERMINALS\_F\_LOWER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0325\_1PA\_001\_02\_E2.2\_IV\_W\_TERMINALS\_F\_LOWER.stp
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0325\_1PA\_001\_02\_E2.2\_IV\_W\_TERMINALS\_F\_LOWER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0325&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-w-terminals-f-lower-f33e8d4029/995d40c03f67ebd841c4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 995d40c03f67ebd841c4cce52c447dd161f5298e49f4a3a830ce928ae2e04bfa
 - Original bytes: 4130369

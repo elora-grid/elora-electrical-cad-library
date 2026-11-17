@@ -26,7 +26,7 @@ The acquired source archive contains Enclosures and Wiring/Wire Duct/T1 Series/T
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -123,6 +123,17 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 550a5b6171c7bc8bad6ed74e6ee1c148176588ee8976133d97a56eefb7ccf3ff
 - Containing archive SHA-256: b8c7cf9f74ad957337812fc4939962a8e2a3b5cba7eddce13ea1c0b6c9c9eab3
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/wireduct.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-t1-1010g-c7eb41b3d004)
+
+- wireduct.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- wireduct.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- wireduct.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- wireduct.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- wireduct.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

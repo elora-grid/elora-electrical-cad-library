@@ -30,7 +30,7 @@ Manufacturer reference RE\_615\_50 identifies this protection or metering refere
 - Available previews: 2 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,15 @@ Use RE\_615.dwg revision A for editable DWG drawing geometry. Keep its original 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-615-series-hmi-front-drawing-1f94cccae6)
+
+- RE\_615.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- RE\_615.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- RE\_615\_50.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### RE\_615.dwg
@@ -101,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (RE\_615.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=RE_615_50&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-615-series-hmi-front-drawing-1f94cccae6/45e44fed1154c3f3fbb7-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 45e44fed1154c3f3fbb7a3bbd573a8972092c464e4f3edf9a9a299a397206ee1
 - Original bytes: 244054

@@ -30,7 +30,7 @@ Use the manufacturer configuration named Contactor, AF190, AF205.
 - Available previews: 2 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,15 @@ Use 1SFB535001G1056.DWG.dwg to insert the supplied editable drawing into your la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-contactor-af190-af205-566312197b)
+
+- 1SFB535001G1056.DWG.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SFB535001G1056.DWG.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SFB535001G1122.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SFB535001G1056.DWG.dwg
@@ -106,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SFB535001G1056.DWG.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SFB535001G1056.DWG&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-contactor-af190-af205-566312197b/abb-e15254773bdf185b1d61-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 1bf85e6e5aebcf6ad86a5cb1ed405933e4b0a1ffed745f12d3eedbdace510fe4
 - Original bytes: 645226

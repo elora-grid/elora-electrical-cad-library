@@ -26,7 +26,7 @@ The verified native member is PLC Families/BRX/BX-16ND3.dwg. Its identity was ch
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: fd653d3f84263cf3c694960ebee6ada74b2dd28a6960d041bad818e286d83ef1
 - Containing archive SHA-256: 11630269a263f1fece253869adca11af60afefa4b76c9ae8c9a30c5d6efeaa4a
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/brx.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bx-16nd3-d56b03e53cbf)
+
+- brx.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

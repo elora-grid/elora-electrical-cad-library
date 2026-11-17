@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,17 @@ Available here: ZIP, DWG, DXF. The individual filenames above distinguish the su
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-se-fans)
+
+- SE\_LOD200\_AllSizes.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+- SE-3D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SE-3D.dxf: review_required (conversion\_access\_review\_required); delivered format DXF, contained formats DXF.
+- SE-1-10.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SE-1-10.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -118,7 +129,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SE-3D.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10010/SE-3D.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-se-fans/greenheck-se-3d-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 223295799c8f8fc40613b937ed4fb453db204660fd7cc21b5e78a0e781554314
 - Original bytes: 365350
@@ -158,7 +169,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SE-1-10.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SE-1-10.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-se-fans/greenheck-se-1-10-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f52117632eea725127161edafd7aeb425406f80cc920af74275400ce34f9b58a
 - Original bytes: 408430

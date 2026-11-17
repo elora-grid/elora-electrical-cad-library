@@ -32,7 +32,7 @@ Manufacturer reference option-d-arc-protection-4189341408-uk.pdf; mvr-200-series
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -74,6 +74,16 @@ Use option-d-arc-protection-4189341408-uk.pdf to read the original manufacturer 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-mvr-f2xx-2b4a1e5043)
+
+- option-d-arc-protection-4189341408-uk.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- mvr-200-series-autocad-dimensions-and-faceplates.zip: public (official\_source); delivered format ZIP, contained formats not recorded.
+- mvr-21x-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- mvr-21x-2d-cad-drawing.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

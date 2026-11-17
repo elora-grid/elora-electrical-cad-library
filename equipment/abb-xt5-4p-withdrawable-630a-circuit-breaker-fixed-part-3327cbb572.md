@@ -30,7 +30,7 @@ The supplied configuration is “XT5 4p Withdrawable 630A Circuit Breaker + Fixe
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 1SDH002065A1325.stp revision B for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-4p-withdrawable-630a-circuit-breaker-fixed-part-3327cbb572)
+
+- 1SDH002065A1325.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1325.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1325.stp
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1325.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1325&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-withdrawable-630a-circuit-breaker-fixed-part-3327cbb572/70a619c9f6e5e2c3c562-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 70a619c9f6e5e2c3c562f6881e78d0678d615fdd0c3054b513e3f08e98b70196
 - Original bytes: 27010540

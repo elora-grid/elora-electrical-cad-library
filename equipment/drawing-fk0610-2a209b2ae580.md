@@ -26,7 +26,7 @@ The acquired source archive contains Enclosures and Wiring/Enclosure Accessories
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: e6bd4b96f802310f6e86724b3f8d8346cb0cdcd8442414774c2b99029c559311
 - Containing archive SHA-256: 8e75f2d89776d2fc0f9565a952d7df2032b23c878b2457a28910b46d59bb55d0
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/enclacc.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-fk0610-2a209b2ae580)
+
+- enclacc.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

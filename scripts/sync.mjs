@@ -1,9 +1,10 @@
-import {readFile,writeFile,mkdir,readdir,unlink} from 'node:fs/promises';
+import {readFile,writeFile,mkdir,readdir,unlink,mkdtemp} from 'node:fs/promises';
+import {rmSync} from 'node:fs';
+import {tmpdir} from 'node:os';
 import {fileURLToPath} from 'node:url';
 import {resolve,join} from 'node:path';
 import {createHash} from 'node:crypto';
-import {gzipSync} from 'node:zlib';
-import {decodeSnapshot,MAX_DECODED_BYTES,sha256} from './snapshot.mjs';
+import {inspectSnapshot,downloadSnapshot} from './snapshot.mjs';
 import {BASE,REPOSITORY,CATEGORIES,SCHEMA,validateCatalogue,csv,entryMarkdown,clean,snapshotCounts,sourceAuditSummary} from './catalogue.mjs';
 const root=fileURLToPath(new URL('..',import.meta.url));
 const args=process.argv.slice(2);
@@ -11,26 +12,21 @@ if(args.length && !(args.length===2&&args[0]==='--input-dir'))throw Error('Usage
 const input=args[0]==='--input-dir'?resolve(args[1]):null;
 let bulkSnapshot;
 async function source(name,path){
-  let body,packed;
-  if(input){
-    if(name==='catalogue.json'){
-      try{packed=await readFile(join(input,'catalogue.json.gz'));body=decodeSnapshot(packed).toString('utf8');}
-      catch(error){if(error.code!=='ENOENT')throw error;body=await readFile(join(input,name),'utf8');}
-    }else body=await readFile(join(input,name),'utf8');
-  }else{
-    const response=await fetch(`${BASE}/${path}`,{signal:AbortSignal.timeout(120000),redirect:'error',headers:{Accept:'application/json'}});
-    if(!response.ok)throw Error(`Public feed ${name}: HTTP ${response.status}`);
-    const chunks=[];let size=0;
-    for await(const chunk of response.body){size+=chunk.length;if(size>MAX_DECODED_BYTES)throw Error('Public feed exceeds decoded export size limit');chunks.push(chunk);}
-    body=Buffer.concat(chunks).toString('utf8');
-  }
-  if(Buffer.byteLength(body)>MAX_DECODED_BYTES)throw Error('Public feed exceeds decoded export size limit');
-  if(name==='catalogue.json')bulkSnapshot={packed:packed||gzipSync(body,{level:9}),decodedBytes:Buffer.byteLength(body),decodedSha256:sha256(body)};
-  return JSON.parse(body);
+ if(name==='catalogue.json'){
+  let file;
+  if(input)file=join(input,'catalogue.json.gz');
+  else{const temporary=await mkdtemp(join(tmpdir(),'public-cad-sync-'));process.once('exit',()=>rmSync(temporary,{recursive:true,force:true}));file=join(temporary,'catalogue.json.gz');await downloadSnapshot(file);}
+  const {catalogue,decodedBytes,decodedSha256}=await inspectSnapshot(file);
+  bulkSnapshot={packed:await readFile(file),decodedBytes,decodedSha256};return catalogue;
+ }
+ const body=input?await readFile(join(input,name),'utf8'):await(async()=>{const response=await fetch(`${BASE}/${path}`,{signal:AbortSignal.timeout(60000),redirect:'error',headers:{Accept:'application/json'}});if(!response.ok)throw Error(`Public feed ${name}: HTTP ${response.status}`);return response.text();})();
+ if(Buffer.byteLength(body)>16*1024**2)throw Error('Public contract or audit exceeds bound');return JSON.parse(body);
 }
 const catalogue=validateCatalogue(await source('catalogue.json','../../cad-library/catalogue.json'));
 const openapi=await source('openapi.json','openapi.json');
 const audit=await source('audit.json','catalogue.json?audit=1');
+const agentOpenapi=await source('openapi-v1.json','../../api/cad/v1/openapi.json');
+if(agentOpenapi.openapi!=='3.1.0'||agentOpenapi.servers?.[0]?.url!=='https://eloragrid.ai/api/cad/v1'||!agentOpenapi.paths?.['/items'])throw Error('Unexpected agent API contract');
 if(openapi.openapi!=='3.1.0'||openapi.servers?.[0]?.url!=='https://eloragrid.ai'||!openapi.paths?.[`${new URL(BASE).pathname}/catalogue.json`])throw Error('Unexpected OpenAPI source');
 // Count the complete validated feed independently of the older source-register audit.
 const records=catalogue.equipment;
@@ -42,14 +38,14 @@ const json=value=>JSON.stringify(value,null,2)+'\n';
 // Small discovery shards below avoid requiring agents to fetch this bulk file.
 outputs.set('data/catalogue.json.gz',bulkSnapshot.packed);
 outputs.set('schema/catalogue.schema.json',json(SCHEMA));
-outputs.set('openapi.json',json(openapi));
+outputs.set('openapi.json',json(openapi));outputs.set('openapi-v1.json',json(agentOpenapi));
 outputs.set('data/catalogue.csv',csv([
   ['id','manufacturer','name','category','kind','part_number','markets','formats','access','canonical_url','official_source_url','checked_at','hosted_files','download_urls','live_markdown_url','live_json_url','preview_image_url','related_reference_urls'],
   ...records.map(r=>[r.id,r.manufacturer,r.name,r.category,r.kind,r.partNumber,r.markets.join('; '),r.formats.join('; '),r.availability,r.canonicalUrl,r.sourceUrl,r.checkedAt,r.files.filter(f=>f.downloadUrl).length,r.files.map(f=>f.downloadUrl).filter(Boolean).join('; '),`${BASE}/entries/${r.id}.md`,`${BASE}/entries/${r.id}.json`,r.previewImage?`https://eloragrid.ai${r.previewImage}`:'',(r.relatedReferences||[]).map(ref=>ref.url).join('; ')])
 ]));
 outputs.set('data/files.csv',csv([
-  ['record_id','file_id','manufacturer','name','format','purpose','official_url','site_download_url','redistribution','license_id','license_url','original_sha256','original_bytes','revision','retrieved_at','hosting_policy','hosting_checked_at','attribution','delivery_kind','delivery_format','delivery_sha256','delivery_bytes','archive_member'],
-  ...records.flatMap(r=>r.files.map(f=>[r.id,f.id,r.manufacturer,f.name,f.format,f.purpose,f.url,f.downloadUrl,f.redistribution,f.license?.id,f.license?.url,f.sha256,f.bytes,f.revision,f.retrievedAt,f.hostingBasis?.policy,f.hostingBasis?.checkedAt,f.hostingBasis?.attribution,f.delivery?.kind||(f.delivery?'licensed-bundle':''),f.delivery?.format,f.delivery?.sha256,f.delivery?.bytes,f.archiveMember]))
+  ['record_id','file_id','manufacturer','name','format','purpose','official_url','site_download_url','redistribution','license_id','license_url','original_sha256','original_bytes','revision','retrieved_at','hosting_policy','hosting_checked_at','attribution','delivery_kind','delivery_format','delivery_sha256','delivery_bytes','archive_member','artifact_access','access_reason','geometry_kind','units'],
+  ...records.flatMap(r=>r.files.map(f=>[r.id,f.id,r.manufacturer,f.name,f.format,f.purpose,f.url,f.downloadUrl,f.redistribution,f.license?.id,f.license?.url,f.sha256,f.bytes,f.revision,f.retrievedAt,f.hostingBasis?.policy,f.hostingBasis?.checkedAt,f.hostingBasis?.attribution,f.delivery?.kind||(f.delivery?'licensed-bundle':''),f.delivery?.format,f.delivery?.sha256,f.delivery?.bytes,f.archiveMember,r.artifacts?.find(a=>a.id===f.id)?.access.access,r.artifacts?.find(a=>a.id===f.id)?.access.reason,f.geometryKind,f.units]))
 ]));
 for(const r of records)outputs.set(`equipment/${r.id}.md`,entryMarkdown(r));
 const categoryIndexes=[];
@@ -76,7 +72,7 @@ outputs.set('README.md',[
   '# Elora Electrical CAD Library','',
   'Open catalogue of official manufacturer CAD, BIM and electrical engineering drawing sources for switchboards, switchgear, switchrooms, generators and microgrids. Free for engineers and AI agents.','',
   `**[Search and download CAD on Elora](${BASE})** · [Full JSON (gzip)](data/catalogue.json.gz) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)`,'',
-  `The current snapshot contains **${counts.entries.toLocaleString('en-US')} catalogue entries**, **${counts.manufacturers} manufacturers**, **${counts.categories} equipment categories**, and **${counts.hostedFileEntries.toLocaleString('en-US')} site download entries** representing **${counts.distinctHostedOriginals.toLocaleString('en-US')} distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)`,'',
+  `The current snapshot contains **${counts.entries.toLocaleString('en-US')} catalogue entries**, **${counts.manufacturers} manufacturers**, **${counts.categories} equipment categories**, and **${counts.hostedFileEntries.toLocaleString('en-US')} public Elora download entries** representing **${counts.distinctHostedOriginals.toLocaleString('en-US')} distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)`,'',
   '## Find CAD','',
   '- [Equipment index](equipment/README.md): one readable page per source, with manufacturer links, available files and rights evidence.',
   '- [Compact discovery index](data/index.json): category indexes in chunks of at most 250 records, with exact Markdown and live JSON links.',
@@ -85,14 +81,15 @@ outputs.set('README.md',[
   '- [API guide](docs/api.md), [MCP connection guide](docs/mcp.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access and current rollout discovery.',
   '- [Coverage audit]('+BASE+'/coverage): collection gaps and acquisition priorities.','',
   `The snapshot includes **${counts.drawingEntries} individually identified drawing entries** and **${counts.previewableEntries} entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.`,'',
+  `The feed lists **${counts.listedFiles.toLocaleString('en-US')} files** in total. Artifact decisions are recorded separately: **${counts.publicArtifactAccessEntries.toLocaleString('en-US')} public**, **${counts.accountRequiredArtifactEntries.toLocaleString('en-US')} requiring a CAD account** and **${counts.reviewRequiredArtifactEntries.toLocaleString('en-US')} requiring review**. A public classification alone does not mean a hosted attachment is available.`, '',
   'Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.','',
   `Counts above describe the full published catalogue. The separate source-register audit covers ${sourceAudit.records} earlier records and excludes later drawing-level and curated additions; its totals are not the full catalogue totals.`,'',
   '## Equipment coverage','',
   'Switchboards and LV/MV/HV switchgear; breakers and accessories; enclosures, busbar and fabrication hardware; protection, metering, automation, wiring and terminals; auxiliary power and UPS; cooling, ventilation, power quality and drives; transformers and earthing; generators, alternators and auxiliaries; batteries and PCS; solar and inverters; communications, cable management and switchroom services.','',
   'USA, Australia, UK and Europe have equal research priority. Market tags support discovery; they do not establish product-level regional parity or IEC/UL certification. The collection is expanding and is not exhaustive SKU or assembly coverage.','',
   '## API and MCP access','',
-  'Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. The agent-access release is deployed separately from this metadata snapshot. If discovery or v1 capabilities is unavailable, use the existing catalogue API below; never guess an MCP URL. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).','',
-  'The v1 workflows find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account after the access rollout, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.','',
+  'Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. API and MCP use the published catalogue and current artifact access decisions. Connect through the configured endpoint in discovery; never guess an MCP URL. The existing catalogue API remains available for metadata integrations. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).','',
+  'The [versioned contract](openapi-v1.json) describes workflows that find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.','',
   '## Use with an AI agent','',
   'Read [docs/agents.md](docs/agents.md), then search the JSON catalogue or live API. Return canonical equipment pages and stable `downloadUrl` values. Preserve manufacturer attribution and per-file rights information. Do not treat a family archive or manufacturer portal as an exact configured product.','',
   '```sh','npm run search -- --query "inverter" --market US --hosted','npm run sync','npm run validate','npm test','```','',

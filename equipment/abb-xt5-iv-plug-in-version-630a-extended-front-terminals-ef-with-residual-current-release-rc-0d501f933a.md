@@ -30,7 +30,7 @@ This reference covers the connection or accessory named in “XT5 IV plug-in ver
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,13 @@ Use 2tfh001042a1001\_XT5\_IV\_plug\_in\_version\_630A\_extended\_front\_terminal
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-iv-plug-in-version-630a-extended-front-terminals-ef-with-residual-current-release-rc-0d501f933a)
+
+- 2tfh001042a1001\_XT5\_IV\_plug\_in\_version\_630A\_extended\_front\_terminals\_EF\_with\_residual\_current\_release\_\_RC\_.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

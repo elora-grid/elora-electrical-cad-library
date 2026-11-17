@@ -27,7 +27,7 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -74,6 +74,14 @@ Use 9AKK108468A4136.dxf to insert the supplied editable drawing into your layout
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-1sep622003r0001-zhbm3-3p-m12-lh-cs-19b856a8e5)
+
+- 9AKK108468A4136.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+- 9AKK108466A1517.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

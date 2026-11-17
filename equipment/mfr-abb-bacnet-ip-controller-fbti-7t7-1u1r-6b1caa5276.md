@@ -29,7 +29,7 @@ Use the manufacturer configuration named BACnet IP Controller FBTi-7T7-1U1R.
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 9AKK108471A3759.dwg (revision A) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-bacnet-ip-controller-fbti-7t7-1u1r-6b1caa5276)
+
+- 9AKK108471A3759.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 9AKK108471A3759.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK108471A3759.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK108471A3759.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3759&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-bacnet-ip-controller-fbti-7t7-1u1r-6b1caa5276/abb-d6907e307670d00e8310-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d0b49974e01821d0274951d7d820a0db6c850116ec51cd25d57ac5e3cb9e0e0e
 - Original bytes: 279012

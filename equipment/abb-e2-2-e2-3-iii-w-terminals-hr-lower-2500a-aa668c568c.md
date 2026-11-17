@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E2.2/E2.3 III W TE
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001252R0108\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_LOWER\_2500A.stp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c)
+
+- 1SDH001252R0108\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_LOWER\_2500A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0108\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_LOWER\_2500A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0110\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_UPPER\_2500A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0110\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_UPPER\_2500A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0108\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_LOWER\_2500A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0108\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_LOWER\_2500A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0108&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c/14f638e9d2eadeac35e0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 14f638e9d2eadeac35e06779e253b1c242cf8f14e83db7dd84b39d8163542863
 - Original bytes: 595511
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0110\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_HR\_UPPER\_2500A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0110&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-w-terminals-hr-lower-2500a-aa668c568c/eb351186769b66eb4662-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: eb351186769b66eb466236420cb2b4fd0cd00a2abc8ef70bbebe89ca55deb062
 - Original bytes: 594399

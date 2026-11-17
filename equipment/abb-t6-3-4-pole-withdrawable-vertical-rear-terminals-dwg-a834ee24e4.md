@@ -32,7 +32,7 @@ This reference covers the connection or accessory named in “T6, 3/4 Pole withd
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use D\_2202\_9000\_035.dwg revision - for editable DWG drawing geometry. Keep it
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t6-3-4-pole-withdrawable-vertical-rear-terminals-dwg-a834ee24e4)
+
+- D\_2202\_9000\_035.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- D 2202 9000-035\_PDF.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- D\_2202\_9000\_035.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

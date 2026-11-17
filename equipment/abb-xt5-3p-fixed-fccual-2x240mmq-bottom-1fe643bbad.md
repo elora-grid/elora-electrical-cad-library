@@ -31,7 +31,7 @@ The supplied configuration is “XT5 3p Fixed FCCuAl 2x240mmq bottom”. Keep th
 - Available previews: 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.stp revisi
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-3p-fixed-fccual-2x240mmq-bottom-1fe643bbad)
+
+- 1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1132&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-fixed-fccual-2x240mmq-bottom-1fe643bbad/37fc2478d01cc38d6d76-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 37fc2478d01cc38d6d76b7dcafd2b48d0bcc8f93bec732be472d7adb1c3f0999
 - Original bytes: 6370147

@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT6 3p Withdrawable 800A EF top; ABB document 1SDH
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH002065A1261\_XT6\_3p\_Withdrawable\_800A\_EF\_top.stp for XT6 3p Withdra
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-3p-withdrawable-800a-ef-top-fdbdc293)
+
+- 1SDH002065A1261\_XT6\_3p\_Withdrawable\_800A\_EF\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1261\_XT6\_3p\_Withdrawable\_800A\_EF\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1261\_XT6\_3p\_Withdrawable\_800A\_EF\_top.stp
@@ -108,7 +116,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1261\_XT6\_3p\_Withdrawable\_800A\_EF\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1261&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-withdrawable-800a-ef-top-fdbdc293/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ddd2af08a0afc389cf3d26b893cab99a12e2bb6d84311b150cefbab4956a4351
 - Original bytes: 803790

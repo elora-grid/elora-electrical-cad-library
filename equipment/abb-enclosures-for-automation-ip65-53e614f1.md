@@ -29,7 +29,7 @@ Original DWG drawing for Enclosures for automation IP65; ABB document 9AKK105713
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,14 @@ Use ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dwg for Enclosures for auto
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-enclosures-for-automation-ip65-53e614f1)
+
+- ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7745&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-enclosures-for-automation-ip65-53e614f1/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c8b3d5fce8e753b1b7087184ed3e7968ff35fff1bad27ae6cb2672ea733e2750
 - Original bytes: 482102

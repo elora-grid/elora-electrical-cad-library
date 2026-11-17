@@ -31,7 +31,7 @@ Use the manufacturer configuration named 440PM18001 Limit Switch.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use 440P-M18001-Limit-Switch-2D-CAD-Block.dwg to insert the supplied editable dr
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-440pm18001-limit-switch-46abe4223b)
+
+- 440P-M18001-Limit-Switch-2D-CAD-Block.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- 440P-M18001-Limit-Switch-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 440PM18001-Limit-Switch-STEP-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 440P-M18001-Limit-Switch-2D-CAD-Block.dwg
@@ -109,7 +118,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (440P-M18001-Limit-Switch-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10050/440P-M18001-Limit-Switch-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-440pm18001-limit-switch-46abe4223b/nhp-189137-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0e3d7b30959289f280ea6a8f12b941002eb562e315d63613ef40e6bece391d43
 - Original bytes: 597105

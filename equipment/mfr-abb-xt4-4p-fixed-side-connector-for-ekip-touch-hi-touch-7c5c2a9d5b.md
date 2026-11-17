@@ -32,7 +32,7 @@ Use the manufacturer configuration named XT4 4p Fixed Side connector for Ekip To
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use 1SDH001295R0907.stp (revision C) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-xt4-4p-fixed-side-connector-for-ekip-touch-hi-touch-7c5c2a9d5b)
+
+- 1SDH001295R0907.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0907.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0907.stp
@@ -113,7 +121,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0907.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0907&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt4-4p-fixed-side-connector-for-ekip-touch-hi-touch-7c5c2a9d5b/abb-231578c819b890be58d3-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 8460e0244521f326177fa744d95149fd8cd72ccc78959dfed173b29476991fa5
 - Original bytes: 157425

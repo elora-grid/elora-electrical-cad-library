@@ -26,7 +26,7 @@ Native project CAD can depend on symbols and footprints in the official reposito
 - Available previews: 1 drawing previews
 - Recorded revisions: b1c11fee826d
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -60,6 +60,19 @@ Available here: SCH, KICAD\_PCB. The individual filenames above distinguish the 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/open-hardware-mppt-2420-hc)
+
+- can.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- dcdc.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- load-switch.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- mcu.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- mppt-2420-hc.kicad\_pcb: public (public\_original); delivered format ZIP, contained formats KICAD\_PCB.
+- mppt-2420-hc.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- power-supply.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

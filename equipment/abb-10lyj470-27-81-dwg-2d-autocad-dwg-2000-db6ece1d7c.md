@@ -29,11 +29,11 @@ The supplied configuration is “10LYJ470\_27.81”. Keep those frame, mounting 
 - Motor drawing designation (10LYJ470): HORZ TEFC 284-6T W/ABB INT SH GND
 - Manufacturer reference: 10LYJ470
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -92,6 +92,19 @@ Use 10LYJ470\_27.81.dwg revision D for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyj470-27-81-dwg-2d-autocad-dwg-2000-db6ece1d7c)
+
+- 10LYJ470\_27.81.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 10LYJ470\_27.81.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 10LYJ470.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYJ470\_27.81.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 10LYJ470\_27.81.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 10LYJ470\_27.81.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 10LYJ470\_27.81.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 10LYJ470\_27.81.dwg
@@ -118,7 +131,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (10LYJ470\_27.81.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyj470-27-81-dwg-2d-autocad-dwg-2000-db6ece1d7c/ceb7abff6d304874b0c2-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ceb7abff6d304874b0c2887f5d55d7f4197478f42ef7f24291e050c9ef0c5a5f
 - Original bytes: 1038719
@@ -207,5 +220,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; SLDPRT; 2146192 bytes
 - Delivery SHA-256: 128aef43ab960398f2189797f78cb14751e18d686088ab31b5b60d8829285bce
+
+### 10LYJ470\_27.81.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 10LYJ470\_27.81, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

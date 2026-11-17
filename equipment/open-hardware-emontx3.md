@@ -26,7 +26,7 @@ Native project CAD can depend on symbols and footprints in the official reposito
 - Available previews: 8 drawing previews
 - Recorded revisions: 411de9618790
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -60,6 +60,27 @@ Available here: BRD, SCH. The individual filenames above distinguish the supplie
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/open-hardware-emontx3)
+
+- fascia.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.2.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.2.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonTx V3.4.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.4.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonTx V3.4.1.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.4.1.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonTx V3.4.2.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.4.2.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonTx V3.4.3.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.4.3.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonTx V3.4.4.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.4.4.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+- emonTx V3.4.5.brd: public (public\_original); delivered format ZIP, contained formats BRD.
+- emonTx V3.4.5.sch: public (public\_original); delivered format ZIP, contained formats SCH.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

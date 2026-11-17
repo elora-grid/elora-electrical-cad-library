@@ -29,11 +29,11 @@ The supplied configuration is “07LYM294\_25.03”. Keep those frame, mounting 
 - Motor drawing designation (07LYM294): STD HORZ 213-5TC TEFC CP V\*S MASTER VECTOR W/ DYNAPAR HSD38
 - Manufacturer reference: 07LYM294
 - Listed file formats: DWG, PDF, SLDPRT, DXF
-- Listed files: 4
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -88,6 +88,17 @@ Use 07LYM294\_25.03.dwg revision B for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-07lym294-25-03-dwg-2d-autocad-dwg-2000-36f670e9f5)
+
+- 07LYM294\_25.03.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 07LYM294\_25.03.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 07LYM294.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 07LYM294\_25.03.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 07LYM294\_25.03.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 07LYM294\_25.03.dwg
@@ -114,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (07LYM294\_25.03.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lym294-25-03-dwg-2d-autocad-dwg-2000-36f670e9f5/f34947870e1b0472f068-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f34947870e1b0472f06893e0a30074c0ef0a5053d76b2edd9d1ad20e42439a61
 - Original bytes: 3036143
@@ -165,5 +176,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; SLDPRT; 8458507 bytes
 - Delivery SHA-256: 6a9f135d38d356808b99dce5c6e2c0724e33fe012fd33272509ad13fd9149f39
+
+### 07LYM294\_25.03.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 07LYM294\_25.03, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

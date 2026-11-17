@@ -32,7 +32,7 @@ Keep the terminal-box side, mounting code and accessories stated in “M3BP225 4
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,13 @@ Use 3GZF500022-794.pdf revision B to read the original manufacturer sheet and it
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-m3bp225-4-12-g-gen-sma-4-sma-6-sma-8-smb-4-smb-6-smb-8-smc-4-smc-6-smc-8-smd-4-smd-6-k-gen-1539374a40)
+
+- 3GZF500022-794.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

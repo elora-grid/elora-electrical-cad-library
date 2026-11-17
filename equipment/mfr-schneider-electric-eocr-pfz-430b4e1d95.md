@@ -30,7 +30,7 @@ EOCR PFZ 시리즈의 bottom, M terminal 2D CAD
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use EOCR-PFZ(Bottom).dwg (revision 1.0) to insert the supplied editable drawing 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-eocr-pfz-430b4e1d95)
+
+- EOCR-PFZ(Bottom).dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- EOCR-PFZ(Bottom).dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### EOCR-PFZ(Bottom).dwg
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (EOCR-PFZ(Bottom).dwg).
 - [Official source](https://download.se.com/files?p_File_Name=EOCR-PFZ%28Bottom%29.dwg&p_Doc_Ref=EOCR-PFZ_2D_CAD&p_enDocType=CAD)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-eocr-pfz-430b4e1d95/se-b6caf6e85d612a6eaddb-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a76e807017b5c76ac4d95612b904467f38e4fd70d24278429444829b8c3175b0
 - Original bytes: 306513

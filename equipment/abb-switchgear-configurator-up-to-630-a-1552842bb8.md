@@ -30,7 +30,7 @@ Manufacturer reference 9AKK105713A7750 identifies this switchboard or switchgear
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dwg revision A for editable 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-switchgear-configurator-up-to-630-a-1552842bb8)
+
+- ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7750&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-switchgear-configurator-up-to-630-a-1552842bb8/042190a4e52b957db581-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 042190a4e52b957db581a375076199672a436e9b82253e5266b26705fdfbcc85
 - Original bytes: 3317570

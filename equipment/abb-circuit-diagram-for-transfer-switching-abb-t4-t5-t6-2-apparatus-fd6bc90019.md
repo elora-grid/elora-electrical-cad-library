@@ -30,7 +30,7 @@ The supplied configuration is “Circuit diagram for transfer switching - ABB T4
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use ABB\_SZR\_2xT4\_T5\_T6.dwg revision - for editable DWG drawing geometry. Kee
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-2-apparatus-fd6bc90019)
+
+- ABB\_SZR\_2xT4\_T5\_T6.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ABB\_SZR\_2xT4\_T5\_T6.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### ABB\_SZR\_2xT4\_T5\_T6.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ABB\_SZR\_2xT4\_T5\_T6.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3896&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-circuit-diagram-for-transfer-switching-abb-t4-t5-t6-2-apparatus-fd6bc90019/216f315b2ad878fb85bb-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 216f315b2ad878fb85bb35543f1c15ee3b6a1292062b2d3927b6201b48be8794
 - Original bytes: 323887

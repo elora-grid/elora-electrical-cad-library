@@ -30,11 +30,11 @@ The supplied configuration is “10LYJ281\_26.43”. Keep those frame, mounting 
 - Drawing views (10LYJ281.pdf, page 1): drive end detail
 - Manufacturer reference: 10LYJ281
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -95,6 +95,19 @@ Use 10LYJ281\_26.43.dwg revision C for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyj281-26-43-dwg-2d-autocad-dwg-2000-d800269ebf)
+
+- 10LYJ281\_26.43.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 10LYJ281\_26.43.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 10LYJ281.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYJ281\_26.43.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 10LYJ281\_26.43.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 10LYJ281\_26.43.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 10LYJ281\_26.43.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 10LYJ281\_26.43.dwg
@@ -121,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (10LYJ281\_26.43.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyj281-26-43-dwg-2d-autocad-dwg-2000-d800269ebf/2a00e05901dc3cf6ff46-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2a00e05901dc3cf6ff4654139ceba62101d6a53e051f9ba5392ba81cc3baecca
 - Original bytes: 1933961
@@ -210,5 +223,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 6154336 bytes
 - Delivery SHA-256: 1c4a3e35055416093415647982f220db60a1c6b200d8dfeb46c0732352763e21
+
+### 10LYJ281\_26.43.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 10LYJ281\_26.43, revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -30,7 +30,7 @@ The supplied configuration is “XT4 Flange Handle, Bell Crank & Acutator Assemb
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 2tse730003r1031\_REV\_A.dwg revision - for editable DWG drawing geometry. Ke
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt4-flange-handle-bell-crank-acutator-assembly-f35eb064de)
+
+- 2tse730003r1031\_REV\_A.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2tse730003r1031\_REV\_A.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2tse730003r1031\_REV\_A.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2tse730003r1031\_REV\_A.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2TSE730003R1031&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-flange-handle-bell-crank-acutator-assembly-f35eb064de/7873e10e5bea5bb39338-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7873e10e5bea5bb39338f4160555f7974378ada83b55568044a6c6900c94f02b
 - Original bytes: 2023196

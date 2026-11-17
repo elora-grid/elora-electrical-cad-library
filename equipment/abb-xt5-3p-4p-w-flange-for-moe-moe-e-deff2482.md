@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT5 3p 4p W Flange for MOE/MOE-E; ABB document 1SD
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1574\_XT5\_3p\_4p\_W\_Flange\_for\_MOEMOE\_E.stp for XT5 3p 4p W 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-3p-4p-w-flange-for-moe-moe-e-deff2482)
+
+- 1SDH002065A1574\_XT5\_3p\_4p\_W\_Flange\_for\_MOEMOE\_E.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1574\_XT5\_3p\_4p\_W\_Flange\_for\_MOEMOE\_E.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1574\_XT5\_3p\_4p\_W\_Flange\_for\_MOEMOE\_E.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1574\_XT5\_3p\_4p\_W\_Flange\_for\_MOEMOE\_E.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1574&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-w-flange-for-moe-moe-e-deff2482/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dd665bb3fa718bb7325222ee41e311bf66e4ef4b531a07e9972d27ee57d20f4b
 - Original bytes: 1359368

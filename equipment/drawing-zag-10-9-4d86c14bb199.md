@@ -26,7 +26,7 @@ The exact supplied files are Zag 10-9.STEP. Use the STEP assembly to coordinate 
 - Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -93,6 +93,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 1505c25e55d74b92e977234739cd6e7bac13f906d21384c35298c53ca60c90f1
 - Containing archive SHA-256: 16ff6ad79c6752d05a69272378cbfa5e9546aecc4258b68ea61dd8dcfbfea8cb
 - [Original publisher source](https://www.abtech-inc.com/downloads/258/Zag%2010-9.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zag-10-9-4d86c14bb199)
+
+- Zag 10-9.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

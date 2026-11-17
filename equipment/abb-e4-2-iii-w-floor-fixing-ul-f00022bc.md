@@ -30,7 +30,7 @@ Original STEP 3D geometry for E4.2 III W FLOOR FIXING - UL; ABB document 1SDH001
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001336R0187\_1PA\_001\_00\_E4.2\_III\_W\_FLOOR\_FIXING\_UL.stp for E4.2 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-iii-w-floor-fixing-ul-f00022bc)
+
+- 1SDH001336R0187\_1PA\_001\_00\_E4.2\_III\_W\_FLOOR\_FIXING\_UL.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0187\_1PA\_001\_00\_E4.2\_III\_W\_FLOOR\_FIXING\_UL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0187\_1PA\_001\_00\_E4.2\_III\_W\_FLOOR\_FIXING\_UL.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0187\_1PA\_001\_00\_E4.2\_III\_W\_FLOOR\_FIXING\_UL.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0187&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-iii-w-floor-fixing-ul-f00022bc/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2f98ea4035ccfc250a9a39cc2ca9f1a93465917b4baf59beebac161ec3a32031
 - Original bytes: 29227

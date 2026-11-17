@@ -30,7 +30,7 @@ Original STEP 3D geometry for E1.2/E1.3 III F TERMINALS F LOWER - UL; ABB docume
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001336R0011\_1PA\_001\_00\_E1.2\_III\_F\_TERMINALS\_F\_LOWER\_UL.stp for
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e1-2-e1-3-iii-f-terminals-f-lower-ul-90640a5d)
+
+- 1SDH001336R0011\_1PA\_001\_00\_E1.2\_III\_F\_TERMINALS\_F\_LOWER\_UL.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0011\_1PA\_001\_00\_E1.2\_III\_F\_TERMINALS\_F\_LOWER\_UL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0011\_1PA\_001\_00\_E1.2\_III\_F\_TERMINALS\_F\_LOWER\_UL.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0011\_1PA\_001\_00\_E1.2\_III\_F\_TERMINALS\_F\_LOWER\_UL.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0011&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-f-terminals-f-lower-ul-90640a5d/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d9f82bba226e900febb81831afa58d670fc9f2c93ca10bfc4c602654dcee45c7
 - Original bytes: 416664

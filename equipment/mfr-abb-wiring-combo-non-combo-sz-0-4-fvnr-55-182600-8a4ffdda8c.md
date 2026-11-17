@@ -29,7 +29,7 @@ Use the manufacturer configuration named Wiring , Combo Non-Combo SZ 0-4 FVNR (5
 - Available previews: 2 drawing previews
 - Recorded revisions: N
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC912167D0201.dwg (revision N) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-wiring-combo-non-combo-sz-0-4-fvnr-55-182600-8a4ffdda8c)
+
+- 1SQC912167D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC912167D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC912167D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC912167D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC912167D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912167D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=N)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-combo-non-combo-sz-0-4-fvnr-55-182600-8a4ffdda8c/abb-9c2a06472be21b88b7d8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 147d08a4f6bb4829f37ee7de4f15e140a9150f0ab1b9287bf63a13ebc95a63c3
 - Original bytes: 323109

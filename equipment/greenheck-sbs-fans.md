@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,17 @@ Available here: ZIP, DWG, DXF. The individual filenames above distinguish the su
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-sbs-fans)
+
+- SBS\_LOD200\_AllSizes.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+- SBS-3D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SBS-3D.dxf: review_required (conversion\_access\_review\_required); delivered format DXF, contained formats DXF.
+- SBS-1-20.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SBS-1-20.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -118,7 +129,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SBS-3D.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SBS-3D.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sbs-fans/greenheck-sbs-3d-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: bba24f589f75e46685015e651b6a94961b8db56ed0a46daf54839d37bbca3a97
 - Original bytes: 559322
@@ -158,7 +169,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SBS-1-20.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SBS-1-20.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sbs-fans/greenheck-sbs-1-20-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e00a2bdbac85588fd39220042f1487ed6358fe2e5b3329e277e153e11427bae6
 - Original bytes: 419402

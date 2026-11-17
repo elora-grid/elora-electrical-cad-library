@@ -31,7 +31,7 @@ Confirm the exact regional configuration against the selected manufacturer drawi
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -72,6 +72,14 @@ Use 1VCD003381.F0000\_with\_ES\_\_Unisafe\_.step revision A for the supplied sol
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-iec-powercube-enclosures-type-pb-e-pb-re-pb-te-3d-dimensional-drawing-72646fec92)
+
+- 1VCD003381.F0000\_with\_ES\_\_Unisafe\_.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 1VCD003374.F0001\_2D.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

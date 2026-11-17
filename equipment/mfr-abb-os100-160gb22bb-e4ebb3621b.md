@@ -34,7 +34,7 @@ OS100GB22BB, OS100GB22BBP, OS125GB22BB, OS125GB22BBP, OS160GB22BB, OS160GB22BBP,
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,14 @@ Use 1SCC318243F0001.dxf (revision A) to insert the supplied editable drawing int
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-os100-160gb22bb-e4ebb3621b)
+
+- 1SCC318243F0001.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+- OS160GB22BB.IGS.igs: public (public\_original); delivered format ZIP, contained formats IGES.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

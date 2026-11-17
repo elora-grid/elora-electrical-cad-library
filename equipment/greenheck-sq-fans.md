@@ -27,7 +27,7 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,16 @@ Available here: DWG, DXF. The individual filenames above distinguish the supplie
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-sq-fans)
+
+- SQ-3D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SQ-3D.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- SQ-24.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SQ-24.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SQ-3D.dwg
@@ -88,7 +98,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SQ-3D.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/SQ-3D.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sq-fans/greenheck-sq-3d-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ff731b8be5241b09f45be0fa6db7fb68b0f6209a712d4a85b8436a1823e21ea3
 - Original bytes: 2684652
@@ -126,7 +136,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SQ-24.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10012/SQ-24.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sq-fans/greenheck-sq-24-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a77a8f6cdbb693693eb39844093a7ede3313c8b4d0318a570ff9ff87c774376d
 - Original bytes: 407904

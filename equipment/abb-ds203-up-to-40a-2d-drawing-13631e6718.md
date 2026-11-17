@@ -30,7 +30,7 @@ The supplied configuration is “DS203 up to 40A - 2D Drawing”. Keep those fra
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use DS203\_up\_to\_40A.dwg revision - for editable DWG drawing geometry. Keep it
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ds203-up-to-40a-2d-drawing-13631e6718)
+
+- DS203\_up\_to\_40A.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- DS203\_up\_to\_40A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### DS203\_up\_to\_40A.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (DS203\_up\_to\_40A.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1590&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ds203-up-to-40a-2d-drawing-13631e6718/b5e8e0c9fd115e6d5c36-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b5e8e0c9fd115e6d5c36b880891eff67b71d8fd42b784ccce23b2d123d1371a9
 - Original bytes: 440302

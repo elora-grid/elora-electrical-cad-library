@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,14 @@ Available here: DWG, DXF. The individual filenames above distinguish the supplie
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer)
+
+- SUCGE0-04PF-2-0000001V\_SD\_1.DWG: public (public\_original); delivered format DWG, contained formats DWG.
+- SUCGE0-04PF-2-0000001V\_SD\_1.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SUCGE0-04PF-2-0000001V\_SD\_1.DWG
@@ -88,7 +96,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SUCGE0-04PF-2-0000001V\_SD\_1.DWG).
 - [Official source](https://miratechcorp.com/document_library2/Silencers_Accessories/Drawings/Silencer_Sales_Drawings/S-Series/SU-Series/SUC-Series/DWG/SUCGE0-04PF-2-0000001V_SD_1.DWG)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/miratech-sucge0-04pf-2-0000001v-engine-exhaust-silencer/miratech-sucge0-04pf-2-0000001v-sd-1-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 48fe9c6171c9d0741d87513f8218a73a6302207279a1d4d949142ca15b5ca9b6
 - Original bytes: 664859

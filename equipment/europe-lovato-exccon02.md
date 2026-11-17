@@ -27,7 +27,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,15 @@ Available here: DWG, DXF, STP. The individual filenames above distinguish the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/europe-lovato-exccon02)
+
+- 2d\_EXCCON02.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2d\_EXCCON02.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 3d\_EXCCON02.stp: public (public\_original); delivered format STP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2d\_EXCCON02.dwg
@@ -89,7 +98,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2d\_EXCCON02.dwg).
 - [Official source](https://catalogue.lovatoelectric.com/de_de/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_EXCCON02.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-exccon02/europe-lovato-exccon02-260161752896-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 11398c47323d171d1f07ae5bf71d632c1d8704496921f1c57d5018e24609b4d2
 - Original bytes: 252172

@@ -29,7 +29,7 @@ Original DWG drawing for Power Supply FLX-PS24 CAD Drawing (.DWG); ABB document 
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -74,6 +74,14 @@ Use Power\_Supply\_FLX\_PS24\_CAD\_Drawing\_\_.DWG\_.dwg for Power Supply FLX-PS
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-power-supply-flx-ps24-cad-drawing-dwg-952c72cc)
+
+- Power\_Supply\_FLX\_PS24\_CAD\_Drawing\_\_.DWG\_.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Power\_Supply\_FLX\_PS24\_CAD\_Drawing\_\_.DWG\_.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Power\_Supply\_FLX\_PS24\_CAD\_Drawing\_\_.DWG\_.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Power\_Supply\_FLX\_PS24\_CAD\_Drawing\_\_.DWG\_.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3775&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-power-supply-flx-ps24-cad-drawing-dwg-952c72cc/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 3d15b400e8289952bc51eda6c8729e6237e32d79b2d773d3d01ce5d73cca3478
 - Original bytes: 303963

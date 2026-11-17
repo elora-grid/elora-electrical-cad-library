@@ -36,7 +36,7 @@ The supplied configuration is “XT2 4p FIXED MC UP”. Keep those frame, mounti
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -96,6 +96,18 @@ Use 1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.stp revision A for th
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-fixed-mc-up-627c3f1bf9)
+
+- 1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.stp
@@ -122,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0295&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-mc-up-627c3f1bf9/564dabf0eaa3f110d23c-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 564dabf0eaa3f110d23c3f85cda744ce596ca5f480a62ffebe9fc35a7a81911c
 - Original bytes: 354887
@@ -160,7 +172,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0335&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-mc-up-627c3f1bf9/ead475500059ad6c8891-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ead475500059ad6c8891a2020150f5a239e9774ad7620d5318a8bbe11bbf3bdf
 - Original bytes: 355463
@@ -198,7 +210,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0377&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-mc-up-627c3f1bf9/6d771e94a936c79953a8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 6d771e94a936c79953a84ed3f6e46b09b92359b4aa558b5a3ab58f3160b503bb
 - Original bytes: 355473

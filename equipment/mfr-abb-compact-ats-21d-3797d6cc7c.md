@@ -29,7 +29,7 @@ Use the manufacturer configuration named Compact ATS 21D.
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 9AKK107045A5976.dwg (revision A) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-compact-ats-21d-3797d6cc7c)
+
+- 9AKK107045A5976.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 9AKK107045A5976.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK107045A5976.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK107045A5976.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107045A5976&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-compact-ats-21d-3797d6cc7c/abb-846ff8dc9d877b0588ff-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 65518c6f64736c4904f8024581eb3b8368d790b40afc9305c66e40e5ed88037d
 - Original bytes: 380768

@@ -29,7 +29,7 @@ Original DXF drawing for (T)AL9 ... (T)AL16, AL9Z ... AL16Z Contactors + LD16 Ad
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -73,6 +73,13 @@ Use FPTE307926.dxf for (T)AL9 ... (T)AL16, AL9Z ... AL16Z Contactors + LD16 Addi
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t-al9-t-al16-al9z-al16z-contactors-ld16-additional-terminal-block-27e5ab1d)
+
+- FPTE307926.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

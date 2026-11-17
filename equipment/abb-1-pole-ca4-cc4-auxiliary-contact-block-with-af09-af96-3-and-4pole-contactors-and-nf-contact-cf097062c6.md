@@ -30,7 +30,7 @@ Manufacturer reference 1SBB505014D4501.PDF identifies this motor-control referen
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -74,6 +74,13 @@ Use 1SBB505014D4501.PDF.pdf revision B to read the original manufacturer sheet a
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-1-pole-ca4-cc4-auxiliary-contact-block-with-af09-af96-3-and-4pole-contactors-and-nf-contact-cf097062c6)
+
+- 1SBB505014D4501.PDF: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

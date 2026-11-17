@@ -30,7 +30,7 @@ The supplied configuration is “1SEP102209R0001\_CE-XR1-185-4P\_2d\_DXF\_drawin
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,13 @@ Use 1sep102209r0001\_dimension\_2d.dxf revision A for editable DXF drawing geome
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-1sep102209r0001-ce-xr1-185-4p-2d-dxf-drawing-a61ad2cc85)
+
+- 1sep102209r0001\_dimension\_2d.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

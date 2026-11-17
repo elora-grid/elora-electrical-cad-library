@@ -30,7 +30,7 @@ The supplied configuration is “OS100GJS30: Fusible 100A frame, UL98, class J f
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use D\_2501\_8013\_016\_\_\_OS100GJS30.dwg revision - for editable DWG drawing g
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-os100gjs30-fusible-100a-frame-ul98-class-j-fuse-dwg-32cf010f18)
+
+- D\_2501\_8013\_016\_\_\_OS100GJS30.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- D 2501 8013-016 - OS100GJS03\_PDF.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

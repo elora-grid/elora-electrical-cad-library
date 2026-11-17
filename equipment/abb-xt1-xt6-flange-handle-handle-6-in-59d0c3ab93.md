@@ -31,7 +31,7 @@ The supplied configuration is “XT1...XT6 Flange Handle - Handle 6 IN”. Keep 
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A2092.stp revision A for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt1-xt6-flange-handle-handle-6-in-59d0c3ab93)
+
+- 1SDH002065A2092.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A2092.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A2092.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A2092.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2092&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-xt6-flange-handle-handle-6-in-59d0c3ab93/d47b37ba37f3aa9dea8d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d47b37ba37f3aa9dea8d7767e952e7670cbb496d7ed06dba34f862274d146154
 - Original bytes: 4698577

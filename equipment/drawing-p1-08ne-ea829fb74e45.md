@@ -26,7 +26,7 @@ The verified native member is PLC Families/P1000/P1-08NE.dwg. Its identity was c
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -88,6 +88,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 8f367a77ded5986c2bc0732dd3bc46813c9d7a12c969f2264f6e880aa2364e5e
 - Containing archive SHA-256: e0452210104345efa6dc873f83776bbb971cb8b0b41cdc48915bded8116a4662
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/p1000.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-p1-08ne-ea829fb74e45)
+
+- p1000.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

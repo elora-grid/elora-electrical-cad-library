@@ -3,19 +3,19 @@ import {fileURLToPath} from 'node:url';
 import {createHash} from 'node:crypto';
 import {join} from 'node:path';
 import {validateCatalogue,SCHEMA,snapshotCounts} from './catalogue.mjs';
-import {readSnapshot,decodeSnapshot,sha256} from './snapshot.mjs';
+import {inspectSnapshot} from './snapshot.mjs';
 const root=fileURLToPath(new URL('..',import.meta.url));
-const catalogue=validateCatalogue(await readSnapshot(new URL('../',import.meta.url)));
+const snapshot=await inspectSnapshot(new URL('../data/catalogue.json.gz',import.meta.url));
+const catalogue=validateCatalogue(snapshot.catalogue);
 const schema=JSON.parse(await readFile(join(root,'schema/catalogue.schema.json'),'utf8'));
 if(JSON.stringify(schema)!==JSON.stringify(SCHEMA))throw Error('Schema does not match exporter');
 const manifest=JSON.parse(await readFile(join(root,'data/manifest.json'),'utf8'));
 for(const [name,expected] of Object.entries(manifest.files)){
-  if(!/^(data|schema|equipment)\/[a-zA-Z0-9_./-]+$|^openapi\.json$/.test(name)||name.includes('..'))throw Error('Unexpected manifest path');
+  if(!/^(data|schema|equipment)\/[a-zA-Z0-9_./-]+$|^openapi(?:-v1)?\.json$/.test(name)||name.includes('..'))throw Error('Unexpected manifest path');
   const body=await readFile(join(root,name));
   if(body.length!==expected.bytes||createHash('sha256').update(body).digest('hex')!==expected.sha256)throw Error(`Snapshot checksum mismatch: ${name}`);
 }
-const packed=await readFile(join(root,manifest.distribution.path)),decoded=decodeSnapshot(packed);
-if(manifest.distribution.encoding!=='gzip'||decoded.length!==manifest.distribution.decodedBytes||sha256(decoded)!==manifest.distribution.decodedSha256)throw Error('Decoded catalogue checksum mismatch');
+if(manifest.distribution.path!=='data/catalogue.json.gz'||manifest.distribution.encoding!=='gzip'||snapshot.decodedBytes!==manifest.distribution.decodedBytes||snapshot.decodedSha256!==manifest.distribution.decodedSha256)throw Error('Decoded catalogue checksum mismatch');
 const generated=await readdir(join(root,'equipment'));
 const expectedEquipment=Object.keys(manifest.files).filter(name=>name.startsWith('equipment/'));
 if(generated.length!==expectedEquipment.length)throw Error('Unexpected equipment pages');

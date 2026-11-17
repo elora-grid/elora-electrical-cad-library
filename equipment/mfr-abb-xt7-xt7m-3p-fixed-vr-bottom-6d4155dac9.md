@@ -32,7 +32,7 @@ Use the manufacturer configuration named XT7-XT7M 3p Fixed VR bottom.
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use 1SDH002065A1507.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-xt7-xt7m-3p-fixed-vr-bottom-6d4155dac9)
+
+- 1SDH002065A1507.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+- 1SDH002065A1507.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1507.stp
@@ -113,7 +121,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1507.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1507&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt7-xt7m-3p-fixed-vr-bottom-6d4155dac9/abb-7a22016c8a6cf47295cf-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b25ef9c307dc0b07546d672c1353788198d6832aedf40059d08e6de9092fa45a
 - Original bytes: 952572

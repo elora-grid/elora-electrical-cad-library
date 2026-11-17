@@ -35,7 +35,7 @@ The supplied configuration is “40LYE245\_27.19”. Keep those frame, mounting 
 - Available previews: 4 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -103,6 +103,21 @@ Use 40LYE245\_27.19.dwg revision C for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-40lye245-27-19-dwg-2d-autocad-dwg-2000-7aab7d7aa2)
+
+- 40LYE245\_27.19.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 40LYE245.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 40LYE245\_27.19.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 40LYE245\_27.69.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 40LYE245\_28.69.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 40LYE245\_27.19.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 40LYE245\_27.19.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 40LYE245\_27.69.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 40LYE245\_28.69.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

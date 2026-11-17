@@ -30,7 +30,7 @@ This reference covers the connection or accessory named in “XT5 III-IV plug-in
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,13 @@ Use 2tfh001028a1001\_XT5\_III\_IV\_plug\_in\_version\_400A\_extended\_front\_ter
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-iii-iv-plug-in-version-400a-extended-front-terminals-ef-with-transmitted-rotary-handle-3e643e7305)
+
+- 2tfh001028a1001\_XT5\_III\_IV\_plug\_in\_version\_400A\_extended\_front\_terminals\_EF\_with\_transmitted\_rotary\_handle\_\_RHE\_.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

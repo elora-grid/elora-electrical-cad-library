@@ -26,7 +26,7 @@ The acquired source archive contains SX3\_300\_4GP.STEP, a 2,098,409-byte STEP n
 - Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -95,6 +95,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 28413bc9ba2944a2767e5aaae5097a1fc59943090141e8f19adfbec7f03a8fce
 - Containing archive SHA-256: fb4c7758abee0e0e58b99bdc16b54c15d1f8ca920165fedd5be73c3dae46d52d
 - [Original publisher source](https://www.abtech-inc.com/downloads/220/SX3_4GP.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-sx3-300-4gp-9675a8b8a16e)
+
+- SX3\_4GP.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

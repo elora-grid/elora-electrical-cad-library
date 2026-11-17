@@ -29,7 +29,7 @@ Use the manufacturer configuration named 1756HSC 845 INCREMENTAL ENCODER.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use Allen-Bradley-1756HSC-845-INCREMENTAL-ENCODER-DWG-2D-CAD-Block.dwg to insert
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-1756hsc-845-incremental-encoder-d30d8b542f)
+
+- Allen-Bradley-1756HSC-845-INCREMENTAL-ENCODER-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Allen-Bradley-1756HSC-845-INCREMENTAL-ENCODER-DWG-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Allen-Bradley-1756HSC-845-INCREMENTAL-ENCODER-DWG-2D-CAD-Block.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-1756HSC-845-INCREMENTAL-ENCODER-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-1756HSC-845-INCREMENTAL-ENCODER-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-1756hsc-845-incremental-encoder-d30d8b542f/nhp-198579-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 4e26269dea80bea9afc616297975323efb6bc48242337e9bf635a999a9242be4
 - Original bytes: 44610

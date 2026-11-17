@@ -36,7 +36,7 @@ This reference covers the connection or accessory named in “E1.2/E1.3 III W TE
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -99,6 +99,18 @@ Use 1SDH001336R0036\_1PA\_001\_00\_E1.2\_W\_III\_TERMINALS\_HR\_UL\_LOWER.stp re
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3)
+
+- 1SDH001336R0036\_1PA\_001\_00\_E1.2\_W\_III\_TERMINALS\_HR\_UL\_LOWER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0036\_1PA\_001\_00\_E1.2\_W\_III\_TERMINALS\_HR\_UL\_LOWER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001336R0077\_1PA\_001\_00\_E1.2\_W\_IV\_TERMINALS\_HR\_UL\_LOWER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0077\_1PA\_001\_00\_E1.2\_W\_IV\_TERMINALS\_HR\_UL\_LOWER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001336R0078\_1PA\_001\_00\_E1.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0078\_1PA\_001\_00\_E1.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0036\_1PA\_001\_00\_E1.2\_W\_III\_TERMINALS\_HR\_UL\_LOWER.stp
@@ -125,7 +137,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0036\_1PA\_001\_00\_E1.2\_W\_III\_TERMINALS\_HR\_UL\_LOWER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0036&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3/472cd69c1e320015d627-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 472cd69c1e320015d62799762b015ba56a45b948c7371c8097ab41e991c42368
 - Original bytes: 754044
@@ -163,7 +175,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0077\_1PA\_001\_00\_E1.2\_W\_IV\_TERMINALS\_HR\_UL\_LOWER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0077&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3/dc7b41f14567668a4e5c-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dc7b41f14567668a4e5cb95e450cfac999a2d9e4cda858da0924e5d6996ca816
 - Original bytes: 754042
@@ -201,7 +213,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0078\_1PA\_001\_00\_E1.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0078&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-w-terminals-hr-lower-ul-42b6ad3cc3/bc8576e3a8981a0ec9c3-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: bc8576e3a8981a0ec9c38f45ee392413b5c42701e78ffa78b93abb33bcf88e83
 - Original bytes: 752768

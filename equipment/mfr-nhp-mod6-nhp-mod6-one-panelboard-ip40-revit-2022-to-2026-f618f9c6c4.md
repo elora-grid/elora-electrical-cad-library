@@ -27,7 +27,7 @@ Use the exact manufacturer reference and configuration named on this page; alter
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-17
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ NHP-MOD6Plus-One-Panelboard-IP40-Revit2022-2026-BIM.zip is the original NHP arch
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-mod6-nhp-mod6-one-panelboard-ip40-revit-2022-to-2026-f618f9c6c4)
+
+- NHP-MOD6Plus-One-Panelboard-IP40-Revit2022-2026-BIM.zip: public (public\_original); delivered format ZIP, contained formats RFA.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

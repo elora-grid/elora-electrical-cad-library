@@ -30,7 +30,7 @@ The supplied configuration is “Circuit diagram for transfer switching - ABB Em
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use ABB\_SZR\_2xEmax.dwg revision - for editable DWG drawing geometry. Keep its 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-circuit-diagram-for-transfer-switching-abb-emax-2-apparatus-04ba84dc72)
+
+- ABB\_SZR\_2xEmax.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ABB\_SZR\_2xEmax.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### ABB\_SZR\_2xEmax.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ABB\_SZR\_2xEmax.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3895&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-circuit-diagram-for-transfer-switching-abb-emax-2-apparatus-04ba84dc72/20ad8168984b28f21f14-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 20ad8168984b28f21f14479c5dba444521c9a2ac2d1c451b6048d0e48386dd9a
 - Original bytes: 332880

@@ -26,7 +26,7 @@ The exact supplied files are ZP R Foot.STEP. Use the listed geometry for the mat
 - Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -93,6 +93,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 091603c5c26129d1289ee4f915135e0f9618ce98a7a207dc90493cb7da3d32d6
 - Containing archive SHA-256: c66a74667deda188ff415482f7247ff09027a804bdfe48489d32cf21837f0cdc
 - [Original publisher source](https://www.abtech-inc.com/downloads/467/ZP%20R%20Foot.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zp-r-foot-23a6dfbbcabb)
+
+- ZP R Foot.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

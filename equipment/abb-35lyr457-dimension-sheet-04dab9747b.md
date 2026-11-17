@@ -32,7 +32,7 @@ The supplied configuration is “35LYR457: Dimension Sheet”. Keep those frame,
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,16 @@ Use 35LYR457.pdf revision D to read the original manufacturer sheet and its anno
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lyr457-dimension-sheet-04dab9747b)
+
+- 35LYR457.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYR457\_\_510\_520\_.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 35LYR457\_\_510\_520\_.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYR457\_\_510\_520\_.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

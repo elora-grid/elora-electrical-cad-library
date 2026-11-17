@@ -31,7 +31,7 @@ This reference covers the connection or accessory named in “CS EXTERNAL NEUTRA
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH001252R0302\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E2.2\_2500A
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-cs-external-neutral-conductor-e2-2-2500a-7fec9a8e1c)
+
+- 1SDH001252R0302\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E2.2\_2500A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0302\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E2.2\_2500A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0302\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E2.2\_2500A.stp
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0302\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E2.2\_2500A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0302&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-cs-external-neutral-conductor-e2-2-2500a-7fec9a8e1c/c643e48fea2e8e37236c-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c643e48fea2e8e37236c717d95deedae0fa2bed886f39072b3cef374aba0deab
 - Original bytes: 905719

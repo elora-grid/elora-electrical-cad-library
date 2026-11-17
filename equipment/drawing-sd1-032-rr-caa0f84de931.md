@@ -26,7 +26,7 @@ The verified native member is Power Products/Non-fused Disconnects/SD1-032-RR.dw
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -89,6 +89,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 31d3b6aab755c179dfd45feec335cc4b4114a5afccf440b221e08b5053db6073
 - Containing archive SHA-256: 264011e500bdd8f8e8cb3988f1c975a384570e7156971cab3ad21dd3e7203302
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/nonfused_disconnects.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-sd1-032-rr-caa0f84de931)
+
+- nonfused\_disconnects.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

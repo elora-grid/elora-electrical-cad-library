@@ -32,7 +32,7 @@ Use the manufacturer configuration named D7PF/D7MF Flush Pushbuttons.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,15 @@ Use Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-DWG-2D-CAD-Block.dwg to insert th
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-sprecher-schuh-d7pf-d7mf-flush-pushbuttons-a0fa7f5de9)
+
+- Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-DWG-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-STP-3D-CAD-Block.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-DWG-2D-CAD-Block.dwg
@@ -110,7 +119,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10051/Sprecher-Schuh-D7PF-D7MF-Flush-Pushbuttons-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-sprecher-schuh-d7pf-d7mf-flush-pushbuttons-a0fa7f5de9/nhp-192407-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 72bbc2bba598ac53cc109211ab5118cece6c3a974d71d5eef2bc0fe1c6c4b6f6
 - Original bytes: 18018

@@ -31,7 +31,7 @@ SpaceLogic Modbus Glass Touch Panel, Door Panel with 1 button, 2 indicators and 
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -82,6 +82,14 @@ Use SLGM03DP.dwg (revision 1.0) to insert the supplied editable drawing into you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-slgm03dp-file-57abb6024c)
+
+- SLGM03DP.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SLGM03DP.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SLGM03DP.dwg
@@ -108,7 +116,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SLGM03DP.dwg).
 - [Official source](https://download.se.com/files?p_Doc_Ref=SLGM03DP_CAD&p_enDocType=CAD)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-slgm03dp-file-57abb6024c/se-d7018632e1bdc89cd667-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e91c8f0ea0b9fc49b2e3545ebab432e68bc8831841fcf00aa43e82537e80fd88
 - Original bytes: 180078

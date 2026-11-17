@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E2.2/E2.3 IV F TER
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.stp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e)
+
+- 1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0138&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e/ebc473f5d1b70385d9db-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ebc473f5d1b70385d9dbdddaf0aadb765c974da5973d5f1e2b98aa5e26b07848
 - Original bytes: 751808
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0157&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e/2b475a4faa633970c989-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2b475a4faa633970c9894d9c4304b98635a73a8b9213cd82ba19d89a5b42d454
 - Original bytes: 751817

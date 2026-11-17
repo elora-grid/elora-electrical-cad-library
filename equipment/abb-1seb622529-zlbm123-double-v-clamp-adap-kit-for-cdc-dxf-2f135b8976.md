@@ -33,7 +33,7 @@ The supplied configuration is “1SEB622529\_ZLBM123\_Double\_V-clamp\_adap.\_ki
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -86,6 +86,16 @@ Use 1seb622529\_dxf.dxf revision A for editable DXF drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-1seb622529-zlbm123-double-v-clamp-adap-kit-for-cdc-dxf-2f135b8976)
+
+- 1seb622529\_dxf.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 9AKK107991A3432.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- 1seb622529\_asm.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1seb622529\_asm.igs: public (public\_original); delivered format IGS, contained formats IGES.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

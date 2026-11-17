@@ -30,7 +30,7 @@ Use the manufacturer configuration named RCDNPxx.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use NHP-ISO-RCDNPxx-2D-CAD-Block.dwg to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-iso-rcdnpxx-675a67251c)
+
+- NHP-ISO-RCDNPxx-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- NHP-ISO-RCDNPxx-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- NHP-ISO-RCDNPxx-3D-CAD-Block.step: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### NHP-ISO-RCDNPxx-2D-CAD-Block.dwg
@@ -109,7 +118,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (NHP-ISO-RCDNPxx-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-RCDNPxx-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-iso-rcdnpxx-675a67251c/nhp-201648-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 442bcf4061a056a9969b8ed69fa48822f1ba81240c7bf2d8db687d170cd0645d
 - Original bytes: 586393

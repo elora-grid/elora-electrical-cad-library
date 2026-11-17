@@ -26,7 +26,7 @@ The exact supplied files are BPG12.5.dwg. Use the listed geometry for the matchi
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -93,6 +93,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: a2a77dd40b5ac0db209fef88af5fc19e42b10cf0aaf85570a6503fefe78482cb
 - Containing archive SHA-256: 4908f8d73874a44eaf051107f493df7451e6e4df9ba9c90b9c32b9bd2dfc3d85
 - [Original publisher source](https://www.abtech-inc.com/downloads/127/bpg.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bpg12-5-ca765aa528a2)
+
+- bpg.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

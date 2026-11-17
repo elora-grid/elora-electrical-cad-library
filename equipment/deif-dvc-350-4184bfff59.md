@@ -31,7 +31,7 @@ Manufacturer reference dvc-350-3d-pdf.pdf; dvc-350-3d-step-file.stp; 4921240615 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: F
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -67,6 +67,15 @@ Use dvc-350-3d-step-file.stp for the complete supplied regulator geometry in a 3
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-dvc-350-4184bfff59)
+
+- dvc-350-3d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- dvc-350-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- dvc-350-data-sheet-4921240615-uk.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

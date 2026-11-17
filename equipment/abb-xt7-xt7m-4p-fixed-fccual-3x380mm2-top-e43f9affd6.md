@@ -31,7 +31,7 @@ The supplied configuration is “XT7-XT7M 4p Fixed FCCuAl 3x380mm2 top”. Keep 
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1521\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_3x380mm2\_top.stp revision A 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-top-e43f9affd6)
+
+- 1SDH002065A1521\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_3x380mm2\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1521\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_3x380mm2\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1521\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_3x380mm2\_top.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1521\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_3x380mm2\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1521&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-4p-fixed-fccual-3x380mm2-top-e43f9affd6/2a4f3ecd055edfe94fb4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2a4f3ecd055edfe94fb4f8b4c7e80addc5e533359741b2804f8fa58c94b449b5
 - Original bytes: 3630802

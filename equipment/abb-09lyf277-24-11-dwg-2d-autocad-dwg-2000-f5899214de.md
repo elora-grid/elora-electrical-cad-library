@@ -29,11 +29,11 @@ The supplied configuration is “09LYF277\_24.11”. Keep those frame, mounting 
 - Motor drawing designation (09LYF277): HORZ TENV 254-6TC VECTOR W/THRU SH ENC & COVER
 - Manufacturer reference: 09LYF277
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: J
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -92,6 +92,19 @@ Use 09LYF277\_24.11.dwg revision J for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-09lyf277-24-11-dwg-2d-autocad-dwg-2000-f5899214de)
+
+- 09LYF277\_24.11.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 09LYF277\_24.11.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 09LYF277.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 09LYF277\_24.11.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 09LYF277\_24.11.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 09LYF277\_24.11.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 09LYF277\_24.11.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 09LYF277\_24.11.dwg
@@ -118,7 +131,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (09LYF277\_24.11.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=J)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-09lyf277-24-11-dwg-2d-autocad-dwg-2000-f5899214de/d8a292e09527771cb789-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d8a292e09527771cb7894b1c113ae8665c402cfb887e94d9b4fd62efaaa9f5cc
 - Original bytes: 838516
@@ -207,5 +220,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=J)
 - Delivery: original; SLDPRT; 3811247 bytes
 - Delivery SHA-256: d0ce3e0a899de3696fc969da5b2dbe4966acb548615a5b64fba7293d7d5f2698
+
+### 09LYF277\_24.11.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 09LYF277\_24.11, revision J. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=dxf&Action=Launch&DocumentRevisionId=J)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: J
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

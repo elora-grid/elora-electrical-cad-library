@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT1 3p PLUG-IN FCCu LOW; ABB document 1SDH001295R0
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0047\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_FCCu\_INF.stp for XT1 3p P
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt1-3p-plug-in-fccu-low-c6615e9a)
+
+- 1SDH001295R0047\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_FCCu\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0047\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_FCCu\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0047\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_FCCu\_INF.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0047\_1PA\_001\_00\_XT1\_3P\_PLUG\_IN\_FCCu\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0047&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-3p-plug-in-fccu-low-c6615e9a/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0fdc5fb8ab6c4f56d51f8652ab6e49041b359b279e907bfc52eb7cc9e05f8684
 - Original bytes: 169062

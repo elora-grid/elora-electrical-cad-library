@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 19 interactive model variants
 - Recorded revisions: 01, 00, 02, 00x, 03
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,32 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/victron-energy-multiplus-ii)
+
+- DimensionDrawing-48V15kVA-MultiPlus-II-3D.STEP: public (public\_original); delivered format ZIP, contained formats STEP.
+- DimensionDrawing-MultiPlus-II-12V5000VA-220-50-230V-PMP122505010.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-from-SN-HQ2446-onwards-MultiPlus-II-24\_5000\_120-50-230V-3D.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-12V-3000VA-120V-(UL).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-12V-3000VA-230Vac-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-12V4k-230V-3D.STEP: public (public\_original); delivered format ZIP, contained formats STEP.
+- MultiPlus-II-24V-3000VA-120V-(UL).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-24V-48V-3000VA-230V-PMP242305010-PMP482305010-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-24V-5000VA-120V-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-24V-5000VA-230V-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V-3000VA-120V-(UL).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V-3000VA-230V-PMP482305012-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V-5000VA-120V-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V-5000VA-230V-PMP482505000-(step).STEP: public (public\_original); delivered format ZIP, contained formats STEP.
+- MultiPlus-II-48V-5000VA-230V-PMP482505010-(stp).STEP: public (public\_original); delivered format ZIP, contained formats STEP.
+- MultiPlus-II-48V-5000VA-230V-PMP482505012-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V-5000VA-230V-service-cover-screws-repositioned-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V10kVA-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-II-48V4k5-230V-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MutliPlus-II-48V6k5-230V-(step).STEP: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

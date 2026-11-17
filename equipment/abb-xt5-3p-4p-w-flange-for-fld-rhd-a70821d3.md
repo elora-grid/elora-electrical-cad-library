@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT5 3p 4p W Flange for FLD/RHD; ABB document 1SDH0
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1575\_XT5\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.stp for XT5 3p 4p W F
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-3p-4p-w-flange-for-fld-rhd-a70821d3)
+
+- 1SDH002065A1575\_XT5\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1575\_XT5\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1575\_XT5\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1575\_XT5\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1575&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-w-flange-for-fld-rhd-a70821d3/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 8994d6afc7137fb5f6ae6777b0dc37a9c3286d462fab02beb494e52102e071f7
 - Original bytes: 1376354

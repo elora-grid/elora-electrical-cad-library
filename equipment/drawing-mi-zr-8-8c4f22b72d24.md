@@ -26,7 +26,7 @@ The acquired source archive contains Mi\_Zwischenrahmen/Mi\_ZR\_8.stp, a 757,686
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -97,6 +97,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 7f6322927ecf0230e095962c2780178770fc77eb64b531875ab84ab1a658faa4
 - Containing archive SHA-256: a5c5b8df6bcb0127f97d6c4c0a15b1bc74c4e299f7089c1f0a53cad46b30ec4a
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/Mi_gesamt.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-mi-zr-8-8c4f22b72d24)
+
+- Mi\_gesamt.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- Mi\_Zwischenrahmen.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

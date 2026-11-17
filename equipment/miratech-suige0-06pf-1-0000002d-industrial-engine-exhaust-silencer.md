@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,14 @@ Available here: DWG, DXF. The individual filenames above distinguish the supplie
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/miratech-suige0-06pf-1-0000002d-industrial-engine-exhaust-silencer)
+
+- SUIGE0-06PF-1-0000002D\_SD\_1.DWG: public (public\_original); delivered format DWG, contained formats DWG.
+- SUIGE0-06PF-1-0000002D\_SD\_1.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SUIGE0-06PF-1-0000002D\_SD\_1.DWG
@@ -87,7 +95,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SUIGE0-06PF-1-0000002D\_SD\_1.DWG).
 - [Official source](https://miratechcorp.com/document_library2/Silencers_Accessories/Drawings/Silencer_Sales_Drawings/S-Series/SU-Series/SUI-Series/DWG/SUIGE0-06PF-1-0000002D_SD_1.DWG)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/miratech-suige0-06pf-1-0000002d-industrial-engine-exhaust-silencer/miratech-suige0-06pf-1-0000002d-sd-1-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: eabf9c27bce60d12b63835778eee0018f5d5a786b21c8065cf84f9eb33ce8be4
 - Original bytes: 642484

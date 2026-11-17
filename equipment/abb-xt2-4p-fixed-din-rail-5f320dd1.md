@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT2 4p FIXED DIN RAIL; ABB document 1SDH001295R027
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0275\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIN\_RAIL.stp for XT2 4p FIXE
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-fixed-din-rail-5f320dd1)
+
+- 1SDH001295R0275\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIN\_RAIL.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0275\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIN\_RAIL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0275\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIN\_RAIL.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0275\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIN\_RAIL.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0275&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-din-rail-5f320dd1/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 550d9bdccfab538f21547807753598b3376272386590a6e521f6f3be9a367356
 - Original bytes: 196615

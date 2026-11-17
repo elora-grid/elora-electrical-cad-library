@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT6 4p Fixed 800A EF top; ABB document 1SDH002065A
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1218\_XT6\_4p\_Fixed\_800A\_EF\_top.stp for XT6 4p Fixed 800A EF 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-4p-fixed-800a-ef-top-017a18e5)
+
+- 1SDH002065A1218\_XT6\_4p\_Fixed\_800A\_EF\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1218\_XT6\_4p\_Fixed\_800A\_EF\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1218\_XT6\_4p\_Fixed\_800A\_EF\_top.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1218\_XT6\_4p\_Fixed\_800A\_EF\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1218&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-4p-fixed-800a-ef-top-017a18e5/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: cb35f86fdd441ed3d55df1b725c05b1a353d56f7716993d891d4ab4a85edb1be
 - Original bytes: 243514

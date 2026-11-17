@@ -34,7 +34,7 @@ The supplied configuration is “39LYE477\_21.69”. Keep those frame, mounting 
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -101,6 +101,21 @@ Use 39LYE477\_21.69.dwg revision E for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-39lye477-21-69-dwg-2d-autocad-dwg-2000-8470ece7ac)
+
+- 39LYE477\_21.69.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 39LYE477.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 39LYE477\_21.69.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 39LYE477\_23.19.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 39LYE477\_23.19.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 39LYE477\_21.69.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 39LYE477\_21.69.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 39LYE477\_23.19.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 39LYE477\_23.19.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

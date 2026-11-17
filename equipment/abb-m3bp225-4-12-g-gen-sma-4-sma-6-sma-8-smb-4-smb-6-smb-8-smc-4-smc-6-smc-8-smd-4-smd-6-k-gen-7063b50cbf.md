@@ -26,6 +26,7 @@ Keep the terminal-box side, mounting code and accessories stated in “M3BP225 4
 - Manufacturer reference: 3GZF500022-802
 - Document revision: B
 - Manufacturer configuration: M3BP225 4-12 (G-gen) SMA 4,SMA 6,SMA 8;SMB 4,SMB 6,SMB 8;SMC 4,SMC 6,SMC 8;SMD 4,SMD 6;(K-gen) SMA 4,SMA 6,SMB 4;(L-gen) SMA 4,SMA 6,SMB 4,SMB 6,SMC 4;(M-gen) SMA 4,SMB 4,SMA 6;IMB3/IM1001;IMV6/IM1031;IMB6/IM1051;IMB7/IM1061;IMB8/IM1071;IMV5/IM1011;RIGHT 160;180 Terminal box RHS;418 Sep...
+- Standards: IEC 60034-1, IEC 60034-5, IEC 60072
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 drawing previews

@@ -8,7 +8,7 @@ ABB XT6 4p Withdrawable Circuit Breaker+Fixed Part: breaker or breaker-accessory
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1270
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is â€œXT6 4p Withdrawable Circuit Breaker+Fixed Partâ
 - Manufacturer drawing: 1SDH002065A1270
 - Manufacturer reference: 1SDH002065A1270
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1270&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 20474698 bytes
 - Delivery SHA-256: 10f0ee1024fcf8318fbf161663478716cfd48bc8331ad61f210960c55e0df68b
+
+### 1SDH002065A1270\_XT6\_4p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1270\_XT6\_4p\_Withdrawable\_Circuit\_Breaker\_and\_Fixed\_Part.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1270&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-4p-withdrawable-circuit-breaker-fixed-part-0bfd3f5c38/10f0ee1024fcf8318fbf-dxf)
+- Redistribution: unknown
+- Original SHA-256: 10f0ee1024fcf8318fbf161663478716cfd48bc8331ad61f210960c55e0df68b
+- Original bytes: 20474698
+- Revision: A
+- Retrieved: 2026-11-04T01:22:40Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1270&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1270&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1706637 bytes
+- Delivery SHA-256: 730cc3e15afda2f7dbeb81aa5871f93a21a7f7b240ab36b7c75439303f84a7cd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

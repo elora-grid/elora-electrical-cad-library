@@ -8,7 +8,7 @@ ABB 35LYE2215\_13.28: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYE2215\_13.28; 35LYE2215
-- Formats: DWG, PDF, SLDPRT, STEP
+- Formats: DWG, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “35LYE2215\_13.28”. Keep those frame, mounting
 - Document revision: D
 - Model envelope: 35LYE2215\_13.28.step: 337.4 × 181.5 × 234.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 35LYE2215
-- Listed file formats: DWG, PDF, SLDPRT, STEP
-- Listed files: 4
+- Listed file formats: DWG, PDF, SLDPRT, STEP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2215_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 291706 bytes
 - Delivery SHA-256: 3524804fe5217187f92881116d24b67a8bbf9026ae5f9b45d97e49c3abe48650
+
+### 35LYE2215\_13.28.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2215\_13.28.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2215_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2215-13-28-dwg-2d-autocad-dwg-2000-b57b9b740f/3524804fe5217187f928-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3524804fe5217187f92881116d24b67a8bbf9026ae5f9b45d97e49c3abe48650
+- Original bytes: 291706
+- Revision: D
+- Retrieved: 2026-11-04T00:58:10Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2215_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2215_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 921735 bytes
+- Delivery SHA-256: 3bbf12a71e4adc7cb8e8e1d79bdcaeee6c02142205a89b2c105562cbca30ca47
 
 ### 35LYE2215.pdf
 

@@ -9,7 +9,7 @@ XT4 4p PLUG-IN HR UP: ABB manufacturer STEP resource, document 1SDH001295R0724, 
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0724
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT4 4p PLUG-IN HR UP; ABB document 1SDH001295R0724
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0724
 - Model extents (X × Y × Z, mm): 125.7 × 98.0 × 20.7
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0724&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 95009 bytes
 - Delivery SHA-256: 1171e15e1fc74421082657a10e9e1343bc9b2c2076798f50f2ebba2bf350e71e
+
+### 1SDH001295R0724\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_HR\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0724\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_HR\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0724&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-4p-plug-in-hr-up-b0ab648b/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1171e15e1fc74421082657a10e9e1343bc9b2c2076798f50f2ebba2bf350e71e
+- Original bytes: 95009
+- Revision: A
+- Retrieved: 2026-11-03T01:46:34.408925+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0724&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0724&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 50519 bytes
+- Delivery SHA-256: 47e7a5c45c6b6c163788e82fa0d72db3b0a421cf474cc3f3d9a25efadaf7d61f
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

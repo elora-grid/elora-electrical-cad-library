@@ -23,6 +23,7 @@ Manufacturer reference SEL-2730M Managed 24-Port Ethernet Switch identifies this
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-2730M Managed 24-Port Ethernet Switch
+- Standards: IEEE 1613, IEC 61850-3, IEC 60255, IEC 61850-3 Class A
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

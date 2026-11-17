@@ -25,6 +25,7 @@ The supplied configuration is “OT200-250E32”. Keep those frame, mounting and
 - Manufacturer drawing: OT200E32.IGS
 - Manufacturer reference: OT200E32.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

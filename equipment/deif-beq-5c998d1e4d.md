@@ -27,6 +27,7 @@ Manufacturer reference beq72-3d-pdf.pdf; beq72-3d-step-file.stp; beq96-3d-pdf.pd
 - Manufacturer lifecycle: Active
 - Model envelope: beq72-3d-step-file.stp: 72 × 72 × 68.6 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Model envelope: beq96-3d-step-file.stp: 95.8 × 95.8 × 68 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60051, IEC 60051-2, EN 50081-1, EN 50081-2, EN 50082-1, EN 50082-2, IEC 60529
 - Listed file formats: PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

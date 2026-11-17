@@ -25,6 +25,7 @@ The supplied configuration is “OT160G03KL”. Keep those frame, mounting and a
 - Manufacturer drawing: OT160G03KL\_IGS
 - Manufacturer reference: OT160G03KL\_IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

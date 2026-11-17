@@ -26,6 +26,7 @@ Manufacturer reference rmc-111-122-132d-data-sheet-4921240102i-fr.pdf; rmc-111-1
 - Source configurations grouped on this page: RMC-122D; RMC-132D
 - Manufacturer reference: rmc-111-122-132d-data-sheet-4921240102i-fr.pdf; rmc-111-122-132d-data-sheet-4921240102-uk.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip; rmc-111-122-132d-选型手册-4921240102-中文.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

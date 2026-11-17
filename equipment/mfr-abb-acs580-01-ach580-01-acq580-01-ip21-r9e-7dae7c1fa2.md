@@ -1,0 +1,117 @@
+# ABB — ACS580-01, ACH580-01, ACQ580-01 IP21 R9e
+
+ABB ACS580-01, ACH580-01, ACQ580-01 IP21 R9e: original STEP for drive or power-quality equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r9e-7dae7c1fa2) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r9e-7dae7c1fa2.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r9e-7dae7c1fa2.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Power quality & drives
+- Entry type: product
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named ACS580-01, ACH580-01, ACQ580-01 IP21 R9e.
+
+## Equipment and file summary
+
+- Equipment / resource: ACS580-01, ACH580-01, ACQ580-01 IP21 R9e
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: ACS580-01, ACH580-01, ACQ580-01 IP21 R9e
+- Named ingress-protection rating: IP21
+- Source document: 3AXD10002731960; revision A
+- Source-model envelope: 420 × 516.4 × 1140.5 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Standards: IEC 61800-5-1, IEC 61800-3
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: ACS580-01, ACH580-01, ACQ580-01 IP21 R9e ([source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Named ingress-protection rating: IP21 ([source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 3AXD10002731960; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 420 × 516.4 × 1140.5 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A power-quality meter measures the electrical supply and records characteristics such as voltage, current and disturbances, according to the selected device's functions.
+
+3AXD10002731960.zip (revision A) is the original ABB archive. Open r9e\_ip21\_light.stp inside it to place the original solid geometry in your 3D assembly.
+
+3AXD10002731960.zip (revision A) is the original ABB archive. Open r9e\_ip21\_light.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB ACS580-01, ACH580-01, ACQ580-01 IP21 R9e and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 420 × 516.4 × 1140.5 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 3AXD10002731960.zip — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ACS580-01, ACH580-01, ACQ580-01 IP21 R9e?
+
+1 inspected original for ABB ACS580-01, ACH580-01, ACQ580-01 IP21 R9e: 3AXD10002731960.zip (ZIP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+3AXD10002731960.zip (revision A) is the original ABB archive. Open r9e\_ip21\_light.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB ACS580-01, ACH580-01, ACQ580-01 IP21 R9e: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r9e-7dae7c1fa2/abb-cbb02c7d4e66111fa76c?asset=34955fae299e05ed89f3316862e43cd8dcfc478a88669f897c1f5f5101ef1005&view=thumb&v=9a0e567931f9d7cb)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r9e-7dae7c1fa2). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Variable-frequency drive](https://eloragrid.ai/objects/ga-variable-frequency-drive)
+- [AC line reactor](https://eloragrid.ai/objects/ga-ac-line-reactor)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 3AXD10002731960.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r9e-7dae7c1fa2/abb-cbb02c7d4e66111fa76c)
+- Redistribution: unknown
+- Original SHA-256: be66b7c27e70c09586bdb6b37e5170b50941e36b25877228bfc2d0f743010a72
+- Original bytes: 1320359
+- Revision: A
+- Retrieved: 2026-11-11T06:12:01.236345+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=3AXD10002731960&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; ZIP; 1320359 bytes
+- Delivery SHA-256: be66b7c27e70c09586bdb6b37e5170b50941e36b25877228bfc2d0f743010a72
+
+<details>
+<summary>Archive members</summary>
+
+- r9e\_ip21\_light.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

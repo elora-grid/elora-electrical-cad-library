@@ -9,7 +9,7 @@ XT6 3p Withdrawable VR bottom: ABB manufacturer STEP resource, document 1SDH0020
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1268
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT6 3p Withdrawable VR bottom; ABB document 1SDH00
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1268
 - Model extents (X × Y × Z, mm): 92.5 × 180.0 × 40.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -102,5 +102,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1268&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 408505 bytes
 - Delivery SHA-256: 51c7b78af71a69f77a97ebc57214832876b95914436eebe8538708bbe04fdd2f
+
+### 1SDH002065A1268\_XT6\_3p\_Withdrawable\_VR\_bottom.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1268\_XT6\_3p\_Withdrawable\_VR\_bottom.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1268&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-withdrawable-vr-bottom-a8ab39c1/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 51c7b78af71a69f77a97ebc57214832876b95914436eebe8538708bbe04fdd2f
+- Original bytes: 408505
+- Revision: A
+- Retrieved: 2026-11-03T01:35:18.430371+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1268&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1268&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 78188 bytes
+- Delivery SHA-256: 5b35758fb2deb5bd6af93562bc494908b0fd6aa9f17bce52ce53983f291505f2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -8,7 +8,7 @@ ABB E4.2 IV W TERMINALS SVR UPPER 3200A: breaker connection or accessory referen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0462
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ This reference covers the connection or accessory named in “E4.2 IV W TERMINAL
 - Manufacturer reference: 1SDH001252R0462
 - Document revision: A
 - Model envelope: 1SDH001252R0462.stp: 448 × 78.4 × 124 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -100,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0462&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1171859 bytes
 - Delivery SHA-256: 256ba92e4f8edbd090a0f79d91d6fc0205848a44d39405137abe7e9474d2d4e4
+
+### 1SDH001252R0462.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0462.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0462&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-iv-w-terminals-svr-upper-3200a-a0cbff3033/256ba92e4f8edbd090a0-dxf)
+- Redistribution: unknown
+- Original SHA-256: 256ba92e4f8edbd090a0f79d91d6fc0205848a44d39405137abe7e9474d2d4e4
+- Original bytes: 1171859
+- Revision: A
+- Retrieved: 2026-11-03T01:54:49.095915Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0462&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0462&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 247818 bytes
+- Delivery SHA-256: 4332192b17e665fb1622dde6e67ab6741aac5154a9b3ac2182d837a58a9acd6a
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

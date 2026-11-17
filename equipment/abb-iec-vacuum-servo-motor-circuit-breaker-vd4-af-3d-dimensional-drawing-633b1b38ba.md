@@ -25,12 +25,13 @@ The supplied configuration is “IEC Vacuum Servo Motor Circuit Breaker VD4-AF -
 - Manufacturer drawing: 2RDA030843\_3D; 2RDA042149\_3D; 2RDA034677\_3D
 - Manufacturer reference: 2RDA030843\_3D; 2RDA042149\_3D; 2RDA034677\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
-- Listed files: 1
-- Available previews: Manufacturer source / drawing request
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## Source-linked technical facts
 
@@ -85,5 +86,24 @@ Related GA references provide equipment context; a related category does not est
 - Retrieved: Not acquired
 - Rights review: Acquire and checksum-verify the original before website delivery.
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2RDA030843_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+
+### 2RDA030843.step
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2RDA030843_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-iec-vacuum-servo-motor-circuit-breaker-vd4-af-3d-dimensional-drawing-633b1b38ba/native-d6f795fb8a7f8058b3eff97c-step)
+- Redistribution: unknown
+- Original SHA-256: d6f795fb8a7f8058b3eff97c04e0c085e5b2e7ea6ee5b0b1089e882163d026de
+- Original bytes: 233145115
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=2RDA030843_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2RDA030843_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 57503593 bytes
+- Delivery SHA-256: e985942a001aa23b0a7c8ffb43c275e4d7925592e09dd53e7aace02aa09d5ee5
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

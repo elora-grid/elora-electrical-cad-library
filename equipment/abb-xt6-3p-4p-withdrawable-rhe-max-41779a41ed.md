@@ -8,7 +8,7 @@ ABB XT6 3p 4p Withdrawable RHE max: breaker or breaker-accessory reference for b
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1802
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT6 3p 4p Withdrawable RHE max”. Keep those f
 - Manufacturer drawing: 1SDH002065A1802
 - Manufacturer reference: 1SDH002065A1802
 - Document revision: B
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -90,5 +90,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1802&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 38733726 bytes
 - Delivery SHA-256: 72d7a6cec958779b18c189eb11a8885ab479f17bfd5a8b3094a315450517de2b
+
+### 1SDH002065A1802.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1802.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1802&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-withdrawable-rhe-max-41779a41ed/72d7a6cec958779b18c1-dxf)
+- Redistribution: unknown
+- Original SHA-256: 72d7a6cec958779b18c189eb11a8885ab479f17bfd5a8b3094a315450517de2b
+- Original bytes: 38733726
+- Revision: B
+- Retrieved: 2026-11-04T04:04:29Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1802&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1802&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1107998 bytes
+- Delivery SHA-256: 2edc1c22aa1b2f68f585e6e44e69044eb646d619eb484b7693c8e4a54535c4fd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

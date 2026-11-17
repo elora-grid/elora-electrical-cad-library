@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: APH
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: APH
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with APH. The files above belong to Greenheck's APH fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -113,6 +113,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 1739406 bytes
 - Delivery SHA-256: f1adda2655ebc20dac7eef8e5f2bc24f625fefd52b8ea313cf731807cc3b8383
 
+### APH-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (APH-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/APH-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-aph-fans/greenheck-aph-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: f1adda2655ebc20dac7eef8e5f2bc24f625fefd52b8ea313cf731807cc3b8383
+- Original bytes: 1739406
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 5924557 bytes
+- Delivery SHA-256: c9f1a253a17f2600fb90e8852c5811a6aef9d8319f401b60cca0c3058819d167
+
 ### APH-12\_1\_B\_I\_II\_III.dwg
 
 - Format: DWG
@@ -132,5 +152,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 433290 bytes
 - Delivery SHA-256: 7edc6a6739d629adb84e56ef51e715da40cd8ddf638700cec7b524791c3f453b
+
+### APH-12\_1\_B\_I\_II\_III.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (APH-12\_1\_B\_I\_II\_III.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/APH-12_1_B_I_II_III.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-aph-fans/greenheck-aph-12-1-b-i-ii-iii-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7edc6a6739d629adb84e56ef51e715da40cd8ddf638700cec7b524791c3f453b
+- Original bytes: 433290
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 320324 bytes
+- Delivery SHA-256: 025bb560304c9c4073457827c46be6ee791a1c65fa4e134696665566de36a250
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

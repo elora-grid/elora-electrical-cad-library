@@ -26,6 +26,7 @@ The supplied configuration is “OT315...OT400E22”. Keep those frame, mounting
 - Manufacturer reference: OT315-400E22.STP
 - Document revision: A
 - Model envelope: OT315\_400E22.stp: 185 × 258 × 105.5 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

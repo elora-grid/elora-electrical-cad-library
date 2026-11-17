@@ -9,7 +9,7 @@ XT4 3p PLUG-IN EXTERNAL TERMINALS FCCuAl 2x150mm2 LOW: ABB manufacturer STEP res
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0622
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT4 3p PLUG-IN EXTERNAL TERMINALS FCCuAl 2x150mm2 
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0622
 - Model extents (X × Y × Z, mm): 98.0 × 59.0 × 71.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0622&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 141934 bytes
 - Delivery SHA-256: 787aedc58c3c89ff89783ce21c66d2c7c248b3b24c2818162601302cd8e7de6b
+
+### 1SDH001295R0622\_1PA\_001\_00\_XT4\_3P\_PLUG\_IN\_TERMINALI\_ESTERNI\_F.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0622\_1PA\_001\_00\_XT4\_3P\_PLUG\_IN\_TERMINALI\_ESTERNI\_F.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0622&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-3p-plug-in-external-terminals-fccual-2x150mm2-low-b2d01781/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 787aedc58c3c89ff89783ce21c66d2c7c248b3b24c2818162601302cd8e7de6b
+- Original bytes: 141934
+- Revision: A
+- Retrieved: 2026-11-03T01:47:35.526745+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0622&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0622&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 64672 bytes
+- Delivery SHA-256: 900108cd4eaccf5bd99063165226b23eb2e24aa9d01d5280fc2977defbd7f243
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

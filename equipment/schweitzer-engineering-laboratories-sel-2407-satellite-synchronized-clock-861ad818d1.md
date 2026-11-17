@@ -23,6 +23,7 @@ Manufacturer reference SEL-2407 Satellite-Synchronized Clock identifies this com
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-2407 Satellite-Synchronized Clock
+- Standards: IEEE C37.90, IEC 60255
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

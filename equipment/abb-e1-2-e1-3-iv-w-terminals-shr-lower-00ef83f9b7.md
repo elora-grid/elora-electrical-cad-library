@@ -8,7 +8,7 @@ ABB E1.2/E1.3 IV W TERMINALS SHR LOWER: breaker connection or accessory referenc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0079
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ This reference covers the connection or accessory named in “E1.2/E1.3 IV W TER
 - Manufacturer reference: 1SDH001252R0079
 - Document revision: A
 - Model envelope: 1SDH001252R0079\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_SHR\_LOWER.stp: 332 × 109.5 × 53.1 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -100,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0079&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1119843 bytes
 - Delivery SHA-256: 88cb54f4556ccbd0f80923a72028bdd790e1817aa57ff51b086a3aa0c1eecb0e
+
+### 1SDH001252R0079\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_SHR\_LOWER.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0079\_1PA\_001\_00\_E1.2\_IV\_W\_TERMINALS\_SHR\_LOWER.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0079&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iv-w-terminals-shr-lower-00ef83f9b7/88cb54f4556ccbd0f809-dxf)
+- Redistribution: unknown
+- Original SHA-256: 88cb54f4556ccbd0f80923a72028bdd790e1817aa57ff51b086a3aa0c1eecb0e
+- Original bytes: 1119843
+- Revision: A
+- Retrieved: 2026-11-03T01:54:36.517162Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0079&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0079&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 272176 bytes
+- Delivery SHA-256: 0f44e7490ee0d22618fcb83304a0971b4dc6b6296a4911cca618981e0bfec060
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

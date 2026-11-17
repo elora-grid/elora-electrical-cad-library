@@ -27,6 +27,7 @@ Use the row for 1735-31 on PDF page 12. The download is the complete catalogue, 
 - Stud arrangement: In line
 - BIL (kV): 150
 - Cantilever strength (lb): 475
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

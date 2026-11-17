@@ -25,6 +25,7 @@ Manufacturer reference cnk-ta26269m-cybersecurity-uk.pdf; ie-650-modules-2d-pdfs
 - Manufacturer drawing: cnk-ta26269m-cybersecurity-uk.pdf; ie-650-modules-2d-pdfs.zip
 - Manufacturer reference: cnk-ta26269m-cybersecurity-uk.pdf; ie-650-modules-2d-pdfs.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-4, IEC 60255-26, IEC 61000-6-2, IEC 61010-1, IEC 60529, UL 6200
 - Listed file formats: PDF, ZIP
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

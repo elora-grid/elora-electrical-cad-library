@@ -9,7 +9,7 @@ E1.2 III F WALL FIXING HR VR: ABB manufacturer STEP resource, document 1SDH00125
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0023
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E1.2 III F WALL FIXING HR VR; ABB document 1SDH001
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0023
 - Model extents (X × Y × Z, mm): 300.0 × 3.0 × 350.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0023&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 67126 bytes
 - Delivery SHA-256: b75f3eff32d7965a2f97f0200d8378c6608f595d7f59a45d42b4a4d6ceac1e78
+
+### 1SDH001252R0023\_1PA\_001\_01\_E1.2\_III\_F\_WALL\_FIXING\_HR\_VR.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0023\_1PA\_001\_01\_E1.2\_III\_F\_WALL\_FIXING\_HR\_VR.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0023&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-iii-f-wall-fixing-hr-vr-f71f8001/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: b75f3eff32d7965a2f97f0200d8378c6608f595d7f59a45d42b4a4d6ceac1e78
+- Original bytes: 67126
+- Revision: A
+- Retrieved: 2026-11-03T01:35:52.349391+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0023&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0023&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 34030 bytes
+- Delivery SHA-256: 875cb4eede8ea3ce91ff96d56fa49c347e5280f19f41b8eff343a97828fb9efb
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -23,6 +23,7 @@ Manufacturer reference SEL-2488 Satellite-Synchronized Network Clock identifies 
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-2488 Satellite-Synchronized Network Clock
+- Standards: IEEE 1613 Class 2, IEC 61850-3, IEC 60255
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

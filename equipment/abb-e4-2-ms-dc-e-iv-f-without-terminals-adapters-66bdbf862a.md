@@ -8,7 +8,7 @@ ABB E4.2 MS/DC-E IV F without terminals/adapters: breaker connection or accessor
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0473
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This reference covers the connection or accessory named in “E4.2 MS/DC-E IV F 
 - Manufacturer drawing: 1SDH001252R0473
 - Manufacturer reference: 1SDH001252R0473
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0473&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 9078360 bytes
 - Delivery SHA-256: 2a590dc2017313806b81c5ee7981fbb5faad3b478deb3f7060d4d5b18cdc769d
+
+### 1SDH001252R0473.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0473.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0473&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-ms-dc-e-iv-f-without-terminals-adapters-66bdbf862a/2a590dc2017313806b81-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2a590dc2017313806b81c5ee7981fbb5faad3b478deb3f7060d4d5b18cdc769d
+- Original bytes: 9078360
+- Revision: A
+- Retrieved: 2026-11-04T01:10:35Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0473&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0473&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 826569 bytes
+- Delivery SHA-256: cb56e5c8da34a8ed88f4ec73932b90cbb7991eb59284b9deab5bd881b64540d1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

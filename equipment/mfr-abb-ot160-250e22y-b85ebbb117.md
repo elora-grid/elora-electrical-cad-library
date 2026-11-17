@@ -1,0 +1,112 @@
+# ABB — OT160-250E22Y
+
+ABB OT160-250E22Y: original IGES for switching or transfer equipment layouts. OT160-250E22Y\_palikka.igs, OT160E22Y, OT200E22Y, OT250E22Y, OT160E22YP, OT200E22YP, OT250E22YP, transfer switch, transfer switches.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot160-250e22y-b85ebbb117) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot160-250e22y-b85ebbb117.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot160-250e22y-b85ebbb117.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: IGES
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+OT160-250E22Y\_palikka.igs, OT160E22Y, OT200E22Y, OT250E22Y, OT160E22YP, OT200E22YP, OT250E22YP, transfer switch, transfer switches
+
+## Equipment and file summary
+
+- Equipment / resource: OT160-250E22Y
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: OT160-250E22Y\_palikka.igs, OT160E22Y, OT200E22Y, OT250E22Y, OT160E22YP, OT200E22YP, OT250E22YP, transfer switch, transfer switches
+- Manufacturer drawing identity: OT160-250E22Y
+- Source document: OT160-250E22Y\_PALIKKA.IGS; revision A
+- Source-model envelope: 150 × 247.5 × 229 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Standards: IEC 60947-3
+- Listed file formats: IGES
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: OT160-250E22Y\_palikka.igs, OT160E22Y, OT200E22Y, OT250E22Y, OT160E22YP, OT200E22YP, OT250E22YP, transfer switch, transfer switches ([source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OT160-250E22Y ([source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: OT160-250E22Y\_PALIKKA.IGS; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 150 × 247.5 × 229 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use OT160-250E22Y\_PALIKKA.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OT160-250E22Y\_PALIKKA.IGS.igs.
+
+Use OT160-250E22Y\_PALIKKA.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OT160-250E22Y\_PALIKKA.IGS.igs.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: OT160-250E22Y\_palikka.igs, OT160E22Y, OT200E22Y, OT250E22Y, OT160E22YP, OT200E22YP, OT250E22YP, transfer switch, transfer switches
+- The supplied model has approximate X × Y × Z bounds of 150 × 247.5 × 229 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: OT160-250E22Y\_PALIKKA.IGS.igs — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OT160-250E22Y?
+
+1 inspected original for ABB OT160-250E22Y: OT160-250E22Y\_PALIKKA.IGS.igs (IGES). The manufacturer describes this configuration as OT160-250E22Y\_palikka.igs, OT160E22Y, OT200E22Y, OT250E22Y, OT160E22YP, OT200E22YP, OT250E22YP, transfer switch, transfer switches.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y\_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use OT160-250E22Y\_PALIKKA.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OT160-250E22Y\_PALIKKA.IGS.igs.
+
+## Preview
+
+![ABB OT160-250E22Y: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-ot160-250e22y-b85ebbb117/abb-18b4206bf41c7bf0aa41?asset=eea580ddc4cd51ac89b58fb625ed8510ceb7cea82a2cac0a959a4f0f6cd0108b&view=thumb&v=8839db79679267cf)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot160-250e22y-b85ebbb117). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OT160-250E22Y\_PALIKKA.IGS.igs
+
+- Format: IGES
+- Purpose: Original manufacturer IGES geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ot160-250e22y-b85ebbb117/abb-18b4206bf41c7bf0aa41)
+- Redistribution: unknown
+- Original SHA-256: eea580ddc4cd51ac89b58fb625ed8510ceb7cea82a2cac0a959a4f0f6cd0108b
+- Original bytes: 3775772
+- Revision: A
+- Retrieved: 2026-11-11T07:55:08.745174+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OT160-250E22Y_PALIKKA.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 387998 bytes
+- Delivery SHA-256: 7f8536fd8386ea10cf6be7177a9ab045ef77c82a6084fa99f24ea1ca8336a5f0
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

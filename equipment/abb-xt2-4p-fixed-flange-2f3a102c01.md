@@ -8,7 +8,7 @@ ABB XT2 4p FIXED FLANGE: breaker or breaker-accessory reference for breaker comp
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0297
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT2 4p FIXED FLANGE”. Keep those frame, mount
 - Model envelope: 1SDH001295R0297\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA.stp: 130 × 4.5 × 109.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0337
 - Model envelope: 1SDH001295R0337\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA.stp: 130 × 4.5 × 109.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 24473 bytes
 - Delivery SHA-256: 13450981ae52797e01e4535b2f43de5b8e66977c1d6b1a276cbdb8699c6478fc
 
+### 1SDH001295R0297\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0297\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0297&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-flange-2f3a102c01/13450981ae52797e01e4-dxf)
+- Redistribution: unknown
+- Original SHA-256: 13450981ae52797e01e4535b2f43de5b8e66977c1d6b1a276cbdb8699c6478fc
+- Original bytes: 24473
+- Revision: A
+- Retrieved: 2026-11-03T01:33:23.947775Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0297&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0297&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 31148 bytes
+- Delivery SHA-256: 6604d1a0f645680fef78dc89779b975db2338f869bdbfe755d8311e0e806187d
+
 ### 1SDH001295R0337\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0337&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 24558 bytes
 - Delivery SHA-256: 3f8ee8d25d06f6bcaa4700f55ebaf1b196c03a1300e6b96dcd7416e4cc7cb375
+
+### 1SDH001295R0337\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0337\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0337&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-flange-2f3a102c01/3f8ee8d25d06f6bcaa47-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3f8ee8d25d06f6bcaa4700f55ebaf1b196c03a1300e6b96dcd7416e4cc7cb375
+- Original bytes: 24558
+- Revision: A
+- Retrieved: 2026-11-03T01:34:15.564657Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0337&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0337&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 31180 bytes
+- Delivery SHA-256: c62452a88ef3a0111770b00ba15ff0d8f00c959f72b645f652b66b510d39c370
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

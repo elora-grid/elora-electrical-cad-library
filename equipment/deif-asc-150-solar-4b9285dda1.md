@@ -25,6 +25,7 @@ Manufacturer reference agc-150-2d-cad-drawing.dwg; agc-150-2d-pdf.pdf; agc-150-3
 - Manufacturer drawing: agc-150-2d-cad-drawing.dwg; agc-150-2d-pdf.pdf; agc-150-3d-step-file.zip
 - Manufacturer reference: agc-150-2d-cad-drawing.dwg; agc-150-2d-pdf.pdf; agc-150-3d-step-file.zip; agc-150-3d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-1, IEC 60529, IEC 60255-27, IEC 60255-26, UL 6200
 - Listed file formats: DWG, PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

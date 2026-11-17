@@ -75,7 +75,8 @@
       "manufacturer": "Victron Energy",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/victron-energy-din35-adapters",
       "recordPath": "equipment/victron-energy-din35-adapters.md",
@@ -306,7 +307,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK108471A3756",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bacnet-mstp-controller-cbt-3t6-5r-cad-drawing-dwg-6ecc8044",
       "recordPath": "equipment/abb-bacnet-mstp-controller-cbt-3t6-5r-cad-drawing-dwg-6ecc8044.md",
@@ -318,7 +320,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK108471A3752",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1",
       "recordPath": "equipment/abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1.md",
@@ -330,7 +333,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK108471A3654",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-bld004-air-handling-unit-management-cylon-0a8a93f2",
       "recordPath": "equipment/abb-bld004-air-handling-unit-management-cylon-0a8a93f2.md",

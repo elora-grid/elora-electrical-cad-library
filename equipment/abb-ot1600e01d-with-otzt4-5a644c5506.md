@@ -25,9 +25,10 @@ The supplied configuration is “OT1600E01D\_WITH\_OTZT4”. Keep those frame, m
 - Manufacturer drawing: 1SCC307595F0201
 - Manufacturer reference: 1SCC307595F0201
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +65,7 @@ Use 1SCC307595F0201.dxf revision A for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OT1600E01D\_WITH\_OTZT4: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot1600e01d-with-otzt4-5a644c5506/dcc856351f1ce0e63888?asset=dcc856351f1ce0e6388847c71053a9d3fd71c5662664825cf8a06404b15defec)
+![ABB OT1600E01D\_WITH\_OTZT4: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot1600e01d-with-otzt4-5a644c5506/dcc856351f1ce0e63888?asset=dcc856351f1ce0e6388847c71053a9d3fd71c5662664825cf8a06404b15defec&view=thumb&v=1de5a394c402123b)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot1600e01d-with-otzt4-5a644c5506). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

@@ -1,0 +1,2802 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 52,
+  "entries": [
+    {
+      "id": "eaton-article-132691",
+      "name": "FAZ-B35/1-NA — Miniature circuit breaker (MCB), 35 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132691",
+      "recordPath": "equipment/eaton-article-132691.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132691.json"
+    },
+    {
+      "id": "eaton-article-132686",
+      "name": "FAZ-B16/1-NA — Miniature circuit breaker (MCB), 16 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132686",
+      "recordPath": "equipment/eaton-article-132686.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132686.json"
+    },
+    {
+      "id": "eaton-article-132758",
+      "name": "FAZ-B8/2-RT — Miniature circuit breaker (MCB), 8 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132758",
+      "recordPath": "equipment/eaton-article-132758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132758.json"
+    },
+    {
+      "id": "eaton-article-132741",
+      "name": "FAZ-B13/1-RT — Miniature circuit breaker (MCB), 13 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132741",
+      "recordPath": "equipment/eaton-article-132741.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132741.json"
+    },
+    {
+      "id": "eaton-article-132728",
+      "name": "FAZ-B32/3-NA — Miniature circuit breaker (MCB), 32 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132728",
+      "recordPath": "equipment/eaton-article-132728.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132728.json"
+    },
+    {
+      "id": "eaton-article-132722",
+      "name": "FAZ-B13/3-NA — Miniature circuit breaker (MCB), 13 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132722",
+      "recordPath": "equipment/eaton-article-132722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132722.json"
+    },
+    {
+      "id": "eaton-article-132746",
+      "name": "FAZ-B30/1-RT — Miniature circuit breaker (MCB), 30 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132746",
+      "recordPath": "equipment/eaton-article-132746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132746.json"
+    },
+    {
+      "id": "eaton-article-132749",
+      "name": "FAZ-B40/1-RT — Miniature circuit breaker (MCB), 40 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132749",
+      "recordPath": "equipment/eaton-article-132749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132749.json"
+    },
+    {
+      "id": "eaton-article-132745",
+      "name": "FAZ-B25/1-RT — Miniature circuit breaker (MCB), 25 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132745",
+      "recordPath": "equipment/eaton-article-132745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132745.json"
+    },
+    {
+      "id": "eaton-article-132752",
+      "name": "FAZ-B2/2-RT — Miniature circuit breaker (MCB), 2 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132752",
+      "recordPath": "equipment/eaton-article-132752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132752.json"
+    },
+    {
+      "id": "eaton-article-132740",
+      "name": "FAZ-B10/1-RT — Miniature circuit breaker (MCB), 10 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132740",
+      "recordPath": "equipment/eaton-article-132740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132740.json"
+    },
+    {
+      "id": "eaton-article-132742",
+      "name": "FAZ-B15/1-RT — Miniature circuit breaker (MCB), 15 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132742",
+      "recordPath": "equipment/eaton-article-132742.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132742.json"
+    },
+    {
+      "id": "eaton-article-132723",
+      "name": "FAZ-B15/3-NA — Miniature circuit breaker (MCB), 15 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132723",
+      "recordPath": "equipment/eaton-article-132723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132723.json"
+    },
+    {
+      "id": "eaton-article-132743",
+      "name": "FAZ-B16/1-RT — Miniature circuit breaker (MCB), 16 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132743",
+      "recordPath": "equipment/eaton-article-132743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132743.json"
+    },
+    {
+      "id": "eaton-article-132747",
+      "name": "FAZ-B32/1-RT — Miniature circuit breaker (MCB), 32 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132747",
+      "recordPath": "equipment/eaton-article-132747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132747.json"
+    },
+    {
+      "id": "eaton-article-132751",
+      "name": "FAZ-B1,5/2-RT — Miniature circuit breaker (MCB), 1.5 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132751",
+      "recordPath": "equipment/eaton-article-132751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132751.json"
+    },
+    {
+      "id": "eaton-article-132744",
+      "name": "FAZ-B20/1-RT — Miniature circuit breaker (MCB), 20 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132744",
+      "recordPath": "equipment/eaton-article-132744.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132744.json"
+    },
+    {
+      "id": "eaton-article-132761",
+      "name": "FAZ-B15/2-RT — Miniature circuit breaker (MCB), 15 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132761",
+      "recordPath": "equipment/eaton-article-132761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132761.json"
+    },
+    {
+      "id": "eaton-article-132706",
+      "name": "FAZ-B20/2-NA — Miniature circuit breaker (MCB), 20 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132706",
+      "recordPath": "equipment/eaton-article-132706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132706.json"
+    },
+    {
+      "id": "eaton-article-132692",
+      "name": "FAZ-B40/1-NA — Miniature circuit breaker (MCB), 40 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132692",
+      "recordPath": "equipment/eaton-article-132692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132692.json"
+    },
+    {
+      "id": "eaton-article-132766",
+      "name": "FAZ-B32/2-RT — Miniature circuit breaker (MCB), 32 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132766",
+      "recordPath": "equipment/eaton-article-132766.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132766.json"
+    },
+    {
+      "id": "eaton-article-132712",
+      "name": "FAZ-B1/3-NA — Miniature circuit breaker (MCB), 1 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132712",
+      "recordPath": "equipment/eaton-article-132712.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132712.json"
+    },
+    {
+      "id": "eaton-article-132724",
+      "name": "FAZ-B16/3-NA — Miniature circuit breaker (MCB), 16 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132724",
+      "recordPath": "equipment/eaton-article-132724.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132724.json"
+    },
+    {
+      "id": "eaton-article-132710",
+      "name": "FAZ-B35/2-NA — Miniature circuit breaker (MCB), 35 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132710",
+      "recordPath": "equipment/eaton-article-132710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132710.json"
+    },
+    {
+      "id": "eaton-article-132726",
+      "name": "FAZ-B25/3-NA — Miniature circuit breaker (MCB), 25 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132726",
+      "recordPath": "equipment/eaton-article-132726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132726.json"
+    },
+    {
+      "id": "eaton-article-132721",
+      "name": "FAZ-B10/3-NA — Miniature circuit breaker (MCB), 10 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132721",
+      "recordPath": "equipment/eaton-article-132721.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132721.json"
+    },
+    {
+      "id": "eaton-article-132719",
+      "name": "FAZ-B7/3-NA — Miniature circuit breaker (MCB), 7 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132719",
+      "recordPath": "equipment/eaton-article-132719.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132719.json"
+    },
+    {
+      "id": "eaton-article-132725",
+      "name": "FAZ-B20/3-NA — Miniature circuit breaker (MCB), 20 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132725",
+      "recordPath": "equipment/eaton-article-132725.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132725.json"
+    },
+    {
+      "id": "eaton-article-132729",
+      "name": "FAZ-B35/3-NA — Miniature circuit breaker (MCB), 35 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132729",
+      "recordPath": "equipment/eaton-article-132729.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132729.json"
+    },
+    {
+      "id": "eaton-article-132764",
+      "name": "FAZ-B25/2-RT — Miniature circuit breaker (MCB), 25 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132764",
+      "recordPath": "equipment/eaton-article-132764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132764.json"
+    },
+    {
+      "id": "eaton-article-132693",
+      "name": "FAZ-B1/2-NA — Miniature circuit breaker (MCB), 1 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132693",
+      "recordPath": "equipment/eaton-article-132693.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132693.json"
+    },
+    {
+      "id": "eaton-article-132754",
+      "name": "FAZ-B4/2-RT — Miniature circuit breaker (MCB), 4 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132754",
+      "recordPath": "equipment/eaton-article-132754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132754.json"
+    },
+    {
+      "id": "eaton-article-132767",
+      "name": "FAZ-B35/2-RT — Miniature circuit breaker (MCB), 35 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132767",
+      "recordPath": "equipment/eaton-article-132767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132767.json"
+    },
+    {
+      "id": "eaton-article-132704",
+      "name": "FAZ-B15/2-NA — Miniature circuit breaker (MCB), 15 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132704",
+      "recordPath": "equipment/eaton-article-132704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132704.json"
+    },
+    {
+      "id": "eaton-article-132711",
+      "name": "FAZ-B40/2-NA — Miniature circuit breaker (MCB), 40 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132711",
+      "recordPath": "equipment/eaton-article-132711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132711.json"
+    },
+    {
+      "id": "eaton-article-132689",
+      "name": "FAZ-B30/1-NA — Miniature circuit breaker (MCB), 30 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132689",
+      "recordPath": "equipment/eaton-article-132689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132689.json"
+    },
+    {
+      "id": "eaton-article-132730",
+      "name": "FAZ-B40/3-NA — Miniature circuit breaker (MCB), 40 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132730",
+      "recordPath": "equipment/eaton-article-132730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132730.json"
+    },
+    {
+      "id": "eaton-article-132715",
+      "name": "FAZ-B3/3-NA — Miniature circuit breaker (MCB), 3 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132715",
+      "recordPath": "equipment/eaton-article-132715.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132715.json"
+    },
+    {
+      "id": "eaton-article-132682",
+      "name": "FAZ-B8/1-NA — Miniature circuit breaker (MCB), 8 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132682",
+      "recordPath": "equipment/eaton-article-132682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132682.json"
+    },
+    {
+      "id": "eaton-article-132697",
+      "name": "FAZ-B4/2-NA — Miniature circuit breaker (MCB), 4 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132697",
+      "recordPath": "equipment/eaton-article-132697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132697.json"
+    },
+    {
+      "id": "eaton-article-132755",
+      "name": "FAZ-B5/2-RT — Miniature circuit breaker (MCB), 5 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132755",
+      "recordPath": "equipment/eaton-article-132755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132755.json"
+    },
+    {
+      "id": "eaton-article-132769",
+      "name": "FAZ-B1/3-RT — Miniature circuit breaker (MCB), 1 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132769",
+      "recordPath": "equipment/eaton-article-132769.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132769.json"
+    },
+    {
+      "id": "eaton-article-132762",
+      "name": "FAZ-B16/2-RT — Miniature circuit breaker (MCB), 16 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132762",
+      "recordPath": "equipment/eaton-article-132762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132762.json"
+    },
+    {
+      "id": "eaton-article-132714",
+      "name": "FAZ-B2/3-NA — Miniature circuit breaker (MCB), 2 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132714",
+      "recordPath": "equipment/eaton-article-132714.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132714.json"
+    },
+    {
+      "id": "eaton-article-132681",
+      "name": "FAZ-B7/1-NA — Miniature circuit breaker (MCB), 7 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132681",
+      "recordPath": "equipment/eaton-article-132681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132681.json"
+    },
+    {
+      "id": "eaton-article-132733",
+      "name": "FAZ-B2/1-RT — Miniature circuit breaker (MCB), 2 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132733",
+      "recordPath": "equipment/eaton-article-132733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132733.json"
+    },
+    {
+      "id": "eaton-article-132701",
+      "name": "FAZ-B8/2-NA — Miniature circuit breaker (MCB), 8 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132701",
+      "recordPath": "equipment/eaton-article-132701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132701.json"
+    },
+    {
+      "id": "eaton-article-132756",
+      "name": "FAZ-B6/2-RT — Miniature circuit breaker (MCB), 6 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132756",
+      "recordPath": "equipment/eaton-article-132756.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132756.json"
+    },
+    {
+      "id": "eaton-article-132716",
+      "name": "FAZ-B4/3-NA — Miniature circuit breaker (MCB), 4 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132716",
+      "recordPath": "equipment/eaton-article-132716.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132716.json"
+    },
+    {
+      "id": "eaton-article-132734",
+      "name": "FAZ-B3/1-RT — Miniature circuit breaker (MCB), 3 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132734",
+      "recordPath": "equipment/eaton-article-132734.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132734.json"
+    },
+    {
+      "id": "eaton-article-132738",
+      "name": "FAZ-B7/1-RT — Miniature circuit breaker (MCB), 7 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132738",
+      "recordPath": "equipment/eaton-article-132738.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132738.json"
+    },
+    {
+      "id": "eaton-article-132737",
+      "name": "FAZ-B6/1-RT — Miniature circuit breaker (MCB), 6 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132737",
+      "recordPath": "equipment/eaton-article-132737.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132737.json"
+    },
+    {
+      "id": "eaton-article-132765",
+      "name": "FAZ-B30/2-RT — Miniature circuit breaker (MCB), 30 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132765",
+      "recordPath": "equipment/eaton-article-132765.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132765.json"
+    },
+    {
+      "id": "eaton-article-132705",
+      "name": "FAZ-B16/2-NA — Miniature circuit breaker (MCB), 16 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132705",
+      "recordPath": "equipment/eaton-article-132705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132705.json"
+    },
+    {
+      "id": "eaton-article-132700",
+      "name": "FAZ-B7/2-NA — Miniature circuit breaker (MCB), 7 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132700",
+      "recordPath": "equipment/eaton-article-132700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132700.json"
+    },
+    {
+      "id": "eaton-article-0b6919c80f53f2b9b7361cf3",
+      "name": "32A 660V CAMASTER COMPACT GRN — Fuse-holder, low voltage, 32 A, AC 690 V, BS88/A1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0b6919c80f53f2b9b7361cf3",
+      "recordPath": "equipment/eaton-article-0b6919c80f53f2b9b7361cf3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0b6919c80f53f2b9b7361cf3.json"
+    },
+    {
+      "id": "eaton-article-1041145617300aad4c9ea953",
+      "name": "FUSE 125A 690V 1*TN/80 AR UC — Fuse-link, high speed, 125 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1041145617300aad4c9ea953",
+      "recordPath": "equipment/eaton-article-1041145617300aad4c9ea953.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1041145617300aad4c9ea953.json"
+    },
+    {
+      "id": "eaton-article-8d98999ba2487a6bd697146e",
+      "name": "170M3113 — Fuse-link, high speed, 125 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8d98999ba2487a6bd697146e",
+      "recordPath": "equipment/eaton-article-8d98999ba2487a6bd697146e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8d98999ba2487a6bd697146e.json"
+    },
+    {
+      "id": "eaton-article-2de8e2711884ff8fb731cacd",
+      "name": "FUSE 40A 690V 1*/80 AR UC — Fuse-link, high speed, 40 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2de8e2711884ff8fb731cacd",
+      "recordPath": "equipment/eaton-article-2de8e2711884ff8fb731cacd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2de8e2711884ff8fb731cacd.json"
+    },
+    {
+      "id": "eaton-article-799151b89b0f067431b4c95a",
+      "name": "FUSE 200A 690V 1*KN/80 AR UC — Fuse-link, high speed, 200 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-799151b89b0f067431b4c95a",
+      "recordPath": "equipment/eaton-article-799151b89b0f067431b4c95a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-799151b89b0f067431b4c95a.json"
+    },
+    {
+      "id": "eaton-article-07053a25be2d1b11ed8acb80",
+      "name": "FUSE 160A 690V 1*KN/80 AR UC — Fuse-link, high speed, 160 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-07053a25be2d1b11ed8acb80",
+      "recordPath": "equipment/eaton-article-07053a25be2d1b11ed8acb80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-07053a25be2d1b11ed8acb80.json"
+    },
+    {
+      "id": "eaton-article-02bf6b24bfd6f75f319efd5e",
+      "name": "FUSE 550A 690V 1*/80 AR UC — Fuse-link, high speed, 550 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-02bf6b24bfd6f75f319efd5e",
+      "recordPath": "equipment/eaton-article-02bf6b24bfd6f75f319efd5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-02bf6b24bfd6f75f319efd5e.json"
+    },
+    {
+      "id": "eaton-article-5a4a007d0814f5764dda5045",
+      "name": "FUSE 160A 690V 1*TN/80 AR UC — Fuse-link, high speed, 160 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5a4a007d0814f5764dda5045",
+      "recordPath": "equipment/eaton-article-5a4a007d0814f5764dda5045.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5a4a007d0814f5764dda5045.json"
+    },
+    {
+      "id": "eaton-article-e10e54e867b50d3c28d98d44",
+      "name": "FUSE 315A 690V 1*TN/80 AR UC — Fuse-link, high speed, 315 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e10e54e867b50d3c28d98d44",
+      "recordPath": "equipment/eaton-article-e10e54e867b50d3c28d98d44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e10e54e867b50d3c28d98d44.json"
+    },
+    {
+      "id": "eaton-article-dfe4cdb74ce9ba4e050ef158",
+      "name": "FUSE 250A 690V 1*TN/80 AR UC — Fuse-link, high speed, 250 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dfe4cdb74ce9ba4e050ef158",
+      "recordPath": "equipment/eaton-article-dfe4cdb74ce9ba4e050ef158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dfe4cdb74ce9ba4e050ef158.json"
+    },
+    {
+      "id": "eaton-article-83ffbdf3a2dc63779e4f31c2",
+      "name": "170M3019 — Fuse-link, high speed, 400 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-83ffbdf3a2dc63779e4f31c2",
+      "recordPath": "equipment/eaton-article-83ffbdf3a2dc63779e4f31c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-83ffbdf3a2dc63779e4f31c2.json"
+    },
+    {
+      "id": "eaton-article-b839ce3370618f61bca49760",
+      "name": "170M3065 — Fuse-link, high speed, 200 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b839ce3370618f61bca49760",
+      "recordPath": "equipment/eaton-article-b839ce3370618f61bca49760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b839ce3370618f61bca49760.json"
+    },
+    {
+      "id": "eaton-article-74bd7da4636816e3d6a367dd",
+      "name": "FUSE 40A 690V 1*KN/80 AR UC — Fuse-link, high speed, 40 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-74bd7da4636816e3d6a367dd",
+      "recordPath": "equipment/eaton-article-74bd7da4636816e3d6a367dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-74bd7da4636816e3d6a367dd.json"
+    },
+    {
+      "id": "eaton-article-cabfdb9d249c5c2bdb3ee2a0",
+      "name": "170M3021 — Fuse-link, high speed, 500 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cabfdb9d249c5c2bdb3ee2a0",
+      "recordPath": "equipment/eaton-article-cabfdb9d249c5c2bdb3ee2a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cabfdb9d249c5c2bdb3ee2a0.json"
+    },
+    {
+      "id": "eaton-article-ce64887b9693b9b681764e14",
+      "name": "170M3110 — Fuse-link, high speed, 63 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ce64887b9693b9b681764e14",
+      "recordPath": "equipment/eaton-article-ce64887b9693b9b681764e14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ce64887b9693b9b681764e14.json"
+    },
+    {
+      "id": "eaton-article-35b0607f499e67f4b7f68d69",
+      "name": "170M3023 — Fuse-link, high speed, 630 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-35b0607f499e67f4b7f68d69",
+      "recordPath": "equipment/eaton-article-35b0607f499e67f4b7f68d69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-35b0607f499e67f4b7f68d69.json"
+    },
+    {
+      "id": "eaton-article-2c459359759e070fe02eff1f",
+      "name": "FUSE 450A 690V 1*/80 AR UC — Fuse-link, high speed, 450 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2c459359759e070fe02eff1f",
+      "recordPath": "equipment/eaton-article-2c459359759e070fe02eff1f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2c459359759e070fe02eff1f.json"
+    },
+    {
+      "id": "eaton-article-0d03c9c1286458f1b083ce4a",
+      "name": "FUSE 80A 690V 1*KN/80 AR UC — Fuse-link, high speed, 80 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0d03c9c1286458f1b083ce4a",
+      "recordPath": "equipment/eaton-article-0d03c9c1286458f1b083ce4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0d03c9c1286458f1b083ce4a.json"
+    },
+    {
+      "id": "eaton-article-dec4c668dc63203bf1d2be84",
+      "name": "FUSE 50A 690V 1*KN/80 AR UC — Fuse-link, high speed, 50 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dec4c668dc63203bf1d2be84",
+      "recordPath": "equipment/eaton-article-dec4c668dc63203bf1d2be84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dec4c668dc63203bf1d2be84.json"
+    },
+    {
+      "id": "eaton-article-f45294a80916a454038bb67e",
+      "name": "170M3058 — Fuse-link, high speed, 40 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f45294a80916a454038bb67e",
+      "recordPath": "equipment/eaton-article-f45294a80916a454038bb67e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f45294a80916a454038bb67e.json"
+    },
+    {
+      "id": "eaton-article-0456bbb5662763646529104a",
+      "name": "170M3059 — Fuse-link, high speed, 50 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0456bbb5662763646529104a",
+      "recordPath": "equipment/eaton-article-0456bbb5662763646529104a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0456bbb5662763646529104a.json"
+    },
+    {
+      "id": "eaton-article-0c991dc9a5d2743323ae9d1e",
+      "name": "170M3060 — Fuse-link, high speed, 63 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0c991dc9a5d2743323ae9d1e",
+      "recordPath": "equipment/eaton-article-0c991dc9a5d2743323ae9d1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0c991dc9a5d2743323ae9d1e.json"
+    },
+    {
+      "id": "eaton-article-65af99eee8b96d859a78a48a",
+      "name": "FUSE 63A 690V 1*/80 AR UC — Fuse-link, high speed, 63 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-65af99eee8b96d859a78a48a",
+      "recordPath": "equipment/eaton-article-65af99eee8b96d859a78a48a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-65af99eee8b96d859a78a48a.json"
+    },
+    {
+      "id": "eaton-article-327f8dae36c8926fed0c7cbf",
+      "name": "FUSE 80A 690V 1*TN/80 AR UR — Fuse-link, high speed, 80 A, AC 690 V, compact DIN 1, 45 x 58 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-327f8dae36c8926fed0c7cbf",
+      "recordPath": "equipment/eaton-article-327f8dae36c8926fed0c7cbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-327f8dae36c8926fed0c7cbf.json"
+    },
+    {
+      "id": "eaton-article-988f604b35d1288583a05aef",
+      "name": "FUSE 50A 690V 1*/80 AR UC — Fuse-link, high speed, 50 A, AC 690 V, compact DIN 1, 45 x 45 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-988f604b35d1288583a05aef",
+      "recordPath": "equipment/eaton-article-988f604b35d1288583a05aef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-988f604b35d1288583a05aef.json"
+    },
+    {
+      "id": "eaton-article-96a72060edc67decc4f57bb3",
+      "name": "FUSE 200A 1250V 1*TN/110 AR CU — Fuse-link, high speed, 200 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-96a72060edc67decc4f57bb3",
+      "recordPath": "equipment/eaton-article-96a72060edc67decc4f57bb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-96a72060edc67decc4f57bb3.json"
+    },
+    {
+      "id": "eaton-article-d4910ae47c68a23b950f089a",
+      "name": "170M3192 — Fuse-link, high speed, 125 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d4910ae47c68a23b950f089a",
+      "recordPath": "equipment/eaton-article-d4910ae47c68a23b950f089a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d4910ae47c68a23b950f089a.json"
+    },
+    {
+      "id": "eaton-article-bc8e1166ff9dd0eea17eb7f3",
+      "name": "FUSE 160A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 160 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bc8e1166ff9dd0eea17eb7f3",
+      "recordPath": "equipment/eaton-article-bc8e1166ff9dd0eea17eb7f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bc8e1166ff9dd0eea17eb7f3.json"
+    },
+    {
+      "id": "eaton-article-1effe9b5672e700df0d3b46f",
+      "name": "FUSE 350A 690V 1*/110 AR UC — Fuse-link, high speed, 350 A, AC 690 V, compact size 1, 45 x 45 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1effe9b5672e700df0d3b46f",
+      "recordPath": "equipment/eaton-article-1effe9b5672e700df0d3b46f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1effe9b5672e700df0d3b46f.json"
+    },
+    {
+      "id": "eaton-article-17c58dbf52cdcc5529991916",
+      "name": "FUSE 160A 1250V 1*/110 AR CU — Fuse-link, high speed, 160 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-17c58dbf52cdcc5529991916",
+      "recordPath": "equipment/eaton-article-17c58dbf52cdcc5529991916.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-17c58dbf52cdcc5529991916.json"
+    },
+    {
+      "id": "eaton-article-689ad8df008e77477cd0e8c0",
+      "name": "FUSE 125A 690V 1*KN/110 AR UC — Fuse-link, high speed, 125 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-689ad8df008e77477cd0e8c0",
+      "recordPath": "equipment/eaton-article-689ad8df008e77477cd0e8c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-689ad8df008e77477cd0e8c0.json"
+    },
+    {
+      "id": "eaton-article-09aaba0dfdae687ef032f997",
+      "name": "170M3273 — Fuse-link, high speed, 630 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-09aaba0dfdae687ef032f997",
+      "recordPath": "equipment/eaton-article-09aaba0dfdae687ef032f997.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-09aaba0dfdae687ef032f997.json"
+    },
+    {
+      "id": "eaton-article-c1d077e66459ad9979889ac9",
+      "name": "170M3193 — Fuse-link, high speed, 160 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c1d077e66459ad9979889ac9",
+      "recordPath": "equipment/eaton-article-c1d077e66459ad9979889ac9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c1d077e66459ad9979889ac9.json"
+    },
+    {
+      "id": "eaton-article-8c6ee767376e44b2057063e4",
+      "name": "FUSE 400A 1250V 1*/110 AR CU — Fuse-link, high speed, 400 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8c6ee767376e44b2057063e4",
+      "recordPath": "equipment/eaton-article-8c6ee767376e44b2057063e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8c6ee767376e44b2057063e4.json"
+    },
+    {
+      "id": "eaton-article-4cc37eec49568c809dbc3425",
+      "name": "170M3190 — Fuse-link, high speed, 80 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4cc37eec49568c809dbc3425",
+      "recordPath": "equipment/eaton-article-4cc37eec49568c809dbc3425.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4cc37eec49568c809dbc3425.json"
+    },
+    {
+      "id": "eaton-article-d6bf1bb6444648c51eabe5d5",
+      "name": "FUSE 350A 690V 1*KN/110 AR UC — Fuse-link, high speed, 350 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d6bf1bb6444648c51eabe5d5",
+      "recordPath": "equipment/eaton-article-d6bf1bb6444648c51eabe5d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d6bf1bb6444648c51eabe5d5.json"
+    },
+    {
+      "id": "eaton-article-707c16118451b5a3126875ce",
+      "name": "FUSE 550A 690V 1*KN/80 AR UC — Fuse-link, high speed, 550 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-707c16118451b5a3126875ce",
+      "recordPath": "equipment/eaton-article-707c16118451b5a3126875ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-707c16118451b5a3126875ce.json"
+    },
+    {
+      "id": "eaton-article-2960d8639bfd8e3056aeec7f",
+      "name": "170M3213 — Fuse-link, high speed, 125 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2960d8639bfd8e3056aeec7f",
+      "recordPath": "equipment/eaton-article-2960d8639bfd8e3056aeec7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2960d8639bfd8e3056aeec7f.json"
+    },
+    {
+      "id": "eaton-article-0f0951816bcbb91054cbc0bb",
+      "name": "170M3271 — Fuse-link, high speed, 500 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0f0951816bcbb91054cbc0bb",
+      "recordPath": "equipment/eaton-article-0f0951816bcbb91054cbc0bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0f0951816bcbb91054cbc0bb.json"
+    },
+    {
+      "id": "eaton-article-4cdddfec74fdd8bd251cd509",
+      "name": "170M3270 — Fuse-link, high speed, 450 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4cdddfec74fdd8bd251cd509",
+      "recordPath": "equipment/eaton-article-4cdddfec74fdd8bd251cd509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4cdddfec74fdd8bd251cd509.json"
+    },
+    {
+      "id": "eaton-article-2d73e51efe33d4c7a74693e3",
+      "name": "170M3312 — Fuse-link, high speed, 100 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2d73e51efe33d4c7a74693e3",
+      "recordPath": "equipment/eaton-article-2d73e51efe33d4c7a74693e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2d73e51efe33d4c7a74693e3.json"
+    },
+    {
+      "id": "eaton-article-b52222eda99d7660825992e8",
+      "name": "FUSE 350A 690V 1*KN/80 AR UC — Fuse-link, high speed, 350 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b52222eda99d7660825992e8",
+      "recordPath": "equipment/eaton-article-b52222eda99d7660825992e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b52222eda99d7660825992e8.json"
+    },
+    {
+      "id": "eaton-article-db0e9a44fc95d35c92e03fd0",
+      "name": "FUSE 400A 690V 1*TN/110 AR UC — Fuse-link, high speed, 400 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-db0e9a44fc95d35c92e03fd0",
+      "recordPath": "equipment/eaton-article-db0e9a44fc95d35c92e03fd0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-db0e9a44fc95d35c92e03fd0.json"
+    },
+    {
+      "id": "eaton-article-c07ca553568e2398ac3d59d1",
+      "name": "170M3123 — Fuse-link, high speed, 630 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c07ca553568e2398ac3d59d1",
+      "recordPath": "equipment/eaton-article-c07ca553568e2398ac3d59d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c07ca553568e2398ac3d59d1.json"
+    },
+    {
+      "id": "eaton-article-dd3182d1e3d3aa0407618a4d",
+      "name": "FUSE 200A 690V 1*KN/110 AR UC — Fuse-link, high speed, 200 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dd3182d1e3d3aa0407618a4d",
+      "recordPath": "equipment/eaton-article-dd3182d1e3d3aa0407618a4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dd3182d1e3d3aa0407618a4d.json"
+    },
+    {
+      "id": "eaton-article-7dec0f0f8b4bd6ec9ee8463b",
+      "name": "FUSE 250A 690V 1*TN/110 AR UC — Fuse-link, high speed, 250 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7dec0f0f8b4bd6ec9ee8463b",
+      "recordPath": "equipment/eaton-article-7dec0f0f8b4bd6ec9ee8463b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7dec0f0f8b4bd6ec9ee8463b.json"
+    },
+    {
+      "id": "eaton-article-e2cc34aa02c0cc735e50bf4f",
+      "name": "FUSE 400A 690V 1*KN/110 AR UC — Fuse-link, high speed, 400 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e2cc34aa02c0cc735e50bf4f",
+      "recordPath": "equipment/eaton-article-e2cc34aa02c0cc735e50bf4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e2cc34aa02c0cc735e50bf4f.json"
+    },
+    {
+      "id": "eaton-article-2d004744d8cc38b0673babd7",
+      "name": "FUSE 50A 1250V 1*/110 AR CU — Fuse-link, high speed, 50 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2d004744d8cc38b0673babd7",
+      "recordPath": "equipment/eaton-article-2d004744d8cc38b0673babd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2d004744d8cc38b0673babd7.json"
+    },
+    {
+      "id": "eaton-article-759fa795b2e2decb692f18aa",
+      "name": "FUSE 450A 690V 1*KN/80 AR UC — Fuse-link, high speed, 450 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-759fa795b2e2decb692f18aa",
+      "recordPath": "equipment/eaton-article-759fa795b2e2decb692f18aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-759fa795b2e2decb692f18aa.json"
+    },
+    {
+      "id": "eaton-article-9d8224fc07a9fe0fa0e0e7cb",
+      "name": "FUSE 500A 690V 1*KN/80 AR UC — Fuse-link, high speed, 500 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9d8224fc07a9fe0fa0e0e7cb",
+      "recordPath": "equipment/eaton-article-9d8224fc07a9fe0fa0e0e7cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9d8224fc07a9fe0fa0e0e7cb.json"
+    },
+    {
+      "id": "eaton-article-9e9a9615c9a89b597e165782",
+      "name": "FUSE 250A 690V 1*KN/80 AR UC — Fuse-link, high speed, 250 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9e9a9615c9a89b597e165782",
+      "recordPath": "equipment/eaton-article-9e9a9615c9a89b597e165782.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9e9a9615c9a89b597e165782.json"
+    },
+    {
+      "id": "eaton-article-af5aa195c719d6cba7cc6863",
+      "name": "FUSE 315A 1250V 1*/110 AR CU — Fuse-link, high speed, 315 A, AC 1250 V, compact size 1, 45 x 45 x 140 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-af5aa195c719d6cba7cc6863",
+      "recordPath": "equipment/eaton-article-af5aa195c719d6cba7cc6863.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-af5aa195c719d6cba7cc6863.json"
+    },
+    {
+      "id": "eaton-article-0d20e11cf046859e3c7e7f13",
+      "name": "FUSE 315A 1250V 1*TN/110 AR CU — Fuse-link, high speed, 315 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0d20e11cf046859e3c7e7f13",
+      "recordPath": "equipment/eaton-article-0d20e11cf046859e3c7e7f13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0d20e11cf046859e3c7e7f13.json"
+    },
+    {
+      "id": "eaton-article-1b60dd7d5556022fef10e0f5",
+      "name": "FUSE 125A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 125 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1b60dd7d5556022fef10e0f5",
+      "recordPath": "equipment/eaton-article-1b60dd7d5556022fef10e0f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1b60dd7d5556022fef10e0f5.json"
+    },
+    {
+      "id": "eaton-article-1f30dbbb03bf8667e1315df2",
+      "name": "FUSE 250A 1250V 1*/110 AR CU — Fuse-link, high speed, 250 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1f30dbbb03bf8667e1315df2",
+      "recordPath": "equipment/eaton-article-1f30dbbb03bf8667e1315df2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1f30dbbb03bf8667e1315df2.json"
+    },
+    {
+      "id": "eaton-article-c0ac2e2ffece09b04c9a78bf",
+      "name": "170M3218 — Fuse-link, high speed, 350 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c0ac2e2ffece09b04c9a78bf",
+      "recordPath": "equipment/eaton-article-c0ac2e2ffece09b04c9a78bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c0ac2e2ffece09b04c9a78bf.json"
+    },
+    {
+      "id": "eaton-article-0fec36a31a9b10aea127933d",
+      "name": "170M3189 — Fuse-link, high speed, 63 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0fec36a31a9b10aea127933d",
+      "recordPath": "equipment/eaton-article-0fec36a31a9b10aea127933d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0fec36a31a9b10aea127933d.json"
+    },
+    {
+      "id": "eaton-article-586963294b9c6420629adda2",
+      "name": "FUSE 160A 690V 1*TN/110 AR UC — Fuse-link, high speed, 160 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-586963294b9c6420629adda2",
+      "recordPath": "equipment/eaton-article-586963294b9c6420629adda2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-586963294b9c6420629adda2.json"
+    },
+    {
+      "id": "eaton-article-7bbea261ea8d0195a13c3e72",
+      "name": "FUSE 63A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 63 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7bbea261ea8d0195a13c3e72",
+      "recordPath": "equipment/eaton-article-7bbea261ea8d0195a13c3e72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7bbea261ea8d0195a13c3e72.json"
+    },
+    {
+      "id": "eaton-article-9c23b352a3aa860446d344ff",
+      "name": "170M3221 — Fuse-link, high speed, 500 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9c23b352a3aa860446d344ff",
+      "recordPath": "equipment/eaton-article-9c23b352a3aa860446d344ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9c23b352a3aa860446d344ff.json"
+    },
+    {
+      "id": "eaton-article-6b1ea223949088183c8309e2",
+      "name": "FUSE 80A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 80 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6b1ea223949088183c8309e2",
+      "recordPath": "equipment/eaton-article-6b1ea223949088183c8309e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6b1ea223949088183c8309e2.json"
+    },
+    {
+      "id": "eaton-article-c3ece3949e16cb0603b053d0",
+      "name": "FUSE 450A 690V 1*TN/110 AR UC — Fuse-link, high speed, 450 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c3ece3949e16cb0603b053d0",
+      "recordPath": "equipment/eaton-article-c3ece3949e16cb0603b053d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c3ece3949e16cb0603b053d0.json"
+    },
+    {
+      "id": "eaton-article-0eda5e00a0b586522dc17fa3",
+      "name": "FUSE 250A 1250V 1*TN/110 AR CU — Fuse-link, high speed, 250 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0eda5e00a0b586522dc17fa3",
+      "recordPath": "equipment/eaton-article-0eda5e00a0b586522dc17fa3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0eda5e00a0b586522dc17fa3.json"
+    },
+    {
+      "id": "eaton-article-3de45e98c79a1e67cad75739",
+      "name": "FUSE 315A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 315 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3de45e98c79a1e67cad75739",
+      "recordPath": "equipment/eaton-article-3de45e98c79a1e67cad75739.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3de45e98c79a1e67cad75739.json"
+    },
+    {
+      "id": "eaton-article-80c75072c2045a0ef135bc8f",
+      "name": "FUSE 250A 690V 1*KN/110 AR UC — Fuse-link, high speed, 250 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-80c75072c2045a0ef135bc8f",
+      "recordPath": "equipment/eaton-article-80c75072c2045a0ef135bc8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-80c75072c2045a0ef135bc8f.json"
+    },
+    {
+      "id": "eaton-article-254cc1af7871f0e96eeac71e",
+      "name": "FUSE 315A 690V 1*TN/110 AR UC — Fuse-link, high speed, 315 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-254cc1af7871f0e96eeac71e",
+      "recordPath": "equipment/eaton-article-254cc1af7871f0e96eeac71e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-254cc1af7871f0e96eeac71e.json"
+    },
+    {
+      "id": "eaton-article-acb1cd6faed51898d2b570a8",
+      "name": "170M3272 — Fuse-link, high speed, 550 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-acb1cd6faed51898d2b570a8",
+      "recordPath": "equipment/eaton-article-acb1cd6faed51898d2b570a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-acb1cd6faed51898d2b570a8.json"
+    },
+    {
+      "id": "eaton-article-53881f433dd4adb59ae7c71e",
+      "name": "FUSE 315A 690V 1*KN/110 AR UC — Fuse-link, high speed, 315 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-53881f433dd4adb59ae7c71e",
+      "recordPath": "equipment/eaton-article-53881f433dd4adb59ae7c71e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-53881f433dd4adb59ae7c71e.json"
+    },
+    {
+      "id": "eaton-article-73694db8a93b2e9aea8ad758",
+      "name": "170M3258 — Fuse-link, high speed, 40 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-73694db8a93b2e9aea8ad758",
+      "recordPath": "equipment/eaton-article-73694db8a93b2e9aea8ad758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-73694db8a93b2e9aea8ad758.json"
+    },
+    {
+      "id": "eaton-article-1922b5676934f4e64e906f4c",
+      "name": "FUSE 63A 690V 1*TN/110 AR UC — Fuse-link, high speed, 63 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1922b5676934f4e64e906f4c",
+      "recordPath": "equipment/eaton-article-1922b5676934f4e64e906f4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1922b5676934f4e64e906f4c.json"
+    },
+    {
+      "id": "eaton-article-b2c609b1f9f277a462a65675",
+      "name": "FUSE 250A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 250 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b2c609b1f9f277a462a65675",
+      "recordPath": "equipment/eaton-article-b2c609b1f9f277a462a65675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b2c609b1f9f277a462a65675.json"
+    },
+    {
+      "id": "eaton-article-6136e08afb6eaeda792966d2",
+      "name": "170M3314 — Fuse-link, high speed, 160 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6136e08afb6eaeda792966d2",
+      "recordPath": "equipment/eaton-article-6136e08afb6eaeda792966d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6136e08afb6eaeda792966d2.json"
+    },
+    {
+      "id": "eaton-article-7af28c07fe0e7055c2990371",
+      "name": "170M3260 — Fuse-link, high speed, 63 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7af28c07fe0e7055c2990371",
+      "recordPath": "equipment/eaton-article-7af28c07fe0e7055c2990371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7af28c07fe0e7055c2990371.json"
+    },
+    {
+      "id": "eaton-article-eaf42ed4043421037b56f33f",
+      "name": "170M3360 — Fuse-link, high speed, 63 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-eaf42ed4043421037b56f33f",
+      "recordPath": "equipment/eaton-article-eaf42ed4043421037b56f33f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-eaf42ed4043421037b56f33f.json"
+    },
+    {
+      "id": "eaton-article-5a9f76c300d63a15ee1cac0d",
+      "name": "FUSE 50A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 50 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5a9f76c300d63a15ee1cac0d",
+      "recordPath": "equipment/eaton-article-5a9f76c300d63a15ee1cac0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5a9f76c300d63a15ee1cac0d.json"
+    },
+    {
+      "id": "eaton-article-c47a5d17e52e8d1e14f5ea6f",
+      "name": "FUSE 125A 1250V 1*/110 AR CU — Fuse-link, high speed, 125 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c47a5d17e52e8d1e14f5ea6f",
+      "recordPath": "equipment/eaton-article-c47a5d17e52e8d1e14f5ea6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c47a5d17e52e8d1e14f5ea6f.json"
+    },
+    {
+      "id": "eaton-article-22856b982b91d68f6bd16f31",
+      "name": "FUSE 350A 1250V 1*/110 AR CU — Fuse-link, high speed, 350 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-22856b982b91d68f6bd16f31",
+      "recordPath": "equipment/eaton-article-22856b982b91d68f6bd16f31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-22856b982b91d68f6bd16f31.json"
+    },
+    {
+      "id": "eaton-article-2f7f92213898b5b616eaeb12",
+      "name": "FUSE 400A 690V 1*KN/80 AR UC — Fuse-link, high speed, 400 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2f7f92213898b5b616eaeb12",
+      "recordPath": "equipment/eaton-article-2f7f92213898b5b616eaeb12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2f7f92213898b5b616eaeb12.json"
+    },
+    {
+      "id": "eaton-article-14fd9942a8708e5c54630ed4",
+      "name": "FUSE 200A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 200 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-14fd9942a8708e5c54630ed4",
+      "recordPath": "equipment/eaton-article-14fd9942a8708e5c54630ed4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-14fd9942a8708e5c54630ed4.json"
+    },
+    {
+      "id": "eaton-article-01991bbdb14fdd87b193d9df",
+      "name": "FUSE 200A 1250V 1*/110 AR CU — Fuse-link, high speed, 200 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-01991bbdb14fdd87b193d9df",
+      "recordPath": "equipment/eaton-article-01991bbdb14fdd87b193d9df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-01991bbdb14fdd87b193d9df.json"
+    },
+    {
+      "id": "eaton-article-cfc65df9de7f8d4822fb1efc",
+      "name": "170M3261 — Fuse-link, high speed, 80 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cfc65df9de7f8d4822fb1efc",
+      "recordPath": "equipment/eaton-article-cfc65df9de7f8d4822fb1efc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cfc65df9de7f8d4822fb1efc.json"
+    },
+    {
+      "id": "eaton-article-1dfbac9c625e7574e34673be",
+      "name": "FUSE 350A 1250V 1*KN/110 AR CU — Fuse-link, high speed, 350 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1dfbac9c625e7574e34673be",
+      "recordPath": "equipment/eaton-article-1dfbac9c625e7574e34673be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1dfbac9c625e7574e34673be.json"
+    },
+    {
+      "id": "eaton-article-bc4d8131b15929e28c148a73",
+      "name": "FUSE 63A 1250V 1*/110 AR CU — Fuse-link, high speed, 63 A, AC 1250 V, compact size 1, 45 x 45 x 140 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bc4d8131b15929e28c148a73",
+      "recordPath": "equipment/eaton-article-bc4d8131b15929e28c148a73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bc4d8131b15929e28c148a73.json"
+    },
+    {
+      "id": "eaton-article-03bd5dd1c6b084f378a73727",
+      "name": "FUSE 50A 1250V 1*TN/110 AR CU — Fuse-link, high speed, 50 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-03bd5dd1c6b084f378a73727",
+      "recordPath": "equipment/eaton-article-03bd5dd1c6b084f378a73727.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-03bd5dd1c6b084f378a73727.json"
+    },
+    {
+      "id": "eaton-article-40c2b4538e29c38d5b3b55e4",
+      "name": "170M3198 — Fuse-link, high speed, 400 A, AC 1250 V, compact size 1, 45 x 58 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-40c2b4538e29c38d5b3b55e4",
+      "recordPath": "equipment/eaton-article-40c2b4538e29c38d5b3b55e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-40c2b4538e29c38d5b3b55e4.json"
+    },
+    {
+      "id": "eaton-article-7008abe6549d5613650a2fd7",
+      "name": "FUSE 200A 690V 1*TN/110 AR UC — Fuse-link, high speed, 200 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7008abe6549d5613650a2fd7",
+      "recordPath": "equipment/eaton-article-7008abe6549d5613650a2fd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7008abe6549d5613650a2fd7.json"
+    },
+    {
+      "id": "eaton-article-3da2a393fd38ceebdc18e2dd",
+      "name": "FUSE 160A 690V 1*KN/110 AR UC — Fuse-link, high speed, 160 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3da2a393fd38ceebdc18e2dd",
+      "recordPath": "equipment/eaton-article-3da2a393fd38ceebdc18e2dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3da2a393fd38ceebdc18e2dd.json"
+    },
+    {
+      "id": "eaton-article-e1a8b0a5fa4210b2c892ab09",
+      "name": "FUSE 50A 690V 1*TN/110 AR UC — Fuse-link, high speed, 50 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e1a8b0a5fa4210b2c892ab09",
+      "recordPath": "equipment/eaton-article-e1a8b0a5fa4210b2c892ab09.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e1a8b0a5fa4210b2c892ab09.json"
+    },
+    {
+      "id": "eaton-article-8fcb1012ff24a7c1413ed899",
+      "name": "FUSE 315A 690V 1*KN/80 AR UC — Fuse-link, high speed, 315 A, AC 690 V, compact DIN 1, 45 x 59 x 104 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8fcb1012ff24a7c1413ed899",
+      "recordPath": "equipment/eaton-article-8fcb1012ff24a7c1413ed899.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8fcb1012ff24a7c1413ed899.json"
+    },
+    {
+      "id": "eaton-article-afebad18bac989bfbdb76c11",
+      "name": "FUSE 80A 1250V 1*/110 AR CU — Fuse-link, high speed, 80 A, AC 1250 V, compact size 1, 45 x 45 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-afebad18bac989bfbdb76c11",
+      "recordPath": "equipment/eaton-article-afebad18bac989bfbdb76c11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-afebad18bac989bfbdb76c11.json"
+    },
+    {
+      "id": "eaton-article-0e23c5145ae17695b4c208b1",
+      "name": "170M3158 — Fuse-link, high speed, 40 A, AC 690 V, compact size 1, 45 x 45 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0e23c5145ae17695b4c208b1",
+      "recordPath": "equipment/eaton-article-0e23c5145ae17695b4c208b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0e23c5145ae17695b4c208b1.json"
+    },
+    {
+      "id": "eaton-article-51d77a85c85d81f4b85c6dec",
+      "name": "FUSE 50A 690V 1*/110 AR UC — Fuse-link, high speed, 50 A, AC 690 V, compact size 1, 45 x 45 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-51d77a85c85d81f4b85c6dec",
+      "recordPath": "equipment/eaton-article-51d77a85c85d81f4b85c6dec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-51d77a85c85d81f4b85c6dec.json"
+    },
+    {
+      "id": "eaton-article-c17ced63a9b0721f16a1257a",
+      "name": "170M3172 — Fuse-link, high speed, 550 A, AC 690 V, compact size 1, 45 x 45 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c17ced63a9b0721f16a1257a",
+      "recordPath": "equipment/eaton-article-c17ced63a9b0721f16a1257a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c17ced63a9b0721f16a1257a.json"
+    },
+    {
+      "id": "eaton-article-09d89b872dafa2e1f968143b",
+      "name": "170M3259 — Fuse-link, high speed, 50 A, AC 690 V, compact DIN 1, 45 x 58 x 134 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-09d89b872dafa2e1f968143b",
+      "recordPath": "equipment/eaton-article-09d89b872dafa2e1f968143b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-09d89b872dafa2e1f968143b.json"
+    },
+    {
+      "id": "eaton-article-6e5aaea70af7d9ec6d69b69d",
+      "name": "170M3358 — Fuse-link, high speed, 40 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6e5aaea70af7d9ec6d69b69d",
+      "recordPath": "equipment/eaton-article-6e5aaea70af7d9ec6d69b69d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6e5aaea70af7d9ec6d69b69d.json"
+    },
+    {
+      "id": "eaton-article-e12a7348a8d372ae99722adb",
+      "name": "170M3359 — Fuse-link, high speed, 50 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e12a7348a8d372ae99722adb",
+      "recordPath": "equipment/eaton-article-e12a7348a8d372ae99722adb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e12a7348a8d372ae99722adb.json"
+    },
+    {
+      "id": "eaton-article-0ea769774d7eae982cb1f90f",
+      "name": "170M3311 — High speed square body fuse, 80 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0ea769774d7eae982cb1f90f",
+      "recordPath": "equipment/eaton-article-0ea769774d7eae982cb1f90f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0ea769774d7eae982cb1f90f.json"
+    },
+    {
+      "id": "eaton-article-3c9fc0b590051b8f96fc8db5",
+      "name": "170M3440 — Fuse-link, high speed, 80 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3c9fc0b590051b8f96fc8db5",
+      "recordPath": "equipment/eaton-article-3c9fc0b590051b8f96fc8db5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3c9fc0b590051b8f96fc8db5.json"
+    },
+    {
+      "id": "eaton-article-c85c004282dbe330e534a3b4",
+      "name": "170M3439 — Fuse-link, high speed, 63 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c85c004282dbe330e534a3b4",
+      "recordPath": "equipment/eaton-article-c85c004282dbe330e534a3b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c85c004282dbe330e534a3b4.json"
+    },
+    {
+      "id": "eaton-article-e8d7ee363f47e42b044d7d2f",
+      "name": "FUSE 125A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 125 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e8d7ee363f47e42b044d7d2f",
+      "recordPath": "equipment/eaton-article-e8d7ee363f47e42b044d7d2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e8d7ee363f47e42b044d7d2f.json"
+    },
+    {
+      "id": "eaton-article-fc08e11e147a3e9e1bd5f471",
+      "name": "170M3412 — Fuse-link, high speed, 100 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fc08e11e147a3e9e1bd5f471",
+      "recordPath": "equipment/eaton-article-fc08e11e147a3e9e1bd5f471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fc08e11e147a3e9e1bd5f471.json"
+    },
+    {
+      "id": "eaton-article-d10d025c86685f9b9ec8a71b",
+      "name": "170M3517 — Fuse-link, high speed, 315 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d10d025c86685f9b9ec8a71b",
+      "recordPath": "equipment/eaton-article-d10d025c86685f9b9ec8a71b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d10d025c86685f9b9ec8a71b.json"
+    },
+    {
+      "id": "eaton-article-d745fded0dd9f951d0f78db5",
+      "name": "170M3414 — Fuse-link, high speed, 160 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d745fded0dd9f951d0f78db5",
+      "recordPath": "equipment/eaton-article-d745fded0dd9f951d0f78db5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d745fded0dd9f951d0f78db5.json"
+    },
+    {
+      "id": "eaton-article-0e78111c863a3522b0c92e97",
+      "name": "FUSE 40A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 40 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0e78111c863a3522b0c92e97",
+      "recordPath": "equipment/eaton-article-0e78111c863a3522b0c92e97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0e78111c863a3522b0c92e97.json"
+    },
+    {
+      "id": "eaton-article-bb75f49b11466b9919f93fce",
+      "name": "170M3522 — Fuse-link, high speed, 550 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bb75f49b11466b9919f93fce",
+      "recordPath": "equipment/eaton-article-bb75f49b11466b9919f93fce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bb75f49b11466b9919f93fce.json"
+    },
+    {
+      "id": "eaton-article-78dcd497b54f77c7792583e2",
+      "name": "170M3565 — Fuse-link, high speed, 200 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-78dcd497b54f77c7792583e2",
+      "recordPath": "equipment/eaton-article-78dcd497b54f77c7792583e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-78dcd497b54f77c7792583e2.json"
+    },
+    {
+      "id": "eaton-article-d8651002cad64dff5dec6c71",
+      "name": "170M3442 — Fuse-link, high speed, 125 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d8651002cad64dff5dec6c71",
+      "recordPath": "equipment/eaton-article-d8651002cad64dff5dec6c71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d8651002cad64dff5dec6c71.json"
+    },
+    {
+      "id": "eaton-article-dae6d80a7c027740bc9fc282",
+      "name": "FUSE 100A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 100 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dae6d80a7c027740bc9fc282",
+      "recordPath": "equipment/eaton-article-dae6d80a7c027740bc9fc282.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dae6d80a7c027740bc9fc282.json"
+    },
+    {
+      "id": "eaton-article-697564a09b6c2af5649df270",
+      "name": "170M3516 — Fuse-link, high speed, 250 A, AC 690 V, compact size 1, 45 x 45 x 140 mm, aR, UL, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-697564a09b6c2af5649df270",
+      "recordPath": "equipment/eaton-article-697564a09b6c2af5649df270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-697564a09b6c2af5649df270.json"
+    },
+    {
+      "id": "eaton-article-ef45d491ddc3a898efe580e1",
+      "name": "170M3468 — Fuse-link, high speed, 350 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ef45d491ddc3a898efe580e1",
+      "recordPath": "equipment/eaton-article-ef45d491ddc3a898efe580e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ef45d491ddc3a898efe580e1.json"
+    },
+    {
+      "id": "eaton-article-193ad3917956efae4196f9f9",
+      "name": "FUSE 80A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 80 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193ad3917956efae4196f9f9",
+      "recordPath": "equipment/eaton-article-193ad3917956efae4196f9f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193ad3917956efae4196f9f9.json"
+    },
+    {
+      "id": "eaton-article-d893bc6be07a193d47cdfa59",
+      "name": "170M3519 — Fuse-link, high speed, 400 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d893bc6be07a193d47cdfa59",
+      "recordPath": "equipment/eaton-article-d893bc6be07a193d47cdfa59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d893bc6be07a193d47cdfa59.json"
+    },
+    {
+      "id": "eaton-article-94beaeab4698a96e490cbe3b",
+      "name": "170M3361 — Fuse-link, high speed, 80 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-94beaeab4698a96e490cbe3b",
+      "recordPath": "equipment/eaton-article-94beaeab4698a96e490cbe3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-94beaeab4698a96e490cbe3b.json"
+    },
+    {
+      "id": "eaton-article-e80a3e6ec3a14e70a51859e9",
+      "name": "FUSE 100A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 100 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e80a3e6ec3a14e70a51859e9",
+      "recordPath": "equipment/eaton-article-e80a3e6ec3a14e70a51859e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e80a3e6ec3a14e70a51859e9.json"
+    },
+    {
+      "id": "eaton-article-19615784f3549034a2251662",
+      "name": "FUSE 50A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 50 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-19615784f3549034a2251662",
+      "recordPath": "equipment/eaton-article-19615784f3549034a2251662.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-19615784f3549034a2251662.json"
+    },
+    {
+      "id": "eaton-article-41f4f7073c27d5b6f0aa5107",
+      "name": "170M3472 — Fuse-link, high speed, 550 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-41f4f7073c27d5b6f0aa5107",
+      "recordPath": "equipment/eaton-article-41f4f7073c27d5b6f0aa5107.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-41f4f7073c27d5b6f0aa5107.json"
+    },
+    {
+      "id": "eaton-article-f4c54173f807fba7125d8e81",
+      "name": "FUSE 80A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 80 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f4c54173f807fba7125d8e81",
+      "recordPath": "equipment/eaton-article-f4c54173f807fba7125d8e81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f4c54173f807fba7125d8e81.json"
+    },
+    {
+      "id": "eaton-article-c4f739b24209853e9f8665c0",
+      "name": "170M3411 — Fuse-link, high speed, 80 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c4f739b24209853e9f8665c0",
+      "recordPath": "equipment/eaton-article-c4f739b24209853e9f8665c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c4f739b24209853e9f8665c0.json"
+    },
+    {
+      "id": "eaton-article-11f390f49b8b397bc0cc6edd",
+      "name": "170M3367 — Fuse-link, high speed, 315 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-11f390f49b8b397bc0cc6edd",
+      "recordPath": "equipment/eaton-article-11f390f49b8b397bc0cc6edd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-11f390f49b8b397bc0cc6edd.json"
+    },
+    {
+      "id": "eaton-article-40325c489b3ec65aa6e62a47",
+      "name": "FUSE 160A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 160 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-40325c489b3ec65aa6e62a47",
+      "recordPath": "equipment/eaton-article-40325c489b3ec65aa6e62a47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-40325c489b3ec65aa6e62a47.json"
+    },
+    {
+      "id": "eaton-article-f2bc38e7801a6c785985c5b4",
+      "name": "FUSE 315A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 315 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f2bc38e7801a6c785985c5b4",
+      "recordPath": "equipment/eaton-article-f2bc38e7801a6c785985c5b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f2bc38e7801a6c785985c5b4.json"
+    },
+    {
+      "id": "eaton-article-18e4fd5aed56a393e11aafb4",
+      "name": "170M3469 — Fuse-link, high speed, 400 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-18e4fd5aed56a393e11aafb4",
+      "recordPath": "equipment/eaton-article-18e4fd5aed56a393e11aafb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-18e4fd5aed56a393e11aafb4.json"
+    },
+    {
+      "id": "eaton-article-12fce90328f8eeb02dd36470",
+      "name": "FUSE 250A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 250 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-12fce90328f8eeb02dd36470",
+      "recordPath": "equipment/eaton-article-12fce90328f8eeb02dd36470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-12fce90328f8eeb02dd36470.json"
+    },
+    {
+      "id": "eaton-article-29a7293aae4883b22665d620",
+      "name": "170M3470 — Fuse-link, high speed, 450 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-29a7293aae4883b22665d620",
+      "recordPath": "equipment/eaton-article-29a7293aae4883b22665d620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-29a7293aae4883b22665d620.json"
+    },
+    {
+      "id": "eaton-article-c47c1602042bf3cb34a2f257",
+      "name": "FUSE 250A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 250 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c47c1602042bf3cb34a2f257",
+      "recordPath": "equipment/eaton-article-c47c1602042bf3cb34a2f257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c47c1602042bf3cb34a2f257.json"
+    },
+    {
+      "id": "eaton-article-77ce25a9aafd405708b611dc",
+      "name": "FUSE 550A 690V 1*BN/50 AR UC — Fuse-link, high speed, 550 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-77ce25a9aafd405708b611dc",
+      "recordPath": "equipment/eaton-article-77ce25a9aafd405708b611dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-77ce25a9aafd405708b611dc.json"
+    },
+    {
+      "id": "eaton-article-1ff41c2fe30c05ebba6973e9",
+      "name": "FUSE 100A 690V 1*EK/76 AR UC — Fuse-link, high speed, 100 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1ff41c2fe30c05ebba6973e9",
+      "recordPath": "equipment/eaton-article-1ff41c2fe30c05ebba6973e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1ff41c2fe30c05ebba6973e9.json"
+    },
+    {
+      "id": "eaton-article-a979c7ec7d529b8a9a30cbd1",
+      "name": "170M3365 — Fuse-link, high speed, 200 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a979c7ec7d529b8a9a30cbd1",
+      "recordPath": "equipment/eaton-article-a979c7ec7d529b8a9a30cbd1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a979c7ec7d529b8a9a30cbd1.json"
+    },
+    {
+      "id": "eaton-article-531b5861edb4bb79da98bd78",
+      "name": "170M3536 — Fuse-link, high speed, 160 A, AC 1000 V, compact size 1, 43 x 60 x 156 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-531b5861edb4bb79da98bd78",
+      "recordPath": "equipment/eaton-article-531b5861edb4bb79da98bd78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-531b5861edb4bb79da98bd78.json"
+    },
+    {
+      "id": "eaton-article-429d956e3e4eede2cd07fa8c",
+      "name": "FUSE 63A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 63 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-429d956e3e4eede2cd07fa8c",
+      "recordPath": "equipment/eaton-article-429d956e3e4eede2cd07fa8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-429d956e3e4eede2cd07fa8c.json"
+    },
+    {
+      "id": "eaton-article-7366fa371d5ea0437dbbdf91",
+      "name": "170M3566 — Fuse-link, high speed, 250 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7366fa371d5ea0437dbbdf91",
+      "recordPath": "equipment/eaton-article-7366fa371d5ea0437dbbdf91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7366fa371d5ea0437dbbdf91.json"
+    },
+    {
+      "id": "eaton-article-962fd268ac8f99e382f20b30",
+      "name": "170M3563 — Fuse-link, high speed, 125 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-962fd268ac8f99e382f20b30",
+      "recordPath": "equipment/eaton-article-962fd268ac8f99e382f20b30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-962fd268ac8f99e382f20b30.json"
+    },
+    {
+      "id": "eaton-article-fcf50cf34f1c7c1d82548fc4",
+      "name": "FUSE 125A 690V 1*EK/76 AR UC — Fuse-link, high speed, 125 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fcf50cf34f1c7c1d82548fc4",
+      "recordPath": "equipment/eaton-article-fcf50cf34f1c7c1d82548fc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fcf50cf34f1c7c1d82548fc4.json"
+    },
+    {
+      "id": "eaton-article-005dbc30003c039aac180b88",
+      "name": "FUSE 200A 690V 1 BKN 50 AR UC — Fuse-link, high speed, 200 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-005dbc30003c039aac180b88",
+      "recordPath": "equipment/eaton-article-005dbc30003c039aac180b88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-005dbc30003c039aac180b88.json"
+    },
+    {
+      "id": "eaton-article-0988563860f697959075da6a",
+      "name": "FUSE 160A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 160 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0988563860f697959075da6a",
+      "recordPath": "equipment/eaton-article-0988563860f697959075da6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0988563860f697959075da6a.json"
+    },
+    {
+      "id": "eaton-article-39d00da6b0f6d36a164ce1da",
+      "name": "FUSE 250A 690V 1*EK/76 AR UC — Fuse-link, high speed, 250 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-39d00da6b0f6d36a164ce1da",
+      "recordPath": "equipment/eaton-article-39d00da6b0f6d36a164ce1da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-39d00da6b0f6d36a164ce1da.json"
+    },
+    {
+      "id": "eaton-article-9cad8291ce89adb65fe6598a",
+      "name": "170M3441 — Fuse-link, high speed, 100 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9cad8291ce89adb65fe6598a",
+      "recordPath": "equipment/eaton-article-9cad8291ce89adb65fe6598a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9cad8291ce89adb65fe6598a.json"
+    },
+    {
+      "id": "eaton-article-0e70e1e485c795889a888f44",
+      "name": "170M3444 — Fuse-link, high speed, 200 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0e70e1e485c795889a888f44",
+      "recordPath": "equipment/eaton-article-0e70e1e485c795889a888f44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0e70e1e485c795889a888f44.json"
+    },
+    {
+      "id": "eaton-article-6b8282be589b555dbbe42196",
+      "name": "170M3408 — Fuse-link, high speed, 40 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6b8282be589b555dbbe42196",
+      "recordPath": "equipment/eaton-article-6b8282be589b555dbbe42196.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6b8282be589b555dbbe42196.json"
+    },
+    {
+      "id": "eaton-article-949436f8305a26b6723437d7",
+      "name": "170M3438 — Fuse-link, high speed, 50 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-949436f8305a26b6723437d7",
+      "recordPath": "equipment/eaton-article-949436f8305a26b6723437d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-949436f8305a26b6723437d7.json"
+    },
+    {
+      "id": "eaton-article-2c7f9b5329f092565444f6eb",
+      "name": "FUSE 50A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 50 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2c7f9b5329f092565444f6eb",
+      "recordPath": "equipment/eaton-article-2c7f9b5329f092565444f6eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2c7f9b5329f092565444f6eb.json"
+    },
+    {
+      "id": "eaton-article-94bc294eb4578511ddfc41b1",
+      "name": "170M3364 — Fuse-link, high speed, 160 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-94bc294eb4578511ddfc41b1",
+      "recordPath": "equipment/eaton-article-94bc294eb4578511ddfc41b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-94bc294eb4578511ddfc41b1.json"
+    },
+    {
+      "id": "eaton-article-df52e73b97c46a84f67e4c04",
+      "name": "170M3561 — Fuse-link, high speed, 80 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, type K indicator, US thread",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-df52e73b97c46a84f67e4c04",
+      "recordPath": "equipment/eaton-article-df52e73b97c46a84f67e4c04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-df52e73b97c46a84f67e4c04.json"
+    },
+    {
+      "id": "eaton-article-f598f3332d4d5282a150e3ae",
+      "name": "FUSE 125A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 125 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f598f3332d4d5282a150e3ae",
+      "recordPath": "equipment/eaton-article-f598f3332d4d5282a150e3ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f598f3332d4d5282a150e3ae.json"
+    },
+    {
+      "id": "eaton-article-4463b3226c2868d161439935",
+      "name": "170M3559 — Fuse-link, high speed, 50 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4463b3226c2868d161439935",
+      "recordPath": "equipment/eaton-article-4463b3226c2868d161439935.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4463b3226c2868d161439935.json"
+    },
+    {
+      "id": "eaton-article-25eadc3ca35af6903c84e62f",
+      "name": "170M3467 — Fuse-link, high speed, 315 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-25eadc3ca35af6903c84e62f",
+      "recordPath": "equipment/eaton-article-25eadc3ca35af6903c84e62f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-25eadc3ca35af6903c84e62f.json"
+    },
+    {
+      "id": "eaton-article-ef650e9697949be0b97d2514",
+      "name": "FUSE 63A 690V 1*BKN/50 AR UC — Fuse-link, high speed, 63 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ef650e9697949be0b97d2514",
+      "recordPath": "equipment/eaton-article-ef650e9697949be0b97d2514.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ef650e9697949be0b97d2514.json"
+    },
+    {
+      "id": "eaton-article-f1a7abd7c8aea81457655b4b",
+      "name": "170M3560 — Fuse-link, high speed, 63 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f1a7abd7c8aea81457655b4b",
+      "recordPath": "equipment/eaton-article-f1a7abd7c8aea81457655b4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f1a7abd7c8aea81457655b4b.json"
+    },
+    {
+      "id": "eaton-article-9d8a2fe809f1767cc52a210a",
+      "name": "170M3447 — Fuse-link, high speed, 350 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9d8a2fe809f1767cc52a210a",
+      "recordPath": "equipment/eaton-article-9d8a2fe809f1767cc52a210a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9d8a2fe809f1767cc52a210a.json"
+    },
+    {
+      "id": "eaton-article-b392a2306ddf68725decc3d2",
+      "name": "170M3415 — Fuse-link, high speed, 200 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b392a2306ddf68725decc3d2",
+      "recordPath": "equipment/eaton-article-b392a2306ddf68725decc3d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b392a2306ddf68725decc3d2.json"
+    },
+    {
+      "id": "eaton-article-8e375062bf6b4b4ddd114fbb",
+      "name": "FUSE 160A 1250V 1*BKN/80 AR CU — Fuse-link, high speed, 160 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8e375062bf6b4b4ddd114fbb",
+      "recordPath": "equipment/eaton-article-8e375062bf6b4b4ddd114fbb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8e375062bf6b4b4ddd114fbb.json"
+    },
+    {
+      "id": "eaton-article-cff6c64a38f58f2d39211547",
+      "name": "170M3445 — Fuse-link, high speed, 250 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cff6c64a38f58f2d39211547",
+      "recordPath": "equipment/eaton-article-cff6c64a38f58f2d39211547.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cff6c64a38f58f2d39211547.json"
+    },
+    {
+      "id": "eaton-article-fb4ad38b09b21c58637a198a",
+      "name": "170M3473 — Fuse-link, high speed, 630 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fb4ad38b09b21c58637a198a",
+      "recordPath": "equipment/eaton-article-fb4ad38b09b21c58637a198a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fb4ad38b09b21c58637a198a.json"
+    },
+    {
+      "id": "eaton-article-cbcab39b593bb068406e8e51",
+      "name": "170M3397 — Fuse-link, high speed, 350 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cbcab39b593bb068406e8e51",
+      "recordPath": "equipment/eaton-article-cbcab39b593bb068406e8e51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cbcab39b593bb068406e8e51.json"
+    },
+    {
+      "id": "eaton-article-7685fc7769ec86ddbdc96282",
+      "name": "170M3471 — Fuse-link, high speed, 500 A, AC 690 V, compact size 1, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7685fc7769ec86ddbdc96282",
+      "recordPath": "equipment/eaton-article-7685fc7769ec86ddbdc96282.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7685fc7769ec86ddbdc96282.json"
+    },
+    {
+      "id": "eaton-article-af4daf6dbb348e2a84a746b0",
+      "name": "170M3413 — Fuse-link, high speed, 125 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-af4daf6dbb348e2a84a746b0",
+      "recordPath": "equipment/eaton-article-af4daf6dbb348e2a84a746b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-af4daf6dbb348e2a84a746b0.json"
+    },
+    {
+      "id": "eaton-article-ef77f5427642a7e488b72e2e",
+      "name": "FUSE 200A 1250V 1*BKN/75 AR CU — Fuse-link, high speed, 200 A, AC 1250 V, compact size 1, 45 x 59 x 75 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ef77f5427642a7e488b72e2e",
+      "recordPath": "equipment/eaton-article-ef77f5427642a7e488b72e2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ef77f5427642a7e488b72e2e.json"
+    },
+    {
+      "id": "eaton-article-145552826e04f95e0e78563a",
+      "name": "170M3370 — Fuse-link, high speed, 450 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-145552826e04f95e0e78563a",
+      "recordPath": "equipment/eaton-article-145552826e04f95e0e78563a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-145552826e04f95e0e78563a.json"
+    },
+    {
+      "id": "eaton-article-01ac6d590e4902d187c06d83",
+      "name": "170M3410 — Fuse-link, high speed, 63 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-01ac6d590e4902d187c06d83",
+      "recordPath": "equipment/eaton-article-01ac6d590e4902d187c06d83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-01ac6d590e4902d187c06d83.json"
+    },
+    {
+      "id": "eaton-article-2fd7826303b0a786e6c2cd2d",
+      "name": "170M3535 — Fuse-link, high speed, 125 A, AC 1000 V, compact size 1, 43 x 60 x 156 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2fd7826303b0a786e6c2cd2d",
+      "recordPath": "equipment/eaton-article-2fd7826303b0a786e6c2cd2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2fd7826303b0a786e6c2cd2d.json"
+    },
+    {
+      "id": "eaton-article-851a8a746b5443a770b9afe7",
+      "name": "FUSE 80A 1000V 1*FKE/115 AR — Fuse-link, high speed, 80 A, AC 1000 V, compact size 1, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-851a8a746b5443a770b9afe7",
+      "recordPath": "equipment/eaton-article-851a8a746b5443a770b9afe7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-851a8a746b5443a770b9afe7.json"
+    },
+    {
+      "id": "eaton-article-95681ca6701867fadbb088c0",
+      "name": "170M3448 — Fuse-link, high speed, 400 A, AC 1250 V, compact size 1, 45 x 59 x 81 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-95681ca6701867fadbb088c0",
+      "recordPath": "equipment/eaton-article-95681ca6701867fadbb088c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-95681ca6701867fadbb088c0.json"
+    },
+    {
+      "id": "eaton-article-19bf48eb3f9d8f6104f95884",
+      "name": "170M3512 — Fuse-link, high speed, 100 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, visual indicator, flush end, 18 UNC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-19bf48eb3f9d8f6104f95884",
+      "recordPath": "equipment/eaton-article-19bf48eb3f9d8f6104f95884.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-19bf48eb3f9d8f6104f95884.json"
+    },
+    {
+      "id": "eaton-article-4ee31796dba01d79075cb401",
+      "name": "170M3537 — Fuse-link, high speed, 200 A, AC 1000 V, compact size 1, 43 x 60 x 156 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4ee31796dba01d79075cb401",
+      "recordPath": "equipment/eaton-article-4ee31796dba01d79075cb401.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4ee31796dba01d79075cb401.json"
+    },
+    {
+      "id": "eaton-article-6ce8ad308234e9dbbaa9e079",
+      "name": "170M3539 — Fuse-link, high speed, 315 A, AC 1000 V, compact size 1, 43 x 60 x 156 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6ce8ad308234e9dbbaa9e079",
+      "recordPath": "equipment/eaton-article-6ce8ad308234e9dbbaa9e079.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6ce8ad308234e9dbbaa9e079.json"
+    },
+    {
+      "id": "eaton-article-214cbd00bcff3bd85fd102d8",
+      "name": "170M3513 — High speed square body fuse, 125 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-214cbd00bcff3bd85fd102d8",
+      "recordPath": "equipment/eaton-article-214cbd00bcff3bd85fd102d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-214cbd00bcff3bd85fd102d8.json"
+    },
+    {
+      "id": "eaton-article-86e9bb9fd399cc034fed3840",
+      "name": "170M3518 — High speed square body fuse, 350 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-86e9bb9fd399cc034fed3840",
+      "recordPath": "equipment/eaton-article-86e9bb9fd399cc034fed3840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-86e9bb9fd399cc034fed3840.json"
+    },
+    {
+      "id": "eaton-article-b382c547eced9e6842778ec1",
+      "name": "170M3509 — High speed square body fuse, 50 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b382c547eced9e6842778ec1",
+      "recordPath": "equipment/eaton-article-b382c547eced9e6842778ec1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b382c547eced9e6842778ec1.json"
+    },
+    {
+      "id": "eaton-article-a7180323c86953321a0dae42",
+      "name": "170M3541 — High speed square body fuse, 400 A, AC 1000 V, compact size 1, 43 x 60 x 156 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a7180323c86953321a0dae42",
+      "recordPath": "equipment/eaton-article-a7180323c86953321a0dae42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a7180323c86953321a0dae42.json"
+    },
+    {
+      "id": "eaton-article-163851b7a3d217c0c8affca4",
+      "name": "FUSE 350A 690V 1*EK/76 AR UC — High speed square body fuse, 350 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, type K indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-163851b7a3d217c0c8affca4",
+      "recordPath": "equipment/eaton-article-163851b7a3d217c0c8affca4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-163851b7a3d217c0c8affca4.json"
+    },
+    {
+      "id": "eaton-article-7833577a1f1d4250d636a6e7",
+      "name": "170M3371 — High speed square body fuse, 500 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7833577a1f1d4250d636a6e7",
+      "recordPath": "equipment/eaton-article-7833577a1f1d4250d636a6e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7833577a1f1d4250d636a6e7.json"
+    },
+    {
+      "id": "eaton-article-491a32f610cd27ea8c9fb9f5",
+      "name": "170M3510 — High speed square body fuse, 63 A, AC 690 V, compact size 1, 45 x 59 x 51 mm, aR, IEC, UL, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-491a32f610cd27ea8c9fb9f5",
+      "recordPath": "equipment/eaton-article-491a32f610cd27ea8c9fb9f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-491a32f610cd27ea8c9fb9f5.json"
+    },
+    {
+      "id": "eaton-article-bc6b01eb637823abf471ae3e",
+      "name": "170M3369 — High speed square body fuse, 400 A, AC 690 V, compact size 1, 45 x 59 x 102 mm, aR, IEC, UL, type K indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bc6b01eb637823abf471ae3e",
+      "recordPath": "equipment/eaton-article-bc6b01eb637823abf471ae3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bc6b01eb637823abf471ae3e.json"
+    },
+    {
+      "id": "eaton-article-166251",
+      "name": "BZME1-1-A20 — Circuit-breaker, 1p, 20A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166251",
+      "recordPath": "equipment/eaton-article-166251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166251.json"
+    },
+    {
+      "id": "eaton-article-158272",
+      "name": "BZMN3-A250 — Circuit-breaker, 3 p, 250A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158272",
+      "recordPath": "equipment/eaton-article-158272.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158272.json"
+    },
+    {
+      "id": "eaton-article-158106",
+      "name": "BZMB3-A350 — Circuit-breaker, 3 p, 350A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158106",
+      "recordPath": "equipment/eaton-article-158106.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158106.json"
+    },
+    {
+      "id": "eaton-article-166255",
+      "name": "BZME1-1-A50 — Circuit-breaker, 1p, 50A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166255",
+      "recordPath": "equipment/eaton-article-166255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166255.json"
+    },
+    {
+      "id": "eaton-article-158109",
+      "name": "BZMC3-A320 — Circuit-breaker, 3 p, 320A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158109",
+      "recordPath": "equipment/eaton-article-158109.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158109.json"
+    },
+    {
+      "id": "eaton-article-158270",
+      "name": "BZMC3-A350 — Circuit-breaker, 3 p, 350A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158270",
+      "recordPath": "equipment/eaton-article-158270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158270.json"
+    },
+    {
+      "id": "eaton-article-158104",
+      "name": "BZMB3-A250 — Circuit-breaker, 3 p, 250A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158104",
+      "recordPath": "equipment/eaton-article-158104.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158104.json"
+    },
+    {
+      "id": "eaton-article-158273",
+      "name": "BZMN3-A320 — Circuit-breaker, 3 p, 320A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158273",
+      "recordPath": "equipment/eaton-article-158273.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158273.json"
+    },
+    {
+      "id": "eaton-article-166258",
+      "name": "BZME1-1-A100 — Circuit-breaker, 1p, 100A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166258",
+      "recordPath": "equipment/eaton-article-166258.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166258.json"
+    },
+    {
+      "id": "eaton-article-166256",
+      "name": "BZME1-1-A63 — Circuit-breaker, 1p, 63A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166256",
+      "recordPath": "equipment/eaton-article-166256.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166256.json"
+    },
+    {
+      "id": "eaton-article-158105",
+      "name": "BZMB3-A320 — Circuit-breaker, 3 p, 320A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158105",
+      "recordPath": "equipment/eaton-article-158105.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158105.json"
+    },
+    {
+      "id": "eaton-article-158108",
+      "name": "BZMC3-A250 — Circuit-breaker, 3 p, 250A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158108",
+      "recordPath": "equipment/eaton-article-158108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158108.json"
+    },
+    {
+      "id": "eaton-article-158107",
+      "name": "BZMB3-A400 — Circuit-breaker, 3 p, 400A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158107",
+      "recordPath": "equipment/eaton-article-158107.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158107.json"
+    },
+    {
+      "id": "eaton-article-166253",
+      "name": "BZME1-1-A32 — Circuit-breaker, 1p, 32A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166253",
+      "recordPath": "equipment/eaton-article-166253.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166253.json"
+    },
+    {
+      "id": "eaton-article-158274",
+      "name": "BZMN3-A350 — Circuit-breaker, 3 p, 350A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158274",
+      "recordPath": "equipment/eaton-article-158274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158274.json"
+    },
+    {
+      "id": "eaton-article-166252",
+      "name": "BZME1-1-A25 — Circuit-breaker, 1p, 25A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166252",
+      "recordPath": "equipment/eaton-article-166252.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166252.json"
+    },
+    {
+      "id": "eaton-article-158275",
+      "name": "BZMN3-A400 — Circuit-breaker, 3 p, 400A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158275",
+      "recordPath": "equipment/eaton-article-158275.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158275.json"
+    },
+    {
+      "id": "eaton-article-166257",
+      "name": "BZME1-1-A80 — Circuit-breaker, 1p, 80A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166257",
+      "recordPath": "equipment/eaton-article-166257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166257.json"
+    },
+    {
+      "id": "eaton-article-158271",
+      "name": "BZMC3-A400 — Circuit-breaker, 3 p, 400A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-158271",
+      "recordPath": "equipment/eaton-article-158271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-158271.json"
+    },
+    {
+      "id": "eaton-article-166254",
+      "name": "BZME1-1-A40 — Circuit-breaker, 1p, 40A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166254",
+      "recordPath": "equipment/eaton-article-166254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166254.json"
+    },
+    {
+      "id": "eaton-article-68d2e614531ac343a23e1130",
+      "name": "FUSE 125A 1000V 1*TN/110 AR — Fuse-link, high speed, 125 A, AC 1000 V, compact DIN 1, 43 x 61 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-68d2e614531ac343a23e1130",
+      "recordPath": "equipment/eaton-article-68d2e614531ac343a23e1130.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-68d2e614531ac343a23e1130.json"
+    },
+    {
+      "id": "eaton-article-cba21002a3b8cc601eb11fa5",
+      "name": "FUSE 63A 1000V 1*KN/110 AR — Fuse-link, high speed, 63 A, AC 1000 V, compact DIN 1, 43 x 61 x 138 mm, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cba21002a3b8cc601eb11fa5",
+      "recordPath": "equipment/eaton-article-cba21002a3b8cc601eb11fa5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cba21002a3b8cc601eb11fa5.json"
+    }
+  ]
+}

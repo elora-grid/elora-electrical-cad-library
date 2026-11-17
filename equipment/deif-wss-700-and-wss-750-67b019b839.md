@@ -26,6 +26,7 @@ Manufacturer reference dnv-taa00002df-uk.pdf; wss-750-2d-cad-drawing.dwg; wss-75
 - Manufacturer reference: dnv-taa00002df-uk.pdf; wss-750-2d-cad-drawing.dwg; wss-750-3d-step-file.stp; wss-750-2d-pdf.pdf
 - Manufacturer lifecycle: Active
 - Model envelope: wss-750-3d-step-file.stp: 248.9 × 357.4 × 217.5 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: UL 2464, IEC 60945, IEC 60529, IEC 60051, IEC 61000-2-2, IEC 61000-2-4
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

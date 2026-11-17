@@ -1,0 +1,130 @@
+# ABB — XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch
+
+ABB XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch: original STEP for terminal or connection hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear
+- Formats: STEP, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch.
+
+## Equipment and file summary
+
+- Equipment / resource: XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch
+- Named pole configuration: 4p
+- Source document: 1SDH001295R0903; revision B
+- Source-model envelope: 15 × 125.5 × 56.8 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: B
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Named pole configuration: 4p ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SDH001295R0903; revision B ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B))
+- Source-model envelope: 15 × 125.5 × 56.8 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use 1SDH001295R0903.stp (revision B) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1SDH001295R0903.stp.
+
+Use 1SDH001295R0903.stp (revision B) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1SDH001295R0903.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch and the exact source filename shown above.
+- Named pole configuration: 4p
+- The supplied model has approximate X × Y × Z bounds of 15 × 125.5 × 56.8 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SDH001295R0903.stp — B. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch?
+
+1 inspected original for ABB XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch: 1SDH001295R0903.stp (STEP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SDH001295R0903.stp (revision B) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1SDH001295R0903.stp.
+
+## Preview
+
+![ABB XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5/abb-36cc3b661f5dd83149c5?asset=8e00c1230f8e0e4774058255a9a325fd896743b95940d8f61e66891bf674d806&view=thumb&v=27dd370ecfecc0aa)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SDH001295R0903.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5/abb-36cc3b661f5dd83149c5)
+- Redistribution: unknown
+- Original SHA-256: 8e00c1230f8e0e4774058255a9a325fd896743b95940d8f61e66891bf674d806
+- Original bytes: 162727
+- Revision: B
+- Retrieved: 2026-11-11T05:42:46.480875+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: source-bundle; ZIP; 30341 bytes
+- Delivery SHA-256: 304b158e3c73ea16a2da2ce5e3c1ab3ab891f914b8272e84b5ca3b9f4c64bb70
+
+### 1SDH001295R0903.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0903.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5/abb-36cc3b661f5dd83149c5-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8e00c1230f8e0e4774058255a9a325fd896743b95940d8f61e66891bf674d806
+- Original bytes: 162727
+- Revision: B
+- Retrieved: 2026-11-11T05:42:46.480875+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0903&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 98428 bytes
+- Delivery SHA-256: 125319b303eb5438d7910eabc4522e635cee8c060f6279c91195f849f0cd7aa6
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

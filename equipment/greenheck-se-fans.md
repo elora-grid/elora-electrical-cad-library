@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: SE
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: SE
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with SE. The files above belong to Greenheck's SE fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -113,6 +113,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 365350 bytes
 - Delivery SHA-256: 223295799c8f8fc40613b937ed4fb453db204660fd7cc21b5e78a0e781554314
 
+### SE-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SE-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10010/SE-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-se-fans/greenheck-se-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 223295799c8f8fc40613b937ed4fb453db204660fd7cc21b5e78a0e781554314
+- Original bytes: 365350
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 1005883 bytes
+- Delivery SHA-256: 646ca0344bc396e00281a7a5762b5af9fa9d3be456e4339e4d044bc1dbc2a252
+
 ### SE-1-10.dwg
 
 - Format: DWG
@@ -132,5 +152,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 408430 bytes
 - Delivery SHA-256: f52117632eea725127161edafd7aeb425406f80cc920af74275400ce34f9b58a
+
+### SE-1-10.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SE-1-10.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SE-1-10.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-se-fans/greenheck-se-1-10-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: f52117632eea725127161edafd7aeb425406f80cc920af74275400ce34f9b58a
+- Original bytes: 408430
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 273196 bytes
+- Delivery SHA-256: 49933c367c15e42de8c4cb8bfe1c12252aed86d53f0627f50e52a1ac93c8046d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

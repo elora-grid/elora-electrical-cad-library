@@ -23,6 +23,7 @@ Manufacturer reference SEL-2440 DPAC Discrete Programmable Automation Controller
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-2440 DPAC Discrete Programmable Automation Controller
+- Standards: IEEE C37.90
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

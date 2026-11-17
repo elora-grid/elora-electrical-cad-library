@@ -1,0 +1,2913 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 5,
+  "entries": [
+    {
+      "id": "mfr-allen-bradley-1492-p16-w-3dd9524fe2",
+      "name": "1492-P16 W",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p16-w-3dd9524fe2",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p16-w-3dd9524fe2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p16-w-3dd9524fe2.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p16-y-a642d1ffb6",
+      "name": "1492-P16 Y",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p16-y-a642d1ffb6",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p16-y-a642d1ffb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p16-y-a642d1ffb6.json"
+    },
+    {
+      "id": "mfr-abb-flatcable-with-connector-set-cms-800-85f423e758",
+      "name": "Flatcable with connector set CMS-800",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-flatcable-with-connector-set-cms-800-85f423e758",
+      "recordPath": "equipment/mfr-abb-flatcable-with-connector-set-cms-800-85f423e758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-flatcable-with-connector-set-cms-800-85f423e758.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p16d-c988cc55f8",
+      "name": "1492-P16D",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p16d-c988cc55f8",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p16d-c988cc55f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p16d-c988cc55f8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bistable-biometric-switch-rgpd-connection-by-m12-connector-36404ee5c3",
+      "name": "Bistable Biometric switch RGPD - connection by M12 connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bistable-biometric-switch-rgpd-connection-by-m12-connector-36404ee5c3",
+      "recordPath": "equipment/mfr-schneider-electric-bistable-biometric-switch-rgpd-connection-by-m12-connector-36404ee5c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bistable-biometric-switch-rgpd-connection-by-m12-connector-36404ee5c3.json"
+    },
+    {
+      "id": "mfr-abb-iec-esa6-connector-df36aaa4d5",
+      "name": "IEC ESA6 Connector",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-iec-esa6-connector-df36aaa4d5",
+      "recordPath": "equipment/mfr-abb-iec-esa6-connector-df36aaa4d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-iec-esa6-connector-df36aaa4d5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p16d-b-639b61d8ce",
+      "name": "1492-P16D B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p16d-b-639b61d8ce",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p16d-b-639b61d8ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p16d-b-639b61d8ce.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bistable-usb-biometric-switch-rgpd-connection-by-m12-connector-05d400c901",
+      "name": "Bistable USB Biometric switch RGPD - connection by M12 connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bistable-usb-biometric-switch-rgpd-connection-by-m12-connector-05d400c901",
+      "recordPath": "equipment/mfr-schneider-electric-bistable-usb-biometric-switch-rgpd-connection-by-m12-connector-05d400c901.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bistable-usb-biometric-switch-rgpd-connection-by-m12-connector-05d400c901.json"
+    },
+    {
+      "id": "mfr-abb-iec-esc6-connector-87a0351001",
+      "name": "IEC ESC6 Connector",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-iec-esc6-connector-87a0351001",
+      "recordPath": "equipment/mfr-abb-iec-esc6-connector-87a0351001.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-iec-esc6-connector-87a0351001.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p16t-ebf87a7084",
+      "name": "1492-P16T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p16t-ebf87a7084",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p16t-ebf87a7084.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p16t-ebf87a7084.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bottom-terminal-shroud-100-200-a-d0504fcbb7",
+      "name": "Bottom Terminal Shroud 100 - 200 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bottom-terminal-shroud-100-200-a-d0504fcbb7",
+      "recordPath": "equipment/mfr-schneider-electric-bottom-terminal-shroud-100-200-a-d0504fcbb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bottom-terminal-shroud-100-200-a-d0504fcbb7.json"
+    },
+    {
+      "id": "mfr-abb-iec-est6-connector-3049c618a3",
+      "name": "IEC EST6 Connector",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-iec-est6-connector-3049c618a3",
+      "recordPath": "equipment/mfr-abb-iec-est6-connector-3049c618a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-iec-est6-connector-3049c618a3.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p16t-b-c44c36b36b",
+      "name": "1492-P16T B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p16t-b-c44c36b36b",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p16t-b-c44c36b36b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p16t-b-c44c36b36b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bottom-terminal-shroud-400a-73005693b7",
+      "name": "Bottom Terminal Shroud 400A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bottom-terminal-shroud-400a-73005693b7",
+      "recordPath": "equipment/mfr-schneider-electric-bottom-terminal-shroud-400a-73005693b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bottom-terminal-shroud-400a-73005693b7.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p2-950f018acf",
+      "name": "1492-P2",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p2-950f018acf",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p2-950f018acf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p2-950f018acf.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p2q-44d2b0899c",
+      "name": "1492-P2Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p2q-44d2b0899c",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p2q-44d2b0899c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p2q-44d2b0899c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p2t-6f678370a9",
+      "name": "1492-P2T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p2t-6f678370a9",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p2t-6f678370a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p2t-6f678370a9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-coil-terminals-12a19ba9cb",
+      "name": "COIL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-coil-terminals-12a19ba9cb",
+      "recordPath": "equipment/mfr-schneider-electric-coil-terminals-12a19ba9cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-coil-terminals-12a19ba9cb.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p3-b3d33b4d56",
+      "name": "1492-P3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p3-b3d33b4d56",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p3-b3d33b4d56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p3-b3d33b4d56.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p31p-542b4f9da8",
+      "name": "1492-P31P",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p31p-542b4f9da8",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p31p-542b4f9da8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p31p-542b4f9da8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p3p-f093f93d87",
+      "name": "1492-P3P",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p3p-f093f93d87",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p3p-f093f93d87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p3p-f093f93d87.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p3pq-ed1414ea87",
+      "name": "1492-P3PQ",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p3pq-ed1414ea87",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p3pq-ed1414ea87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p3pq-ed1414ea87.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p3pt-b32671b05e",
+      "name": "1492-P3PT",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p3pt-b32671b05e",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p3pt-b32671b05e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p3pt-b32671b05e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p3q-6a11c10b4a",
+      "name": "1492-P3Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p3q-6a11c10b4a",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p3q-6a11c10b4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p3q-6a11c10b4a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p3t-dea22022c4",
+      "name": "1492-P3T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p3t-dea22022c4",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p3t-dea22022c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p3t-dea22022c4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p4-c937fbcebd",
+      "name": "1492-P4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p4-c937fbcebd",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p4-c937fbcebd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p4-c937fbcebd.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p4q-5e41c61ec1",
+      "name": "1492-P4Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p4q-5e41c61ec1",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p4q-5e41c61ec1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p4q-5e41c61ec1.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p4t-3910b9ce53",
+      "name": "1492-P4T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p4t-3910b9ce53",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p4t-3910b9ce53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p4t-3910b9ce53.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6-3054ee04f5",
+      "name": "1492-P6",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6-3054ee04f5",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6-3054ee04f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6-3054ee04f5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6d-c5a21478a7",
+      "name": "1492-P6D",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6d-c5a21478a7",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6d-c5a21478a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6d-c5a21478a7.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6pd2e-3b3re-c3f4169809",
+      "name": "1492-P6PD2E 3B3RE",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6pd2e-3b3re-c3f4169809",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6pd2e-3b3re-c3f4169809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6pd2e-3b3re-c3f4169809.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6pd2e-6b-d654c9c36e",
+      "name": "1492-P6PD2E 6B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6pd2e-6b-d654c9c36e",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6pd2e-6b-d654c9c36e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6pd2e-6b-d654c9c36e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6pd2s-1b-0dee47427c",
+      "name": "1492-P6PD2S 1B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6pd2s-1b-0dee47427c",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6pd2s-1b-0dee47427c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6pd2s-1b-0dee47427c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6pd2s-1b1re-20b1d8bb8f",
+      "name": "1492-P6PD2S 1B1RE",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6pd2s-1b1re-20b1d8bb8f",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6pd2s-1b1re-20b1d8bb8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6pd2s-1b1re-20b1d8bb8f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6pd2s-1re-45804da9bd",
+      "name": "1492-P6PD2S 1RE",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6pd2s-1re-45804da9bd",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6pd2s-1re-45804da9bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6pd2s-1re-45804da9bd.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6pd2s-1re1g-749cb3390c",
+      "name": "1492-P6PD2S 1RE1G",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6pd2s-1re1g-749cb3390c",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6pd2s-1re1g-749cb3390c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6pd2s-1re1g-749cb3390c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-p6t-4144de001f",
+      "name": "1492-P6T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-p6t-4144de001f",
+      "recordPath": "equipment/mfr-allen-bradley-1492-p6t-4144de001f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-p6t-4144de001f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd3-54a16a8ec9",
+      "name": "1492-PD3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd3-54a16a8ec9",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd3-54a16a8ec9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd3-54a16a8ec9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-cable-terminal-block-3p-for-d115-170c-12ff5e7361",
+      "name": "Cable terminal block 3P for D115-170C",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-cable-terminal-block-3p-for-d115-170c-12ff5e7361",
+      "recordPath": "equipment/mfr-schneider-electric-cable-terminal-block-3p-for-d115-170c-12ff5e7361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-cable-terminal-block-3p-for-d115-170c-12ff5e7361.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd32p-38e2066aee",
+      "name": "1492-PD32P",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd32p-38e2066aee",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd32p-38e2066aee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd32p-38e2066aee.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd32pc-d509d29a21",
+      "name": "1492-PD32PC",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd32pc-d509d29a21",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd32pc-d509d29a21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd32pc-d509d29a21.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd3c-de13970fc5",
+      "name": "1492-PD3C",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd3c-de13970fc5",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd3c-de13970fc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd3c-de13970fc5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-5f951547c2",
+      "name": "1492-PD4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-5f951547c2",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-5f951547c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-5f951547c2.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-b-002ba9d274",
+      "name": "1492-PD4 B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-b-002ba9d274",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-b-002ba9d274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-b-002ba9d274.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-bl-a7a12e1215",
+      "name": "1492-PD4 BL",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-bl-a7a12e1215",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-bl-a7a12e1215.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-bl-a7a12e1215.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-g-6ebb2a8309",
+      "name": "1492-PD4 G",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-g-6ebb2a8309",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-g-6ebb2a8309.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-g-6ebb2a8309.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-or-42cdd48556",
+      "name": "1492-PD4 OR",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-or-42cdd48556",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-or-42cdd48556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-or-42cdd48556.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-re-e0bb3235c3",
+      "name": "1492-PD4 RE",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-re-e0bb3235c3",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-re-e0bb3235c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-re-e0bb3235c3.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-w-a55c3f976d",
+      "name": "1492-PD4 W",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-w-a55c3f976d",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-w-a55c3f976d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-w-a55c3f976d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4-y-ec38df1f3a",
+      "name": "1492-PD4 Y",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4-y-ec38df1f3a",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4-y-ec38df1f3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4-y-ec38df1f3a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4c-5fecc22611",
+      "name": "1492-PD4C",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4c-5fecc22611",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4c-5fecc22611.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4c-5fecc22611.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pd4c-b-dae4b7a5e7",
+      "name": "1492-PD4C B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pd4c-b-dae4b7a5e7",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pd4c-b-dae4b7a5e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pd4c-b-dae4b7a5e7.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pdg3-d66f3d9cec",
+      "name": "1492-PDG3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pdg3-d66f3d9cec",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pdg3-d66f3d9cec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pdg3-d66f3d9cec.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pdg32p-62665e687d",
+      "name": "1492-PDG32P",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pdg32p-62665e687d",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pdg32p-62665e687d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pdg32p-62665e687d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pdg32pc-8ad98b5bf3",
+      "name": "1492-PDG32PC",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pdg32pc-8ad98b5bf3",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pdg32pc-8ad98b5bf3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pdg32pc-8ad98b5bf3.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pdg3c-18e44bf8bc",
+      "name": "1492-PDG3C",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pdg3c-18e44bf8bc",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pdg3c-18e44bf8bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pdg3c-18e44bf8bc.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pdg4-e6d2037f7d",
+      "name": "1492-PDG4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pdg4-e6d2037f7d",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pdg4-e6d2037f7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pdg4-e6d2037f7d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pdg4c-c2e1918e7b",
+      "name": "1492-PDG4C",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pdg4c-c2e1918e7b",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pdg4c-c2e1918e7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pdg4c-c2e1918e7b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pfb4-2cc6d1cd2c",
+      "name": "1492-PFB4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pfb4-2cc6d1cd2c",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pfb4-2cc6d1cd2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pfb4-2cc6d1cd2c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg10-be15f83ede",
+      "name": "1492-PG10",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg10-be15f83ede",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg10-be15f83ede.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg10-be15f83ede.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg10pd3s-fbef9e9273",
+      "name": "1492-PG10PD3S",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg10pd3s-fbef9e9273",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg10pd3s-fbef9e9273.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg10pd3s-fbef9e9273.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg10pd4s-34e9f8be41",
+      "name": "1492-PG10PD4S",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg10pd4s-34e9f8be41",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg10pd4s-34e9f8be41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg10pd4s-34e9f8be41.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg10t-c696876032",
+      "name": "1492-PG10T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg10t-c696876032",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg10t-c696876032.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg10t-c696876032.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg16-31c23c73cc",
+      "name": "1492-PG16",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg16-31c23c73cc",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg16-31c23c73cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg16-31c23c73cc.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg16t-85497f476a",
+      "name": "1492-PG16T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg16t-85497f476a",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg16t-85497f476a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg16t-85497f476a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg2-1ee6eb69a9",
+      "name": "1492-PG2",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg2-1ee6eb69a9",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg2-1ee6eb69a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg2-1ee6eb69a9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg2q-3cc8635476",
+      "name": "1492-PG2Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg2q-3cc8635476",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg2q-3cc8635476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg2q-3cc8635476.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg2t-b7ebda29ea",
+      "name": "1492-PG2T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg2t-b7ebda29ea",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg2t-b7ebda29ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg2t-b7ebda29ea.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg3-eb8d8cb0cb",
+      "name": "1492-PG3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg3-eb8d8cb0cb",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg3-eb8d8cb0cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg3-eb8d8cb0cb.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg31p-3156a37d2a",
+      "name": "1492-PG31P",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg31p-3156a37d2a",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg31p-3156a37d2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg31p-3156a37d2a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg3q-b323d92af6",
+      "name": "1492-PG3Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg3q-b323d92af6",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg3q-b323d92af6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg3q-b323d92af6.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg3t-8fbe87071c",
+      "name": "1492-PG3T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg3t-8fbe87071c",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg3t-8fbe87071c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg3t-8fbe87071c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg4-6580686809",
+      "name": "1492-PG4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg4-6580686809",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg4-6580686809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg4-6580686809.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg4q-2b578b218e",
+      "name": "1492-PG4Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg4q-2b578b218e",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg4q-2b578b218e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg4q-2b578b218e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg4t-a324e0ba45",
+      "name": "1492-PG4T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg4t-a324e0ba45",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg4t-a324e0ba45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg4t-a324e0ba45.json"
+    },
+    {
+      "id": "mfr-schneider-electric-compact-nsx-1x-9-wire-moving-connector-for-breaker-a99a23c429",
+      "name": "Compact NSX - 1X 9 WIRE MOVING CONNECTOR FOR BREAKER",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-compact-nsx-1x-9-wire-moving-connector-for-breaker-a99a23c429",
+      "recordPath": "equipment/mfr-schneider-electric-compact-nsx-1x-9-wire-moving-connector-for-breaker-a99a23c429.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-compact-nsx-1x-9-wire-moving-connector-for-breaker-a99a23c429.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg6-d1da8657a2",
+      "name": "1492-PG6",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg6-d1da8657a2",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg6-d1da8657a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg6-d1da8657a2.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg6pd2s-46a699fb94",
+      "name": "1492-PG6PD2S",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg6pd2s-46a699fb94",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg6pd2s-46a699fb94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg6pd2s-46a699fb94.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pg6t-4942fcb183",
+      "name": "1492-PG6T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pg6t-4942fcb183",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pg6t-4942fcb183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pg6t-4942fcb183.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pkd3-24eecec2cc",
+      "name": "1492-PKD3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pkd3-24eecec2cc",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pkd3-24eecec2cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pkd3-24eecec2cc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-compact-nsx-dc-dc-pv-1-4p-short-terminal-shield-1b42efdc93",
+      "name": "Compact NSX DC / DC PV - 1 4P SHORT TERMINAL SHIELD",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-compact-nsx-dc-dc-pv-1-4p-short-terminal-shield-1b42efdc93",
+      "recordPath": "equipment/mfr-schneider-electric-compact-nsx-dc-dc-pv-1-4p-short-terminal-shield-1b42efdc93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-compact-nsx-dc-dc-pv-1-4p-short-terminal-shield-1b42efdc93.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pkd3q-6f86b77467",
+      "name": "1492-PKD3Q",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pkd3q-6f86b77467",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pkd3q-6f86b77467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pkd3q-6f86b77467.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pkd3t-a0acd25f98",
+      "name": "1492-PKD3T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pkd3t-a0acd25f98",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pkd3t-a0acd25f98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pkd3t-a0acd25f98.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pkd4-e502074593",
+      "name": "1492-PKD4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pkd4-e502074593",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pkd4-e502074593.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pkd4-e502074593.json"
+    },
+    {
+      "id": "mfr-schneider-electric-compact-nsx-dc-dc-pv-3-straight-terminal-ext-ph-barriers-inv-9225aafcd5",
+      "name": "Compact NSX DC / DC PV - 3 STRAIGHT TERMINAL EXT PH BARRIERS INV",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-compact-nsx-dc-dc-pv-3-straight-terminal-ext-ph-barriers-inv-9225aafcd5",
+      "recordPath": "equipment/mfr-schneider-electric-compact-nsx-dc-dc-pv-3-straight-terminal-ext-ph-barriers-inv-9225aafcd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-compact-nsx-dc-dc-pv-3-straight-terminal-ext-ph-barriers-inv-9225aafcd5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pkd4-b-ab66f873bc",
+      "name": "1492-PKD4 B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pkd4-b-ab66f873bc",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pkd4-b-ab66f873bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pkd4-b-ab66f873bc.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pq3-31bc70ade0",
+      "name": "1492-PQ3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pq3-31bc70ade0",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pq3-31bc70ade0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pq3-31bc70ade0.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-ps2-2-1a14e3e204",
+      "name": "1492-PS2 2",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-ps2-2-1a14e3e204",
+      "recordPath": "equipment/mfr-allen-bradley-1492-ps2-2-1a14e3e204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-ps2-2-1a14e3e204.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-ps2-3-73317ca582",
+      "name": "1492-PS2 3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-ps2-3-73317ca582",
+      "recordPath": "equipment/mfr-allen-bradley-1492-ps2-3-73317ca582.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-ps2-3-73317ca582.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-ps2-4-6b8e6cb80b",
+      "name": "1492-PS2 4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-ps2-4-6b8e6cb80b",
+      "recordPath": "equipment/mfr-allen-bradley-1492-ps2-4-6b8e6cb80b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-ps2-4-6b8e6cb80b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-psg2-3-c75db4de7b",
+      "name": "1492-PSG2 3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-psg2-3-c75db4de7b",
+      "recordPath": "equipment/mfr-allen-bradley-1492-psg2-3-c75db4de7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-psg2-3-c75db4de7b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-connector-1p-for-flat-bars-size-5-mm-max-400-a-16-to-70-mm2-a398766b54",
+      "name": "Connector 1P for flat bars size 5 mm - max 400 A - 16 to 70 mm2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-connector-1p-for-flat-bars-size-5-mm-max-400-a-16-to-70-mm2-a398766b54",
+      "recordPath": "equipment/mfr-schneider-electric-connector-1p-for-flat-bars-size-5-mm-max-400-a-16-to-70-mm2-a398766b54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-connector-1p-for-flat-bars-size-5-mm-max-400-a-16-to-70-mm2-a398766b54.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-psg2-4-5a64980f8c",
+      "name": "1492-PSG2 4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-psg2-4-5a64980f8c",
+      "recordPath": "equipment/mfr-allen-bradley-1492-psg2-4-5a64980f8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-psg2-4-5a64980f8c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-pt3-a7ee2e6cb8",
+      "name": "1492-PT3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-pt3-a7ee2e6cb8",
+      "recordPath": "equipment/mfr-allen-bradley-1492-pt3-a7ee2e6cb8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-pt3-a7ee2e6cb8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-ptg3-5bdd3b6775",
+      "name": "1492-PTG3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-ptg3-5bdd3b6775",
+      "recordPath": "equipment/mfr-allen-bradley-1492-ptg3-5bdd3b6775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-ptg3-5bdd3b6775.json"
+    },
+    {
+      "id": "mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-3-cut-out-72cd14d4bd",
+      "name": "Control stations XALD for control and signaling units diameter 22_3 cut out",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-3-cut-out-72cd14d4bd",
+      "recordPath": "equipment/mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-3-cut-out-72cd14d4bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-3-cut-out-72cd14d4bd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-4-cut-out-338f52a1d5",
+      "name": "Control stations XALD for control and signaling units diameter 22_4 cut out",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-4-cut-out-338f52a1d5",
+      "recordPath": "equipment/mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-4-cut-out-338f52a1d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-control-stations-xald-for-control-and-signaling-units-diameter-22-4-cut-out-338f52a1d5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-cover-3p-for-terminals-width-84-mm-10-parts-401adaf5d2",
+      "name": "Cover 3P for terminals - width 84 mm - 10 parts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-cover-3p-for-terminals-width-84-mm-10-parts-401adaf5d2",
+      "recordPath": "equipment/mfr-schneider-electric-cover-3p-for-terminals-width-84-mm-10-parts-401adaf5d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-cover-3p-for-terminals-width-84-mm-10-parts-401adaf5d2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-dc-sd-terminal-screw-ed42fbe180",
+      "name": "DC SD Terminal Screw",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-dc-sd-terminal-screw-ed42fbe180",
+      "recordPath": "equipment/mfr-schneider-electric-dc-sd-terminal-screw-ed42fbe180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-dc-sd-terminal-screw-ed42fbe180.json"
+    },
+    {
+      "id": "mfr-schneider-electric-differential-thermal-overload-relays-class-10-a-1-for-connection-by-everlink-btr-screw-1314108674",
+      "name": "Differential thermal overload relays Class 10 A (1) for connection by EverLink®, BTR screw connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-differential-thermal-overload-relays-class-10-a-1-for-connection-by-everlink-btr-screw-1314108674",
+      "recordPath": "equipment/mfr-schneider-electric-differential-thermal-overload-relays-class-10-a-1-for-connection-by-everlink-btr-screw-1314108674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-differential-thermal-overload-relays-class-10-a-1-for-connection-by-everlink-btr-screw-1314108674.json"
+    },
+    {
+      "id": "mfr-schneider-electric-differential-thermal-overload-relays-class-20-a-1-for-connection-by-everlink-btr-screw-b8f92832e6",
+      "name": "Differential thermal overload relays Class 20 A (1) for connection by EverLink®, BTR screw connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-differential-thermal-overload-relays-class-20-a-1-for-connection-by-everlink-btr-screw-b8f92832e6",
+      "recordPath": "equipment/mfr-schneider-electric-differential-thermal-overload-relays-class-20-a-1-for-connection-by-everlink-btr-screw-b8f92832e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-differential-thermal-overload-relays-class-20-a-1-for-connection-by-everlink-btr-screw-b8f92832e6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-door-mounting-kit-for-remote-graphic-terminal-variable-speed-drive-ip65-b0fc6bb9a9",
+      "name": "Door mounting kit - for remote graphic terminal - variable speed drive - IP65 /",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-door-mounting-kit-for-remote-graphic-terminal-variable-speed-drive-ip65-b0fc6bb9a9",
+      "recordPath": "equipment/mfr-schneider-electric-door-mounting-kit-for-remote-graphic-terminal-variable-speed-drive-ip65-b0fc6bb9a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-door-mounting-kit-for-remote-graphic-terminal-variable-speed-drive-ip65-b0fc6bb9a9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-double-headed-push-button-plastic-22-1-green-flush-marked-i-1-red-projecting-marked-o-aed34ea017",
+      "name": "Double-headed push button, plastic, Ø22, 1 green flush marked I + 1 red projecting marked O, spring clamp terminal, 1 NO + 1 NC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-double-headed-push-button-plastic-22-1-green-flush-marked-i-1-red-projecting-marked-o-aed34ea017",
+      "recordPath": "equipment/mfr-schneider-electric-double-headed-push-button-plastic-22-1-green-flush-marked-i-1-red-projecting-marked-o-aed34ea017.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-double-headed-push-button-plastic-22-1-green-flush-marked-i-1-red-projecting-marked-o-aed34ea017.json"
+    },
+    {
+      "id": "mfr-schneider-electric-easypact-cvs-1-3p-long-terminal-shield-e8765cb1e0",
+      "name": "EasyPact CVS - 1 3P LONG TERMINAL SHIELD",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-easypact-cvs-1-3p-long-terminal-shield-e8765cb1e0",
+      "recordPath": "equipment/mfr-schneider-electric-easypact-cvs-1-3p-long-terminal-shield-e8765cb1e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-easypact-cvs-1-3p-long-terminal-shield-e8765cb1e0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-easypact-cvs-1-4p-long-terminal-shield-for-spreader-db919bb10d",
+      "name": "EasyPact CVS - 1 4P LONG TERMINAL SHIELD FOR SPREADER",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-easypact-cvs-1-4p-long-terminal-shield-for-spreader-db919bb10d",
+      "recordPath": "equipment/mfr-schneider-electric-easypact-cvs-1-4p-long-terminal-shield-for-spreader-db919bb10d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-easypact-cvs-1-4p-long-terminal-shield-for-spreader-db919bb10d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-easypact-cvs-3-connectors-2x-50-120mm-ph-barriers-0ecd5ad08c",
+      "name": "EasyPact CVS - 3 CONNECTORS (2X 50-120MM²) PH BARRIERS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-easypact-cvs-3-connectors-2x-50-120mm-ph-barriers-0ecd5ad08c",
+      "recordPath": "equipment/mfr-schneider-electric-easypact-cvs-3-connectors-2x-50-120mm-ph-barriers-0ecd5ad08c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-easypact-cvs-3-connectors-2x-50-120mm-ph-barriers-0ecd5ad08c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-easypact-dc-switch-disconnector-250-2p-ul-aea0fdc386",
+      "name": "EasyPact DC Switch Disconnector 250 2P UL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-easypact-dc-switch-disconnector-250-2p-ul-aea0fdc386",
+      "recordPath": "equipment/mfr-schneider-electric-easypact-dc-switch-disconnector-250-2p-ul-aea0fdc386.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-easypact-dc-switch-disconnector-250-2p-ul-aea0fdc386.json"
+    },
+    {
+      "id": "mfr-schneider-electric-easypact-dc-switch-disconnector-400-2p-ul-301d076963",
+      "name": "EasyPact DC Switch Disconnector 400 2P UL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-easypact-dc-switch-disconnector-400-2p-ul-301d076963",
+      "recordPath": "equipment/mfr-schneider-electric-easypact-dc-switch-disconnector-400-2p-ul-301d076963.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-easypact-dc-switch-disconnector-400-2p-ul-301d076963.json"
+    },
+    {
+      "id": "mfr-schneider-electric-edgwise-terminal-extension-3p-g630-800-2d10fa519c",
+      "name": "Edgwise Terminal Extension 3P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-edgwise-terminal-extension-3p-g630-800-2d10fa519c",
+      "recordPath": "equipment/mfr-schneider-electric-edgwise-terminal-extension-3p-g630-800-2d10fa519c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-edgwise-terminal-extension-3p-g630-800-2d10fa519c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-edgwise-terminal-extension-4p-g630-800-8b461a02e2",
+      "name": "Edgwise Terminal Extension 4P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-edgwise-terminal-extension-4p-g630-800-8b461a02e2",
+      "recordPath": "equipment/mfr-schneider-electric-edgwise-terminal-extension-4p-g630-800-8b461a02e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-edgwise-terminal-extension-4p-g630-800-8b461a02e2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-empty-enclosure-vbfxge2-vbfxge4-vcfxge2-vcfxge4-for-mounting-a-main-switch-disconnecto-b12d69a6e9",
+      "name": "Empty enclosure VBFXGE2, VBFXGE4, VCFXGE2, VCFXGE4 for mounting a main switch disconnector, red or black handle, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-empty-enclosure-vbfxge2-vbfxge4-vcfxge2-vcfxge4-for-mounting-a-main-switch-disconnecto-b12d69a6e9",
+      "recordPath": "equipment/mfr-schneider-electric-empty-enclosure-vbfxge2-vbfxge4-vcfxge2-vcfxge4-for-mounting-a-main-switch-disconnecto-b12d69a6e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-empty-enclosure-vbfxge2-vbfxge4-vcfxge2-vcfxge4-for-mounting-a-main-switch-disconnecto-b12d69a6e9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge1-or-vcfxge1-for-mounting-a-main-swi-418b113057",
+      "name": "Empty enclosure with red handle & front plate VBFXGE1 or VCFXGE1 for mounting a main switch disconnector, 60x60, 10A to 32A, red or black handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge1-or-vcfxge1-for-mounting-a-main-swi-418b113057",
+      "recordPath": "equipment/mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge1-or-vcfxge1-for-mounting-a-main-swi-418b113057.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge1-or-vcfxge1-for-mounting-a-main-swi-418b113057.json"
+    },
+    {
+      "id": "mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge6-or-vcfxge6-for-mounting-a-main-swi-6a7db4f167",
+      "name": "Empty enclosure with red handle & front plate VBFXGE6 or VCFXGE6 for mounting a main switch disconnector, 60x60, 100A to 140A, red or black handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge6-or-vcfxge6-for-mounting-a-main-swi-6a7db4f167",
+      "recordPath": "equipment/mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge6-or-vcfxge6-for-mounting-a-main-swi-6a7db4f167.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-empty-enclosure-with-red-handle-front-plate-vbfxge6-or-vcfxge6-for-mounting-a-main-swi-6a7db4f167.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enclosed-switch-disconnector-vbf-ge-or-vcf-ge-for-high-performance-application-3-poles-12ad387387",
+      "name": "Enclosed switch disconnector VBF**GE or VCF**GE for high performance application, 3 poles, 10A to 32A, red or black handle, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enclosed-switch-disconnector-vbf-ge-or-vcf-ge-for-high-performance-application-3-poles-12ad387387",
+      "recordPath": "equipment/mfr-schneider-electric-enclosed-switch-disconnector-vbf-ge-or-vcf-ge-for-high-performance-application-3-poles-12ad387387.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enclosed-switch-disconnector-vbf-ge-or-vcf-ge-for-high-performance-application-3-poles-12ad387387.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enclosed-switch-disconnector-vbf3ge-vbf4ge-vcf3ge-vcf4ge-60x60-3-poles-red-or-black-ha-8b63090a27",
+      "name": "Enclosed switch disconnector VBF3GE, VBF4GE, VCF3GE, VCF4GE, 60x60, 3 poles, red or black handle, 50A to 63A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enclosed-switch-disconnector-vbf3ge-vbf4ge-vcf3ge-vcf4ge-60x60-3-poles-red-or-black-ha-8b63090a27",
+      "recordPath": "equipment/mfr-schneider-electric-enclosed-switch-disconnector-vbf3ge-vbf4ge-vcf3ge-vcf4ge-60x60-3-poles-red-or-black-ha-8b63090a27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enclosed-switch-disconnector-vbf3ge-vbf4ge-vcf3ge-vcf4ge-60x60-3-poles-red-or-black-ha-8b63090a27.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7df-cd-b6461d6549",
+      "name": "M623 SpeedTec Signal Connector 2090 CFBM7DF CD",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7df-cd-b6461d6549",
+      "recordPath": "equipment/mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7df-cd-b6461d6549.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7df-cd-b6461d6549.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enclosed-switch-disconnector-vbf5gen-vbf6gen-vcf5gen-vcf6gen-90x90-3-poles-100a-to-140-f819fa7780",
+      "name": "Enclosed switch disconnector VBF5GEN, VBF6GEN, VCF5GEN, VCF6GEN, 90x90, 3 poles, 100A to 140A, red or black handle, 90x90",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enclosed-switch-disconnector-vbf5gen-vbf6gen-vcf5gen-vcf6gen-90x90-3-poles-100a-to-140-f819fa7780",
+      "recordPath": "equipment/mfr-schneider-electric-enclosed-switch-disconnector-vbf5gen-vbf6gen-vcf5gen-vcf6gen-90x90-3-poles-100a-to-140-f819fa7780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enclosed-switch-disconnector-vbf5gen-vbf6gen-vcf5gen-vcf6gen-90x90-3-poles-100a-to-140-f819fa7780.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7dx-ce-ast-l120-7025d650c2",
+      "name": "M623 SpeedTec Signal Connector 2090 CFBM7Dx CE AST L120",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7dx-ce-ast-l120-7025d650c2",
+      "recordPath": "equipment/mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7dx-ce-ast-l120-7025d650c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m623-speedtec-signal-connector-2090-cfbm7dx-ce-ast-l120-7025d650c2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enclosed-switch-disconnector-with-red-long-handle-padlockable-vc5gun-or-vc6gun-90x90-8f9aa84270",
+      "name": "Enclosed switch-disconnector with red long handle padlockable VC5GUN or VC6GUN, 90x90",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enclosed-switch-disconnector-with-red-long-handle-padlockable-vc5gun-or-vc6gun-90x90-8f9aa84270",
+      "recordPath": "equipment/mfr-schneider-electric-enclosed-switch-disconnector-with-red-long-handle-padlockable-vc5gun-or-vc6gun-90x90-8f9aa84270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enclosed-switch-disconnector-with-red-long-handle-padlockable-vc5gun-or-vc6gun-90x90-8f9aa84270.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m623-speedtec-signal-extension-connector-2090-cfbm7e7-d93a9a43e5",
+      "name": "M623 SpeedTec Signal Extension Connector 2090 CFBM7E7",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m623-speedtec-signal-extension-connector-2090-cfbm7e7-d93a9a43e5",
+      "recordPath": "equipment/mfr-allen-bradley-m623-speedtec-signal-extension-connector-2090-cfbm7e7-d93a9a43e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m623-speedtec-signal-extension-connector-2090-cfbm7e7-d93a9a43e5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc1gun-or-vc2gun-60x-5976c15f26",
+      "name": "Enclosed switch-disconnector with red standard handle padlockable VC1GUN or VC2GUN, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc1gun-or-vc2gun-60x-5976c15f26",
+      "recordPath": "equipment/mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc1gun-or-vc2gun-60x-5976c15f26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc1gun-or-vc2gun-60x-5976c15f26.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m923-speedtec-power-connector-14mm-2090-cpbm7df-16-785901ab33",
+      "name": "M923 SpeedTec Power Connector 14mm 2090 CPBM7DF 16",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m923-speedtec-power-connector-14mm-2090-cpbm7df-16-785901ab33",
+      "recordPath": "equipment/mfr-allen-bradley-m923-speedtec-power-connector-14mm-2090-cpbm7df-16-785901ab33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m923-speedtec-power-connector-14mm-2090-cpbm7df-16-785901ab33.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc3gun-or-vc4gun-60x-9759859ce8",
+      "name": "Enclosed switch-disconnector with red standard handle padlockable VC3GUN or VC4GUN, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc3gun-or-vc4gun-60x-9759859ce8",
+      "recordPath": "equipment/mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc3gun-or-vc4gun-60x-9759859ce8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enclosed-switch-disconnector-with-red-standard-handle-padlockable-vc3gun-or-vc4gun-60x-9759859ce8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m923-speedtec-power-connector-2090-cpwm7df-16-42c9e0ba63",
+      "name": "M923 SpeedTec Power Connector 2090 CPWM7DF 16",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m923-speedtec-power-connector-2090-cpwm7df-16-42c9e0ba63",
+      "recordPath": "equipment/mfr-allen-bradley-m923-speedtec-power-connector-2090-cpwm7df-16-42c9e0ba63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m923-speedtec-power-connector-2090-cpwm7df-16-42c9e0ba63.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-2level-for-nsytrr24d-terminal-62725b0307",
+      "name": "End Cover 2Level for NSYTRR24D terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-2level-for-nsytrr24d-terminal-62725b0307",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-2level-for-nsytrr24d-terminal-62725b0307.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-2level-for-nsytrr24d-terminal-62725b0307.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m923-speedtec-power-extension-connector-2090-8e56fedb45",
+      "name": "M923 SpeedTec Power Extension Connector 2090",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m923-speedtec-power-extension-connector-2090-8e56fedb45",
+      "recordPath": "equipment/mfr-allen-bradley-m923-speedtec-power-extension-connector-2090-8e56fedb45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m923-speedtec-power-extension-connector-2090-8e56fedb45.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-2level-for-nsytrr44d-terminal-92c38df1e9",
+      "name": "End Cover 2Level for NSYTRR44D terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-2level-for-nsytrr44d-terminal-92c38df1e9",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-2level-for-nsytrr44d-terminal-92c38df1e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-2level-for-nsytrr44d-terminal-92c38df1e9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m940-speedtec-power-connector-2090-73b1ed1601",
+      "name": "M940 SpeedTec Power Connector 2090",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m940-speedtec-power-connector-2090-73b1ed1601",
+      "recordPath": "equipment/mfr-allen-bradley-m940-speedtec-power-connector-2090-73b1ed1601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m940-speedtec-power-connector-2090-73b1ed1601.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-2pts-for-nsytrp22sc-terminal-ecfdc57cd5",
+      "name": "End Cover 2pts for NSYTRP22SC terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-2pts-for-nsytrp22sc-terminal-ecfdc57cd5",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-2pts-for-nsytrp22sc-terminal-ecfdc57cd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-2pts-for-nsytrp22sc-terminal-ecfdc57cd5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-m940-speedtec-power-connector-8-position-2090-cpwm7df-162fc04706",
+      "name": "M940 SpeedTec Power Connector 8 position 2090 CPWM7DF",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m940-speedtec-power-connector-8-position-2090-cpwm7df-162fc04706",
+      "recordPath": "equipment/mfr-allen-bradley-m940-speedtec-power-connector-8-position-2090-cpwm7df-162fc04706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m940-speedtec-power-connector-8-position-2090-cpwm7df-162fc04706.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-2pts-for-nsytrr22-terminal-blue-c818a0b461",
+      "name": "End Cover 2pts for NSYTRR22 terminal blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-2pts-for-nsytrr22-terminal-blue-c818a0b461",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-2pts-for-nsytrr22-terminal-blue-c818a0b461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-2pts-for-nsytrr22-terminal-blue-c818a0b461.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800c-043as-b05a2aeb1c",
+      "name": "OptixPanel 2800C 043AS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800c-043as-b05a2aeb1c",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800c-043as-b05a2aeb1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800c-043as-b05a2aeb1c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-3level-for-nsytrr26t-terminal-9b3e908b37",
+      "name": "End Cover 3Level for NSYTRR26T terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-3level-for-nsytrr26t-terminal-9b3e908b37",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-3level-for-nsytrr26t-terminal-9b3e908b37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-3level-for-nsytrr26t-terminal-9b3e908b37.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800c-043cm-53f5f8b3c3",
+      "name": "OptixPanel 2800C 043CM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800c-043cm-53f5f8b3c3",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800c-043cm-53f5f8b3c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800c-043cm-53f5f8b3c3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-3pts-for-nsytrp23sc-terminal-735297f068",
+      "name": "End Cover 3pts for NSYTRP23SC terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-3pts-for-nsytrp23sc-terminal-735297f068",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-3pts-for-nsytrp23sc-terminal-735297f068.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-3pts-for-nsytrp23sc-terminal-735297f068.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800c-070as-b422fbffc0",
+      "name": "OptixPanel 2800C 070AS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800c-070as-b422fbffc0",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800c-070as-b422fbffc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800c-070as-b422fbffc0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-3pts-for-nsytrr23-terminal-blue-56868f9d1a",
+      "name": "End Cover 3pts for NSYTRR23 terminal blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-3pts-for-nsytrr23-terminal-blue-56868f9d1a",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-3pts-for-nsytrr23-terminal-blue-56868f9d1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-3pts-for-nsytrr23-terminal-blue-56868f9d1a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800c-070cm-9fa7ea00f9",
+      "name": "OptixPanel 2800C 070CM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800c-070cm-9fa7ea00f9",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800c-070cm-9fa7ea00f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800c-070cm-9fa7ea00f9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-4pts-for-nsytrp24sc-terminal-f2441d9811",
+      "name": "End Cover 4pts for NSYTRP24SC terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-4pts-for-nsytrp24sc-terminal-f2441d9811",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-4pts-for-nsytrp24sc-terminal-f2441d9811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-4pts-for-nsytrp24sc-terminal-f2441d9811.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrv-2ne-screw-terminals-0521c56a1b",
+      "name": "End Cover for NSYTRV*2NE screw terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrv-2ne-screw-terminals-0521c56a1b",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrv-2ne-screw-terminals-0521c56a1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrv-2ne-screw-terminals-0521c56a1b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-mini-screw-terminals-2ffb31b49c",
+      "name": "End Cover for mini screw terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-mini-screw-terminals-2ffb31b49c",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-mini-screw-terminals-2ffb31b49c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-mini-screw-terminals-2ffb31b49c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-with-flange-for-mini-terminals-202f59fb0b",
+      "name": "End Cover with flange for mini terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-with-flange-for-mini-terminals-202f59fb0b",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-with-flange-for-mini-terminals-202f59fb0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-with-flange-for-mini-terminals-202f59fb0b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-2pts-for-mini-spring-terminal-f2401f4dd8",
+      "name": "End Cover, 2pts for mini spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-2pts-for-mini-spring-terminal-f2401f4dd8",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-2pts-for-mini-spring-terminal-f2401f4dd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-2pts-for-mini-spring-terminal-f2401f4dd8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrh12-terminals-174ccfa487",
+      "name": "End Cover, for NSYTRH12 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrh12-terminals-174ccfa487",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrh12-terminals-174ccfa487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrh12-terminals-174ccfa487.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrh13-terminal-df98c463b7",
+      "name": "End Cover, for NSYTRH13 terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrh13-terminal-df98c463b7",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrh13-terminal-df98c463b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrh13-terminal-df98c463b7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrh22-terminals-53229f23c7",
+      "name": "End Cover, for NSYTRH22 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrh22-terminals-53229f23c7",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrh22-terminals-53229f23c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrh22-terminals-53229f23c7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrp43-terminals-0da38fe796",
+      "name": "End Cover, for NSYTRP43 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrp43-terminals-0da38fe796",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrp43-terminals-0da38fe796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrp43-terminals-0da38fe796.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr102-terminals-7f29e3a301",
+      "name": "End Cover, for NSYTRR102 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr102-terminals-7f29e3a301",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr102-terminals-7f29e3a301.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr102-terminals-7f29e3a301.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr162-terminals-73a5583e8e",
+      "name": "End Cover, for NSYTRR162 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr162-terminals-73a5583e8e",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr162-terminals-73a5583e8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr162-terminals-73a5583e8e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr22-terminals-366972b517",
+      "name": "End Cover, for NSYTRR22 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr22-terminals-366972b517",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr22-terminals-366972b517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr22-terminals-366972b517.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr23-terminals-169daa0fca",
+      "name": "End Cover, for NSYTRR23 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr23-terminals-169daa0fca",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr23-terminals-169daa0fca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr23-terminals-169daa0fca.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr24-terminals-2706833d35",
+      "name": "End Cover, for NSYTRR24 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr24-terminals-2706833d35",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr24-terminals-2706833d35.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr24-terminals-2706833d35.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr42-terminals-729c01123a",
+      "name": "End Cover, for NSYTRR42 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr42-terminals-729c01123a",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr42-terminals-729c01123a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr42-terminals-729c01123a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr43-terminals-ac978e0969",
+      "name": "End Cover, for NSYTRR43 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr43-terminals-ac978e0969",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr43-terminals-ac978e0969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr43-terminals-ac978e0969.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr44-terminals-3cd502b76d",
+      "name": "End Cover, for NSYTRR44 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr44-terminals-3cd502b76d",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr44-terminals-3cd502b76d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr44-terminals-3cd502b76d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr62-terminals-06105aeae3",
+      "name": "End Cover, for NSYTRR62 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr62-terminals-06105aeae3",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr62-terminals-06105aeae3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr62-terminals-06105aeae3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrr63-terminals-3f3ccb76f2",
+      "name": "End Cover, for NSYTRR63 terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrr63-terminals-3f3ccb76f2",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrr63-terminals-3f3ccb76f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrr63-terminals-3f3ccb76f2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-nsytrv162-terminal-d5d7b216b6",
+      "name": "End Cover, for NSYTRV162 terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-nsytrv162-terminal-d5d7b216b6",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-nsytrv162-terminal-d5d7b216b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-nsytrv162-terminal-d5d7b216b6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-screw-terminal-blue-8a10ed7cdd",
+      "name": "End Cover, for screw terminal, blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-screw-terminal-blue-8a10ed7cdd",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-screw-terminal-blue-8a10ed7cdd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-screw-terminal-blue-8a10ed7cdd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-for-screw-terminals-e542f126d2",
+      "name": "End Cover, for screw terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-for-screw-terminals-e542f126d2",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-for-screw-terminals-e542f126d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-for-screw-terminals-e542f126d2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-end-cover-screw-terminals-69dd72aaf9",
+      "name": "End Cover, screw terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-end-cover-screw-terminals-69dd72aaf9",
+      "recordPath": "equipment/mfr-schneider-electric-end-cover-screw-terminals-69dd72aaf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-end-cover-screw-terminals-69dd72aaf9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-explosive-atmosphere-no-nc-contact-block-f2c5cd8cf9",
+      "name": "Explosive atmosphere - NO/NC contact block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-explosive-atmosphere-no-nc-contact-block-f2c5cd8cf9",
+      "recordPath": "equipment/mfr-schneider-electric-explosive-atmosphere-no-nc-contact-block-f2c5cd8cf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-explosive-atmosphere-no-nc-contact-block-f2c5cd8cf9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-external-antenna-for-harmony-hub-zbrn1-and-zbrn2-2-m-cable-1-radio-frequency-connector-5cf2d5b961",
+      "name": "External antenna for harmony Hub ZBRN1 and ZBRN2, 2 m cable, 1 radio frequency connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-external-antenna-for-harmony-hub-zbrn1-and-zbrn2-2-m-cable-1-radio-frequency-connector-5cf2d5b961",
+      "recordPath": "equipment/mfr-schneider-electric-external-antenna-for-harmony-hub-zbrn1-and-zbrn2-2-m-cable-1-radio-frequency-connector-5cf2d5b961.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-external-antenna-for-harmony-hub-zbrn1-and-zbrn2-2-m-cable-1-radio-frequency-connector-5cf2d5b961.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-black-flush-caps-pushbutton-1no-screw-clamp-cp-grey-7fb48c532c",
+      "name": "FLUSH MOUNTED BLACK FLUSH CAPS PUSHBUTTON 1NO SCREW CLAMP CP GREY",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-black-flush-caps-pushbutton-1no-screw-clamp-cp-grey-7fb48c532c",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-black-flush-caps-pushbutton-1no-screw-clamp-cp-grey-7fb48c532c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-black-flush-caps-pushbutton-1no-screw-clamp-cp-grey-7fb48c532c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-pilot-light-with-integral-led-screw-clamp-acb727da6b",
+      "name": "FLUSH MOUNTED PILOT LIGHT WITH INTEGRAL LED SCREW CLAMP",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-pilot-light-with-integral-led-screw-clamp-acb727da6b",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-pilot-light-with-integral-led-screw-clamp-acb727da6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-pilot-light-with-integral-led-screw-clamp-acb727da6b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-selector-switch-pos-screw-clamp-d5fee2f9aa",
+      "name": "FLUSH MOUNTED selector switch POS SCREW CLAMP",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-selector-switch-pos-screw-clamp-d5fee2f9aa",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-selector-switch-pos-screw-clamp-d5fee2f9aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-selector-switch-pos-screw-clamp-d5fee2f9aa.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-flush-caps-pushbutton-screw-clamp-d3a79aa7e6",
+      "name": "Flush mounted flush caps pushbutton screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-flush-caps-pushbutton-screw-clamp-d3a79aa7e6",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-flush-caps-pushbutton-screw-clamp-d3a79aa7e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-flush-caps-pushbutton-screw-clamp-d3a79aa7e6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-white-marked-o-1no-1nc-screw-clamp-83719e1c3f",
+      "name": "Flush mounted red projecting pushbutton white \"marked O\" 1NO 1NC screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-white-marked-o-1no-1nc-screw-clamp-83719e1c3f",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-white-marked-o-1no-1nc-screw-clamp-83719e1c3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-white-marked-o-1no-1nc-screw-clamp-83719e1c3f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-selector-switch-2-3-pos-screw-clamp-f34e6bef0e",
+      "name": "Flush mounted selector switch 2/3 pos screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-selector-switch-2-3-pos-screw-clamp-f34e6bef0e",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-selector-switch-2-3-pos-screw-clamp-f34e6bef0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-selector-switch-2-3-pos-screw-clamp-f34e6bef0e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-selector-switch-key-455-2-pos-key-release-left-1no-screw-clamp-038605effa",
+      "name": "Flush mounted selector switch key 455 2 pos key release left 1NO screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-selector-switch-key-455-2-pos-key-release-left-1no-screw-clamp-038605effa",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-selector-switch-key-455-2-pos-key-release-left-1no-screw-clamp-038605effa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-selector-switch-key-455-2-pos-key-release-left-1no-screw-clamp-038605effa.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-return-right-to-left-1no-screw-clamp-563c673a8d",
+      "name": "Flush mounted selector switch Ø30.5 2 pos return right to left 1NO screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-return-right-to-left-1no-screw-clamp-563c673a8d",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-return-right-to-left-1no-screw-clamp-563c673a8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-return-right-to-left-1no-screw-clamp-563c673a8d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-screw-clamp-c1057df471",
+      "name": "Flush mounted selector switch Ø30.5 2 pos stay put 1NO screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-screw-clamp-c1057df471",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-screw-clamp-c1057df471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-screw-clamp-c1057df471.json"
+    },
+    {
+      "id": "mfr-schneider-electric-gv3p65-with-one-everlink-connector-c8658bd9f3",
+      "name": "GV3P65 WITH ONE EVERLINK CONNECTOR",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-gv3p65-with-one-everlink-connector-c8658bd9f3",
+      "recordPath": "equipment/mfr-schneider-electric-gv3p65-with-one-everlink-connector-c8658bd9f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-gv3p65-with-one-everlink-connector-c8658bd9f3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-go9-2p-40a-80a-switch-disconnector-89eae5c5a0",
+      "name": "Go9 2P 40A-80A Switch Disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-go9-2p-40a-80a-switch-disconnector-89eae5c5a0",
+      "recordPath": "equipment/mfr-schneider-electric-go9-2p-40a-80a-switch-disconnector-89eae5c5a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-go9-2p-40a-80a-switch-disconnector-89eae5c5a0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-go9-3p-40a-80a-switch-disconnector-1ad713f221",
+      "name": "Go9 3P 40A-80A Switch Disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-go9-3p-40a-80a-switch-disconnector-1ad713f221",
+      "recordPath": "equipment/mfr-schneider-electric-go9-3p-40a-80a-switch-disconnector-1ad713f221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-go9-3p-40a-80a-switch-disconnector-1ad713f221.json"
+    },
+    {
+      "id": "mfr-schneider-electric-go9-4p-40a-80a-switch-disconnector-f89014dbfc",
+      "name": "Go9 4P 40A-80A Switch Disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-go9-4p-40a-80a-switch-disconnector-f89014dbfc",
+      "recordPath": "equipment/mfr-schneider-electric-go9-4p-40a-80a-switch-disconnector-f89014dbfc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-go9-4p-40a-80a-switch-disconnector-f89014dbfc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-light-block-110-240vac-high-protection-led-screw-clamp-terminals-6438e91adc",
+      "name": "HARMONY LIGHT BLOCK 110…240VAC HIGH PROTECTION LED SCREW CLAMP TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-light-block-110-240vac-high-protection-led-screw-clamp-terminals-6438e91adc",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-light-block-110-240vac-high-protection-led-screw-clamp-terminals-6438e91adc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-light-block-110-240vac-high-protection-led-screw-clamp-terminals-6438e91adc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-yellow-light-block-110-240vac-high-protection-led-screw-clamp-terminals-7574a905b8",
+      "name": "HARMONY YELLOW LIGHT BLOCK 110…240VAC HIGH PROTECTION LED SCREW CLAMP TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-yellow-light-block-110-240vac-high-protection-led-screw-clamp-terminals-7574a905b8",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-yellow-light-block-110-240vac-high-protection-led-screw-clamp-terminals-7574a905b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-yellow-light-block-110-240vac-high-protection-led-screw-clamp-terminals-7574a905b8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-hybrid-terminal-feed-through-2-points-d43d841c74",
+      "name": "HYBRID TERMINAL, FEED THROUGH, 2 POINTS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-hybrid-terminal-feed-through-2-points-d43d841c74",
+      "recordPath": "equipment/mfr-schneider-electric-hybrid-terminal-feed-through-2-points-d43d841c74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-hybrid-terminal-feed-through-2-points-d43d841c74.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-electromechanical-relays-socket-for-rxm2-rxm4-relays-screw-connectors-mixed-co-f40d076ba1",
+      "name": "Harmony Electromechanical Relays, socket for RXM2 RXM4 relays, screw connectors, mixed contact Simplified",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-electromechanical-relays-socket-for-rxm2-rxm4-relays-screw-connectors-mixed-co-f40d076ba1",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-electromechanical-relays-socket-for-rxm2-rxm4-relays-screw-connectors-mixed-co-f40d076ba1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-electromechanical-relays-socket-for-rxm2-rxm4-relays-screw-connectors-mixed-co-f40d076ba1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-2-speed-snap-action-2-no-1-c-o-d866e2c805",
+      "name": "Harmony XAC, Double contact block, spring return, 2-speed, snap action, 2 NO + 1 C/O",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-2-speed-snap-action-2-no-1-c-o-d866e2c805",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-2-speed-snap-action-2-no-1-c-o-d866e2c805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-2-speed-snap-action-2-no-1-c-o-d866e2c805.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-2-speed-c-o-n-o-staggere-57dfbfe81a",
+      "name": "Harmony XAC, Double contact block, spring return, front mounting, 2- speed C/O + N/O staggered",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-2-speed-c-o-n-o-staggere-57dfbfe81a",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-2-speed-c-o-n-o-staggere-57dfbfe81a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-2-speed-c-o-n-o-staggere-57dfbfe81a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-single-speed-c-o-6fcc061dd8",
+      "name": "Harmony XAC, Double contact block, spring return, front mounting, single speed C/O",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-single-speed-c-o-6fcc061dd8",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-single-speed-c-o-6fcc061dd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-front-mounting-single-speed-c-o-6fcc061dd8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-single-speed-snap-action-2-no-cd6461872f",
+      "name": "Harmony XAC, Double contact block, spring return, single speed, snap action, 2 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-single-speed-snap-action-2-no-cd6461872f",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-single-speed-snap-action-2-no-cd6461872f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xac-double-contact-block-spring-return-single-speed-snap-action-2-no-cd6461872f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xac-single-contact-block-e517c3faff",
+      "name": "Harmony XAC, Single contact block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xac-single-contact-block-e517c3faff",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xac-single-contact-block-e517c3faff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xac-single-contact-block-e517c3faff.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xb4-single-contact-block-silver-alloy-screw-clamp-terminal-1-nc-with-monitorin-9151132c06",
+      "name": "Harmony XB4, Single contact block, silver alloy, screw clamp terminal, 1 NC with monitoring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xb4-single-contact-block-silver-alloy-screw-clamp-terminal-1-nc-with-monitorin-9151132c06",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xb4-single-contact-block-silver-alloy-screw-clamp-terminal-1-nc-with-monitorin-9151132c06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xb4-single-contact-block-silver-alloy-screw-clamp-terminal-1-nc-with-monitorin-9151132c06.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-zb5-contact-block-zb5az10-8f80abd3b7",
+      "name": "Harmony ZB5 contact block ZB5AZ10",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-zb5-contact-block-zb5az10-8f80abd3b7",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-zb5-contact-block-zb5az10-8f80abd3b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-zb5-contact-block-zb5az10-8f80abd3b7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-socket-equipped-with-led-and-protection-circuit-for-rsl1-relays-spring-termina-94be28116b",
+      "name": "Harmony, Socket equipped with LED and protection circuit, for RSL1 relays, spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-socket-equipped-with-led-and-protection-circuit-for-rsl1-relays-spring-termina-94be28116b",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-socket-equipped-with-led-and-protection-circuit-for-rsl1-relays-spring-termina-94be28116b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-socket-equipped-with-led-and-protection-circuit-for-rsl1-relays-spring-termina-94be28116b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db25315-s3db-terminal-enc-h250xw300xd150-06483a94f7",
+      "name": "Infraplus Small Office - NSYS3DB25315 - S3DB terminal enc. H250XW300XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db25315-s3db-terminal-enc-h250xw300xd150-06483a94f7",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db25315-s3db-terminal-enc-h250xw300xd150-06483a94f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db25315-s3db-terminal-enc-h250xw300xd150-06483a94f7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db25415-s3db-terminal-enc-h250xw400xd150-591d44c4d2",
+      "name": "Infraplus Small Office - NSYS3DB25415 - S3DB terminal enc. H250XW400XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db25415-s3db-terminal-enc-h250xw400xd150-591d44c4d2",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db25415-s3db-terminal-enc-h250xw400xd150-591d44c4d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db25415-s3db-terminal-enc-h250xw400xd150-591d44c4d2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db25515-s3db-terminal-enc-h250xw500xd150-db0c5e99bd",
+      "name": "Infraplus Small Office - NSYS3DB25515 - S3DB terminal enc. H250XW500XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db25515-s3db-terminal-enc-h250xw500xd150-db0c5e99bd",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db25515-s3db-terminal-enc-h250xw500xd150-db0c5e99bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db25515-s3db-terminal-enc-h250xw500xd150-db0c5e99bd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db3415-s3db-terminal-enc-h300xw400xd150-06071e4a19",
+      "name": "Infraplus Small Office - NSYS3DB3415 - S3DB terminal enc. H300XW400XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db3415-s3db-terminal-enc-h300xw400xd150-06071e4a19",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db3415-s3db-terminal-enc-h300xw400xd150-06071e4a19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db3415-s3db-terminal-enc-h300xw400xd150-06071e4a19.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db3515-s3db-terminal-enc-h300xw500xd150-fb28ebafaa",
+      "name": "Infraplus Small Office - NSYS3DB3515 - S3DB terminal enc. H300XW500XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db3515-s3db-terminal-enc-h300xw500xd150-fb28ebafaa",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db3515-s3db-terminal-enc-h300xw500xd150-fb28ebafaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db3515-s3db-terminal-enc-h300xw500xd150-fb28ebafaa.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db3615-s3db-terminal-enc-h300xw600xd150-806b405717",
+      "name": "Infraplus Small Office - NSYS3DB3615 - S3DB terminal enc. H300XW600XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db3615-s3db-terminal-enc-h300xw600xd150-806b405717",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db3615-s3db-terminal-enc-h300xw600xd150-806b405717.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db3615-s3db-terminal-enc-h300xw600xd150-806b405717.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db4815-s3db-terminal-enc-h400xw800xd150-ccb6bd1baf",
+      "name": "Infraplus Small Office - NSYS3DB4815 - S3DB terminal enc. H400XW800XD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db4815-s3db-terminal-enc-h400xw800xd150-ccb6bd1baf",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db4815-s3db-terminal-enc-h400xw800xd150-ccb6bd1baf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db4815-s3db-terminal-enc-h400xw800xd150-ccb6bd1baf.json"
+    },
+    {
+      "id": "mfr-schneider-electric-infraplus-small-office-nsys3db6415-s3db-terminal-enc-h600xw400xd150-7c29852af8",
+      "name": "Infraplus Small Office - NSYS3DB6415 - S3DB terminal enc. H600xW400xD150",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-infraplus-small-office-nsys3db6415-s3db-terminal-enc-h600xw400xd150-7c29852af8",
+      "recordPath": "equipment/mfr-schneider-electric-infraplus-small-office-nsys3db6415-s3db-terminal-enc-h600xw400xd150-7c29852af8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-infraplus-small-office-nsys3db6415-s3db-terminal-enc-h600xw400xd150-7c29852af8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-insertion-bridge-for-mini-spring-terminal-2pts-5f81cd8215",
+      "name": "Insertion Bridge for mini spring terminal, 2pts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-insertion-bridge-for-mini-spring-terminal-2pts-5f81cd8215",
+      "recordPath": "equipment/mfr-schneider-electric-insertion-bridge-for-mini-spring-terminal-2pts-5f81cd8215.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-insertion-bridge-for-mini-spring-terminal-2pts-5f81cd8215.json"
+    },
+    {
+      "id": "mfr-schneider-electric-l-largeterminal-extension-3p-g630-800-0abc6bd422",
+      "name": "L LargeTerminal Extension 3P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-l-largeterminal-extension-3p-g630-800-0abc6bd422",
+      "recordPath": "equipment/mfr-schneider-electric-l-largeterminal-extension-3p-g630-800-0abc6bd422.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-l-largeterminal-extension-3p-g630-800-0abc6bd422.json"
+    },
+    {
+      "id": "mfr-schneider-electric-l-rear-terminal-extension-3p-g630-800-a815521c4f",
+      "name": "L Rear Terminal Extension 3P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-l-rear-terminal-extension-3p-g630-800-a815521c4f",
+      "recordPath": "equipment/mfr-schneider-electric-l-rear-terminal-extension-3p-g630-800-a815521c4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-l-rear-terminal-extension-3p-g630-800-a815521c4f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-l-side-terminal-extension-3p-g630-800-0f54423d5d",
+      "name": "L Side Terminal Extension 3P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-l-side-terminal-extension-3p-g630-800-0f54423d5d",
+      "recordPath": "equipment/mfr-schneider-electric-l-side-terminal-extension-3p-g630-800-0f54423d5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-l-side-terminal-extension-3p-g630-800-0f54423d5d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-led-suppressor-for-light-block-with-integral-led-plastic-black-screw-clamp-terminal-23-e26fdb0b84",
+      "name": "LED suppressor for light block with integral LED, plastic, black, screw clamp terminal, 230 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-led-suppressor-for-light-block-with-integral-led-plastic-black-screw-clamp-terminal-23-e26fdb0b84",
+      "recordPath": "equipment/mfr-schneider-electric-led-suppressor-for-light-block-with-integral-led-plastic-black-screw-clamp-terminal-23-e26fdb0b84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-led-suppressor-for-light-block-with-integral-led-plastic-black-screw-clamp-terminal-23-e26fdb0b84.json"
+    },
+    {
+      "id": "mfr-schneider-electric-lxmmcbcas01s100-communication-interconnect-with-sercos-connector-simplified-2d-views-61b0e52b03",
+      "name": "LXMMCBCAS01S100 Communication interconnect with Sercos connector Simplified + 2D views",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-lxmmcbcas01s100-communication-interconnect-with-sercos-connector-simplified-2d-views-61b0e52b03",
+      "recordPath": "equipment/mfr-schneider-electric-lxmmcbcas01s100-communication-interconnect-with-sercos-connector-simplified-2d-views-61b0e52b03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-lxmmcbcas01s100-communication-interconnect-with-sercos-connector-simplified-2d-views-61b0e52b03.json"
+    },
+    {
+      "id": "mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-031e8a1929",
+      "name": "Legends accessories for XALK pushbuttons stations, Legend",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-031e8a1929",
+      "recordPath": "equipment/mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-031e8a1929.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-031e8a1929.json"
+    },
+    {
+      "id": "mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-holder-with-legend-6bdb689035",
+      "name": "Legends accessories for XALK pushbuttons stations, Legend holder with legend",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-holder-with-legend-6bdb689035",
+      "recordPath": "equipment/mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-holder-with-legend-6bdb689035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-legends-accessories-for-xalk-pushbuttons-stations-legend-holder-with-legend-6bdb689035.json"
+    },
+    {
+      "id": "mfr-schneider-electric-light-block-for-head-22-for-ba9s-bulb-250v-screw-clamp-terminal-15ead4c77d",
+      "name": "Light block for head Ø22, for BA9s bulb, <=250V, screw clamp terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-light-block-for-head-22-for-ba9s-bulb-250v-screw-clamp-terminal-15ead4c77d",
+      "recordPath": "equipment/mfr-schneider-electric-light-block-for-head-22-for-ba9s-bulb-250v-screw-clamp-terminal-15ead4c77d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-light-block-for-head-22-for-ba9s-bulb-250v-screw-clamp-terminal-15ead4c77d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-light-block-for-head-22-green-integral-led-mounting-in-back-of-enclosure-screw-clamp-t-1da75cd89d",
+      "name": "Light block for head Ø22, green, integral LED, mounting in back of enclosure, screw clamp terminal, 24 V AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-light-block-for-head-22-green-integral-led-mounting-in-back-of-enclosure-screw-clamp-t-1da75cd89d",
+      "recordPath": "equipment/mfr-schneider-electric-light-block-for-head-22-green-integral-led-mounting-in-back-of-enclosure-screw-clamp-t-1da75cd89d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-light-block-for-head-22-green-integral-led-mounting-in-back-of-enclosure-screw-clamp-t-1da75cd89d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-light-block-for-head-22-white-integral-led-plug-in-connector-24-v-ac-dc-f5641bb775",
+      "name": "Light block for head Ø22, white, integral LED, plug-in connector, 24 V AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-light-block-for-head-22-white-integral-led-plug-in-connector-24-v-ac-dc-f5641bb775",
+      "recordPath": "equipment/mfr-schneider-electric-light-block-for-head-22-white-integral-led-plug-in-connector-24-v-ac-dc-f5641bb775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-light-block-for-head-22-white-integral-led-plug-in-connector-24-v-ac-dc-f5641bb775.json"
+    },
+    {
+      "id": "mfr-schneider-electric-light-block-for-head-22-white-integral-led-spring-clamp-terminal-230-240-v-ac-56fd45fba6",
+      "name": "Light block for head Ø22, white, integral LED, spring clamp terminal, 230…240 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-light-block-for-head-22-white-integral-led-spring-clamp-terminal-230-240-v-ac-56fd45fba6",
+      "recordPath": "equipment/mfr-schneider-electric-light-block-for-head-22-white-integral-led-spring-clamp-terminal-230-240-v-ac-56fd45fba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-light-block-for-head-22-white-integral-led-spring-clamp-terminal-230-240-v-ac-56fd45fba6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-earth-terminal-block-10mm-76a-single-level-1x1-screw-green-yellow-40207f8636",
+      "name": "Linergy earth terminal block - 10mm² 76A single-level 1x1 screw - green-yellow",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-earth-terminal-block-10mm-76a-single-level-1x1-screw-green-yellow-40207f8636",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-earth-terminal-block-10mm-76a-single-level-1x1-screw-green-yellow-40207f8636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-earth-terminal-block-10mm-76a-single-level-1x1-screw-green-yellow-40207f8636.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-earth-terminal-block-16mm-101a-single-level-1x1-screw-green-yellow-82f8944e2f",
+      "name": "Linergy earth terminal block - 16mm² 101A single-level 1x1 screw - green-yellow",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-earth-terminal-block-16mm-101a-single-level-1x1-screw-green-yellow-82f8944e2f",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-earth-terminal-block-16mm-101a-single-level-1x1-screw-green-yellow-82f8944e2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-earth-terminal-block-16mm-101a-single-level-1x1-screw-green-yellow-82f8944e2f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-earth-terminal-block-2-5mm-single-level-1x1-screw-green-yellow-0233a96749",
+      "name": "Linergy earth terminal block - 2.5mm² single-level 1x1 screw - green-yellow",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-earth-terminal-block-2-5mm-single-level-1x1-screw-green-yellow-0233a96749",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-earth-terminal-block-2-5mm-single-level-1x1-screw-green-yellow-0233a96749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-earth-terminal-block-2-5mm-single-level-1x1-screw-green-yellow-0233a96749.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-earth-terminal-block-35mm-125a-single-level-1x1-screw-green-yellow-7540577e9a",
+      "name": "Linergy earth terminal block - 35mm² 125A single-level 1x1 screw - green-yellow",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-earth-terminal-block-35mm-125a-single-level-1x1-screw-green-yellow-7540577e9a",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-earth-terminal-block-35mm-125a-single-level-1x1-screw-green-yellow-7540577e9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-earth-terminal-block-35mm-125a-single-level-1x1-screw-green-yellow-7540577e9a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-earth-terminal-block-4mm-single-level-1x1-screw-green-yellow-3175d5ea16",
+      "name": "Linergy earth terminal block - 4mm² single-level 1x1 screw - green-yellow",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-earth-terminal-block-4mm-single-level-1x1-screw-green-yellow-3175d5ea16",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-earth-terminal-block-4mm-single-level-1x1-screw-green-yellow-3175d5ea16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-earth-terminal-block-4mm-single-level-1x1-screw-green-yellow-3175d5ea16.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-earth-terminal-block-6mm-single-level-1x1-screw-green-yellow-0a54f42563",
+      "name": "Linergy earth terminal block - 6mm² single-level 1x1 screw - green-yellow",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-earth-terminal-block-6mm-single-level-1x1-screw-green-yellow-0a54f42563",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-earth-terminal-block-6mm-single-level-1x1-screw-green-yellow-0a54f42563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-earth-terminal-block-6mm-single-level-1x1-screw-green-yellow-0a54f42563.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-blue-352a339f1e",
+      "name": "Linergy passthrough terminal block - 10mm² 57A single-level 1x1 screw - blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-blue-352a339f1e",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-blue-352a339f1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-blue-352a339f1e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-grey-6d5b488dbc",
+      "name": "Linergy passthrough terminal block - 10mm² 57A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-grey-6d5b488dbc",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-grey-6d5b488dbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-10mm-57a-single-level-1x1-screw-grey-6d5b488dbc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-blue-bdd393100a",
+      "name": "Linergy passthrough terminal block - 16mm² 76A single-level 1x1 screw - blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-blue-bdd393100a",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-blue-bdd393100a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-blue-bdd393100a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-grey-a95cc7fb81",
+      "name": "Linergy passthrough terminal block - 16mm² 76A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-grey-a95cc7fb81",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-grey-a95cc7fb81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-16mm-76a-single-level-1x1-screw-grey-a95cc7fb81.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-blue-f8936f8af9",
+      "name": "Linergy passthrough terminal block - 2.5mm² 24A single-level 1x1 screw - blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-blue-f8936f8af9",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-blue-f8936f8af9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-blue-f8936f8af9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-grey-3793051668",
+      "name": "Linergy passthrough terminal block - 2.5mm² 24A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-grey-3793051668",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-grey-3793051668.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-2-5mm-24a-single-level-1x1-screw-grey-3793051668.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-35mm-125a-single-level-1x1-screw-grey-01793d7d2d",
+      "name": "Linergy passthrough terminal block - 35mm² 125A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-35mm-125a-single-level-1x1-screw-grey-01793d7d2d",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-35mm-125a-single-level-1x1-screw-grey-01793d7d2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-35mm-125a-single-level-1x1-screw-grey-01793d7d2d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-blue-61785dfc86",
+      "name": "Linergy passthrough terminal block - 4mm² 32A single-level 1x1 screw - blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-blue-61785dfc86",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-blue-61785dfc86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-blue-61785dfc86.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-grey-0bb54ce955",
+      "name": "Linergy passthrough terminal block - 4mm² 32A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-grey-0bb54ce955",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-grey-0bb54ce955.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-4mm-32a-single-level-1x1-screw-grey-0bb54ce955.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-blue-6cb5810fa6",
+      "name": "Linergy passthrough terminal block - 50mm² 150A single-level 1x1 screw - blue",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-blue-6cb5810fa6",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-blue-6cb5810fa6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-blue-6cb5810fa6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-grey-4b80b56446",
+      "name": "Linergy passthrough terminal block - 50mm² 150A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-grey-4b80b56446",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-grey-4b80b56446.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-50mm-150a-single-level-1x1-screw-grey-4b80b56446.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-6mm-41a-single-level-1x1-screw-grey-1bd0f1b1d0",
+      "name": "Linergy passthrough terminal block - 6mm² 41A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-6mm-41a-single-level-1x1-screw-grey-1bd0f1b1d0",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-6mm-41a-single-level-1x1-screw-grey-1bd0f1b1d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-6mm-41a-single-level-1x1-screw-grey-1bd0f1b1d0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-linergy-passthrough-terminal-block-70mm-192a-single-level-1x1-screw-grey-b7f7e153e2",
+      "name": "Linergy passthrough terminal block - 70mm² 192A single-level 1x1 screw - grey",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-70mm-192a-single-level-1x1-screw-grey-b7f7e153e2",
+      "recordPath": "equipment/mfr-schneider-electric-linergy-passthrough-terminal-block-70mm-192a-single-level-1x1-screw-grey-b7f7e153e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-passthrough-terminal-block-70mm-192a-single-level-1x1-screw-grey-b7f7e153e2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-local-tesys-mini-vario-vario-china-handle-and-front-plate-for-switch-disconnector-2f6e7043b8",
+      "name": "Local TeSys Mini-Vario, VARIO (China) - Handle and front plate for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-local-tesys-mini-vario-vario-china-handle-and-front-plate-for-switch-disconnector-2f6e7043b8",
+      "recordPath": "equipment/mfr-schneider-electric-local-tesys-mini-vario-vario-china-handle-and-front-plate-for-switch-disconnector-2f6e7043b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-local-tesys-mini-vario-vario-china-handle-and-front-plate-for-switch-disconnector-2f6e7043b8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-lug-connectors-for-tesys-gv4-bv4-3p-51448983fe",
+      "name": "Lug connectors for TeSys GV4/BV4 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-lug-connectors-for-tesys-gv4-bv4-3p-51448983fe",
+      "recordPath": "equipment/mfr-schneider-electric-lug-connectors-for-tesys-gv4-bv4-3p-51448983fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-lug-connectors-for-tesys-gv4-bv4-3p-51448983fe.json"
+    },
+    {
+      "id": "mfr-schneider-electric-m340-fcn-connector-21551e6225",
+      "name": "M340 FCN connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-m340-fcn-connector-21551e6225",
+      "recordPath": "equipment/mfr-schneider-electric-m340-fcn-connector-21551e6225.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-m340-fcn-connector-21551e6225.json"
+    },
+    {
+      "id": "mfr-schneider-electric-modular-test-connector-for-2-5mm-termin-3c9071037e",
+      "name": "MODULAR TEST CONNECTOR FOR 2,5MM² TERMIN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modular-test-connector-for-2-5mm-termin-3c9071037e",
+      "recordPath": "equipment/mfr-schneider-electric-modular-test-connector-for-2-5mm-termin-3c9071037e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modular-test-connector-for-2-5mm-termin-3c9071037e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-modular-test-connector-for-4mm-terminal-b12762514e",
+      "name": "MODULAR TEST CONNECTOR FOR 4MM² TERMINAL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modular-test-connector-for-4mm-terminal-b12762514e",
+      "recordPath": "equipment/mfr-schneider-electric-modular-test-connector-for-4mm-terminal-b12762514e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modular-test-connector-for-4mm-terminal-b12762514e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccd-or-vccf-for-door-mounting-with-red-handle-20be7b05ab",
+      "name": "Main & Emergency stop switch disconnector VCCD or VCCF for door mounting with red handle,12A to 40A, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccd-or-vccf-for-door-mounting-with-red-handle-20be7b05ab",
+      "recordPath": "equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccd-or-vccf-for-door-mounting-with-red-handle-20be7b05ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccd-or-vccf-for-door-mounting-with-red-handle-20be7b05ab.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf3-or-vccf4-for-mounting-at-back-of-an-encl-30bb237fbd",
+      "name": "Main & Emergency stop switch disconnector VCCF3 or VCCF4 for mounting at back of an enclosure with red handle, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf3-or-vccf4-for-mounting-at-back-of-an-encl-30bb237fbd",
+      "recordPath": "equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf3-or-vccf4-for-mounting-at-back-of-an-encl-30bb237fbd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf3-or-vccf4-for-mounting-at-back-of-an-encl-30bb237fbd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf5-or-vccf6-for-door-mounting-with-red-long-c3ff1291a4",
+      "name": "Main & Emergency stop switch disconnector VCCF5 or VCCF6 for door mounting with red long handle, 125A to 175A, 90x90",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf5-or-vccf6-for-door-mounting-with-red-long-c3ff1291a4",
+      "recordPath": "equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf5-or-vccf6-for-door-mounting-with-red-long-c3ff1291a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-emergency-stop-switch-disconnector-vccf5-or-vccf6-for-door-mounting-with-red-long-c3ff1291a4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-emergency-stop-switch-disconnector-mini-vario-vccdn12-or-mini-vario-vccdn20-3-pol-a308b7278c",
+      "name": "Main & Emergency stop switch-disconnector Mini-VARIO VCCDN12 or Mini-VARIO VCCDN20, 3 poles, 12A to 20A, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-mini-vario-vccdn12-or-mini-vario-vccdn20-3-pol-a308b7278c",
+      "recordPath": "equipment/mfr-schneider-electric-main-emergency-stop-switch-disconnector-mini-vario-vccdn12-or-mini-vario-vccdn20-3-pol-a308b7278c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-emergency-stop-switch-disconnector-mini-vario-vccdn12-or-mini-vario-vccdn20-3-pol-a308b7278c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-switch-disconnector-vbdn-or-vcdn-for-door-mounting-12a-20a-red-or-black-handle-60-72a4906e79",
+      "name": "Main switch disconnector VBDN or VCDN for door mounting,12A & 20A, red or black handle, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-switch-disconnector-vbdn-or-vcdn-for-door-mounting-12a-20a-red-or-black-handle-60-72a4906e79",
+      "recordPath": "equipment/mfr-schneider-electric-main-switch-disconnector-vbdn-or-vcdn-for-door-mounting-12a-20a-red-or-black-handle-60-72a4906e79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-switch-disconnector-vbdn-or-vcdn-for-door-mounting-12a-20a-red-or-black-handle-60-72a4906e79.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-switch-disconnector-vbf3-vbf4-vcf3-vcf4-for-door-mounting-63a-to-80a-red-or-black-bc078e373e",
+      "name": "Main switch disconnector VBF3, VBF4, VCF3, VCF4 for door mounting,63A to 80A, red or black handle, 60x60",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-switch-disconnector-vbf3-vbf4-vcf3-vcf4-for-door-mounting-63a-to-80a-red-or-black-bc078e373e",
+      "recordPath": "equipment/mfr-schneider-electric-main-switch-disconnector-vbf3-vbf4-vcf3-vcf4-for-door-mounting-63a-to-80a-red-or-black-bc078e373e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-switch-disconnector-vbf3-vbf4-vcf3-vcf4-for-door-mounting-63a-to-80a-red-or-black-bc078e373e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-switch-disconnector-vbf5-vbf6-vcf5-vcf6-for-door-mounting-with-black-long-handle-1ca92b9aee",
+      "name": "Main switch disconnector VBF5, VBF6, VCF5, VCF6 for door mounting with black long handle,125A to 175A, 90x90, red or black handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-switch-disconnector-vbf5-vbf6-vcf5-vcf6-for-door-mounting-with-black-long-handle-1ca92b9aee",
+      "recordPath": "equipment/mfr-schneider-electric-main-switch-disconnector-vbf5-vbf6-vcf5-vcf6-for-door-mounting-with-black-long-handle-1ca92b9aee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-switch-disconnector-vbf5-vbf6-vcf5-vcf6-for-door-mounting-with-black-long-handle-1ca92b9aee.json"
+    },
+    {
+      "id": "mfr-schneider-electric-main-switch-disconnector-vvd-or-vve-for-mounting-in-an-enclosure-25a-to-80a-45x45-red-089361d6f8",
+      "name": "Main switch disconnector VVD or VVE for mounting in an enclosure,25A to 80A, 45x45, red or black handle",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-main-switch-disconnector-vvd-or-vve-for-mounting-in-an-enclosure-25a-to-80a-45x45-red-089361d6f8",
+      "recordPath": "equipment/mfr-schneider-electric-main-switch-disconnector-vvd-or-vve-for-mounting-in-an-enclosure-25a-to-80a-45x45-red-089361d6f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-main-switch-disconnector-vvd-or-vve-for-mounting-in-an-enclosure-25a-to-80a-45x45-red-089361d6f8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-mains-terminal-extension-plates-for-single-drives-with-ul-certification-fb70ddf34c",
+      "name": "Mains Terminal Extension Plates for Single Drives with UL certification",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-mains-terminal-extension-plates-for-single-drives-with-ul-certification-fb70ddf34c",
+      "recordPath": "equipment/mfr-schneider-electric-mains-terminal-extension-plates-for-single-drives-with-ul-certification-fb70ddf34c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-mains-terminal-extension-plates-for-single-drives-with-ul-certification-fb70ddf34c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-maintaining-clamp-metal-for-all-miniature-relay-socket-10f12082a8",
+      "name": "Maintaining clamp, metal, for all miniature relay socket",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-maintaining-clamp-metal-for-all-miniature-relay-socket-10f12082a8",
+      "recordPath": "equipment/mfr-schneider-electric-maintaining-clamp-metal-for-all-miniature-relay-socket-10f12082a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-maintaining-clamp-metal-for-all-miniature-relay-socket-10f12082a8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-maintaining-clamp-plastic-for-all-sockets-except-rxze14p-set-of-10-f38144eb19",
+      "name": "Maintaining clamp, plastic, for all sockets except RXZE14P, set of 10",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-maintaining-clamp-plastic-for-all-sockets-except-rxze14p-set-of-10-f38144eb19",
+      "recordPath": "equipment/mfr-schneider-electric-maintaining-clamp-plastic-for-all-sockets-except-rxze14p-set-of-10-f38144eb19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-maintaining-clamp-plastic-for-all-sockets-except-rxze14p-set-of-10-f38144eb19.json"
+    },
+    {
+      "id": "mfr-schneider-electric-maintaining-clamp-plastic-for-interface-relay-socket-rsz-919711f431",
+      "name": "Maintaining clamp, plastic, for interface relay socket RSZ",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-maintaining-clamp-plastic-for-interface-relay-socket-rsz-919711f431",
+      "recordPath": "equipment/mfr-schneider-electric-maintaining-clamp-plastic-for-interface-relay-socket-rsz-919711f431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-maintaining-clamp-plastic-for-interface-relay-socket-rsz-919711f431.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-cable-lug-adapters-set-of-4-for-masterpact-mtz1-4p-spare-part-934ba142bf",
+      "name": "Masterpact MTZ - Cable lug adapters - set of 4 - for Masterpact MTZ1 - 4P spare part",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-cable-lug-adapters-set-of-4-for-masterpact-mtz1-4p-spare-part-934ba142bf",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-cable-lug-adapters-set-of-4-for-masterpact-mtz1-4p-spare-part-934ba142bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-cable-lug-adapters-set-of-4-for-masterpact-mtz1-4p-spare-part-934ba142bf.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-drawout-878dbc2c21",
+      "name": "Masterpact MTZ - Switch-disconnector Masterpact MTZ1 06...16 HA - 3P drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-drawout-878dbc2c21",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-drawout-878dbc2c21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-drawout-878dbc2c21.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-fixed-9f0348b239",
+      "name": "Masterpact MTZ - Switch-disconnector Masterpact MTZ1 06...16 HA - 3P fixed",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-fixed-9f0348b239",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-fixed-9f0348b239.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-3p-fixed-9f0348b239.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-4p-drawout-df38b4ab08",
+      "name": "Masterpact MTZ - Switch-disconnector Masterpact MTZ1 06...16 HA - 4P drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-4p-drawout-df38b4ab08",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-4p-drawout-df38b4ab08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz1-06-16-ha-4p-drawout-df38b4ab08.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-drawout-091b1ef3b7",
+      "name": "Masterpact MTZ - Switch-disconnector Masterpact MTZ2 08...40 NA - 3P drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-drawout-091b1ef3b7",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-drawout-091b1ef3b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-drawout-091b1ef3b7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-fixed-42f21e0e68",
+      "name": "Masterpact MTZ - Switch-disconnector Masterpact MTZ2 08...40 NA - 3P fixed",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-fixed-42f21e0e68",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-fixed-42f21e0e68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-switch-disconnector-masterpact-mtz2-08-40-na-3p-fixed-42f21e0e68.json"
+    }
+  ]
+}

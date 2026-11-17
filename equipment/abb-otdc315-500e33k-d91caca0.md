@@ -26,7 +26,7 @@ Original DXF drawing for OTDC315...500E33K; ABB document 1SCC307417F0001
 - Manufacturer drawing: 1SCC307417F0001
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307417F0001.dxf for OTDC315...500E33K. DXF is the supplied drawing forma
 
 ## Preview
 
-![ABB OTDC315...500E33K: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc315-500e33k-d91caca0/original?asset=57a756655de3705f215064f72b9b21ba2891e1ebc96fb3358de3ecb55fc464b6)
+![ABB OTDC315...500E33K: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc315-500e33k-d91caca0/original?asset=57a756655de3705f215064f72b9b21ba2891e1ebc96fb3358de3ecb55fc464b6&view=thumb&v=59aea7b28ab4f07d)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc315-500e33k-d91caca0). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

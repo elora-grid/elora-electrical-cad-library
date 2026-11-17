@@ -8,7 +8,7 @@ ABB OT125MLE4: switching-equipment reference for switch installation and operati
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307749F0001; OT125MLE4.STP
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “OT125MLE4”. Keep those frame, mounting and ac
 - Manufacturer drawing: 1SCC307749F0001; OT125MLE4.STP
 - Manufacturer reference: 1SCC307749F0001; OT125MLE4.STP
 - Document revision: A
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Standards: IEC 60947-3
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,6 +98,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307749F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 6399872 bytes
 - Delivery SHA-256: ec4b0cc6b6b43ff14049bbbe9c6d0397936020f4e69b5294ea5d4d993da1dd37
+
+### OT125MLE4\_1SCC307749F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (OT125MLE4\_1SCC307749F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307749F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot125mle4-e67debdf99/ec4b0cc6b6b43ff14049-dxf)
+- Redistribution: unknown
+- Original SHA-256: ec4b0cc6b6b43ff14049bbbe9c6d0397936020f4e69b5294ea5d4d993da1dd37
+- Original bytes: 6399872
+- Revision: A
+- Retrieved: 2026-11-04T01:09:02Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307749F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307749F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 42269346 bytes
+- Delivery SHA-256: ee66581f989f05c41e9282b0eaf558b3528120edd167931d8622d06f18c70670
 
 ### OT125MLE4.stp
 

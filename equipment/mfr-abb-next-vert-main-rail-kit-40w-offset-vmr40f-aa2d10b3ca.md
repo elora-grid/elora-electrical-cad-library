@@ -1,0 +1,118 @@
+# ABB — neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F
+
+ABB neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F: original STEP for switchboard enclosure or mounting hardware layouts. CAD model.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-vert-main-rail-kit-40w-offset-vmr40f-aa2d10b3ca) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-vert-main-rail-kit-40w-offset-vmr40f-aa2d10b3ca.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-vert-main-rail-kit-40w-offset-vmr40f-aa2d10b3ca.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+CAD model
+
+## Equipment and file summary
+
+- Equipment / resource: neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: CAD model
+- Manufacturer drawing identity: neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F
+- Source document: 1SQC900810D0201; revision A
+- Source-model envelope: 939.8 × 298.4 × 21.3 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: CAD model ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SQC900810D0201; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 939.8 × 298.4 × 21.3 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+1SQC900810D0201.zip (revision A) is the original ABB archive. Open VMR40F.stp inside it to place the original solid geometry in your 3D assembly.
+
+1SQC900810D0201.zip (revision A) is the original ABB archive. Open VMR40F.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: CAD model
+- The supplied model has approximate X × Y × Z bounds of 939.8 × 298.4 × 21.3 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC900810D0201.zip — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F?
+
+1 inspected original for ABB neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F: 1SQC900810D0201.zip (ZIP). The manufacturer describes this configuration as CAD model.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+1SQC900810D0201.zip (revision A) is the original ABB archive. Open VMR40F.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB neXT VERT MAIN RAIL KIT 40W OFFSET - VMR40F: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-next-vert-main-rail-kit-40w-offset-vmr40f-aa2d10b3ca/abb-427335bafaa6be25a206?asset=a9068012ea4ee061d56c8a2b88c540c620ec5133ee9496461b8323034107097b&view=thumb&v=9b8a691b2b2c78b9)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-vert-main-rail-kit-40w-offset-vmr40f-aa2d10b3ca). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC900810D0201.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-next-vert-main-rail-kit-40w-offset-vmr40f-aa2d10b3ca/abb-427335bafaa6be25a206)
+- Redistribution: unknown
+- Original SHA-256: d28ec1edb2a4ad9f8e7dd522bd1ece5e0fee4eebdc81f3cbbe1eb600eec55260
+- Original bytes: 55575
+- Revision: A
+- Retrieved: 2026-11-11T05:32:38.588147+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900810D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; ZIP; 55575 bytes
+- Delivery SHA-256: d28ec1edb2a4ad9f8e7dd522bd1ece5e0fee4eebdc81f3cbbe1eb600eec55260
+
+<details>
+<summary>Archive members</summary>
+
+- VMR40F.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

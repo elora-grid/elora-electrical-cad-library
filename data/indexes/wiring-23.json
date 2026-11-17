@@ -1,0 +1,2987 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 23,
+  "entries": [
+    {
+      "id": "eaton-article-189666",
+      "name": "NZMH4-4-PX630/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189666",
+      "recordPath": "equipment/eaton-article-189666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189666.json"
+    },
+    {
+      "id": "eaton-article-189626",
+      "name": "NZMH4-PX630-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189626",
+      "recordPath": "equipment/eaton-article-189626.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189626.json"
+    },
+    {
+      "id": "eaton-article-189675",
+      "name": "NZMN4-4-PX1600/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189675",
+      "recordPath": "equipment/eaton-article-189675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189675.json"
+    },
+    {
+      "id": "eaton-article-189677",
+      "name": "NZMH4-4-PX800/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189677",
+      "recordPath": "equipment/eaton-article-189677.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189677.json"
+    },
+    {
+      "id": "eaton-article-189650",
+      "name": "NZMH4-4-PX1600/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189650",
+      "recordPath": "equipment/eaton-article-189650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189650.json"
+    },
+    {
+      "id": "eaton-article-189664",
+      "name": "NZMN4-4-PX1250/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189664",
+      "recordPath": "equipment/eaton-article-189664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189664.json"
+    },
+    {
+      "id": "eaton-article-189641",
+      "name": "NZMN4-4-PX630/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189641",
+      "recordPath": "equipment/eaton-article-189641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189641.json"
+    },
+    {
+      "id": "eaton-article-189665",
+      "name": "NZMN4-4-PX1600/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189665",
+      "recordPath": "equipment/eaton-article-189665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189665.json"
+    },
+    {
+      "id": "eaton-article-189632",
+      "name": "NZMN4-PX800-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189632",
+      "recordPath": "equipment/eaton-article-189632.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189632.json"
+    },
+    {
+      "id": "eaton-article-189638",
+      "name": "NZMH4-PX1000-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189638",
+      "recordPath": "equipment/eaton-article-189638.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189638.json"
+    },
+    {
+      "id": "eaton-article-189633",
+      "name": "NZMN4-PX1000-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1,1000A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189633",
+      "recordPath": "equipment/eaton-article-189633.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189633.json"
+    },
+    {
+      "id": "eaton-article-189647",
+      "name": "NZMH4-4-PX800/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189647",
+      "recordPath": "equipment/eaton-article-189647.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189647.json"
+    },
+    {
+      "id": "eaton-article-189628",
+      "name": "NZMH4-PX1000-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189628",
+      "recordPath": "equipment/eaton-article-189628.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189628.json"
+    },
+    {
+      "id": "eaton-article-189672",
+      "name": "NZMN4-4-PX800/VAR-TAZ-AVE — NZM3 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189672",
+      "recordPath": "equipment/eaton-article-189672.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189672.json"
+    },
+    {
+      "id": "eaton-article-189652",
+      "name": "NZMN4-4-PX800/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189652",
+      "recordPath": "equipment/eaton-article-189652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189652.json"
+    },
+    {
+      "id": "eaton-article-189621",
+      "name": "NZMN4-PX630-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189621",
+      "recordPath": "equipment/eaton-article-189621.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189621.json"
+    },
+    {
+      "id": "eaton-article-189624",
+      "name": "NZMN4-PX1250-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189624",
+      "recordPath": "equipment/eaton-article-189624.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189624.json"
+    },
+    {
+      "id": "eaton-article-189604",
+      "name": "NZMN4-PX1250 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189604",
+      "recordPath": "equipment/eaton-article-189604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189604.json"
+    },
+    {
+      "id": "eaton-article-189627",
+      "name": "NZMH4-PX800-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189627",
+      "recordPath": "equipment/eaton-article-189627.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189627.json"
+    },
+    {
+      "id": "eaton-article-189602",
+      "name": "NZMN4-PX800 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189602",
+      "recordPath": "equipment/eaton-article-189602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189602.json"
+    },
+    {
+      "id": "eaton-article-189642",
+      "name": "NZMN4-4-PX800/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189642",
+      "recordPath": "equipment/eaton-article-189642.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189642.json"
+    },
+    {
+      "id": "eaton-article-189670",
+      "name": "NZMH4-4-PX1600/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189670",
+      "recordPath": "equipment/eaton-article-189670.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189670.json"
+    },
+    {
+      "id": "eaton-article-189625",
+      "name": "NZMN4-PX1600-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189625",
+      "recordPath": "equipment/eaton-article-189625.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189625.json"
+    },
+    {
+      "id": "eaton-article-189658",
+      "name": "NZMH4-4-PX1000/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189658",
+      "recordPath": "equipment/eaton-article-189658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189658.json"
+    },
+    {
+      "id": "eaton-article-189646",
+      "name": "NZMH4-4-PX630/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189646",
+      "recordPath": "equipment/eaton-article-189646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189646.json"
+    },
+    {
+      "id": "eaton-article-189657",
+      "name": "NZMH4-4-PX800/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189657",
+      "recordPath": "equipment/eaton-article-189657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189657.json"
+    },
+    {
+      "id": "eaton-article-189648",
+      "name": "NZMH4-4-PX1000/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189648",
+      "recordPath": "equipment/eaton-article-189648.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189648.json"
+    },
+    {
+      "id": "eaton-article-189605",
+      "name": "NZMN4-PX1600 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189605",
+      "recordPath": "equipment/eaton-article-189605.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189605.json"
+    },
+    {
+      "id": "eaton-article-189608",
+      "name": "NZMH4-PX1000 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189608",
+      "recordPath": "equipment/eaton-article-189608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189608.json"
+    },
+    {
+      "id": "eaton-article-189640",
+      "name": "NZMH4-PX1600-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189640",
+      "recordPath": "equipment/eaton-article-189640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189640.json"
+    },
+    {
+      "id": "eaton-article-189710",
+      "name": "NZMH2-PX160-S1 — NZM2 PXR25 circuit breaker - integrated energy measurement class 1, 160A, 3p, Screw terminal, 1000VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189710",
+      "recordPath": "equipment/eaton-article-189710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189710.json"
+    },
+    {
+      "id": "eaton-article-189679",
+      "name": "NZMH4-4-PX1250/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189679",
+      "recordPath": "equipment/eaton-article-189679.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189679.json"
+    },
+    {
+      "id": "eaton-article-189606",
+      "name": "NZMH4-PX630 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189606",
+      "recordPath": "equipment/eaton-article-189606.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189606.json"
+    },
+    {
+      "id": "eaton-article-189634",
+      "name": "NZMN4-PX1250-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189634",
+      "recordPath": "equipment/eaton-article-189634.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189634.json"
+    },
+    {
+      "id": "eaton-article-189654",
+      "name": "NZMN4-4-PX1250/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189654",
+      "recordPath": "equipment/eaton-article-189654.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189654.json"
+    },
+    {
+      "id": "eaton-article-189662",
+      "name": "NZMN4-4-PX800/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189662",
+      "recordPath": "equipment/eaton-article-189662.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189662.json"
+    },
+    {
+      "id": "eaton-article-189615",
+      "name": "NZMN4-PX1600-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189615",
+      "recordPath": "equipment/eaton-article-189615.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189615.json"
+    },
+    {
+      "id": "eaton-article-189607",
+      "name": "NZMH4-PX800 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189607",
+      "recordPath": "equipment/eaton-article-189607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189607.json"
+    },
+    {
+      "id": "eaton-article-189667",
+      "name": "NZMH4-4-PX800/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189667",
+      "recordPath": "equipment/eaton-article-189667.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189667.json"
+    },
+    {
+      "id": "eaton-article-189612",
+      "name": "NZMN4-PX800-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189612",
+      "recordPath": "equipment/eaton-article-189612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189612.json"
+    },
+    {
+      "id": "eaton-article-189622",
+      "name": "NZMN4-PX800-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189622",
+      "recordPath": "equipment/eaton-article-189622.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189622.json"
+    },
+    {
+      "id": "eaton-article-189636",
+      "name": "NZMH4-PX630-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189636",
+      "recordPath": "equipment/eaton-article-189636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189636.json"
+    },
+    {
+      "id": "eaton-article-189630",
+      "name": "NZMH4-PX1600-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189630",
+      "recordPath": "equipment/eaton-article-189630.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189630.json"
+    },
+    {
+      "id": "eaton-article-189660",
+      "name": "NZMH4-4-PX1600/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189660",
+      "recordPath": "equipment/eaton-article-189660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189660.json"
+    },
+    {
+      "id": "eaton-article-189676",
+      "name": "NZMH4-4-PX630/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189676",
+      "recordPath": "equipment/eaton-article-189676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189676.json"
+    },
+    {
+      "id": "eaton-article-189639",
+      "name": "NZMH4-PX1250-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189639",
+      "recordPath": "equipment/eaton-article-189639.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189639.json"
+    },
+    {
+      "id": "eaton-article-189601",
+      "name": "NZMN4-PX630 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189601",
+      "recordPath": "equipment/eaton-article-189601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189601.json"
+    },
+    {
+      "id": "eaton-article-189669",
+      "name": "NZMH4-4-PX1250/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189669",
+      "recordPath": "equipment/eaton-article-189669.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189669.json"
+    },
+    {
+      "id": "eaton-article-189611",
+      "name": "NZMN4-PX630-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189611",
+      "recordPath": "equipment/eaton-article-189611.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189611.json"
+    },
+    {
+      "id": "eaton-article-189656",
+      "name": "NZMH4-4-PX630/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189656",
+      "recordPath": "equipment/eaton-article-189656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189656.json"
+    },
+    {
+      "id": "eaton-article-189629",
+      "name": "NZMH4-PX1250-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189629",
+      "recordPath": "equipment/eaton-article-189629.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189629.json"
+    },
+    {
+      "id": "eaton-article-189619",
+      "name": "NZMH4-PX1250-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189619",
+      "recordPath": "equipment/eaton-article-189619.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189619.json"
+    },
+    {
+      "id": "eaton-article-189678",
+      "name": "NZMH4-4-PX1000/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189678",
+      "recordPath": "equipment/eaton-article-189678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189678.json"
+    },
+    {
+      "id": "eaton-article-189709",
+      "name": "NZMH2-PX100-S1 — NZM2 PXR25 circuit breaker - integrated energy measurement class 1, 100A, 3p, Screw terminal, 1000VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189709",
+      "recordPath": "equipment/eaton-article-189709.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189709.json"
+    },
+    {
+      "id": "eaton-article-189663",
+      "name": "NZMN4-4-PX1000/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189663",
+      "recordPath": "equipment/eaton-article-189663.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189663.json"
+    },
+    {
+      "id": "eaton-article-189618",
+      "name": "NZMH4-PX1000-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189618",
+      "recordPath": "equipment/eaton-article-189618.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189618.json"
+    },
+    {
+      "id": "eaton-article-189671",
+      "name": "NZMN4-4-PX630/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189671",
+      "recordPath": "equipment/eaton-article-189671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189671.json"
+    },
+    {
+      "id": "eaton-article-189655",
+      "name": "NZMN4-4-PX1600/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189655",
+      "recordPath": "equipment/eaton-article-189655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189655.json"
+    },
+    {
+      "id": "eaton-article-189610",
+      "name": "NZMH4-PX1600 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189610",
+      "recordPath": "equipment/eaton-article-189610.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189610.json"
+    },
+    {
+      "id": "eaton-article-189643",
+      "name": "NZMN4-4-PX1000/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189643",
+      "recordPath": "equipment/eaton-article-189643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189643.json"
+    },
+    {
+      "id": "eaton-article-189668",
+      "name": "NZMH4-4-PX1000/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189668",
+      "recordPath": "equipment/eaton-article-189668.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189668.json"
+    },
+    {
+      "id": "eaton-article-189674",
+      "name": "NZMN4-4-PX1250/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189674",
+      "recordPath": "equipment/eaton-article-189674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189674.json"
+    },
+    {
+      "id": "eaton-article-189620",
+      "name": "NZMH4-PX1600-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189620",
+      "recordPath": "equipment/eaton-article-189620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189620.json"
+    },
+    {
+      "id": "eaton-article-189649",
+      "name": "NZMH4-4-PX1250/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189649",
+      "recordPath": "equipment/eaton-article-189649.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189649.json"
+    },
+    {
+      "id": "eaton-article-189609",
+      "name": "NZMH4-PX1250 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189609",
+      "recordPath": "equipment/eaton-article-189609.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189609.json"
+    },
+    {
+      "id": "eaton-article-189661",
+      "name": "NZMN4-4-PX630/VAR-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189661",
+      "recordPath": "equipment/eaton-article-189661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189661.json"
+    },
+    {
+      "id": "eaton-article-189673",
+      "name": "NZMN4-4-PX1000/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189673",
+      "recordPath": "equipment/eaton-article-189673.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189673.json"
+    },
+    {
+      "id": "eaton-article-189616",
+      "name": "NZMH4-PX630-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189616",
+      "recordPath": "equipment/eaton-article-189616.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189616.json"
+    },
+    {
+      "id": "eaton-article-189645",
+      "name": "NZMN4-4-PX1600/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189645",
+      "recordPath": "equipment/eaton-article-189645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189645.json"
+    },
+    {
+      "id": "eaton-article-189623",
+      "name": "NZMN4-PX1000-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189623",
+      "recordPath": "equipment/eaton-article-189623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189623.json"
+    },
+    {
+      "id": "eaton-article-189617",
+      "name": "NZMH4-PX800-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189617",
+      "recordPath": "equipment/eaton-article-189617.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189617.json"
+    },
+    {
+      "id": "eaton-article-189614",
+      "name": "NZMN4-PX1250-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189614",
+      "recordPath": "equipment/eaton-article-189614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189614.json"
+    },
+    {
+      "id": "eaton-article-189637",
+      "name": "NZMH4-PX800-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 800A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189637",
+      "recordPath": "equipment/eaton-article-189637.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189637.json"
+    },
+    {
+      "id": "eaton-article-189651",
+      "name": "NZMN4-4-PX630/VAR-TAZ — NZM3 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189651",
+      "recordPath": "equipment/eaton-article-189651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189651.json"
+    },
+    {
+      "id": "eaton-article-189631",
+      "name": "NZMN4-PX630-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 630A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189631",
+      "recordPath": "equipment/eaton-article-189631.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189631.json"
+    },
+    {
+      "id": "eaton-article-189680",
+      "name": "NZMH4-4-PX1600/VAR-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity, withdrawable unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189680",
+      "recordPath": "equipment/eaton-article-189680.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189680.json"
+    },
+    {
+      "id": "eaton-article-189659",
+      "name": "NZMH4-4-PX1250/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189659",
+      "recordPath": "equipment/eaton-article-189659.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189659.json"
+    },
+    {
+      "id": "eaton-article-189712",
+      "name": "NZMH3-PX400-S1 — NZM3 PXR25 circuit breaker - integrated energy measurement class 1, 400A, 3p, Screw terminal, 1000VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189712",
+      "recordPath": "equipment/eaton-article-189712.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189712.json"
+    },
+    {
+      "id": "eaton-article-189644",
+      "name": "NZMN4-4-PX1250/VAR — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1250A, 4p, variable, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189644",
+      "recordPath": "equipment/eaton-article-189644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189644.json"
+    },
+    {
+      "id": "eaton-article-189603",
+      "name": "NZMN4-PX1000 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189603",
+      "recordPath": "equipment/eaton-article-189603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189603.json"
+    },
+    {
+      "id": "eaton-article-189711",
+      "name": "NZMH2-PX250-S1 — NZM2 PXR25 circuit breaker - integrated energy measurement class 1, 250A, 3p, Screw terminal, 1000VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189711",
+      "recordPath": "equipment/eaton-article-189711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189711.json"
+    },
+    {
+      "id": "eaton-article-189653",
+      "name": "NZMN4-4-PX1000/VAR-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 4p, variable, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189653",
+      "recordPath": "equipment/eaton-article-189653.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189653.json"
+    },
+    {
+      "id": "eaton-article-189613",
+      "name": "NZMN4-PX1000-TAZ — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1000A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189613",
+      "recordPath": "equipment/eaton-article-189613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189613.json"
+    },
+    {
+      "id": "eaton-article-189635",
+      "name": "NZMN4-PX1600-TAZ-AVE — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1600A, 3p, Screw terminal, earth-fault protection, ARMS and zone selectivity",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189635",
+      "recordPath": "equipment/eaton-article-189635.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189635.json"
+    },
+    {
+      "id": "eaton-article-010112",
+      "name": "22DILEM — Auxiliary contact module, 4 pole, 2 N/O, 2 NC, Front fixing, Screw terminals, DILE(E)M",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010112",
+      "recordPath": "equipment/eaton-article-010112.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010112.json"
+    },
+    {
+      "id": "eaton-article-010256",
+      "name": "04DILE — Auxiliary contact module, 4 pole, 4 NC, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010256",
+      "recordPath": "equipment/eaton-article-010256.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010256.json"
+    },
+    {
+      "id": "eaton-article-010304",
+      "name": "40DILE — Auxiliary contact module, 4 pole, 4 N/O, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010304",
+      "recordPath": "equipment/eaton-article-010304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010304.json"
+    },
+    {
+      "id": "eaton-article-010224",
+      "name": "11DILE — Auxiliary contact module, 2 pole, 1 N/O, 1 NC, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010224",
+      "recordPath": "equipment/eaton-article-010224.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010224.json"
+    },
+    {
+      "id": "eaton-article-010288",
+      "name": "22DILE — Auxiliary contact module, 4 pole, 2 N/O, 2 NC, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010288",
+      "recordPath": "equipment/eaton-article-010288.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010288.json"
+    },
+    {
+      "id": "eaton-article-010208",
+      "name": "20DILE — Auxiliary contact module, 2 pole, 2 N/O, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010208",
+      "recordPath": "equipment/eaton-article-010208.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010208.json"
+    },
+    {
+      "id": "eaton-article-010064",
+      "name": "02DILEM — Auxiliary contact module, 2 pole, 2 NC, Front fixing, Screw terminals, DILE(E)M",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010064",
+      "recordPath": "equipment/eaton-article-010064.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010064.json"
+    },
+    {
+      "id": "eaton-article-010080",
+      "name": "11DILEM — Auxiliary contact module, 1 N/O, 1 NC, Front fixing, Screw terminals, DILE(E)M",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010080",
+      "recordPath": "equipment/eaton-article-010080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010080.json"
+    },
+    {
+      "id": "eaton-article-010240",
+      "name": "02DILE — Auxiliary contact module, 2 pole, 2 NC, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-010240",
+      "recordPath": "equipment/eaton-article-010240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-010240.json"
+    },
+    {
+      "id": "eaton-article-107791",
+      "name": "NZMN2-A80-BT-NA — Circuit-breaker, 3p, 80A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107791",
+      "recordPath": "equipment/eaton-article-107791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107791.json"
+    },
+    {
+      "id": "eaton-article-107652",
+      "name": "NZMB2-S2,4-BT-CNA — Circuit-breaker, 3p, 2.4A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107652",
+      "recordPath": "equipment/eaton-article-107652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107652.json"
+    },
+    {
+      "id": "eaton-article-107651",
+      "name": "NZMB2-S1,6-BT-CNA — Circuit-breaker, 3p, 1.6A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107651",
+      "recordPath": "equipment/eaton-article-107651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107651.json"
+    },
+    {
+      "id": "eaton-article-107898",
+      "name": "M22-CK20 — Contact element, Cage Clamp, Front fixing, 2 N/O, 24 V 3 A, 220 V 230 V 240 V 4 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107898",
+      "recordPath": "equipment/eaton-article-107898.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107898.json"
+    },
+    {
+      "id": "eaton-article-107899",
+      "name": "M22-CK02 — Contact element, Cage Clamp, Front fixing, 2 NC, 24 V 3 A, 220 V 230 V 240 V 4 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107899",
+      "recordPath": "equipment/eaton-article-107899.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107899.json"
+    },
+    {
+      "id": "eaton-article-107940",
+      "name": "M22-CK11 — Contact element, Cage Clamp, Front fixing, 1 N/O, 1 NC, 24 V 3 A, 220 V 230 V 240 V 4 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107940",
+      "recordPath": "equipment/eaton-article-107940.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107940.json"
+    },
+    {
+      "id": "eaton-article-107826",
+      "name": "NZMH2-AF200-BT-NA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107826",
+      "recordPath": "equipment/eaton-article-107826.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107826.json"
+    },
+    {
+      "id": "eaton-article-107845",
+      "name": "NZMN2-VE250-BT-NA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107845",
+      "recordPath": "equipment/eaton-article-107845.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107845.json"
+    },
+    {
+      "id": "eaton-article-107806",
+      "name": "NZMH2-A160-BT-NA — Circuit-breaker, 3p, 160A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107806",
+      "recordPath": "equipment/eaton-article-107806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107806.json"
+    },
+    {
+      "id": "eaton-article-107795",
+      "name": "NZMN2-A200-BT-NA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107795",
+      "recordPath": "equipment/eaton-article-107795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107795.json"
+    },
+    {
+      "id": "eaton-article-107807",
+      "name": "NZMH2-A200-BT-NA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107807",
+      "recordPath": "equipment/eaton-article-107807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107807.json"
+    },
+    {
+      "id": "eaton-article-107781",
+      "name": "NZMB2-A125-BT-NA — Circuit-breaker, 3p, 125A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107781",
+      "recordPath": "equipment/eaton-article-107781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107781.json"
+    },
+    {
+      "id": "eaton-article-107782",
+      "name": "NZMB2-A160-BT-NA — Circuit-breaker, 3p, 160A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107782",
+      "recordPath": "equipment/eaton-article-107782.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107782.json"
+    },
+    {
+      "id": "eaton-article-107802",
+      "name": "NZMH2-A63-BT-NA — Circuit-breaker, 3p, 63A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107802",
+      "recordPath": "equipment/eaton-article-107802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107802.json"
+    },
+    {
+      "id": "eaton-article-107801",
+      "name": "NZMH2-A50-BT-NA — Circuit-breaker, 3p, 50A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107801",
+      "recordPath": "equipment/eaton-article-107801.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107801.json"
+    },
+    {
+      "id": "eaton-article-107827",
+      "name": "NZMH2-AF225-BT-NA — Circuit-breaker, 3p, 225A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107827",
+      "recordPath": "equipment/eaton-article-107827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107827.json"
+    },
+    {
+      "id": "eaton-article-107789",
+      "name": "NZMN2-A50-BT-NA — Circuit-breaker, 3p, 50A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107789",
+      "recordPath": "equipment/eaton-article-107789.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107789.json"
+    },
+    {
+      "id": "eaton-article-107773",
+      "name": "NZMB2-A20-BT-NA — Circuit-breaker, 3p, 20A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107773",
+      "recordPath": "equipment/eaton-article-107773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107773.json"
+    },
+    {
+      "id": "eaton-article-107633",
+      "name": "NZMN2-AF25-BT-NA — Circuit-breaker, 3p, 25A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107633",
+      "recordPath": "equipment/eaton-article-107633.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107633.json"
+    },
+    {
+      "id": "eaton-article-107638",
+      "name": "NZMN2-AF50-BT-NA — Circuit-breaker, 3p, 50A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107638",
+      "recordPath": "equipment/eaton-article-107638.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107638.json"
+    },
+    {
+      "id": "eaton-article-107654",
+      "name": "NZMB2-S8-BT-CNA — Circuit-breaker, 3p, 8A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107654",
+      "recordPath": "equipment/eaton-article-107654.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107654.json"
+    },
+    {
+      "id": "eaton-article-107648",
+      "name": "NZMN2-AF200-BT-NA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107648",
+      "recordPath": "equipment/eaton-article-107648.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107648.json"
+    },
+    {
+      "id": "eaton-article-107799",
+      "name": "NZMH2-A32-BT-NA — Circuit-breaker, 3p, 32A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107799",
+      "recordPath": "equipment/eaton-article-107799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107799.json"
+    },
+    {
+      "id": "eaton-article-107815",
+      "name": "NZMH2-AF45-BT-NA — Circuit-breaker, 3p, 45A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107815",
+      "recordPath": "equipment/eaton-article-107815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107815.json"
+    },
+    {
+      "id": "eaton-article-107786",
+      "name": "NZMN2-A25-BT-NA — Circuit-breaker, 3p, 25A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107786",
+      "recordPath": "equipment/eaton-article-107786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107786.json"
+    },
+    {
+      "id": "eaton-article-107659",
+      "name": "NZMB2-S40-BT-CNA — Circuit-breaker, 3p, 40A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107659",
+      "recordPath": "equipment/eaton-article-107659.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107659.json"
+    },
+    {
+      "id": "eaton-article-107640",
+      "name": "NZMN2-AF70-BT-NA — Circuit-breaker, 3p, 70A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107640",
+      "recordPath": "equipment/eaton-article-107640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107640.json"
+    },
+    {
+      "id": "eaton-article-107783",
+      "name": "NZMB2-A200-BT-NA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107783",
+      "recordPath": "equipment/eaton-article-107783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107783.json"
+    },
+    {
+      "id": "eaton-article-107658",
+      "name": "NZMB2-S33-BT-CNA — Circuit-breaker, 3p, 33A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107658",
+      "recordPath": "equipment/eaton-article-107658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107658.json"
+    },
+    {
+      "id": "eaton-article-107810",
+      "name": "NZMH2-AF20-BT-NA — Circuit-breaker, 3p, 20A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107810",
+      "recordPath": "equipment/eaton-article-107810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107810.json"
+    },
+    {
+      "id": "eaton-article-107777",
+      "name": "NZMB2-A50-BT-NA — Circuit-breaker, 3p, 50A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107777",
+      "recordPath": "equipment/eaton-article-107777.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107777.json"
+    },
+    {
+      "id": "eaton-article-107823",
+      "name": "NZMH2-AF125-BT-NA — Circuit-breaker, 3p, 125A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107823",
+      "recordPath": "equipment/eaton-article-107823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107823.json"
+    },
+    {
+      "id": "eaton-article-107641",
+      "name": "NZMN2-AF80-BT-NA — Circuit-breaker, 3p, 80A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107641",
+      "recordPath": "equipment/eaton-article-107641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107641.json"
+    },
+    {
+      "id": "eaton-article-107662",
+      "name": "NZMB2-S80-BT-CNA — Circuit-breaker, 3p, 80A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107662",
+      "recordPath": "equipment/eaton-article-107662.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107662.json"
+    },
+    {
+      "id": "eaton-article-107814",
+      "name": "NZMH2-AF40-BT-NA — Circuit-breaker, 3p, 40A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107814",
+      "recordPath": "equipment/eaton-article-107814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107814.json"
+    },
+    {
+      "id": "eaton-article-107779",
+      "name": "NZMB2-A80-BT-NA — Circuit-breaker, 3p, 80A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107779",
+      "recordPath": "equipment/eaton-article-107779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107779.json"
+    },
+    {
+      "id": "eaton-article-107632",
+      "name": "NZMN2-AF20-BT-NA — Circuit-breaker, 3p, 20A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107632",
+      "recordPath": "equipment/eaton-article-107632.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107632.json"
+    },
+    {
+      "id": "eaton-article-107800",
+      "name": "NZMH2-A40-BT-NA — Circuit-breaker, 3p, 40A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107800",
+      "recordPath": "equipment/eaton-article-107800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107800.json"
+    },
+    {
+      "id": "eaton-article-107804",
+      "name": "NZMH2-A100-BT-NA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107804",
+      "recordPath": "equipment/eaton-article-107804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107804.json"
+    },
+    {
+      "id": "eaton-article-107655",
+      "name": "NZMB2-S12-BT-CNA — Circuit-breaker, 3p, 12A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107655",
+      "recordPath": "equipment/eaton-article-107655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107655.json"
+    },
+    {
+      "id": "eaton-article-107649",
+      "name": "NZMN2-AF225-BT-NA — Circuit-breaker, 3p, 225A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107649",
+      "recordPath": "equipment/eaton-article-107649.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107649.json"
+    },
+    {
+      "id": "eaton-article-107797",
+      "name": "NZMH2-A20-BT-NA — Circuit-breaker, 3p, 20A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107797",
+      "recordPath": "equipment/eaton-article-107797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107797.json"
+    },
+    {
+      "id": "eaton-article-107825",
+      "name": "NZMH2-AF175-BT-NA — Circuit-breaker, 3p, 175A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107825",
+      "recordPath": "equipment/eaton-article-107825.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107825.json"
+    },
+    {
+      "id": "eaton-article-107812",
+      "name": "NZMH2-AF30-BT-NA — Circuit-breaker, 3p, 30A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107812",
+      "recordPath": "equipment/eaton-article-107812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107812.json"
+    },
+    {
+      "id": "eaton-article-107646",
+      "name": "NZMN2-AF150-BT-NA — Circuit-breaker, 3p, 150A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107646",
+      "recordPath": "equipment/eaton-article-107646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107646.json"
+    },
+    {
+      "id": "eaton-article-107818",
+      "name": "NZMH2-AF70-BT-NA — Circuit-breaker, 3p, 70A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107818",
+      "recordPath": "equipment/eaton-article-107818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107818.json"
+    },
+    {
+      "id": "eaton-article-107805",
+      "name": "NZMH2-A125-BT-NA — Circuit-breaker, 3p, 125A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107805",
+      "recordPath": "equipment/eaton-article-107805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107805.json"
+    },
+    {
+      "id": "eaton-article-107785",
+      "name": "NZMN2-A20-BT-NA — Circuit-breaker, 3p, 20A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107785",
+      "recordPath": "equipment/eaton-article-107785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107785.json"
+    },
+    {
+      "id": "eaton-article-107667",
+      "name": "NZMB2-S250-BT-CNA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107667",
+      "recordPath": "equipment/eaton-article-107667.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107667.json"
+    },
+    {
+      "id": "eaton-article-107663",
+      "name": "NZMB2-S100-BT-CNA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107663",
+      "recordPath": "equipment/eaton-article-107663.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107663.json"
+    },
+    {
+      "id": "eaton-article-107645",
+      "name": "NZMN2-AF125-BT-NA — Circuit-breaker, 3p, 125A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107645",
+      "recordPath": "equipment/eaton-article-107645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107645.json"
+    },
+    {
+      "id": "eaton-article-107653",
+      "name": "NZMB2-S5-BT-CNA — Circuit-breaker, 3p, 5A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107653",
+      "recordPath": "equipment/eaton-article-107653.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107653.json"
+    },
+    {
+      "id": "eaton-article-107650",
+      "name": "NZMN2-AF250-BT-NA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107650",
+      "recordPath": "equipment/eaton-article-107650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107650.json"
+    },
+    {
+      "id": "eaton-article-107817",
+      "name": "NZMH2-AF60-BT-NA — Circuit-breaker, 3p, 60A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107817",
+      "recordPath": "equipment/eaton-article-107817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107817.json"
+    },
+    {
+      "id": "eaton-article-107643",
+      "name": "NZMN2-AF100-BT-NA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107643",
+      "recordPath": "equipment/eaton-article-107643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107643.json"
+    },
+    {
+      "id": "eaton-article-107788",
+      "name": "NZMN2-A40-BT-NA — Circuit-breaker, 3p, 40A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107788",
+      "recordPath": "equipment/eaton-article-107788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107788.json"
+    },
+    {
+      "id": "eaton-article-107843",
+      "name": "NZMN2-VE100-BT-NA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107843",
+      "recordPath": "equipment/eaton-article-107843.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107843.json"
+    },
+    {
+      "id": "eaton-article-107819",
+      "name": "NZMH2-AF80-BT-NA — Circuit-breaker, 3p, 80A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107819",
+      "recordPath": "equipment/eaton-article-107819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107819.json"
+    },
+    {
+      "id": "eaton-article-107664",
+      "name": "NZMB2-S125-BT-CNA — Circuit-breaker, 3p, 125A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107664",
+      "recordPath": "equipment/eaton-article-107664.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107664.json"
+    },
+    {
+      "id": "eaton-article-107780",
+      "name": "NZMB2-A100-BT-NA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107780",
+      "recordPath": "equipment/eaton-article-107780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107780.json"
+    },
+    {
+      "id": "eaton-article-107634",
+      "name": "NZMN2-AF30-BT-NA — Circuit-breaker, 3p, 30A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107634",
+      "recordPath": "equipment/eaton-article-107634.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107634.json"
+    },
+    {
+      "id": "eaton-article-107821",
+      "name": "NZMH2-AF100-BT-NA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107821",
+      "recordPath": "equipment/eaton-article-107821.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107821.json"
+    },
+    {
+      "id": "eaton-article-107822",
+      "name": "NZMH2-AF110-BT-NA — Circuit-breaker, 3p, 110A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107822",
+      "recordPath": "equipment/eaton-article-107822.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107822.json"
+    },
+    {
+      "id": "eaton-article-107775",
+      "name": "NZMB2-A32-BT-NA — Circuit-breaker, 3p, 32A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107775",
+      "recordPath": "equipment/eaton-article-107775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107775.json"
+    },
+    {
+      "id": "eaton-article-107644",
+      "name": "NZMN2-AF110-BT-NA — Circuit-breaker, 3p, 110A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107644",
+      "recordPath": "equipment/eaton-article-107644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107644.json"
+    },
+    {
+      "id": "eaton-article-107647",
+      "name": "NZMN2-AF175-BT-NA — Circuit-breaker, 3p, 175A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107647",
+      "recordPath": "equipment/eaton-article-107647.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107647.json"
+    },
+    {
+      "id": "eaton-article-107840",
+      "name": "NZMH2-VEF200-BT-NA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107840",
+      "recordPath": "equipment/eaton-article-107840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107840.json"
+    },
+    {
+      "id": "eaton-article-107657",
+      "name": "NZMB2-S26-BT-CNA — Circuit-breaker, 3p, 26A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107657",
+      "recordPath": "equipment/eaton-article-107657.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107657.json"
+    },
+    {
+      "id": "eaton-article-107792",
+      "name": "NZMN2-A100-BT-NA — Circuit-breaker, 3p, 100A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107792",
+      "recordPath": "equipment/eaton-article-107792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107792.json"
+    },
+    {
+      "id": "eaton-article-107774",
+      "name": "NZMB2-A25-BT-NA — Circuit-breaker, 3p, 25A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107774",
+      "recordPath": "equipment/eaton-article-107774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107774.json"
+    },
+    {
+      "id": "eaton-article-107841",
+      "name": "NZMH2-VEF225-BT-NA — Circuit-breaker, 3p, 225A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107841",
+      "recordPath": "equipment/eaton-article-107841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107841.json"
+    },
+    {
+      "id": "eaton-article-107665",
+      "name": "NZMB2-S160-BT-CNA — Circuit-breaker, 3p, 160A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107665",
+      "recordPath": "equipment/eaton-article-107665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107665.json"
+    },
+    {
+      "id": "eaton-article-107639",
+      "name": "NZMN2-AF60-BT-NA — Circuit-breaker, 3p, 60A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107639",
+      "recordPath": "equipment/eaton-article-107639.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107639.json"
+    },
+    {
+      "id": "eaton-article-107820",
+      "name": "NZMH2-AF90-BT-NA — Circuit-breaker, 3p, 90A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107820",
+      "recordPath": "equipment/eaton-article-107820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107820.json"
+    },
+    {
+      "id": "eaton-article-107809",
+      "name": "NZMH2-AF15-BT-NA — Circuit-breaker, 3p, 15A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107809",
+      "recordPath": "equipment/eaton-article-107809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107809.json"
+    },
+    {
+      "id": "eaton-article-107798",
+      "name": "NZMH2-A25-BT-NA — Circuit-breaker, 3p, 25A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107798",
+      "recordPath": "equipment/eaton-article-107798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107798.json"
+    },
+    {
+      "id": "eaton-article-107656",
+      "name": "NZMB2-S18-BT-CNA — Circuit-breaker, 3p, 18A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107656",
+      "recordPath": "equipment/eaton-article-107656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107656.json"
+    },
+    {
+      "id": "eaton-article-107816",
+      "name": "NZMH2-AF50-BT-NA — Circuit-breaker, 3p, 50A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107816",
+      "recordPath": "equipment/eaton-article-107816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107816.json"
+    },
+    {
+      "id": "eaton-article-107642",
+      "name": "NZMN2-AF90-BT-NA — Circuit-breaker, 3p, 90A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107642",
+      "recordPath": "equipment/eaton-article-107642.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107642.json"
+    },
+    {
+      "id": "eaton-article-107776",
+      "name": "NZMB2-A40-BT-NA — Circuit-breaker, 3p, 40A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107776",
+      "recordPath": "equipment/eaton-article-107776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107776.json"
+    },
+    {
+      "id": "eaton-article-107794",
+      "name": "NZMN2-A160-BT-NA — Circuit-breaker, 3p, 160A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107794",
+      "recordPath": "equipment/eaton-article-107794.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107794.json"
+    },
+    {
+      "id": "eaton-article-107811",
+      "name": "NZMH2-AF25-BT-NA — Circuit-breaker, 3p, 25A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107811",
+      "recordPath": "equipment/eaton-article-107811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107811.json"
+    },
+    {
+      "id": "eaton-article-107813",
+      "name": "NZMH2-AF35-BT-NA — Circuit-breaker, 3p, 35A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107813",
+      "recordPath": "equipment/eaton-article-107813.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107813.json"
+    },
+    {
+      "id": "eaton-article-107635",
+      "name": "NZMN2-AF35-BT-NA — Circuit-breaker, 3p, 35A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107635",
+      "recordPath": "equipment/eaton-article-107635.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107635.json"
+    },
+    {
+      "id": "eaton-article-107666",
+      "name": "NZMB2-S200-BT-CNA — Circuit-breaker, 3p, 200A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107666",
+      "recordPath": "equipment/eaton-article-107666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107666.json"
+    },
+    {
+      "id": "eaton-article-107778",
+      "name": "NZMB2-A63-BT-NA — Circuit-breaker, 3p, 63A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107778",
+      "recordPath": "equipment/eaton-article-107778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107778.json"
+    },
+    {
+      "id": "eaton-article-107790",
+      "name": "NZMN2-A63-BT-NA — Circuit-breaker, 3p, 63A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107790",
+      "recordPath": "equipment/eaton-article-107790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107790.json"
+    },
+    {
+      "id": "eaton-article-107787",
+      "name": "NZMN2-A32-BT-NA — Circuit-breaker, 3p, 32A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107787",
+      "recordPath": "equipment/eaton-article-107787.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107787.json"
+    },
+    {
+      "id": "eaton-article-107796",
+      "name": "NZMN2-A250-BT-NA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107796",
+      "recordPath": "equipment/eaton-article-107796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107796.json"
+    },
+    {
+      "id": "eaton-article-107803",
+      "name": "NZMH2-A80-BT-NA — Circuit-breaker, 3p, 80A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107803",
+      "recordPath": "equipment/eaton-article-107803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107803.json"
+    },
+    {
+      "id": "eaton-article-107784",
+      "name": "NZMB2-A250-BT-NA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107784",
+      "recordPath": "equipment/eaton-article-107784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107784.json"
+    },
+    {
+      "id": "eaton-article-107660",
+      "name": "NZMB2-S50-BT-CNA — Circuit-breaker, 3p, 50A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107660",
+      "recordPath": "equipment/eaton-article-107660.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107660.json"
+    },
+    {
+      "id": "eaton-article-107661",
+      "name": "NZMB2-S63-BT-CNA — Circuit-breaker, 3p, 63A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107661",
+      "recordPath": "equipment/eaton-article-107661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107661.json"
+    },
+    {
+      "id": "eaton-article-107808",
+      "name": "NZMH2-A250-BT-NA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107808",
+      "recordPath": "equipment/eaton-article-107808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107808.json"
+    },
+    {
+      "id": "eaton-article-107828",
+      "name": "NZMH2-AF250-BT-NA — Circuit-breaker, 3p, 250A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107828",
+      "recordPath": "equipment/eaton-article-107828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107828.json"
+    },
+    {
+      "id": "eaton-article-107824",
+      "name": "NZMH2-AF150-BT-NA — Circuit-breaker, 3p, 150A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107824",
+      "recordPath": "equipment/eaton-article-107824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107824.json"
+    },
+    {
+      "id": "eaton-article-107637",
+      "name": "NZMN2-AF45-BT-NA — Circuit-breaker, 3p, 45A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107637",
+      "recordPath": "equipment/eaton-article-107637.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107637.json"
+    },
+    {
+      "id": "eaton-article-107793",
+      "name": "NZMN2-A125-BT-NA — Circuit-breaker, 3p, 125A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107793",
+      "recordPath": "equipment/eaton-article-107793.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107793.json"
+    },
+    {
+      "id": "eaton-article-107636",
+      "name": "NZMN2-AF40-BT-NA — Circuit-breaker, 3p, 40A, box terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107636",
+      "recordPath": "equipment/eaton-article-107636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107636.json"
+    },
+    {
+      "id": "eaton-article-101042",
+      "name": "DILA-XHIT20 — Auxiliary contact module, Type: high version, 2 pole, Ith= 16 A, 2 N/O, Front fixing, Screw terminals, MSC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101042",
+      "recordPath": "equipment/eaton-article-101042.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101042.json"
+    },
+    {
+      "id": "eaton-article-101043",
+      "name": "DILA-XHIT11 — Auxiliary contact module, Type: high version, 2 pole, Ith= 16 A, 1 N/O, 1 NC, Front fixing, Screw terminals, MSC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101043",
+      "recordPath": "equipment/eaton-article-101043.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101043.json"
+    },
+    {
+      "id": "eaton-article-101371",
+      "name": "DILM32-XHI11-S — Auxiliary contact module, 2 pole, Ith= 16 A, 1 N/O, 1 NC, Side mounted, Screw terminals, DILM17 - DILM38",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101371",
+      "recordPath": "equipment/eaton-article-101371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101371.json"
+    },
+    {
+      "id": "eaton-article-101041",
+      "name": "DILA-XHIT02 — Auxiliary contact module, Type: high version, 2 pole, Ith= 16 A, 2 NC, Front fixing, Screw terminals, MSC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101041",
+      "recordPath": "equipment/eaton-article-101041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101041.json"
+    },
+    {
+      "id": "eaton-article-101486",
+      "name": "DILM95-XSL — Secondary terminal wire kit, star-delta, DILM80-95",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101486",
+      "recordPath": "equipment/eaton-article-101486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101486.json"
+    },
+    {
+      "id": "eaton-article-101487",
+      "name": "DILM150-XSL — Secondary terminal wire kit, star-delta, DILM115-150",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101487",
+      "recordPath": "equipment/eaton-article-101487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101487.json"
+    },
+    {
+      "id": "eaton-article-101044",
+      "name": "DILA-XHIT22 — Auxiliary contact module, Type: high version, 4 pole, Ith= 16 A, 2 N/O, 2 NC, Front fixing, Screw terminals, MSC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-101044",
+      "recordPath": "equipment/eaton-article-101044.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-101044.json"
+    },
+    {
+      "id": "eaton-article-121745",
+      "name": "MSC-DE-12-M17(230V50HZ) — DOL starter, 380 V 400 V 415 V: 5.5 kW, Iq= 100 kA, Ir= 3 - 12 A, 230 V 50 Hz, 240 V 60 Hz, AC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121745",
+      "recordPath": "equipment/eaton-article-121745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121745.json"
+    },
+    {
+      "id": "eaton-article-121735",
+      "name": "MSC-DE-1,2-M7(230V50HZ) — DOL starter, 380 V 400 V 415 V: 0.37 kW, Iq= 100 kA, Ir= 0.3 - 1.2 A, 230 V 50 Hz, 240 V 60 Hz, AC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121735",
+      "recordPath": "equipment/eaton-article-121735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121735.json"
+    },
+    {
+      "id": "eaton-article-132591",
+      "name": "PKZM4-16-CB — Circuit-breaker, Ir= 10 - 16 A, Screw terminals, Terminations: IP2X",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132591",
+      "recordPath": "equipment/eaton-article-132591.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132591.json"
+    },
+    {
+      "id": "eaton-article-121737",
+      "name": "MSC-DE-4-M7(230V50HZ) — DOL starter, 380 V 400 V 415 V: 1.5 kW, Iq= 100 kA, Ir= 1 - 4 A, 230 V 50 Hz, 240 V 60 Hz, AC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121737",
+      "recordPath": "equipment/eaton-article-121737.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121737.json"
+    },
+    {
+      "id": "eaton-article-121473",
+      "name": "M22-KC01SMC10 — Self-monitoring contact elements, Screw terminals, Base fixing, 1 N/O, 1 NC, 24 V 3 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121473",
+      "recordPath": "equipment/eaton-article-121473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121473.json"
+    },
+    {
+      "id": "eaton-article-121474",
+      "name": "M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121474",
+      "recordPath": "equipment/eaton-article-121474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121474.json"
+    },
+    {
+      "id": "eaton-article-121472",
+      "name": "M22-K01SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 1 NC, 24 V 3 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121472",
+      "recordPath": "equipment/eaton-article-121472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121472.json"
+    },
+    {
+      "id": "eaton-article-121758",
+      "name": "MSC-DEA-12-M17(24VDC) — DOL starter, 380 V 400 V 415 V: 5.5 kW, 100 kA, Ir: 3 - 12 A, Connection to SmartWire-DT: yes, 24 V DC, DC Voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121758",
+      "recordPath": "equipment/eaton-article-121758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121758.json"
+    },
+    {
+      "id": "eaton-article-121761",
+      "name": "MSC-DEA-32-M32(24VDC) — DOL starter, 380 V 400 V 415 V: 15 kW, 100 kA, Ir: 8 - 32 A, Connection to SmartWire-DT: yes, 24 V DC, DC Voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121761",
+      "recordPath": "equipment/eaton-article-121761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121761.json"
+    },
+    {
+      "id": "eaton-article-121751",
+      "name": "MSC-DE-32-M32(230V50HZ) — DOL starter, 380 V 400 V 415 V: 15 kW, Iq= 100 kA, Ir= 8 - 32 A, 230 V 50 Hz, 240 V 60 Hz, AC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121751",
+      "recordPath": "equipment/eaton-article-121751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121751.json"
+    },
+    {
+      "id": "eaton-article-121743",
+      "name": "MSC-DE-12-M12(230V50HZ) — DOL starter, 380 V 400 V 415 V: 5.5 kW, Iq= 100 kA, Ir= 3 - 12 A, 230 V 50 Hz, 240 V 60 Hz, AC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121743",
+      "recordPath": "equipment/eaton-article-121743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121743.json"
+    },
+    {
+      "id": "eaton-article-121757",
+      "name": "MSC-DEA-12-M12(24VDC) — DOL starter, 380 V 400 V 415 V: 5.5 kW, 100 kA, Ir: 3 - 12 A, Connection to SmartWire-DT: yes, 24 V DC, DC, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121757",
+      "recordPath": "equipment/eaton-article-121757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121757.json"
+    },
+    {
+      "id": "eaton-article-121752",
+      "name": "MSC-DE-32-M32(24VDC) — DOL starter, 380 V 400 V 415 V: 15 kW, Iq= 100 kA, Ir= 8 - 32 A, 24 V DC, DC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121752",
+      "recordPath": "equipment/eaton-article-121752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121752.json"
+    },
+    {
+      "id": "eaton-article-121746",
+      "name": "MSC-DE-12-M17(24VDC) — DOL starter, 380 V 400 V 415 V: 5.5 kW, Iq= 100 kA, Ir= 3 - 12 A, 24 V DC, DC voltage, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121746",
+      "recordPath": "equipment/eaton-article-121746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121746.json"
+    },
+    {
+      "id": "eaton-article-121753",
+      "name": "MSC-DEA-1,2-M7(24VDC) — DOL starter, 380 V 400 V 415 V: 0.37 kW, 100 kA, Ir: 0.3 - 1.2 A, Connection to SmartWire-DT: yes, 24 V DC, DC, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121753",
+      "recordPath": "equipment/eaton-article-121753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121753.json"
+    },
+    {
+      "id": "eaton-article-132592",
+      "name": "PKZM4-25-CB — Circuit-breaker, Ir= 16 - 25 A, Screw terminals, Terminations: IP2X",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132592",
+      "recordPath": "equipment/eaton-article-132592.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132592.json"
+    },
+    {
+      "id": "eaton-article-121754",
+      "name": "MSC-DEA-4-M7(24VDC) — DOL starter, 380 V 400 V 415 V: 1.5 kW, 100 kA, Ir: 1 - 4 A, Connection to SmartWire-DT: yes, 24 V DC, DC, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121754",
+      "recordPath": "equipment/eaton-article-121754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121754.json"
+    },
+    {
+      "id": "eaton-article-139580",
+      "name": "DILA-XHIR22 — Auxiliary contact module, 4 pole, Ith= 16 A, 2 N/O, 2 NC, Microswitch, Front fixing, Screw terminals, DILA, DILM7 - DILM38",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-139580",
+      "recordPath": "equipment/eaton-article-139580.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-139580.json"
+    },
+    {
+      "id": "eaton-article-132593",
+      "name": "PKZM4-32-CB — Circuit-breaker, Ir= 24 - 32 A, Screw terminals, Terminations: IP2X",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-132593",
+      "recordPath": "equipment/eaton-article-132593.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-132593.json"
+    },
+    {
+      "id": "eaton-article-142826",
+      "name": "HIS-80/3 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 80 A, 3P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142826",
+      "recordPath": "equipment/eaton-article-142826.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142826.json"
+    },
+    {
+      "id": "eaton-article-142823",
+      "name": "HIS-63/4 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 63 A, 4P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142823",
+      "recordPath": "equipment/eaton-article-142823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142823.json"
+    },
+    {
+      "id": "eaton-article-142820",
+      "name": "HIS-63/1 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240 V, 63 A, 1P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142820",
+      "recordPath": "equipment/eaton-article-142820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142820.json"
+    },
+    {
+      "id": "eaton-article-142828",
+      "name": "HIS-100/1 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240 V, 100 A, 1P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142828",
+      "recordPath": "equipment/eaton-article-142828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142828.json"
+    },
+    {
+      "id": "eaton-article-142827",
+      "name": "HIS-80/4 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 80 A, 4P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142827",
+      "recordPath": "equipment/eaton-article-142827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142827.json"
+    },
+    {
+      "id": "eaton-article-142824",
+      "name": "HIS-80/1 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240 V, 80 A, 1P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142824",
+      "recordPath": "equipment/eaton-article-142824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142824.json"
+    },
+    {
+      "id": "eaton-article-142829",
+      "name": "HIS-100/2 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 415 V, 100 A, 2P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142829",
+      "recordPath": "equipment/eaton-article-142829.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142829.json"
+    },
+    {
+      "id": "eaton-article-142822",
+      "name": "HIS-63/3 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 63 A, 3P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142822",
+      "recordPath": "equipment/eaton-article-142822.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142822.json"
+    },
+    {
+      "id": "eaton-article-142817",
+      "name": "HIS-40/2 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 415 V, 40 A, 2P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142817",
+      "recordPath": "equipment/eaton-article-142817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142817.json"
+    },
+    {
+      "id": "eaton-article-142816",
+      "name": "HIS-40/1 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240 V, 40 A, 1P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142816",
+      "recordPath": "equipment/eaton-article-142816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142816.json"
+    },
+    {
+      "id": "eaton-article-142821",
+      "name": "HIS-63/2 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 415 V, 63 A, 2P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142821",
+      "recordPath": "equipment/eaton-article-142821.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142821.json"
+    },
+    {
+      "id": "eaton-article-142818",
+      "name": "HIS-40/3 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 40 A, 3p",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142818",
+      "recordPath": "equipment/eaton-article-142818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142818.json"
+    },
+    {
+      "id": "eaton-article-142825",
+      "name": "HIS-80/2 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 415 V, 80 A, 2P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142825",
+      "recordPath": "equipment/eaton-article-142825.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142825.json"
+    },
+    {
+      "id": "eaton-article-142819",
+      "name": "HIS-40/4 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 40 A, 4P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142819",
+      "recordPath": "equipment/eaton-article-142819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142819.json"
+    },
+    {
+      "id": "eaton-article-127734",
+      "name": "N3-4-320-S1-DC — Switch-disconnector 4p 320A 1000VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127734",
+      "recordPath": "equipment/eaton-article-127734.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127734.json"
+    },
+    {
+      "id": "eaton-article-121420",
+      "name": "NZMN1-A20-S14-SVE — Circuit breaker NZMN1, Thermo-magnetic, Three-pole, 20 A, 690 V, SVE, Box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121420",
+      "recordPath": "equipment/eaton-article-121420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121420.json"
+    },
+    {
+      "id": "eaton-article-127733",
+      "name": "N2-4-200-S1-DC — Switch-disconnector 4p 200A 1000VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127733",
+      "recordPath": "equipment/eaton-article-127733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127733.json"
+    },
+    {
+      "id": "eaton-article-142268",
+      "name": "N3-4-500-S1-DC — Switch-disconnector 4p 500A 1000VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142268",
+      "recordPath": "equipment/eaton-article-142268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142268.json"
+    },
+    {
+      "id": "eaton-article-127732",
+      "name": "N2-4-160-S1-DC — Switch-disconnector 4p 160A 1000VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-127732",
+      "recordPath": "equipment/eaton-article-127732.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-127732.json"
+    },
+    {
+      "id": "eaton-article-142267",
+      "name": "N3-4-400-S1-DC — Switch-disconnector 4p 400A 1000VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-142267",
+      "recordPath": "equipment/eaton-article-142267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-142267.json"
+    },
+    {
+      "id": "eaton-article-129711",
+      "name": "NZMH2-A125-FIA30-BT — Circuit-breaker, 3p, 125A, box terminals, +residual current circuit-breaker, 30mA, AC/DC sensitive",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-129711",
+      "recordPath": "equipment/eaton-article-129711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-129711.json"
+    },
+    {
+      "id": "eaton-article-131784",
+      "name": "ASLTT-63 — Through terminals, 500VAC/DC, 63A, 50/60Hz, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-131784",
+      "recordPath": "equipment/eaton-article-131784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-131784.json"
+    },
+    {
+      "id": "eaton-article-121421",
+      "name": "NZMH1-A20-S14-SVE — Circuit breaker NZMH1, Thermo-magnetic, Three-pole, 20 A, 690 V, SVE, Box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121421",
+      "recordPath": "equipment/eaton-article-121421.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121421.json"
+    },
+    {
+      "id": "eaton-article-048912",
+      "name": "31DILE — Auxiliary contact module, 4 pole, 3 N/O, 1 NC, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-048912",
+      "recordPath": "equipment/eaton-article-048912.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-048912.json"
+    },
+    {
+      "id": "eaton-article-049823",
+      "name": "22DDILE — Auxiliary contact module, 4 pole, 1 N/O, 1 N/OE, 1 NC, 1 NCL, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-049823",
+      "recordPath": "equipment/eaton-article-049823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-049823.json"
+    },
+    {
+      "id": "eaton-article-049824",
+      "name": "11DDILE — Auxiliary contact module, 2 pole, 1 N/OE, 1 NCL, Front fixing, Screw terminals, DILE(E)M, DILER",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-049824",
+      "recordPath": "equipment/eaton-article-049824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-049824.json"
+    },
+    {
+      "id": "eaton-article-167343",
+      "name": "HIS-20/2 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 415 V, 20 A, 2P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167343",
+      "recordPath": "equipment/eaton-article-167343.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167343.json"
+    },
+    {
+      "id": "eaton-article-167352",
+      "name": "HIS-32/3 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 32 A, 3P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167352",
+      "recordPath": "equipment/eaton-article-167352.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167352.json"
+    },
+    {
+      "id": "eaton-article-167345",
+      "name": "HIS-20/4 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 20 A, 4P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167345",
+      "recordPath": "equipment/eaton-article-167345.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167345.json"
+    },
+    {
+      "id": "eaton-article-167350",
+      "name": "HIS-32/1 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240 V, 32 A, 1P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167350",
+      "recordPath": "equipment/eaton-article-167350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167350.json"
+    },
+    {
+      "id": "eaton-article-167344",
+      "name": "HIS-20/3 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240/415 V, 20 A, 3P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167344",
+      "recordPath": "equipment/eaton-article-167344.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167344.json"
+    },
+    {
+      "id": "eaton-article-167346",
+      "name": "HIS-25/1 — Main load disconnector Switch with isolation function, highly wear resistant contacts, 240 V, 25 A, 1P",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167346",
+      "recordPath": "equipment/eaton-article-167346.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167346.json"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ ABB OT200UDS33: switching-equipment reference for switch installation and operat
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307655F0001; OT200UDS33.STP
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “OT200UDS33”. Keep those frame, mounting and a
 - Manufacturer drawing: 1SCC307655F0001; OT200UDS33.STP
 - Manufacturer reference: 1SCC307655F0001; OT200UDS33.STP
 - Document revision: A
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Standards: IEC 60947-3
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,6 +98,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307655F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1692459 bytes
 - Delivery SHA-256: 275ba193ec2b821cb83d4aa29dd4a5a6f0cc5a5511b53bf6e709488eb40f1e0d
+
+### OT200UDS33\_1SCC307655F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (OT200UDS33\_1SCC307655F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307655F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot200uds33-061eaf3ede/275ba193ec2b821cb83d-dxf)
+- Redistribution: unknown
+- Original SHA-256: 275ba193ec2b821cb83d4aa29dd4a5a6f0cc5a5511b53bf6e709488eb40f1e0d
+- Original bytes: 1692459
+- Revision: A
+- Retrieved: 2026-11-04T01:02:24Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307655F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307655F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 12941841 bytes
+- Delivery SHA-256: a48b3beeb239fcb6f98568fb4ac42cdf7cc2bfc3ef539a44ddba3ee69c4a7435
 
 ### OT200UDS33.stp
 

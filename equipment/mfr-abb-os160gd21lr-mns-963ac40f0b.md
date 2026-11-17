@@ -1,0 +1,112 @@
+# ABB — OS160GD21LR-MNS
+
+ABB OS160GD21LR-MNS: original STEP for switching or transfer equipment layouts. stp-file, OS160GD21LR-MNS, 1SCA128898R1001, SPECIAL CONNECTED SWITCH FUSE, os160gd21lr-mns.stp.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gd21lr-mns-963ac40f0b) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gd21lr-mns-963ac40f0b.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gd21lr-mns-963ac40f0b.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+stp-file, OS160GD21LR-MNS, 1SCA128898R1001, SPECIAL CONNECTED SWITCH FUSE, os160gd21lr-mns.stp
+
+## Equipment and file summary
+
+- Equipment / resource: OS160GD21LR-MNS
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: stp-file, OS160GD21LR-MNS, 1SCA128898R1001, SPECIAL CONNECTED SWITCH FUSE, os160gd21lr-mns.stp
+- Manufacturer drawing identity: OS160GD21LR-MNS
+- Source document: OS160GD21LR-MNS.STP; revision A
+- Source-model envelope: 100 × 245.9 × 164.9 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Standards: IEC 60947-3
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: stp-file, OS160GD21LR-MNS, 1SCA128898R1001, SPECIAL CONNECTED SWITCH FUSE, os160gd21lr-mns.stp ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OS160GD21LR-MNS ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: OS160GD21LR-MNS.STP; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 100 × 245.9 × 164.9 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use OS160GD21LR-MNS.STP.stp (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS160GD21LR-MNS.STP.stp.
+
+Use OS160GD21LR-MNS.STP.stp (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS160GD21LR-MNS.STP.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: stp-file, OS160GD21LR-MNS, 1SCA128898R1001, SPECIAL CONNECTED SWITCH FUSE, os160gd21lr-mns.stp
+- The supplied model has approximate X × Y × Z bounds of 100 × 245.9 × 164.9 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: OS160GD21LR-MNS.STP.stp — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OS160GD21LR-MNS?
+
+1 inspected original for ABB OS160GD21LR-MNS: OS160GD21LR-MNS.STP.stp (STEP). The manufacturer describes this configuration as stp-file, OS160GD21LR-MNS, 1SCA128898R1001, SPECIAL CONNECTED SWITCH FUSE, os160gd21lr-mns.stp.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use OS160GD21LR-MNS.STP.stp (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS160GD21LR-MNS.STP.stp.
+
+## Preview
+
+![ABB OS160GD21LR-MNS: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-os160gd21lr-mns-963ac40f0b/abb-849b3f3d131ee7696104?asset=a54af2c20531e130bd97a0c1d20a0a5e94a3a308f47a67480d4a3490c2908d52&view=thumb&v=47295d2f817cda81)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gd21lr-mns-963ac40f0b). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OS160GD21LR-MNS.STP.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os160gd21lr-mns-963ac40f0b/abb-849b3f3d131ee7696104)
+- Redistribution: unknown
+- Original SHA-256: a54af2c20531e130bd97a0c1d20a0a5e94a3a308f47a67480d4a3490c2908d52
+- Original bytes: 4584841
+- Revision: A
+- Retrieved: 2026-11-11T06:36:13.786258+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS160GD21LR-MNS.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 947408 bytes
+- Delivery SHA-256: b87eb1ad0e7dae214d662745b207271f5bf304a7e00b6629a7bb0632d3cad2c8
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -9,7 +9,7 @@ XT3 4p FIXED HTC UP: ABB manufacturer STEP resource, document 1SDH001295R0493, r
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0493
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT3 4p FIXED HTC UP; ABB document 1SDH001295R0493
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0493
 - Model extents (X × Y × Z, mm): 140.0 × 70.0 × 83.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0493&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 219889 bytes
 - Delivery SHA-256: 9387a975c907107e600efdce0ec4f0fd5e6e7731be1281232918d59d2afdd36a
+
+### 1SDH001295R0493\_1PA\_001\_00\_XT3\_4P\_FIXED\_HTC\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0493\_1PA\_001\_00\_XT3\_4P\_FIXED\_HTC\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0493&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-fixed-htc-up-7904063e/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9387a975c907107e600efdce0ec4f0fd5e6e7731be1281232918d59d2afdd36a
+- Original bytes: 219889
+- Revision: A
+- Retrieved: 2026-11-03T01:49:11.050855+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0493&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0493&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 57883 bytes
+- Delivery SHA-256: 941cfecc61b9222b916892165e56a3caca1b421f933b78f307829a5d027584c2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

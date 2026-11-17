@@ -8,7 +8,7 @@ ABB 06LYK800\_15.24: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 06LYK800\_15.24; 06LYK800
-- Formats: DWG, PDF, SAT, SLDPRT
+- Formats: DWG, PDF, SAT, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “06LYK800\_15.24”. Keep those frame, mounting 
 - Document revision: C
 - Drawing views (06LYK800.pdf, page 1): drive end detail
 - Manufacturer reference: 06LYK800
-- Listed file formats: DWG, PDF, SAT, SLDPRT
-- Listed files: 4
+- Listed file formats: DWG, PDF, SAT, SLDPRT, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1781597 bytes
 - Delivery SHA-256: d53e0879c403d86d3cc388986afa4104e444bb449b71ef7182c3d9ea770c4fc6
+
+### 06LYK800\_15.24.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (06LYK800\_15.24.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-06lyk800-15-24-dwg-2d-autocad-dwg-2000-6f8900bc9a/d53e0879c403d86d3cc3-dxf)
+- Redistribution: unknown
+- Original SHA-256: d53e0879c403d86d3cc388986afa4104e444bb449b71ef7182c3d9ea770c4fc6
+- Original bytes: 1781597
+- Revision: C
+- Retrieved: 2026-11-04T00:23:41Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 5047254 bytes
+- Delivery SHA-256: 100de1e390dc9df9a6cd9c9719997cbc5ad23f83c033c8882950049ea7d64567
 
 ### 06LYK800.pdf
 

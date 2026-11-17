@@ -25,6 +25,7 @@ The supplied configuration is “OT1600E10”. Keep those frame, mounting and ac
 - Manufacturer drawing: OT1600E10.IGS
 - Manufacturer reference: OT1600E10.IGS
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

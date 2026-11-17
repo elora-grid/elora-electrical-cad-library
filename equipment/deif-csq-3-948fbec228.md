@@ -27,6 +27,7 @@ Manufacturer reference csq-3-rsq-3-2d-cad-drawing.dwg; csq-3-rsq-3-2d-pdf.pdf; c
 - Manufacturer reference: csq-3-rsq-3-2d-cad-drawing.dwg; csq-3-rsq-3-2d-pdf.pdf; csq-3-rsq-3-3d-step-file.stp; csq-3-rsq-3-3d-pdf.pdf
 - Manufacturer lifecycle: Active
 - Model envelope: csq-3-rsq-3-3d-step-file.stp: 96 × 96 × 82.5 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: EN 50081, EN 50082-1, EN 50082-2, IEC 60255-3, IEC 61010-1, IEC 60529, UL 508
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

@@ -25,6 +25,7 @@ The supplied configuration is “OT800ES30”. Keep those frame, mounting and ac
 - Manufacturer drawing: OT800ES30.IGS
 - Manufacturer reference: OT800ES30.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

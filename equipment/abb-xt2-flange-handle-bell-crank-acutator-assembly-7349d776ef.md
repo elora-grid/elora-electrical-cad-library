@@ -8,7 +8,7 @@ ABB XT2 Flange Handle, Bell Crank & Acutator Assembly: breaker or breaker-access
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 2TSE730003R1011
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ The supplied configuration is “XT2 Flange Handle, Bell Crank & Acutator Assemb
 - Manufacturer drawing: 2TSE730003R1011
 - Manufacturer reference: 2TSE730003R1011
 - Document revision: -
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2TSE730003R1011&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 2123165 bytes
 - Delivery SHA-256: 2bd506f08ee848a01e41a72d38d5c04fa84c36ff33bea7d4a1dd58bff0f8c1ca
+
+### 2tse730003r1011\_REV\_A.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (2tse730003r1011\_REV\_A.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2TSE730003R1011&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-flange-handle-bell-crank-acutator-assembly-7349d776ef/2bd506f08ee848a01e41-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2bd506f08ee848a01e41a72d38d5c04fa84c36ff33bea7d4a1dd58bff0f8c1ca
+- Original bytes: 2123165
+- Revision: -
+- Retrieved: 2026-11-03T02:26:30.390673Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=2TSE730003R1011&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2TSE730003R1011&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 8721321 bytes
+- Delivery SHA-256: 198e6d1a301a23702dbd0eb1c22fc4ed1cd3a8a25b1bb5719833f331adcd9b18
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

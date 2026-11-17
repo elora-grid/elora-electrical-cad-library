@@ -8,7 +8,7 @@ ABB XT5 3p 4p Fixed FLD: breaker or breaker-accessory reference for breaker comp
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1402
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 3p 4p Fixed FLD”. Keep those frame, mount
 - Manufacturer reference: 1SDH002065A1402
 - Document revision: A
 - Model envelope: 1SDH002065A1402\_XT5\_3p\_4p\_Fixed\_FLD.stp: 120.2 × 67.2 × 139.6 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1402&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 2157907 bytes
 - Delivery SHA-256: 7e8980bd4dbf1e8fe643375e004136d9c7608fe40993f04073b775c17e34b315
+
+### 1SDH002065A1402\_XT5\_3p\_4p\_Fixed\_FLD.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1402\_XT5\_3p\_4p\_Fixed\_FLD.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1402&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-fixed-fld-6688143f33/7e8980bd4dbf1e8fe643-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7e8980bd4dbf1e8fe643375e004136d9c7608fe40993f04073b775c17e34b315
+- Original bytes: 2157907
+- Revision: A
+- Retrieved: 2026-11-03T01:57:19.119407Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1402&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1402&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 317215 bytes
+- Delivery SHA-256: 80b52fec8e3465ef6df007497e27a5ace23f068bd6a8754439fea49435bec2b4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

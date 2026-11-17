@@ -8,7 +8,7 @@ ABB XT5 4p Withdrawable 400A Circuit Breaker + Fixed Part: breaker or breaker-ac
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1311
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT5 4p Withdrawable 400A Circuit Breaker + Fixe
 - Manufacturer drawing: 1SDH002065A1311
 - Manufacturer reference: 1SDH002065A1311
 - Document revision: B
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1311&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 21643215 bytes
 - Delivery SHA-256: 63b7856e8280e3a2ac84f0dda6a78b6b4c0fb949adc439f40ae3933a2a485fe4
+
+### 1SDH002065A1311.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1311.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1311&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-withdrawable-400a-circuit-breaker-fixed-part-69453552a9/63b7856e8280e3a2ac84-dxf)
+- Redistribution: unknown
+- Original SHA-256: 63b7856e8280e3a2ac84f0dda6a78b6b4c0fb949adc439f40ae3933a2a485fe4
+- Original bytes: 21643215
+- Revision: B
+- Retrieved: 2026-11-04T01:24:13Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1311&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1311&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1194000 bytes
+- Delivery SHA-256: 2a07dea3f5bc4ed50005ffe50b74c6f5c5dd1d0a68bff56382fd30acb0d1f1b2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

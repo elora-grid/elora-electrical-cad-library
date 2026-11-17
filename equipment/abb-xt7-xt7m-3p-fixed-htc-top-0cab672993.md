@@ -8,7 +8,7 @@ ABB XT7-XT7M 3p Fixed HTC top: breaker or breaker-accessory reference for breake
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1368
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT7-XT7M 3p Fixed HTC top”. Keep those frame,
 - Manufacturer reference: 1SDH002065A1368
 - Document revision: B
 - Model envelope: 1SDH002065A1368\_en\_B\_XT7\_XT7M\_3p\_Fixed\_HTC\_top.stp: 210 × 101 × 90.3 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 3384056 bytes
 - Delivery SHA-256: d19165a43cb17ef64b23ab94f161e45d19724ff13c7dc0c0f2dbb8c1c996bd49
+
+### 1SDH002065A1368\_en\_B\_XT7\_XT7M\_3p\_Fixed\_HTC\_top.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1368\_en\_B\_XT7\_XT7M\_3p\_Fixed\_HTC\_top.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-fixed-htc-top-0cab672993/d19165a43cb17ef64b23-dxf)
+- Redistribution: unknown
+- Original SHA-256: d19165a43cb17ef64b23ab94f161e45d19724ff13c7dc0c0f2dbb8c1c996bd49
+- Original bytes: 3384056
+- Revision: B
+- Retrieved: 2026-11-03T01:58:50.334104Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 474766 bytes
+- Delivery SHA-256: 329bf5761d4260e0681a4d21ba7136938547793dd238aac28ce6151cbeee6cca
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

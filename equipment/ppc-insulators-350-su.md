@@ -32,6 +32,7 @@ Use the 350 SU column on PDF page 8. The download is the complete catalogue, not
 - Diameter Db (in): 4.3
 - Cantilever Strength, Upright, Pounds: 1500
 - Impulse Withstand, kV: 350
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

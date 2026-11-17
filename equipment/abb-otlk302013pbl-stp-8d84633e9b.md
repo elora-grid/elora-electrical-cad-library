@@ -27,6 +27,7 @@ The supplied configuration is “OTLK302013PBL”. Keep those frame, mounting an
 - Manufacturer reference: OTLK302013PBL.STP
 - Document revision: A
 - Model envelope: OTLK302013PBL.stp: 200 × 300 × 182.9 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-1, IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

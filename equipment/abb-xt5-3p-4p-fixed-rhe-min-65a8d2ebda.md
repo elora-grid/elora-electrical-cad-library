@@ -8,7 +8,7 @@ ABB XT5 3p 4p Fixed RHE min: breaker or breaker-accessory reference for breaker 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1401
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 3p 4p Fixed RHE min”. Keep those frame, m
 - Manufacturer reference: 1SDH002065A1401
 - Document revision: B
 - Model envelope: 1SDH002065A1401\_XT5\_3p\_4p\_Fixed\_RHE\_min.stp: 114.2 × 132.1 × 139.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 4007401 bytes
 - Delivery SHA-256: 4ce38cd100bf6cd9f66544e67ed81e39fb1974383496936ed61b8cde730f4ea4
+
+### 1SDH002065A1401\_XT5\_3p\_4p\_Fixed\_RHE\_min.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1401\_XT5\_3p\_4p\_Fixed\_RHE\_min.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-fixed-rhe-min-65a8d2ebda/4ce38cd100bf6cd9f665-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4ce38cd100bf6cd9f66544e67ed81e39fb1974383496936ed61b8cde730f4ea4
+- Original bytes: 4007401
+- Revision: B
+- Retrieved: 2026-11-03T02:05:47.152351Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 568253 bytes
+- Delivery SHA-256: 9225dda99557e64c00fd0b4803b0afd31494f68f290959aaf20a0005372987c4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

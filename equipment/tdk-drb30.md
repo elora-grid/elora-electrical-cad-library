@@ -22,6 +22,7 @@ Use only for the model/configuration stated in each original drawing.
 - Manufacturer: TDK-Lambda
 - Resource type: Product
 - Part number: DRB30
+- Standards: IEC 62368-1, UL 62368-1, CSA C22.2 No. 62368-1, IEC 60950-1, UL 60950-1, IS 13252-1, UL 508, ISA 12.12.01
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

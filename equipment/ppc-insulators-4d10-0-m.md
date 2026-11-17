@@ -33,6 +33,7 @@ Use the table carrying drawing number 4D10 0 M on PDF page 7. The download is th
 - kV Level: 26.4 kV
 - Core Diameter: 70 mm
 - Max. Shed/Outer Diameter: 160 mm
+- Standards: IEC 60273, IEC 60168
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

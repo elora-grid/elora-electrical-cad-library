@@ -8,7 +8,7 @@ ABB SlimLine XR dimensional drawing - XR2/3-185-3P: switching-equipment referenc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SEB000204
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is â€œSlimLine XR dimensional drawing - XR2/3-185-3Pâ
 - Manufacturer drawing: 1SEB000204
 - Manufacturer reference: 1SEB000204
 - Document revision: -
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SEB000204&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 394926 bytes
 - Delivery SHA-256: 2c81be98a0cbe2ad43a9235f9adfb02e599a8321e6ebe2ca309945ff06a0cae6
+
+### 1SEB000204\_XR23\_185\_3P\_dim.drw.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SEB000204\_XR23\_185\_3P\_dim.drw.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SEB000204&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-slimline-xr-dimensional-drawing-xr2-3-185-3p-eeab01a8db/2c81be98a0cbe2ad43a9-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2c81be98a0cbe2ad43a9235f9adfb02e599a8321e6ebe2ca309945ff06a0cae6
+- Original bytes: 394926
+- Revision: -
+- Retrieved: 2026-11-04T00:58:35Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SEB000204&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SEB000204&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 924950 bytes
+- Delivery SHA-256: 1d086c24ec412c4cf2f292600411f6db0308adaf5652a017e9730b6ad32b93b0
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

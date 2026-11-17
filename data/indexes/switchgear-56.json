@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 56,
+  "entries": [
+    {
+      "id": "eaton-article-187181",
+      "name": "AFDD-13/2/B/003-LI/A — Arc Fault Detection Device, 2 poles, B13A, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187181",
+      "recordPath": "equipment/eaton-article-187181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187181.json"
+    },
+    {
+      "id": "eaton-article-187175",
+      "name": "AFDD-10/2/C/003-LI/A — Arc Fault Detection Device, 2 poles, C10A, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187175",
+      "recordPath": "equipment/eaton-article-187175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187175.json"
+    },
+    {
+      "id": "eaton-article-187172",
+      "name": "AFDD-10/2/C/001-LI/A — Arc Fault Detection Device, 2 poles, C10A, 10mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187172",
+      "recordPath": "equipment/eaton-article-187172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187172.json"
+    },
+    {
+      "id": "eaton-article-187178",
+      "name": "AFDD-13/2/B/001-LI/A — Arc Fault Detection Device, 2 poles, B13A, 10mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187178",
+      "recordPath": "equipment/eaton-article-187178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187178.json"
+    },
+    {
+      "id": "eaton-article-187169",
+      "name": "AFDD-10/2/B/003-LI/A — Arc Fault Detection Device, 2 poles, B10A, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187169",
+      "recordPath": "equipment/eaton-article-187169.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187169.json"
+    },
+    {
+      "id": "eaton-article-187187",
+      "name": "AFDD-13/2/C/003-LI/A — Arc Fault Detection Device, 2p, C, 13 A, 30 mA, type LI/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187187",
+      "recordPath": "equipment/eaton-article-187187.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187187.json"
+    },
+    {
+      "id": "eaton-article-187197",
+      "name": "AFDD-15/2/C/003-OL — Arc Fault Detection Device, 2 poles, C15A-OL, 30mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187197",
+      "recordPath": "equipment/eaton-article-187197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187197.json"
+    },
+    {
+      "id": "eaton-article-187191",
+      "name": "AFDD-15/2/B/003-OL — Arc Fault Detection Device, 2 poles, B15A-OL, 30mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187191",
+      "recordPath": "equipment/eaton-article-187191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187191.json"
+    },
+    {
+      "id": "eaton-article-187226",
+      "name": "AFDD-25/2/B/003-LI/A — Arc Fault Detection Device, 2p, B, 25 A, 30 mA, type LI/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187226",
+      "recordPath": "equipment/eaton-article-187226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187226.json"
+    },
+    {
+      "id": "eaton-article-187205",
+      "name": "AFDD-16/2/B/003-LI/A — Arc Fault Detection Device, 2 poles, B16A, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187205",
+      "recordPath": "equipment/eaton-article-187205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187205.json"
+    },
+    {
+      "id": "eaton-article-187208",
+      "name": "AFDD-16/2/C/001-LI/A — Arc Fault Detection Device, 2 poles, C16A, 10mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187208",
+      "recordPath": "equipment/eaton-article-187208.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187208.json"
+    },
+    {
+      "id": "eaton-article-187199",
+      "name": "AFDD-15/2/C/003-LI/A-OL — Arc Fault Detection Device, 2 poles, C15A-OL, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187199",
+      "recordPath": "equipment/eaton-article-187199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187199.json"
+    },
+    {
+      "id": "eaton-article-187202",
+      "name": "AFDD-16/2/B/001-LI/A — Arc Fault Detection Device, 2 poles, B16A, 10mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187202",
+      "recordPath": "equipment/eaton-article-187202.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187202.json"
+    },
+    {
+      "id": "eaton-article-187211",
+      "name": "AFDD-16/2/C/003-LI/A — Arc Fault Detection Device, 2p, C, 16 A, 30 mA, type LI/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187211",
+      "recordPath": "equipment/eaton-article-187211.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187211.json"
+    },
+    {
+      "id": "eaton-article-187223",
+      "name": "AFDD-20/2/C/003-LI/A — Arc Fault Detection Device, 2 poles, C20A, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187223",
+      "recordPath": "equipment/eaton-article-187223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187223.json"
+    },
+    {
+      "id": "eaton-article-187193",
+      "name": "AFDD-15/2/B/003-LI/A-OL — Arc Fault Detection Device, 2 poles, B15A-OL, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187193",
+      "recordPath": "equipment/eaton-article-187193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187193.json"
+    },
+    {
+      "id": "eaton-article-187212",
+      "name": "AFDD-20/2/B/003-OL — Arc Fault Detection Device, 2 poles, B20A-OL, 30mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187212",
+      "recordPath": "equipment/eaton-article-187212.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187212.json"
+    },
+    {
+      "id": "eaton-article-187217",
+      "name": "AFDD-20/2/C/003-LI/A-OL — Arc Fault Detection Device, 2p, C, 20 A-OL, 30 mA, type LI/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187217",
+      "recordPath": "equipment/eaton-article-187217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187217.json"
+    },
+    {
+      "id": "eaton-article-187220",
+      "name": "AFDD-20/2/B/003-LI/A — Arc Fault Detection Device, 2 poles, B20A, 30mA, KV, type A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187220",
+      "recordPath": "equipment/eaton-article-187220.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187220.json"
+    },
+    {
+      "id": "eaton-article-187214",
+      "name": "AFDD-20/2/B/003-LI/A-OL — Arc Fault Detection Device, 2p, B, 20 A-OL, 30 mA, type LI/A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187214",
+      "recordPath": "equipment/eaton-article-187214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187214.json"
+    },
+    {
+      "id": "eaton-article-187215",
+      "name": "AFDD-20/2/C/003-OL — Arc Fault Detection Device, 2 poles, C20A-OL, 30mA, type AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-187215",
+      "recordPath": "equipment/eaton-article-187215.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-187215.json"
+    },
+    {
+      "id": "eaton-article-1f7e4be283346f9c3a02a057",
+      "name": "NH FUSE 80A 500V SIZE 00 AM — Fuse-link, LV, 80 A, AC 500 V, NH00, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1f7e4be283346f9c3a02a057",
+      "recordPath": "equipment/eaton-article-1f7e4be283346f9c3a02a057.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1f7e4be283346f9c3a02a057.json"
+    },
+    {
+      "id": "eaton-article-e6689fc74862954aeb5e07a2",
+      "name": "NH FUSE 80A 500V AC gG SIZE 1 — Fuse-link, low voltage, 80 A, AC 500 V, NH1, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e6689fc74862954aeb5e07a2",
+      "recordPath": "equipment/eaton-article-e6689fc74862954aeb5e07a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e6689fc74862954aeb5e07a2.json"
+    },
+    {
+      "id": "eaton-article-33123c78b5c09e8b8fc6ca7c",
+      "name": "NH FUSE SIZE 1 AM 80A 500V — Fuse-link, LV, 80 A, AC 500 V, NH1, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-33123c78b5c09e8b8fc6ca7c",
+      "recordPath": "equipment/eaton-article-33123c78b5c09e8b8fc6ca7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-33123c78b5c09e8b8fc6ca7c.json"
+    },
+    {
+      "id": "eaton-article-8b44f7d9af6a755ec5c8ede9",
+      "name": "NH FUSE 80A 690V aM SIZE 00 — Fuse-link, LV, 80 A, AC 690 V, NH00, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8b44f7d9af6a755ec5c8ede9",
+      "recordPath": "equipment/eaton-article-8b44f7d9af6a755ec5c8ede9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8b44f7d9af6a755ec5c8ede9.json"
+    },
+    {
+      "id": "eaton-article-9d483472834b795b74de6e68",
+      "name": "NH FUSE 80AMP 690V aM SIZE 1 — Fuse-link, LV, 80 A, AC 690 V, NH1, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9d483472834b795b74de6e68",
+      "recordPath": "equipment/eaton-article-9d483472834b795b74de6e68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9d483472834b795b74de6e68.json"
+    },
+    {
+      "id": "eaton-article-eafd4100601599b8c764bbfa",
+      "name": "80NHG1BI-690 — Fuse-link, low voltage, 80 A, AC 690 V, NH1, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-eafd4100601599b8c764bbfa",
+      "recordPath": "equipment/eaton-article-eafd4100601599b8c764bbfa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-eafd4100601599b8c764bbfa.json"
+    },
+    {
+      "id": "eaton-article-7ca2e3061cc97120d3d20602",
+      "name": "NH FUSE 80A 500V gG SIZE 1 DUAL IND — Fuse-link, low voltage, 80 A, AC 500 V, NH1, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7ca2e3061cc97120d3d20602",
+      "recordPath": "equipment/eaton-article-7ca2e3061cc97120d3d20602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7ca2e3061cc97120d3d20602.json"
+    },
+    {
+      "id": "eaton-article-a8546aa567e624443429e993",
+      "name": "NH FUSE 80A 690V gG SIZE 00 — Fuse-link, LV, 80 A, AC 690 V, NH00, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a8546aa567e624443429e993",
+      "recordPath": "equipment/eaton-article-a8546aa567e624443429e993.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a8546aa567e624443429e993.json"
+    },
+    {
+      "id": "eaton-article-48a619c7b5a0ad9b6bcdc723",
+      "name": "0NH FUSE 80A 500V gG SIZE 00 DUAL IND — Fuse-link, low voltage, 80 A, AC 500 V, NH00, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-48a619c7b5a0ad9b6bcdc723",
+      "recordPath": "equipment/eaton-article-48a619c7b5a0ad9b6bcdc723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-48a619c7b5a0ad9b6bcdc723.json"
+    },
+    {
+      "id": "eaton-article-51ee3159952d1971a4ad7199",
+      "name": "NH FUSE 80A 500V GL/GG SIZE 01 — Fuse-link, LV, 80 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-51ee3159952d1971a4ad7199",
+      "recordPath": "equipment/eaton-article-51ee3159952d1971a4ad7199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-51ee3159952d1971a4ad7199.json"
+    },
+    {
+      "id": "eaton-article-8c1f8ea85ccbff99d39e249b",
+      "name": "NH FUSE 80A 400V GG SIZE 02 — Fuse-link, LV, 80 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8c1f8ea85ccbff99d39e249b",
+      "recordPath": "equipment/eaton-article-8c1f8ea85ccbff99d39e249b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8c1f8ea85ccbff99d39e249b.json"
+    },
+    {
+      "id": "eaton-article-36e669c40d26f6bcf9b545be",
+      "name": "NH FUSE 80A 400V GG/GL SIZE 02 — Fuse-link, LV, 80 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-36e669c40d26f6bcf9b545be",
+      "recordPath": "equipment/eaton-article-36e669c40d26f6bcf9b545be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-36e669c40d26f6bcf9b545be.json"
+    },
+    {
+      "id": "eaton-article-dec0f5f58a71dee3bd8cfd5c",
+      "name": "80NHFF00BI-400 — Fuse-link, low voltage, 80 A, AC 400 V, NH00, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dec0f5f58a71dee3bd8cfd5c",
+      "recordPath": "equipment/eaton-article-dec0f5f58a71dee3bd8cfd5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dec0f5f58a71dee3bd8cfd5c.json"
+    },
+    {
+      "id": "eaton-article-5271d16ab24a95bd1d540ab2",
+      "name": "NH FUSE 80A 500V GL/GG SIZE 02 — Fuse-link, LV, 80 A, AC 500 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5271d16ab24a95bd1d540ab2",
+      "recordPath": "equipment/eaton-article-5271d16ab24a95bd1d540ab2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5271d16ab24a95bd1d540ab2.json"
+    },
+    {
+      "id": "eaton-article-2b7e27b729c2741bf7d4cbc0",
+      "name": "NH FUSE 80A 500V SIZE 000 GG IMGL — Fuse-link, LV, 80 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2b7e27b729c2741bf7d4cbc0",
+      "recordPath": "equipment/eaton-article-2b7e27b729c2741bf7d4cbc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2b7e27b729c2741bf7d4cbc0.json"
+    },
+    {
+      "id": "eaton-article-8903191b28bb50926fa1ef4c",
+      "name": "80A, AC 400V, NH000 Fuse with live lugs — Fuse-link, LV, 80 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8903191b28bb50926fa1ef4c",
+      "recordPath": "equipment/eaton-article-8903191b28bb50926fa1ef4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8903191b28bb50926fa1ef4c.json"
+    },
+    {
+      "id": "eaton-article-bb33e85d3b5eb12857ba0720",
+      "name": "80NHFF1BI-400 — Fuse-link, low voltage, 80 A, AC 400 V, NH1, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bb33e85d3b5eb12857ba0720",
+      "recordPath": "equipment/eaton-article-bb33e85d3b5eb12857ba0720.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bb33e85d3b5eb12857ba0720.json"
+    },
+    {
+      "id": "eaton-article-c86084b96848015b560625a5",
+      "name": "80NHG00BWP — Fuse-link, LV, 80 A, AC 500 V, NH00, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c86084b96848015b560625a5",
+      "recordPath": "equipment/eaton-article-c86084b96848015b560625a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c86084b96848015b560625a5.json"
+    },
+    {
+      "id": "eaton-article-a1f911d359a1ae516c3f01ff",
+      "name": "80NHG2BWP — Fuse-link, LV, 80 A, AC 500 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a1f911d359a1ae516c3f01ff",
+      "recordPath": "equipment/eaton-article-a1f911d359a1ae516c3f01ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a1f911d359a1ae516c3f01ff.json"
+    },
+    {
+      "id": "eaton-article-45475b01e967a28ff8fe419f",
+      "name": "NH FUSE 80A 500V GG/GL SIZE 0 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-45475b01e967a28ff8fe419f",
+      "recordPath": "equipment/eaton-article-45475b01e967a28ff8fe419f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-45475b01e967a28ff8fe419f.json"
+    },
+    {
+      "id": "eaton-article-662ad18f3abdedb2688a473b",
+      "name": "NH FUSE 80AMP 500V SIZE 000 GG MGL — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-662ad18f3abdedb2688a473b",
+      "recordPath": "equipment/eaton-article-662ad18f3abdedb2688a473b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-662ad18f3abdedb2688a473b.json"
+    },
+    {
+      "id": "eaton-article-81c001bbd308ff312506dea8",
+      "name": "NH FUSE 80A 500V GG/GL SIZE 02 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-81c001bbd308ff312506dea8",
+      "recordPath": "equipment/eaton-article-81c001bbd308ff312506dea8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-81c001bbd308ff312506dea8.json"
+    },
+    {
+      "id": "eaton-article-fa72d5d91f16873860d3f3e7",
+      "name": "NH FUSE 80A 690V gG SIZE 00 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fa72d5d91f16873860d3f3e7",
+      "recordPath": "equipment/eaton-article-fa72d5d91f16873860d3f3e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fa72d5d91f16873860d3f3e7.json"
+    },
+    {
+      "id": "eaton-article-2814b37c27fc40508ca6c29a",
+      "name": "NH FUSE 80A 500V GG/GL SIZE 01 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2814b37c27fc40508ca6c29a",
+      "recordPath": "equipment/eaton-article-2814b37c27fc40508ca6c29a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2814b37c27fc40508ca6c29a.json"
+    },
+    {
+      "id": "eaton-article-86e6a32a9c3f39d47c42b2b9",
+      "name": "NH FUSE 80AMP 800V gG SIZE 1 — Fuse-link, LV, 80 A, 800 V AC, NH1, Class gG/gL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-86e6a32a9c3f39d47c42b2b9",
+      "recordPath": "equipment/eaton-article-86e6a32a9c3f39d47c42b2b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-86e6a32a9c3f39d47c42b2b9.json"
+    }
+  ]
+}

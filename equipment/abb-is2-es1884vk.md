@@ -1,0 +1,129 @@
+# ABB — IS2 component ES1884VK
+
+ABB IS2 component ES1884VK. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-es1884vk) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-is2-es1884vk.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-is2-es1884vk.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: ES1884VK
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: IS2 component ES1884VK
+- Manufacturer: ABB
+- Resource type: Product
+- Part number: ES1884VK
+- Manufacturer reference: ES1884VK
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: ES1884VK ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+- Available native formats: DWG / STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+ES1884VK.zip is the original ABB archive. Open ES1884VK.stp inside it to place the original solid geometry in your 3D assembly.
+
+ES1884VK.zip is the original ABB archive. Open ES1884VK.stp inside it to place the original solid geometry in your 3D assembly. Use ES1884VK.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ES1884VK.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB ES1884VK and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for IS2 component ES1884VK?
+
+2 inspected originals for ABB IS2 component ES1884VK: ES1884VK.zip (ZIP); ES1884VK.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+## Choosing a file
+
+ES1884VK.zip is the original ABB archive. Open ES1884VK.stp inside it to place the original solid geometry in your 3D assembly. Use ES1884VK.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ES1884VK.dwg.
+
+## Preview
+
+![ABB IS2 component ES1884VK: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-is2-es1884vk/native-7203df9300cead4f699e9911-dwg?asset=7203df9300cead4f699e99118f6caf89349144baff956636ca21ab97d1aefaa9)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-es1884vk). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### ES1884VK.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-es1884vk/native-758f0c2310f1dea575ff11c7-zip)
+- Redistribution: unknown
+- Original SHA-256: 758f0c2310f1dea575ff11c7b5808bd9fb68abe85bd9360d02428d6fdc452344
+- Original bytes: 2377670
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Delivery: original; ZIP; 2377670 bytes
+- Delivery SHA-256: 758f0c2310f1dea575ff11c7b5808bd9fb68abe85bd9360d02428d6fdc452344
+
+<details>
+<summary>Archive members</summary>
+
+- ES1884VK.stp
+
+</details>
+
+### ES1884VK.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-es1884vk/native-7203df9300cead4f699e9911-dwg)
+- Redistribution: unknown
+- Original SHA-256: 7203df9300cead4f699e99118f6caf89349144baff956636ca21ab97d1aefaa9
+- Original bytes: 2971558
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Delivery: source-bundle; ZIP; 891175 bytes
+- Delivery SHA-256: 4e264537fdcaac90e46191da851065ffebd32c2d3bf21575aa61c99d7a5e4714
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

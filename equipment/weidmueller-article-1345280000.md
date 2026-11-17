@@ -1,0 +1,160 @@
+# Weidmüller — WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige
+
+Weidmüller WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1345280000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1345280000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1345280000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wtl-61tnscen/p/1345280000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1345280000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1345280000
+- Manufacturer reference: 1345280000
+- Manufacturer type: WTL 6/1/TNSC/EN
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1345280000 ([source](https://eshop.weidmueller.com.cn/en/wtl-61tnscen/p/1345280000/downloads#engineering-support))
+- Manufacturer type: WTL 6/1/TNSC/EN ([source](https://eshop.weidmueller.com.cn/en/wtl-61tnscen/p/1345280000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wtl-61tnscen/p/1345280000/downloads#engineering-support))
+
+## What the equipment does
+
+A disconnect terminal provides a wire connection that can be opened at a defined point for the selected testing or isolation arrangement.
+
+1345280000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1345280000\_back.DWG, 1345280000\_bottom.DWG, 1345280000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige before placing it.
+
+1345280000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1345280000\_back.DWG, 1345280000\_bottom.DWG, 1345280000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige before placing it. Use 1345280000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1345280000.stp. 1345280000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1345280000\_back.DXF, 1345280000\_bottom.DXF, 1345280000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1345280000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige?
+
+3 inspected originals for Weidmüller WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige: 1345280000\_DWG.zip (ZIP); 1345280000.stp (STEP); 1345280000\_DXF.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wtl-61tnscen/p/1345280000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wtl-61tnscen/p/1345280000/downloads#engineering-support)
+
+## Choosing a file
+
+1345280000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1345280000\_back.DWG, 1345280000\_bottom.DWG, 1345280000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige before placing it. Use 1345280000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1345280000.stp. 1345280000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1345280000\_back.DXF, 1345280000\_bottom.DXF, 1345280000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTL 6/1/TNSC/EN — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, 6 mm², 630 V, 41 A, sliding, Cross-disconnect: without, Integral test socket: No, TS 35, dark beige before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1345280000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/8b5549d7-6bc5-4fdc-8ef7-291012bac4ba/original/1345280000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1345280000/native-49db9f0fa8ad1c6d4d51e0ec-zip)
+- Redistribution: unknown
+- Original SHA-256: 49db9f0fa8ad1c6d4d51e0ece16e89a5c3eddac59a66b538b4a6c86987e638fc
+- Original bytes: 67326
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/8b5549d7-6bc5-4fdc-8ef7-291012bac4ba/original/1345280000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/8b5549d7-6bc5-4fdc-8ef7-291012bac4ba/original/1345280000_DWG.zip)
+- Delivery: original; ZIP; 67326 bytes
+- Delivery SHA-256: 49db9f0fa8ad1c6d4d51e0ece16e89a5c3eddac59a66b538b4a6c86987e638fc
+
+<details>
+<summary>Archive members</summary>
+
+- 1345280000\_back.DWG
+- 1345280000\_bottom.DWG
+- 1345280000\_front.DWG
+- 1345280000\_left.DWG
+- 1345280000\_right.DWG
+- 1345280000\_top.DWG
+
+</details>
+
+### 1345280000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/bfd66c49-c175-498e-b2a0-69a32cb84c70/original/1345280000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1345280000/native-0f97a136f7b8380997ad449d-step)
+- Redistribution: unknown
+- Original SHA-256: 0f97a136f7b8380997ad449d04c3ce3f9f6644937be406bd7d3a40933be34431
+- Original bytes: 732187
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/bfd66c49-c175-498e-b2a0-69a32cb84c70/original/1345280000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/bfd66c49-c175-498e-b2a0-69a32cb84c70/original/1345280000.stp)
+- Delivery: source-bundle; ZIP; 132338 bytes
+- Delivery SHA-256: 2a6ecdecd34035fead32386cf06da00c4948d6d7e98cd474ba3b589140a66178
+
+### 1345280000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/d6a0374d-c44d-4a1f-bc32-2138b0a7b024/original/1345280000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1345280000/native-2d999f5710e631a917f42778-zip)
+- Redistribution: unknown
+- Original SHA-256: 2d999f5710e631a917f427787bcdc4938fcef602775ed0488b8211ee275e047a
+- Original bytes: 42112
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/d6a0374d-c44d-4a1f-bc32-2138b0a7b024/original/1345280000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d6a0374d-c44d-4a1f-bc32-2138b0a7b024/original/1345280000_DXF.zip)
+- Delivery: original; ZIP; 42112 bytes
+- Delivery SHA-256: 2d999f5710e631a917f427787bcdc4938fcef602775ed0488b8211ee275e047a
+
+<details>
+<summary>Archive members</summary>
+
+- 1345280000\_back.DXF
+- 1345280000\_bottom.DXF
+- 1345280000\_front.DXF
+- 1345280000\_left.DXF
+- 1345280000\_right.DXF
+- 1345280000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

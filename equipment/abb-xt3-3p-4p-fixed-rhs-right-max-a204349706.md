@@ -8,7 +8,7 @@ ABB XT3 3p 4p Fixed RHS right max: breaker or breaker-accessory reference for br
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0834
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT3 3p 4p Fixed RHS right max”. Keep those fr
 - Manufacturer reference: 1SDH001295R0834
 - Document revision: A
 - Model envelope: 1SDH001295R0834.stp: 568.5 × 113.4 × 75.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0834&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 8096406 bytes
 - Delivery SHA-256: bfefae56b016fa87fcda7962f6a6f80a18ad434982014da33e4d536598d06e24
+
+### 1SDH001295R0834.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0834.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0834&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-3p-4p-fixed-rhs-right-max-a204349706/bfefae56b016fa87fcda-dxf)
+- Redistribution: unknown
+- Original SHA-256: bfefae56b016fa87fcda7962f6a6f80a18ad434982014da33e4d536598d06e24
+- Original bytes: 8096406
+- Revision: A
+- Retrieved: 2026-11-03T02:13:10.100230Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0834&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0834&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 910035 bytes
+- Delivery SHA-256: 025614b6da9d4615d8aa14b898cfa884375eccb43314c074b53eec6f75bd8c5c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

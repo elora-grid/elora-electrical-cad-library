@@ -1,0 +1,94 @@
+# CHINT — NTC1-363P6h250V
+
+CHINT NTC1-363P6h250V. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/chint-native-configuration-539a3ab006eef8652bbd6055) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/chint-native-configuration-539a3ab006eef8652bbd6055.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/chint-native-configuration-539a3ab006eef8652bbd6055.json) · [Official manufacturer source](https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html)
+
+- Category: Switchboards & switchgear
+- Entry type: drawing
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NTC1-363P6h250V
+- Manufacturer: CHINT
+- Resource type: Named drawing reference
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: STEP ([source](https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use NTC1-363P6h250V.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NTC1-363P6h250V.stp.
+
+Use NTC1-363P6h250V.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NTC1-363P6h250V.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match CHINT NTC1-363P6h250V and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NTC1-363P6h250V?
+
+1 inspected original for CHINT NTC1-363P6h250V: NTC1-363P6h250V.stp (STEP).
+
+### Where did these CHINT files come from?
+
+CHINT supplied the original files through https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [CHINT official source](https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html)
+
+## Choosing a file
+
+Use NTC1-363P6h250V.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NTC1-363P6h250V.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NTC1-363P6h250V.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/chint-native-configuration-539a3ab006eef8652bbd6055/native-b7e7dd6ba75403f0148c8359-step)
+- Redistribution: unknown
+- Original SHA-256: b7e7dd6ba75403f0148c8359a5e48ce957d0e742fe2bb3ab587439621eeafb51
+- Original bytes: 7305217
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: CHINT
+- [Hosting evidence](https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.chint.net/cn/index/listview/catid/72/m/cn/type/20%2C21%2C72%2C143/wd/1/tp/1/p/150.html)
+- Delivery: source-bundle; ZIP; 1654779 bytes
+- Delivery SHA-256: 25908fd733f572d874dd8b30e4754bb42d65396bb5713f78c45b96aef5cb9c38
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

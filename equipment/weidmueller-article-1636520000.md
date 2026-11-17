@@ -1,0 +1,160 @@
+# Weidmüller — STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent
+
+Weidmüller STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1636520000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1636520000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1636520000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/str-15-f-zgb-15/p/1636520000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1636520000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1636520000
+- Manufacturer reference: 1636520000
+- Manufacturer type: STR 15 F. ZGB 15
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1636520000 ([source](https://eshop.weidmueller.com.cn/en/str-15-f-zgb-15/p/1636520000/downloads#engineering-support))
+- Manufacturer type: STR 15 F. ZGB 15 ([source](https://eshop.weidmueller.com.cn/en/str-15-f-zgb-15/p/1636520000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/str-15-f-zgb-15/p/1636520000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1636520000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1636520000\_back.DWG, 1636520000\_bottom.DWG, 1636520000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent before placing it.
+
+1636520000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1636520000\_back.DWG, 1636520000\_bottom.DWG, 1636520000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent before placing it. Use 1636520000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1636520000.stp. 1636520000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1636520000\_back.DXF, 1636520000\_bottom.DXF, 1636520000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1636520000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent?
+
+3 inspected originals for Weidmüller STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent: 1636520000\_DWG.zip (ZIP); 1636520000.stp (STEP); 1636520000\_DXF.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/str-15-f-zgb-15/p/1636520000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/str-15-f-zgb-15/p/1636520000/downloads#engineering-support)
+
+## Choosing a file
+
+1636520000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1636520000\_back.DWG, 1636520000\_bottom.DWG, 1636520000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent before placing it. Use 1636520000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1636520000.stp. 1636520000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1636520000\_back.DXF, 1636520000\_bottom.DXF, 1636520000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to STR 15 F. ZGB 15 — Device marking / Device marking, 6.3 mm, Polyester, PVC-free, Transparent before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1636520000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/55b7a5aa-0727-4aa6-ba20-5e293abca838/original/1636520000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1636520000/native-1a90ca085bfca427a44a8115-zip)
+- Redistribution: unknown
+- Original SHA-256: 1a90ca085bfca427a44a811586e9ff20aef62f5b627de01926eb95f4da7faae2
+- Original bytes: 34228
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/55b7a5aa-0727-4aa6-ba20-5e293abca838/original/1636520000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/55b7a5aa-0727-4aa6-ba20-5e293abca838/original/1636520000_DWG.zip)
+- Delivery: original; ZIP; 34228 bytes
+- Delivery SHA-256: 1a90ca085bfca427a44a811586e9ff20aef62f5b627de01926eb95f4da7faae2
+
+<details>
+<summary>Archive members</summary>
+
+- 1636520000\_back.DWG
+- 1636520000\_bottom.DWG
+- 1636520000\_front.DWG
+- 1636520000\_left.DWG
+- 1636520000\_right.DWG
+- 1636520000\_top.DWG
+
+</details>
+
+### 1636520000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/d2da42ee-3846-459d-b848-7badf39f2bbd/original/1636520000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1636520000/native-d1aaab98773ffe16d01d69c0-step)
+- Redistribution: unknown
+- Original SHA-256: d1aaab98773ffe16d01d69c0839d3de7be24f7497baedbec22c92201fb54fe85
+- Original bytes: 10683
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/d2da42ee-3846-459d-b848-7badf39f2bbd/original/1636520000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d2da42ee-3846-459d-b848-7badf39f2bbd/original/1636520000.stp)
+- Delivery: source-bundle; ZIP; 3148 bytes
+- Delivery SHA-256: 8c6eb037932885a15dbbe28b58bd32eda5f3f1f9503a701684ef941605c404e6
+
+### 1636520000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/d3476da7-3eb2-4265-a55f-8260ab3e9d85/original/1636520000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1636520000/native-8c5d9a95142187af81a31665-zip)
+- Redistribution: unknown
+- Original SHA-256: 8c5d9a95142187af81a316655cde0a665a6b1ef6a5b58087ec7a9149b3763b36
+- Original bytes: 24031
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/d3476da7-3eb2-4265-a55f-8260ab3e9d85/original/1636520000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/d3476da7-3eb2-4265-a55f-8260ab3e9d85/original/1636520000_DXF.zip)
+- Delivery: original; ZIP; 24031 bytes
+- Delivery SHA-256: 8c5d9a95142187af81a316655cde0a665a6b1ef6a5b58087ec7a9149b3763b36
+
+<details>
+<summary>Archive members</summary>
+
+- 1636520000\_back.DXF
+- 1636520000\_bottom.DXF
+- 1636520000\_front.DXF
+- 1636520000\_left.DXF
+- 1636520000\_right.DXF
+- 1636520000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

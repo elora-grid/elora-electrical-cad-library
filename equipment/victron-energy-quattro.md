@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: Quattro
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: UL 1741, UL 458, EN 50549-1, IEC 62477-1, AS 4777.2, IEC 62116, IEC 62040-1, IEC 62109-1-2, IEC 60335, IEC 62109-1, IEC 60335-2-29, IEC 60335-1
 - Listed file formats: STEP
 - Listed files: 6
 - Available previews: 5 interactive model variants

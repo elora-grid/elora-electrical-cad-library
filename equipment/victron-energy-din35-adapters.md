@@ -7,7 +7,7 @@ Official DIN35 adapters dimensional CAD. Exact voltage, power, hardware generati
 - Category: Wiring & terminals
 - Entry type: family
 - Part number: Select exact configuration
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -21,8 +21,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: DIN35 adapters
 - Manufacturer: Victron Energy
 - Resource type: Product family
-- Listed file formats: DWG, STEP
-- Listed files: 6
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 9
 - Available previews: 3 drawing previews; 3 interactive model variants
 - Recorded revisions: 00, 02
 - Source checked: 2026-10-13
@@ -44,7 +44,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 This is Victron Energy's DIN35 adapters collection. Select the model or accessory named in each file, rather than choosing solely by format.
-Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -105,6 +105,27 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 561997 bytes
 - Delivery SHA-256: 6a734e12cde55b109015df13bcce5800b5e81bd74d056325fff5d1c384f33e6d
 
+### DimensionDrawing-DIN-35-adapter-large.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing-DIN-35-adapter-large.DWG).
+- [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-DIN-35-adapter-large.DWG)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-large-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6a734e12cde55b109015df13bcce5800b5e81bd74d056325fff5d1c384f33e6d
+- Original bytes: 561997
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Victron Energy
+- [Hosting evidence](https://www.victronenergy.com/accessories/din35-adapter-small)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted. Linked terms govern product sales, software supplied with products and confidential buyer information; no explicit prohibition for public CAD downloads was identified.
+- [Rights evidence](https://www.victronenergy.com/communication-centres/cerbo-gx)
+- [Rights evidence](https://www.victronenergy.com/)
+- [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
+- Delivery: converted; DXF; 2860672 bytes
+- Delivery SHA-256: 0bb54693baddfeef66d8cf8beb9d15fa2b514e66bd53a4d1af2f9258cdfd6b0f
+
 ### DimensionDrawing-DIN-35-adapter-medium-3D.STEP
 
 - Format: STEP
@@ -147,6 +168,27 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 491212 bytes
 - Delivery SHA-256: 245f1462d2f54bf93edc8bfeec81f542a7891b4c9bca79861bd3b7132fc73596
 
+### DimensionDrawing-DIN-35-adapter-medium.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing-DIN-35-adapter-medium.DWG).
+- [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-DIN-35-adapter-medium.DWG)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-medium-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 245f1462d2f54bf93edc8bfeec81f542a7891b4c9bca79861bd3b7132fc73596
+- Original bytes: 491212
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Victron Energy
+- [Hosting evidence](https://www.victronenergy.com/accessories/din35-adapter-small)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted. Linked terms govern product sales, software supplied with products and confidential buyer information; no explicit prohibition for public CAD downloads was identified.
+- [Rights evidence](https://www.victronenergy.com/communication-centres/cerbo-gx)
+- [Rights evidence](https://www.victronenergy.com/)
+- [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
+- Delivery: converted; DXF; 2567896 bytes
+- Delivery SHA-256: d5ccd0406719e755437df312946d08fdd61220f187f47477935c69f32f206830
+
 ### DimensionDrawing-DIN-35-adapter-small-3D.STEP
 
 - Format: STEP
@@ -188,5 +230,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
 - Delivery: original; DWG; 563699 bytes
 - Delivery SHA-256: b99b1a7869c0a391e7167afeefa2ad5f3b547e2f1cec101dac1a2a65a693bd75
+
+### DimensionDrawing-DIN-35-adapter-small.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing-DIN-35-adapter-small.DWG).
+- [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-DIN-35-adapter-small.DWG)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-small-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: b99b1a7869c0a391e7167afeefa2ad5f3b547e2f1cec101dac1a2a65a693bd75
+- Original bytes: 563699
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Victron Energy
+- [Hosting evidence](https://www.victronenergy.com/accessories/din35-adapter-small)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted. Linked terms govern product sales, software supplied with products and confidential buyer information; no explicit prohibition for public CAD downloads was identified.
+- [Rights evidence](https://www.victronenergy.com/communication-centres/cerbo-gx)
+- [Rights evidence](https://www.victronenergy.com/)
+- [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
+- Delivery: converted; DXF; 2833956 bytes
+- Delivery SHA-256: 5118dceb928c4188829234ca89692e14f1369bfe6f51e4cb454eb6ff2d68ba94
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

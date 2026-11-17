@@ -25,6 +25,7 @@ Manufacturer reference tdu-2d-cad-drawings.zip; tdu-2d-pdfs.zip; tdu-3d-pdfs.zip
 - Manufacturer drawing: tdu-2d-cad-drawings.zip; tdu-2d-pdfs.zip; tdu-3d-pdfs.zip
 - Manufacturer reference: tdu-2d-cad-drawings.zip; tdu-2d-pdfs.zip; tdu-3d-pdfs.zip; tdu-3d-step-files.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-4, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-1, UL 508, IEC 62443, IEC 60529, IEC 60945, IEC 60092-504, IEC 60533, UL 61010-1
 - Listed file formats: ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

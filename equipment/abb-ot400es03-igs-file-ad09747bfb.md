@@ -25,6 +25,7 @@ The supplied configuration is “OT400ES03”. Keep those frame, mounting and ac
 - Manufacturer drawing: OT400ES03.IGS
 - Manufacturer reference: OT400ES03.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

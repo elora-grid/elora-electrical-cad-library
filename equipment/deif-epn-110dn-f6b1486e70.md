@@ -25,6 +25,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Manufacturer drawing: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; epn-110dn-installation-instructions-4189340132-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer reference: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; epn-110dn-installation-instructions-4189340132-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 3
 - Available previews: Manufacturer source / drawing request

@@ -25,6 +25,7 @@ The supplied configuration is “E6.3 6300A 3p F IEC”. Keep those frame, mount
 - Manufacturer drawing: 1SDH002443A1053
 - Manufacturer reference: 1SDH002443A1053
 - Document revision: A
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

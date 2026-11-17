@@ -1,0 +1,129 @@
+# ABB — IS2 component EC2011K
+
+ABB IS2 component EC2011K. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-ec2011k) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-is2-ec2011k.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-is2-ec2011k.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: EC2011K
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: IS2 component EC2011K
+- Manufacturer: ABB
+- Resource type: Product
+- Part number: EC2011K
+- Manufacturer reference: EC2011K
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: EC2011K ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+- Available native formats: DWG / STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+EC2011K.zip is the original ABB archive. Open EC2011K.stp inside it to place the original solid geometry in your 3D assembly.
+
+EC2011K.zip is the original ABB archive. Open EC2011K.stp inside it to place the original solid geometry in your 3D assembly. Use EC2011K.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified EC2011K.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB EC2011K and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for IS2 component EC2011K?
+
+2 inspected originals for ABB IS2 component EC2011K: EC2011K.zip (ZIP); EC2011K.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+## Choosing a file
+
+EC2011K.zip is the original ABB archive. Open EC2011K.stp inside it to place the original solid geometry in your 3D assembly. Use EC2011K.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified EC2011K.dwg.
+
+## Preview
+
+![ABB IS2 component EC2011K: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-is2-ec2011k/native-8e6075760857b49455b25f83-dwg?asset=8e6075760857b49455b25f83cbf1c8319f52677da777838fe5fd725d0866f341)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-ec2011k). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### EC2011K.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-ec2011k/native-261c98ed8d1ac702d73738de-zip)
+- Redistribution: unknown
+- Original SHA-256: 261c98ed8d1ac702d73738de4a8df1b13f4e64c50e6bf0930fd5fb3ffa76e7d8
+- Original bytes: 285587
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Delivery: original; ZIP; 285587 bytes
+- Delivery SHA-256: 261c98ed8d1ac702d73738de4a8df1b13f4e64c50e6bf0930fd5fb3ffa76e7d8
+
+<details>
+<summary>Archive members</summary>
+
+- EC2011K.stp
+
+</details>
+
+### EC2011K.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-ec2011k/native-8e6075760857b49455b25f83-dwg)
+- Redistribution: unknown
+- Original SHA-256: 8e6075760857b49455b25f83cbf1c8319f52677da777838fe5fd725d0866f341
+- Original bytes: 723964
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Delivery: source-bundle; ZIP; 573988 bytes
+- Delivery SHA-256: 8ff32cd67d5db0df45d35b4ad14791f7f2f5c895331c456faec6071556809474
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

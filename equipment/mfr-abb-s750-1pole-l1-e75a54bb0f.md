@@ -1,0 +1,93 @@
+# ABB — S750 1pole L1
+
+ABB S750 1pole L1. Retained manufacturer CAD files and drawings for breakers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s750-1pole-l1-e75a54bb0f) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s750-1pole-l1-e75a54bb0f.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s750-1pole-l1-e75a54bb0f.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000B0045&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Breakers & accessories
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: S750 1pole L1
+- Manufacturer: ABB
+- Resource type: Product family
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000B0045&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use 2CDX405000C0045.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 2CDX405000C0045.stp.
+
+Use 2CDX405000C0045.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 2CDX405000C0045.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB S750 1pole L1 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for S750 1pole L1?
+
+1 inspected original for ABB S750 1pole L1: 2CDX405000C0045.stp (STEP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000B0045&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000B0045&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 2CDX405000C0045.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 2CDX405000C0045.stp.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2CDX405000C0045.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000C0045&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-s750-1pole-l1-e75a54bb0f/native-407f0df6385528c2d9d36094-step)
+- Redistribution: unknown
+- Original SHA-256: 407f0df6385528c2d9d36094d4a6f83857e8a3dfdf96c804ddc96e8600dff5c6
+- Original bytes: 11328648
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000C0045&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2CDX405000C0045&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: source-bundle; ZIP; 2270980 bytes
+- Delivery SHA-256: 9aa49a96223ff4767031d1ce95f18ae527f9ef0dd51773cb77916116e159f2f7
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -2,16 +2,30 @@ import {readFile,writeFile,mkdir,readdir,unlink} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {resolve,join} from 'node:path';
 import {createHash} from 'node:crypto';
+import {gzipSync} from 'node:zlib';
+import {decodeSnapshot,MAX_DECODED_BYTES,sha256} from './snapshot.mjs';
 import {BASE,REPOSITORY,CATEGORIES,SCHEMA,validateCatalogue,csv,entryMarkdown,clean,snapshotCounts,sourceAuditSummary} from './catalogue.mjs';
 const root=fileURLToPath(new URL('..',import.meta.url));
 const args=process.argv.slice(2);
 if(args.length && !(args.length===2&&args[0]==='--input-dir'))throw Error('Usage: node scripts/sync.mjs [--input-dir /path/to/public-feed-fixture]');
 const input=args[0]==='--input-dir'?resolve(args[1]):null;
+let bulkSnapshot;
 async function source(name,path){
-  if(input)return JSON.parse(await readFile(join(input,name),'utf8'));
-  const response=await fetch(`${BASE}/${path}`,{signal:AbortSignal.timeout(60000),redirect:'error',headers:{Accept:'application/json'}});
-  if(!response.ok)throw Error(`Public feed ${name}: HTTP ${response.status}`);
-  const body=await response.text();if(Buffer.byteLength(body)>100000000)throw Error('Public feed exceeds export size limit');
+  let body,packed;
+  if(input){
+    if(name==='catalogue.json'){
+      try{packed=await readFile(join(input,'catalogue.json.gz'));body=decodeSnapshot(packed).toString('utf8');}
+      catch(error){if(error.code!=='ENOENT')throw error;body=await readFile(join(input,name),'utf8');}
+    }else body=await readFile(join(input,name),'utf8');
+  }else{
+    const response=await fetch(`${BASE}/${path}`,{signal:AbortSignal.timeout(120000),redirect:'error',headers:{Accept:'application/json'}});
+    if(!response.ok)throw Error(`Public feed ${name}: HTTP ${response.status}`);
+    const chunks=[];let size=0;
+    for await(const chunk of response.body){size+=chunk.length;if(size>MAX_DECODED_BYTES)throw Error('Public feed exceeds decoded export size limit');chunks.push(chunk);}
+    body=Buffer.concat(chunks).toString('utf8');
+  }
+  if(Buffer.byteLength(body)>MAX_DECODED_BYTES)throw Error('Public feed exceeds decoded export size limit');
+  if(name==='catalogue.json')bulkSnapshot={packed:packed||gzipSync(body,{level:9}),decodedBytes:Buffer.byteLength(body),decodedSha256:sha256(body)};
   return JSON.parse(body);
 }
 const catalogue=validateCatalogue(await source('catalogue.json','../../cad-library/catalogue.json'));
@@ -24,9 +38,9 @@ const counts=snapshotCounts(records);
 const sourceAudit=sourceAuditSummary(audit,counts);
 const outputs=new Map();
 const json=value=>JSON.stringify(value,null,2)+'\n';
-// Preserve the complete schema-v3 export below GitHub's 100 MiB file limit.
+// Preserve every schema-v3 field losslessly below GitHub's per-file limit.
 // Small discovery shards below avoid requiring agents to fetch this bulk file.
-outputs.set('data/catalogue.json',JSON.stringify(catalogue)+'\n');
+outputs.set('data/catalogue.json.gz',bulkSnapshot.packed);
 outputs.set('schema/catalogue.schema.json',json(SCHEMA));
 outputs.set('openapi.json',json(openapi));
 outputs.set('data/catalogue.csv',csv([
@@ -52,23 +66,23 @@ for(const [id,label] of Object.entries(CATEGORIES)) {
 }
 outputs.set('data/index.json',json({schemaVersion:1,canonical:BASE,counts,categories:categoryIndexes}));
 outputs.set('equipment/README.md',[
-  '# Equipment directory','',`Browse [Elora's CAD library](${BASE}) or search [the JSON catalogue](../data/catalogue.json).`,'',
+  '# Equipment directory','',`Browse [Elora's CAD library](${BASE}) or search [the JSON catalogue](../data/catalogue.json.gz).`,'',
   ...categoryIndexes.flatMap(category=>[
     `## ${category.name} (${category.count} entries)`,'',...category.pages.map((page,i)=>`- [Entries ${i*250+1}–${i*250+page.count}](${page.directory.replace('equipment/','')})`),''
   ])
 ].join('\n'));
-outputs.set('data/manifest.json',json({schemaVersion:1,repository:REPOSITORY,canonical:BASE,sourceFeed:`${BASE}/catalogue.json?all=1`,counts,sourceAuditAt:audit.auditedAt,sourceAudit,licensing:{catalogue:'CC-BY-4.0',code:'MIT',manufacturerCad:'Per-file rights; no blanket licence'},files:Object.fromEntries([...outputs].map(([name,body])=>[name,{sha256:createHash('sha256').update(body).digest('hex'),bytes:Buffer.byteLength(body)}]))}));
+outputs.set('data/manifest.json',json({schemaVersion:1,repository:REPOSITORY,canonical:BASE,sourceFeed:`${BASE}/catalogue.json?all=1`,distribution:{path:'data/catalogue.json.gz',encoding:'gzip',decodedBytes:bulkSnapshot.decodedBytes,decodedSha256:bulkSnapshot.decodedSha256},counts,sourceAuditAt:audit.auditedAt,sourceAudit,licensing:{catalogue:'CC-BY-4.0',code:'MIT',manufacturerCad:'Per-file rights; no blanket licence'},files:Object.fromEntries([...outputs].map(([name,body])=>[name,{sha256:createHash('sha256').update(body).digest('hex'),bytes:Buffer.byteLength(body)}]))}));
 outputs.set('README.md',[
   '# Elora Electrical CAD Library','',
   'Open catalogue of official manufacturer CAD, BIM and electrical engineering drawing sources for switchboards, switchgear, switchrooms, generators and microgrids. Free for engineers and AI agents.','',
-  `**[Search and download CAD on Elora](${BASE})** · [JSON catalogue](data/catalogue.json) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)`,'',
-  `The current snapshot contains **${counts.entries} catalogue entries**, **${counts.manufacturers} manufacturers**, **${counts.categories} equipment categories**, and **${counts.hostedFileEntries} site download entries** representing **${counts.distinctHostedOriginals} distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)`,'',
+  `**[Search and download CAD on Elora](${BASE})** · [Full JSON (gzip)](data/catalogue.json.gz) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)`,'',
+  `The current snapshot contains **${counts.entries.toLocaleString('en-US')} catalogue entries**, **${counts.manufacturers} manufacturers**, **${counts.categories} equipment categories**, and **${counts.hostedFileEntries.toLocaleString('en-US')} site download entries** representing **${counts.distinctHostedOriginals.toLocaleString('en-US')} distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)`,'',
   '## Find CAD','',
   '- [Equipment index](equipment/README.md): one readable page per source, with manufacturer links, available files and rights evidence.',
   '- [Compact discovery index](data/index.json): category indexes in chunks of at most 250 records, with exact Markdown and live JSON links.',
-  '- [Catalogue JSON](data/catalogue.json): complete bulk metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions. This large file is intended for local bulk processing; use the compact index for retrieval.',
+  '- [Catalogue JSON (gzip)](data/catalogue.json.gz): complete lossless bulk metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions. Decompress it before JSON parsing; use the compact index for retrieval.',
   '- [Catalogue CSV](data/catalogue.csv): one row per source. [Files CSV](data/files.csv): one row per listed file.',
-  '- [Live search API](docs/api.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access without an account.',
+  '- [API guide](docs/api.md), [MCP connection guide](docs/mcp.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access and current rollout discovery.',
   '- [Coverage audit]('+BASE+'/coverage): collection gaps and acquisition priorities.','',
   `The snapshot includes **${counts.drawingEntries} individually identified drawing entries** and **${counts.previewableEntries} entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.`,'',
   'Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.','',
@@ -76,9 +90,13 @@ outputs.set('README.md',[
   '## Equipment coverage','',
   'Switchboards and LV/MV/HV switchgear; breakers and accessories; enclosures, busbar and fabrication hardware; protection, metering, automation, wiring and terminals; auxiliary power and UPS; cooling, ventilation, power quality and drives; transformers and earthing; generators, alternators and auxiliaries; batteries and PCS; solar and inverters; communications, cable management and switchroom services.','',
   'USA, Australia, UK and Europe have equal research priority. Market tags support discovery; they do not establish product-level regional parity or IEC/UL certification. The collection is expanding and is not exhaustive SKU or assembly coverage.','',
+  '## API and MCP access','',
+  'Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. The agent-access release is deployed separately from this metadata snapshot. If discovery or v1 capabilities is unavailable, use the existing catalogue API below; never guess an MCP URL. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).','',
+  'The v1 workflows find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account after the access rollout, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.','',
   '## Use with an AI agent','',
   'Read [docs/agents.md](docs/agents.md), then search the JSON catalogue or live API. Return canonical equipment pages and stable `downloadUrl` values. Preserve manufacturer attribution and per-file rights information. Do not treat a family archive or manufacturer portal as an exact configured product.','',
   '```sh','npm run search -- --query "inverter" --market US --hosted','npm run sync','npm run validate','npm test','```','',
+  '[Bulk snapshot format and decompression](docs/snapshot-format.md). `data/catalogue.json.gz` replaces the previous uncompressed file because the complete feed exceeds GitHub’s per-file limit; all metadata fields are retained. The search command reads it directly.','',
   'Node.js 22 or newer is required for the scripts. No dependencies or API keys are needed to search, validate or refresh the catalogue. The GitHub workflow checks contributions and refreshes the public metadata daily; unchanged snapshots produce no commit. GitHub may pause scheduled workflows after 60 days without repository activity; maintainers can re-enable or run the workflow manually.','',
   '## Downloads and drawing requests','',
   'CAD files are delivered by Elora or the official publisher. This repository stores metadata and links. Elora download URLs remain stable and redirect to temporary attachment URLs; do not save the temporary URL. If drawings require an account, configuration or request, follow the equipment page. Request CAD registers the request with the Elora team; engineer contact details are private and excluded from this repository.','',
@@ -90,7 +108,9 @@ outputs.set('README.md',[
   'The public website feed is the source of truth. Use each entry’s canonicalUrl as the preferred citation link; this is publisher guidance, not an HTML canonical directive or a guarantee of search-engine selection. Generated indexes and equipment pages are refreshed from that feed; accepted source corrections should be incorporated there before regeneration.',''
 ].join('\n'));
 // Validate the whole candidate snapshot before replacing any generated file.
+for(const [name,body] of outputs)if(Buffer.byteLength(body)>=100*1024*1024)throw Error(`Generated file exceeds GitHub limit: ${name}`);
 for(const [name,body] of outputs){await mkdir(resolve(root,name,'..'),{recursive:true});await writeFile(join(root,name),body);}
+await unlink(join(root,'data/catalogue.json')).catch(error=>{if(error.code!=='ENOENT')throw error;});
 const keep=new Set([...outputs.keys()].filter(name=>name.startsWith('equipment/')).map(name=>name.slice('equipment/'.length)));
 for(const name of await readdir(join(root,'equipment')))if(name.endsWith('.md')&&!keep.has(name))await unlink(join(root,'equipment',name));
 for(const name of await readdir(join(root,'data/indexes')))if(!outputs.has('data/indexes/'+name))await unlink(join(root,'data/indexes',name));

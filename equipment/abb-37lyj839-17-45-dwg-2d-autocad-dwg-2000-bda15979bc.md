@@ -8,7 +8,7 @@ ABB 37LYJ839\_17.45: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 37LYJ839\_17.45; 37LYJ839
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -30,8 +30,8 @@ The supplied configuration is “37LYJ839\_17.45”. Keep those frame, mounting 
 - Model envelope: 37LYJ839\_16.32.step: 415.4 × 263.3 × 325 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 37LYJ839
 - Manufacturer reference: 37LYJ839\_18.20; 37LYJ839
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 10
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 11
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -124,6 +124,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=37LYJ839_17.45&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 842430 bytes
 - Delivery SHA-256: 3e2bb63c5fab61dc57033265355c2e85a57b79a3209a43937030498056877ef5
+
+### 37LYJ839\_17.45.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (37LYJ839\_17.45.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=37LYJ839_17.45&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-37lyj839-17-45-dwg-2d-autocad-dwg-2000-bda15979bc/3e2bb63c5fab61dc5703-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3e2bb63c5fab61dc57033265355c2e85a57b79a3209a43937030498056877ef5
+- Original bytes: 842430
+- Revision: B
+- Retrieved: 2026-11-04T01:00:16Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=37LYJ839_17.45&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=37LYJ839_17.45&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1868252 bytes
+- Delivery SHA-256: 777d7b537559a66fc33ea1ed08d5747df7c0814b771d0d38b07f9958f3d5c4c9
 
 ### 37LYJ839.pdf
 

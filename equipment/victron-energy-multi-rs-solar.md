@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: Multi RS Solar
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: EN 50549-1, EN 50549-10, IEC 60335-1, IEC 62109-1
 - Listed file formats: STEP
 - Listed files: 2
 - Available previews: 2 interactive model variants

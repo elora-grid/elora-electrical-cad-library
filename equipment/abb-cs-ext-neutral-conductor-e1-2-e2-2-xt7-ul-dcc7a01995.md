@@ -8,7 +8,7 @@ ABB CS EXT NEUTRAL CONDUCTOR E1.2-E2.2-XT7 UL: breaker connection or accessory r
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0430
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ This reference covers the connection or accessory named in “CS EXT NEUTRAL CON
 - Manufacturer reference: 1SDH001252R0430
 - Document revision: -
 - Model envelope: 1SDH001252R0369\_APPL.\_NEUTRO\_ESTERNO\_2000\_UL.stp: 77 × 174 × 115.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -100,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0430&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 3669856 bytes
 - Delivery SHA-256: 1470b93ce1bb887e6b28c4161a4ecd91b35c2d3886acf40663e841afeb416349
+
+### 1SDH001252R0369\_APPL.\_NEUTRO\_ESTERNO\_2000\_UL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0369\_APPL.\_NEUTRO\_ESTERNO\_2000\_UL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0430&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-cs-ext-neutral-conductor-e1-2-e2-2-xt7-ul-dcc7a01995/1470b93ce1bb887e6b28-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1470b93ce1bb887e6b28c4161a4ecd91b35c2d3886acf40663e841afeb416349
+- Original bytes: 3669856
+- Revision: -
+- Retrieved: 2026-11-03T02:01:50.537475Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0430&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0430&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 500332 bytes
+- Delivery SHA-256: ac4023e1139c68fd8aaf98441a64a09349c17eb247b33932a24cdcab4b29fe1b
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

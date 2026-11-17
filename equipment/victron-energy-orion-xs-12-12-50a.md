@@ -22,6 +22,7 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Manufacturer: Victron Energy
 - Resource type: Product
 - Part number: ORI121217040
+- Standards: IEC 62477-1
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

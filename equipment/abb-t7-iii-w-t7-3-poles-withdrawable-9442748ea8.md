@@ -25,6 +25,7 @@ The supplied configuration is “T7 III W - T7 3 poles Withdrawable”. Keep tho
 - Manufacturer drawing: 1SDH001291R0157
 - Manufacturer reference: 1SDH001291R0157
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

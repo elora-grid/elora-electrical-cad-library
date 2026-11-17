@@ -7,7 +7,7 @@ Square-housing mixed-flow inline-fan geometry for ventilation coordination. The 
 - Category: Switchroom services
 - Entry type: family
 - Part number: SQ Mixed Flow
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-10-29
@@ -22,8 +22,8 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: SQ Mixed Flow
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with SQ Mixed Flow. The files above belong to Greenheck's SQ Mixed Flow inline fan resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, ZIP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, ZIP. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -83,6 +83,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 7422551 bytes
 - Delivery SHA-256: 9f63c0f03bb202509a5930afc235575e7e55ed2552e3753f6a119c9d5aa17679
 
+### SQ\_MixedFlow-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SQ\_MixedFlow-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10013/SQ_MixedFlow-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sq-mixed-flow-fans/greenheck-sq-mixedflow-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9f63c0f03bb202509a5930afc235575e7e55ed2552e3753f6a119c9d5aa17679
+- Original bytes: 7422551
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10013/SQ_MixedFlow-3D.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10013/SQ_MixedFlow-3D.dwg)
+- Delivery: converted; DXF; 24204545 bytes
+- Delivery SHA-256: 268444284214b8ca735a33f3ae117c12a45d4c63dbef34798def33f14a699af8
+
 ### SQ-30.dwg
 
 - Format: DWG
@@ -101,6 +120,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10012/SQ-30.dwg)
 - Delivery: original; DWG; 407912 bytes
 - Delivery SHA-256: ba2a73a02eba1291a18362f502fbb715885873f36d967cc42db5e53746c9b2d6
+
+### SQ-30.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SQ-30.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10012/SQ-30.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sq-mixed-flow-fans/greenheck-sq-30-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: ba2a73a02eba1291a18362f502fbb715885873f36d967cc42db5e53746c9b2d6
+- Original bytes: 407912
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10012/SQ-30.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10012/SQ-30.dwg)
+- Delivery: converted; DXF; 234116 bytes
+- Delivery SHA-256: 251c85dd8e1f0db786352bd7f77138c2cf16820566332a0b85d94400dc61e45b
 
 ### SQ\_MixedFlow\_LOD200\_AllSizes.zip
 

@@ -25,6 +25,7 @@ The supplied configuration is “OT200-250ES30K”. Keep those frame, mounting a
 - Manufacturer drawing: OT200ES30K.IGS
 - Manufacturer reference: OT200ES30K.IGS
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

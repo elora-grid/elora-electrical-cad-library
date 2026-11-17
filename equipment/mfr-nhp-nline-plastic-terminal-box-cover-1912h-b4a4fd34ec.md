@@ -1,0 +1,119 @@
+# NHP — NLINE Plastic Terminal Box Cover 1912H
+
+NHP NLINE Plastic Terminal Box Cover 1912H: original DWG for terminal or connection hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear
+- Formats: DWG, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named Plastic Terminal Box Cover 1912H.
+
+## Equipment and file summary
+
+- Equipment / resource: NLINE Plastic Terminal Box Cover 1912H
+- Manufacturer: NHP
+- Resource type: Product
+- Manufacturer drawing identity: Plastic Terminal Box Cover 1912H
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: Plastic Terminal Box Cover 1912H ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+Use NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match NHP NLINE Plastic Terminal Box Cover 1912H and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NLINE Plastic Terminal Box Cover 1912H?
+
+1 inspected original for NHP NLINE Plastic Terminal Box Cover 1912H: NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg (DWG).
+
+### Where did these NHP files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [NHP official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+## Preview
+
+![NHP NLINE Plastic Terminal Box Cover 1912H: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec/nhp-198163?asset=f021ba4c1e5e9ac342cf1c2645d91392d0f0f8ddd1eb8da77f4690bc0445cbc9&view=thumb&v=75b5ea3d55ad2485)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg
+
+- Format: DWG
+- Purpose: Original manufacturer DWG geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec/nhp-198163)
+- Redistribution: unknown
+- Original SHA-256: f021ba4c1e5e9ac342cf1c2645d91392d0f0f8ddd1eb8da77f4690bc0445cbc9
+- Original bytes: 415002
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:52:44.497976+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg)
+- Delivery: original; DWG; 415002 bytes
+- Delivery SHA-256: f021ba4c1e5e9ac342cf1c2645d91392d0f0f8ddd1eb8da77f4690bc0445cbc9
+
+### NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg).
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-nline-plastic-terminal-box-cover-1912h-b4a4fd34ec/nhp-198163-dxf)
+- Redistribution: unknown
+- Original SHA-256: f021ba4c1e5e9ac342cf1c2645d91392d0f0f8ddd1eb8da77f4690bc0445cbc9
+- Original bytes: 415002
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:52:44.497976+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-1912H-DWG-2D-CAD-Block.dwg)
+- Delivery: converted; DXF; 482731 bytes
+- Delivery SHA-256: d2b6acfbe2408965f8f36553ba2b90cc20a89541e3a31536e71159bff87773b4
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

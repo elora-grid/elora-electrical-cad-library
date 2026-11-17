@@ -8,7 +8,7 @@ ABB XT1 PLL Fixed lock with padlocks in open-closed position: breaker or breaker
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0819
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT1 PLL Fixed lock with padlocks in open-closed
 - Manufacturer reference: 1SDH001295R0819
 - Document revision: A
 - Model envelope: 1SDH001295R0819.stp: 68 × 21.9 × 45 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0819&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 451068 bytes
 - Delivery SHA-256: df38c9a3b2eeb5745df9ae9b2214f46a62c44cd26043b1d46719e54daba8d58c
+
+### 1SDH001295R0819.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0819.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0819&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-pll-fixed-lock-with-padlocks-in-open-closed-position-678729e4db/df38c9a3b2eeb5745df9-dxf)
+- Redistribution: unknown
+- Original SHA-256: df38c9a3b2eeb5745df9ae9b2214f46a62c44cd26043b1d46719e54daba8d58c
+- Original bytes: 451068
+- Revision: A
+- Retrieved: 2026-11-03T01:50:36.991871Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0819&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0819&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 152816 bytes
+- Delivery SHA-256: 20f31a88541e509abc19182307688b8395c60334ed0b685e8d0284fdcf7a0876
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

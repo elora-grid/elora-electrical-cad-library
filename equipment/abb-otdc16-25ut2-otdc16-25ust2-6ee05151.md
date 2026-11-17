@@ -26,7 +26,7 @@ Original DXF drawing for OTDC16-25UT2, OTDC16-25UST2; ABB document 1SCC307473F00
 - Manufacturer drawing: 1SCC307473F0001
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307473F0001.dxf for OTDC16-25UT2, OTDC16-25UST2. DXF is the supplied dra
 
 ## Preview
 
-![ABB OTDC16-25UT2, OTDC16-25UST2: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc16-25ut2-otdc16-25ust2-6ee05151/original?asset=7ba0669003c7e7a091276bbe8b4c6d5b77fe752baf94936b27cc66d398e9dc5a)
+![ABB OTDC16-25UT2, OTDC16-25UST2: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc16-25ut2-otdc16-25ust2-6ee05151/original?asset=7ba0669003c7e7a091276bbe8b4c6d5b77fe752baf94936b27cc66d398e9dc5a&view=thumb&v=c04e89b41b16431b)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-25ut2-otdc16-25ust2-6ee05151). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

@@ -1,0 +1,114 @@
+# Allen-Bradley — 6300B SB0Bx S2
+
+Allen-Bradley 6300B SB0Bx S2: original STEP for control-panel equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-6300b-sb0bx-s2-faa7d3f2a2) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-6300b-sb0bx-s2-faa7d3f2a2.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-6300b-sb0bx-s2-faa7d3f2a2.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 6300B
+- Installation applications: switchgear, substations, microgrids
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named 6300B SB0Bx S2.
+
+## Equipment and file summary
+
+- Equipment / resource: 6300B SB0Bx S2
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: 6300B
+- Manufacturer drawing identity: 6300B SB0Bx S2
+- Source-model envelope: 225 × 268 × 150.1 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: 6300B SB0Bx S2 ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 225 × 268 × 150.1 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 3D\_6300B-SB0Bx\_S2.stp inside it to place the original solid geometry in your 3D assembly.
+
+Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 3D\_6300B-SB0Bx\_S2.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley 6300B and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 225 × 268 × 150.1 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 6300B SB0Bx S2?
+
+1 inspected original for Allen-Bradley 6300B SB0Bx S2: Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip (ZIP).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 3D\_6300B-SB0Bx\_S2.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Allen-Bradley 6300B SB0Bx S2: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-allen-bradley-6300b-sb0bx-s2-faa7d3f2a2/nhp-196326?asset=9c94a8b1a55244e9f3508d22863aca61722a2e90f52dee212aa07f3c64b8f318&view=thumb&v=29f9d8aa7dcc95a6)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-6300b-sb0bx-s2-faa7d3f2a2). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-6300b-sb0bx-s2-faa7d3f2a2/nhp-196326)
+- Redistribution: unknown
+- Original SHA-256: eaea4d967037119c7b8300617ed641c63a3ff6b7c7e8e1381ba288f3dd3398cd
+- Original bytes: 1862446
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:17:37.032477+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-6300B-SB0Bx-S2-STEP-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 1862446 bytes
+- Delivery SHA-256: eaea4d967037119c7b8300617ed641c63a3ff6b7c7e8e1381ba288f3dd3398cd
+
+<details>
+<summary>Archive members</summary>
+
+- 3D\_6300B-SB0Bx\_S2.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,103 @@
+# LOVATO Electric — 11SMX1710 — Surface mount enclosure, IP40, 100mm wide
+
+LOVATO Electric 11SMX1710 — Surface mount enclosure, IP40, 100mm wide. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0965cdc4f64c9908fe3ccba6) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-0965cdc4f64c9908fe3ccba6.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-0965cdc4f64c9908fe3ccba6.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: 11SMX1710
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: 11SMX1710 — Surface mount enclosure, IP40, 100mm wide
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: 11SMX1710
+- Manufacturer reference: 11SMX1710
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 11SMX1710 ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Use 2D\_WYS\_14.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYS\_14.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_WYS\_14.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYS\_14.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric 11SMX1710 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 11SMX1710 — Surface mount enclosure, IP40, 100mm wide?
+
+1 inspected original for LOVATO Electric 11SMX1710 — Surface mount enclosure, IP40, 100mm wide: 2D\_WYS\_14.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_WYS\_14.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYS\_14.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric 11SMX1710 — Surface mount enclosure, IP40, 100mm wide: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-0965cdc4f64c9908fe3ccba6/native-531143ea67c2b5e776134875-dxf?asset=531143ea67c2b5e7761348759076082a4585d6218222b55c351bfdae97183148)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0965cdc4f64c9908fe3ccba6). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_WYS\_14.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-0965cdc4f64c9908fe3ccba6/native-531143ea67c2b5e776134875-dxf)
+- Redistribution: unknown
+- Original SHA-256: 531143ea67c2b5e7761348759076082a4585d6218222b55c351bfdae97183148
+- Original bytes: 234023
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 30538 bytes
+- Delivery SHA-256: 6632c2f70f30b92d3f71d758f19d2df1fb339f405735f2725f462f448e106b17
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

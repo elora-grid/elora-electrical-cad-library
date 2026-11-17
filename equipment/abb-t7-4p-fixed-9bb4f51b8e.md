@@ -25,6 +25,7 @@ The supplied configuration is “T7 4p Fixed”. Keep those frame, mounting and 
 - Manufacturer drawing: 1SDH000529R0101
 - Manufacturer reference: 1SDH000529R0101
 - Document revision: E
+- Standards: IEC 60947-2
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

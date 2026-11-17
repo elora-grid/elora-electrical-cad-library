@@ -1,0 +1,104 @@
+# ABB — UTH5213BNDMEP
+
+ABB UTH5213BNDMEP: original PDF for protection or metering equipment layouts. UTH5213BNDMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-uth5213bndmep-26a6cb2a82) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-uth5213bndmep-26a6cb2a82.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-uth5213bndmep-26a6cb2a82.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Protection & metering
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+UTH5213BNDMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product
+
+## Equipment and file summary
+
+- Equipment / resource: UTH5213BNDMEP
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: UTH5213BNDMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product
+- Manufacturer drawing identity: UTH5213BNDMEP
+- Source document: UTH5213BNDMEP; revision A
+- Listed file formats: PDF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: UTH5213BNDMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product ([source](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: UTH5213BNDMEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: UTH5213BNDMEP; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+A measuring instrument turns a quantity such as current, voltage or power into a reading or signal that people and control systems can use.
+
+Use UTH5213BNDMEP.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+Use UTH5213BNDMEP.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: UTH5213BNDMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product
+- The source was checked on 2026-11-11; recorded file revisions: UTH5213BNDMEP.pdf — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for UTH5213BNDMEP?
+
+1 inspected original for ABB UTH5213BNDMEP: UTH5213BNDMEP.pdf (PDF). The manufacturer describes this configuration as UTH5213BNDMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use UTH5213BNDMEP.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB UTH5213BNDMEP: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-uth5213bndmep-26a6cb2a82/abb-9c9bba2e0de1f7d31e8d?asset=bba344e8eec30d6e26e0ee9c05c80bbb8103ac7b9b04794efd50a7da52cf3c7f)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-uth5213bndmep-26a6cb2a82). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### UTH5213BNDMEP.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-uth5213bndmep-26a6cb2a82/abb-9c9bba2e0de1f7d31e8d)
+- Redistribution: unknown
+- Original SHA-256: eceabff5c399b9fe22b0a60bd1e5e04bf51a96135a73f22a7cd9bdbf3a2d3926
+- Original bytes: 138986
+- Revision: A
+- Retrieved: 2026-11-11T05:41:00.668894+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=UTH5213BNDMEP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; PDF; 138986 bytes
+- Delivery SHA-256: eceabff5c399b9fe22b0a60bd1e5e04bf51a96135a73f22a7cd9bdbf3a2d3926
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

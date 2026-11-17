@@ -27,6 +27,7 @@ The supplied configuration is “OT2500EM03W4”. Keep those frame, mounting and
 - Manufacturer reference: OT2500EM03W4.STP
 - Document revision: A
 - Model envelope: OT2500EM03W4.stp: 220 × 517.6 × 376.2 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

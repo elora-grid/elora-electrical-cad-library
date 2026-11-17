@@ -26,6 +26,7 @@ The supplied configuration is “OT16-63G1-6BS”. Keep those frame, mounting an
 - Manufacturer drawing: OT16\_63G1-6B\_SR.STP
 - Manufacturer reference: OT16\_63G1-6B\_SR.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

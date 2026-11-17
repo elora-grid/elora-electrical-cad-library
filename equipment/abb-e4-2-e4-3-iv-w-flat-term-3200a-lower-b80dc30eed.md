@@ -8,7 +8,7 @@ ABB E4.2/E4.3 IV W FLAT TERM 3200A LOWER: breaker or breaker-accessory reference
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0448
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “E4.2/E4.3 IV W FLAT TERM 3200A LOWER”. Keep t
 - Model envelope: 1SDH001252R0448.stp: 458 × 98.4 × 80 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001252R0447
 - Model envelope: 1SDH001252R0447.stp: 458 × 98.4 × 80 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 1464758 bytes
 - Delivery SHA-256: d00290bd23ddc86d0e75ab568cd028afea10f4529fa05f3e90b98cdc87f695ca
 
+### 1SDH001252R0448.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0448.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0448&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-w-flat-term-3200a-lower-b80dc30eed/d00290bd23ddc86d0e75-dxf)
+- Redistribution: unknown
+- Original SHA-256: d00290bd23ddc86d0e75ab568cd028afea10f4529fa05f3e90b98cdc87f695ca
+- Original bytes: 1464758
+- Revision: -
+- Retrieved: 2026-11-03T01:55:50.570976Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0448&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0448&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 336529 bytes
+- Delivery SHA-256: b6b8c05e51a59e6169804ee075a295b18ed16b8af939b757f92c6ac263399cbe
+
 ### 1SDH001252R0447.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0447&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 1467405 bytes
 - Delivery SHA-256: c9f45ab92e617a7e3aedb2a56223492e285985dad07d2dd0eea905a1bd6b4f6a
+
+### 1SDH001252R0447.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0447.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0447&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-w-flat-term-3200a-lower-b80dc30eed/c9f45ab92e617a7e3aed-dxf)
+- Redistribution: unknown
+- Original SHA-256: c9f45ab92e617a7e3aedb2a56223492e285985dad07d2dd0eea905a1bd6b4f6a
+- Original bytes: 1467405
+- Revision: -
+- Retrieved: 2026-11-03T01:55:52.879233Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0447&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0447&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 337656 bytes
+- Delivery SHA-256: 8938ee3c4ae1a798ab5d670e5058c51bb344b4d25720fd05729e540e31d6ea06
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -177,6 +177,326 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b",
       "recordPath": "equipment/abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2101640-microflo-to-charger-connector-on-solar-panel-2f00d6502b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-photovoltaic-1p-32a-fuse-size-10-x-38-mm-bf30ed61c9",
+      "name": "TeSys DF fuse-disconnector photovoltaic 1P 32A fuse size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-photovoltaic-1p-32a-fuse-size-10-x-38-mm-bf30ed61c9",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-photovoltaic-1p-32a-fuse-size-10-x-38-mm-bf30ed61c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-photovoltaic-1p-32a-fuse-size-10-x-38-mm-bf30ed61c9.json"
+    },
+    {
+      "id": "lovato-order-046a471fb7dd0d077da1c109",
+      "name": "DMECDPV1 — Data concentrator with built in RS485 for photovoltaic applications",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-046a471fb7dd0d077da1c109",
+      "recordPath": "equipment/lovato-order-046a471fb7dd0d077da1c109.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-046a471fb7dd0d077da1c109.json"
+    },
+    {
+      "id": "lovato-order-3af0c5d1e3dc9f112f23fa71",
+      "name": "SA2DG600M2 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3af0c5d1e3dc9f112f23fa71",
+      "recordPath": "equipment/lovato-order-3af0c5d1e3dc9f112f23fa71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3af0c5d1e3dc9f112f23fa71.json"
+    },
+    {
+      "id": "lovato-order-c024bd8e3a9797d13917f3b7",
+      "name": "SA2DG600M2R — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c024bd8e3a9797d13917f3b7",
+      "recordPath": "equipment/lovato-order-c024bd8e3a9797d13917f3b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c024bd8e3a9797d13917f3b7.json"
+    },
+    {
+      "id": "lovato-order-0993207b28a0639d4b8262ee",
+      "name": "SA2DGK00M3 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0993207b28a0639d4b8262ee",
+      "recordPath": "equipment/lovato-order-0993207b28a0639d4b8262ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0993207b28a0639d4b8262ee.json"
+    },
+    {
+      "id": "lovato-order-fc41fb0658e1db5275f7ef2c",
+      "name": "SA2DGK00M3R — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fc41fb0658e1db5275f7ef2c",
+      "recordPath": "equipment/lovato-order-fc41fb0658e1db5275f7ef2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fc41fb0658e1db5275f7ef2c.json"
+    },
+    {
+      "id": "lovato-order-cee54860dfca287fccbe10d1",
+      "name": "SA2DF600M2 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cee54860dfca287fccbe10d1",
+      "recordPath": "equipment/lovato-order-cee54860dfca287fccbe10d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cee54860dfca287fccbe10d1.json"
+    },
+    {
+      "id": "lovato-order-983b1f93e5c98ef6d42f4c78",
+      "name": "SA2DF600M3 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-983b1f93e5c98ef6d42f4c78",
+      "recordPath": "equipment/lovato-order-983b1f93e5c98ef6d42f4c78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-983b1f93e5c98ef6d42f4c78.json"
+    },
+    {
+      "id": "lovato-order-b5b7bc2f32d2e386e6425e88",
+      "name": "SA2DFK00M2 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b5b7bc2f32d2e386e6425e88",
+      "recordPath": "equipment/lovato-order-b5b7bc2f32d2e386e6425e88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b5b7bc2f32d2e386e6425e88.json"
+    },
+    {
+      "id": "lovato-order-092f3984f1c7c78cf67f2f11",
+      "name": "SA2DFK00M3 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-092f3984f1c7c78cf67f2f11",
+      "recordPath": "equipment/lovato-order-092f3984f1c7c78cf67f2f11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-092f3984f1c7c78cf67f2f11.json"
+    },
+    {
+      "id": "lovato-order-242eea88582b1bc8934a5831",
+      "name": "SA2DFK20M3 — Surge protection devices Type 2 for photovoltaic applications, version with plug-in cartridge",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-242eea88582b1bc8934a5831",
+      "recordPath": "equipment/lovato-order-242eea88582b1bc8934a5831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-242eea88582b1bc8934a5831.json"
+    },
+    {
+      "id": "lovato-order-ccb8226cb3f2e442058842b5",
+      "name": "FB01D1P — Fuse holder 10x38 for photovoltaic applications, 1 pole",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ccb8226cb3f2e442058842b5",
+      "recordPath": "equipment/lovato-order-ccb8226cb3f2e442058842b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ccb8226cb3f2e442058842b5.json"
+    },
+    {
+      "id": "lovato-order-7bc556c93b250a56233cdbc6",
+      "name": "FB01D1PL — Fuse holder 10x38 for photovoltaic applications, 1 pole with indicator",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7bc556c93b250a56233cdbc6",
+      "recordPath": "equipment/lovato-order-7bc556c93b250a56233cdbc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7bc556c93b250a56233cdbc6.json"
+    },
+    {
+      "id": "lovato-order-cf0637a2ad1cc4fd009eca98",
+      "name": "FB01D2P — Fuse holder 10x38 for photovoltaic applications, 2 poles",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cf0637a2ad1cc4fd009eca98",
+      "recordPath": "equipment/lovato-order-cf0637a2ad1cc4fd009eca98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cf0637a2ad1cc4fd009eca98.json"
+    },
+    {
+      "id": "lovato-order-6ed19af2280d2469fccdb99a",
+      "name": "FB01D2PL — Fuse holder 10x38 for photovoltaic applications, 2 poles",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6ed19af2280d2469fccdb99a",
+      "recordPath": "equipment/lovato-order-6ed19af2280d2469fccdb99a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6ed19af2280d2469fccdb99a.json"
+    },
+    {
+      "id": "lovato-order-6ce106e4fd1e2becc890102d",
+      "name": "GA040D — Three pole switch disconnector, direct actuator, for photovoltaic applications. Black handle included, 32A / 220V in DC21B, 3 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6ce106e4fd1e2becc890102d",
+      "recordPath": "equipment/lovato-order-6ce106e4fd1e2becc890102d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6ce106e4fd1e2becc890102d.json"
+    },
+    {
+      "id": "lovato-order-e9d01926b35e6b020256773c",
+      "name": "GA080D — Three pole switch disconnector, direct actuator, for photovoltaic applications. Black handle included, 40A / 220V in DC21B, 3 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e9d01926b35e6b020256773c",
+      "recordPath": "equipment/lovato-order-e9d01926b35e6b020256773c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e9d01926b35e6b020256773c.json"
+    },
+    {
+      "id": "lovato-order-6340e14dc7fabe64c0c1e1b8",
+      "name": "GA125D — Three pole switch disconnector, direct actuator, for photovoltaic applications. Black handle included, 95A / 220V in DC21B, 3 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6340e14dc7fabe64c0c1e1b8",
+      "recordPath": "equipment/lovato-order-6340e14dc7fabe64c0c1e1b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6340e14dc7fabe64c0c1e1b8.json"
+    },
+    {
+      "id": "lovato-order-fea6eeaeea7be70fe7749ae1",
+      "name": "GAX42040D — Fourth pole for switch disconnectors for photovoltaic applications, simultaneous closing of all disconnector poles, for GA040 D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fea6eeaeea7be70fe7749ae1",
+      "recordPath": "equipment/lovato-order-fea6eeaeea7be70fe7749ae1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fea6eeaeea7be70fe7749ae1.json"
+    },
+    {
+      "id": "lovato-order-1cff100d979fb61e40fa968e",
+      "name": "GAX42080D — Fourth pole for switch disconnectors for photovoltaic applications, simultaneous closing of all disconnector poles, for GA080 D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1cff100d979fb61e40fa968e",
+      "recordPath": "equipment/lovato-order-1cff100d979fb61e40fa968e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1cff100d979fb61e40fa968e.json"
+    },
+    {
+      "id": "lovato-order-e740d618d927936c85fb9a1e",
+      "name": "GAX42125D — Fourth pole for switch disconnectors for photovoltaic applications, simultaneous closing of all disconnector poles, for GA125 D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e740d618d927936c85fb9a1e",
+      "recordPath": "equipment/lovato-order-e740d618d927936c85fb9a1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e740d618d927936c85fb9a1e.json"
+    },
+    {
+      "id": "lovato-order-b451388b8c4fc4da31e46531",
+      "name": "GE0160DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 30A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b451388b8c4fc4da31e46531",
+      "recordPath": "equipment/lovato-order-b451388b8c4fc4da31e46531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b451388b8c4fc4da31e46531.json"
+    },
+    {
+      "id": "lovato-order-08bf75454254e4e989769c87",
+      "name": "GE0160DT4P — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 30A / 1000V in DC21B, 4 poles in series, IP20 standard",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-08bf75454254e4e989769c87",
+      "recordPath": "equipment/lovato-order-08bf75454254e4e989769c87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-08bf75454254e4e989769c87.json"
+    },
+    {
+      "id": "lovato-order-2da0e0154ea93ffbc88a9b1b",
+      "name": "GE0125DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 100A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2da0e0154ea93ffbc88a9b1b",
+      "recordPath": "equipment/lovato-order-2da0e0154ea93ffbc88a9b1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2da0e0154ea93ffbc88a9b1b.json"
+    },
+    {
+      "id": "lovato-order-ccc20114b96c1f9a71976474",
+      "name": "GE0250DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 200A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ccc20114b96c1f9a71976474",
+      "recordPath": "equipment/lovato-order-ccc20114b96c1f9a71976474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ccc20114b96c1f9a71976474.json"
+    },
+    {
+      "id": "lovato-order-1f22b458e2d3a9b3a07fcf3e",
+      "name": "GE0315DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 250A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1f22b458e2d3a9b3a07fcf3e",
+      "recordPath": "equipment/lovato-order-1f22b458e2d3a9b3a07fcf3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1f22b458e2d3a9b3a07fcf3e.json"
+    },
+    {
+      "id": "lovato-order-407ebdc342c732697ebaefbd",
+      "name": "GE0630DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 270A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-407ebdc342c732697ebaefbd",
+      "recordPath": "equipment/lovato-order-407ebdc342c732697ebaefbd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-407ebdc342c732697ebaefbd.json"
+    },
+    {
+      "id": "lovato-order-90fd6fdb64e1cfa8cdf7f68b",
+      "name": "GE0800DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 500A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-90fd6fdb64e1cfa8cdf7f68b",
+      "recordPath": "equipment/lovato-order-90fd6fdb64e1cfa8cdf7f68b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-90fd6fdb64e1cfa8cdf7f68b.json"
+    },
+    {
+      "id": "lovato-order-02ae5b5dfe1615e8a56567dd",
+      "name": "GE1250DT4 — Four pole switch disconnector for photovoltaic applications, to complete with extension shaft and handle, 850A / 1000V in DC21B, 4 poles in series",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-02ae5b5dfe1615e8a56567dd",
+      "recordPath": "equipment/lovato-order-02ae5b5dfe1615e8a56567dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-02ae5b5dfe1615e8a56567dd.json"
     }
   ]
 }

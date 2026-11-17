@@ -9,7 +9,7 @@ XT1 3p FIXED PS 100mm UP: ABB manufacturer STEP resource, document 1SDH001295R00
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0026
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT1 3p FIXED PS 100mm UP; ABB document 1SDH001295R
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0026
 - Model extents (X × Y × Z, mm): 34.0 × 68.0 × 103.8
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0026&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 50166 bytes
 - Delivery SHA-256: 021bbda56c8baa922319deb2687e0c0eba49e16fa55b8378513358b4261a2277
+
+### 1SDH001295R0026\_1PA\_001\_00\_XT1\_3P\_FIXED\_PS\_100mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0026\_1PA\_001\_00\_XT1\_3P\_FIXED\_PS\_100mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0026&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-3p-fixed-ps-100mm-up-94cdb17f/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 021bbda56c8baa922319deb2687e0c0eba49e16fa55b8378513358b4261a2277
+- Original bytes: 50166
+- Revision: A
+- Retrieved: 2026-11-03T01:35:24.859373+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0026&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0026&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 41997 bytes
+- Delivery SHA-256: d9baa82d05c9a1ab8978f089a7885d5135583daae58aa789cf8427c66e2264f2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

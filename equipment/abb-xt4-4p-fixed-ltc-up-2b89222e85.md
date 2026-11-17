@@ -8,7 +8,7 @@ ABB XT4 4p FIXED LTC UP: breaker or breaker-accessory reference for breaker comp
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0688
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT4 4p FIXED LTC UP”. Keep those frame, mount
 - Manufacturer reference: 1SDH001295R0688
 - Document revision: B
 - Model envelope: 1SDH001295R0688.stp: 140 × 84.6 × 18.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0688&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 2622606 bytes
 - Delivery SHA-256: 157c3e482ef2edc6c18ca90c6aa3b581f44e167b0b5605608439058a5d21887d
+
+### 1SDH001295R0688.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0688.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0688&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-4p-fixed-ltc-up-2b89222e85/157c3e482ef2edc6c18c-dxf)
+- Redistribution: unknown
+- Original SHA-256: 157c3e482ef2edc6c18ca90c6aa3b581f44e167b0b5605608439058a5d21887d
+- Original bytes: 2622606
+- Revision: B
+- Retrieved: 2026-11-03T01:57:48.754917Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0688&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0688&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 302980 bytes
+- Delivery SHA-256: 47e8edaad13a2e968d51f1e0495baee9254b52184c9ea3ff791176cf95da063e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

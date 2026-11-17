@@ -25,6 +25,7 @@ The supplied configuration is “OT200E03WP”. Keep those frame, mounting and a
 - Manufacturer drawing: 9AKK108468A3611
 - Manufacturer reference: 9AKK108468A3611
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -1,0 +1,160 @@
+# Weidmüller — WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red
+
+Weidmüller WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1773521686) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1773521686.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1773521686.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/ws-85-mc-ne-rt/p/1773521686/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1773521686
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1773521686
+- Manufacturer reference: 1773521686
+- Manufacturer type: WS 8/5 MC NE RT
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1773521686 ([source](https://eshop.weidmueller.com.cn/en/ws-85-mc-ne-rt/p/1773521686/downloads#engineering-support))
+- Manufacturer type: WS 8/5 MC NE RT ([source](https://eshop.weidmueller.com.cn/en/ws-85-mc-ne-rt/p/1773521686/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/ws-85-mc-ne-rt/p/1773521686/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1773521686\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1773521686\_back.DXF, 1773521686\_bottom.DXF, 1773521686\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red before placing it.
+
+1773521686\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1773521686\_back.DXF, 1773521686\_bottom.DXF, 1773521686\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red before placing it. 1773521686\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1773521686\_back.DWG, 1773521686\_bottom.DWG, 1773521686\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red before placing it. Use 1773521686.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1773521686.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1773521686 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red?
+
+3 inspected originals for Weidmüller WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red: 1773521686\_DXF.zip (ZIP); 1773521686\_DWG.zip (ZIP); 1773521686.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/ws-85-mc-ne-rt/p/1773521686/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/ws-85-mc-ne-rt/p/1773521686/downloads#engineering-support)
+
+## Choosing a file
+
+1773521686\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1773521686\_back.DXF, 1773521686\_bottom.DXF, 1773521686\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red before placing it. 1773521686\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1773521686\_back.DWG, 1773521686\_bottom.DWG, 1773521686\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WS 8/5 MC NE RT — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, red before placing it. Use 1773521686.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1773521686.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1773521686\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b1f28366-52ff-4143-ae4e-accf37520753/original/1773521686_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1773521686/native-22348ccba2f81dd3cc53dd76-zip)
+- Redistribution: unknown
+- Original SHA-256: 22348ccba2f81dd3cc53dd76a2f0ebfc08073b27dbaf02d6d998c6e0b9a8f668
+- Original bytes: 25035
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b1f28366-52ff-4143-ae4e-accf37520753/original/1773521686_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b1f28366-52ff-4143-ae4e-accf37520753/original/1773521686_DXF.zip)
+- Delivery: original; ZIP; 25035 bytes
+- Delivery SHA-256: 22348ccba2f81dd3cc53dd76a2f0ebfc08073b27dbaf02d6d998c6e0b9a8f668
+
+<details>
+<summary>Archive members</summary>
+
+- 1773521686\_back.DXF
+- 1773521686\_bottom.DXF
+- 1773521686\_front.DXF
+- 1773521686\_left.DXF
+- 1773521686\_right.DXF
+- 1773521686\_top.DXF
+
+</details>
+
+### 1773521686\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/96f80ed9-78ba-4115-be37-99c8b6a7f643/original/1773521686_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1773521686/native-beadc1861ecb819af30d6bd0-zip)
+- Redistribution: unknown
+- Original SHA-256: beadc1861ecb819af30d6bd085477b529ac9fcae10c193ac5067fd6dabcadc3e
+- Original bytes: 44188
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/96f80ed9-78ba-4115-be37-99c8b6a7f643/original/1773521686_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/96f80ed9-78ba-4115-be37-99c8b6a7f643/original/1773521686_DWG.zip)
+- Delivery: original; ZIP; 44188 bytes
+- Delivery SHA-256: beadc1861ecb819af30d6bd085477b529ac9fcae10c193ac5067fd6dabcadc3e
+
+<details>
+<summary>Archive members</summary>
+
+- 1773521686\_back.DWG
+- 1773521686\_bottom.DWG
+- 1773521686\_front.DWG
+- 1773521686\_left.DWG
+- 1773521686\_right.DWG
+- 1773521686\_top.DWG
+
+</details>
+
+### 1773521686.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/2e3cc2b5-4cb6-4609-91ac-92a59e4a20d6/original/1773521686.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1773521686/native-b95ba78372310ad1cf929d30-step)
+- Redistribution: unknown
+- Original SHA-256: b95ba78372310ad1cf929d30672c3975b7467b2b5571c30b1843c9cb6633a540
+- Original bytes: 27816
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/2e3cc2b5-4cb6-4609-91ac-92a59e4a20d6/original/1773521686.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/2e3cc2b5-4cb6-4609-91ac-92a59e4a20d6/original/1773521686.stp)
+- Delivery: source-bundle; ZIP; 5995 bytes
+- Delivery SHA-256: 555a493ca3453729369b849f093ef470915e79f30c145663785e8102840f63dd
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

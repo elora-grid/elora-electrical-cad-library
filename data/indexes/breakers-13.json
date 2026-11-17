@@ -1,0 +1,2926 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 13,
+  "entries": [
+    {
+      "id": "mfr-terasaki-tbpro-b1600-3p-a986ced19e",
+      "name": "TBPRO B1600 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b1600-3p-a986ced19e",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b1600-3p-a986ced19e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b1600-3p-a986ced19e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-tlc14-9488a1d380",
+      "name": "140G-G TLC14",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-tlc14-9488a1d380",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-tlc14-9488a1d380.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-tlc14-9488a1d380.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-b1600-4p-0caa85c8c1",
+      "name": "TBPRO B1600 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b1600-4p-0caa85c8c1",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b1600-4p-0caa85c8c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b1600-4p-0caa85c8c1.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-h-3p-cb-f1ee7e1805",
+      "name": "140G-H 3P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-h-3p-cb-f1ee7e1805",
+      "recordPath": "equipment/mfr-allen-bradley-140g-h-3p-cb-f1ee7e1805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-h-3p-cb-f1ee7e1805.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-b800-basic-electronic-3p-16cbf294bf",
+      "name": "TBPRO B800 Basic Electronic 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b800-basic-electronic-3p-16cbf294bf",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b800-basic-electronic-3p-16cbf294bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b800-basic-electronic-3p-16cbf294bf.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-h-mtl63-87fa42026a",
+      "name": "140G-H MTL63",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-h-mtl63-87fa42026a",
+      "recordPath": "equipment/mfr-allen-bradley-140g-h-mtl63-87fa42026a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-h-mtl63-87fa42026a.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-b800-basic-electronic-4p-2cd51a07fc",
+      "name": "TBPRO B800 Basic Electronic 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b800-basic-electronic-4p-2cd51a07fc",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b800-basic-electronic-4p-2cd51a07fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b800-basic-electronic-4p-2cd51a07fc.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-h-tc3h-d23473949d",
+      "name": "140G-H TC3H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-h-tc3h-d23473949d",
+      "recordPath": "equipment/mfr-allen-bradley-140g-h-tc3h-d23473949d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-h-tc3h-d23473949d.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-b800-smart-electronic-3p-2bc915dec8",
+      "name": "TBPRO B800 Smart Electronic 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b800-smart-electronic-3p-2bc915dec8",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b800-smart-electronic-3p-2bc915dec8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b800-smart-electronic-3p-2bc915dec8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-h-tlc13-6014fd181b",
+      "name": "140G-H TLC13",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-h-tlc13-6014fd181b",
+      "recordPath": "equipment/mfr-allen-bradley-140g-h-tlc13-6014fd181b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-h-tlc13-6014fd181b.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-b800-thermal-magnetic-3p-bfc86a6416",
+      "name": "TBPRO B800 Thermal Magnetic 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b800-thermal-magnetic-3p-bfc86a6416",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b800-thermal-magnetic-3p-bfc86a6416.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b800-thermal-magnetic-3p-bfc86a6416.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-3p-cb-873bc04cc6",
+      "name": "140G-I 3P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-3p-cb-873bc04cc6",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-3p-cb-873bc04cc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-3p-cb-873bc04cc6.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-b800-thermal-magnetic-4p-bb162b40c4",
+      "name": "TBPRO B800 Thermal Magnetic 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-b800-thermal-magnetic-4p-bb162b40c4",
+      "recordPath": "equipment/mfr-terasaki-tbpro-b800-thermal-magnetic-4p-bb162b40c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-b800-thermal-magnetic-4p-bb162b40c4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-dra-bb47258bb9",
+      "name": "140G-I DRA",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-dra-bb47258bb9",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-dra-bb47258bb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-dra-bb47258bb9.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b160-1p-49d0424922",
+      "name": "TBPRO MCCB B160 1P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b160-1p-49d0424922",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b160-1p-49d0424922.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b160-1p-49d0424922.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-dra4-44f6cdbd69",
+      "name": "140G-I DRA4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-dra4-44f6cdbd69",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-dra4-44f6cdbd69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-dra4-44f6cdbd69.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b160-3p-061647cee1",
+      "name": "TBPRO MCCB B160 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b160-3p-061647cee1",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b160-3p-061647cee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b160-3p-061647cee1.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-elp2503-79cec8147d",
+      "name": "140G-I ELP2503",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-elp2503-79cec8147d",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-elp2503-79cec8147d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-elp2503-79cec8147d.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b160-4p-e3e3f2b539",
+      "name": "TBPRO MCCB B160 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b160-4p-e3e3f2b539",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b160-4p-e3e3f2b539.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b160-4p-e3e3f2b539.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-elp2504-8949fae2d5",
+      "name": "140G-I ELP2504",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-elp2504-8949fae2d5",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-elp2504-8949fae2d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-elp2504-8949fae2d5.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b250-3p-48c6ab44f5",
+      "name": "TBPRO MCCB B250 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b250-3p-48c6ab44f5",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b250-3p-48c6ab44f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b250-3p-48c6ab44f5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-ep3-a0d00373b1",
+      "name": "140G-I EP3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-ep3-a0d00373b1",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-ep3-a0d00373b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-ep3-a0d00373b1.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b250-4p-2117fffd78",
+      "name": "TBPRO MCCB B250 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b250-4p-2117fffd78",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b250-4p-2117fffd78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b250-4p-2117fffd78.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-exs3-185579bcb4",
+      "name": "140G-I EXS3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-exs3-185579bcb4",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-exs3-185579bcb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-exs3-185579bcb4.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b400-3p-b1774fb409",
+      "name": "TBPRO MCCB B400 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b400-3p-b1774fb409",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b400-3p-b1774fb409.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b400-3p-b1774fb409.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-exs4-fc14168bd3",
+      "name": "140G-I EXS4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-exs4-fc14168bd3",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-exs4-fc14168bd3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-exs4-fc14168bd3.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-mccb-b400-4p-23a1a61cd4",
+      "name": "TBPRO MCCB B400 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-mccb-b400-4p-23a1a61cd4",
+      "recordPath": "equipment/mfr-terasaki-tbpro-mccb-b400-4p-23a1a61cd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-mccb-b400-4p-23a1a61cd4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-mtl63-afb5bc1645",
+      "name": "140G-I MTL63",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-mtl63-afb5bc1645",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-mtl63-afb5bc1645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-mtl63-afb5bc1645.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-xs2000-3p-dad36707b2",
+      "name": "TBPRO XS2000 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-xs2000-3p-dad36707b2",
+      "recordPath": "equipment/mfr-terasaki-tbpro-xs2000-3p-dad36707b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-xs2000-3p-dad36707b2.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tc3h-7eb1e9b790",
+      "name": "140G-I TC3H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tc3h-7eb1e9b790",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tc3h-7eb1e9b790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tc3h-7eb1e9b790.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-sprecher-and-schuh-kt7-motor-protection-circuit-breakers-cf349e875d",
+      "name": "Sprecher and Schuh KT7 Motor Protection Circuit Breakers",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-sprecher-and-schuh-kt7-motor-protection-circuit-breakers-cf349e875d",
+      "recordPath": "equipment/mfr-sprecher-schuh-sprecher-and-schuh-kt7-motor-protection-circuit-breakers-cf349e875d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-sprecher-and-schuh-kt7-motor-protection-circuit-breakers-cf349e875d.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-xs2000-4p-90e2828632",
+      "name": "TBPRO XS2000 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-xs2000-4p-90e2828632",
+      "recordPath": "equipment/mfr-terasaki-tbpro-xs2000-4p-90e2828632.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-xs2000-4p-90e2828632.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tla13-155e4469d1",
+      "name": "140G-I TLA13",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tla13-155e4469d1",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tla13-155e4469d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tla13-155e4469d1.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-xs2500-3p-077aeed9d5",
+      "name": "TBPRO XS2500 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-xs2500-3p-077aeed9d5",
+      "recordPath": "equipment/mfr-terasaki-tbpro-xs2500-3p-077aeed9d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-xs2500-3p-077aeed9d5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tla1a3-12ad1b5887",
+      "name": "140G-I TLA1A3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tla1a3-12ad1b5887",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tla1a3-12ad1b5887.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tla1a3-12ad1b5887.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-xs2500-4p-17d8838755",
+      "name": "TBPRO XS2500 4P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-xs2500-4p-17d8838755",
+      "recordPath": "equipment/mfr-terasaki-tbpro-xs2500-4p-17d8838755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-xs2500-4p-17d8838755.json"
+    },
+    {
+      "id": "mfr-abb-a2-2p-m-brk-kit-hdware-060884de08",
+      "name": "A2 2P M BRK KIT HDWARE",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a2-2p-m-brk-kit-hdware-060884de08",
+      "recordPath": "equipment/mfr-abb-a2-2p-m-brk-kit-hdware-060884de08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a2-2p-m-brk-kit-hdware-060884de08.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tlc13-9ddbc7115f",
+      "name": "140G-I TLC13",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tlc13-9ddbc7115f",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tlc13-9ddbc7115f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tlc13-9ddbc7115f.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-xs3200-3p-13c9f22462",
+      "name": "TBPRO XS3200 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-xs3200-3p-13c9f22462",
+      "recordPath": "equipment/mfr-terasaki-tbpro-xs3200-3p-13c9f22462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-xs3200-3p-13c9f22462.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-3p-cb-1a1b6df088",
+      "name": "140G-J 3P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-3p-cb-1a1b6df088",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-3p-cb-1a1b6df088.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-3p-cb-1a1b6df088.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-zs-125-3p-a7dbfeac94",
+      "name": "TBPRO ZS 125 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-zs-125-3p-a7dbfeac94",
+      "recordPath": "equipment/mfr-terasaki-tbpro-zs-125-3p-a7dbfeac94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-zs-125-3p-a7dbfeac94.json"
+    },
+    {
+      "id": "mfr-abb-a2-3p-m-brk-kit-hdware-fa04fb61c4",
+      "name": "A2 3P M BRK KIT HDWARE",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a2-3p-m-brk-kit-hdware-fa04fb61c4",
+      "recordPath": "equipment/mfr-abb-a2-3p-m-brk-kit-hdware-fa04fb61c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a2-3p-m-brk-kit-hdware-fa04fb61c4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-ep3-b40c853c94",
+      "name": "140G-J EP3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-ep3-b40c853c94",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-ep3-b40c853c94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-ep3-b40c853c94.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63012u-48087adc28",
+      "name": "TemWay XAP MCCB Chassis XAP63012U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63012u-48087adc28",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63012u-48087adc28.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63012u-48087adc28.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-exs3-7e48c50dac",
+      "name": "140G-J EXS3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-exs3-7e48c50dac",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-exs3-7e48c50dac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-exs3-7e48c50dac.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63016u4pole-2005babbe5",
+      "name": "TemWay XAP MCCB Chassis XAP63016U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63016u4pole-2005babbe5",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63016u4pole-2005babbe5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63016u4pole-2005babbe5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-exs4-1f5587a06b",
+      "name": "140G-J EXS4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-exs4-1f5587a06b",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-exs4-1f5587a06b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-exs4-1f5587a06b.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63018u-b3ee63ee20",
+      "name": "TemWay XAP MCCB Chassis XAP63018U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63018u-b3ee63ee20",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63018u-b3ee63ee20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63018u-b3ee63ee20.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-mtl63-5176e5352c",
+      "name": "140G-J MTL63",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-mtl63-5176e5352c",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-mtl63-5176e5352c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-mtl63-5176e5352c.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63024u-42de2cf99a",
+      "name": "TemWay XAP MCCB Chassis XAP63024U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63024u-42de2cf99a",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63024u-42de2cf99a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63024u-42de2cf99a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tc3h-1058976c64",
+      "name": "140G-J TC3H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tc3h-1058976c64",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tc3h-1058976c64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tc3h-1058976c64.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6m-mcb-693f295093",
+      "name": "MOD6+ MD6M MCB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6m-mcb-693f295093",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6m-mcb-693f295093.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6m-mcb-693f295093.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63024u4pole-6fa872ba3e",
+      "name": "TemWay XAP MCCB Chassis XAP63024U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63024u4pole-6fa872ba3e",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63024u4pole-6fa872ba3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63024u4pole-6fa872ba3e.json"
+    },
+    {
+      "id": "mfr-abb-cs-external-neutral-conductor-e6-2-f-03f45e2841",
+      "name": "CS EXTERNAL NEUTRAL CONDUCTOR E6.2/f",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-cs-external-neutral-conductor-e6-2-f-03f45e2841",
+      "recordPath": "equipment/mfr-abb-cs-external-neutral-conductor-e6-2-f-03f45e2841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-cs-external-neutral-conductor-e6-2-f-03f45e2841.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tc3l-d0d0a6dce4",
+      "name": "140G-J TC3L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tc3l-d0d0a6dce4",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tc3l-d0d0a6dce4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tc3l-d0d0a6dce4.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63030u-a09c7f2df5",
+      "name": "TemWay XAP MCCB Chassis XAP63030U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63030u-a09c7f2df5",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63030u-a09c7f2df5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63030u-a09c7f2df5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tla13-bbe0e6a0b3",
+      "name": "140G-J TLA13",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tla13-bbe0e6a0b3",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tla13-bbe0e6a0b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tla13-bbe0e6a0b3.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63032u4pole-b9d61071c0",
+      "name": "TemWay XAP MCCB Chassis XAP63032U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63032u4pole-b9d61071c0",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63032u4pole-b9d61071c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63032u4pole-b9d61071c0.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tla1b3-4dfc0c57f1",
+      "name": "140G-J TLA1B3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tla1b3-4dfc0c57f1",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tla1b3-4dfc0c57f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tla1b3-4dfc0c57f1.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63036u-86aafcbe27",
+      "name": "TemWay XAP MCCB Chassis XAP63036U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63036u-86aafcbe27",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63036u-86aafcbe27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63036u-86aafcbe27.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tlc13-233c06f6c4",
+      "name": "140G-J TLC13",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tlc13-233c06f6c4",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tlc13-233c06f6c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tlc13-233c06f6c4.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63040u4pole-6c295e7710",
+      "name": "TemWay XAP MCCB Chassis XAP63040U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63040u4pole-6c295e7710",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63040u4pole-6c295e7710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63040u4pole-6c295e7710.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-jtf3-d25-c9c6a3a257",
+      "name": "140G-JTF3 D25",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-jtf3-d25-c9c6a3a257",
+      "recordPath": "equipment/mfr-allen-bradley-140g-jtf3-d25-c9c6a3a257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-jtf3-d25-c9c6a3a257.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63042u-327fbbbf55",
+      "name": "TemWay XAP MCCB Chassis XAP63042U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63042u-327fbbbf55",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63042u-327fbbbf55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63042u-327fbbbf55.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-bp4-d302764c0d",
+      "name": "140G-K BP4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-bp4-d302764c0d",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-bp4-d302764c0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-bp4-d302764c0d.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63048u-6692c1c085",
+      "name": "TemWay XAP MCCB Chassis XAP63048U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63048u-6692c1c085",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63048u-6692c1c085.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63048u-6692c1c085.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-frame-actuator-asm-22ja25-da785d53fd",
+      "name": "140G-K FRAME ACTUATOR ASM 22JA25",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-frame-actuator-asm-22ja25-da785d53fd",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-frame-actuator-asm-22ja25-da785d53fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-frame-actuator-asm-22ja25-da785d53fd.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63048u4pole-2a1fb65ff2",
+      "name": "TemWay XAP MCCB Chassis XAP63048U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63048u4pole-2a1fb65ff2",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63048u4pole-2a1fb65ff2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63048u4pole-2a1fb65ff2.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-f-compartment-door-drilling-1ded4cdc39",
+      "name": "E1.2 III F COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-compartment-door-drilling-1ded4cdc39",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-f-compartment-door-drilling-1ded4cdc39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-f-compartment-door-drilling-1ded4cdc39.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-frame-handle-bellcrank-22ja25-23074f80c7",
+      "name": "140G-K FRAME HANDLE BELLCRANK 22JA25",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-frame-handle-bellcrank-22ja25-23074f80c7",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-frame-handle-bellcrank-22ja25-23074f80c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-frame-handle-bellcrank-22ja25-23074f80c7.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63056u4pole-d35e841505",
+      "name": "TemWay XAP MCCB Chassis XAP63056U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63056u4pole-d35e841505",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63056u4pole-d35e841505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63056u4pole-d35e841505.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-f-fixing-ponts-ul-fc2b9b1ba9",
+      "name": "E1.2 III F FIXING PONTS - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-fixing-ponts-ul-fc2b9b1ba9",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-f-fixing-ponts-ul-fc2b9b1ba9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-f-fixing-ponts-ul-fc2b9b1ba9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-flexcable-25bb92e3dc",
+      "name": "140G-K FlexCable",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63060u-f06a9ad0fd",
+      "name": "TemWay XAP MCCB Chassis XAP63060U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63060u-f06a9ad0fd",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63060u-f06a9ad0fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63060u-f06a9ad0fd.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-f-floor-fixing-ad8c8daa14",
+      "name": "E1.2 III F FLOOR FIXING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-floor-fixing-ad8c8daa14",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-f-floor-fixing-ad8c8daa14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-f-floor-fixing-ad8c8daa14.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-4p-cb-4e062bb194",
+      "name": "140G-M 4P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-4p-cb-4e062bb194",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-4p-cb-4e062bb194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-4p-cb-4e062bb194.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63064u4pole-863ff7230e",
+      "name": "TemWay XAP MCCB Chassis XAP63064U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63064u4pole-863ff7230e",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63064u4pole-863ff7230e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63064u4pole-863ff7230e.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-f-wall-fixing-f-ef-fccual-es-ul-720b81e11f",
+      "name": "E1.2 III F WALL FIXING F EF FcCuAl ES - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-wall-fixing-f-ef-fccual-es-ul-720b81e11f",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-f-wall-fixing-f-ef-fccual-es-ul-720b81e11f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-f-wall-fixing-f-ef-fccual-es-ul-720b81e11f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-bp3-b444ee87ec",
+      "name": "140G-M BP3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-bp3-b444ee87ec",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-bp3-b444ee87ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-bp3-b444ee87ec.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap63072u-bc0b1850a0",
+      "name": "TemWay XAP MCCB Chassis XAP63072U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63072u-bc0b1850a0",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap63072u-bc0b1850a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap63072u-bc0b1850a0.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-f-wall-fixing-hr-vr-ul-f70ac21a5f",
+      "name": "E1.2 III F WALL FIXING HR VR - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-f-wall-fixing-hr-vr-ul-f70ac21a5f",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-f-wall-fixing-hr-vr-ul-f70ac21a5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-f-wall-fixing-hr-vr-ul-f70ac21a5f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-bp4-efc14713a1",
+      "name": "140G-M BP4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-bp4-efc14713a1",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-bp4-efc14713a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-bp4-efc14713a1.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80012u-ca76021978",
+      "name": "TemWay XAP MCCB Chassis XAP80012U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80012u-ca76021978",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80012u-ca76021978.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80012u-ca76021978.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-compartment-door-drilling-845bc820c5",
+      "name": "E1.2 III W COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-compartment-door-drilling-845bc820c5",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-compartment-door-drilling-845bc820c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-compartment-door-drilling-845bc820c5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-cir-bkr-base-11d6d840eb",
+      "name": "140G-M CIR BKR BASE",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-cir-bkr-base-11d6d840eb",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-cir-bkr-base-11d6d840eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-cir-bkr-base-11d6d840eb.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80016u4pole-3197c83d12",
+      "name": "TemWay XAP MCCB Chassis XAP80016U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80016u4pole-3197c83d12",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80016u4pole-3197c83d12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80016u4pole-3197c83d12.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-compartment-door-drilling-ul-b7d31eed20",
+      "name": "E1.2 III W COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-compartment-door-drilling-ul-b7d31eed20",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-compartment-door-drilling-ul-b7d31eed20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-compartment-door-drilling-ul-b7d31eed20.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-ecm4-8def4324c3",
+      "name": "140G-M ECM4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-ecm4-8def4324c3",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-ecm4-8def4324c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-ecm4-8def4324c3.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80018u-8e756e8e45",
+      "name": "TemWay XAP MCCB Chassis XAP80018U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80018u-8e756e8e45",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80018u-8e756e8e45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80018u-8e756e8e45.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-floor-fixing-57e01eb5e8",
+      "name": "E1.2 III W FLOOR FIXING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-floor-fixing-57e01eb5e8",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-floor-fixing-57e01eb5e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-floor-fixing-57e01eb5e8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-exs4-ea3328d7ab",
+      "name": "140G-M EXS4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-exs4-ea3328d7ab",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-exs4-ea3328d7ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-exs4-ea3328d7ab.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80024u-61b59cf1e5",
+      "name": "TemWay XAP MCCB Chassis XAP80024U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80024u-61b59cf1e5",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80024u-61b59cf1e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80024u-61b59cf1e5.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-rear-segregation-ef-es-ul-15570da8e5",
+      "name": "E1.2 III W REAR SEGREGATION EF ES - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-rear-segregation-ef-es-ul-15570da8e5",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-rear-segregation-ef-es-ul-15570da8e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-rear-segregation-ef-es-ul-15570da8e5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-ext3-cea1f58190",
+      "name": "140G-M EXT3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-ext3-cea1f58190",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-ext3-cea1f58190.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-ext3-cea1f58190.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80024u4pole-9448bf9e86",
+      "name": "TemWay XAP MCCB Chassis XAP80024U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80024u4pole-9448bf9e86",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80024u4pole-9448bf9e86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80024u4pole-9448bf9e86.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-7e5b1b196b",
+      "name": "E1.2 III W REAR SEGREGATION HR VR FcCuAl",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-7e5b1b196b",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-7e5b1b196b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-7e5b1b196b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-ext4-78da1d44b5",
+      "name": "140G-M EXT4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-ext4-78da1d44b5",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-ext4-78da1d44b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-ext4-78da1d44b5.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80030u-84e45b9937",
+      "name": "TemWay XAP MCCB Chassis XAP80030U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80030u-84e45b9937",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80030u-84e45b9937.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80030u-84e45b9937.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-ul-2d6b3f1d52",
+      "name": "E1.2 III W REAR SEGREGATION HR VR FcCuAl - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-ul-2d6b3f1d52",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-ul-2d6b3f1d52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-rear-segregation-hr-vr-fccual-ul-2d6b3f1d52.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-nctd60-338a22e2f1",
+      "name": "140G-M NCTD60",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-nctd60-338a22e2f1",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-nctd60-338a22e2f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-nctd60-338a22e2f1.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80032u4pole-496855ace2",
+      "name": "TemWay XAP MCCB Chassis XAP80032U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80032u4pole-496855ace2",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80032u4pole-496855ace2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80032u4pole-496855ace2.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iii-w-rear-segregation-shr-ul-417f106d71",
+      "name": "E1.2 III W REAR SEGREGATION SHR - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iii-w-rear-segregation-shr-ul-417f106d71",
+      "recordPath": "equipment/mfr-abb-e1-2-iii-w-rear-segregation-shr-ul-417f106d71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iii-w-rear-segregation-shr-ul-417f106d71.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-pb3l-962af29337",
+      "name": "140G-M PB3L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-pb3l-962af29337",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-pb3l-962af29337.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-pb3l-962af29337.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80036u-bbe8a1787b",
+      "name": "TemWay XAP MCCB Chassis XAP80036U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80036u-bbe8a1787b",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80036u-bbe8a1787b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80036u-bbe8a1787b.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-ul-18fdffd61b",
+      "name": "E1.2 IV F - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-ul-18fdffd61b",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-ul-18fdffd61b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-ul-18fdffd61b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-pb4l-446d676ae9",
+      "name": "140G-M PB4L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-pb4l-446d676ae9",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-pb4l-446d676ae9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-pb4l-446d676ae9.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80040u4pole-8b79a0d5bb",
+      "name": "TemWay XAP MCCB Chassis XAP80040U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80040u4pole-8b79a0d5bb",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80040u4pole-8b79a0d5bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80040u4pole-8b79a0d5bb.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-compartment-door-drilling-ec81baf1f1",
+      "name": "E1.2 IV F COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-compartment-door-drilling-ec81baf1f1",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-compartment-door-drilling-ec81baf1f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-compartment-door-drilling-ec81baf1f1.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tc3h-e54d378749",
+      "name": "140G-M TC3H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tc3h-e54d378749",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tc3h-e54d378749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tc3h-e54d378749.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80042u-1b34827335",
+      "name": "TemWay XAP MCCB Chassis XAP80042U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80042u-1b34827335",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80042u-1b34827335.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80042u-1b34827335.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-compartment-door-drilling-ul-96c3b8be23",
+      "name": "E1.2 IV F COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-compartment-door-drilling-ul-96c3b8be23",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-compartment-door-drilling-ul-96c3b8be23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-compartment-door-drilling-ul-96c3b8be23.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tc3l-9fdaa228c2",
+      "name": "140G-M TC3L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tc3l-9fdaa228c2",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tc3l-9fdaa228c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tc3l-9fdaa228c2.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80048u-56fd98dde6",
+      "name": "TemWay XAP MCCB Chassis XAP80048U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80048u-56fd98dde6",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80048u-56fd98dde6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80048u-56fd98dde6.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-fixing-ponts-ul-542151522e",
+      "name": "E1.2 IV F FIXING PONTS - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-fixing-ponts-ul-542151522e",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-fixing-ponts-ul-542151522e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-fixing-ponts-ul-542151522e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tc4h-9e19b816f8",
+      "name": "140G-M TC4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tc4h-9e19b816f8",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tc4h-9e19b816f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tc4h-9e19b816f8.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80048u4pole-54e02ea0f7",
+      "name": "TemWay XAP MCCB Chassis XAP80048U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80048u4pole-54e02ea0f7",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80048u4pole-54e02ea0f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80048u4pole-54e02ea0f7.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-floor-fixing-ul-a2d95db501",
+      "name": "E1.2 IV F FLOOR FIXING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-floor-fixing-ul-a2d95db501",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-floor-fixing-ul-a2d95db501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-floor-fixing-ul-a2d95db501.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tc4l-bf1e394f42",
+      "name": "140G-M TC4L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tc4l-bf1e394f42",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tc4l-bf1e394f42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tc4l-bf1e394f42.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80056u4pole-26f94ccd45",
+      "name": "TemWay XAP MCCB Chassis XAP80056U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80056u4pole-26f94ccd45",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80056u4pole-26f94ccd45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80056u4pole-26f94ccd45.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-ul-7576b79ec4",
+      "name": "E1.2 IV F WALL FIXING F EF FcCuAl ES - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-ul-7576b79ec4",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-ul-7576b79ec4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-wall-fixing-f-ef-fccual-es-ul-7576b79ec4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tla23-ade076ea9e",
+      "name": "140G-M TLA23",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tla23-ade076ea9e",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tla23-ade076ea9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tla23-ade076ea9e.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80060u-1614d0b6fc",
+      "name": "TemWay XAP MCCB Chassis XAP80060U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80060u-1614d0b6fc",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80060u-1614d0b6fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80060u-1614d0b6fc.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-f-wall-fixing-hr-vr-e694463631",
+      "name": "E1.2 IV F WALL FIXING HR VR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-f-wall-fixing-hr-vr-e694463631",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-f-wall-fixing-hr-vr-e694463631.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-f-wall-fixing-hr-vr-e694463631.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tla24-3380cb05e3",
+      "name": "140G-M TLA24",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tla24-3380cb05e3",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tla24-3380cb05e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tla24-3380cb05e3.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80064u4pole-6290e65cef",
+      "name": "TemWay XAP MCCB Chassis XAP80064U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80064u4pole-6290e65cef",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80064u4pole-6290e65cef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80064u4pole-6290e65cef.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-w-compartment-door-drilling-ul-33aaf8c1ad",
+      "name": "E1.2 IV W COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-compartment-door-drilling-ul-33aaf8c1ad",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-w-compartment-door-drilling-ul-33aaf8c1ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-w-compartment-door-drilling-ul-33aaf8c1ad.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tla33-07ccebfe30",
+      "name": "140G-M TLA33",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tla33-07ccebfe30",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tla33-07ccebfe30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tla33-07ccebfe30.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xap-mccb-chassis-xap80072u-c76069abe4",
+      "name": "TemWay XAP MCCB Chassis XAP80072U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80072u-c76069abe4",
+      "recordPath": "equipment/mfr-terasaki-temway-xap-mccb-chassis-xap80072u-c76069abe4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xap-mccb-chassis-xap80072u-c76069abe4.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-w-floor-fixing-ul-e4dea0d00b",
+      "name": "E1.2 IV W FLOOR FIXING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-floor-fixing-ul-e4dea0d00b",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-w-floor-fixing-ul-e4dea0d00b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-w-floor-fixing-ul-e4dea0d00b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tla34-d9ebc6977f",
+      "name": "140G-M TLA34",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tla34-d9ebc6977f",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tla34-d9ebc6977f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tla34-d9ebc6977f.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80012u-17e7506d93",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL80012U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80012u-17e7506d93",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80012u-17e7506d93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80012u-17e7506d93.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-w-rear-segregation-ef-es-f878f976ed",
+      "name": "E1.2 IV W REAR SEGREGATION EF ES",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-rear-segregation-ef-es-f878f976ed",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-w-rear-segregation-ef-es-f878f976ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-w-rear-segregation-ef-es-f878f976ed.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tlc23-7c8d1edb4f",
+      "name": "140G-M TLC23",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tlc23-7c8d1edb4f",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tlc23-7c8d1edb4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tlc23-7c8d1edb4f.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80015u-280522ede5",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL80015U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80015u-280522ede5",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80015u-280522ede5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80015u-280522ede5.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-ul-252ebafabf",
+      "name": "E1.2 IV W REAR SEGREGATION HR VR FcCuAl - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-ul-252ebafabf",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-ul-252ebafabf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-w-rear-segregation-hr-vr-fccual-ul-252ebafabf.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tlc24-fab3e69a2c",
+      "name": "140G-M TLC24",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tlc24-fab3e69a2c",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tlc24-fab3e69a2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tlc24-fab3e69a2c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-atv320-compact-emc-plate-s4-16a64aa8d5",
+      "name": "ATV320 Compact EMC PLATE S4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-atv320-compact-emc-plate-s4-16a64aa8d5",
+      "recordPath": "equipment/mfr-schneider-electric-atv320-compact-emc-plate-s4-16a64aa8d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-atv320-compact-emc-plate-s4-16a64aa8d5.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80021u-67562e18a5",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL80021U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80021u-67562e18a5",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80021u-67562e18a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80021u-67562e18a5.json"
+    },
+    {
+      "id": "mfr-abb-e1-2-iv-w-rear-segregation-shr-ul-fd150303ca",
+      "name": "E1.2 IV W REAR SEGREGATION SHR - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-2-iv-w-rear-segregation-shr-ul-fd150303ca",
+      "recordPath": "equipment/mfr-abb-e1-2-iv-w-rear-segregation-shr-ul-fd150303ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-2-iv-w-rear-segregation-shr-ul-fd150303ca.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tlc33-e352aa9f56",
+      "name": "140G-M TLC33",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tlc33-e352aa9f56",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tlc33-e352aa9f56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tlc33-e352aa9f56.json"
+    },
+    {
+      "id": "mfr-schneider-electric-atv320-compact-emc-plate-s5-22625dcd31",
+      "name": "ATV320 Compact EMC PLATE S5",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-atv320-compact-emc-plate-s5-22625dcd31",
+      "recordPath": "equipment/mfr-schneider-electric-atv320-compact-emc-plate-s5-22625dcd31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-atv320-compact-emc-plate-s5-22625dcd31.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80024u-53db417d30",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL80024U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80024u-53db417d30",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80024u-53db417d30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80024u-53db417d30.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-m-tlc34-eb5c8bcee7",
+      "name": "140G-M TLC34",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-m-tlc34-eb5c8bcee7",
+      "recordPath": "equipment/mfr-allen-bradley-140g-m-tlc34-eb5c8bcee7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-m-tlc34-eb5c8bcee7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-atv660-compact-drive-system-atv960-high-performance-110kw-90kw-180kw-160kw-400v-480v-c-ca74f5960c",
+      "name": "ATV660 Compact Drive System / ATV960 High Performance , 110kW / 90kW..180kW / 160kW; 400V/480V (CE, IP23)",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-atv660-compact-drive-system-atv960-high-performance-110kw-90kw-180kw-160kw-400v-480v-c-ca74f5960c",
+      "recordPath": "equipment/mfr-schneider-electric-atv660-compact-drive-system-atv960-high-performance-110kw-90kw-180kw-160kw-400v-480v-c-ca74f5960c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-atv660-compact-drive-system-atv960-high-performance-110kw-90kw-180kw-160kw-400v-480v-c-ca74f5960c.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80030u-19760ac85b",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL80030U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80030u-19760ac85b",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80030u-19760ac85b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80030u-19760ac85b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-ns-3p-cb-0d471ad441",
+      "name": "140G-NS 3P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-ns-3p-cb-0d471ad441",
+      "recordPath": "equipment/mfr-allen-bradley-140g-ns-3p-cb-0d471ad441.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-ns-3p-cb-0d471ad441.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80036u-e46e18492f",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL80036U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80036u-e46e18492f",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80036u-e46e18492f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl80036u-e46e18492f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti-9-id-k-srewshield-f61e8966b7",
+      "name": "Acti 9 ID K srewshield",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti-9-id-k-srewshield-f61e8966b7",
+      "recordPath": "equipment/mfr-schneider-electric-acti-9-id-k-srewshield-f61e8966b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti-9-id-k-srewshield-f61e8966b7.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8006u-0069731a73",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL8006U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8006u-0069731a73",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8006u-0069731a73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8006u-0069731a73.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti-9-set-of-10-end-caps-2p-e5a6fbdd05",
+      "name": "Acti 9 Set of 10 end caps 2P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti-9-set-of-10-end-caps-2p-e5a6fbdd05",
+      "recordPath": "equipment/mfr-schneider-electric-acti-9-set-of-10-end-caps-2p-e5a6fbdd05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti-9-set-of-10-end-caps-2p-e5a6fbdd05.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8009u-18a61f3a31",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSL8009U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8009u-18a61f3a31",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8009u-18a61f3a31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssl8009u-18a61f3a31.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti-9-set-of-10-end-caps-3p-6ff96741be",
+      "name": "Acti 9 set of 10 end caps 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti-9-set-of-10-end-caps-3p-6ff96741be",
+      "recordPath": "equipment/mfr-schneider-electric-acti-9-set-of-10-end-caps-3p-6ff96741be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti-9-set-of-10-end-caps-3p-6ff96741be.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80012u-9a975f95eb",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80012U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80012u-9a975f95eb",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80012u-9a975f95eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80012u-9a975f95eb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti-9-set-of-10-end-caps-4p-d857729902",
+      "name": "Acti 9 set of 10 end caps 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti-9-set-of-10-end-caps-4p-d857729902",
+      "recordPath": "equipment/mfr-schneider-electric-acti-9-set-of-10-end-caps-4p-d857729902.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti-9-set-of-10-end-caps-4p-d857729902.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80015u-74472615ed",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80015U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80015u-74472615ed",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80015u-74472615ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80015u-74472615ed.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-min-silent-electronic-timer-adjustable-from-0-5-to-60-minutes-a070ae4065",
+      "name": "Acti9 - MIN+ - silent electronic timer - adjustable from 0.5 to 60 minutes",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-min-silent-electronic-timer-adjustable-from-0-5-to-60-minutes-a070ae4065",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-min-silent-electronic-timer-adjustable-from-0-5-to-60-minutes-a070ae4065.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-min-silent-electronic-timer-adjustable-from-0-5-to-60-minutes-a070ae4065.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80018u-df425064dd",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80018U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80018u-df425064dd",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80018u-df425064dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80018u-df425064dd.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80021u-e26bc3fa59",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80021U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80021u-e26bc3fa59",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80021u-e26bc3fa59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80021u-e26bc3fa59.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80024u-1d1f3f4f36",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80024U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80024u-1d1f3f4f36",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80024u-1d1f3f4f36.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80024u-1d1f3f4f36.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80030u-41e4df60a8",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80030U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80030u-41e4df60a8",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80030u-41e4df60a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80030u-41e4df60a8.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80036u-76460e0376",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR80036U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80036u-76460e0376",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80036u-76460e0376.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr80036u-76460e0376.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8006u-e3653b9f4a",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR8006U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8006u-e3653b9f4a",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8006u-e3653b9f4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8006u-e3653b9f4a.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8009u-9790769acb",
+      "name": "TemWay XBP MCCB Chassis Single Sided XBPSSR8009U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8009u-9790769acb",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8009u-9790769acb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-single-sided-xbpssr8009u-9790769acb.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80012u-8406223719",
+      "name": "TemWay XBP MCCB Chassis XBP80012U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80012u-8406223719",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80012u-8406223719.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80012u-8406223719.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80016u4pole-cfce283061",
+      "name": "TemWay XBP MCCB Chassis XBP80016U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80016u4pole-cfce283061",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80016u4pole-cfce283061.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80016u4pole-cfce283061.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80018u-0853d39cc2",
+      "name": "TemWay XBP MCCB Chassis XBP80018U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80018u-0853d39cc2",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80018u-0853d39cc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80018u-0853d39cc2.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u-31da570932",
+      "name": "TemWay XBP MCCB Chassis XBP80024U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u-31da570932",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u-31da570932.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u-31da570932.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u4pole-07e369644f",
+      "name": "TemWay XBP MCCB Chassis XBP80024U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u4pole-07e369644f",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u4pole-07e369644f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80024u4pole-07e369644f.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80030u-cfd5c8c873",
+      "name": "TemWay XBP MCCB Chassis XBP80030U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80030u-cfd5c8c873",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80030u-cfd5c8c873.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80030u-cfd5c8c873.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80032u4pole-1f052703f8",
+      "name": "TemWay XBP MCCB Chassis XBP80032U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80032u4pole-1f052703f8",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80032u4pole-1f052703f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80032u4pole-1f052703f8.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iii-f-compartment-door-drilling-ul-39533787d8",
+      "name": "E2.2 III F COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iii-f-compartment-door-drilling-ul-39533787d8",
+      "recordPath": "equipment/mfr-abb-e2-2-iii-f-compartment-door-drilling-ul-39533787d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iii-f-compartment-door-drilling-ul-39533787d8.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80036u-9ed2079dd9",
+      "name": "TemWay XBP MCCB Chassis XBP80036U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80036u-9ed2079dd9",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80036u-9ed2079dd9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80036u-9ed2079dd9.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iii-f-floor-fixing-external-ul-53b491f259",
+      "name": "E2.2 III F FLOOR FIXING EXTERNAL - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iii-f-floor-fixing-external-ul-53b491f259",
+      "recordPath": "equipment/mfr-abb-e2-2-iii-f-floor-fixing-external-ul-53b491f259.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iii-f-floor-fixing-external-ul-53b491f259.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80040u4pole-6e869317a4",
+      "name": "TemWay XBP MCCB Chassis XBP80040U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80040u4pole-6e869317a4",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80040u4pole-6e869317a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80040u4pole-6e869317a4.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iii-w-compartment-door-drilling-9188c482bf",
+      "name": "E2.2 III W COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iii-w-compartment-door-drilling-9188c482bf",
+      "recordPath": "equipment/mfr-abb-e2-2-iii-w-compartment-door-drilling-9188c482bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iii-w-compartment-door-drilling-9188c482bf.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80042u-a151198c30",
+      "name": "TemWay XBP MCCB Chassis XBP80042U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80042u-a151198c30",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80042u-a151198c30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80042u-a151198c30.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iii-w-floor-fixing-2e704d0895",
+      "name": "E2.2 III W FLOOR FIXING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iii-w-floor-fixing-2e704d0895",
+      "recordPath": "equipment/mfr-abb-e2-2-iii-w-floor-fixing-2e704d0895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iii-w-floor-fixing-2e704d0895.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u-dc6b64e440",
+      "name": "TemWay XBP MCCB Chassis XBP80048U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u-dc6b64e440",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u-dc6b64e440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u-dc6b64e440.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-f-compartment-door-drilling-b5656a213c",
+      "name": "E2.2 IV F COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-f-compartment-door-drilling-b5656a213c",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-f-compartment-door-drilling-b5656a213c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-f-compartment-door-drilling-b5656a213c.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u4pole-8271022c14",
+      "name": "TemWay XBP MCCB Chassis XBP80048U4POLE",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u4pole-8271022c14",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u4pole-8271022c14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u4pole-8271022c14.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-f-compartment-door-drilling-ul-0c2c0d1377",
+      "name": "E2.2 IV F COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-f-compartment-door-drilling-ul-0c2c0d1377",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-f-compartment-door-drilling-ul-0c2c0d1377.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-f-compartment-door-drilling-ul-0c2c0d1377.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-k60h-3p-1a-63a-miniature-circuit-breaker-4fe1fd356a",
+      "name": "Acti9 K60H 3P 1A…63A, miniature Circuit Breaker",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-k60h-3p-1a-63a-miniature-circuit-breaker-4fe1fd356a",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-k60h-3p-1a-63a-miniature-circuit-breaker-4fe1fd356a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-k60h-3p-1a-63a-miniature-circuit-breaker-4fe1fd356a.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80060u-baaebfd26f",
+      "name": "TemWay XBP MCCB Chassis XBP80060U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80060u-baaebfd26f",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80060u-baaebfd26f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80060u-baaebfd26f.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-f-floor-fixing-external-ul-32ab2e044c",
+      "name": "E2.2 IV F FLOOR FIXING EXTERNAL - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-f-floor-fixing-external-ul-32ab2e044c",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-f-floor-fixing-external-ul-32ab2e044c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-f-floor-fixing-external-ul-32ab2e044c.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xbp-mccb-chassis-xbp80072u-92d0ccd59c",
+      "name": "TemWay XBP MCCB Chassis XBP80072U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80072u-92d0ccd59c",
+      "recordPath": "equipment/mfr-terasaki-temway-xbp-mccb-chassis-xbp80072u-92d0ccd59c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xbp-mccb-chassis-xbp80072u-92d0ccd59c.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-f-ip30-protection-for-switchgear-1b5f492c50",
+      "name": "E2.2 IV F IP30 PROTECTION FOR SWITCHGEAR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-f-ip30-protection-for-switchgear-1b5f492c50",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-f-ip30-protection-for-switchgear-1b5f492c50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-f-ip30-protection-for-switchgear-1b5f492c50.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-c120h-2p-b-125a-mcb-03649b87d8",
+      "name": "Acti9 Pro C120H 2P B 125A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-c120h-2p-b-125a-mcb-03649b87d8",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-c120h-2p-b-125a-mcb-03649b87d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-c120h-2p-b-125a-mcb-03649b87d8.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63012u-7cb4952161",
+      "name": "TemWay XEP MCCB Chassis XEP63012U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63012u-7cb4952161",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63012u-7cb4952161.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63012u-7cb4952161.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-w-compartment-door-drilling-bfe45e9846",
+      "name": "E2.2 IV W COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-w-compartment-door-drilling-bfe45e9846",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-w-compartment-door-drilling-bfe45e9846.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-w-compartment-door-drilling-bfe45e9846.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-c120h-2p-c-63a-mcb-1b189ffa7b",
+      "name": "Acti9 Pro C120H 2P C 63A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-c120h-2p-c-63a-mcb-1b189ffa7b",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-c120h-2p-c-63a-mcb-1b189ffa7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-c120h-2p-c-63a-mcb-1b189ffa7b.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63018u-e824bcfefd",
+      "name": "TemWay XEP MCCB Chassis XEP63018U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63018u-e824bcfefd",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63018u-e824bcfefd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63018u-e824bcfefd.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-w-compartment-door-drilling-ul-6c1158a1da",
+      "name": "E2.2 IV W COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-w-compartment-door-drilling-ul-6c1158a1da",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-w-compartment-door-drilling-ul-6c1158a1da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-w-compartment-door-drilling-ul-6c1158a1da.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-c120h-3p-c-63a-mcb-c317366806",
+      "name": "Acti9 Pro C120H 3P C 63A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-c120h-3p-c-63a-mcb-c317366806",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-c120h-3p-c-63a-mcb-c317366806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-c120h-3p-c-63a-mcb-c317366806.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63024u-9b15f3d318",
+      "name": "TemWay XEP MCCB Chassis XEP63024U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63024u-9b15f3d318",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63024u-9b15f3d318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63024u-9b15f3d318.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-w-floor-fixing-41cc890aaa",
+      "name": "E2.2 IV W FLOOR FIXING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-w-floor-fixing-41cc890aaa",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-w-floor-fixing-41cc890aaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-w-floor-fixing-41cc890aaa.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-c120h-4p-c-63a-mcb-715c7da65a",
+      "name": "Acti9 Pro C120H 4P C 63A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-c120h-4p-c-63a-mcb-715c7da65a",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-c120h-4p-c-63a-mcb-715c7da65a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-c120h-4p-c-63a-mcb-715c7da65a.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63030u-946cb6ae50",
+      "name": "TemWay XEP MCCB Chassis XEP63030U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63030u-946cb6ae50",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63030u-946cb6ae50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63030u-946cb6ae50.json"
+    },
+    {
+      "id": "mfr-abb-e2-2-iv-w-ip30-protection-for-switchgear-1e36938912",
+      "name": "E2.2 IV W IP30 PROTECTION FOR SWITCHGEAR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e2-2-iv-w-ip30-protection-for-switchgear-1e36938912",
+      "recordPath": "equipment/mfr-abb-e2-2-iv-w-ip30-protection-for-switchgear-1e36938912.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e2-2-iv-w-ip30-protection-for-switchgear-1e36938912.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-ic65-ele-2p-40a-30ma-a-405bca9933",
+      "name": "Acti9 Pro Vigi iC65 ELE 2P 40A 30mA A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-2p-40a-30ma-a-405bca9933",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-2p-40a-30ma-a-405bca9933.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-2p-40a-30ma-a-405bca9933.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63036u-17c9038b64",
+      "name": "TemWay XEP MCCB Chassis XEP63036U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63036u-17c9038b64",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63036u-17c9038b64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63036u-17c9038b64.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-ic65-ele-3p-40a-30ma-a-7e71fe2460",
+      "name": "Acti9 Pro Vigi iC65 ELE 3P 40A 30mA A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-3p-40a-30ma-a-7e71fe2460",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-3p-40a-30ma-a-7e71fe2460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-3p-40a-30ma-a-7e71fe2460.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63042u-9e8a919462",
+      "name": "TemWay XEP MCCB Chassis XEP63042U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63042u-9e8a919462",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63042u-9e8a919462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63042u-9e8a919462.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-ic65-ele-4p-40a-30ma-a-592a6740d7",
+      "name": "Acti9 Pro Vigi iC65 ELE 4P 40A 30mA A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-4p-40a-30ma-a-592a6740d7",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-4p-40a-30ma-a-592a6740d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-ic65-ele-4p-40a-30ma-a-592a6740d7.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63048u-7af9be1386",
+      "name": "TemWay XEP MCCB Chassis XEP63048U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63048u-7af9be1386",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63048u-7af9be1386.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63048u-7af9be1386.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-ic65-elm-2p-63a-300ma-s-16c195779f",
+      "name": "Acti9 Pro Vigi iC65 ELM 2P 63A 300mA-S",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-2p-63a-300ma-s-16c195779f",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-2p-63a-300ma-s-16c195779f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-2p-63a-300ma-s-16c195779f.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63060u-0c2e48c623",
+      "name": "TemWay XEP MCCB Chassis XEP63060U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63060u-0c2e48c623",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63060u-0c2e48c623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63060u-0c2e48c623.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-ic65-elm-3p-63a-300ma-s-ee2823a3b0",
+      "name": "Acti9 Pro Vigi iC65 ELM 3P 63A 300mA-S",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-3p-63a-300ma-s-ee2823a3b0",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-3p-63a-300ma-s-ee2823a3b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-3p-63a-300ma-s-ee2823a3b0.json"
+    },
+    {
+      "id": "mfr-terasaki-temway-xep-mccb-chassis-xep63072u-bb6aff8735",
+      "name": "TemWay XEP MCCB Chassis XEP63072U",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63072u-bb6aff8735",
+      "recordPath": "equipment/mfr-terasaki-temway-xep-mccb-chassis-xep63072u-bb6aff8735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-temway-xep-mccb-chassis-xep63072u-bb6aff8735.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-ic65-elm-4p-63a-300ma-s-cc31ace8fe",
+      "name": "Acti9 Pro Vigi iC65 ELM 4P 63A 300mA-S",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-4p-63a-300ma-s-cc31ace8fe",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-4p-63a-300ma-s-cc31ace8fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-ic65-elm-4p-63a-300ma-s-cc31ace8fe.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-idpn-1pn-25a-10ma-a-08455ae056",
+      "name": "Acti9 Pro Vigi iDPN 1PN 25A 10mA A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-idpn-1pn-25a-10ma-a-08455ae056",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-idpn-1pn-25a-10ma-a-08455ae056.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-idpn-1pn-25a-10ma-a-08455ae056.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-vigi-idpn-s-1pn-25a-30ma-a-33475219a4",
+      "name": "Acti9 Pro Vigi iDPN-S 1PN 25A 30mA A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-vigi-idpn-s-1pn-25a-30ma-a-33475219a4",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-vigi-idpn-s-1pn-25a-30ma-a-33475219a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-vigi-idpn-s-1pn-25a-30ma-a-33475219a4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65-ul489-1p-b-1a-mcb-958d36f674",
+      "name": "Acti9 Pro iC65 UL489 1P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65-ul489-1p-b-1a-mcb-958d36f674",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65-ul489-1p-b-1a-mcb-958d36f674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65-ul489-1p-b-1a-mcb-958d36f674.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65-ul489-2p-c-1a-mcb-e99732862c",
+      "name": "Acti9 Pro iC65 UL489 2P C 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65-ul489-2p-c-1a-mcb-e99732862c",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65-ul489-2p-c-1a-mcb-e99732862c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65-ul489-2p-c-1a-mcb-e99732862c.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-f-compartment-door-drilling-bd3b149c53",
+      "name": "E4.2 III F COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-f-compartment-door-drilling-bd3b149c53",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-f-compartment-door-drilling-bd3b149c53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-f-compartment-door-drilling-bd3b149c53.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65-ul489-3p-c-1a-mcb-e9f398cd88",
+      "name": "Acti9 Pro iC65 UL489 3P C 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65-ul489-3p-c-1a-mcb-e9f398cd88",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65-ul489-3p-c-1a-mcb-e9f398cd88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65-ul489-3p-c-1a-mcb-e9f398cd88.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-f-compartment-door-drilling-ul-9e6a9665f7",
+      "name": "E4.2 III F COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-f-compartment-door-drilling-ul-9e6a9665f7",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-f-compartment-door-drilling-ul-9e6a9665f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-f-compartment-door-drilling-ul-9e6a9665f7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65-vigi-2p-c-16a-30ma-rcbo-a92722ce4c",
+      "name": "Acti9 Pro iC65 Vigi+ 2P C 16A 30mA RCBO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65-vigi-2p-c-16a-30ma-rcbo-a92722ce4c",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65-vigi-2p-c-16a-30ma-rcbo-a92722ce4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65-vigi-2p-c-16a-30ma-rcbo-a92722ce4c.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-f-floor-fixing-external-ul-7fbd7a817f",
+      "name": "E4.2 III F FLOOR FIXING EXTERNAL - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-f-floor-fixing-external-ul-7fbd7a817f",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-f-floor-fixing-external-ul-7fbd7a817f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-f-floor-fixing-external-ul-7fbd7a817f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-1p-b-1a-mcb-e2b1b74e62",
+      "name": "Acti9 Pro iC65H 1P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-1p-b-1a-mcb-e2b1b74e62",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-1p-b-1a-mcb-e2b1b74e62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-1p-b-1a-mcb-e2b1b74e62.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-f-ip30-protection-for-switchgea-911faa40b4",
+      "name": "E4.2 III F IP30 PROTECTION FOR SWITCHGEA",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-f-ip30-protection-for-switchgea-911faa40b4",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-f-ip30-protection-for-switchgea-911faa40b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-f-ip30-protection-for-switchgea-911faa40b4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-2p-b-1a-mcb-d2fb95d72d",
+      "name": "Acti9 Pro iC65H 2P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-2p-b-1a-mcb-d2fb95d72d",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-2p-b-1a-mcb-d2fb95d72d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-2p-b-1a-mcb-d2fb95d72d.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-w-4000a-43b4f4c95b",
+      "name": "E4.2 III W 4000A",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-w-4000a-43b4f4c95b",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-w-4000a-43b4f4c95b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-w-4000a-43b4f4c95b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-3p-b-1a-mcb-d829198dae",
+      "name": "Acti9 Pro iC65H 3P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-3p-b-1a-mcb-d829198dae",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-3p-b-1a-mcb-d829198dae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-3p-b-1a-mcb-d829198dae.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-w-compartment-door-drilling-8b8694b6d7",
+      "name": "E4.2 III W COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-w-compartment-door-drilling-8b8694b6d7",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-w-compartment-door-drilling-8b8694b6d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-w-compartment-door-drilling-8b8694b6d7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-4p-b-1a-mcb-a6e757a350",
+      "name": "Acti9 Pro iC65H 4P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-4p-b-1a-mcb-a6e757a350",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-4p-b-1a-mcb-a6e757a350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-4p-b-1a-mcb-a6e757a350.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-w-compartment-door-drilling-ul-e86daf07e8",
+      "name": "E4.2 III W COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-w-compartment-door-drilling-ul-e86daf07e8",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-w-compartment-door-drilling-ul-e86daf07e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-w-compartment-door-drilling-ul-e86daf07e8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-dt-1p-c-1a-mcb-0f45044047",
+      "name": "Acti9 Pro iC65H DT 1P C 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-1p-c-1a-mcb-0f45044047",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-1p-c-1a-mcb-0f45044047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-dt-1p-c-1a-mcb-0f45044047.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-w-floor-fixing-78b39aebdd",
+      "name": "E4.2 III W FLOOR FIXING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-w-floor-fixing-78b39aebdd",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-w-floor-fixing-78b39aebdd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-w-floor-fixing-78b39aebdd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-dt-2p-c-1a-mcb-b384cb4a32",
+      "name": "Acti9 Pro iC65H DT 2P C 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-2p-c-1a-mcb-b384cb4a32",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-2p-c-1a-mcb-b384cb4a32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-dt-2p-c-1a-mcb-b384cb4a32.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iii-w-ip30-protection-for-switchgea-dfb84b20a4",
+      "name": "E4.2 III W IP30 PROTECTION FOR SWITCHGEA",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iii-w-ip30-protection-for-switchgea-dfb84b20a4",
+      "recordPath": "equipment/mfr-abb-e4-2-iii-w-ip30-protection-for-switchgea-dfb84b20a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iii-w-ip30-protection-for-switchgea-dfb84b20a4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-dt-3p-c-1a-mcb-ea742b7741",
+      "name": "Acti9 Pro iC65H DT 3P C 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-3p-c-1a-mcb-ea742b7741",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-3p-c-1a-mcb-ea742b7741.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-dt-3p-c-1a-mcb-ea742b7741.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-f-78bef00840",
+      "name": "E4.2 IV F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-f-78bef00840",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-f-78bef00840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-f-78bef00840.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-dt-4p-c-1a-mcb-ad64c913f1",
+      "name": "Acti9 Pro iC65H DT 4P C 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-4p-c-1a-mcb-ad64c913f1",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-dt-4p-c-1a-mcb-ad64c913f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-dt-4p-c-1a-mcb-ad64c913f1.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-f-compartment-door-drilling-1fc5343f7f",
+      "name": "E4.2 IV F COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-f-compartment-door-drilling-1fc5343f7f",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-f-compartment-door-drilling-1fc5343f7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-f-compartment-door-drilling-1fc5343f7f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-s-1p-b-1a-mcb-0084b54021",
+      "name": "Acti9 Pro iC65H-S 1P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-s-1p-b-1a-mcb-0084b54021",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-s-1p-b-1a-mcb-0084b54021.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-s-1p-b-1a-mcb-0084b54021.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-f-compartment-door-drilling-ul-7b39092bff",
+      "name": "E4.2 IV F COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-f-compartment-door-drilling-ul-7b39092bff",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-f-compartment-door-drilling-ul-7b39092bff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-f-compartment-door-drilling-ul-7b39092bff.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-s-2p-b-1a-mcb-07b4b38f11",
+      "name": "Acti9 Pro iC65H-S 2P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-s-2p-b-1a-mcb-07b4b38f11",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-s-2p-b-1a-mcb-07b4b38f11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-s-2p-b-1a-mcb-07b4b38f11.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-f-floor-fixing-external-ul-0fd58d4947",
+      "name": "E4.2 IV F FLOOR FIXING EXTERNAL - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-f-floor-fixing-external-ul-0fd58d4947",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-f-floor-fixing-external-ul-0fd58d4947.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-f-floor-fixing-external-ul-0fd58d4947.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-s-3p-b-1a-mcb-67e15e9b67",
+      "name": "Acti9 Pro iC65H-S 3P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-s-3p-b-1a-mcb-67e15e9b67",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-s-3p-b-1a-mcb-67e15e9b67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-s-3p-b-1a-mcb-67e15e9b67.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-f-ip30-protection-for-switchgear-eee0908382",
+      "name": "E4.2 IV F IP30 PROTECTION FOR SWITCHGEAR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-f-ip30-protection-for-switchgear-eee0908382",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-f-ip30-protection-for-switchgear-eee0908382.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-f-ip30-protection-for-switchgear-eee0908382.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-ic65h-s-4p-b-1a-mcb-d6ac417e91",
+      "name": "Acti9 Pro iC65H-S 4P B 1A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-ic65h-s-4p-b-1a-mcb-d6ac417e91",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-ic65h-s-4p-b-1a-mcb-d6ac417e91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-ic65h-s-4p-b-1a-mcb-d6ac417e91.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-w-compartment-door-drilling-19b5b60576",
+      "name": "E4.2 IV W COMPARTMENT DOOR DRILLING",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-w-compartment-door-drilling-19b5b60576",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-w-compartment-door-drilling-19b5b60576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-w-compartment-door-drilling-19b5b60576.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-idpn-vigi-1pn-c-6a-30ma-rcbo-767bc8ca18",
+      "name": "Acti9 Pro iDPN Vigi+ 1PN C 6A 30mA RCBO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-idpn-vigi-1pn-c-6a-30ma-rcbo-767bc8ca18",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-idpn-vigi-1pn-c-6a-30ma-rcbo-767bc8ca18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-idpn-vigi-1pn-c-6a-30ma-rcbo-767bc8ca18.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-w-compartment-door-drilling-ul-36ae567f14",
+      "name": "E4.2 IV W COMPARTMENT DOOR DRILLING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-w-compartment-door-drilling-ul-36ae567f14",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-w-compartment-door-drilling-ul-36ae567f14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-w-compartment-door-drilling-ul-36ae567f14.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-pro-idpna-1pn-c-6a-mcb-7958302297",
+      "name": "Acti9 Pro iDPNa 1PN C 6A MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-pro-idpna-1pn-c-6a-mcb-7958302297",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-pro-idpna-1pn-c-6a-mcb-7958302297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-pro-idpna-1pn-c-6a-mcb-7958302297.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-w-floor-fixing-ul-dc261b59df",
+      "name": "E4.2 IV W FLOOR FIXING - UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-w-floor-fixing-ul-dc261b59df",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-w-floor-fixing-ul-dc261b59df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-w-floor-fixing-ul-dc261b59df.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-set-of-10-end-caps-1p-c218b945b8",
+      "name": "Acti9 SET OF 10 END CAPS 1P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-set-of-10-end-caps-1p-c218b945b8",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-set-of-10-end-caps-1p-c218b945b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-set-of-10-end-caps-1p-c218b945b8.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-w-ip30-protection-for-switchgear-0a0a165f06",
+      "name": "E4.2 IV W IP30 PROTECTION FOR SWITCHGEAR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-w-ip30-protection-for-switchgear-0a0a165f06",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-w-ip30-protection-for-switchgear-0a0a165f06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-w-ip30-protection-for-switchgear-0a0a165f06.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-ic60n-1p-n-0-5a-63a-double-t-mcb-e0ead6957b",
+      "name": "Acti9 iC60N 1P-N 0.5A-63A- Double t MCB",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-ic60n-1p-n-0-5a-63a-double-t-mcb-e0ead6957b",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-ic60n-1p-n-0-5a-63a-double-t-mcb-e0ead6957b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-ic60n-1p-n-0-5a-63a-double-t-mcb-e0ead6957b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-iid-2p-f9594a31b5",
+      "name": "Acti9 iID 2P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-iid-2p-f9594a31b5",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-iid-2p-f9594a31b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-iid-2p-f9594a31b5.json"
+    }
+  ]
+}

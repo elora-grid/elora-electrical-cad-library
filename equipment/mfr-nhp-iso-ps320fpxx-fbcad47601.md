@@ -1,0 +1,119 @@
+# NHP — PS320FPxx
+
+NHP PS320FPxx. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps320fpxx-fbcad47601) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps320fpxx-fbcad47601.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps320fpxx-fbcad47601.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Switchboards & switchgear
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: PS320FPxx
+- Manufacturer: NHP
+- Resource type: Product family
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DWG / STEP ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+An input/output assembly connects field devices to a controller. Inputs report measurements or status; outputs pass the controller's commands to equipment.
+
+Use NHP-ISO-PS320FPxx-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NHP-ISO-PS320FPxx-2D-CAD-Block.dwg.
+
+Use NHP-ISO-PS320FPxx-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NHP-ISO-PS320FPxx-2D-CAD-Block.dwg. Use NHP-ISO-PS320FPxx-3D-CAD-Block.step to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NHP-ISO-PS320FPxx-3D-CAD-Block.step.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match NHP PS320FPxx and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for PS320FPxx?
+
+2 inspected originals for NHP PS320FPxx: NHP-ISO-PS320FPxx-2D-CAD-Block.dwg (DWG); NHP-ISO-PS320FPxx-3D-CAD-Block.step (STEP).
+
+### Where did these NHP files come from?
+
+NHP supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [NHP official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use NHP-ISO-PS320FPxx-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NHP-ISO-PS320FPxx-2D-CAD-Block.dwg. Use NHP-ISO-PS320FPxx-3D-CAD-Block.step to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NHP-ISO-PS320FPxx-3D-CAD-Block.step.
+
+## Preview
+
+![NHP PS320FPxx: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-nhp-iso-ps320fpxx-fbcad47601/native-2df144184d670be767b3010c-dwg?asset=2df144184d670be767b3010c8cc5b9b3309e4f03f10fdd3da82b446e17e7f791)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps320fpxx-fbcad47601). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NHP-ISO-PS320FPxx-2D-CAD-Block.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-PS320FPxx-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-iso-ps320fpxx-fbcad47601/native-2df144184d670be767b3010c-dwg)
+- Redistribution: unknown
+- Original SHA-256: 2df144184d670be767b3010c8cc5b9b3309e4f03f10fdd3da82b446e17e7f791
+- Original bytes: 1165248
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: NHP
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-PS320FPxx-2D-CAD-Block.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-PS320FPxx-2D-CAD-Block.dwg)
+- Delivery: source-bundle; ZIP; 1098929 bytes
+- Delivery SHA-256: 39a9a2bcca7955a9867c703ab4d08f2f8a56f481e99113605839a99636fb28ed
+
+### NHP-ISO-PS320FPxx-3D-CAD-Block.step
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-PS320FPxx-3D-CAD-Block.step)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-iso-ps320fpxx-fbcad47601/native-448c20f27c5d95eac0f0eb65-step)
+- Redistribution: unknown
+- Original SHA-256: 448c20f27c5d95eac0f0eb65e510df55cbf711e1529114e05337a7682add7282
+- Original bytes: 7853171
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: NHP
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-PS320FPxx-3D-CAD-Block.step)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-PS320FPxx-3D-CAD-Block.step)
+- Delivery: source-bundle; ZIP; 2136897 bytes
+- Delivery SHA-256: fffaa7b8885510f0e018bc4056c933df18aa13bcc261f3a9cb7f5ba6eccbb421
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

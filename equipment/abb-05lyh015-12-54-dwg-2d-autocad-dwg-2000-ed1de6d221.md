@@ -8,7 +8,7 @@ ABB 05LYH015\_12.54: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 05LYH015\_12.54; 05LYH015
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -27,8 +27,8 @@ The supplied configuration is “05LYH015\_12.54”. Keep those frame, mounting 
 - Manufacturer reference: 05LYH015\_12.54; 05LYH015
 - Document revision: D
 - Manufacturer reference: 05LYH015
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -109,6 +109,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 1830219 bytes
 - Delivery SHA-256: 79daac01c69cc86ffd448aabaef8a462928890e65e98760f620ce8d1952dcc0b
+
+### 05LYH015\_12.54.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (05LYH015\_12.54.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-05lyh015-12-54-dwg-2d-autocad-dwg-2000-ed1de6d221/79daac01c69cc86ffd44-dxf)
+- Redistribution: unknown
+- Original SHA-256: 79daac01c69cc86ffd448aabaef8a462928890e65e98760f620ce8d1952dcc0b
+- Original bytes: 1830219
+- Revision: D
+- Retrieved: 2026-11-04T00:23:09Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 5166566 bytes
+- Delivery SHA-256: 9ac5bbabae84fcde2493251d7db4c9e48c29354b0ab74dfa6ce63956cf22e920
 
 ### 05LYH015.pdf
 

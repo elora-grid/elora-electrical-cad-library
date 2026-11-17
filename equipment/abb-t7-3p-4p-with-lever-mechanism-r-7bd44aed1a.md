@@ -25,6 +25,7 @@ The supplied configuration is “T7 3p 4p with lever mechanism R”. Keep those 
 - Manufacturer drawing: 1SDH000529R0116
 - Manufacturer reference: 1SDH000529R0116
 - Document revision: E
+- Standards: IEC 60947-2
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

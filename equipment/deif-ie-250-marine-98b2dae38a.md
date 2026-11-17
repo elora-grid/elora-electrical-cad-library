@@ -26,6 +26,7 @@ Manufacturer reference cnk-ta26269m-cybersecurity-uk.pdf; ie-250-base-mounted-wi
 - Source configurations grouped on this page: iE 250 MARINE; iE 250 PLC
 - Manufacturer reference: cnk-ta26269m-cybersecurity-uk.pdf; ie-250-base-mounted-with-mio-2d-cad-drawing.dwg; ie-250-base-mounted-with-mio-3d-step-file.zip; ie-250-base-mounted-with-mio-2d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255, IEC 60255-27, IEC 60255-26, IEC 60255-1, IEC 60529, UL 6200
 - Listed file formats: DWG, PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

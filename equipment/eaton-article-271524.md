@@ -1,0 +1,124 @@
+# Eaton — NZM2-XCI43-TVD — Insulated enclosure, box size HxWxD=375x250x225mm, for NZM size 3
+
+Eaton NZM2-XCI43-TVD — Insulated enclosure, box size HxWxD=375x250x225mm, for NZM size 3. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271524) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-271524.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-271524.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/97c925dd-b54c-41be-af13-3fa420d8a997/cad_files_001.zip)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: 271524
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NZM2-XCI43-TVD — Insulated enclosure, box size HxWxD=375x250x225mm, for NZM size 3
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 271524
+- Manufacturer reference: 271524
+- Manufacturer type: NZM2-XCI43-TVD
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 271524 ([source](https://ecat.eaton.com/downloads/97c925dd-b54c-41be-af13-3fa420d8a997/cad_files_001.zip))
+- Manufacturer type: NZM2-XCI43-TVD ([source](https://ecat.eaton.com/downloads/97c925dd-b54c-41be-af13-3fa420d8a997/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/97c925dd-b54c-41be-af13-3fa420d8a997/cad_files_001.zip))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Use nzm2\_xci43\_tvd.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xci43\_tvd.stp.
+
+Use nzm2\_xci43\_tvd.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xci43\_tvd.stp. Use eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 271524 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NZM2-XCI43-TVD — Insulated enclosure, box size HxWxD=375x250x225mm, for NZM size 3?
+
+2 inspected originals for Eaton NZM2-XCI43-TVD — Insulated enclosure, box size HxWxD=375x250x225mm, for NZM size 3: nzm2\_xci43\_tvd.stp (STEP); eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/97c925dd-b54c-41be-af13-3fa420d8a997/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/97c925dd-b54c-41be-af13-3fa420d8a997/cad_files_001.zip)
+
+## Choosing a file
+
+Use nzm2\_xci43\_tvd.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xci43\_tvd.stp. Use eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg.
+
+## Preview
+
+![Eaton NZM2-XCI43-TVD — Insulated enclosure, box size HxWxD=375x250x225mm, for NZM size 3: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-271524/native-0e9447bf4eec48dbbb785dd7-dwg?asset=0e9447bf4eec48dbbb785dd7026a4bb13d1ab36bcdfcc9864615de0be9a65ca5)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271524). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### nzm2\_xci43\_tvd.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xci43_tvd.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-271524/native-40ba0ac6e1d942d0fb998445-step)
+- Redistribution: unknown
+- Original SHA-256: 40ba0ac6e1d942d0fb998445c5087a2f649134110ed59bf5ccd2d253fdd7b125
+- Original bytes: 6837668
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xci43_tvd.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xci43_tvd.stp)
+- Delivery: source-bundle; ZIP; 918506 bytes
+- Delivery SHA-256: a38cf163d76612390d01596517ea00dd988501857928dc3139880c1e5798ca36
+
+### eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-271524/native-0e9447bf4eec48dbbb785dd7-dwg)
+- Redistribution: unknown
+- Original SHA-256: 0e9447bf4eec48dbbb785dd7026a4bb13d1ab36bcdfcc9864615de0be9a65ca5
+- Original bytes: 572640
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-insulated-switchboard-mcad-drawings-nzm2-xci43-tvd.dwg)
+- Delivery: source-bundle; ZIP; 507229 bytes
+- Delivery SHA-256: 9afcaf6861627f473275463442f5bcf4f973f254d95d3861eba52b54d2e503c7
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

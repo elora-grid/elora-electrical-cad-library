@@ -25,6 +25,7 @@ The supplied configuration is “X1 III F - X1 3 poles Fixed”. Keep those fram
 - Manufacturer drawing: 1SDH001292R0001
 - Manufacturer reference: 1SDH001292R0001
 - Document revision: -
+- Standards: IEC 60947-2, IEC 61000
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -9,7 +9,7 @@ XT1 3p FIXED RHE MIN WIDE HANDLE: ABB manufacturer STEP resource, document 1SDH0
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0036
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT1 3p FIXED RHE MIN WIDE HANDLE; ABB document 1SD
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0036
 - Model extents (X × Y × Z, mm): 71.0 × 136.5 × 127.4
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0036&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 241563 bytes
 - Delivery SHA-256: 018bfcce53360fa549162bc3bb4a4fda3f2123f570a982b04f51862d95b538f5
+
+### 1SDH001295R0036\_1PA\_001\_00\_XT1\_3P\_FIXED\_RHE\_MIN\_TIPO\_LARGO.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0036\_1PA\_001\_00\_XT1\_3P\_FIXED\_RHE\_MIN\_TIPO\_LARGO.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0036&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-3p-fixed-rhe-min-wide-handle-44bd701f/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 018bfcce53360fa549162bc3bb4a4fda3f2123f570a982b04f51862d95b538f5
+- Original bytes: 241563
+- Revision: A
+- Retrieved: 2026-11-03T01:49:28.920165+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0036&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0036&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 111892 bytes
+- Delivery SHA-256: 57d6eb9e48e6a58fbf7bef21d1569b8d50ea996c0c0488c459c76121d0109853
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,114 @@
+# Allen-Bradley — 140G-K FlexCable
+
+Allen-Bradley 140G-K FlexCable: original STEP for circuit-breaker equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Breakers & accessories
+- Entry type: product
+- Part number: 140G-K
+- Installation applications: switchgear
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named 140G-K FlexCable.
+
+## Equipment and file summary
+
+- Equipment / resource: 140G-K FlexCable
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: 140G-K
+- Manufacturer drawing identity: 140G-K FlexCable
+- Source-model envelope: 38.9 × 267.4 × 193.3 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: 140G-K FlexCable ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 38.9 × 267.4 × 193.3 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 140G-K-FlexCable.stp inside it to place the original solid geometry in your 3D assembly.
+
+Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 140G-K-FlexCable.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley 140G-K and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 38.9 × 267.4 × 193.3 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 140G-K FlexCable?
+
+1 inspected original for Allen-Bradley 140G-K FlexCable: Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip (ZIP).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 140G-K-FlexCable.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Allen-Bradley 140G-K FlexCable: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc/nhp-194817?asset=7df8baaf8a6ff01dc433626a57903e306449e1a49ec147a174a4750ab6ad377c&view=thumb&v=be01531e74746c9c)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-140g-k-flexcable-25bb92e3dc/nhp-194817)
+- Redistribution: unknown
+- Original SHA-256: f3b47da547eb6c102cd743d832019faacfb24d344bb184d047fbe465b30fb278
+- Original bytes: 1786381
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:16:52.676402+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Allen-Bradley-140G-K-FlexCable-STEP-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 1786381 bytes
+- Delivery SHA-256: f3b47da547eb6c102cd743d832019faacfb24d344bb184d047fbe465b30fb278
+
+<details>
+<summary>Archive members</summary>
+
+- 140G-K-FlexCable.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

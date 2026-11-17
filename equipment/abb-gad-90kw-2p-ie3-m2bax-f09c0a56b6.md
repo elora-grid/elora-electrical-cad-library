@@ -25,6 +25,7 @@ The supplied configuration is “GAD 90KW 2P IE3 M2BAX”. Keep those frame, mou
 - Manufacturer drawing: 9AKK107492A6881
 - Manufacturer reference: 9AKK107492A6881
 - Document revision: A
+- Standards: IEC 60034-30-1
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

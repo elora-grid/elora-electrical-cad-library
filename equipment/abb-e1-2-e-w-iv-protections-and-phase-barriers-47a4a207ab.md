@@ -8,7 +8,7 @@ ABB E1.2-E W IV PROTECTIONS AND PHASE BARRIERS: breaker or breaker-accessory ref
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0401
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “E1.2-E W IV PROTECTIONS AND PHASE BARRIERS”. 
 - Manufacturer reference: 1SDH001336R0401
 - Document revision: A
 - Model envelope: 1SDH001336R0401.stp: 348 × 397.8 × 363.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 2915277 bytes
 - Delivery SHA-256: d347a02020b402fe7b0945b70965a6ecddbcb79ab39837f089d5e2d0497d5fab
+
+### 1SDH001336R0401.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0401.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e-w-iv-protections-and-phase-barriers-47a4a207ab/d347a02020b402fe7b09-dxf)
+- Redistribution: unknown
+- Original SHA-256: d347a02020b402fe7b0945b70965a6ecddbcb79ab39837f089d5e2d0497d5fab
+- Original bytes: 2915277
+- Revision: A
+- Retrieved: 2026-11-03T01:58:02.658368Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0401&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 239551 bytes
+- Delivery SHA-256: 3b7b59525f94433fae8ae05733c3236928c2e7a62283090a1ed2ede79ed8cfe6
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,4 +1,4 @@
-import {readFile} from 'node:fs/promises';
+import {readSnapshot} from './snapshot.mjs';
 import {fileURLToPath} from 'node:url';
 const args=process.argv.slice(2),filters={};
 for(let i=0;i<args.length;i++){
@@ -6,7 +6,7 @@ for(let i=0;i<args.length;i++){
   if(!['--query','--category','--manufacturer','--format','--market'].includes(key)||!args[i+1]||args[i+1].startsWith('--'))throw Error('Usage: npm run search -- [--query text] [--category id] [--manufacturer name] [--format STEP] [--market US|AU|UK|Europe] [--hosted]');
   filters[key.slice(2)]=args[++i];
 }
-const catalogue=JSON.parse(await readFile(fileURLToPath(new URL('../data/catalogue.json',import.meta.url)),'utf8'));
+const catalogue=await readSnapshot(new URL('../',import.meta.url));
 const terms=(filters.query||'').toLowerCase().split(/\s+/).filter(Boolean);
 const rows=catalogue.equipment.filter(r=>{
   const content=[r.name,r.manufacturer,r.partNumber||'',r.description,...r.equipment,...r.keywords,...r.files.flatMap(f=>[f.name,...(f.archiveContents||[])])].join(' ').toLowerCase();

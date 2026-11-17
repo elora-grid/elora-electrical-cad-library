@@ -9,7 +9,7 @@ XT2 3p PLUG-IN PS 100mmx48mm LOW: ABB manufacturer STEP resource, document 1SDH0
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0216
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT2 3p PLUG-IN PS 100mmx48mm LOW; ABB document 1SD
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0216
 - Model extents (X × Y × Z, mm): 39.0 × 48.0 × 103.8
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0216&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 50615 bytes
 - Delivery SHA-256: 842e57ea0e51852c123b74fe9b9b6d88c0cf00332eb64b21efe2206f039a278a
+
+### 1SDH001295R0216\_1PA\_001\_00\_XT2\_3P\_PLUG\_IN\_PS\_100mmx48mm\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0216\_1PA\_001\_00\_XT2\_3P\_PLUG\_IN\_PS\_100mmx48mm\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0216&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-3p-plug-in-ps-100mmx48mm-low-5d90e4f4/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 842e57ea0e51852c123b74fe9b9b6d88c0cf00332eb64b21efe2206f039a278a
+- Original bytes: 50615
+- Revision: A
+- Retrieved: 2026-11-03T01:45:02.980008+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0216&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0216&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 36866 bytes
+- Delivery SHA-256: ce63664d8271927e389f7728a967c5098db198033ce49f4cfca1878d579a7101
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -8,7 +8,7 @@ ABB TruCONTROL2.0 Schema elettrico: motor outline for motor footprint and drive-
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDM000101A1001
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ The supplied configuration is “TruCONTROL2.0 Schema elettrico”. Keep those f
 - Manufacturer drawing: 1SDM000101A1001
 - Manufacturer reference: 1SDM000101A1001
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDM000101A1001&LanguageCode=it&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1511173 bytes
 - Delivery SHA-256: bf4cef923eb8dc93b8b2ac5888b7209ad51aeefaeec449a095f2dda389b95ea2
+
+### 1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDM000101A1001&LanguageCode=it&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-trucontrol2-0-schema-elettrico-b6d5cdff7a/bf4cef923eb8dc93b8b2-dxf)
+- Redistribution: unknown
+- Original SHA-256: bf4cef923eb8dc93b8b2ac5888b7209ad51aeefaeec449a095f2dda389b95ea2
+- Original bytes: 1511173
+- Revision: A
+- Retrieved: 2026-11-03T02:26:26.111387Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDM000101A1001&LanguageCode=it&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDM000101A1001&LanguageCode=it&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 7625334 bytes
+- Delivery SHA-256: 32a29ec3e72f038db876a76d5c69e5e60504988385c95fd049c611446c488238
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

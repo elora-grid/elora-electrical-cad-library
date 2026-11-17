@@ -25,6 +25,7 @@ Manufacturer reference ie-150-installation-instructions-4189341437-es.pdf; ie-15
 - Manufacturer drawing: ie-150-installation-instructions-4189341437-es.pdf; ie-150-agc-150-engine-communication-4189341302-uk.pdf; ie-150-2d-cad-drawing.dwg
 - Manufacturer reference: ie-150-installation-instructions-4189341437-es.pdf; ie-150-agc-150-engine-communication-4189341302-uk.pdf; ie-150-2d-cad-drawing.dwg; ie-150-3d-step-file.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60529, IEC 61010-1, EN 50082-1, EN 50082-2, EN 50081-1, EN 50081-2
 - Listed file formats: DWG, PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

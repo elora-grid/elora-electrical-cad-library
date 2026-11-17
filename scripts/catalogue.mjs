@@ -20,7 +20,11 @@ const enumeration = values => ({type:'string',enum:values});
 const object = (properties,required=Object.keys(properties)) => ({type:'object',properties,required,additionalProperties:false});
 const file = object({
   id,name:str,format:str,purpose:str,url,availability:enumeration(['direct','account','request']),
-  filenameBasis:enumeration(['source-url','response-header','document-reference']),
+  filenameBasis:enumeration(['source-url','response-header','document-reference','manufacturer-metadata']),
+  previewGroup:id,
+  conversion:object({fromFileId:id,fromFormat:str,tool:str,convertedAt:str}),
+  sourceArchive:object({url,sha256:hash,member:str,publisherMemberChecksumVerified:{type:'boolean'}}),
+  publisherChecksum:object({algorithm:{const:'md5'},value:{type:'string',pattern:'^[a-f0-9]{32}$'}}),
   documentNumber:str,latestRevisionUrl:url,sourceCheckedAt:str,reportedBytes:{type:'integer',minimum:1},
   previewPages:{type:'array',items:{type:'integer',minimum:1}},
   bytes:{type:'integer',minimum:1},sha256:hash,retrievedAt:str,revision:str,archiveContents:strings,archiveMember:str,
@@ -29,7 +33,7 @@ const file = object({
   license:object({id:str,url,attribution:str,notice:str,sourceCommit:str},['id','url','attribution','notice']),
   rightsReview:object({checkedAt:str,sources:{type:'array',items:url},note:str}),
   hostingBasis:object({policy:enumeration(['explicit-license','no-explicit-prohibition']),checkedAt:str,evidenceUrl:url,attribution:str}),
-  delivery:object({kind:enumeration(['licensed-bundle','source-bundle','original']),name:str,format:str,sha256:hash,bytes:{type:'integer',minimum:1},includes:strings},['format','sha256','bytes','includes'])
+  delivery:object({kind:enumeration(['licensed-bundle','source-bundle','original','converted']),name:str,format:str,sha256:hash,bytes:{type:'integer',minimum:1},includes:strings},['format','sha256','bytes','includes'])
 },['id','name','format','purpose','url','availability','redistribution']);
 const record = object({
   id,name:str,manufacturer:str,category:enumeration(Object.keys(CATEGORIES)),description:str,
@@ -106,8 +110,10 @@ export function validateCatalogue(catalogue) {
   }
   for(const r of rows)if(r.drawingReference&&!ids.has(r.drawingReference.parentId))throw Error('Missing drawing parent');
   // Reject credentials, user filesystem paths, private cloud buckets and contact records.
-  const text=JSON.stringify(catalogue);
+  for(const part of [{...catalogue,equipment:[]},...rows]){
+  const text=JSON.stringify(part);
   if(/\/Users\/|\/private\/tmp\/|service_role|sb_secret_|eyJ[a-zA-Z0-9_-]{24,}|[?&](token|signature|X-Amz-Signature)=|\/storage\/v1\//i.test(text))throw Error('Private or ephemeral data in public export');
+  }
   return catalogue;
 }
 export function snapshotCounts(records){return {

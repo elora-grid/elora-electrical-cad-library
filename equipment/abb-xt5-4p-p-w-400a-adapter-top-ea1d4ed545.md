@@ -8,7 +8,7 @@ ABB XT5 4p P-W 400A Adapter top: breaker or breaker-accessory reference for brea
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1536
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 4p P-W 400A Adapter top”. Keep those fram
 - Manufacturer reference: 1SDH002065A1536
 - Document revision: B
 - Model envelope: 1SDH002065A1536.stp: 186 × 43.2 × 113 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1536&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 3614886 bytes
 - Delivery SHA-256: cb87f7760bae5f03c890381620fbb1e04bc236a67380ee4b3650eb5dfae009e6
+
+### 1SDH002065A1536.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1536.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1536&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-p-w-400a-adapter-top-ea1d4ed545/cb87f7760bae5f03c890-dxf)
+- Redistribution: unknown
+- Original SHA-256: cb87f7760bae5f03c890381620fbb1e04bc236a67380ee4b3650eb5dfae009e6
+- Original bytes: 3614886
+- Revision: B
+- Retrieved: 2026-11-03T02:01:29.783745Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1536&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1536&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 595232 bytes
+- Delivery SHA-256: 90b59f76356495df8d0e0c1e61957d19744f6dede169caa77c45e89999a4e1f4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

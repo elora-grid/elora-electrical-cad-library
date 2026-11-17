@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: QEID
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: QEID
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with QEID. The files above belong to Greenheck's QEID fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -115,6 +115,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 2618464 bytes
 - Delivery SHA-256: 32ea8b15cc53cf05bb5d23e6ce8acf689408e47ea9927e81b94bd94a55a2670f
 
+### QEID-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEID-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/QEID-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qeid-fans/greenheck-qeid-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 32ea8b15cc53cf05bb5d23e6ce8acf689408e47ea9927e81b94bd94a55a2670f
+- Original bytes: 2618464
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 6486497 bytes
+- Delivery SHA-256: dd033d1b88b96d5963682ff0cd410fb53597be4584c3c4339971a16c5f571805
+
 ### QEID-12-100.dwg
 
 - Format: DWG
@@ -134,5 +154,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 459052 bytes
 - Delivery SHA-256: 471667d298cd01b6bbd6b9db462781cdd583caf17c10ed9350788b7ae3566e81
+
+### QEID-12-100.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEID-12-100.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/QEID-12-100.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qeid-fans/greenheck-qeid-12-100-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 471667d298cd01b6bbd6b9db462781cdd583caf17c10ed9350788b7ae3566e81
+- Original bytes: 459052
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 363882 bytes
+- Delivery SHA-256: dcc398a49d2976643237513789670948c00e2359709efeae0726795e935c3ec8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

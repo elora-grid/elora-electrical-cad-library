@@ -8,7 +8,7 @@ ABB E2.2/E2.3 IV W TERMINALS HR LOWER 2000A - UL: breaker connection or accessor
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0147
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ This reference covers the connection or accessory named in “E2.2/E2.3 IV W TER
 - Model envelope: 1SDH001336R0147\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_LOWER\_1600\_2000A.stp: 330 × 117.4 × 60 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001336R0149
 - Model envelope: 1SDH001336R0149\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER\_1600\_2000A.stp: 330 × 117.4 × 60 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 1533180 bytes
 - Delivery SHA-256: 0cd7988270f58a60b126c015f1f85e35ee9f40ba918aa45e0be43db6d17ade19
 
+### 1SDH001336R0147\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_LOWER\_1600\_2000A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0147\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_LOWER\_1600\_2000A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0147&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2000a-ul-15ebd521b9/0cd7988270f58a60b126-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0cd7988270f58a60b126c015f1f85e35ee9f40ba918aa45e0be43db6d17ade19
+- Original bytes: 1533180
+- Revision: A
+- Retrieved: 2026-11-03T01:56:06.070798Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0147&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0147&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 355170 bytes
+- Delivery SHA-256: 5ec866e6db7597e86f6695bc75dcb097953716a28a4832097b99081ebfad81c2
+
 ### 1SDH001336R0149\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER\_1600\_2000A.stp
 
 - Format: STEP
@@ -130,5 +149,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0149&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1531197 bytes
 - Delivery SHA-256: 1af168e450f82d7878889e99338be070dce658ce5806cf7521fb98118e48b729
+
+### 1SDH001336R0149\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER\_1600\_2000A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0149\_1PA\_001\_00\_E2.2\_W\_IV\_TERMINALS\_HR\_UL\_UPPER\_1600\_2000A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0149&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-w-terminals-hr-lower-2000a-ul-15ebd521b9/1af168e450f82d787888-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1af168e450f82d7878889e99338be070dce658ce5806cf7521fb98118e48b729
+- Original bytes: 1531197
+- Revision: A
+- Retrieved: 2026-11-03T01:56:06.951442Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0149&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0149&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 350682 bytes
+- Delivery SHA-256: 46032deacae347f65775a3dc4741cbf5fbb89bacba3a8914bb0c966fe6f12c48
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

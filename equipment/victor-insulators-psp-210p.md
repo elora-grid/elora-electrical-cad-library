@@ -28,6 +28,7 @@ Use the row for PSP-210P on PDF page 14. The download is the complete catalogue,
 - Voltage rating (kV): 34.5
 - BIL (kV): 200
 - Cantilever strength (lb): 2000 2000
+- Standards: ANSI C29.19
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

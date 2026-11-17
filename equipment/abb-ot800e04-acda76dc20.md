@@ -25,6 +25,7 @@ The supplied configuration is “OT800E04”. Keep those frame, mounting and acc
 - Manufacturer drawing: 1SCC301331F0001
 - Manufacturer reference: 1SCC301331F0001
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

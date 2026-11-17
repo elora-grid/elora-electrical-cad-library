@@ -8,7 +8,7 @@ ABB XT2 4p WITHDRAWABLE FLANGE RC: breaker or breaker-accessory reference for br
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0380
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p WITHDRAWABLE FLANGE RC”. Keep those fr
 - Manufacturer reference: 1SDH001295R0380
 - Document revision: A
 - Model envelope: 1SDH001295R0380\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MOSTRINA\_DIFFE.stp: 162.2 × 7.5 × 198 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0380&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 80772 bytes
 - Delivery SHA-256: b892e903248c14005d048a9d1c96c26fde3bc0b34bf4e091994a0a8085967cee
+
+### 1SDH001295R0380\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MOSTRINA\_DIFFE.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0380\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MOSTRINA\_DIFFE.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0380&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-withdrawable-flange-rc-15c1a0dd95/b892e903248c14005d04-dxf)
+- Redistribution: unknown
+- Original SHA-256: b892e903248c14005d048a9d1c96c26fde3bc0b34bf4e091994a0a8085967cee
+- Original bytes: 80772
+- Revision: A
+- Retrieved: 2026-11-03T01:46:05.634574Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0380&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0380&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 42536 bytes
+- Delivery SHA-256: 8cdeb7a16f2a7a9f2917b08f09addf153289c7bfeb584576621c0ad0edb1e261
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

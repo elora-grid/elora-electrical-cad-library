@@ -8,7 +8,7 @@ ABB A2 2p FCCuAl 185mmq UP: breaker or breaker-accessory reference for breaker c
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001294R0086
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “A2 2p FCCuAl 185mmq UP”. Keep those frame, mo
 - Manufacturer reference: 1SDH001294R0086
 - Document revision: A
 - Model envelope: 1SDH001294R0086\_1PA\_001\_00\_A2\_2p\_FCCuAl\_185mmq\_sup.stp: 59 × 30 × 20.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0086&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 97245 bytes
 - Delivery SHA-256: 930e6f3a0d51b07b657267f8538d8b6852311c4e17a18305601bc5e943ccc4ee
+
+### 1SDH001294R0086\_1PA\_001\_00\_A2\_2p\_FCCuAl\_185mmq\_sup.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0086\_1PA\_001\_00\_A2\_2p\_FCCuAl\_185mmq\_sup.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0086&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a2-2p-fccual-185mmq-up-bdecb6a3d1/930e6f3a0d51b07b6572-dxf)
+- Redistribution: unknown
+- Original SHA-256: 930e6f3a0d51b07b657267f8538d8b6852311c4e17a18305601bc5e943ccc4ee
+- Original bytes: 97245
+- Revision: A
+- Retrieved: 2026-11-04T00:57:15Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0086&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0086&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 43425 bytes
+- Delivery SHA-256: defc5e53dbeb3d5fd3cfc4440522ef057ce6487d4a5b311068f20e54b29cd442
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

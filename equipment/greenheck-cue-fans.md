@@ -7,7 +7,7 @@ Roof-mounted direct-drive upblast exhaust-fan CAD for coordinating the fan base,
 - Category: Switchroom services
 - Entry type: family
 - Part number: CUE
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-10-29
@@ -22,8 +22,8 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: CUE
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with CUE. The files above belong to Greenheck's CUE direct-drive upblast exhaust fan resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, ZIP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, ZIP. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -83,6 +83,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 485440 bytes
 - Delivery SHA-256: 37d92d803cd029f7a7e13c4cdd4e67dd9e2f08093921e0b528ddab89a2bc022e
 
+### CUE-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (CUE-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-cue-fans/greenheck-cue-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 37d92d803cd029f7a7e13c4cdd4e67dd9e2f08093921e0b528ddab89a2bc022e
+- Original bytes: 485440
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-3D.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-3D.dwg)
+- Delivery: converted; DXF; 1319343 bytes
+- Delivery SHA-256: bc85bd4fc3ae4e83297a2cf1faba5d09b4908f3d8cfc099d03b9b0f7536521d7
+
 ### CUE-095.dwg
 
 - Format: DWG
@@ -101,6 +120,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-095.dwg)
 - Delivery: original; DWG; 417641 bytes
 - Delivery SHA-256: 440b6f0b64e30129fc5e85235649d1d7f405a5d65beee14f029c6f2d5e85c5a8
+
+### CUE-095.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (CUE-095.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-095.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-cue-fans/greenheck-cue-095-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 440b6f0b64e30129fc5e85235649d1d7f405a5d65beee14f029c6f2d5e85c5a8
+- Original bytes: 417641
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-095.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10003/CUE-095.dwg)
+- Delivery: converted; DXF; 261745 bytes
+- Delivery SHA-256: feff38fa78628fff7c5d0ff6d9dd96584bc97f19b221933ae8ee0004c254e12d
 
 ### CUE\_LOD200\_AllSizes.zip
 

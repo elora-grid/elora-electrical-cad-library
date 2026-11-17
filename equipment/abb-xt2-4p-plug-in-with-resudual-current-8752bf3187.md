@@ -25,6 +25,7 @@ The supplied configuration is “XT2 4p plug in with resudual current”. Keep t
 - Manufacturer drawing: 1SDH000721R0123
 - Manufacturer reference: 1SDH000721R0123
 - Document revision: E
+- Standards: IEC 60947-2
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

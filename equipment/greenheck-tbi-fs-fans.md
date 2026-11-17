@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: TBI-FS
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: TBI-FS
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with TBI-FS. The files above belong to Greenheck's TBI-FS fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -115,6 +115,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 4084409 bytes
 - Delivery SHA-256: 6071040fbdb08d3da85ddd64ce3e2c957b5520248edf46f24238f1135131ab1b
 
+### TBI-FS-Inline-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (TBI-FS-Inline-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/TBI-FS-Inline-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-tbi-fs-fans/greenheck-tbi-fs-inline-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6071040fbdb08d3da85ddd64ce3e2c957b5520248edf46f24238f1135131ab1b
+- Original bytes: 4084409
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 27383356 bytes
+- Delivery SHA-256: d92af976d7df1dc7dfab7a9beaef257083d1fce3ccbd1544aeeffcdfd4289071
+
 ### TBI-FS-Inline-3-24.dwg
 
 - Format: DWG
@@ -134,5 +154,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 188126 bytes
 - Delivery SHA-256: 09348b013db22814ac7896d8a1d380c57a65758066cc225be25d411d8f71c3fd
+
+### TBI-FS-Inline-3-24.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (TBI-FS-Inline-3-24.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/TBI-FS-Inline-3-24.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-tbi-fs-fans/greenheck-tbi-fs-inline-3-24-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 09348b013db22814ac7896d8a1d380c57a65758066cc225be25d411d8f71c3fd
+- Original bytes: 188126
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 354430 bytes
+- Delivery SHA-256: a6d7503bb334d16872695863bf42d4ff19aed8c63395a749f7ffc6368f571497
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

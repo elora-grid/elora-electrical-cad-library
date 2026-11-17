@@ -25,6 +25,7 @@ The supplied configuration is “T2 fixed 3poles F”. Keep those frame, mountin
 - Manufacturer drawing: 1SDH001291R0003
 - Manufacturer reference: 1SDH001291R0003
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

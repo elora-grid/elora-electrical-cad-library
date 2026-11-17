@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: MultiPlus-II
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: UL 458, UL 1741, IEC 60335, EN 50549, IEC 62109-1, EN 50549-1, EN 50549-10, AS 62477.1, AS/NZS 4777.2, IEC 62116, IEC 60335-1, IEC 62040-1, IEC 62477-1, IEC 62109, IEC 62477, IEC 60335-2-29
 - Listed file formats: STEP
 - Listed files: 20
 - Available previews: 19 interactive model variants

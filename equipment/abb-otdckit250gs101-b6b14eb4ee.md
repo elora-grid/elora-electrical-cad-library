@@ -27,7 +27,7 @@ The supplied configuration is “OTDCKIT250GS101”. Keep those frame, mounting 
 - Document revision: A
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC301837F0201.dxf revision A for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OTDCKIT250GS101: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdckit250gs101-b6b14eb4ee/65e473bdd73866726d19?asset=65e473bdd73866726d199d84b045e5dbd4d55ab8cd01939b7bc969d5ebdb454b)
+![ABB OTDCKIT250GS101: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdckit250gs101-b6b14eb4ee/65e473bdd73866726d19?asset=65e473bdd73866726d199d84b045e5dbd4d55ab8cd01939b7bc969d5ebdb454b&view=thumb&v=0de688ca4bdff414)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdckit250gs101-b6b14eb4ee). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

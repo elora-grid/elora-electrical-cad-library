@@ -8,7 +8,7 @@ ABB CONTACT SIGNALLING OF EKIP S51 E2.2 E4.2: breaker or breaker-accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0310
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “CONTACT SIGNALLING OF EKIP S51 E2.2 E4.2”. Ke
 - Manufacturer reference: 1SDH001252R0310
 - Document revision: A
 - Model envelope: 1SDH001252R0310\_1PA\_001\_00\_CONTACT\_SIGNALLING\_OF\_EKIP\_S51\_E2.2\_E4.2.stp: 14.8 × 42.1 × 41.1 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0310&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 672300 bytes
 - Delivery SHA-256: c015a12472041ae69682df6482abccaab6d16afef6a5ccfe96e9ab5c0b26f922
+
+### 1SDH001252R0310\_1PA\_001\_00\_CONTACT\_SIGNALLING\_OF\_EKIP\_S51\_E2.2\_E4.2.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0310\_1PA\_001\_00\_CONTACT\_SIGNALLING\_OF\_EKIP\_S51\_E2.2\_E4.2.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0310&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-contact-signalling-of-ekip-s51-e2-2-e4-2-e29cd909fb/c015a12472041ae69682-dxf)
+- Redistribution: unknown
+- Original SHA-256: c015a12472041ae69682df6482abccaab6d16afef6a5ccfe96e9ab5c0b26f922
+- Original bytes: 672300
+- Revision: A
+- Retrieved: 2026-11-03T01:53:05.153910Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0310&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0310&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 166493 bytes
+- Delivery SHA-256: 4779b2e0d2c3118b89e2b3b5db26c1666cb620bea176a36fa1f9d9a658aeb8d4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

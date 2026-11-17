@@ -25,6 +25,7 @@ The supplied configuration is “OT100-125FT4N2”. Keep those frame, mounting a
 - Manufacturer drawing: OT100-125FT4N2.IGS
 - Manufacturer reference: OT100-125FT4N2.IGS
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -8,7 +8,7 @@ ABB 35LYT995\_13.84: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYT995\_13.84; 35LYT995
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -30,8 +30,8 @@ The supplied configuration is “35LYT995\_13.84”. Keep those frame, mounting 
 - Manufacturer reference: 35LYT995\_14.84; 35LYT995
 - Model envelope: 35LYT995\_14.84.step: 376.8 × 179 × 233.1 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 35LYT995
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 9
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 11
 - Available previews: 3 drawing previews; 2 interactive model variants
 - Recorded revisions: H
 - Source checked: 2026-11-04
@@ -126,6 +126,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 555218 bytes
 - Delivery SHA-256: 78d4b8fb80ce35deff62ccb8076737fec90ba79249354fa04cbd80ee01b4021c
 
+### 35LYT995\_13.84.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYT995\_13.84.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_13.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyt995-13-84-dwg-2d-autocad-dwg-2000-c8c397a1e9/78d4b8fb80ce35deff62-dxf)
+- Redistribution: unknown
+- Original SHA-256: 78d4b8fb80ce35deff62ccb8076737fec90ba79249354fa04cbd80ee01b4021c
+- Original bytes: 555218
+- Revision: H
+- Retrieved: 2026-11-04T00:59:25Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_13.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_13.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
+- Delivery: converted; DXF; 966535 bytes
+- Delivery SHA-256: 00f17d9af7dc157fea01a60a412cc194209e16126b6c7e52b1b72da9fcd199fa
+
 ### 35LYT995.pdf
 
 - Format: PDF
@@ -182,6 +201,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_14.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
 - Delivery: original; DWG; 555446 bytes
 - Delivery SHA-256: 9efdf4d00fa391356d156ee30759874cd263771d3592db714131ab1744e8bcad
+
+### 35LYT995\_14.84.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYT995\_14.84.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_14.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyt995-13-84-dwg-2d-autocad-dwg-2000-c8c397a1e9/9efdf4d00fa391356d15-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9efdf4d00fa391356d156ee30759874cd263771d3592db714131ab1744e8bcad
+- Original bytes: 555446
+- Revision: H
+- Retrieved: 2026-11-04T00:59:25Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_14.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYT995_14.84&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=H)
+- Delivery: converted; DXF; 970250 bytes
+- Delivery SHA-256: e9d9c86d04a882fbecf2ffb6859ba4cbc3b9b89e15e09cfbb7fc03b8fedc93ae
 
 ### 35LYT995\_14.84.step
 

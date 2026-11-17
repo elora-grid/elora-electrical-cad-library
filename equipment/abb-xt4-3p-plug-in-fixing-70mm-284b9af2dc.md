@@ -8,7 +8,7 @@ ABB XT4 3p PLUG-IN FIXING 70mm: breaker or breaker-accessory reference for break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0599
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT4 3p PLUG-IN FIXING 70mm”. Keep those frame
 - Manufacturer drawing: 1SDH001295R0599
 - Manufacturer reference: 1SDH001295R0599
 - Document revision: B
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -90,5 +90,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0599&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 49613729 bytes
 - Delivery SHA-256: 016aebed0aa086d44e3709bb04d97f08656f074a0a346d523962b49fa18ed073
+
+### 1SDH001295R0599.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0599.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0599&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-3p-plug-in-fixing-70mm-284b9af2dc/016aebed0aa086d44e37-dxf)
+- Redistribution: unknown
+- Original SHA-256: 016aebed0aa086d44e3709bb04d97f08656f074a0a346d523962b49fa18ed073
+- Original bytes: 49613729
+- Revision: B
+- Retrieved: 2026-11-04T04:01:33Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0599&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0599&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 787274 bytes
+- Delivery SHA-256: 1f02bd434f6f99091ac10042f144ee73c426c7696b86db6b43b67e3db882a293
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

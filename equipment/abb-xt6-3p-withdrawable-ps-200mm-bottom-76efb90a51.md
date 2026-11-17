@@ -8,7 +8,7 @@ ABB XT6 3P Withdrawable PS 200mm bottom: breaker or breaker-accessory reference 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1356
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3P Withdrawable PS 200mm bottom”. Keep th
 - Manufacturer reference: 1SDH002065A1356
 - Document revision: A
 - Model envelope: 1SDH002065A1356\_XT6\_3P\_Withdrawable\_PS\_200mm\_bottom.stp: 101 × 79 × 207.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1356&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1246916 bytes
 - Delivery SHA-256: ed08164f9fbda6b66b36679cabc028d1485ab697b31587b391cfa934828f5d36
+
+### 1SDH002065A1356\_XT6\_3P\_Withdrawable\_PS\_200mm\_bottom.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1356\_XT6\_3P\_Withdrawable\_PS\_200mm\_bottom.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1356&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-withdrawable-ps-200mm-bottom-76efb90a51/ed08164f9fbda6b66b36-dxf)
+- Redistribution: unknown
+- Original SHA-256: ed08164f9fbda6b66b36679cabc028d1485ab697b31587b391cfa934828f5d36
+- Original bytes: 1246916
+- Revision: A
+- Retrieved: 2026-11-03T01:55:09.131660Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1356&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1356&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 324875 bytes
+- Delivery SHA-256: 9f1144359865ae40a5196318fb05849da442ba256007ebcbee49aa9ecf9b66bd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

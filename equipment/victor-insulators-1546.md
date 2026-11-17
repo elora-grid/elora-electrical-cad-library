@@ -30,6 +30,7 @@ Use the row for 1546 on PDF page 11. The download is the complete catalogue, not
 - Application voltage (kV): 115
 - BIL (kV): 550
 - Base design: Cap
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

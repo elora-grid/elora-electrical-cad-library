@@ -24,6 +24,7 @@ Manufacturer reference NEQ identifies this protection or metering reference.
 - Resource type: Product
 - Manufacturer drawing: NEQ
 - Manufacturer lifecycle: Active
+- Standards: EN 50081-1, EN 50081-2, EN 50082-1, EN 50082-2, IEC 60255-4
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

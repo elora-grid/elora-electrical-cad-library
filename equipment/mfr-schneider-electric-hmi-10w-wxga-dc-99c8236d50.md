@@ -1,0 +1,118 @@
+# Schneider Electric — HMI\_10W\_WXGA\_DC
+
+Schneider Electric HMI\_10W\_WXGA\_DC. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/HMI_10W_WXGA_DC_3D-CAD/)
+
+- Category: Automation & controls
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: HMI\_10W\_WXGA\_DC
+- Manufacturer: Schneider Electric
+- Resource type: Product family
+- Available native formats: DXF / STEP
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DXF / STEP ([source](https://www.se.com/us/en/download/document/HMI_10W_WXGA_DC_3D-CAD/))
+
+## What the equipment does
+
+An operator screen lets a person see equipment status, measurements and alarms, and use the controls provided by the system.
+
+Use HMI\_10W\_WXGA\_DC\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified HMI\_10W\_WXGA\_DC\_2D-front.dxf.
+
+Use HMI\_10W\_WXGA\_DC\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified HMI\_10W\_WXGA\_DC\_2D-front.dxf. Use HMI\_10W\_WXGA\_DC\_3D-simpl.STEP to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified HMI\_10W\_WXGA\_DC\_3D-simpl.STEP.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric HMI\_10W\_WXGA\_DC and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for HMI\_10W\_WXGA\_DC?
+
+2 inspected originals for Schneider Electric HMI\_10W\_WXGA\_DC: HMI\_10W\_WXGA\_DC\_2D-front.dxf (DXF); HMI\_10W\_WXGA\_DC\_3D-simpl.STEP (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/HMI\_10W\_WXGA\_DC\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/HMI_10W_WXGA_DC_3D-CAD/)
+
+## Choosing a file
+
+Use HMI\_10W\_WXGA\_DC\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified HMI\_10W\_WXGA\_DC\_2D-front.dxf. Use HMI\_10W\_WXGA\_DC\_3D-simpl.STEP to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified HMI\_10W\_WXGA\_DC\_3D-simpl.STEP.
+
+## Preview
+
+![Schneider Electric HMI\_10W\_WXGA\_DC: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50/native-bc7b75e5e231bfa946bea0da-dxf?asset=bc7b75e5e231bfa946bea0daa6d764f8f07cef89df2f5dead38a09cc572991d1)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### HMI\_10W\_WXGA\_DC\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Manufacturer DXF CAD file
+- [Official source](https://download.se.com/files?p_File_Name=HMI_10W_WXGA_DC_2D-front.dxf&p_Doc_Ref=HMI_10W_WXGA_DC_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50/native-bc7b75e5e231bfa946bea0da-dxf)
+- Redistribution: unknown
+- Original SHA-256: bc7b75e5e231bfa946bea0daa6d764f8f07cef89df2f5dead38a09cc572991d1
+- Original bytes: 96515
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://download.se.com/files?p_File_Name=HMI_10W_WXGA_DC_2D-front.dxf&p_Doc_Ref=HMI_10W_WXGA_DC_3D-CAD&p_enDocType=CAD)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.se.com/files?p_File_Name=HMI_10W_WXGA_DC_2D-front.dxf&p_Doc_Ref=HMI_10W_WXGA_DC_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 9135 bytes
+- Delivery SHA-256: 6b6d8bf4aacf12c56da998b5e4faccb167979867c128d46cd1d74cb439ca9b3f
+
+### HMI\_10W\_WXGA\_DC\_3D-simpl.STEP
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://download.se.com/files?p_File_Name=HMI_10W_WXGA_DC_3D-simpl.STEP&p_Doc_Ref=HMI_10W_WXGA_DC_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-hmi-10w-wxga-dc-99c8236d50/native-9e35e8ea628c6ecc7d9ac77e-step)
+- Redistribution: unknown
+- Original SHA-256: 9e35e8ea628c6ecc7d9ac77e845a415b7928045e06483e4680e592014fbeee5f
+- Original bytes: 8934187
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://download.se.com/files?p_File_Name=HMI_10W_WXGA_DC_3D-simpl.STEP&p_Doc_Ref=HMI_10W_WXGA_DC_3D-CAD&p_enDocType=CAD)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.se.com/files?p_File_Name=HMI_10W_WXGA_DC_3D-simpl.STEP&p_Doc_Ref=HMI_10W_WXGA_DC_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 2055623 bytes
+- Delivery SHA-256: 50b10d7a990bf52602d8761fe35867dbb64da2fc2cd576c82661c31185056c6a
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

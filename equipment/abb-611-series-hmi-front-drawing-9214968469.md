@@ -8,7 +8,7 @@ ABB 611 series, HMI front drawing: protection or metering reference for protecti
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: RE\_611\_20
-- Formats: DWG, PDF
+- Formats: DWG, PDF, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,9 +25,9 @@ Manufacturer reference RE\_611\_20 identifies this protection or metering refere
 - Manufacturer drawing: RE\_611\_20
 - Manufacturer reference: RE\_611\_20
 - Document revision: A
-- Listed file formats: DWG, PDF
-- Listed files: 2
-- Available previews: 2 drawing previews
+- Listed file formats: DWG, PDF, DXF
+- Listed files: 3
+- Available previews: 2 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -63,7 +63,7 @@ Use RE\_611.dwg revision A for editable DWG drawing geometry. Keep its original 
 
 ## Preview
 
-![ABB 611 series, HMI front drawing: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-611-series-hmi-front-drawing-9214968469/adedd76d8e40bc33c50a?asset=adedd76d8e40bc33c50a8eae7b79eb7da7262ef61eba5f8945bee3091b07c88c)
+![ABB 611 series, HMI front drawing: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-611-series-hmi-front-drawing-9214968469/adedd76d8e40bc33c50a?asset=adedd76d8e40bc33c50a8eae7b79eb7da7262ef61eba5f8945bee3091b07c88c&view=thumb&v=37e119225afd1028)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-611-series-hmi-front-drawing-9214968469). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
@@ -95,6 +95,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=RE_611_20&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 243194 bytes
 - Delivery SHA-256: adedd76d8e40bc33c50a8eae7b79eb7da7262ef61eba5f8945bee3091b07c88c
+
+### RE\_611.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (RE\_611.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=RE_611_20&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-611-series-hmi-front-drawing-9214968469/adedd76d8e40bc33c50a-dxf)
+- Redistribution: unknown
+- Original SHA-256: adedd76d8e40bc33c50a8eae7b79eb7da7262ef61eba5f8945bee3091b07c88c
+- Original bytes: 243194
+- Revision: A
+- Retrieved: 2026-11-04T00:57:54Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=RE_611_20&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=RE_611_20&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1479554 bytes
+- Delivery SHA-256: a1ccbfa2f33a0147235262584ce3dfc2b8abede17d5ec397319d141fdf15880b
 
 ### RE\_611\_20.pdf
 

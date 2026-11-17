@@ -7,7 +7,7 @@ Manufacturer ventilation louvers drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: ESD-435
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: ESD-435
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 2
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with ESD-435. The files above belong to Greenheck's ESD-435 louvers resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -111,5 +111,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 187660 bytes
 - Delivery SHA-256: 9eb6330ae922a2e0913e5cbdc9b28ad39300ee3f9cbc6654a008b6bc42d78472
+
+### ESD-435\_DETAILS.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (ESD-435\_DETAILS.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/ESD-435_DETAILS.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-esd-435-louvers/greenheck-esd-435-details-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9eb6330ae922a2e0913e5cbdc9b28ad39300ee3f9cbc6654a008b6bc42d78472
+- Original bytes: 187660
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/louvers)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 964433 bytes
+- Delivery SHA-256: a9951256f897fce6fe7b6f97bec8e084e0f83e874c71bb08946c24793822694c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

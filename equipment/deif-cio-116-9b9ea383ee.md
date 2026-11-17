@@ -26,6 +26,7 @@ Manufacturer reference cio-116-2d-cad-drawing.dwg; cio-116-2d-pdf.pdf; cio-116-3
 - Manufacturer reference: cio-116-2d-cad-drawing.dwg; cio-116-2d-pdf.pdf; cio-116-3d-step-file.stp; cio-116-3d-pdf.pdf
 - Manufacturer lifecycle: Active
 - Model envelope: cio-116-3d-step-file.stp: 125.4 × 60.9 × 111 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: UL 508, UL 6200, IEC 60255-27, IEC 60529, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60255-26, IEC 60533
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

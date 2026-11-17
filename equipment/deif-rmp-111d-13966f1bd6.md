@@ -26,6 +26,7 @@ Manufacturer reference epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip identifies 
 - Source configurations grouped on this page: RMP-111D; RMP-121D; RMQ-111D & RMQ-121D
 - Manufacturer reference: epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

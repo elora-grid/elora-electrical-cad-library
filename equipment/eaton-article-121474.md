@@ -1,0 +1,123 @@
+# Eaton — M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A
+
+Eaton M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121474) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-121474.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-121474.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/add788fa-76cd-4cdc-a2e2-1c79e65d39dd/cad_files_001.zip)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 121474
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 121474
+- Manufacturer reference: 121474
+- Manufacturer type: M22-K02SMC10
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 121474 ([source](https://ecat.eaton.com/downloads/add788fa-76cd-4cdc-a2e2-1c79e65d39dd/cad_files_001.zip))
+- Manufacturer type: M22-K02SMC10 ([source](https://ecat.eaton.com/downloads/add788fa-76cd-4cdc-a2e2-1c79e65d39dd/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/add788fa-76cd-4cdc-a2e2-1c79e65d39dd/cad_files_001.zip))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use kontaktelement\_safety\_front\_2.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified kontaktelement\_safety\_front\_2.stp.
+
+Use kontaktelement\_safety\_front\_2.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified kontaktelement\_safety\_front\_2.stp. Use eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 121474 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A?
+
+2 inspected originals for Eaton M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A: kontaktelement\_safety\_front\_2.stp (STEP); eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/add788fa-76cd-4cdc-a2e2-1c79e65d39dd/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/add788fa-76cd-4cdc-a2e2-1c79e65d39dd/cad_files_001.zip)
+
+## Choosing a file
+
+Use kontaktelement\_safety\_front\_2.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified kontaktelement\_safety\_front\_2.stp. Use eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg.
+
+## Preview
+
+![Eaton M22-K02SMC10 — Self-monitoring contact elements, Screw terminals, Front fixing, 1 N/O, 2 NC, 24 V 3 A: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-121474/native-5be19ffdc73591a8db286156-dwg?asset=5be19ffdc73591a8db28615650dfa6e757ef85f67798e32c579df0198cff5f11)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121474). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### kontaktelement\_safety\_front\_2.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/kontaktelement_safety_front_2.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-121474/native-627b0d94ac26bb2f575a7a6d-step)
+- Redistribution: unknown
+- Original SHA-256: 627b0d94ac26bb2f575a7a6daead827fcc82544cbc8fd6feba4331e7838b2b44
+- Original bytes: 1366531
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/kontaktelement_safety_front_2.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/kontaktelement_safety_front_2.stp)
+- Delivery: source-bundle; ZIP; 184111 bytes
+- Delivery SHA-256: bc76a4236d8b045cbfa1367c90429e888bbeac7de7da96b247f3946d39b66b8c
+
+### eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-121474/native-5be19ffdc73591a8db286156-dwg)
+- Redistribution: unknown
+- Original SHA-256: 5be19ffdc73591a8db28615650dfa6e757ef85f67798e32c579df0198cff5f11
+- Original bytes: 511456
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cont-blocks-mcad-drawings-kontakt-safety-front-2.dwg)
+- Delivery: source-bundle; ZIP; 400211 bytes
+- Delivery SHA-256: 48cbc26dba943b53c4517dfc77626c70f0bf7724854524891ffd0db592f4f46a
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

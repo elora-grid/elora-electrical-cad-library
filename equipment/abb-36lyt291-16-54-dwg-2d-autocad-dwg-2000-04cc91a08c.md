@@ -8,7 +8,7 @@ ABB 36LYT291\_16.54: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 36LYT291\_16.54; 36LYT291
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “36LYT291\_16.54”. Keep those frame, mounting 
 - Manufacturer reference: 36LYT291\_18.04; 36LYT291
 - Model envelope: 36LYT291\_18.04.step: 458.2 × 272.7 × 288.1 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 36LYT291
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 10
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 12
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -123,6 +123,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 225721 bytes
 - Delivery SHA-256: d010a10501881ef960387e4ea9d67476c0c21cec77479f62588fdf3be1a4e040
 
+### 36LYT291\_16.54.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (36LYT291\_16.54.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_16.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyt291-16-54-dwg-2d-autocad-dwg-2000-04cc91a08c/d010a10501881ef96038-dxf)
+- Redistribution: unknown
+- Original SHA-256: d010a10501881ef960387e4ea9d67476c0c21cec77479f62588fdf3be1a4e040
+- Original bytes: 225721
+- Revision: A
+- Retrieved: 2026-11-04T00:57:52Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_16.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_16.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 764209 bytes
+- Delivery SHA-256: c8c520d028347e20c8d2befa23146a51501ebb026dae078f2b4dc10421c66169
+
 ### 36LYT291.pdf
 
 - Format: PDF
@@ -179,6 +198,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_18.04&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 225733 bytes
 - Delivery SHA-256: be369aef4f132e2126870136020c61a7a5626d70dfe7c1994204b51bea6e442a
+
+### 36LYT291\_18.04.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (36LYT291\_18.04.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_18.04&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyt291-16-54-dwg-2d-autocad-dwg-2000-04cc91a08c/be369aef4f132e212687-dxf)
+- Redistribution: unknown
+- Original SHA-256: be369aef4f132e2126870136020c61a7a5626d70dfe7c1994204b51bea6e442a
+- Original bytes: 225733
+- Revision: A
+- Retrieved: 2026-11-04T00:57:53Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_18.04&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT291_18.04&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 763113 bytes
+- Delivery SHA-256: caa4b385037c4a8ee6da7177d57a1ed0243c7220adb0fb64a2d91dd47df88196
 
 ### 36LYT291\_18.04.step
 

@@ -29,6 +29,7 @@ Manufacturer reference 2ftq-x-2evq96-x-3d-pdf.pdf; 2ftq-x-2evq96-x-3d-step-file.
 - Model envelope: 2ftq-x-2evq96-x-3d-step-file.stp: 96 × 68.5 × 96 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Model envelope: 2ftq96-x-3d-step-file.stp: 95.8 × 95.8 × 68 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 2ftq-x-2evq96-x-3d-pdf.pdf; 2ftq-x-2evq96-x-3d-step-file.stp
+- Standards: IEC 60051-1, IEC 61000-6-2, IEC 61000-6-3, IEC 60529
 - Listed file formats: PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

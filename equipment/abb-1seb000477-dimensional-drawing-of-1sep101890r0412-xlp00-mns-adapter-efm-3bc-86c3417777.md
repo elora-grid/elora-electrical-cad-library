@@ -25,6 +25,7 @@ Manufacturer reference 9AKK107991A0543 identifies this switchboard or switchgear
 - Manufacturer drawing: 9AKK107991A0543
 - Manufacturer reference: 9AKK107991A0543
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

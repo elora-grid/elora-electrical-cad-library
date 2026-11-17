@@ -8,7 +8,7 @@ ABB 09LYF277\_24.11: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 09LYF277\_24.11; 09LYF277
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “09LYF277\_24.11”. Keep those frame, mounting 
 - Document revision: J
 - Motor drawing designation (09LYF277): HORZ TENV 254-6TC VECTOR W/THRU SH ENC & COVER
 - Manufacturer reference: 09LYF277
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: J
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=J)
 - Delivery: original; DWG; 838516 bytes
 - Delivery SHA-256: d8a292e09527771cb7894b1c113ae8665c402cfb887e94d9b4fd62efaaa9f5cc
+
+### 09LYF277\_24.11.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (09LYF277\_24.11.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=J)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-09lyf277-24-11-dwg-2d-autocad-dwg-2000-f5899214de/d8a292e09527771cb789-dxf)
+- Redistribution: unknown
+- Original SHA-256: d8a292e09527771cb7894b1c113ae8665c402cfb887e94d9b4fd62efaaa9f5cc
+- Original bytes: 838516
+- Revision: J
+- Retrieved: 2026-11-04T00:24:36Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=J)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=09LYF277_24.11&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=J)
+- Delivery: converted; DXF; 2041666 bytes
+- Delivery SHA-256: ebd1186fd665274608ece4b4b5d1a78757b99f56c72e81868f8814bc604283d9
 
 ### 09LYF277.pdf
 

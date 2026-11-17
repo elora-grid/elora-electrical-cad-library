@@ -1,0 +1,160 @@
+# Weidmüller — ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm
+
+Weidmüller ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1711930000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1711930000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1711930000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zvl-1-5-o-qv/p/1711930000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1711930000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1711930000
+- Manufacturer reference: 1711930000
+- Manufacturer type: ZVL 1.5 O.QV
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1711930000 ([source](https://eshop.weidmueller.com.cn/en/zvl-1-5-o-qv/p/1711930000/downloads#engineering-support))
+- Manufacturer type: ZVL 1.5 O.QV ([source](https://eshop.weidmueller.com.cn/en/zvl-1-5-o-qv/p/1711930000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zvl-1-5-o-qv/p/1711930000/downloads#engineering-support))
+
+## What the equipment does
+
+An arithmetic or code-conversion function processes numerical values, for example by adding them or changing how they are represented.
+
+1711930000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1711930000\_back.DWG, 1711930000\_bottom.DWG, 1711930000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm before placing it.
+
+1711930000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1711930000\_back.DWG, 1711930000\_bottom.DWG, 1711930000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm before placing it. 1711930000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1711930000\_back.DXF, 1711930000\_bottom.DXF, 1711930000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm before placing it. Use 1711930000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1711930000.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1711930000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm?
+
+3 inspected originals for Weidmüller ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm: 1711930000\_DWG.zip (ZIP); 1711930000\_DXF.zip (ZIP); 1711930000.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zvl-1-5-o-qv/p/1711930000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zvl-1-5-o-qv/p/1711930000/downloads#engineering-support)
+
+## Choosing a file
+
+1711930000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1711930000\_back.DWG, 1711930000\_bottom.DWG, 1711930000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm before placing it. 1711930000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1711930000\_back.DXF, 1711930000\_bottom.DXF, 1711930000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZVL 1.5 O.QV — Complementary product terminal block (unspecified) / Plug (terminal) Tension-clamp connection, 1.5 mm², 17.5 A, 250 V, Number of connections: 1, Number of poles: 1, Width: 5.08 mm before placing it. Use 1711930000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1711930000.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1711930000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/f1dc255d-ce55-4cf7-b0d4-21ce45c9d51f/original/1711930000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1711930000/native-6364ab3ddc2e8b69b2daad4e-zip)
+- Redistribution: unknown
+- Original SHA-256: 6364ab3ddc2e8b69b2daad4ed6f4a94c3e5af71fb14a9faf1a2c463375da4291
+- Original bytes: 55084
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/f1dc255d-ce55-4cf7-b0d4-21ce45c9d51f/original/1711930000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/f1dc255d-ce55-4cf7-b0d4-21ce45c9d51f/original/1711930000_DWG.zip)
+- Delivery: original; ZIP; 55084 bytes
+- Delivery SHA-256: 6364ab3ddc2e8b69b2daad4ed6f4a94c3e5af71fb14a9faf1a2c463375da4291
+
+<details>
+<summary>Archive members</summary>
+
+- 1711930000\_back.DWG
+- 1711930000\_bottom.DWG
+- 1711930000\_front.DWG
+- 1711930000\_left.DWG
+- 1711930000\_right.DWG
+- 1711930000\_top.DWG
+
+</details>
+
+### 1711930000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/3b19416f-48ea-46a7-ad9e-1d15b2625589/original/1711930000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1711930000/native-5789eb22ba1d7538597f33d9-zip)
+- Redistribution: unknown
+- Original SHA-256: 5789eb22ba1d7538597f33d9f38ba1bcf3915806bedb2fca6ed261b9310a118c
+- Original bytes: 31632
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/3b19416f-48ea-46a7-ad9e-1d15b2625589/original/1711930000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/3b19416f-48ea-46a7-ad9e-1d15b2625589/original/1711930000_DXF.zip)
+- Delivery: original; ZIP; 31632 bytes
+- Delivery SHA-256: 5789eb22ba1d7538597f33d9f38ba1bcf3915806bedb2fca6ed261b9310a118c
+
+<details>
+<summary>Archive members</summary>
+
+- 1711930000\_back.DXF
+- 1711930000\_bottom.DXF
+- 1711930000\_front.DXF
+- 1711930000\_left.DXF
+- 1711930000\_right.DXF
+- 1711930000\_top.DXF
+
+</details>
+
+### 1711930000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/0e2129fe-1f89-4653-afe9-c1fb2785cd7b/original/1711930000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1711930000/native-b20deb96859bbacc1a0e5ffd-step)
+- Redistribution: unknown
+- Original SHA-256: b20deb96859bbacc1a0e5ffddb9e32487ad97ebf50ebba9803d8fb5059439337
+- Original bytes: 206073
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/0e2129fe-1f89-4653-afe9-c1fb2785cd7b/original/1711930000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/0e2129fe-1f89-4653-afe9-c1fb2785cd7b/original/1711930000.stp)
+- Delivery: source-bundle; ZIP; 37685 bytes
+- Delivery SHA-256: 2d809fc76eb203b99a3e6184db44e6f46974fc5b60ed80f94f173ce017968346
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

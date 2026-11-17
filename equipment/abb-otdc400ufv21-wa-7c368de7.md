@@ -9,7 +9,7 @@ OTDC400UFV21-WA: ABB manufacturer DWG resource, document 1SCC307926F0201, revisi
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307926F0201
 - Installation applications: microgrids, switchgear
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,9 +24,9 @@ Original DWG drawing for OTDC400UFV21-WA; ABB document 1SCC307926F0201
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SCC307926F0201
-- Listed file formats: DWG
-- Listed files: 1
-- Available previews: 1 drawing previews
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307926F0201.dwg for OTDC400UFV21-WA. DWG is the supplied drawing format;
 
 ## Preview
 
-![ABB OTDC400UFV21-WA: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc400ufv21-wa-7c368de7/original?asset=5f0a01e4dbe502e997f44a81612416a9727938eaef59173bc93b32af18b1f7a7)
+![ABB OTDC400UFV21-WA: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc400ufv21-wa-7c368de7/original?asset=5f0a01e4dbe502e997f44a81612416a9727938eaef59173bc93b32af18b1f7a7&view=thumb&v=877261d6750ffabb)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc400ufv21-wa-7c368de7). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
@@ -97,5 +97,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307926F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1911082 bytes
 - Delivery SHA-256: 5f0a01e4dbe502e997f44a81612416a9727938eaef59173bc93b32af18b1f7a7
+
+### 1SCC307926F0201.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SCC307926F0201.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307926F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdc400ufv21-wa-7c368de7/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 5f0a01e4dbe502e997f44a81612416a9727938eaef59173bc93b32af18b1f7a7
+- Original bytes: 1911082
+- Revision: A
+- Retrieved: 2026-11-03T01:43:25.308946+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307926F0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307926F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 14100102 bytes
+- Delivery SHA-256: f9a536a2d81c0ad16f69eddbd650eeb63e39364ddfc7e84cdcf622cc178581eb
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

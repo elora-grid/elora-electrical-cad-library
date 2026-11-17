@@ -1,0 +1,118 @@
+# Eaton — NZM2-XKR4 — Connection, on rear, 3.5mm, 3p
+
+Eaton NZM2-XKR4 — Connection, on rear, 3.5mm, 3p. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281666) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-281666.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-281666.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/5f9c55ab-9f2f-4be1-b332-a105bc9b0580/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 281666
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NZM2-XKR4 — Connection, on rear, 3.5mm, 3p
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 281666
+- Manufacturer reference: 281666
+- Manufacturer type: NZM2-XKR4
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 281666 ([source](https://ecat.eaton.com/downloads/5f9c55ab-9f2f-4be1-b332-a105bc9b0580/cad_files_001.zip))
+- Manufacturer type: NZM2-XKR4 ([source](https://ecat.eaton.com/downloads/5f9c55ab-9f2f-4be1-b332-a105bc9b0580/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/5f9c55ab-9f2f-4be1-b332-a105bc9b0580/cad_files_001.zip))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use nzm2\_xkr4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xkr4.stp.
+
+Use nzm2\_xkr4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xkr4.stp. Use eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 281666 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NZM2-XKR4 — Connection, on rear, 3.5mm, 3p?
+
+2 inspected originals for Eaton NZM2-XKR4 — Connection, on rear, 3.5mm, 3p: nzm2\_xkr4.stp (STEP); eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/5f9c55ab-9f2f-4be1-b332-a105bc9b0580/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/5f9c55ab-9f2f-4be1-b332-a105bc9b0580/cad_files_001.zip)
+
+## Choosing a file
+
+Use nzm2\_xkr4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xkr4.stp. Use eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### nzm2\_xkr4.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xkr4.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-281666/native-25ae5a01bfc8df7aa268cfcd-step)
+- Redistribution: unknown
+- Original SHA-256: 25ae5a01bfc8df7aa268cfcd02ada4aedabc8820d188691ccd4f250e65821062
+- Original bytes: 289243
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xkr4.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xkr4.stp)
+- Delivery: source-bundle; ZIP; 52309 bytes
+- Delivery SHA-256: abedd7c1ef219c13577af6873a1299d68ee9bd131ba08b8d4b3df6c7d7e28b5a
+
+### eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-281666/native-f6e15e105253a090e2644450-dwg)
+- Redistribution: unknown
+- Original SHA-256: f6e15e105253a090e264445002a092083a19577f2998a508118cd0a2d1b3843b
+- Original bytes: 506048
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm2-xkr4.dwg)
+- Delivery: source-bundle; ZIP; 444693 bytes
+- Delivery SHA-256: 3a2ba3b72411fa83f8162e2430fb068fb1c9a9765689829ca5690a4884b4557d
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

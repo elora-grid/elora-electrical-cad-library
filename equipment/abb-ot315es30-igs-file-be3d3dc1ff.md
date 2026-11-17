@@ -28,6 +28,7 @@ The supplied configuration is “OT315ES30”. Keep those frame, mounting and ac
 - Document revision: -
 - Manufacturer reference: OT315ES30K.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

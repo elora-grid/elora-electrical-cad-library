@@ -26,6 +26,7 @@ Manufacturer reference cio-308-2d-cad-drawing.dwg; cio-308-2d-pdf.pdf; cio-308-3
 - Manufacturer reference: cio-308-2d-cad-drawing.dwg; cio-308-2d-pdf.pdf; cio-308-3d-step-file.stp; cio-308-3d-pdf.pdf
 - Manufacturer lifecycle: Active
 - Model envelope: cio-308-3d-step-file.stp: 125.4 × 61.3 × 156.4 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: UL 508, UL 6200, IEC 60255-27, IEC 60529, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60255-26, IEC 60533
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

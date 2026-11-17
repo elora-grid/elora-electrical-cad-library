@@ -8,7 +8,7 @@ ABB 1SDA085244R6: switching-equipment reference for switch installation and oper
 - Entry type: drawing
 - Part number: 1SDA085244R6
 - Drawing/document number: 1SDA085244R6\_IGS-FILE; 1SDA085244R6\_STP-FILE
-- Formats: IGS, STEP
+- Formats: IGS, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “1SDA085244R6”. Keep those frame, mounting and
 - Manufacturer drawing: 1SDA085244R6\_IGS-FILE; 1SDA085244R6\_STP-FILE
 - Manufacturer reference: 1SDA085244R6\_IGS-FILE; 1SDA085244R6\_STP-FILE
 - Document revision: A
-- Listed file formats: IGS, STEP
-- Listed files: 2
+- Listed file formats: IGS, STEP, DXF
+- Listed files: 3
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -117,5 +117,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDA085244R6_STP-FILE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 679710 bytes
 - Delivery SHA-256: de0a5a507c55454dae34358628cfe4fd2d49f0ade2441fb646a0513be1990e53
+
+### 1SDA085244R6\_STP-FILE.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDA085244R6\_STP-FILE.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDA085244R6_STP-FILE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-1sda085244r6-igs-file-0ccf191105/de0a5a507c55454dae34-dxf)
+- Redistribution: unknown
+- Original SHA-256: de0a5a507c55454dae34358628cfe4fd2d49f0ade2441fb646a0513be1990e53
+- Original bytes: 679710
+- Revision: A
+- Retrieved: 2026-11-04T04:28:47Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDA085244R6_STP-FILE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDA085244R6_STP-FILE&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 200837 bytes
+- Delivery SHA-256: 135aeb9298ed05c72157a313bd2ebd1c4b97ee3e76bdd1b1a0a455a5d6a6b2b8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

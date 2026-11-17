@@ -1,0 +1,2773 @@
+{
+  "schemaVersion": 1,
+  "category": "automation",
+  "page": 9,
+  "entries": [
+    {
+      "id": "mfr-steute-az1516b6-hae-actuator-5d911729f3",
+      "name": "AZ1516B6 HAE Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-az1516b6-hae-actuator-5d911729f3",
+      "recordPath": "equipment/mfr-steute-az1516b6-hae-actuator-5d911729f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-az1516b6-hae-actuator-5d911729f3.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7pf-d7mf-flush-pushbuttons-a0fa7f5de9",
+      "name": "D7PF/D7MF Flush Pushbuttons",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7pf-d7mf-flush-pushbuttons-a0fa7f5de9",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7pf-d7mf-flush-pushbuttons-a0fa7f5de9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7pf-d7mf-flush-pushbuttons-a0fa7f5de9.json"
+    },
+    {
+      "id": "mfr-steute-az335355b12246-hae-actuator-f517ab1fec",
+      "name": "AZ335355B12246 HAE Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-az335355b12246-hae-actuator-f517ab1fec",
+      "recordPath": "equipment/mfr-steute-az335355b12246-hae-actuator-f517ab1fec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-az335355b12246-hae-actuator-f517ab1fec.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7pg-d7mg-guarded-pushbuttons-c5b8288a1b",
+      "name": "D7PG/D7MG Guarded Pushbuttons",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7pg-d7mg-guarded-pushbuttons-c5b8288a1b",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7pg-d7mg-guarded-pushbuttons-c5b8288a1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7pg-d7mg-guarded-pushbuttons-c5b8288a1b.json"
+    },
+    {
+      "id": "mfr-steute-az335355b5-hae-actuator-dfe46a9d68",
+      "name": "AZ335355B5 HAE Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-az335355b5-hae-actuator-dfe46a9d68",
+      "recordPath": "equipment/mfr-steute-az335355b5-hae-actuator-dfe46a9d68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-az335355b5-hae-actuator-dfe46a9d68.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7ph-d7mh-knob-lever-selector-switch-9afc9bcf6c",
+      "name": "D7PH/D7MH Knob Lever Selector Switch",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7ph-d7mh-knob-lever-selector-switch-9afc9bcf6c",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7ph-d7mh-knob-lever-selector-switch-9afc9bcf6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7ph-d7mh-knob-lever-selector-switch-9afc9bcf6c.json"
+    },
+    {
+      "id": "mfr-steute-az335355b6-hae-actuator-ef87d4fafc",
+      "name": "AZ335355B6 HAE Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-az335355b6-hae-actuator-ef87d4fafc",
+      "recordPath": "equipment/mfr-steute-az335355b6-hae-actuator-ef87d4fafc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-az335355b6-hae-actuator-ef87d4fafc.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7plf-d7mlf-illuminated-flush-pushbuttons-26a06ec031",
+      "name": "D7PLF/D7MLF Illuminated Flush Pushbuttons",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7plf-d7mlf-illuminated-flush-pushbuttons-26a06ec031",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7plf-d7mlf-illuminated-flush-pushbuttons-26a06ec031.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7plf-d7mlf-illuminated-flush-pushbuttons-26a06ec031.json"
+    },
+    {
+      "id": "mfr-steute-azm415b1-actuator-7815c38fc5",
+      "name": "AZM415B1 Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-azm415b1-actuator-7815c38fc5",
+      "recordPath": "equipment/mfr-steute-azm415b1-actuator-7815c38fc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-azm415b1-actuator-7815c38fc5.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7plg-d7mlg-illuminated-guarded-pushbuttons-f2f2a674b7",
+      "name": "D7PLG/D7MLG Illuminated Guarded Pushbuttons",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7plg-d7mlg-illuminated-guarded-pushbuttons-f2f2a674b7",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7plg-d7mlg-illuminated-guarded-pushbuttons-f2f2a674b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7plg-d7mlg-illuminated-guarded-pushbuttons-f2f2a674b7.json"
+    },
+    {
+      "id": "mfr-steute-azm415b2-actuator-c1eb28b39f",
+      "name": "AZM415B2 Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-azm415b2-actuator-c1eb28b39f",
+      "recordPath": "equipment/mfr-steute-azm415b2-actuator-c1eb28b39f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-azm415b2-actuator-c1eb28b39f.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7plmp3-d7mlmp3-illuminated-push-pull-mushroom-30mm-e6775cb98d",
+      "name": "D7PLMP3/D7MLMP3 Illuminated Push Pull Mushroom 30mm",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7plmp3-d7mlmp3-illuminated-push-pull-mushroom-30mm-e6775cb98d",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7plmp3-d7mlmp3-illuminated-push-pull-mushroom-30mm-e6775cb98d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7plmp3-d7mlmp3-illuminated-push-pull-mushroom-30mm-e6775cb98d.json"
+    },
+    {
+      "id": "mfr-steute-azm415b3-actuator-7874563551",
+      "name": "AZM415B3 Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-azm415b3-actuator-7874563551",
+      "recordPath": "equipment/mfr-steute-azm415b3-actuator-7874563551.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-azm415b3-actuator-7874563551.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7pmt3-d7mmt3-twist-release-mushroom-30mm-7524a7079a",
+      "name": "D7PMT3/D7MMT3 Twist Release Mushroom 30mm",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7pmt3-d7mmt3-twist-release-mushroom-30mm-7524a7079a",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7pmt3-d7mmt3-twist-release-mushroom-30mm-7524a7079a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7pmt3-d7mmt3-twist-release-mushroom-30mm-7524a7079a.json"
+    },
+    {
+      "id": "mfr-steute-bz16b1-magnetic-safety-switch-2b3853f0b4",
+      "name": "BZ16B1 Magnetic Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-bz16b1-magnetic-safety-switch-2b3853f0b4",
+      "recordPath": "equipment/mfr-steute-bz16b1-magnetic-safety-switch-2b3853f0b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-bz16b1-magnetic-safety-switch-2b3853f0b4.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7pp-d7mp-pilot-light-a5bc62378e",
+      "name": "D7PP/D7MP Pilot Light",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7pp-d7mp-pilot-light-a5bc62378e",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7pp-d7mp-pilot-light-a5bc62378e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7pp-d7mp-pilot-light-a5bc62378e.json"
+    },
+    {
+      "id": "mfr-steute-c501o1s-limit-switch-f2e73cfbd7",
+      "name": "C501O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-c501o1s-limit-switch-f2e73cfbd7",
+      "recordPath": "equipment/mfr-steute-c501o1s-limit-switch-f2e73cfbd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-c501o1s-limit-switch-f2e73cfbd7.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7psmm22-d7msm22-knob-selector-switch-4c43f7f47b",
+      "name": "D7PSMM22/D7MSM22 Knob Selector Switch",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7psmm22-d7msm22-knob-selector-switch-4c43f7f47b",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7psmm22-d7msm22-knob-selector-switch-4c43f7f47b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7psmm22-d7msm22-knob-selector-switch-4c43f7f47b.json"
+    },
+    {
+      "id": "mfr-steute-c50st1o1s-limit-switch-780c18d4d7",
+      "name": "C50ST1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-c50st1o1s-limit-switch-780c18d4d7",
+      "recordPath": "equipment/mfr-steute-c50st1o1s-limit-switch-780c18d4d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-c50st1o1s-limit-switch-780c18d4d7.json"
+    },
+    {
+      "id": "mfr-steute-e12-limit-switch-052148d143",
+      "name": "E12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12-limit-switch-052148d143",
+      "recordPath": "equipment/mfr-steute-e12-limit-switch-052148d143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12-limit-switch-052148d143.json"
+    },
+    {
+      "id": "mfr-steute-e12r-limit-switch-d6bc4955b9",
+      "name": "E12R Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12r-limit-switch-d6bc4955b9",
+      "recordPath": "equipment/mfr-steute-e12r-limit-switch-d6bc4955b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12r-limit-switch-d6bc4955b9.json"
+    },
+    {
+      "id": "mfr-steute-e12tl-limit-switch-35e12f1373",
+      "name": "E12TL Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12tl-limit-switch-35e12f1373",
+      "recordPath": "equipment/mfr-steute-e12tl-limit-switch-35e12f1373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12tl-limit-switch-35e12f1373.json"
+    },
+    {
+      "id": "mfr-steute-e12w-limit-switch-2a1f8cc642",
+      "name": "E12W Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12w-limit-switch-2a1f8cc642",
+      "recordPath": "equipment/mfr-steute-e12w-limit-switch-2a1f8cc642.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12w-limit-switch-2a1f8cc642.json"
+    },
+    {
+      "id": "mfr-steute-e12wh-limit-switch-cbc843e488",
+      "name": "E12WH Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12wh-limit-switch-cbc843e488",
+      "recordPath": "equipment/mfr-steute-e12wh-limit-switch-cbc843e488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12wh-limit-switch-cbc843e488.json"
+    },
+    {
+      "id": "mfr-steute-e12whk-limit-switch-87d0ad49a9",
+      "name": "E12WHK Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12whk-limit-switch-87d0ad49a9",
+      "recordPath": "equipment/mfr-steute-e12whk-limit-switch-87d0ad49a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12whk-limit-switch-87d0ad49a9.json"
+    },
+    {
+      "id": "mfr-steute-e12whl5m-limit-switch-fdcf3478c0",
+      "name": "E12WHL5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12whl5m-limit-switch-fdcf3478c0",
+      "recordPath": "equipment/mfr-steute-e12whl5m-limit-switch-fdcf3478c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12whl5m-limit-switch-fdcf3478c0.json"
+    },
+    {
+      "id": "mfr-steute-e12wr-limit-switch-c98c5e8d76",
+      "name": "E12WR Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-e12wr-limit-switch-c98c5e8d76",
+      "recordPath": "equipment/mfr-steute-e12wr-limit-switch-c98c5e8d76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-e12wr-limit-switch-c98c5e8d76.json"
+    },
+    {
+      "id": "mfr-steute-eex12-hae-limit-switch-2b359db735",
+      "name": "EEX12 HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12-hae-limit-switch-2b359db735",
+      "recordPath": "equipment/mfr-steute-eex12-hae-limit-switch-2b359db735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12-hae-limit-switch-2b359db735.json"
+    },
+    {
+      "id": "mfr-steute-eex12d-hae-limit-switch-4bfeeaf421",
+      "name": "EEX12D HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12d-hae-limit-switch-4bfeeaf421",
+      "recordPath": "equipment/mfr-steute-eex12d-hae-limit-switch-4bfeeaf421.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12d-hae-limit-switch-4bfeeaf421.json"
+    },
+    {
+      "id": "mfr-steute-eex12ds-hae-limit-switch-6b15e0c2a9",
+      "name": "EEX12DS HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12ds-hae-limit-switch-6b15e0c2a9",
+      "recordPath": "equipment/mfr-steute-eex12ds-hae-limit-switch-6b15e0c2a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12ds-hae-limit-switch-6b15e0c2a9.json"
+    },
+    {
+      "id": "mfr-steute-eex12f-hae-limit-switch-d0c0aefd52",
+      "name": "EEX12F HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12f-hae-limit-switch-d0c0aefd52",
+      "recordPath": "equipment/mfr-steute-eex12f-hae-limit-switch-d0c0aefd52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12f-hae-limit-switch-d0c0aefd52.json"
+    },
+    {
+      "id": "mfr-steute-eex12r-hae-limit-switch-1d057f08aa",
+      "name": "EEX12R HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12r-hae-limit-switch-1d057f08aa",
+      "recordPath": "equipment/mfr-steute-eex12r-hae-limit-switch-1d057f08aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12r-hae-limit-switch-1d057f08aa.json"
+    },
+    {
+      "id": "mfr-steute-eex12tk-hae-limit-switch-d4ab7e8cb1",
+      "name": "EEX12TK HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12tk-hae-limit-switch-d4ab7e8cb1",
+      "recordPath": "equipment/mfr-steute-eex12tk-hae-limit-switch-d4ab7e8cb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12tk-hae-limit-switch-d4ab7e8cb1.json"
+    },
+    {
+      "id": "mfr-steute-eex12w-hae-limit-switch-84bd0453f3",
+      "name": "EEX12W HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12w-hae-limit-switch-84bd0453f3",
+      "recordPath": "equipment/mfr-steute-eex12w-hae-limit-switch-84bd0453f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12w-hae-limit-switch-84bd0453f3.json"
+    },
+    {
+      "id": "mfr-steute-eex12wr-hae-limit-switch-ca7c1fb0f1",
+      "name": "EEX12WR HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex12wr-hae-limit-switch-ca7c1fb0f1",
+      "recordPath": "equipment/mfr-steute-eex12wr-hae-limit-switch-ca7c1fb0f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex12wr-hae-limit-switch-ca7c1fb0f1.json"
+    },
+    {
+      "id": "mfr-steute-eex131o1s-hae-limit-switch-a11a62601c",
+      "name": "EEX131O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex131o1s-hae-limit-switch-a11a62601c",
+      "recordPath": "equipment/mfr-steute-eex131o1s-hae-limit-switch-a11a62601c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex131o1s-hae-limit-switch-a11a62601c.json"
+    },
+    {
+      "id": "mfr-steute-eex13r101s10m-hae-limit-switch-8c3137bbc2",
+      "name": "EEX13R101S10M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13r101s10m-hae-limit-switch-8c3137bbc2",
+      "recordPath": "equipment/mfr-steute-eex13r101s10m-hae-limit-switch-8c3137bbc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13r101s10m-hae-limit-switch-8c3137bbc2.json"
+    },
+    {
+      "id": "mfr-steute-eex13r1o1s-hae-limit-switch-45cfb92fdb",
+      "name": "EEX13R1O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13r1o1s-hae-limit-switch-45cfb92fdb",
+      "recordPath": "equipment/mfr-steute-eex13r1o1s-hae-limit-switch-45cfb92fdb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13r1o1s-hae-limit-switch-45cfb92fdb.json"
+    },
+    {
+      "id": "mfr-steute-eex13w1o1s-hae-limit-switch-49f960e0c5",
+      "name": "EEX13W1O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13w1o1s-hae-limit-switch-49f960e0c5",
+      "recordPath": "equipment/mfr-steute-eex13w1o1s-hae-limit-switch-49f960e0c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13w1o1s-hae-limit-switch-49f960e0c5.json"
+    },
+    {
+      "id": "mfr-steute-eex13wh1o1s10m-hae-limit-switch-6e936e92c8",
+      "name": "EEX13WH1O1S10M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13wh1o1s10m-hae-limit-switch-6e936e92c8",
+      "recordPath": "equipment/mfr-steute-eex13wh1o1s10m-hae-limit-switch-6e936e92c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13wh1o1s10m-hae-limit-switch-6e936e92c8.json"
+    },
+    {
+      "id": "mfr-steute-eex13wh1o1s5m-hae-limit-switch-65c4ab85f6",
+      "name": "EEX13WH1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13wh1o1s5m-hae-limit-switch-65c4ab85f6",
+      "recordPath": "equipment/mfr-steute-eex13wh1o1s5m-hae-limit-switch-65c4ab85f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13wh1o1s5m-hae-limit-switch-65c4ab85f6.json"
+    },
+    {
+      "id": "mfr-steute-eex13wku1o1s5m-hae-limit-switch-35e73260a9",
+      "name": "EEX13WKU1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13wku1o1s5m-hae-limit-switch-35e73260a9",
+      "recordPath": "equipment/mfr-steute-eex13wku1o1s5m-hae-limit-switch-35e73260a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13wku1o1s5m-hae-limit-switch-35e73260a9.json"
+    },
+    {
+      "id": "mfr-steute-eex13wph1o1s5m-hae-limit-switch-abf6268b56",
+      "name": "EEX13WPH1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13wph1o1s5m-hae-limit-switch-abf6268b56",
+      "recordPath": "equipment/mfr-steute-eex13wph1o1s5m-hae-limit-switch-abf6268b56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13wph1o1s5m-hae-limit-switch-abf6268b56.json"
+    },
+    {
+      "id": "mfr-steute-eex13wr1o1s-hae-limit-switch-36efc685fa",
+      "name": "EEX13WR1O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex13wr1o1s-hae-limit-switch-36efc685fa",
+      "recordPath": "equipment/mfr-steute-eex13wr1o1s-hae-limit-switch-36efc685fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex13wr1o1s-hae-limit-switch-36efc685fa.json"
+    },
+    {
+      "id": "mfr-steute-eex141o1s1m-hae-limit-switch-c6c99aa69e",
+      "name": "EEX141O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex141o1s1m-hae-limit-switch-c6c99aa69e",
+      "recordPath": "equipment/mfr-steute-eex141o1s1m-hae-limit-switch-c6c99aa69e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex141o1s1m-hae-limit-switch-c6c99aa69e.json"
+    },
+    {
+      "id": "mfr-steute-eex14d1o1s1m-hae-limit-switch-dd51b8b3e1",
+      "name": "EEX14D1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14d1o1s1m-hae-limit-switch-dd51b8b3e1",
+      "recordPath": "equipment/mfr-steute-eex14d1o1s1m-hae-limit-switch-dd51b8b3e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14d1o1s1m-hae-limit-switch-dd51b8b3e1.json"
+    },
+    {
+      "id": "mfr-steute-eex14d1o1s5m-hae-limit-switch-8ca595fe8f",
+      "name": "EEX14D1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14d1o1s5m-hae-limit-switch-8ca595fe8f",
+      "recordPath": "equipment/mfr-steute-eex14d1o1s5m-hae-limit-switch-8ca595fe8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14d1o1s5m-hae-limit-switch-8ca595fe8f.json"
+    },
+    {
+      "id": "mfr-steute-eex14dl1o1s1m-hae-limit-switch-bfc6782abf",
+      "name": "EEX14DL1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14dl1o1s1m-hae-limit-switch-bfc6782abf",
+      "recordPath": "equipment/mfr-steute-eex14dl1o1s1m-hae-limit-switch-bfc6782abf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14dl1o1s1m-hae-limit-switch-bfc6782abf.json"
+    },
+    {
+      "id": "mfr-steute-eex14ds1o1s1m-hae-limit-switch-97cd209b48",
+      "name": "EEX14DS1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14ds1o1s1m-hae-limit-switch-97cd209b48",
+      "recordPath": "equipment/mfr-steute-eex14ds1o1s1m-hae-limit-switch-97cd209b48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14ds1o1s1m-hae-limit-switch-97cd209b48.json"
+    },
+    {
+      "id": "mfr-steute-eex14ds1o1s5m-hae-limit-switch-8452f31dc5",
+      "name": "EEX14DS1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14ds1o1s5m-hae-limit-switch-8452f31dc5",
+      "recordPath": "equipment/mfr-steute-eex14ds1o1s5m-hae-limit-switch-8452f31dc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14ds1o1s5m-hae-limit-switch-8452f31dc5.json"
+    },
+    {
+      "id": "mfr-steute-eex14f101s2m-hae-limit-switch-19370dcba4",
+      "name": "EEX14F101S2M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14f101s2m-hae-limit-switch-19370dcba4",
+      "recordPath": "equipment/mfr-steute-eex14f101s2m-hae-limit-switch-19370dcba4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14f101s2m-hae-limit-switch-19370dcba4.json"
+    },
+    {
+      "id": "mfr-steute-eex14ku1o1s10m-hae-limit-switch-cba23c7411",
+      "name": "EEX14KU1O1S10M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14ku1o1s10m-hae-limit-switch-cba23c7411",
+      "recordPath": "equipment/mfr-steute-eex14ku1o1s10m-hae-limit-switch-cba23c7411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14ku1o1s10m-hae-limit-switch-cba23c7411.json"
+    },
+    {
+      "id": "mfr-steute-eex14ku1o1s1m-hae-limit-switch-31bdcabc4a",
+      "name": "EEX14KU1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14ku1o1s1m-hae-limit-switch-31bdcabc4a",
+      "recordPath": "equipment/mfr-steute-eex14ku1o1s1m-hae-limit-switch-31bdcabc4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14ku1o1s1m-hae-limit-switch-31bdcabc4a.json"
+    },
+    {
+      "id": "mfr-steute-eex14r1o1s-hae-limit-switch-bc7323fcd5",
+      "name": "EEX14R1O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14r1o1s-hae-limit-switch-bc7323fcd5",
+      "recordPath": "equipment/mfr-steute-eex14r1o1s-hae-limit-switch-bc7323fcd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14r1o1s-hae-limit-switch-bc7323fcd5.json"
+    },
+    {
+      "id": "mfr-steute-eex14r1o1s10m-hae-limit-switch-cf4e3f0ab7",
+      "name": "EEX14R1O1S10M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14r1o1s10m-hae-limit-switch-cf4e3f0ab7",
+      "recordPath": "equipment/mfr-steute-eex14r1o1s10m-hae-limit-switch-cf4e3f0ab7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14r1o1s10m-hae-limit-switch-cf4e3f0ab7.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-ca9-116-146-nolug-bd4c654237",
+      "name": "CA9 116 146 nolug",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-ca9-116-146-nolug-bd4c654237",
+      "recordPath": "equipment/mfr-sprecher-schuh-ca9-116-146-nolug-bd4c654237.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-ca9-116-146-nolug-bd4c654237.json"
+    },
+    {
+      "id": "mfr-steute-eex14r1o1s5m-hae-limit-switch-6231e33af6",
+      "name": "EEX14R1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14r1o1s5m-hae-limit-switch-6231e33af6",
+      "recordPath": "equipment/mfr-steute-eex14r1o1s5m-hae-limit-switch-6231e33af6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14r1o1s5m-hae-limit-switch-6231e33af6.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-ca9-2050-ei-4d646746c3",
+      "name": "CA9 2050 EI",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-ca9-2050-ei-4d646746c3",
+      "recordPath": "equipment/mfr-sprecher-schuh-ca9-2050-ei-4d646746c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-ca9-2050-ei-4d646746c3.json"
+    },
+    {
+      "id": "mfr-steute-eex14rssa12s-hae-operator-b50b6aceef",
+      "name": "EEX14RSSA12S HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rssa12s-hae-operator-b50b6aceef",
+      "recordPath": "equipment/mfr-steute-eex14rssa12s-hae-operator-b50b6aceef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rssa12s-hae-operator-b50b6aceef.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-ca9-2650-ei-06cbc332c3",
+      "name": "CA9 2650 EI",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-ca9-2650-ei-06cbc332c3",
+      "recordPath": "equipment/mfr-sprecher-schuh-ca9-2650-ei-06cbc332c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-ca9-2650-ei-06cbc332c3.json"
+    },
+    {
+      "id": "mfr-steute-eex14rssa13s-hae-operator-d31b3496ae",
+      "name": "EEX14RSSA13S HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rssa13s-hae-operator-d31b3496ae",
+      "recordPath": "equipment/mfr-steute-eex14rssa13s-hae-operator-d31b3496ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rssa13s-hae-operator-d31b3496ae.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-cep7-1egj-contactor-mount-6f7faf7783",
+      "name": "CEP7 1EGJ Contactor Mount",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-cep7-1egj-contactor-mount-6f7faf7783",
+      "recordPath": "equipment/mfr-sprecher-schuh-cep7-1egj-contactor-mount-6f7faf7783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-cep7-1egj-contactor-mount-6f7faf7783.json"
+    },
+    {
+      "id": "mfr-steute-eex14rssa14s-hae-operator-7a091173d1",
+      "name": "EEX14RSSA14S HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rssa14s-hae-operator-7a091173d1",
+      "recordPath": "equipment/mfr-steute-eex14rssa14s-hae-operator-7a091173d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rssa14s-hae-operator-7a091173d1.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-cep7-1err-contactor-mount-00fa97eb16",
+      "name": "CEP7 1ERR Contactor Mount",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-cep7-1err-contactor-mount-00fa97eb16",
+      "recordPath": "equipment/mfr-sprecher-schuh-cep7-1err-contactor-mount-00fa97eb16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-cep7-1err-contactor-mount-00fa97eb16.json"
+    },
+    {
+      "id": "mfr-steute-eex14rssa15s-hae-operator-f02ffa59f0",
+      "name": "EEX14RSSA15S HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rssa15s-hae-operator-f02ffa59f0",
+      "recordPath": "equipment/mfr-steute-eex14rssa15s-hae-operator-f02ffa59f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rssa15s-hae-operator-f02ffa59f0.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7pk-d7mk-key-selector-switch-11f15c71e7",
+      "name": "D7PK/D7MK Key Selector Switch",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7pk-d7mk-key-selector-switch-11f15c71e7",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7pk-d7mk-key-selector-switch-11f15c71e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7pk-d7mk-key-selector-switch-11f15c71e7.json"
+    },
+    {
+      "id": "mfr-steute-eex14rsta0is-hae-operator-ba77be55c8",
+      "name": "EEX14RSTA0IS HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rsta0is-hae-operator-ba77be55c8",
+      "recordPath": "equipment/mfr-steute-eex14rsta0is-hae-operator-ba77be55c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rsta0is-hae-operator-ba77be55c8.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7plsm2-d7mlsm2-illuminated-selector-switch-02737542cb",
+      "name": "D7PLSM2/D7MLSM2 Illuminated Selector Switch",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7plsm2-d7mlsm2-illuminated-selector-switch-02737542cb",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7plsm2-d7mlsm2-illuminated-selector-switch-02737542cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7plsm2-d7mlsm2-illuminated-selector-switch-02737542cb.json"
+    },
+    {
+      "id": "mfr-steute-eex14rtv2as-hae-operator-e143c8ee55",
+      "name": "EEX14RTV2AS HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rtv2as-hae-operator-e143c8ee55",
+      "recordPath": "equipment/mfr-steute-eex14rtv2as-hae-operator-e143c8ee55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rtv2as-hae-operator-e143c8ee55.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7pr-d7mr-reset-pushbuttons-66ac962fe7",
+      "name": "D7PR/D7MR Reset Pushbuttons",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7pr-d7mr-reset-pushbuttons-66ac962fe7",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7pr-d7mr-reset-pushbuttons-66ac962fe7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7pr-d7mr-reset-pushbuttons-66ac962fe7.json"
+    },
+    {
+      "id": "mfr-steute-eex14rwa0is-hae-operator-fa435d10fb",
+      "name": "EEX14RWA0IS HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rwa0is-hae-operator-fa435d10fb",
+      "recordPath": "equipment/mfr-steute-eex14rwa0is-hae-operator-fa435d10fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rwa0is-hae-operator-fa435d10fb.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-pcs-003-37a-soft-starters-fc39b8bac5",
+      "name": "PCS 003-37A Soft Starters",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-pcs-003-37a-soft-starters-fc39b8bac5",
+      "recordPath": "equipment/mfr-sprecher-schuh-pcs-003-37a-soft-starters-fc39b8bac5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-pcs-003-37a-soft-starters-fc39b8bac5.json"
+    },
+    {
+      "id": "mfr-steute-eex14rwav2a0is-hae-operator-8367b77ca2",
+      "name": "EEX14RWAV2A0IS HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rwav2a0is-hae-operator-8367b77ca2",
+      "recordPath": "equipment/mfr-steute-eex14rwav2a0is-hae-operator-8367b77ca2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rwav2a0is-hae-operator-8367b77ca2.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-pcs-043-85a-soft-starters-15ccd57441",
+      "name": "PCS 043-85A Soft Starters",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-pcs-043-85a-soft-starters-15ccd57441",
+      "recordPath": "equipment/mfr-sprecher-schuh-pcs-043-85a-soft-starters-15ccd57441.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-pcs-043-85a-soft-starters-15ccd57441.json"
+    },
+    {
+      "id": "mfr-steute-eex14rwbv2as-hae-operator-40790a8d4c",
+      "name": "EEX14RWBV2AS HAE Operator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14rwbv2as-hae-operator-40790a8d4c",
+      "recordPath": "equipment/mfr-steute-eex14rwbv2as-hae-operator-40790a8d4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14rwbv2as-hae-operator-40790a8d4c.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-pcs-soft-starters-ea6f1438f2",
+      "name": "PCS Soft Starters",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-pcs-soft-starters-ea6f1438f2",
+      "recordPath": "equipment/mfr-sprecher-schuh-pcs-soft-starters-ea6f1438f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-pcs-soft-starters-ea6f1438f2.json"
+    },
+    {
+      "id": "mfr-steute-eex14tk1o1s1m-hae-limit-switch-8f062ee255",
+      "name": "EEX14TK1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14tk1o1s1m-hae-limit-switch-8f062ee255",
+      "recordPath": "equipment/mfr-steute-eex14tk1o1s1m-hae-limit-switch-8f062ee255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14tk1o1s1m-hae-limit-switch-8f062ee255.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-sprecher-and-schuh-contactors-ca5-ca6-ca7-ca8-9cc47abcbc",
+      "name": "Sprecher and Schuh Contactors CA5 CA6 CA7 CA8",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-sprecher-and-schuh-contactors-ca5-ca6-ca7-ca8-9cc47abcbc",
+      "recordPath": "equipment/mfr-sprecher-schuh-sprecher-and-schuh-contactors-ca5-ca6-ca7-ca8-9cc47abcbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-sprecher-and-schuh-contactors-ca5-ca6-ca7-ca8-9cc47abcbc.json"
+    },
+    {
+      "id": "mfr-steute-eex14w1o1s1m-hae-limit-switch-d7b5621adc",
+      "name": "EEX14W1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14w1o1s1m-hae-limit-switch-d7b5621adc",
+      "recordPath": "equipment/mfr-steute-eex14w1o1s1m-hae-limit-switch-d7b5621adc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14w1o1s1m-hae-limit-switch-d7b5621adc.json"
+    },
+    {
+      "id": "mfr-steute-eex14wku1o1s1m-hae-limit-switch-1e8a3db5f9",
+      "name": "EEX14WKU1O1S1M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14wku1o1s1m-hae-limit-switch-1e8a3db5f9",
+      "recordPath": "equipment/mfr-steute-eex14wku1o1s1m-hae-limit-switch-1e8a3db5f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14wku1o1s1m-hae-limit-switch-1e8a3db5f9.json"
+    },
+    {
+      "id": "mfr-steute-eex14wr1o1s5m-hae-limit-switch-b114491b06",
+      "name": "EEX14WR1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex14wr1o1s5m-hae-limit-switch-b114491b06",
+      "recordPath": "equipment/mfr-steute-eex14wr1o1s5m-hae-limit-switch-b114491b06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex14wr1o1s5m-hae-limit-switch-b114491b06.json"
+    },
+    {
+      "id": "mfr-steute-eex3554v3h1o1s-hae-limit-switch-171bd91f62",
+      "name": "EEX3554V3H1O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex3554v3h1o1s-hae-limit-switch-171bd91f62",
+      "recordPath": "equipment/mfr-steute-eex3554v3h1o1s-hae-limit-switch-171bd91f62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex3554v3h1o1s-hae-limit-switch-171bd91f62.json"
+    },
+    {
+      "id": "mfr-steute-eex3554vh1o1s-hae-limit-switch-5674932f7a",
+      "name": "EEX3554VH1O1S HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eex3554vh1o1s-hae-limit-switch-5674932f7a",
+      "recordPath": "equipment/mfr-steute-eex3554vh1o1s-hae-limit-switch-5674932f7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eex3554vh1o1s-hae-limit-switch-5674932f7a.json"
+    },
+    {
+      "id": "mfr-steute-eexaz161o1s10m-hae-safety-switch-5b7c08d1b2",
+      "name": "EEXAZ161O1S10M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexaz161o1s10m-hae-safety-switch-5b7c08d1b2",
+      "recordPath": "equipment/mfr-steute-eexaz161o1s10m-hae-safety-switch-5b7c08d1b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexaz161o1s10m-hae-safety-switch-5b7c08d1b2.json"
+    },
+    {
+      "id": "mfr-steute-eexaz161o1s2m-hae-safety-switch-b0762bcf61",
+      "name": "EEXAZ161O1S2M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexaz161o1s2m-hae-safety-switch-b0762bcf61",
+      "recordPath": "equipment/mfr-steute-eexaz161o1s2m-hae-safety-switch-b0762bcf61.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexaz161o1s2m-hae-safety-switch-b0762bcf61.json"
+    },
+    {
+      "id": "mfr-steute-eexaz161o1s30n5-hae-safety-switch-af181bc86d",
+      "name": "EEXAZ161O1S30N5 HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexaz161o1s30n5-hae-safety-switch-af181bc86d",
+      "recordPath": "equipment/mfr-steute-eexaz161o1s30n5-hae-safety-switch-af181bc86d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexaz161o1s30n5-hae-safety-switch-af181bc86d.json"
+    },
+    {
+      "id": "mfr-steute-eexaz161o1s5m-hae-safety-switch-c545ddb448",
+      "name": "EEXAZ161O1S5M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexaz161o1s5m-hae-safety-switch-c545ddb448",
+      "recordPath": "equipment/mfr-steute-eexaz161o1s5m-hae-safety-switch-c545ddb448.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexaz161o1s5m-hae-safety-switch-c545ddb448.json"
+    },
+    {
+      "id": "mfr-steute-eexaz162o1s-hae-safety-switch-5d75753173",
+      "name": "EEXAZ162O1S HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexaz162o1s-hae-safety-switch-5d75753173",
+      "recordPath": "equipment/mfr-steute-eexaz162o1s-hae-safety-switch-5d75753173.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexaz162o1s-hae-safety-switch-5d75753173.json"
+    },
+    {
+      "id": "mfr-steute-eexazm4152o2sa-hae-solenoid-lock-01c211bdf1",
+      "name": "EEXAZM4152O2SA HAE Solenoid Lock",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexazm4152o2sa-hae-solenoid-lock-01c211bdf1",
+      "recordPath": "equipment/mfr-steute-eexazm4152o2sa-hae-solenoid-lock-01c211bdf1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexazm4152o2sa-hae-solenoid-lock-01c211bdf1.json"
+    },
+    {
+      "id": "mfr-steute-eexazm4152o2srfe-hae-solenoid-lock-443b8f4ca3",
+      "name": "EEXAZM4152O2SRFE HAE Solenoid Lock",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexazm4152o2srfe-hae-solenoid-lock-443b8f4ca3",
+      "recordPath": "equipment/mfr-steute-eexazm4152o2srfe-hae-solenoid-lock-443b8f4ca3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexazm4152o2srfe-hae-solenoid-lock-443b8f4ca3.json"
+    },
+    {
+      "id": "mfr-steute-eexazp4152o2s-hae-pneumatic-valve-55deedec13",
+      "name": "EEXAZP4152O2S HAE Pneumatic Valve",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexazp4152o2s-hae-pneumatic-valve-55deedec13",
+      "recordPath": "equipment/mfr-steute-eexazp4152o2s-hae-pneumatic-valve-55deedec13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexazp4152o2s-hae-pneumatic-valve-55deedec13.json"
+    },
+    {
+      "id": "mfr-steute-eexem97d1160c-hae-limit-switch-0f6c581c71",
+      "name": "EEXEM97D1160C HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexem97d1160c-hae-limit-switch-0f6c581c71",
+      "recordPath": "equipment/mfr-steute-eexem97d1160c-hae-limit-switch-0f6c581c71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexem97d1160c-hae-limit-switch-0f6c581c71.json"
+    },
+    {
+      "id": "mfr-steute-eexem97r1160c-hae-limit-switch-80ddf135dc",
+      "name": "EEXEM97R1160C HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexem97r1160c-hae-limit-switch-80ddf135dc",
+      "recordPath": "equipment/mfr-steute-eexem97r1160c-hae-limit-switch-80ddf135dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexem97r1160c-hae-limit-switch-80ddf135dc.json"
+    },
+    {
+      "id": "mfr-steute-eexem97tk1160c-hae-limit-switch-128f3c8719",
+      "name": "EEXEM97TK1160C HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexem97tk1160c-hae-limit-switch-128f3c8719",
+      "recordPath": "equipment/mfr-steute-eexem97tk1160c-hae-limit-switch-128f3c8719.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexem97tk1160c-hae-limit-switch-128f3c8719.json"
+    },
+    {
+      "id": "mfr-steute-eexem98ds1140c-hae-limit-switch-01704de972",
+      "name": "EEXEM98DS1140C HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexem98ds1140c-hae-limit-switch-01704de972",
+      "recordPath": "equipment/mfr-steute-eexem98ds1140c-hae-limit-switch-01704de972.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexem98ds1140c-hae-limit-switch-01704de972.json"
+    },
+    {
+      "id": "mfr-steute-eexes97ds1160c-hae-limit-switch-40c7bd09f4",
+      "name": "EEXES97DS1160C HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexes97ds1160c-hae-limit-switch-40c7bd09f4",
+      "recordPath": "equipment/mfr-steute-eexes97ds1160c-hae-limit-switch-40c7bd09f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexes97ds1160c-hae-limit-switch-40c7bd09f4.json"
+    },
+    {
+      "id": "mfr-steute-eexes98d11-hae-limit-switch-a1b014ced7",
+      "name": "EEXES98D11 HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexes98d11-hae-limit-switch-a1b014ced7",
+      "recordPath": "equipment/mfr-steute-eexes98d11-hae-limit-switch-a1b014ced7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexes98d11-hae-limit-switch-a1b014ced7.json"
+    },
+    {
+      "id": "mfr-steute-eexes98sr02-hae-belt-alignment-switch-b455bfe4d1",
+      "name": "EEXES98SR02 HAE Belt Alignment Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexes98sr02-hae-belt-alignment-switch-b455bfe4d1",
+      "recordPath": "equipment/mfr-steute-eexes98sr02-hae-belt-alignment-switch-b455bfe4d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexes98sr02-hae-belt-alignment-switch-b455bfe4d1.json"
+    },
+    {
+      "id": "mfr-steute-eexes98st02-hae-safety-switch-51053b231b",
+      "name": "EEXES98ST02 HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexes98st02-hae-safety-switch-51053b231b",
+      "recordPath": "equipment/mfr-steute-eexes98st02-hae-safety-switch-51053b231b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexes98st02-hae-safety-switch-51053b231b.json"
+    },
+    {
+      "id": "mfr-steute-eexes98st11-hae-safety-switch-8eab6a3a71",
+      "name": "EEXES98ST11 HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexes98st11-hae-safety-switch-8eab6a3a71",
+      "recordPath": "equipment/mfr-steute-eexes98st11-hae-safety-switch-8eab6a3a71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexes98st11-hae-safety-switch-8eab6a3a71.json"
+    },
+    {
+      "id": "mfr-steute-eexgf1o1s-hae-foot-switches-172cdad45a",
+      "name": "EEXGF1O1S HAE Foot Switches",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexgf1o1s-hae-foot-switches-172cdad45a",
+      "recordPath": "equipment/mfr-steute-eexgf1o1s-hae-foot-switches-172cdad45a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexgf1o1s-hae-foot-switches-172cdad45a.json"
+    },
+    {
+      "id": "mfr-steute-eexgfs1o1s-hae-foot-switches-083e2b127f",
+      "name": "EEXGFS1O1S HAE Foot Switches",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexgfs1o1s-hae-foot-switches-083e2b127f",
+      "recordPath": "equipment/mfr-steute-eexgfs1o1s-hae-foot-switches-083e2b127f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexgfs1o1s-hae-foot-switches-083e2b127f.json"
+    },
+    {
+      "id": "mfr-steute-eexgfs2o2s-hae-foot-switches-2be0aff650",
+      "name": "EEXGFS2O2S HAE Foot Switches",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexgfs2o2s-hae-foot-switches-2be0aff650",
+      "recordPath": "equipment/mfr-steute-eexgfs2o2s-hae-foot-switches-2be0aff650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexgfs2o2s-hae-foot-switches-2be0aff650.json"
+    },
+    {
+      "id": "mfr-steute-eexhssi41o1s5m-hae-safety-sensor-1b49d6e28a",
+      "name": "EEXHSSI41O1S5M HAE Safety Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexhssi41o1s5m-hae-safety-sensor-1b49d6e28a",
+      "recordPath": "equipment/mfr-steute-eexhssi41o1s5m-hae-safety-sensor-1b49d6e28a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexhssi41o1s5m-hae-safety-sensor-1b49d6e28a.json"
+    },
+    {
+      "id": "mfr-steute-eexism12b2abbab-hae-inductive-sensor-8619e0a8c4",
+      "name": "EEXISM12B2ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism12b2abbab-hae-inductive-sensor-8619e0a8c4",
+      "recordPath": "equipment/mfr-steute-eexism12b2abbab-hae-inductive-sensor-8619e0a8c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism12b2abbab-hae-inductive-sensor-8619e0a8c4.json"
+    },
+    {
+      "id": "mfr-steute-eexism12nb4abbab-hae-inductive-sensor-68443a3005",
+      "name": "EEXISM12NB4ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism12nb4abbab-hae-inductive-sensor-68443a3005",
+      "recordPath": "equipment/mfr-steute-eexism12nb4abbab-hae-inductive-sensor-68443a3005.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism12nb4abbab-hae-inductive-sensor-68443a3005.json"
+    },
+    {
+      "id": "mfr-steute-eexism12nb4abbabn5m-hae-inductive-sensor-9f96e33eb5",
+      "name": "EEXISM12NB4ABBABN5M HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism12nb4abbabn5m-hae-inductive-sensor-9f96e33eb5",
+      "recordPath": "equipment/mfr-steute-eexism12nb4abbabn5m-hae-inductive-sensor-9f96e33eb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism12nb4abbabn5m-hae-inductive-sensor-9f96e33eb5.json"
+    },
+    {
+      "id": "mfr-steute-eexism18b5abbab-hae-inductive-sensor-17cfe68bf1",
+      "name": "EEXISM18B5ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism18b5abbab-hae-inductive-sensor-17cfe68bf1",
+      "recordPath": "equipment/mfr-steute-eexism18b5abbab-hae-inductive-sensor-17cfe68bf1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism18b5abbab-hae-inductive-sensor-17cfe68bf1.json"
+    },
+    {
+      "id": "mfr-steute-eexism18nb8abbab-hae-inductive-sensor-4416df692d",
+      "name": "EEXISM18NB8ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism18nb8abbab-hae-inductive-sensor-4416df692d",
+      "recordPath": "equipment/mfr-steute-eexism18nb8abbab-hae-inductive-sensor-4416df692d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism18nb8abbab-hae-inductive-sensor-4416df692d.json"
+    },
+    {
+      "id": "mfr-steute-eexism30b10abbab-hae-inductive-sensor-33ac520f3d",
+      "name": "EEXISM30B10ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism30b10abbab-hae-inductive-sensor-33ac520f3d",
+      "recordPath": "equipment/mfr-steute-eexism30b10abbab-hae-inductive-sensor-33ac520f3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism30b10abbab-hae-inductive-sensor-33ac520f3d.json"
+    },
+    {
+      "id": "mfr-steute-eexism30nb15abbab-hae-inductive-sensor-c08261e23a",
+      "name": "EEXISM30NB15ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism30nb15abbab-hae-inductive-sensor-c08261e23a",
+      "recordPath": "equipment/mfr-steute-eexism30nb15abbab-hae-inductive-sensor-c08261e23a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism30nb15abbab-hae-inductive-sensor-c08261e23a.json"
+    },
+    {
+      "id": "mfr-steute-eexism8b1abbab-hae-inductive-sensor-2f9b04ada0",
+      "name": "EEXISM8B1ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism8b1abbab-hae-inductive-sensor-2f9b04ada0",
+      "recordPath": "equipment/mfr-steute-eexism8b1abbab-hae-inductive-sensor-2f9b04ada0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism8b1abbab-hae-inductive-sensor-2f9b04ada0.json"
+    },
+    {
+      "id": "mfr-steute-eexism8nb2abbab-hae-inductive-sensor-ab604028ac",
+      "name": "EEXISM8NB2ABBAB HAE Inductive Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexism8nb2abbab-hae-inductive-sensor-ab604028ac",
+      "recordPath": "equipment/mfr-steute-eexism8nb2abbab-hae-inductive-sensor-ab604028ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexism8nb2abbab-hae-inductive-sensor-ab604028ac.json"
+    },
+    {
+      "id": "mfr-steute-eexm14ds1o1s5m-hae-limit-switch-35e669b31e",
+      "name": "EEXM14DS1O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexm14ds1o1s5m-hae-limit-switch-35e669b31e",
+      "recordPath": "equipment/mfr-steute-eexm14ds1o1s5m-hae-limit-switch-35e669b31e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexm14ds1o1s5m-hae-limit-switch-35e669b31e.json"
+    },
+    {
+      "id": "mfr-steute-eexmc30-hae-magnetic-coded-actuator-52186b41e0",
+      "name": "EEXMC30 HAE Magnetic Coded Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexmc30-hae-magnetic-coded-actuator-52186b41e0",
+      "recordPath": "equipment/mfr-steute-eexmc30-hae-magnetic-coded-actuator-52186b41e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexmc30-hae-magnetic-coded-actuator-52186b41e0.json"
+    },
+    {
+      "id": "mfr-steute-eexmc4-hae-magnetic-coded-actuator-08d2babfb7",
+      "name": "EEXMC4 HAE Magnetic Coded Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexmc4-hae-magnetic-coded-actuator-08d2babfb7",
+      "recordPath": "equipment/mfr-steute-eexmc4-hae-magnetic-coded-actuator-08d2babfb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexmc4-hae-magnetic-coded-actuator-08d2babfb7.json"
+    },
+    {
+      "id": "mfr-steute-eexmc56-hae-magnetic-coded-actuator-fc8b1afe00",
+      "name": "EEXMC56 HAE Magnetic Coded Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexmc56-hae-magnetic-coded-actuator-fc8b1afe00",
+      "recordPath": "equipment/mfr-steute-eexmc56-hae-magnetic-coded-actuator-fc8b1afe00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexmc56-hae-magnetic-coded-actuator-fc8b1afe00.json"
+    },
+    {
+      "id": "mfr-steute-eexrcm201s2m-hae-magnetic-sensor-a44100f5b9",
+      "name": "EEXRCM201S2M HAE Magnetic Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexrcm201s2m-hae-magnetic-sensor-a44100f5b9",
+      "recordPath": "equipment/mfr-steute-eexrcm201s2m-hae-magnetic-sensor-a44100f5b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexrcm201s2m-hae-magnetic-sensor-a44100f5b9.json"
+    },
+    {
+      "id": "mfr-steute-eexrcs1m30202m-limit-switch-f15a8250fc",
+      "name": "EEXRCS1M30202M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexrcs1m30202m-limit-switch-f15a8250fc",
+      "recordPath": "equipment/mfr-steute-eexrcs1m30202m-limit-switch-f15a8250fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexrcs1m30202m-limit-switch-f15a8250fc.json"
+    },
+    {
+      "id": "mfr-terasaki-a160-p160-interpole-barrier-eb8f38c503",
+      "name": "A160 P160 Interpole Barrier",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-a160-p160-interpole-barrier-eb8f38c503",
+      "recordPath": "equipment/mfr-terasaki-a160-p160-interpole-barrier-eb8f38c503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-a160-p160-interpole-barrier-eb8f38c503.json"
+    },
+    {
+      "id": "mfr-steute-eexrcsi561o1s-hae-magnetic-sensor-f08cf54fc3",
+      "name": "EEXRCSI561O1S HAE Magnetic Sensor",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexrcsi561o1s-hae-magnetic-sensor-f08cf54fc3",
+      "recordPath": "equipment/mfr-steute-eexrcsi561o1s-hae-magnetic-sensor-f08cf54fc3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexrcsi561o1s-hae-magnetic-sensor-f08cf54fc3.json"
+    },
+    {
+      "id": "mfr-terasaki-a250-3p-w-motor-operator-15074962c5",
+      "name": "A250 3P W Motor Operator",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-a250-3p-w-motor-operator-15074962c5",
+      "recordPath": "equipment/mfr-terasaki-a250-3p-w-motor-operator-15074962c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-a250-3p-w-motor-operator-15074962c5.json"
+    },
+    {
+      "id": "mfr-steute-eexst141o1s2m-hae-safety-switch-abdfce6865",
+      "name": "EEXST141O1S2M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexst141o1s2m-hae-safety-switch-abdfce6865",
+      "recordPath": "equipment/mfr-steute-eexst141o1s2m-hae-safety-switch-abdfce6865.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexst141o1s2m-hae-safety-switch-abdfce6865.json"
+    },
+    {
+      "id": "mfr-terasaki-nhp-atl610-atl610cip-transfer-switch-controller-dimensions-and-wiring-aef961e4b7",
+      "name": "NHP ATL610 ATL610CIP Transfer Switch Controller Dimensions and Wiring",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-nhp-atl610-atl610cip-transfer-switch-controller-dimensions-and-wiring-aef961e4b7",
+      "recordPath": "equipment/mfr-terasaki-nhp-atl610-atl610cip-transfer-switch-controller-dimensions-and-wiring-aef961e4b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-nhp-atl610-atl610cip-transfer-switch-controller-dimensions-and-wiring-aef961e4b7.json"
+    },
+    {
+      "id": "mfr-steute-eexst141o1s5m-hae-safety-switch-6936552378",
+      "name": "EEXST141O1S5M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexst141o1s5m-hae-safety-switch-6936552378",
+      "recordPath": "equipment/mfr-steute-eexst141o1s5m-hae-safety-switch-6936552378.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexst141o1s5m-hae-safety-switch-6936552378.json"
+    },
+    {
+      "id": "mfr-steute-eexst142o10m-hae-safety-switch-aac3377339",
+      "name": "EEXST142O10M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexst142o10m-hae-safety-switch-aac3377339",
+      "recordPath": "equipment/mfr-steute-eexst142o10m-hae-safety-switch-aac3377339.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexst142o10m-hae-safety-switch-aac3377339.json"
+    },
+    {
+      "id": "mfr-steute-eexst142o5m-hae-safety-switch-1d75e17970",
+      "name": "EEXST142O5M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexst142o5m-hae-safety-switch-1d75e17970",
+      "recordPath": "equipment/mfr-steute-eexst142o5m-hae-safety-switch-1d75e17970.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexst142o5m-hae-safety-switch-1d75e17970.json"
+    },
+    {
+      "id": "mfr-steute-eexstm2952o2sa3-hae-solenoid-lock-2697d7e062",
+      "name": "EEXSTM2952O2SA3 HAE Solenoid Lock",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexstm2952o2sa3-hae-solenoid-lock-2697d7e062",
+      "recordPath": "equipment/mfr-steute-eexstm2952o2sa3-hae-solenoid-lock-2697d7e062.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexstm2952o2sa3-hae-solenoid-lock-2697d7e062.json"
+    },
+    {
+      "id": "mfr-steute-eext4v10h3562m-hae-limit-switch-78fc49a316",
+      "name": "EEXT4V10H3562M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eext4v10h3562m-hae-limit-switch-78fc49a316",
+      "recordPath": "equipment/mfr-steute-eext4v10h3562m-hae-limit-switch-78fc49a316.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eext4v10h3562m-hae-limit-switch-78fc49a316.json"
+    },
+    {
+      "id": "mfr-steute-eext4v7h3562m-hae-limit-switch-f7dc34c42c",
+      "name": "EEXT4V7H3562M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eext4v7h3562m-hae-limit-switch-f7dc34c42c",
+      "recordPath": "equipment/mfr-steute-eext4v7h3562m-hae-limit-switch-f7dc34c42c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eext4v7h3562m-hae-limit-switch-f7dc34c42c.json"
+    },
+    {
+      "id": "mfr-steute-eext4v7h3565m-hae-limit-switch-b0635b0364",
+      "name": "EEXT4V7H3565M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eext4v7h3565m-hae-limit-switch-b0635b0364",
+      "recordPath": "equipment/mfr-steute-eext4v7h3565m-hae-limit-switch-b0635b0364.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eext4v7h3565m-hae-limit-switch-b0635b0364.json"
+    },
+    {
+      "id": "mfr-steute-eext4vh3562m-hae-limit-switch-fb5f176599",
+      "name": "EEXT4VH3562M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eext4vh3562m-hae-limit-switch-fb5f176599",
+      "recordPath": "equipment/mfr-steute-eext4vh3562m-hae-limit-switch-fb5f176599.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eext4vh3562m-hae-limit-switch-fb5f176599.json"
+    },
+    {
+      "id": "mfr-steute-eextr3561o1s2m-hae-limit-switch-d63e41b9de",
+      "name": "EEXTR3561O1S2M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eextr3561o1s2m-hae-limit-switch-d63e41b9de",
+      "recordPath": "equipment/mfr-steute-eextr3561o1s2m-hae-limit-switch-d63e41b9de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eextr3561o1s2m-hae-limit-switch-d63e41b9de.json"
+    },
+    {
+      "id": "mfr-steute-eextr3561o1s5m-hae-limit-switch-11a42cf600",
+      "name": "EEXTR3561O1S5M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eextr3561o1s5m-hae-limit-switch-11a42cf600",
+      "recordPath": "equipment/mfr-steute-eextr3561o1s5m-hae-limit-switch-11a42cf600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eextr3561o1s5m-hae-limit-switch-11a42cf600.json"
+    },
+    {
+      "id": "mfr-steute-eexts3561o1s2m-hae-limit-switch-a27f77bdec",
+      "name": "EEXTS3561O1S2M HAE Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexts3561o1s2m-hae-limit-switch-a27f77bdec",
+      "recordPath": "equipment/mfr-steute-eexts3561o1s2m-hae-limit-switch-a27f77bdec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexts3561o1s2m-hae-limit-switch-a27f77bdec.json"
+    },
+    {
+      "id": "mfr-steute-eexzs71101swvda-hae-cable-pull-switch-a86c231b1a",
+      "name": "EEXZS71101SWVDA HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs71101swvda-hae-cable-pull-switch-a86c231b1a",
+      "recordPath": "equipment/mfr-steute-eexzs71101swvda-hae-cable-pull-switch-a86c231b1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs71101swvda-hae-cable-pull-switch-a86c231b1a.json"
+    },
+    {
+      "id": "mfr-steute-eexzs711o1swvd-hae-cable-pull-switch-63ae0c8c87",
+      "name": "EEXZS711O1SWVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs711o1swvd-hae-cable-pull-switch-63ae0c8c87",
+      "recordPath": "equipment/mfr-steute-eexzs711o1swvd-hae-cable-pull-switch-63ae0c8c87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs711o1swvd-hae-cable-pull-switch-63ae0c8c87.json"
+    },
+    {
+      "id": "mfr-steute-eexzs711o1swvd3m45nz-143d06efde",
+      "name": "EEXZS711O1SWVD3M45NZ",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs711o1swvd3m45nz-143d06efde",
+      "recordPath": "equipment/mfr-steute-eexzs711o1swvd3m45nz-143d06efde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs711o1swvd3m45nz-143d06efde.json"
+    },
+    {
+      "id": "mfr-steute-eexzs712owvd-hae-cable-pull-switch-7d6b66b90e",
+      "name": "EEXZS712OWVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs712owvd-hae-cable-pull-switch-7d6b66b90e",
+      "recordPath": "equipment/mfr-steute-eexzs712owvd-hae-cable-pull-switch-7d6b66b90e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs712owvd-hae-cable-pull-switch-7d6b66b90e.json"
+    },
+    {
+      "id": "mfr-steute-eexzs71wz1o1s-hae-cable-pull-switch-50608d4354",
+      "name": "EEXZS71WZ1O1S HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs71wz1o1s-hae-cable-pull-switch-50608d4354",
+      "recordPath": "equipment/mfr-steute-eexzs71wz1o1s-hae-cable-pull-switch-50608d4354.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs71wz1o1s-hae-cable-pull-switch-50608d4354.json"
+    },
+    {
+      "id": "mfr-steute-eexzs71z1o1s-hae-cable-pull-switch-cdf491d691",
+      "name": "EEXZS71Z1O1S HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs71z1o1s-hae-cable-pull-switch-cdf491d691",
+      "recordPath": "equipment/mfr-steute-eexzs71z1o1s-hae-cable-pull-switch-cdf491d691.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs71z1o1s-hae-cable-pull-switch-cdf491d691.json"
+    },
+    {
+      "id": "mfr-steute-eexzs731o1swvd-hae-cable-pull-switch-21ceb6ff46",
+      "name": "EEXZS731O1SWVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs731o1swvd-hae-cable-pull-switch-21ceb6ff46",
+      "recordPath": "equipment/mfr-steute-eexzs731o1swvd-hae-cable-pull-switch-21ceb6ff46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs731o1swvd-hae-cable-pull-switch-21ceb6ff46.json"
+    },
+    {
+      "id": "mfr-steute-eexzs73s1o1svd-hae-cable-pull-switch-f8e977628a",
+      "name": "EEXZS73S1O1SVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs73s1o1svd-hae-cable-pull-switch-f8e977628a",
+      "recordPath": "equipment/mfr-steute-eexzs73s1o1svd-hae-cable-pull-switch-f8e977628a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs73s1o1svd-hae-cable-pull-switch-f8e977628a.json"
+    },
+    {
+      "id": "mfr-steute-eexzs73sr1o1src-hae-belt-alignment-switch-43527cc9e4",
+      "name": "EEXZS73SR1O1SRC HAE Belt Alignment Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs73sr1o1src-hae-belt-alignment-switch-43527cc9e4",
+      "recordPath": "equipment/mfr-steute-eexzs73sr1o1src-hae-belt-alignment-switch-43527cc9e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs73sr1o1src-hae-belt-alignment-switch-43527cc9e4.json"
+    },
+    {
+      "id": "mfr-steute-eexzs752o2swvd-hae-cable-pull-switch-f70d664153",
+      "name": "EEXZS752O2SWVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs752o2swvd-hae-cable-pull-switch-f70d664153",
+      "recordPath": "equipment/mfr-steute-eexzs752o2swvd-hae-cable-pull-switch-f70d664153.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs752o2swvd-hae-cable-pull-switch-f70d664153.json"
+    },
+    {
+      "id": "mfr-steute-eexzs75s1o1svd-hae-cable-pull-switch-462f690dc9",
+      "name": "EEXZS75S1O1SVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs75s1o1svd-hae-cable-pull-switch-462f690dc9",
+      "recordPath": "equipment/mfr-steute-eexzs75s1o1svd-hae-cable-pull-switch-462f690dc9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs75s1o1svd-hae-cable-pull-switch-462f690dc9.json"
+    },
+    {
+      "id": "mfr-steute-eexzs75s2o2svd-hae-cable-pull-switch-5563c850fd",
+      "name": "EEXZS75S2O2SVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs75s2o2svd-hae-cable-pull-switch-5563c850fd",
+      "recordPath": "equipment/mfr-steute-eexzs75s2o2svd-hae-cable-pull-switch-5563c850fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs75s2o2svd-hae-cable-pull-switch-5563c850fd.json"
+    },
+    {
+      "id": "mfr-steute-eexzs801o1swvd-hae-cable-pull-switch-e961789d53",
+      "name": "EEXZS801O1SWVD HAE Cable Pull Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-eexzs801o1swvd-hae-cable-pull-switch-e961789d53",
+      "recordPath": "equipment/mfr-steute-eexzs801o1swvd-hae-cable-pull-switch-e961789d53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-eexzs801o1swvd-hae-cable-pull-switch-e961789d53.json"
+    },
+    {
+      "id": "mfr-steute-em14r-limit-switch-1658e9ef70",
+      "name": "EM14R Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em14r-limit-switch-1658e9ef70",
+      "recordPath": "equipment/mfr-steute-em14r-limit-switch-1658e9ef70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em14r-limit-switch-1658e9ef70.json"
+    },
+    {
+      "id": "mfr-steute-em14r5m-limit-switch-4b51e3fe7f",
+      "name": "EM14R5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em14r5m-limit-switch-4b51e3fe7f",
+      "recordPath": "equipment/mfr-steute-em14r5m-limit-switch-4b51e3fe7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em14r5m-limit-switch-4b51e3fe7f.json"
+    },
+    {
+      "id": "mfr-steute-em14w2m-limit-switch-2dc075bd04",
+      "name": "EM14W2M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em14w2m-limit-switch-2dc075bd04",
+      "recordPath": "equipment/mfr-steute-em14w2m-limit-switch-2dc075bd04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em14w2m-limit-switch-2dc075bd04.json"
+    },
+    {
+      "id": "mfr-steute-em411o1s-limit-switch-2146885085",
+      "name": "EM411O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em411o1s-limit-switch-2146885085",
+      "recordPath": "equipment/mfr-steute-em411o1s-limit-switch-2146885085.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em411o1s-limit-switch-2146885085.json"
+    },
+    {
+      "id": "mfr-steute-em41d1o1s-limit-switch-7e639e227a",
+      "name": "EM41D1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41d1o1s-limit-switch-7e639e227a",
+      "recordPath": "equipment/mfr-steute-em41d1o1s-limit-switch-7e639e227a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41d1o1s-limit-switch-7e639e227a.json"
+    },
+    {
+      "id": "mfr-steute-em41ds1o1s-limit-switch-838c8fc563",
+      "name": "EM41DS1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41ds1o1s-limit-switch-838c8fc563",
+      "recordPath": "equipment/mfr-steute-em41ds1o1s-limit-switch-838c8fc563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41ds1o1s-limit-switch-838c8fc563.json"
+    },
+    {
+      "id": "mfr-steute-em41hl1o1s-limit-switch-2d618713d9",
+      "name": "EM41HL1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41hl1o1s-limit-switch-2d618713d9",
+      "recordPath": "equipment/mfr-steute-em41hl1o1s-limit-switch-2d618713d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41hl1o1s-limit-switch-2d618713d9.json"
+    },
+    {
+      "id": "mfr-steute-em41r1o1s-limit-switch-53af54123e",
+      "name": "EM41R1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41r1o1s-limit-switch-53af54123e",
+      "recordPath": "equipment/mfr-steute-em41r1o1s-limit-switch-53af54123e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41r1o1s-limit-switch-53af54123e.json"
+    },
+    {
+      "id": "mfr-steute-em41tf1o1s-limit-switch-a640850f01",
+      "name": "EM41TF1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41tf1o1s-limit-switch-a640850f01",
+      "recordPath": "equipment/mfr-steute-em41tf1o1s-limit-switch-a640850f01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41tf1o1s-limit-switch-a640850f01.json"
+    },
+    {
+      "id": "mfr-steute-em41tl1o1s-limit-switch-b1e190d508",
+      "name": "EM41TL1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41tl1o1s-limit-switch-b1e190d508",
+      "recordPath": "equipment/mfr-steute-em41tl1o1s-limit-switch-b1e190d508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41tl1o1s-limit-switch-b1e190d508.json"
+    },
+    {
+      "id": "mfr-steute-em41wh1o1s-limit-switch-82528118dc",
+      "name": "EM41WH1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41wh1o1s-limit-switch-82528118dc",
+      "recordPath": "equipment/mfr-steute-em41wh1o1s-limit-switch-82528118dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41wh1o1s-limit-switch-82528118dc.json"
+    },
+    {
+      "id": "mfr-steute-em41wph1o1s-limit-switch-a74937a88a",
+      "name": "EM41WPH1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41wph1o1s-limit-switch-a74937a88a",
+      "recordPath": "equipment/mfr-steute-em41wph1o1s-limit-switch-a74937a88a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41wph1o1s-limit-switch-a74937a88a.json"
+    },
+    {
+      "id": "mfr-steute-em41wz1o1s-pullwire-switch-57a434c178",
+      "name": "EM41WZ1O1S Pullwire Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em41wz1o1s-pullwire-switch-57a434c178",
+      "recordPath": "equipment/mfr-steute-em41wz1o1s-pullwire-switch-57a434c178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em41wz1o1s-pullwire-switch-57a434c178.json"
+    },
+    {
+      "id": "mfr-steute-em61d101s-limit-switch-b29615bb3f",
+      "name": "EM61D101S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em61d101s-limit-switch-b29615bb3f",
+      "recordPath": "equipment/mfr-steute-em61d101s-limit-switch-b29615bb3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em61d101s-limit-switch-b29615bb3f.json"
+    },
+    {
+      "id": "mfr-steute-em61tl1o1s-limit-switch-8ba36e288d",
+      "name": "EM61TL1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em61tl1o1s-limit-switch-8ba36e288d",
+      "recordPath": "equipment/mfr-steute-em61tl1o1s-limit-switch-8ba36e288d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em61tl1o1s-limit-switch-8ba36e288d.json"
+    },
+    {
+      "id": "mfr-steute-em92dl224085c-limit-switch-54ec31baf6",
+      "name": "EM92DL224085C Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em92dl224085c-limit-switch-54ec31baf6",
+      "recordPath": "equipment/mfr-steute-em92dl224085c-limit-switch-54ec31baf6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em92dl224085c-limit-switch-54ec31baf6.json"
+    },
+    {
+      "id": "mfr-steute-em97d11-limit-switch-6cbc4460e5",
+      "name": "EM97D11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97d11-limit-switch-6cbc4460e5",
+      "recordPath": "equipment/mfr-steute-em97d11-limit-switch-6cbc4460e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97d11-limit-switch-6cbc4460e5.json"
+    },
+    {
+      "id": "mfr-steute-em97dd11-limit-switch-3611ed8770",
+      "name": "EM97DD11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97dd11-limit-switch-3611ed8770",
+      "recordPath": "equipment/mfr-steute-em97dd11-limit-switch-3611ed8770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97dd11-limit-switch-3611ed8770.json"
+    },
+    {
+      "id": "mfr-steute-em97df11-limit-switch-d187b641ae",
+      "name": "EM97DF11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97df11-limit-switch-d187b641ae",
+      "recordPath": "equipment/mfr-steute-em97df11-limit-switch-d187b641ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97df11-limit-switch-d187b641ae.json"
+    },
+    {
+      "id": "mfr-steute-em97r11-limit-switch-ce4d6309e3",
+      "name": "EM97R11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97r11-limit-switch-ce4d6309e3",
+      "recordPath": "equipment/mfr-steute-em97r11-limit-switch-ce4d6309e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97r11-limit-switch-ce4d6309e3.json"
+    },
+    {
+      "id": "mfr-steute-em97rl11-limit-switch-b6f336ba48",
+      "name": "EM97RL11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97rl11-limit-switch-b6f336ba48",
+      "recordPath": "equipment/mfr-steute-em97rl11-limit-switch-b6f336ba48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97rl11-limit-switch-b6f336ba48.json"
+    },
+    {
+      "id": "mfr-steute-em97tk11-limit-switch-df23b37c7b",
+      "name": "EM97TK11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97tk11-limit-switch-df23b37c7b",
+      "recordPath": "equipment/mfr-steute-em97tk11-limit-switch-df23b37c7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97tk11-limit-switch-df23b37c7b.json"
+    },
+    {
+      "id": "mfr-steute-em97tkk11-limit-switch-4fad20c505",
+      "name": "EM97TKK11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97tkk11-limit-switch-4fad20c505",
+      "recordPath": "equipment/mfr-steute-em97tkk11-limit-switch-4fad20c505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97tkk11-limit-switch-4fad20c505.json"
+    },
+    {
+      "id": "mfr-steute-em97w11-limit-switch-b82232b691",
+      "name": "EM97W11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97w11-limit-switch-b82232b691",
+      "recordPath": "equipment/mfr-steute-em97w11-limit-switch-b82232b691.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97w11-limit-switch-b82232b691.json"
+    },
+    {
+      "id": "mfr-steute-em97wh11-limit-switch-bd6abc5955",
+      "name": "EM97WH11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97wh11-limit-switch-bd6abc5955",
+      "recordPath": "equipment/mfr-steute-em97wh11-limit-switch-bd6abc5955.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97wh11-limit-switch-bd6abc5955.json"
+    },
+    {
+      "id": "mfr-steute-em97whkm11-limit-switch-b46b19fca3",
+      "name": "EM97WHKM11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97whkm11-limit-switch-b46b19fca3",
+      "recordPath": "equipment/mfr-steute-em97whkm11-limit-switch-b46b19fca3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97whkm11-limit-switch-b46b19fca3.json"
+    },
+    {
+      "id": "mfr-steute-em97whkr11-limit-switch-14acd40d59",
+      "name": "EM97WHKR11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97whkr11-limit-switch-14acd40d59",
+      "recordPath": "equipment/mfr-steute-em97whkr11-limit-switch-14acd40d59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97whkr11-limit-switch-14acd40d59.json"
+    },
+    {
+      "id": "mfr-steute-em97whlm11-limit-switch-3a911ec87f",
+      "name": "EM97WHLM11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97whlm11-limit-switch-3a911ec87f",
+      "recordPath": "equipment/mfr-steute-em97whlm11-limit-switch-3a911ec87f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97whlm11-limit-switch-3a911ec87f.json"
+    },
+    {
+      "id": "mfr-steute-em97whm11-limit-switch-b31d88e90d",
+      "name": "EM97WHM11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97whm11-limit-switch-b31d88e90d",
+      "recordPath": "equipment/mfr-steute-em97whm11-limit-switch-b31d88e90d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97whm11-limit-switch-b31d88e90d.json"
+    },
+    {
+      "id": "mfr-steute-em97wph11-limit-switch-20d0733ecf",
+      "name": "EM97WPH11 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em97wph11-limit-switch-20d0733ecf",
+      "recordPath": "equipment/mfr-steute-em97wph11-limit-switch-20d0733ecf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em97wph11-limit-switch-20d0733ecf.json"
+    },
+    {
+      "id": "mfr-steute-em9812-limit-switch-926e9d31ec",
+      "name": "EM9812 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em9812-limit-switch-926e9d31ec",
+      "recordPath": "equipment/mfr-steute-em9812-limit-switch-926e9d31ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em9812-limit-switch-926e9d31ec.json"
+    },
+    {
+      "id": "mfr-steute-em981290cip69kx-limit-switch-eebd58c738",
+      "name": "EM981290CIP69KX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em981290cip69kx-limit-switch-eebd58c738",
+      "recordPath": "equipment/mfr-steute-em981290cip69kx-limit-switch-eebd58c738.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em981290cip69kx-limit-switch-eebd58c738.json"
+    },
+    {
+      "id": "mfr-steute-em98d12-limit-switch-e1a7f71254",
+      "name": "EM98D12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98d12-limit-switch-e1a7f71254",
+      "recordPath": "equipment/mfr-steute-em98d12-limit-switch-e1a7f71254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98d12-limit-switch-e1a7f71254.json"
+    },
+    {
+      "id": "mfr-steute-em98dd12-limit-switch-ea0c72119f",
+      "name": "EM98DD12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98dd12-limit-switch-ea0c72119f",
+      "recordPath": "equipment/mfr-steute-em98dd12-limit-switch-ea0c72119f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98dd12-limit-switch-ea0c72119f.json"
+    },
+    {
+      "id": "mfr-steute-em98dl12-limit-switch-8771d9e295",
+      "name": "EM98DL12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98dl12-limit-switch-8771d9e295",
+      "recordPath": "equipment/mfr-steute-em98dl12-limit-switch-8771d9e295.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98dl12-limit-switch-8771d9e295.json"
+    },
+    {
+      "id": "mfr-steute-em98ds12-limit-switch-330f78fa5a",
+      "name": "EM98DS12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98ds12-limit-switch-330f78fa5a",
+      "recordPath": "equipment/mfr-steute-em98ds12-limit-switch-330f78fa5a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98ds12-limit-switch-330f78fa5a.json"
+    },
+    {
+      "id": "mfr-steute-em98h12-limit-switch-2a89c7b37f",
+      "name": "EM98H12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98h12-limit-switch-2a89c7b37f",
+      "recordPath": "equipment/mfr-steute-em98h12-limit-switch-2a89c7b37f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98h12-limit-switch-2a89c7b37f.json"
+    },
+    {
+      "id": "mfr-steute-em98ph12-limit-switch-140573dca0",
+      "name": "EM98PH12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98ph12-limit-switch-140573dca0",
+      "recordPath": "equipment/mfr-steute-em98ph12-limit-switch-140573dca0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98ph12-limit-switch-140573dca0.json"
+    },
+    {
+      "id": "mfr-steute-em98r12-limit-switch-22f2ce97f6",
+      "name": "EM98R12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98r12-limit-switch-22f2ce97f6",
+      "recordPath": "equipment/mfr-steute-em98r12-limit-switch-22f2ce97f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98r12-limit-switch-22f2ce97f6.json"
+    },
+    {
+      "id": "mfr-steute-em98tk12-limit-switch-eba2cabb7d",
+      "name": "EM98TK12 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-em98tk12-limit-switch-eba2cabb7d",
+      "recordPath": "equipment/mfr-steute-em98tk12-limit-switch-eba2cabb7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-em98tk12-limit-switch-eba2cabb7d.json"
+    },
+    {
+      "id": "mfr-steute-es13-limit-switch-92012c763b",
+      "name": "ES13 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13-limit-switch-92012c763b",
+      "recordPath": "equipment/mfr-steute-es13-limit-switch-92012c763b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13-limit-switch-92012c763b.json"
+    },
+    {
+      "id": "mfr-steute-es13d1o1s2m-limit-switch-ec32ca31b0",
+      "name": "ES13D1O1S2M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13d1o1s2m-limit-switch-ec32ca31b0",
+      "recordPath": "equipment/mfr-steute-es13d1o1s2m-limit-switch-ec32ca31b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13d1o1s2m-limit-switch-ec32ca31b0.json"
+    },
+    {
+      "id": "mfr-steute-es13r2m-limit-switch-0f6a9a822e",
+      "name": "ES13R2M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13r2m-limit-switch-0f6a9a822e",
+      "recordPath": "equipment/mfr-steute-es13r2m-limit-switch-0f6a9a822e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13r2m-limit-switch-0f6a9a822e.json"
+    },
+    {
+      "id": "mfr-steute-es13rs2o1s5m-limit-switch-d9a0600a52",
+      "name": "ES13RS2O1S5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13rs2o1s5m-limit-switch-d9a0600a52",
+      "recordPath": "equipment/mfr-steute-es13rs2o1s5m-limit-switch-d9a0600a52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13rs2o1s5m-limit-switch-d9a0600a52.json"
+    },
+    {
+      "id": "mfr-steute-es13sb1o1s-hinge-switch-c45d5464c5",
+      "name": "ES13SB1O1S Hinge Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13sb1o1s-hinge-switch-c45d5464c5",
+      "recordPath": "equipment/mfr-steute-es13sb1o1s-hinge-switch-c45d5464c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13sb1o1s-hinge-switch-c45d5464c5.json"
+    },
+    {
+      "id": "mfr-steute-es13tl-limit-switch-ddbeb9f8a0",
+      "name": "ES13TL Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13tl-limit-switch-ddbeb9f8a0",
+      "recordPath": "equipment/mfr-steute-es13tl-limit-switch-ddbeb9f8a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13tl-limit-switch-ddbeb9f8a0.json"
+    },
+    {
+      "id": "mfr-steute-es13whk-limit-switch-45d68be0c2",
+      "name": "ES13WHK Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13whk-limit-switch-45d68be0c2",
+      "recordPath": "equipment/mfr-steute-es13whk-limit-switch-45d68be0c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13whk-limit-switch-45d68be0c2.json"
+    },
+    {
+      "id": "mfr-steute-es13wku-limit-switch-0b534ef848",
+      "name": "ES13WKU Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13wku-limit-switch-0b534ef848",
+      "recordPath": "equipment/mfr-steute-es13wku-limit-switch-0b534ef848.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13wku-limit-switch-0b534ef848.json"
+    },
+    {
+      "id": "mfr-steute-es13wph101s-limit-switch-f12ec0974f",
+      "name": "ES13WPH101S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13wph101s-limit-switch-f12ec0974f",
+      "recordPath": "equipment/mfr-steute-es13wph101s-limit-switch-f12ec0974f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13wph101s-limit-switch-f12ec0974f.json"
+    },
+    {
+      "id": "mfr-steute-es13wr-limit-switch-ee21331aa1",
+      "name": "ES13WR Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es13wr-limit-switch-ee21331aa1",
+      "recordPath": "equipment/mfr-steute-es13wr-limit-switch-ee21331aa1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es13wr-limit-switch-ee21331aa1.json"
+    },
+    {
+      "id": "mfr-steute-es141o1s5m-limit-switch-7fd2863aa3",
+      "name": "ES141O1S5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es141o1s5m-limit-switch-7fd2863aa3",
+      "recordPath": "equipment/mfr-steute-es141o1s5m-limit-switch-7fd2863aa3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es141o1s5m-limit-switch-7fd2863aa3.json"
+    },
+    {
+      "id": "mfr-steute-es14az1o15m-limit-switch-eae079ce86",
+      "name": "ES14AZ1O15M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14az1o15m-limit-switch-eae079ce86",
+      "recordPath": "equipment/mfr-steute-es14az1o15m-limit-switch-eae079ce86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14az1o15m-limit-switch-eae079ce86.json"
+    },
+    {
+      "id": "mfr-steute-es14d1o1s5m-limit-switch-ad1f3f8c06",
+      "name": "ES14D1O1S5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14d1o1s5m-limit-switch-ad1f3f8c06",
+      "recordPath": "equipment/mfr-steute-es14d1o1s5m-limit-switch-ad1f3f8c06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14d1o1s5m-limit-switch-ad1f3f8c06.json"
+    },
+    {
+      "id": "mfr-steute-es14fr1o1s2m-limit-switch-5dc60c79ec",
+      "name": "ES14FR1O1S2M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14fr1o1s2m-limit-switch-5dc60c79ec",
+      "recordPath": "equipment/mfr-steute-es14fr1o1s2m-limit-switch-5dc60c79ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14fr1o1s2m-limit-switch-5dc60c79ec.json"
+    },
+    {
+      "id": "mfr-steute-es14fr2o5m-limit-switch-e857e70962",
+      "name": "ES14FR2O5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14fr2o5m-limit-switch-e857e70962",
+      "recordPath": "equipment/mfr-steute-es14fr2o5m-limit-switch-e857e70962.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14fr2o5m-limit-switch-e857e70962.json"
+    },
+    {
+      "id": "mfr-steute-es14ku1o1s5m-limit-switch-ba28736757",
+      "name": "ES14KU1O1S5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14ku1o1s5m-limit-switch-ba28736757",
+      "recordPath": "equipment/mfr-steute-es14ku1o1s5m-limit-switch-ba28736757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14ku1o1s5m-limit-switch-ba28736757.json"
+    },
+    {
+      "id": "mfr-socomec-atysc55cip-transfer-switch-controller-dimension-connection-93f39415a4",
+      "name": "ATYSC55CIP Transfer Switch Controller Dimension Connection",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atysc55cip-transfer-switch-controller-dimension-connection-93f39415a4",
+      "recordPath": "equipment/mfr-socomec-atysc55cip-transfer-switch-controller-dimension-connection-93f39415a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atysc55cip-transfer-switch-controller-dimension-connection-93f39415a4.json"
+    },
+    {
+      "id": "mfr-steute-es14r101s5m-limit-switch-829e23029c",
+      "name": "ES14R101S5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14r101s5m-limit-switch-829e23029c",
+      "recordPath": "equipment/mfr-steute-es14r101s5m-limit-switch-829e23029c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14r101s5m-limit-switch-829e23029c.json"
+    },
+    {
+      "id": "mfr-steute-es14r2o5m-limit-switch-f9dbad4c3d",
+      "name": "ES14R2O5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14r2o5m-limit-switch-f9dbad4c3d",
+      "recordPath": "equipment/mfr-steute-es14r2o5m-limit-switch-f9dbad4c3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14r2o5m-limit-switch-f9dbad4c3d.json"
+    },
+    {
+      "id": "mfr-steute-es14rt1o1s1m-actuator-e86c748915",
+      "name": "ES14RT1O1S1M Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14rt1o1s1m-actuator-e86c748915",
+      "recordPath": "equipment/mfr-steute-es14rt1o1s1m-actuator-e86c748915.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14rt1o1s1m-actuator-e86c748915.json"
+    },
+    {
+      "id": "mfr-steute-es14tf1o1s5m-limit-switch-6c49da634f",
+      "name": "ES14TF1O1S5M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14tf1o1s5m-limit-switch-6c49da634f",
+      "recordPath": "equipment/mfr-steute-es14tf1o1s5m-limit-switch-6c49da634f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14tf1o1s5m-limit-switch-6c49da634f.json"
+    },
+    {
+      "id": "mfr-steute-es14w1o1s2m40cip66x-limit-switch-2b1c7690fa",
+      "name": "ES14W1O1S2M40CIP66X Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14w1o1s2m40cip66x-limit-switch-2b1c7690fa",
+      "recordPath": "equipment/mfr-steute-es14w1o1s2m40cip66x-limit-switch-2b1c7690fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14w1o1s2m40cip66x-limit-switch-2b1c7690fa.json"
+    },
+    {
+      "id": "mfr-steute-es14wr1o1s2m-limit-switch-367703fac1",
+      "name": "ES14WR1O1S2M Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14wr1o1s2m-limit-switch-367703fac1",
+      "recordPath": "equipment/mfr-steute-es14wr1o1s2m-limit-switch-367703fac1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14wr1o1s2m-limit-switch-367703fac1.json"
+    },
+    {
+      "id": "mfr-steute-es14wr1o1s2m40cip66x-limit-switch-91c9e7d33e",
+      "name": "ES14WR1O1S2M40CIP66X Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es14wr1o1s2m40cip66x-limit-switch-91c9e7d33e",
+      "recordPath": "equipment/mfr-steute-es14wr1o1s2m40cip66x-limit-switch-91c9e7d33e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es14wr1o1s2m40cip66x-limit-switch-91c9e7d33e.json"
+    },
+    {
+      "id": "mfr-steute-es41-limit-switch-7b97f4f0dc",
+      "name": "ES41 Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41-limit-switch-7b97f4f0dc",
+      "recordPath": "equipment/mfr-steute-es41-limit-switch-7b97f4f0dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41-limit-switch-7b97f4f0dc.json"
+    },
+    {
+      "id": "mfr-steute-es411o1s180cx-limit-switch-772a4b5059",
+      "name": "ES411O1S180CX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es411o1s180cx-limit-switch-772a4b5059",
+      "recordPath": "equipment/mfr-steute-es411o1s180cx-limit-switch-772a4b5059.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es411o1s180cx-limit-switch-772a4b5059.json"
+    },
+    {
+      "id": "mfr-steute-es41d1o1s-limit-switch-22dc55a142",
+      "name": "ES41D1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41d1o1s-limit-switch-22dc55a142",
+      "recordPath": "equipment/mfr-steute-es41d1o1s-limit-switch-22dc55a142.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41d1o1s-limit-switch-22dc55a142.json"
+    },
+    {
+      "id": "mfr-steute-es41d1o1s180cx-limit-switch-b74b16561d",
+      "name": "ES41D1O1S180CX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41d1o1s180cx-limit-switch-b74b16561d",
+      "recordPath": "equipment/mfr-steute-es41d1o1s180cx-limit-switch-b74b16561d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41d1o1s180cx-limit-switch-b74b16561d.json"
+    },
+    {
+      "id": "mfr-steute-es41db901o1s-slackwire-switch-66e95a5c92",
+      "name": "ES41DB901O1S Slackwire Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41db901o1s-slackwire-switch-66e95a5c92",
+      "recordPath": "equipment/mfr-steute-es41db901o1s-slackwire-switch-66e95a5c92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41db901o1s-slackwire-switch-66e95a5c92.json"
+    },
+    {
+      "id": "mfr-steute-es41dl1o1s180cx-limit-switch-639c91d26e",
+      "name": "ES41DL1O1S180CX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41dl1o1s180cx-limit-switch-639c91d26e",
+      "recordPath": "equipment/mfr-steute-es41dl1o1s180cx-limit-switch-639c91d26e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41dl1o1s180cx-limit-switch-639c91d26e.json"
+    },
+    {
+      "id": "mfr-steute-es41ds1o1s-limit-switch-6ffad5f8d1",
+      "name": "ES41DS1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41ds1o1s-limit-switch-6ffad5f8d1",
+      "recordPath": "equipment/mfr-steute-es41ds1o1s-limit-switch-6ffad5f8d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41ds1o1s-limit-switch-6ffad5f8d1.json"
+    },
+    {
+      "id": "mfr-steute-es41h901o1s180cx-limit-switch-6afc55b761",
+      "name": "ES41H901O1S180CX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41h901o1s180cx-limit-switch-6afc55b761",
+      "recordPath": "equipment/mfr-steute-es41h901o1s180cx-limit-switch-6afc55b761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41h901o1s180cx-limit-switch-6afc55b761.json"
+    },
+    {
+      "id": "mfr-steute-es41r1o1s-limit-switch-30a5d46055",
+      "name": "ES41R1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41r1o1s-limit-switch-30a5d46055",
+      "recordPath": "equipment/mfr-steute-es41r1o1s-limit-switch-30a5d46055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41r1o1s-limit-switch-30a5d46055.json"
+    },
+    {
+      "id": "mfr-steute-es41r1o1s180cx-limit-switch-e52cbfb5ee",
+      "name": "ES41R1O1S180CX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41r1o1s180cx-limit-switch-e52cbfb5ee",
+      "recordPath": "equipment/mfr-steute-es41r1o1s180cx-limit-switch-e52cbfb5ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41r1o1s180cx-limit-switch-e52cbfb5ee.json"
+    },
+    {
+      "id": "mfr-steute-es41z101s-cable-pull-wire-switches-1a37745c6f",
+      "name": "ES41Z101S Cable Pull Wire Switches",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es41z101s-cable-pull-wire-switches-1a37745c6f",
+      "recordPath": "equipment/mfr-steute-es41z101s-cable-pull-wire-switches-1a37745c6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es41z101s-cable-pull-wire-switches-1a37745c6f.json"
+    },
+    {
+      "id": "mfr-steute-es51r1o1s-limit-switch-86553a859c",
+      "name": "ES51R1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es51r1o1s-limit-switch-86553a859c",
+      "recordPath": "equipment/mfr-steute-es51r1o1s-limit-switch-86553a859c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es51r1o1s-limit-switch-86553a859c.json"
+    },
+    {
+      "id": "mfr-steute-es51w1o1s-limit-switch-85b7b831e8",
+      "name": "ES51W1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es51w1o1s-limit-switch-85b7b831e8",
+      "recordPath": "equipment/mfr-steute-es51w1o1s-limit-switch-85b7b831e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es51w1o1s-limit-switch-85b7b831e8.json"
+    },
+    {
+      "id": "mfr-steute-es51wh1o1s-limit-switch-f7301ff2d7",
+      "name": "ES51WH1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es51wh1o1s-limit-switch-f7301ff2d7",
+      "recordPath": "equipment/mfr-steute-es51wh1o1s-limit-switch-f7301ff2d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es51wh1o1s-limit-switch-f7301ff2d7.json"
+    },
+    {
+      "id": "mfr-steute-es51wr1o1s-limit-switch-d412e7d44e",
+      "name": "ES51WR1O1S Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es51wr1o1s-limit-switch-d412e7d44e",
+      "recordPath": "equipment/mfr-steute-es51wr1o1s-limit-switch-d412e7d44e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es51wr1o1s-limit-switch-d412e7d44e.json"
+    },
+    {
+      "id": "mfr-steute-es611o1s-cable-pull-wire-switches-9ce37caf39",
+      "name": "ES611O1S Cable Pull Wire Switches",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es611o1s-cable-pull-wire-switches-9ce37caf39",
+      "recordPath": "equipment/mfr-steute-es611o1s-cable-pull-wire-switches-9ce37caf39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es611o1s-cable-pull-wire-switches-9ce37caf39.json"
+    },
+    {
+      "id": "mfr-steute-es61sr1o1s-belt-alignment-switch-3418685075",
+      "name": "ES61SR1O1S Belt Alignment Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es61sr1o1s-belt-alignment-switch-3418685075",
+      "recordPath": "equipment/mfr-steute-es61sr1o1s-belt-alignment-switch-3418685075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es61sr1o1s-belt-alignment-switch-3418685075.json"
+    },
+    {
+      "id": "mfr-steute-es61ws1o1s-pullwire-switch-e5738aac46",
+      "name": "ES61WS1O1S Pullwire Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es61ws1o1s-pullwire-switch-e5738aac46",
+      "recordPath": "equipment/mfr-steute-es61ws1o1s-pullwire-switch-e5738aac46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es61ws1o1s-pullwire-switch-e5738aac46.json"
+    },
+    {
+      "id": "mfr-steute-es98d1190cip69kx-limit-switch-07920ba6e4",
+      "name": "ES98D1190CIP69KX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es98d1190cip69kx-limit-switch-07920ba6e4",
+      "recordPath": "equipment/mfr-steute-es98d1190cip69kx-limit-switch-07920ba6e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es98d1190cip69kx-limit-switch-07920ba6e4.json"
+    },
+    {
+      "id": "mfr-steute-es98ds11si-limit-switch-9e42cb4b35",
+      "name": "ES98DS11SI Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es98ds11si-limit-switch-9e42cb4b35",
+      "recordPath": "equipment/mfr-steute-es98ds11si-limit-switch-9e42cb4b35.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es98ds11si-limit-switch-9e42cb4b35.json"
+    },
+    {
+      "id": "mfr-steute-es98r1190cip69kx-limit-switch-1e27fe6e2c",
+      "name": "ES98R1190CIP69KX Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-es98r1190cip69kx-limit-switch-1e27fe6e2c",
+      "recordPath": "equipment/mfr-steute-es98r1190cip69kx-limit-switch-1e27fe6e2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-es98r1190cip69kx-limit-switch-1e27fe6e2c.json"
+    },
+    {
+      "id": "mfr-steute-esm97dspact-spare-actuator-67e87a8b8b",
+      "name": "ESM97DSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97dspact-spare-actuator-67e87a8b8b",
+      "recordPath": "equipment/mfr-steute-esm97dspact-spare-actuator-67e87a8b8b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97dspact-spare-actuator-67e87a8b8b.json"
+    },
+    {
+      "id": "mfr-steute-esm97dsspact-spare-actuator-780cefdfc6",
+      "name": "ESM97DSSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97dsspact-spare-actuator-780cefdfc6",
+      "recordPath": "equipment/mfr-steute-esm97dsspact-spare-actuator-780cefdfc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97dsspact-spare-actuator-780cefdfc6.json"
+    },
+    {
+      "id": "mfr-steute-esm97rlspact-spare-actuator-a48e06606b",
+      "name": "ESM97RLSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97rlspact-spare-actuator-a48e06606b",
+      "recordPath": "equipment/mfr-steute-esm97rlspact-spare-actuator-a48e06606b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97rlspact-spare-actuator-a48e06606b.json"
+    },
+    {
+      "id": "mfr-steute-esm97rspact-spare-actuator-c3756ba465",
+      "name": "ESM97RSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97rspact-spare-actuator-c3756ba465",
+      "recordPath": "equipment/mfr-steute-esm97rspact-spare-actuator-c3756ba465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97rspact-spare-actuator-c3756ba465.json"
+    },
+    {
+      "id": "mfr-steute-esm97tkspact-spare-actuator-bee91ab4c6",
+      "name": "ESM97TKSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97tkspact-spare-actuator-bee91ab4c6",
+      "recordPath": "equipment/mfr-steute-esm97tkspact-spare-actuator-bee91ab4c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97tkspact-spare-actuator-bee91ab4c6.json"
+    },
+    {
+      "id": "mfr-steute-esm97whkmspact-spare-actuator-81c54f75d9",
+      "name": "ESM97WHKMSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97whkmspact-spare-actuator-81c54f75d9",
+      "recordPath": "equipment/mfr-steute-esm97whkmspact-spare-actuator-81c54f75d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97whkmspact-spare-actuator-81c54f75d9.json"
+    },
+    {
+      "id": "mfr-steute-esm97whlmspact-spare-actuator-77d2bd5cec",
+      "name": "ESM97WHLMSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97whlmspact-spare-actuator-77d2bd5cec",
+      "recordPath": "equipment/mfr-steute-esm97whlmspact-spare-actuator-77d2bd5cec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97whlmspact-spare-actuator-77d2bd5cec.json"
+    },
+    {
+      "id": "mfr-steute-esm97whmspact-spare-actuator-b4669bc438",
+      "name": "ESM97WHMSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97whmspact-spare-actuator-b4669bc438",
+      "recordPath": "equipment/mfr-steute-esm97whmspact-spare-actuator-b4669bc438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97whmspact-spare-actuator-b4669bc438.json"
+    },
+    {
+      "id": "mfr-steute-esm97whspact-spare-actuator-ecc80cf4e1",
+      "name": "ESM97WHSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97whspact-spare-actuator-ecc80cf4e1",
+      "recordPath": "equipment/mfr-steute-esm97whspact-spare-actuator-ecc80cf4e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97whspact-spare-actuator-ecc80cf4e1.json"
+    },
+    {
+      "id": "mfr-steute-esm97wphspact-spare-actuator-b2aa685e0f",
+      "name": "ESM97WPHSPACT Spare Actuator",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-esm97wphspact-spare-actuator-b2aa685e0f",
+      "recordPath": "equipment/mfr-steute-esm97wphspact-spare-actuator-b2aa685e0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-esm97wphspact-spare-actuator-b2aa685e0f.json"
+    },
+    {
+      "id": "mfr-steute-exbf801pztna1o1s60c-66b02a1944",
+      "name": "EXBF801PZTNA1O1S60C",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exbf801pztna1o1s60c-66b02a1944",
+      "recordPath": "equipment/mfr-steute-exbf801pztna1o1s60c-66b02a1944.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exbf801pztna1o1s60c-66b02a1944.json"
+    },
+    {
+      "id": "mfr-steute-exrcsi562oled5m-hae-safety-switch-634cae559d",
+      "name": "EXRCSI562OLED5M HAE Safety Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exrcsi562oled5m-hae-safety-switch-634cae559d",
+      "recordPath": "equipment/mfr-steute-exrcsi562oled5m-hae-safety-switch-634cae559d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exrcsi562oled5m-hae-safety-switch-634cae559d.json"
+    },
+    {
+      "id": "mfr-steute-exrf96dssw915-hae-wireless-limit-switch-2c0daa5088",
+      "name": "EXRF96DSSW915 HAE Wireless Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exrf96dssw915-hae-wireless-limit-switch-2c0daa5088",
+      "recordPath": "equipment/mfr-steute-exrf96dssw915-hae-wireless-limit-switch-2c0daa5088.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exrf96dssw915-hae-wireless-limit-switch-2c0daa5088.json"
+    },
+    {
+      "id": "mfr-steute-exrf96dsw915-hae-wireless-limit-switch-0a40cef2b5",
+      "name": "EXRF96DSW915 HAE Wireless Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exrf96dsw915-hae-wireless-limit-switch-0a40cef2b5",
+      "recordPath": "equipment/mfr-steute-exrf96dsw915-hae-wireless-limit-switch-0a40cef2b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exrf96dsw915-hae-wireless-limit-switch-0a40cef2b5.json"
+    },
+    {
+      "id": "mfr-steute-exrf96rlsw915-hae-wireless-limit-switch-31dc60693d",
+      "name": "EXRF96RLSW915 HAE Wireless Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exrf96rlsw915-hae-wireless-limit-switch-31dc60693d",
+      "recordPath": "equipment/mfr-steute-exrf96rlsw915-hae-wireless-limit-switch-31dc60693d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exrf96rlsw915-hae-wireless-limit-switch-31dc60693d.json"
+    },
+    {
+      "id": "mfr-steute-exrf96stsw915-hae-wireless-universal-transmitter-047c6c0e16",
+      "name": "EXRF96STSW915 HAE Wireless Universal Transmitter",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exrf96stsw915-hae-wireless-universal-transmitter-047c6c0e16",
+      "recordPath": "equipment/mfr-steute-exrf96stsw915-hae-wireless-universal-transmitter-047c6c0e16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exrf96stsw915-hae-wireless-universal-transmitter-047c6c0e16.json"
+    },
+    {
+      "id": "mfr-steute-exrf96whsw915-hae-wireless-limit-switch-46ee3f8ace",
+      "name": "EXRF96WHSW915 HAE Wireless Limit Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-exrf96whsw915-hae-wireless-limit-switch-46ee3f8ace",
+      "recordPath": "equipment/mfr-steute-exrf96whsw915-hae-wireless-limit-switch-46ee3f8ace.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-exrf96whsw915-hae-wireless-limit-switch-46ee3f8ace.json"
+    }
+  ]
+}

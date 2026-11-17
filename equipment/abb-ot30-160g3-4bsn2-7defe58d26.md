@@ -26,6 +26,7 @@ The supplied configuration is “OT30...160G3-4BSN2”. Keep those frame, mounti
 - Manufacturer drawing: OT30\_160G3\_4BSN2.STP
 - Manufacturer reference: OT30\_160G3\_4BSN2.STP
 - Document revision: B
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

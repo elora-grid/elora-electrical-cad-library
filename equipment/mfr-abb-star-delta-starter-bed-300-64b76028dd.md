@@ -1,0 +1,123 @@
+# ABB — Star-Delta Starter, BED 300
+
+ABB Star-Delta Starter, BED 300: original DXF / PDF for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-star-delta-starter-bed-300-64b76028dd) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-star-delta-starter-bed-300-64b76028dd.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-star-delta-starter-bed-300-64b76028dd.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named Star-Delta Starter, BED 300.
+
+## Equipment and file summary
+
+- Equipment / resource: Star-Delta Starter, BED 300
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: Star-Delta Starter, BED 300
+- Source document: 53540919-33.DXF
+- Source document: 53540919-33.PDF
+- Listed file formats: DXF, PDF
+- Listed files: 2
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: Star-Delta Starter, BED 300 ([source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch))
+- Source document: 53540919-33.DXF ([source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch&DocumentRevisionId=-))
+- Source document: 53540919-33.PDF ([source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.PDF&LanguageCode=en&DocumentPartId=2&Action=Launch&DocumentRevisionId=-))
+
+## What the equipment does
+
+A star-delta starter starts a suitable motor with one winding connection and then changes to its running connection. This reduces starting demand under the conditions for which the motor and starter are designed.
+
+Use 53540919-33.DXF.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 53540919-33.DXF.dxf.
+
+Use 53540919-33.DXF.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 53540919-33.DXF.dxf. Use 53540919-33.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB Star-Delta Starter, BED 300 and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Star-Delta Starter, BED 300?
+
+2 inspected originals for ABB Star-Delta Starter, BED 300: 53540919-33.DXF.dxf (DXF); 53540919-33.PDF.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch)
+
+## Choosing a file
+
+Use 53540919-33.DXF.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 53540919-33.DXF.dxf. Use 53540919-33.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB Star-Delta Starter, BED 300: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-star-delta-starter-bed-300-64b76028dd/abb-b22324af24dab6e065b3?asset=267bf196ed414398e66ec63bae350509b28c3bce2fd31cf49dcc372c667e66be)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-star-delta-starter-bed-300-64b76028dd). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 53540919-33.DXF.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-star-delta-starter-bed-300-64b76028dd/abb-b22324af24dab6e065b3)
+- Redistribution: unknown
+- Original SHA-256: 267bf196ed414398e66ec63bae350509b28c3bce2fd31cf49dcc372c667e66be
+- Original bytes: 2124891
+- Revision: Not recorded
+- Retrieved: 2026-11-11T10:12:17.591520+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.DXF&LanguageCode=en&DocumentPartId=2&Action=Launch&DocumentRevisionId=-)
+- Delivery: source-bundle; ZIP; 250953 bytes
+- Delivery SHA-256: a8c12505aa33f2cab079ae534a8b2277c1a55e85656b668ee0e109b83d8fd144
+
+### 53540919-33.PDF.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.PDF&LanguageCode=en&DocumentPartId=2&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-star-delta-starter-bed-300-64b76028dd/abb-a1797d18c77494dcbe40)
+- Redistribution: unknown
+- Original SHA-256: 2f0d9f8da14b5d6878ef62944ad1cceac7bdd91a25241c912e2d87a161d05743
+- Original bytes: 58920
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:34:31.893745+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.PDF&LanguageCode=en&DocumentPartId=2&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=53540919-33.PDF&LanguageCode=en&DocumentPartId=2&Action=Launch&DocumentRevisionId=-)
+- Delivery: original; PDF; 58920 bytes
+- Delivery SHA-256: 2f0d9f8da14b5d6878ef62944ad1cceac7bdd91a25241c912e2d87a161d05743
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

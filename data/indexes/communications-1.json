@@ -67,7 +67,8 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STP"
+        "STP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-exccon02",
       "recordPath": "equipment/europe-lovato-exccon02.md",
@@ -952,6 +953,1339 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d",
       "recordPath": "equipment/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-uflo-g4-opt1-i-o-2104395-board-comm2-to-mds-transnet-900-radio-rs-232-2c03ee9f7d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-10-ethernet-jumper-for-modules-lan-powerlogic-t300-8948aab531",
+      "name": "10 ethernet jumper for modules LAN PowerLogic T300",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-10-ethernet-jumper-for-modules-lan-powerlogic-t300-8948aab531",
+      "recordPath": "equipment/mfr-schneider-electric-10-ethernet-jumper-for-modules-lan-powerlogic-t300-8948aab531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-10-ethernet-jumper-for-modules-lan-powerlogic-t300-8948aab531.json"
+    },
+    {
+      "id": "mfr-socomec-diris-a-40-rs485-ethernet-041c0c2748",
+      "name": "Diris A 40 RS485 Ethernet",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-diris-a-40-rs485-ethernet-041c0c2748",
+      "recordPath": "equipment/mfr-socomec-diris-a-40-rs485-ethernet-041c0c2748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-diris-a-40-rs485-ethernet-041c0c2748.json"
+    },
+    {
+      "id": "mfr-schneider-electric-controller-m221-24io-ethernet-compact-3da2dc4462",
+      "name": "CONTROLLER M221-24IO Ethernet Compact",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-controller-m221-24io-ethernet-compact-3da2dc4462",
+      "recordPath": "equipment/mfr-schneider-electric-controller-m221-24io-ethernet-compact-3da2dc4462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-controller-m221-24io-ethernet-compact-3da2dc4462.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1585-ethernet-media-accessory-592bf176b7",
+      "name": "1585 Ethernet Media Accessory",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1585-ethernet-media-accessory-592bf176b7",
+      "recordPath": "equipment/mfr-allen-bradley-1585-ethernet-media-accessory-592bf176b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1585-ethernet-media-accessory-592bf176b7.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-etap-8d3975da8c",
+      "name": "1783 ETAP",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-etap-8d3975da8c",
+      "recordPath": "equipment/mfr-allen-bradley-1783-etap-8d3975da8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-etap-8d3975da8c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-etap-1t2sfp-ebaa8a9388",
+      "name": "1783 ETAP 1T2SFP",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-etap-1t2sfp-ebaa8a9388",
+      "recordPath": "equipment/mfr-allen-bradley-1783-etap-1t2sfp-ebaa8a9388.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-etap-1t2sfp-ebaa8a9388.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-etap-3t-be44423953",
+      "name": "1783 ETAP 3T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-etap-3t-be44423953",
+      "recordPath": "equipment/mfr-allen-bradley-1783-etap-3t-be44423953.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-etap-3t-be44423953.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-lms5-35fd779a8f",
+      "name": "1783 LMS5",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-lms5-35fd779a8f",
+      "recordPath": "equipment/mfr-allen-bradley-1783-lms5-35fd779a8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-lms5-35fd779a8f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10be-0f56237cb1",
+      "name": "1783 MMS10BE",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10be-0f56237cb1",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10be-0f56237cb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10be-0f56237cb1.json"
+    },
+    {
+      "id": "mfr-allen-bradley-4300-2-port-wired-router-6ce8d7de74",
+      "name": "4300 2 PORT WIRED ROUTER",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-4300-2-port-wired-router-6ce8d7de74",
+      "recordPath": "equipment/mfr-allen-bradley-4300-2-port-wired-router-6ce8d7de74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-4300-2-port-wired-router-6ce8d7de74.json"
+    },
+    {
+      "id": "mfr-allen-bradley-4300-wireless-router-e756e927db",
+      "name": "4300 WIRELESS ROUTER",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-4300-wireless-router-e756e927db",
+      "recordPath": "equipment/mfr-allen-bradley-4300-wireless-router-e756e927db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-4300-wireless-router-e756e927db.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3570-enclosure-for-din-ethernet-meter-metseem35x-13c948e504",
+      "name": "EM3570 Enclosure for Din Ethernet meter METSEEM35x",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3570-enclosure-for-din-ethernet-meter-metseem35x-13c948e504",
+      "recordPath": "equipment/mfr-schneider-electric-em3570-enclosure-for-din-ethernet-meter-metseem35x-13c948e504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3570-enclosure-for-din-ethernet-meter-metseem35x-13c948e504.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ecostruxure-panel-server-entry-level-gateway-110-277v-ac-dc-9e4dd25044",
+      "name": "EcoStruxure Panel Server - entry level gateway 110-277V AC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ecostruxure-panel-server-entry-level-gateway-110-277v-ac-dc-9e4dd25044",
+      "recordPath": "equipment/mfr-schneider-electric-ecostruxure-panel-server-entry-level-gateway-110-277v-ac-dc-9e4dd25044.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ecostruxure-panel-server-entry-level-gateway-110-277v-ac-dc-9e4dd25044.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-110-277-vac-dc-3be527e8a0",
+      "name": "EcoStruxure Panel Server - universal wireless, concentrator modbus gateway 110-277 VAC/DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-110-277-vac-dc-3be527e8a0",
+      "recordPath": "equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-110-277-vac-dc-3be527e8a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-110-277-vac-dc-3be527e8a0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-24-vdc-0984891060",
+      "name": "EcoStruxure Panel Server - universal wireless, concentrator modbus gateway 24 VDC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-24-vdc-0984891060",
+      "recordPath": "equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-24-vdc-0984891060.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-24-vdc-0984891060.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-poe-5ea06b1ae3",
+      "name": "EcoStruxure Panel Server - universal wireless, concentrator modbus gateway POE",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-poe-5ea06b1ae3",
+      "recordPath": "equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-poe-5ea06b1ae3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ecostruxure-panel-server-universal-wireless-concentrator-modbus-gateway-poe-5ea06b1ae3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600lwd-9448b3ad01",
+      "name": "EcoStruxure Panel Server - universal, concentrator modbus gateway 24 VDC - PAS600LWD",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600lwd-9448b3ad01",
+      "recordPath": "equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600lwd-9448b3ad01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600lwd-9448b3ad01.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600pwd-7b8b14fa57",
+      "name": "EcoStruxure Panel Server - universal, concentrator modbus gateway 24 VDC - PAS600PWD",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600pwd-7b8b14fa57",
+      "recordPath": "equipment/mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600pwd-7b8b14fa57.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ecostruxure-panel-server-universal-concentrator-modbus-gateway-24-vdc-pas600pwd-7b8b14fa57.json"
+    },
+    {
+      "id": "mfr-schneider-electric-electro-relay-ethernet-dc-4ec1cacee1",
+      "name": "Electro relay EtherNet DC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-electro-relay-ethernet-dc-4ec1cacee1",
+      "recordPath": "equipment/mfr-schneider-electric-electro-relay-ethernet-dc-4ec1cacee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-electro-relay-ethernet-dc-4ec1cacee1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-enerlin-x-if-ife-ethernet-com-modbus-tcp-ip-2dfb9b61ab",
+      "name": "Enerlin'X IF - IFE-Ethernet com Modbus TCP/IP",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-enerlin-x-if-ife-ethernet-com-modbus-tcp-ip-2dfb9b61ab",
+      "recordPath": "equipment/mfr-schneider-electric-enerlin-x-if-ife-ethernet-com-modbus-tcp-ip-2dfb9b61ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-enerlin-x-if-ife-ethernet-com-modbus-tcp-ip-2dfb9b61ab.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ethernet-to-serial-line-gateway-1-port-bc3b25b277",
+      "name": "Ethernet to serial line gateway, 1-port",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ethernet-to-serial-line-gateway-1-port-bc3b25b277",
+      "recordPath": "equipment/mfr-schneider-electric-ethernet-to-serial-line-gateway-1-port-bc3b25b277.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ethernet-to-serial-line-gateway-1-port-bc3b25b277.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ethernet-touch-panel-c-bus-solis-c-10-inch-black-aluminium-2060e0c71f",
+      "name": "Ethernet touch panel, C-BUS Solis™ C, 10 Inch, black aluminium",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ethernet-touch-panel-c-bus-solis-c-10-inch-black-aluminium-2060e0c71f",
+      "recordPath": "equipment/mfr-schneider-electric-ethernet-touch-panel-c-bus-solis-c-10-inch-black-aluminium-2060e0c71f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ethernet-touch-panel-c-bus-solis-c-10-inch-black-aluminium-2060e0c71f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-fiber-ethernet-option-module-31af3a1c98",
+      "name": "Fiber-Ethernet Option Module",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-fiber-ethernet-option-module-31af3a1c98",
+      "recordPath": "equipment/mfr-schneider-electric-fiber-ethernet-option-module-31af3a1c98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-fiber-ethernet-option-module-31af3a1c98.json"
+    },
+    {
+      "id": "mfr-schneider-electric-gprs-modem-1af9ea9f1b",
+      "name": "GPRS Modem",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-gprs-modem-1af9ea9f1b",
+      "recordPath": "equipment/mfr-schneider-electric-gprs-modem-1af9ea9f1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-gprs-modem-1af9ea9f1b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-gprs-modem-gprs-modem-with-sim-card-included-0e1b0ab108",
+      "name": "GPRS Modem, GPRS Modem with SIM card included",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-gprs-modem-gprs-modem-with-sim-card-included-0e1b0ab108",
+      "recordPath": "equipment/mfr-schneider-electric-gprs-modem-gprs-modem-with-sim-card-included-0e1b0ab108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-gprs-modem-gprs-modem-with-sim-card-included-0e1b0ab108.json"
+    },
+    {
+      "id": "mfr-schneider-electric-in-room-door-lock-gateway-3d-1e4ebad73f",
+      "name": "In-Room Door Lock Gateway 3D",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-in-room-door-lock-gateway-3d-1e4ebad73f",
+      "recordPath": "equipment/mfr-schneider-electric-in-room-door-lock-gateway-3d-1e4ebad73f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-in-room-door-lock-gateway-3d-1e4ebad73f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-interface-modules-modicon-otb-with-integrated-i-o-ethernet-modbus-tcp-73997d2daa",
+      "name": "Interface modules Modicon OTB with integrated I/O - Ethernet Modbus/TCP",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-interface-modules-modicon-otb-with-integrated-i-o-ethernet-modbus-tcp-73997d2daa",
+      "recordPath": "equipment/mfr-schneider-electric-interface-modules-modicon-otb-with-integrated-i-o-ethernet-modbus-tcp-73997d2daa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-interface-modules-modicon-otb-with-integrated-i-o-ethernet-modbus-tcp-73997d2daa.json"
+    },
+    {
+      "id": "mfr-schneider-electric-masterpact-mtz-eife-embedded-ethernet-module-with-accessories-kit-for-masterpact-mtz2-65706420ed",
+      "name": "Masterpact MTZ - EIFE Embedded ethernet module with accessories kit for MASTERPACT MTZ2/3 Drawout",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-masterpact-mtz-eife-embedded-ethernet-module-with-accessories-kit-for-masterpact-mtz2-65706420ed",
+      "recordPath": "equipment/mfr-schneider-electric-masterpact-mtz-eife-embedded-ethernet-module-with-accessories-kit-for-masterpact-mtz2-65706420ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-masterpact-mtz-eife-embedded-ethernet-module-with-accessories-kit-for-masterpact-mtz2-65706420ed.json"
+    },
+    {
+      "id": "mfr-schneider-electric-modicon-m172-performance-blind-28-i-os-ethernet-modbus-473cf912f5",
+      "name": "Modicon M172 Performance Blind 28 I/Os, Ethernet, Modbus",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modicon-m172-performance-blind-28-i-os-ethernet-modbus-473cf912f5",
+      "recordPath": "equipment/mfr-schneider-electric-modicon-m172-performance-blind-28-i-os-ethernet-modbus-473cf912f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modicon-m172-performance-blind-28-i-os-ethernet-modbus-473cf912f5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-modicon-m172-performance-blind-42-i-os-ethernet-modbus-d8e2923845",
+      "name": "Modicon M172 Performance Blind 42 I/Os, Ethernet, Modbus",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modicon-m172-performance-blind-42-i-os-ethernet-modbus-d8e2923845",
+      "recordPath": "equipment/mfr-schneider-electric-modicon-m172-performance-blind-42-i-os-ethernet-modbus-d8e2923845.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modicon-m172-performance-blind-42-i-os-ethernet-modbus-d8e2923845.json"
+    },
+    {
+      "id": "mfr-schneider-electric-modicon-m172-performance-display-28-i-os-ethernet-modbus-cfaa80b2e3",
+      "name": "Modicon M172 Performance Display 28 I/Os, Ethernet, Modbus",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modicon-m172-performance-display-28-i-os-ethernet-modbus-cfaa80b2e3",
+      "recordPath": "equipment/mfr-schneider-electric-modicon-m172-performance-display-28-i-os-ethernet-modbus-cfaa80b2e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modicon-m172-performance-display-28-i-os-ethernet-modbus-cfaa80b2e3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-modicon-m172-performance-display-42-i-os-ethernet-modbus-90fd5466d7",
+      "name": "Modicon M172 Performance Display 42 I/Os, Ethernet, Modbus",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modicon-m172-performance-display-42-i-os-ethernet-modbus-90fd5466d7",
+      "recordPath": "equipment/mfr-schneider-electric-modicon-m172-performance-display-42-i-os-ethernet-modbus-90fd5466d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modicon-m172-performance-display-42-i-os-ethernet-modbus-90fd5466d7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-network-option-ethernet-m580-network-option-switch-0965df94e2",
+      "name": "Network Option Ethernet M580 / Network Option Switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-network-option-ethernet-m580-network-option-switch-0965df94e2",
+      "recordPath": "equipment/mfr-schneider-electric-network-option-ethernet-m580-network-option-switch-0965df94e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-network-option-ethernet-m580-network-option-switch-0965df94e2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5320-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-7bd4069d52",
+      "name": "PM5320 Meter, ethernet, up to 31st H, 256K 2DI/2DO 35 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5320-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-7bd4069d52",
+      "recordPath": "equipment/mfr-schneider-electric-pm5320-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-7bd4069d52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5320-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-7bd4069d52.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5320r-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-rj45-lvct-882dfa1656",
+      "name": "PM5320R Meter, ethernet, up to 31st H, 256K 2DI/2DO 35 alarms, RJ45 LVCT",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5320r-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-rj45-lvct-882dfa1656",
+      "recordPath": "equipment/mfr-schneider-electric-pm5320r-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-rj45-lvct-882dfa1656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5320r-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-rj45-lvct-882dfa1656.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-3d82355741",
+      "name": "PM5340 Meter, ethernet, up to 31st H, 256K 2DI/2DO 35 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-3d82355741",
+      "recordPath": "equipment/mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-3d82355741.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-3d82355741.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5341-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-mid-7be5ff0570",
+      "name": "PM5341 Meter, ethernet, up to 31st H, 256K 2DI/2DO 35 alarms, MID",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5341-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-mid-7be5ff0570",
+      "recordPath": "equipment/mfr-schneider-electric-pm5341-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-mid-7be5ff0570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5341-meter-ethernet-up-to-31st-h-256k-2di-2do-35-alarms-mid-7be5ff0570.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5560-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-8f679cb641",
+      "name": "PM5560 Meter, 2 ethernet, up to 63th H, 1,1M 4DI/2DO 52 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5560-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-8f679cb641",
+      "recordPath": "equipment/mfr-schneider-electric-pm5560-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-8f679cb641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5560-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-8f679cb641.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-lock-66c704a769",
+      "name": "PM5562 Meter, 2 ethernet, up to 63th H, 1,1M 4DI/2DO 52 alarms, RMICAN lock",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-lock-66c704a769",
+      "recordPath": "equipment/mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-lock-66c704a769.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-lock-66c704a769.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-seal-ae7fafa431",
+      "name": "PM5562 Meter, 2 ethernet, up to 63th H, 1,1M 4DI/2DO 52 alarms, RMICAN seal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-seal-ae7fafa431",
+      "recordPath": "equipment/mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-seal-ae7fafa431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5562-meter-2-ethernet-up-to-63th-h-1-1m-4di-2do-52-alarms-rmican-seal-ae7fafa431.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5570-meter-2-ethernet-up-to-63th-h-1-1m-2di-2ai-2do-52-alarms-c42a6d6d2d",
+      "name": "PM5570 Meter, 2 ethernet, up to 63th H, 1,1M 2DI/2AI/2DO 52 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5570-meter-2-ethernet-up-to-63th-h-1-1m-2di-2ai-2do-52-alarms-c42a6d6d2d",
+      "recordPath": "equipment/mfr-schneider-electric-pm5570-meter-2-ethernet-up-to-63th-h-1-1m-2di-2ai-2do-52-alarms-c42a6d6d2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5570-meter-2-ethernet-up-to-63th-h-1-1m-2di-2ai-2do-52-alarms-c42a6d6d2d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5650-meter-2-ethernet-up-to-63th-h-1-1m-waveform-4di-2do-52-alarms-cbadbd890c",
+      "name": "PM5650 Meter, 2 ethernet, up to 63th H, 1,1M, waveform, 4DI/2DO 52 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5650-meter-2-ethernet-up-to-63th-h-1-1m-waveform-4di-2do-52-alarms-cbadbd890c",
+      "recordPath": "equipment/mfr-schneider-electric-pm5650-meter-2-ethernet-up-to-63th-h-1-1m-waveform-4di-2do-52-alarms-cbadbd890c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5650-meter-2-ethernet-up-to-63th-h-1-1m-waveform-4di-2do-52-alarms-cbadbd890c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5660-meter-2-ethernet-up-to-63th-h-1-1m-rcm-4di-2do-52-alarms-6b34c961d5",
+      "name": "PM5660 Meter, 2 ethernet, up to 63th H, 1,1M, RCM, 4DI/2DO 52 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5660-meter-2-ethernet-up-to-63th-h-1-1m-rcm-4di-2do-52-alarms-6b34c961d5",
+      "recordPath": "equipment/mfr-schneider-electric-pm5660-meter-2-ethernet-up-to-63th-h-1-1m-rcm-4di-2do-52-alarms-6b34c961d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5660-meter-2-ethernet-up-to-63th-h-1-1m-rcm-4di-2do-52-alarms-6b34c961d5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5760-meter-2-ethernet-up-to-63th-h-1-1m-wave-rcm-4di-2do-52-alarms-49b3f5e4ee",
+      "name": "PM5760 Meter, 2 ethernet, up to 63th H, 1,1M, wave+RCM, 4DI/2DO 52 alarms",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5760-meter-2-ethernet-up-to-63th-h-1-1m-wave-rcm-4di-2do-52-alarms-49b3f5e4ee",
+      "recordPath": "equipment/mfr-schneider-electric-pm5760-meter-2-ethernet-up-to-63th-h-1-1m-wave-rcm-4di-2do-52-alarms-49b3f5e4ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5760-meter-2-ethernet-up-to-63th-h-1-1m-wave-rcm-4di-2do-52-alarms-49b3f5e4ee.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10b-b2de505f47",
+      "name": "1783 MMS10B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10b-b2de505f47",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10b-b2de505f47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10b-b2de505f47.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx14t2s-88a21a769e",
+      "name": "1783 MMX14T2S",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx14t2s-88a21a769e",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx14t2s-88a21a769e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx14t2s-88a21a769e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx16e-a3386a9315",
+      "name": "1783 MMX16E",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx16e-a3386a9315",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx16e-a3386a9315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx16e-a3386a9315.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx16t-7aa003ae1e",
+      "name": "1783 MMX16T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx16t-7aa003ae1e",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx16t-7aa003ae1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx16t-7aa003ae1e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx6t2s-4464281069",
+      "name": "1783 MMX6T2S",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx6t2s-4464281069",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx6t2s-4464281069.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx6t2s-4464281069.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx8e-7635c72c34",
+      "name": "1783 MMX8E",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx8e-7635c72c34",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx8e-7635c72c34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx8e-7635c72c34.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx8ea-fcae42a78c",
+      "name": "1783 MMX8EA",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx8ea-fcae42a78c",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx8ea-fcae42a78c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx8ea-fcae42a78c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx8s-77f8a19403",
+      "name": "1783 MMX8S",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx8s-77f8a19403",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx8s-77f8a19403.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx8s-77f8a19403.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx8t-f768e28856",
+      "name": "1783 MMX8T",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx8t-f768e28856",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx8t-f768e28856.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx8t-f768e28856.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx8ta-9fe52ae24c",
+      "name": "1783 MMX8TA",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx8ta-9fe52ae24c",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx8ta-9fe52ae24c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx8ta-9fe52ae24c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-hu250-empty-box-for-modem-connector-protection-40618f45fd",
+      "name": "PowerLogic HU250 empty box for modem connector protection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-hu250-empty-box-for-modem-connector-protection-40618f45fd",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-hu250-empty-box-for-modem-connector-protection-40618f45fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-hu250-empty-box-for-modem-connector-protection-40618f45fd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-eu-standard-10ad401179",
+      "name": "PowerLogic HU250: 4G modem box with GPS clock synchronization (1 ms) - EU standard",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-eu-standard-10ad401179",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-eu-standard-10ad401179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-eu-standard-10ad401179.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-us-standard-d9f7e6ff8a",
+      "name": "PowerLogic HU250: 4G modem box with GPS clock synchronization (1 ms) - US standard",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-us-standard-d9f7e6ff8a",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-us-standard-d9f7e6ff8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-hu250-4g-modem-box-with-gps-clock-synchronization-1-ms-us-standard-d9f7e6ff8a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-hu250-head-unit-gateway-ae6a312b0f",
+      "name": "PowerLogic HU250: Head Unit gateway",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-hu250-head-unit-gateway-ae6a312b0f",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-hu250-head-unit-gateway-ae6a312b0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-hu250-head-unit-gateway-ae6a312b0f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-slot-m-90b0d18e44",
+      "name": "PowerLogic Series P5 Ethernet FO module - slot M",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-slot-m-90b0d18e44",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-slot-m-90b0d18e44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-slot-m-90b0d18e44.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-acc-slot-l-559ae6b4dd",
+      "name": "PowerLogic Series P5 Ethernet FO module acc - slot L",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-acc-slot-l-559ae6b4dd",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-acc-slot-l-559ae6b4dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-fo-module-acc-slot-l-559ae6b4dd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-rs485-rj45-slot-mn-31623c8e91",
+      "name": "PowerLogic Series P5 Ethernet HSR/PRP FO RS485 RJ45 slot MN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-rs485-rj45-slot-mn-31623c8e91",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-rs485-rj45-slot-mn-31623c8e91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-rs485-rj45-slot-mn-31623c8e91.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-module-slots-mn-fc213b7465",
+      "name": "PowerLogic Series P5 Ethernet HSR/PRP FO module - slots MN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-module-slots-mn-fc213b7465",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-module-slots-mn-fc213b7465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-fo-module-slots-mn-fc213b7465.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-rj45-rs485-rj45-slots-mn-1df745fdb6",
+      "name": "PowerLogic Series P5 Ethernet HSR/PRP RJ45 RS485 RJ45 slots MN",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-rj45-rs485-rj45-slots-mn-1df745fdb6",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-rj45-rs485-rj45-slots-mn-1df745fdb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-hsr-prp-rj45-rs485-rj45-slots-mn-1df745fdb6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-l-c1a7bdecbe",
+      "name": "PowerLogic Series P5 Ethernet TP module - slot L",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-l-c1a7bdecbe",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-l-c1a7bdecbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-l-c1a7bdecbe.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-m-afdb34f1ba",
+      "name": "PowerLogic Series P5 Ethernet TP module - slot M",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-m-afdb34f1ba",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-m-afdb34f1ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-series-p5-ethernet-tp-module-slot-m-afdb34f1ba.json"
+    },
+    {
+      "id": "mfr-schneider-electric-rj45-interface-ethernet-connection-type-fa56f9e56a",
+      "name": "RJ45 interface, Ethernet connection type",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-rj45-interface-ethernet-connection-type-fa56f9e56a",
+      "recordPath": "equipment/mfr-schneider-electric-rj45-interface-ethernet-connection-type-fa56f9e56a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-rj45-interface-ethernet-connection-type-fa56f9e56a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-t-motorsys-ethernet-by-pass-switch-28daf44588",
+      "name": "TeSys T - MotorSys Ethernet By-pass Switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-t-motorsys-ethernet-by-pass-switch-28daf44588",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-t-motorsys-ethernet-by-pass-switch-28daf44588.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-t-motorsys-ethernet-by-pass-switch-28daf44588.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-island-bus-coupler-ethernet-switch-fa87466f95",
+      "name": "TeSys island Bus Coupler Ethernet Switch",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-island-bus-coupler-ethernet-switch-fa87466f95",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-island-bus-coupler-ethernet-switch-fa87466f95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-island-bus-coupler-ethernet-switch-fa87466f95.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-11kw-400v-3-phases-atv340-ethernet-e4fb4418c8",
+      "name": "Variable speed drive - 11kW- 400V 3 phases - ATV340 Ethernet",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-11kw-400v-3-phases-atv340-ethernet-e4fb4418c8",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-11kw-400v-3-phases-atv340-ethernet-e4fb4418c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-11kw-400v-3-phases-atv340-ethernet-e4fb4418c8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-wireless-access-point-ethernet-tcp-cloud-connected-enabler-to-monitor-data-38795b216a",
+      "name": "Wireless access point Ethernet TCP cloud connected enabler to monitor data",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-wireless-access-point-ethernet-tcp-cloud-connected-enabler-to-monitor-data-38795b216a",
+      "recordPath": "equipment/mfr-schneider-electric-wireless-access-point-ethernet-tcp-cloud-connected-enabler-to-monitor-data-38795b216a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-wireless-access-point-ethernet-tcp-cloud-connected-enabler-to-monitor-data-38795b216a.json"
+    },
+    {
+      "id": "mfr-abb-user-2102372-03d26bb4b9",
+      "name": "User - 2102372",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2102372-03d26bb4b9",
+      "recordPath": "equipment/mfr-abb-user-2102372-03d26bb4b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2102372-03d26bb4b9.json"
+    },
+    {
+      "id": "mfr-abb-user-2102913-303f397fbb",
+      "name": "User - 2102913",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2102913-303f397fbb",
+      "recordPath": "equipment/mfr-abb-user-2102913-303f397fbb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2102913-303f397fbb.json"
+    },
+    {
+      "id": "mfr-abb-user-2103152-62793ce1e5",
+      "name": "User - 2103152",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2103152-62793ce1e5",
+      "recordPath": "equipment/mfr-abb-user-2103152-62793ce1e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2103152-62793ce1e5.json"
+    },
+    {
+      "id": "market-belden-engineering-sources",
+      "name": "Belden industrial communications catalogue and drawing sources",
+      "manufacturer": "Belden",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-belden-engineering-sources",
+      "recordPath": "equipment/market-belden-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-belden-engineering-sources.json"
+    },
+    {
+      "id": "market-brainboxes-engineering-sources",
+      "name": "Brainboxes industrial communications catalogue and drawing sources",
+      "manufacturer": "Brainboxes",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-brainboxes-engineering-sources",
+      "recordPath": "equipment/market-brainboxes-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-brainboxes-engineering-sources.json"
+    },
+    {
+      "id": "market-deron-engineering-sources",
+      "name": "DERON industrial communications catalogue and drawing sources",
+      "manufacturer": "DERON",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-deron-engineering-sources",
+      "recordPath": "equipment/market-deron-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-deron-engineering-sources.json"
+    },
+    {
+      "id": "market-netsok-engineering-sources",
+      "name": "NETSOK industrial communications catalogue and drawing sources",
+      "manufacturer": "NETSOK",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-netsok-engineering-sources",
+      "recordPath": "equipment/market-netsok-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-netsok-engineering-sources.json"
+    },
+    {
+      "id": "mfr-anybus-hms-anybus-communicator-ethernet-ip-to-profibus-dp-401339a3af",
+      "name": "HMS Anybus Communicator EtherNet/IP to PROFIBUS DP",
+      "manufacturer": "Anybus",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-anybus-hms-anybus-communicator-ethernet-ip-to-profibus-dp-401339a3af",
+      "recordPath": "equipment/mfr-anybus-hms-anybus-communicator-ethernet-ip-to-profibus-dp-401339a3af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-anybus-hms-anybus-communicator-ethernet-ip-to-profibus-dp-401339a3af.json"
+    },
+    {
+      "id": "mfr-ewon-remote-access-cosy-plus-ethernet-d1748ee749",
+      "name": "Remote Access Cosy Plus Ethernet",
+      "manufacturer": "Ewon",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-ewon-remote-access-cosy-plus-ethernet-d1748ee749",
+      "recordPath": "equipment/mfr-ewon-remote-access-cosy-plus-ethernet-d1748ee749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-ewon-remote-access-cosy-plus-ethernet-d1748ee749.json"
+    },
+    {
+      "id": "mfr-anybus-hms-anybus-communicator-ethernet-ip-to-ethernet-ip-3acb94bd4c",
+      "name": "HMS Anybus Communicator EtherNet/IP to EtherNet/IP",
+      "manufacturer": "Anybus",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-anybus-hms-anybus-communicator-ethernet-ip-to-ethernet-ip-3acb94bd4c",
+      "recordPath": "equipment/mfr-anybus-hms-anybus-communicator-ethernet-ip-to-ethernet-ip-3acb94bd4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-anybus-hms-anybus-communicator-ethernet-ip-to-ethernet-ip-3acb94bd4c.json"
+    },
+    {
+      "id": "mfr-ewon-remote-access-cosy-plus-wifi-ffe90d60b5",
+      "name": "Remote Access Cosy Plus WiFi",
+      "manufacturer": "Ewon",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-ewon-remote-access-cosy-plus-wifi-ffe90d60b5",
+      "recordPath": "equipment/mfr-ewon-remote-access-cosy-plus-wifi-ffe90d60b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-ewon-remote-access-cosy-plus-wifi-ffe90d60b5.json"
+    },
+    {
+      "id": "mfr-anybus-hms-anybus-wireless-bolt-ii-87d8f3abf4",
+      "name": "HMS Anybus Wireless Bolt II",
+      "manufacturer": "Anybus",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-anybus-hms-anybus-wireless-bolt-ii-87d8f3abf4",
+      "recordPath": "equipment/mfr-anybus-hms-anybus-wireless-bolt-ii-87d8f3abf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-anybus-hms-anybus-wireless-bolt-ii-87d8f3abf4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-sto-stu-touch-panel-screen-4-3inch-wide-ethernet-36fe1883bd",
+      "name": "Harmony STO, STU - Touch panel screen, 4.3inch wide, Ethernet",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-sto-stu-touch-panel-screen-4-3inch-wide-ethernet-36fe1883bd",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-sto-stu-touch-panel-screen-4-3inch-wide-ethernet-36fe1883bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-sto-stu-touch-panel-screen-4-3inch-wide-ethernet-36fe1883bd.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms10b-3b6f44e881",
+      "name": "1783 CMS10B",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms10b-3b6f44e881",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms10b-3b6f44e881.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms10b-3b6f44e881.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms10dn-700657bc38",
+      "name": "1783 CMS10DN",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms10dn-700657bc38",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms10dn-700657bc38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms10dn-700657bc38.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms10dp-10b7b9a01a",
+      "name": "1783 CMS10DP",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms10dp-10b7b9a01a",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms10dp-10b7b9a01a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms10dp-10b7b9a01a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms10p-be57e39655",
+      "name": "1783 CMS10P",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms10p-be57e39655",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms10p-be57e39655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms10p-be57e39655.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms20db-820ff05822",
+      "name": "1783 CMS20DB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms20db-820ff05822",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms20db-820ff05822.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms20db-820ff05822.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms20dn-37eefc2a97",
+      "name": "1783 CMS20DN",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms20dn-37eefc2a97",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms20dn-37eefc2a97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms20dn-37eefc2a97.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-cms20dp-bc7f4b5fcc",
+      "name": "1783 CMS20DP",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-cms20dp-bc7f4b5fcc",
+      "recordPath": "equipment/mfr-allen-bradley-1783-cms20dp-bc7f4b5fcc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-cms20dp-bc7f4b5fcc.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-lms8-0aa1ed9e89",
+      "name": "1783 LMS8",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-lms8-0aa1ed9e89",
+      "recordPath": "equipment/mfr-allen-bradley-1783-lms8-0aa1ed9e89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-lms8-0aa1ed9e89.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10-bd60a6088f",
+      "name": "1783 MMS10",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10-bd60a6088f",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10-bd60a6088f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10-bd60a6088f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10a-b8388b5518",
+      "name": "1783 MMS10A",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10a-b8388b5518",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10a-b8388b5518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10a-b8388b5518.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10ar-c44338a556",
+      "name": "1783 MMS10AR",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10ar-c44338a556",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10ar-c44338a556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10ar-c44338a556.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10e-80b27984f0",
+      "name": "1783 MMS10E",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10e-80b27984f0",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10e-80b27984f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10e-80b27984f0.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10ea-83dd49134a",
+      "name": "1783 MMS10EA",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10ea-83dd49134a",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10ea-83dd49134a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10ea-83dd49134a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10ear-679f042cd9",
+      "name": "1783 MMS10EAR",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10ear-679f042cd9",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10ear-679f042cd9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10ear-679f042cd9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10er-4d9a8ccea5",
+      "name": "1783 MMS10ER",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10er-4d9a8ccea5",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10er-4d9a8ccea5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10er-4d9a8ccea5.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mms10r-532fbb9bee",
+      "name": "1783 MMS10R",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mms10r-532fbb9bee",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mms10r-532fbb9bee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mms10r-532fbb9bee.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1783-mmx8sa-93c47c0ee1",
+      "name": "1783 MMX8SA",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1783-mmx8sa-93c47c0ee1",
+      "recordPath": "equipment/mfr-allen-bradley-1783-mmx8sa-93c47c0ee1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1783-mmx8sa-93c47c0ee1.json"
+    },
+    {
+      "id": "mfr-allen-bradley-4300-5-port-wired-router-5690e77c47",
+      "name": "4300 5 PORT WIRED ROUTER",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-4300-5-port-wired-router-5690e77c47",
+      "recordPath": "equipment/mfr-allen-bradley-4300-5-port-wired-router-5690e77c47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-4300-5-port-wired-router-5690e77c47.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-4e0a5d32db",
+      "name": "PM5340 Meter, ethernet, up to 31st H",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-4e0a5d32db",
+      "recordPath": "equipment/mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-4e0a5d32db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm5340-meter-ethernet-up-to-31st-h-4e0a5d32db.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-0-75kw-to-2-2kw-400v-3-phases-atv340-ethernet-a9329d7903",
+      "name": "Variable speed drive - 0.75kW to 2.2kW - 400V 3 phases - ATV340 Ethernet",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-0-75kw-to-2-2kw-400v-3-phases-atv340-ethernet-a9329d7903",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-0-75kw-to-2-2kw-400v-3-phases-atv340-ethernet-a9329d7903.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-0-75kw-to-2-2kw-400v-3-phases-atv340-ethernet-a9329d7903.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-ethernet-8633645b57",
+      "name": "Variable speed drive - 5.5kW- 400V 3 phases - ATV340 Ethernet",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-ethernet-8633645b57",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-ethernet-8633645b57.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-ethernet-8633645b57.json"
+    },
+    {
+      "id": "mfr-abb-d1m-20-ethernet-354a6fbbfe",
+      "name": "D1M 20 Ethernet",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d1m-20-ethernet-354a6fbbfe",
+      "recordPath": "equipment/mfr-abb-d1m-20-ethernet-354a6fbbfe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d1m-20-ethernet-354a6fbbfe.json"
+    },
+    {
+      "id": "mfr-abb-m4m-20-m-ethernet-98df130501",
+      "name": "M4M 20-M Ethernet",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m4m-20-m-ethernet-98df130501",
+      "recordPath": "equipment/mfr-abb-m4m-20-m-ethernet-98df130501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m4m-20-m-ethernet-98df130501.json"
+    },
+    {
+      "id": "mfr-abb-m4m-30-m-ethernet-e07b0ac433",
+      "name": "M4M 30-M Ethernet",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m4m-30-m-ethernet-e07b0ac433",
+      "recordPath": "equipment/mfr-abb-m4m-30-m-ethernet-e07b0ac433.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m4m-30-m-ethernet-e07b0ac433.json"
+    },
+    {
+      "id": "lovato-order-66ce117d604ed517a003c497",
+      "name": "EXM1013 — Expansion module EXM... type, interface Ethernet for DMG 300",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-66ce117d604ed517a003c497",
+      "recordPath": "equipment/lovato-order-66ce117d604ed517a003c497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-66ce117d604ed517a003c497.json"
+    },
+    {
+      "id": "lovato-order-75afbbec4d05e416c10b8833",
+      "name": "LPCD06 — RJ45 interface, Ethernet connection type",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-75afbbec4d05e416c10b8833",
+      "recordPath": "equipment/lovato-order-75afbbec4d05e416c10b8833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-75afbbec4d05e416c10b8833.json"
+    },
+    {
+      "id": "lovato-order-f49972d3c9c19e5f5088ef4e",
+      "name": "EXP1013 — Expansion module EXP... type, interface Ethernet (for DMG 800, DMG 900... and DMG 900 T...)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f49972d3c9c19e5f5088ef4e",
+      "recordPath": "equipment/lovato-order-f49972d3c9c19e5f5088ef4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f49972d3c9c19e5f5088ef4e.json"
+    },
+    {
+      "id": "lovato-order-e4ae539600bf9ed5a31752ba",
+      "name": "LRHA10 — HMI operator panel 10.1'' TFT LCD display, 24VDC, Ports Ethernet, RS232/RS485/RS422, USB",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e4ae539600bf9ed5a31752ba",
+      "recordPath": "equipment/lovato-order-e4ae539600bf9ed5a31752ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e4ae539600bf9ed5a31752ba.json"
+    },
+    {
+      "id": "lovato-order-f81ca5b1efdcc579c3ae9fd8",
+      "name": "LRHA07 — HMI operator panel 7'' TFT LCD display, 24VDC, Ports Ethernet, RS232/RS485/RS422, USB",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f81ca5b1efdcc579c3ae9fd8",
+      "recordPath": "equipment/lovato-order-f81ca5b1efdcc579c3ae9fd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f81ca5b1efdcc579c3ae9fd8.json"
+    },
+    {
+      "id": "lovato-order-9010895c6f27a0c334c92e7d",
+      "name": "LRHA04 — HMI operator panel 4.3'' TFT LCD display, 24VDC, Ports Ethernet, RS232/RS485/RS422, USB",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9010895c6f27a0c334c92e7d",
+      "recordPath": "equipment/lovato-order-9010895c6f27a0c334c92e7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9010895c6f27a0c334c92e7d.json"
+    },
+    {
+      "id": "lovato-order-eb49fbae51677fc4e83a1309",
+      "name": "LPXS02 — RJ45 interface, Ethernet connection type",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eb49fbae51677fc4e83a1309",
+      "recordPath": "equipment/lovato-order-eb49fbae51677fc4e83a1309.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eb49fbae51677fc4e83a1309.json"
+    },
+    {
+      "id": "lovato-order-397619d69163ee81ec80180b",
+      "name": "VLBXL05 — Logic Unit with EthernetIP",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-397619d69163ee81ec80180b",
+      "recordPath": "equipment/lovato-order-397619d69163ee81ec80180b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-397619d69163ee81ec80180b.json"
+    },
+    {
+      "id": "lovato-order-8b8541908ccc1f360082265f",
+      "name": "EXP1015 — GPRS\\GSM modem for DMG 900, DMG 900T",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8b8541908ccc1f360082265f",
+      "recordPath": "equipment/lovato-order-8b8541908ccc1f360082265f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8b8541908ccc1f360082265f.json"
     }
   ]
 }

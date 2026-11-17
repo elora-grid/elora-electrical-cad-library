@@ -24,6 +24,7 @@ Manufacturer reference TAS-311DG identifies this instrumentation or control-conn
 - Resource type: Product
 - Manufacturer drawing: TAS-311DG
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -9,7 +9,7 @@ E1.2 IV W REAR SEGREGATION EF ES - UL: ABB manufacturer STEP resource, document 
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0068
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E1.2 IV W REAR SEGREGATION EF ES - UL; ABB documen
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001336R0068
 - Model extents (X × Y × Z, mm): 489.0 × 4.0 × 800.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0068&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 44473 bytes
 - Delivery SHA-256: cebf745de68cae2b2906c970f5333b8dab208f1343d60acb05b9ca73c4181549
+
+### 1SDH001336R0068\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_EF\_ES\_UL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0068\_1PA\_001\_00\_E1.2\_IV\_W\_REAR\_SEGREGATION\_EF\_ES\_UL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0068&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-iv-w-rear-segregation-ef-es-ul-b4a6b62d/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: cebf745de68cae2b2906c970f5333b8dab208f1343d60acb05b9ca73c4181549
+- Original bytes: 44473
+- Revision: A
+- Retrieved: 2026-11-03T01:35:44.392185+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0068&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0068&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 33051 bytes
+- Delivery SHA-256: d45ab0626d9e6d5d4021bb50fb225adb12bdd25e592626460c2afd2fa6434d40
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

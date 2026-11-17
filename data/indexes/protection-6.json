@@ -1,0 +1,2880 @@
+{
+  "schemaVersion": 1,
+  "category": "protection",
+  "page": 6,
+  "entries": [
+    {
+      "id": "eplan-oem-699135",
+      "name": "Switch Disconnector,2/4-pole,800A for remote operation,1kVDC",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699135",
+      "recordPath": "equipment/eplan-oem-699135.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699135.json"
+    },
+    {
+      "id": "eplan-oem-699155",
+      "name": "Under Voltage Release 24VAC for MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699155",
+      "recordPath": "equipment/eplan-oem-699155.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699155.json"
+    },
+    {
+      "id": "eplan-oem-699156",
+      "name": "Under Voltage Release 110-130VAC for MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699156",
+      "recordPath": "equipment/eplan-oem-699156.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699156.json"
+    },
+    {
+      "id": "eplan-oem-699157",
+      "name": "Under Voltage Release 208-240VAC for MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699157",
+      "recordPath": "equipment/eplan-oem-699157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699157.json"
+    },
+    {
+      "id": "eplan-oem-699158",
+      "name": "Under Voltage Release 380-440VAC for MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699158",
+      "recordPath": "equipment/eplan-oem-699158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699158.json"
+    },
+    {
+      "id": "eplan-oem-699159",
+      "name": "Under Voltage Release 24VDC for MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699159",
+      "recordPath": "equipment/eplan-oem-699159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699159.json"
+    },
+    {
+      "id": "eplan-oem-699160",
+      "name": "Under Voltage Release 220-250VDC for MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699160",
+      "recordPath": "equipment/eplan-oem-699160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699160.json"
+    },
+    {
+      "id": "eplan-oem-699161",
+      "name": "Under Voltage Release w. 2 Early-make Contacts, 230VAC, MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699161",
+      "recordPath": "equipment/eplan-oem-699161.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699161.json"
+    },
+    {
+      "id": "eplan-oem-699162",
+      "name": "Under Voltage Release w. 2 Early-make Contacts, 400VAC, MC4",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699162",
+      "recordPath": "equipment/eplan-oem-699162.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699162.json"
+    },
+    {
+      "id": "eplan-oem-699169",
+      "name": "Earth Leakage Release 0,03A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699169",
+      "recordPath": "equipment/eplan-oem-699169.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699169.json"
+    },
+    {
+      "id": "eplan-oem-699170",
+      "name": "Earth Leakage Release 0,3A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699170",
+      "recordPath": "equipment/eplan-oem-699170.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699170.json"
+    },
+    {
+      "id": "eplan-oem-699171",
+      "name": "Earth Leakage Release 0,03-5A, 0,02-5 sec., 1CO",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699171",
+      "recordPath": "equipment/eplan-oem-699171.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699171.json"
+    },
+    {
+      "id": "eplan-oem-699172",
+      "name": "Load breaker 3-p ML11 3x63A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699172",
+      "recordPath": "equipment/eplan-oem-699172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699172.json"
+    },
+    {
+      "id": "eplan-oem-699173",
+      "name": "Load breaker 3-p ML11 3x100A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699173",
+      "recordPath": "equipment/eplan-oem-699173.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699173.json"
+    },
+    {
+      "id": "eplan-oem-699174",
+      "name": "Load breaker 3-p ML11 3x125A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699174",
+      "recordPath": "equipment/eplan-oem-699174.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699174.json"
+    },
+    {
+      "id": "eplan-oem-699175",
+      "name": "Load breaker 3-p ML11 3x125A with direkt rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699175",
+      "recordPath": "equipment/eplan-oem-699175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699175.json"
+    },
+    {
+      "id": "eplan-oem-699176",
+      "name": "Load breaker 3-p ML11 3x125A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699176",
+      "recordPath": "equipment/eplan-oem-699176.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699176.json"
+    },
+    {
+      "id": "eplan-oem-699177",
+      "name": "Load breaker 3-p ML12 3x160A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699177",
+      "recordPath": "equipment/eplan-oem-699177.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699177.json"
+    },
+    {
+      "id": "eplan-oem-699178",
+      "name": "Load breaker 3-p ML12 3x160A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699178",
+      "recordPath": "equipment/eplan-oem-699178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699178.json"
+    },
+    {
+      "id": "eplan-oem-699179",
+      "name": "Load breaker 3-p ML12 3x200A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699179",
+      "recordPath": "equipment/eplan-oem-699179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699179.json"
+    },
+    {
+      "id": "eplan-oem-699180",
+      "name": "Load breaker 3-p ML12 3x250A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699180",
+      "recordPath": "equipment/eplan-oem-699180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699180.json"
+    },
+    {
+      "id": "eplan-oem-699181",
+      "name": "Load breaker 3-p ML12 3x250A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699181",
+      "recordPath": "equipment/eplan-oem-699181.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699181.json"
+    },
+    {
+      "id": "eplan-oem-699182",
+      "name": "Load breaker 4-p ML12 4x200A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699182",
+      "recordPath": "equipment/eplan-oem-699182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699182.json"
+    },
+    {
+      "id": "eplan-oem-699183",
+      "name": "Load breaker 3-p ML13 3x315A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699183",
+      "recordPath": "equipment/eplan-oem-699183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699183.json"
+    },
+    {
+      "id": "eplan-oem-699184",
+      "name": "Load breaker 3-p ML13 3x315A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699184",
+      "recordPath": "equipment/eplan-oem-699184.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699184.json"
+    },
+    {
+      "id": "eplan-oem-699185",
+      "name": "Load breaker 3-p ML13 3x400A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699185",
+      "recordPath": "equipment/eplan-oem-699185.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699185.json"
+    },
+    {
+      "id": "eplan-oem-699186",
+      "name": "Load breaker 3-p ML13 3x400A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699186",
+      "recordPath": "equipment/eplan-oem-699186.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699186.json"
+    },
+    {
+      "id": "eplan-oem-699187",
+      "name": "Load breaker 4-p ML13 4x400A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699187",
+      "recordPath": "equipment/eplan-oem-699187.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699187.json"
+    },
+    {
+      "id": "eplan-oem-699188",
+      "name": "Load breaker 3-p ML14 3x630A with door coupling rot. handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699188",
+      "recordPath": "equipment/eplan-oem-699188.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699188.json"
+    },
+    {
+      "id": "eplan-oem-699189",
+      "name": "Load breaker 3-p ML14 3x630A without rotary handle",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699189",
+      "recordPath": "equipment/eplan-oem-699189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699189.json"
+    },
+    {
+      "id": "lovato-order-bd2fa992704e305d39726bed",
+      "name": "HR501CD024 — Miniature relay with led state indicator and mechanical actuator, 24VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bd2fa992704e305d39726bed",
+      "recordPath": "equipment/lovato-order-bd2fa992704e305d39726bed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bd2fa992704e305d39726bed.json"
+    },
+    {
+      "id": "lovato-order-a879f9f721589e1fca419117",
+      "name": "HR302CA230 — Miniature relay, 230VAC, 8A, 2C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a879f9f721589e1fca419117",
+      "recordPath": "equipment/lovato-order-a879f9f721589e1fca419117.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a879f9f721589e1fca419117.json"
+    },
+    {
+      "id": "lovato-order-026f35cf8f64e91be23e69c8",
+      "name": "HR602CA024 — Industrial relay with led state indicator and mechanical actuator, 24VAC, 7A, 2 C/O contact. fitting on socket HR6XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-026f35cf8f64e91be23e69c8",
+      "recordPath": "equipment/lovato-order-026f35cf8f64e91be23e69c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-026f35cf8f64e91be23e69c8.json"
+    },
+    {
+      "id": "lovato-order-1178046da20eb4f309bc6641",
+      "name": "HR702CA024 — 8-pin industrial relay with led state indicator and mechanical actuator, 24VAC, 10A, 2 C/O contacts, fitting on socket HR7XS1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1178046da20eb4f309bc6641",
+      "recordPath": "equipment/lovato-order-1178046da20eb4f309bc6641.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1178046da20eb4f309bc6641.json"
+    },
+    {
+      "id": "lovato-order-2ed933c1d98a565f2a140195",
+      "name": "TMPL — Modular time relay, recylcle work, independent timing, multiscale and multivoltage",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2ed933c1d98a565f2a140195",
+      "recordPath": "equipment/lovato-order-2ed933c1d98a565f2a140195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2ed933c1d98a565f2a140195.json"
+    },
+    {
+      "id": "lovato-order-2c39cbd606f34afd3f667612",
+      "name": "HR201DS024 — Slim SSR relay, 24VDC, 4A, 1 SSR contact, output 3...28VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2c39cbd606f34afd3f667612",
+      "recordPath": "equipment/lovato-order-2c39cbd606f34afd3f667612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2c39cbd606f34afd3f667612.json"
+    },
+    {
+      "id": "lovato-order-c13c06a21feacda6b38aceb3",
+      "name": "HR302CA024 — Miniature relay, 24VAC, 8A, 2C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c13c06a21feacda6b38aceb3",
+      "recordPath": "equipment/lovato-order-c13c06a21feacda6b38aceb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c13c06a21feacda6b38aceb3.json"
+    },
+    {
+      "id": "lovato-order-33dc3304926fcc21b876c2b1",
+      "name": "HR502CD048 — Miniature relay with led state indicator and mechanical actuator, 48VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-33dc3304926fcc21b876c2b1",
+      "recordPath": "equipment/lovato-order-33dc3304926fcc21b876c2b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-33dc3304926fcc21b876c2b1.json"
+    },
+    {
+      "id": "lovato-order-8fee8e3bcc2e4aeb599daf08",
+      "name": "HR502CD024 — Miniature relay with led state indicator and mechanical actuator, 24VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8fee8e3bcc2e4aeb599daf08",
+      "recordPath": "equipment/lovato-order-8fee8e3bcc2e4aeb599daf08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8fee8e3bcc2e4aeb599daf08.json"
+    },
+    {
+      "id": "lovato-order-6ad1bbaa3013f30e85a9505a",
+      "name": "HR604CA110 — Industrial relay with led state indicator and mechanical actuator, 110/120VAC, 5A, 4 C/O contact. fitting on socket HR6XS4...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6ad1bbaa3013f30e85a9505a",
+      "recordPath": "equipment/lovato-order-6ad1bbaa3013f30e85a9505a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6ad1bbaa3013f30e85a9505a.json"
+    },
+    {
+      "id": "lovato-order-65be48bae0830cf630dafdab",
+      "name": "LRE08RD024 — Expansion module, 4 digital inputs, 4 digital relay outputs, supply 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-65be48bae0830cf630dafdab",
+      "recordPath": "equipment/lovato-order-65be48bae0830cf630dafdab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-65be48bae0830cf630dafdab.json"
+    },
+    {
+      "id": "lovato-order-faf045dfd6d2364ad1a8ca9b",
+      "name": "HR302CD024 — Miniature relay, 24VDC, 8A, 2C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-faf045dfd6d2364ad1a8ca9b",
+      "recordPath": "equipment/lovato-order-faf045dfd6d2364ad1a8ca9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-faf045dfd6d2364ad1a8ca9b.json"
+    },
+    {
+      "id": "lovato-order-246fc231e5439b506eb530d8",
+      "name": "HR604CD024 — Industrial relay with led state indicator and mechanical actuator, 24VDC, 5A, 4 C/O contact. fitting on socket HR6XS4...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-246fc231e5439b506eb530d8",
+      "recordPath": "equipment/lovato-order-246fc231e5439b506eb530d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-246fc231e5439b506eb530d8.json"
+    },
+    {
+      "id": "lovato-order-83693f8f06dcabded4039484",
+      "name": "EXM1001 — Expansion module EXM... type, 2 digital inputs and 2 relay outputs 5A 250VAC for DMG 300",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-83693f8f06dcabded4039484",
+      "recordPath": "equipment/lovato-order-83693f8f06dcabded4039484.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-83693f8f06dcabded4039484.json"
+    },
+    {
+      "id": "lovato-order-9918e894d36cb76c61dc70da",
+      "name": "HR502CA230 — Miniature relay with led state indicator and mechanical actuator, 230VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9918e894d36cb76c61dc70da",
+      "recordPath": "equipment/lovato-order-9918e894d36cb76c61dc70da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9918e894d36cb76c61dc70da.json"
+    },
+    {
+      "id": "lovato-order-8c8caa58f1bb4d8e320c82bd",
+      "name": "HR302CA110 — Miniature relay, 110/120VAC, 8A, 2C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8c8caa58f1bb4d8e320c82bd",
+      "recordPath": "equipment/lovato-order-8c8caa58f1bb4d8e320c82bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8c8caa58f1bb4d8e320c82bd.json"
+    },
+    {
+      "id": "lovato-order-69275938deb333432f5c22f4",
+      "name": "DMED121 — Energy meter, single phase, non expandable, digital with backlight LCD display, 63A direct connection, 2U, RS485 interface, multi-measurements, 220-240VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-69275938deb333432f5c22f4",
+      "recordPath": "equipment/lovato-order-69275938deb333432f5c22f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-69275938deb333432f5c22f4.json"
+    },
+    {
+      "id": "lovato-order-060717e60adf1e451ead750c",
+      "name": "HR101CE024 — Slim electromechanical relay, 24VDC, 6A, 1 C/O contact",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-060717e60adf1e451ead750c",
+      "recordPath": "equipment/lovato-order-060717e60adf1e451ead750c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-060717e60adf1e451ead750c.json"
+    },
+    {
+      "id": "lovato-order-615689ec49c873a50497cca7",
+      "name": "HR602CA110 — Industrial relay with led state indicator and mechanical actuator, 110/120VAC, 7A, 2 C/O contact. fitting on socket HR6XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-615689ec49c873a50497cca7",
+      "recordPath": "equipment/lovato-order-615689ec49c873a50497cca7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-615689ec49c873a50497cca7.json"
+    },
+    {
+      "id": "lovato-order-f3f9c3dcbb0ea1b40c16fc09",
+      "name": "HR703CA024 — 11-pin industrial relay with led state indicator and mechanical actuator, 24VAC, 10A, 3 C/O contacts, fitting on socket HR7XS2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f3f9c3dcbb0ea1b40c16fc09",
+      "recordPath": "equipment/lovato-order-f3f9c3dcbb0ea1b40c16fc09.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f3f9c3dcbb0ea1b40c16fc09.json"
+    },
+    {
+      "id": "lovato-order-8ad7aca629b3bd328c80d205",
+      "name": "HR501CA024 — Miniature relay with led state indicator and mechanical actuator, 24VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8ad7aca629b3bd328c80d205",
+      "recordPath": "equipment/lovato-order-8ad7aca629b3bd328c80d205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8ad7aca629b3bd328c80d205.json"
+    },
+    {
+      "id": "lovato-order-6981e5968cfd899cff23edcd",
+      "name": "HR501CD012 — Miniature relay with led state indicator and mechanical actuator, 12VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6981e5968cfd899cff23edcd",
+      "recordPath": "equipment/lovato-order-6981e5968cfd899cff23edcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6981e5968cfd899cff23edcd.json"
+    },
+    {
+      "id": "lovato-order-8e999000375359c6ca06dfae",
+      "name": "HR703CA230 — 11-pin industrial relay with led state indicator and mechanical actuator, 230VAC, 10A, 3 C/O contacts, fitting on socket HR7XS2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8e999000375359c6ca06dfae",
+      "recordPath": "equipment/lovato-order-8e999000375359c6ca06dfae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8e999000375359c6ca06dfae.json"
+    },
+    {
+      "id": "lovato-order-ab8c0263eeebf8ff93ec070f",
+      "name": "HR301CD012 — Miniature relay, 12VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ab8c0263eeebf8ff93ec070f",
+      "recordPath": "equipment/lovato-order-ab8c0263eeebf8ff93ec070f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ab8c0263eeebf8ff93ec070f.json"
+    },
+    {
+      "id": "lovato-order-31f1634e4fb7ec11c412e482",
+      "name": "HR502CA024 — Miniature relay with led state indicator and mechanical actuator, 24VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-31f1634e4fb7ec11c412e482",
+      "recordPath": "equipment/lovato-order-31f1634e4fb7ec11c412e482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-31f1634e4fb7ec11c412e482.json"
+    },
+    {
+      "id": "lovato-order-c9bedf8b4a27d5fee52d986e",
+      "name": "HR301CA230 — Miniature relay, 230VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c9bedf8b4a27d5fee52d986e",
+      "recordPath": "equipment/lovato-order-c9bedf8b4a27d5fee52d986e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c9bedf8b4a27d5fee52d986e.json"
+    },
+    {
+      "id": "lovato-order-eb515d6e74422262eb410ac7",
+      "name": "HR502CD012 — Miniature relay with led state indicator and mechanical actuator, 12VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eb515d6e74422262eb410ac7",
+      "recordPath": "equipment/lovato-order-eb515d6e74422262eb410ac7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eb515d6e74422262eb410ac7.json"
+    },
+    {
+      "id": "lovato-order-a8b9c5f1b46edfa0cb607a73",
+      "name": "HR301CA024 — Miniature relay, 24VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a8b9c5f1b46edfa0cb607a73",
+      "recordPath": "equipment/lovato-order-a8b9c5f1b46edfa0cb607a73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a8b9c5f1b46edfa0cb607a73.json"
+    },
+    {
+      "id": "lovato-order-0a8e66713efa35a9902c6cba",
+      "name": "HR101CE012 — Slim electromechanical relay, 12VDC, 6A, 1 C/O contact",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0a8e66713efa35a9902c6cba",
+      "recordPath": "equipment/lovato-order-0a8e66713efa35a9902c6cba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0a8e66713efa35a9902c6cba.json"
+    },
+    {
+      "id": "lovato-order-ed09a6ebb4ace4410b21d9db",
+      "name": "HR702CD024 — 8-pin industrial relay with led state indicator and mechanical actuator, 24VDC, 10A, 2 C/O contacts, fitting on socket HR7XS1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ed09a6ebb4ace4410b21d9db",
+      "recordPath": "equipment/lovato-order-ed09a6ebb4ace4410b21d9db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ed09a6ebb4ace4410b21d9db.json"
+    },
+    {
+      "id": "lovato-order-f7edccdf53a1b34213a94c7b",
+      "name": "TMD — Modular time relay, off delay, multiscale and multivoltage",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f7edccdf53a1b34213a94c7b",
+      "recordPath": "equipment/lovato-order-f7edccdf53a1b34213a94c7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f7edccdf53a1b34213a94c7b.json"
+    },
+    {
+      "id": "lovato-order-72f19968a213b7c2d8450558",
+      "name": "EXP1003 — Expansion module EXP... type, 2 relay outputs 5A 250VAC (for DMG 700, DMG 800..., DMG 900... and DMG 900 T...)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-72f19968a213b7c2d8450558",
+      "recordPath": "equipment/lovato-order-72f19968a213b7c2d8450558.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-72f19968a213b7c2d8450558.json"
+    },
+    {
+      "id": "lovato-order-0d7c0bbcbfb1ee5203b12b38",
+      "name": "HR602CD012 — Industrial relay with led state indicator and mechanical actuator, 12VDC, 7A, 2 C/O contact. fitting on socket HR6XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0d7c0bbcbfb1ee5203b12b38",
+      "recordPath": "equipment/lovato-order-0d7c0bbcbfb1ee5203b12b38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0d7c0bbcbfb1ee5203b12b38.json"
+    },
+    {
+      "id": "lovato-order-63ab294a56954b2946de3b8a",
+      "name": "HR604CA024 — Industrial relay with led state indicator and mechanical actuator, 24VAC, 5A, 4 C/O contact. fitting on socket HR6XS4...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-63ab294a56954b2946de3b8a",
+      "recordPath": "equipment/lovato-order-63ab294a56954b2946de3b8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-63ab294a56954b2946de3b8a.json"
+    },
+    {
+      "id": "lovato-order-69af902e50d23c00639d618c",
+      "name": "HR703CD110 — 11-pin industrial relay with led state indicator and mechanical actuator, 110VDC, 10A, 3 C/O contacts, fitting on socket HR7XS2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-69af902e50d23c00639d618c",
+      "recordPath": "equipment/lovato-order-69af902e50d23c00639d618c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-69af902e50d23c00639d618c.json"
+    },
+    {
+      "id": "lovato-order-e387428e544864ef4bf2d571",
+      "name": "HR703CA110 — 11-pin industrial relay with led state indicator and mechanical actuator, 110/120VAC, 10A, 3 C/O contacts, fitting on socket HR7XS2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e387428e544864ef4bf2d571",
+      "recordPath": "equipment/lovato-order-e387428e544864ef4bf2d571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e387428e544864ef4bf2d571.json"
+    },
+    {
+      "id": "lovato-order-6d98cfb0aa8b323a01403b30",
+      "name": "HR501CA110 — Miniature relay with led state indicator and mechanical actuator, 110/120VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6d98cfb0aa8b323a01403b30",
+      "recordPath": "equipment/lovato-order-6d98cfb0aa8b323a01403b30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6d98cfb0aa8b323a01403b30.json"
+    },
+    {
+      "id": "lovato-order-5b284acf127968e6b321c3f7",
+      "name": "DMED301 — Energy meter, three phase with neutral, non expandable, 80A direct connection, 4U, RS485 interface, multi-measurements",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5b284acf127968e6b321c3f7",
+      "recordPath": "equipment/lovato-order-5b284acf127968e6b321c3f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5b284acf127968e6b321c3f7.json"
+    },
+    {
+      "id": "lovato-order-8e0c83ec430325e5c7613561",
+      "name": "HR702CA110 — 8-pin industrial relay with led state indicator and mechanical actuator, 110/120VAC, 10A, 2 c/o contacts, fitting on socket HR7XS1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8e0c83ec430325e5c7613561",
+      "recordPath": "equipment/lovato-order-8e0c83ec430325e5c7613561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8e0c83ec430325e5c7613561.json"
+    },
+    {
+      "id": "lovato-order-93d1255942bbaddf3016f3f5",
+      "name": "HR604CD012 — Industrial relay with led state indicator and mechanical actuator, 12VDC, 5A, 4 C/O contact. fitting on socket HR6XS4...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-93d1255942bbaddf3016f3f5",
+      "recordPath": "equipment/lovato-order-93d1255942bbaddf3016f3f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-93d1255942bbaddf3016f3f5.json"
+    },
+    {
+      "id": "lovato-order-355f242d61a1cfad55137083",
+      "name": "LVM20A024 — Level monitoring relay, in modular housing, 24VAC, 1 contact C/O",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-355f242d61a1cfad55137083",
+      "recordPath": "equipment/lovato-order-355f242d61a1cfad55137083.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-355f242d61a1cfad55137083.json"
+    },
+    {
+      "id": "lovato-order-ed5f74f1a4cfe6d943b65bae",
+      "name": "HR602CA230 — Industrial relay with led state indicator and mechanical actuator, 230VAC, 7A, 2 C/O contact. fitting on socket HR6XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ed5f74f1a4cfe6d943b65bae",
+      "recordPath": "equipment/lovato-order-ed5f74f1a4cfe6d943b65bae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ed5f74f1a4cfe6d943b65bae.json"
+    },
+    {
+      "id": "lovato-order-7a012607527dbebd85e55103",
+      "name": "HR604CA230 — Industrial relay with led state indicator and mechanical actuator, 230VAC, 5A, 4 C/O contact. fitting on socket HR6XS4...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7a012607527dbebd85e55103",
+      "recordPath": "equipment/lovato-order-7a012607527dbebd85e55103.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7a012607527dbebd85e55103.json"
+    },
+    {
+      "id": "lovato-order-f64164740b2c8c580b82ec1c",
+      "name": "BF0031D024 — Control relay, BF00 31 D024, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f64164740b2c8c580b82ec1c",
+      "recordPath": "equipment/lovato-order-f64164740b2c8c580b82ec1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f64164740b2c8c580b82ec1c.json"
+    },
+    {
+      "id": "lovato-order-6f64c8329a6ec0c952c26f1c",
+      "name": "HR201AS024 — Slim SSR relay, 24VDC, 2A, 1 SSR contact, output 24...280VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6f64c8329a6ec0c952c26f1c",
+      "recordPath": "equipment/lovato-order-6f64c8329a6ec0c952c26f1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6f64c8329a6ec0c952c26f1c.json"
+    },
+    {
+      "id": "lovato-order-fa575b213063c4f76a06fdf4",
+      "name": "DMED300T2 — Energy meter, three phase with neutral, non expandable, 63A direct connection, 4U, 2 programmable static outputs, multi-measurements",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fa575b213063c4f76a06fdf4",
+      "recordPath": "equipment/lovato-order-fa575b213063c4f76a06fdf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fa575b213063c4f76a06fdf4.json"
+    },
+    {
+      "id": "lovato-order-2b759e5e938897a7a29e2933",
+      "name": "HR501CD110 — Miniature relay with led state indicator and mechanical actuator, 110VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2b759e5e938897a7a29e2933",
+      "recordPath": "equipment/lovato-order-2b759e5e938897a7a29e2933.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2b759e5e938897a7a29e2933.json"
+    },
+    {
+      "id": "lovato-order-933b6c034da63f7841dc657e",
+      "name": "HR301CA110 — Miniature relay, 110/120VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-933b6c034da63f7841dc657e",
+      "recordPath": "equipment/lovato-order-933b6c034da63f7841dc657e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-933b6c034da63f7841dc657e.json"
+    },
+    {
+      "id": "lovato-order-575de1e773b7c28fda26ed9b",
+      "name": "HR702CD110 — 8-pin industrial relay with led state indicator and mechanical actuator, 110VDC, 10A, 2 C/O contacts, fitting on socket HR7XS1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-575de1e773b7c28fda26ed9b",
+      "recordPath": "equipment/lovato-order-575de1e773b7c28fda26ed9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-575de1e773b7c28fda26ed9b.json"
+    },
+    {
+      "id": "lovato-order-94bb557b24aa236539b702b7",
+      "name": "HR502CD110 — Miniature relay with led state indicator and mechanical actuator, 110VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-94bb557b24aa236539b702b7",
+      "recordPath": "equipment/lovato-order-94bb557b24aa236539b702b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-94bb557b24aa236539b702b7.json"
+    },
+    {
+      "id": "lovato-order-80319805f7131cb5245690e1",
+      "name": "HR501CA230 — Miniature relay with led state indicator and mechanical actuator, 230VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-80319805f7131cb5245690e1",
+      "recordPath": "equipment/lovato-order-80319805f7131cb5245690e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-80319805f7131cb5245690e1.json"
+    },
+    {
+      "id": "lovato-order-e789e660565bca113731795a",
+      "name": "TMP — Modular time relay, on delay, multiscale and multivoltage",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e789e660565bca113731795a",
+      "recordPath": "equipment/lovato-order-e789e660565bca113731795a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e789e660565bca113731795a.json"
+    },
+    {
+      "id": "lovato-order-86c37219ec19dcddd5f8df2d",
+      "name": "DMG600 — Compact LCD metering device",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-86c37219ec19dcddd5f8df2d",
+      "recordPath": "equipment/lovato-order-86c37219ec19dcddd5f8df2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-86c37219ec19dcddd5f8df2d.json"
+    },
+    {
+      "id": "lovato-order-9a186db9698cbeb71aa7a640",
+      "name": "HR501CD048 — Miniature relay with led state indicator and mechanical actuator, 48VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9a186db9698cbeb71aa7a640",
+      "recordPath": "equipment/lovato-order-9a186db9698cbeb71aa7a640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9a186db9698cbeb71aa7a640.json"
+    },
+    {
+      "id": "lovato-order-51dbc292bda15848ed1f80cc",
+      "name": "HR301CD024 — Miniature relay, 24VDC, 16A, 1C/O contact. fitting on socket 20 HR5XS2... (max 10A)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-51dbc292bda15848ed1f80cc",
+      "recordPath": "equipment/lovato-order-51dbc292bda15848ed1f80cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-51dbc292bda15848ed1f80cc.json"
+    },
+    {
+      "id": "lovato-order-bff70aac8d3e63672a654604",
+      "name": "HR502CA110 — Miniature relay with led state indicator and mechanical actuator, 110/120VAC, 16A, 1C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bff70aac8d3e63672a654604",
+      "recordPath": "equipment/lovato-order-bff70aac8d3e63672a654604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bff70aac8d3e63672a654604.json"
+    },
+    {
+      "id": "lovato-order-e28aac68ea6c97a0287023fb",
+      "name": "EXP1008 — Expansion module EXP... type, 2 digital inputs and 2 relay outputs 5A 250VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e28aac68ea6c97a0287023fb",
+      "recordPath": "equipment/lovato-order-e28aac68ea6c97a0287023fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e28aac68ea6c97a0287023fb.json"
+    },
+    {
+      "id": "lovato-order-4f5a69bdb302c46331b4527b",
+      "name": "HR101CE060 — Slim electromechanical relay, 60VDC, 6A, 1 C/O contact",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4f5a69bdb302c46331b4527b",
+      "recordPath": "equipment/lovato-order-4f5a69bdb302c46331b4527b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4f5a69bdb302c46331b4527b.json"
+    },
+    {
+      "id": "lovato-order-9d89158a7612c85e09d40c85",
+      "name": "HR302CD012 — Miniature relay, 12VDC, 8A, 2C/O contact. fitting on socket 20 HR5XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9d89158a7612c85e09d40c85",
+      "recordPath": "equipment/lovato-order-9d89158a7612c85e09d40c85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9d89158a7612c85e09d40c85.json"
+    },
+    {
+      "id": "lovato-order-c0abeac64ff478d659a59ac0",
+      "name": "TMM1 — Modular time relay, multifunction, multiscale and multivoltage, 1 contact",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c0abeac64ff478d659a59ac0",
+      "recordPath": "equipment/lovato-order-c0abeac64ff478d659a59ac0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c0abeac64ff478d659a59ac0.json"
+    },
+    {
+      "id": "lovato-order-b57210faab7297aa3836bb89",
+      "name": "DMG610 — Compact LCD metering device with built in RS485",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b57210faab7297aa3836bb89",
+      "recordPath": "equipment/lovato-order-b57210faab7297aa3836bb89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b57210faab7297aa3836bb89.json"
+    },
+    {
+      "id": "lovato-order-46a4b0e2cbca64c6b0a1103a",
+      "name": "HR702CA230 — 8-pin industrial relay with led state indicator and mechanical actuator, 230VAC, 10A, 2 C/O contacts, fitting on socket HR7XS1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-46a4b0e2cbca64c6b0a1103a",
+      "recordPath": "equipment/lovato-order-46a4b0e2cbca64c6b0a1103a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-46a4b0e2cbca64c6b0a1103a.json"
+    },
+    {
+      "id": "lovato-order-d3d53f2eea447711a7d5864b",
+      "name": "HR602CD024 — Industrial relay with led state indicator and mechanical actuator, 24VDC, 7A, 2 C/O contact. fitting on socket HR6XS2...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d3d53f2eea447711a7d5864b",
+      "recordPath": "equipment/lovato-order-d3d53f2eea447711a7d5864b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d3d53f2eea447711a7d5864b.json"
+    },
+    {
+      "id": "lovato-order-01a71dbf1847248b7fd264b3",
+      "name": "HR703CD024 — 11-pin industrial relay with led state indicator and mechanical actuator, 24VDC, 10A, 3 C/O contacts, fitting on socket HR7XS2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-01a71dbf1847248b7fd264b3",
+      "recordPath": "equipment/lovato-order-01a71dbf1847248b7fd264b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-01a71dbf1847248b7fd264b3.json"
+    },
+    {
+      "id": "lovato-order-e295015d9a2f2e71df334c9f",
+      "name": "DMK00R1 — Digital voltmeter, single phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e295015d9a2f2e71df334c9f",
+      "recordPath": "equipment/lovato-order-e295015d9a2f2e71df334c9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e295015d9a2f2e71df334c9f.json"
+    },
+    {
+      "id": "lovato-order-16b1761f51b5c42c9de3178f",
+      "name": "DMK01R1 — Digital ammeter, single phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-16b1761f51b5c42c9de3178f",
+      "recordPath": "equipment/lovato-order-16b1761f51b5c42c9de3178f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-16b1761f51b5c42c9de3178f.json"
+    },
+    {
+      "id": "lovato-order-03f9b427e7b6f2886ede1d4e",
+      "name": "DMK03 — Digital frequency meter, single phase, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-03f9b427e7b6f2886ede1d4e",
+      "recordPath": "equipment/lovato-order-03f9b427e7b6f2886ede1d4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-03f9b427e7b6f2886ede1d4e.json"
+    },
+    {
+      "id": "lovato-order-fad34e5340eb9930514eb08a",
+      "name": "DMK03R1 — Digital frequency meter, single phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fad34e5340eb9930514eb08a",
+      "recordPath": "equipment/lovato-order-fad34e5340eb9930514eb08a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fad34e5340eb9930514eb08a.json"
+    },
+    {
+      "id": "lovato-order-3b23883baaff4c855a4e7794",
+      "name": "DMK04 — Digital cosphi meter, single phase, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3b23883baaff4c855a4e7794",
+      "recordPath": "equipment/lovato-order-3b23883baaff4c855a4e7794.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3b23883baaff4c855a4e7794.json"
+    },
+    {
+      "id": "lovato-order-2038c093be16675d8827f689",
+      "name": "DMK04R1 — Digital cosphi meter, single phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2038c093be16675d8827f689",
+      "recordPath": "equipment/lovato-order-2038c093be16675d8827f689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2038c093be16675d8827f689.json"
+    },
+    {
+      "id": "lovato-order-d6ee0517284673fa91658f4e",
+      "name": "DMK10R1 — Digital voltmeter, three phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d6ee0517284673fa91658f4e",
+      "recordPath": "equipment/lovato-order-d6ee0517284673fa91658f4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d6ee0517284673fa91658f4e.json"
+    },
+    {
+      "id": "lovato-order-928f315f53bdf014088276ff",
+      "name": "DMK11R1 — Digital ammeter, three phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-928f315f53bdf014088276ff",
+      "recordPath": "equipment/lovato-order-928f315f53bdf014088276ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-928f315f53bdf014088276ff.json"
+    },
+    {
+      "id": "lovato-order-64396a892d1ce3e398f3c6f9",
+      "name": "DMK15R1 — Digital voltmeter, ammeter and wattmeter, three phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-64396a892d1ce3e398f3c6f9",
+      "recordPath": "equipment/lovato-order-64396a892d1ce3e398f3c6f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-64396a892d1ce3e398f3c6f9.json"
+    },
+    {
+      "id": "lovato-order-9a08731f95b083c7ba55cba6",
+      "name": "DMK16R1 — Digital multimeter, 72 electrical parameters, three phase, with programmable relay output, flush-mount version, housing 96x48mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9a08731f95b083c7ba55cba6",
+      "recordPath": "equipment/lovato-order-9a08731f95b083c7ba55cba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9a08731f95b083c7ba55cba6.json"
+    },
+    {
+      "id": "lovato-order-74d0be9c6cc7ea52c55f28b5",
+      "name": "DMK80R1 — Digital voltmeter, single phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-74d0be9c6cc7ea52c55f28b5",
+      "recordPath": "equipment/lovato-order-74d0be9c6cc7ea52c55f28b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-74d0be9c6cc7ea52c55f28b5.json"
+    },
+    {
+      "id": "lovato-order-fa04754569ba8d2413f0eef5",
+      "name": "DMK81R1 — Digital ammeter, single phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fa04754569ba8d2413f0eef5",
+      "recordPath": "equipment/lovato-order-fa04754569ba8d2413f0eef5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fa04754569ba8d2413f0eef5.json"
+    },
+    {
+      "id": "lovato-order-d37a20301c56613dc0c9403d",
+      "name": "DMK83 — Digital frequency meter, single phase, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d37a20301c56613dc0c9403d",
+      "recordPath": "equipment/lovato-order-d37a20301c56613dc0c9403d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d37a20301c56613dc0c9403d.json"
+    },
+    {
+      "id": "lovato-order-850a03447931bc95676e2d23",
+      "name": "DMK83R1 — Digital frequency meter, single phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-850a03447931bc95676e2d23",
+      "recordPath": "equipment/lovato-order-850a03447931bc95676e2d23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-850a03447931bc95676e2d23.json"
+    },
+    {
+      "id": "lovato-order-c4c2c35b3531aa0611014f75",
+      "name": "DMK84 — Digital cosphi meter, single phase, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c4c2c35b3531aa0611014f75",
+      "recordPath": "equipment/lovato-order-c4c2c35b3531aa0611014f75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c4c2c35b3531aa0611014f75.json"
+    },
+    {
+      "id": "lovato-order-4f5fb30cce70e0fcb0702c47",
+      "name": "DMK84R1 — Digital cosphi meter, single phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4f5fb30cce70e0fcb0702c47",
+      "recordPath": "equipment/lovato-order-4f5fb30cce70e0fcb0702c47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4f5fb30cce70e0fcb0702c47.json"
+    },
+    {
+      "id": "lovato-order-5159b201adb51e764b351777",
+      "name": "DMK70R1 — Digital voltmeter, three phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5159b201adb51e764b351777",
+      "recordPath": "equipment/lovato-order-5159b201adb51e764b351777.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5159b201adb51e764b351777.json"
+    },
+    {
+      "id": "lovato-order-d95e66ea422aacc800122041",
+      "name": "DMK71R1 — Digital ammeter, three phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d95e66ea422aacc800122041",
+      "recordPath": "equipment/lovato-order-d95e66ea422aacc800122041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d95e66ea422aacc800122041.json"
+    },
+    {
+      "id": "lovato-order-7f15e2ae87363125c564769b",
+      "name": "DMK75R1 — Digital voltmeter, ammeter and wattmeter, three phase, with programmable relay output, modular version",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7f15e2ae87363125c564769b",
+      "recordPath": "equipment/lovato-order-7f15e2ae87363125c564769b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7f15e2ae87363125c564769b.json"
+    },
+    {
+      "id": "lovato-order-b3dff3f2fabf1c93e18f0439",
+      "name": "EXP1006 — Expansion module EXP... type, 2 relay outputs to increase number of steps",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b3dff3f2fabf1c93e18f0439",
+      "recordPath": "equipment/lovato-order-b3dff3f2fabf1c93e18f0439.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b3dff3f2fabf1c93e18f0439.json"
+    },
+    {
+      "id": "lovato-order-dcdd12d5928fe523e23f3041",
+      "name": "EXM1002 — Expansion module EXM... type, 4 digital inputs and 2 relay outputs 5A 250VAC for DMG 300",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dcdd12d5928fe523e23f3041",
+      "recordPath": "equipment/lovato-order-dcdd12d5928fe523e23f3041.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dcdd12d5928fe523e23f3041.json"
+    },
+    {
+      "id": "lovato-order-eb5222d7236e859345e09458",
+      "name": "EXM1020 — Expansion module EXM... type, interface RS485 and 2 relay outputs 5A 250VAC for DMG 300",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eb5222d7236e859345e09458",
+      "recordPath": "equipment/lovato-order-eb5222d7236e859345e09458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eb5222d7236e859345e09458.json"
+    },
+    {
+      "id": "lovato-order-6fb4f48c8609b8eae5070e8e",
+      "name": "TMM2 — Modular time relay, multifunction, multiscale and multivoltage, 2 contacts",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6fb4f48c8609b8eae5070e8e",
+      "recordPath": "equipment/lovato-order-6fb4f48c8609b8eae5070e8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6fb4f48c8609b8eae5070e8e.json"
+    },
+    {
+      "id": "lovato-order-52be127664506fcc0a2d8cd6",
+      "name": "TMLS — Modular time relay, staircase",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-52be127664506fcc0a2d8cd6",
+      "recordPath": "equipment/lovato-order-52be127664506fcc0a2d8cd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-52be127664506fcc0a2d8cd6.json"
+    },
+    {
+      "id": "lovato-order-c1c99ff6726ca30bada3bcad",
+      "name": "31L48T3S24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 3s, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c1c99ff6726ca30bada3bcad",
+      "recordPath": "equipment/lovato-order-c1c99ff6726ca30bada3bcad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c1c99ff6726ca30bada3bcad.json"
+    },
+    {
+      "id": "lovato-order-b295221479958ab3fbf376f4",
+      "name": "31L48T6S24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 6s, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b295221479958ab3fbf376f4",
+      "recordPath": "equipment/lovato-order-b295221479958ab3fbf376f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b295221479958ab3fbf376f4.json"
+    },
+    {
+      "id": "lovato-order-92222fd307bfa81d3eb3218b",
+      "name": "31L48T30S24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 30s, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-92222fd307bfa81d3eb3218b",
+      "recordPath": "equipment/lovato-order-92222fd307bfa81d3eb3218b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-92222fd307bfa81d3eb3218b.json"
+    },
+    {
+      "id": "lovato-order-e4e056772d410067f0d4943e",
+      "name": "31L48T60S24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 60s, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e4e056772d410067f0d4943e",
+      "recordPath": "equipment/lovato-order-e4e056772d410067f0d4943e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e4e056772d410067f0d4943e.json"
+    },
+    {
+      "id": "lovato-order-3d973e78631bb3895198a907",
+      "name": "31L48T3M24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 3min, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3d973e78631bb3895198a907",
+      "recordPath": "equipment/lovato-order-3d973e78631bb3895198a907.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3d973e78631bb3895198a907.json"
+    },
+    {
+      "id": "lovato-order-da1d8c785c98da0a1a792c52",
+      "name": "31L48T6M24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 6min, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-da1d8c785c98da0a1a792c52",
+      "recordPath": "equipment/lovato-order-da1d8c785c98da0a1a792c52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-da1d8c785c98da0a1a792c52.json"
+    },
+    {
+      "id": "lovato-order-bde2a9b299f98a3c804e7a49",
+      "name": "31L48T30M24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 30min, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bde2a9b299f98a3c804e7a49",
+      "recordPath": "equipment/lovato-order-bde2a9b299f98a3c804e7a49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bde2a9b299f98a3c804e7a49.json"
+    },
+    {
+      "id": "lovato-order-f86464cd811d06672d76374f",
+      "name": "31L48T60M24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 60min, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f86464cd811d06672d76374f",
+      "recordPath": "equipment/lovato-order-f86464cd811d06672d76374f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f86464cd811d06672d76374f.json"
+    },
+    {
+      "id": "lovato-order-550de5fb463284ceecc6cdbe",
+      "name": "31L48T3H24 — Time relay, plug-in and flush mount version 48x48mm, on delay, 1 contact, 3h, 24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-550de5fb463284ceecc6cdbe",
+      "recordPath": "equipment/lovato-order-550de5fb463284ceecc6cdbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-550de5fb463284ceecc6cdbe.json"
+    },
+    {
+      "id": "lovato-order-0695aee30891680d81b4b047",
+      "name": "PMV20A240 — Protection relay, voltage monitoring for three phase systems without neutral, modular version, phase loss and incorrect phase sequence, 100-240VAC, 2U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0695aee30891680d81b4b047",
+      "recordPath": "equipment/lovato-order-0695aee30891680d81b4b047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0695aee30891680d81b4b047.json"
+    },
+    {
+      "id": "lovato-order-7eadb43565c198af8a3925d6",
+      "name": "PMV30A600 — Protection relay, voltage monitoring for three phase systems without neutral, modular version, minimum voltage, phase loss and incorrect phase sequence, 600VAC, 2U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7eadb43565c198af8a3925d6",
+      "recordPath": "equipment/lovato-order-7eadb43565c198af8a3925d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7eadb43565c198af8a3925d6.json"
+    },
+    {
+      "id": "lovato-order-5ec1f9f85cb4360468996655",
+      "name": "PMV40A600 — Protection relay, voltage monitoring for three phase systems without neutral, modular version, asymmetry, phase loss and incorrect phase sequence, 600VAC, 2U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5ec1f9f85cb4360468996655",
+      "recordPath": "equipment/lovato-order-5ec1f9f85cb4360468996655.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5ec1f9f85cb4360468996655.json"
+    },
+    {
+      "id": "lovato-order-3a49aafb8238a5b3d516625f",
+      "name": "PMV50A600 — Protection relay, voltage monitoring for three phase systems without neutral, modular version, min/max voltage, phase loss and incorrect phase sequence, 600VAC, 2U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3a49aafb8238a5b3d516625f",
+      "recordPath": "equipment/lovato-order-3a49aafb8238a5b3d516625f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3a49aafb8238a5b3d516625f.json"
+    },
+    {
+      "id": "lovato-order-99e6f6c4eb5eb3af423af4bd",
+      "name": "PMV60A600 — Protection relay, voltage monitoring for three phase systems without neutral, modular version, minimum voltage, asymmetry, phase loss and incorrect phase sequence, 600VAC, 2U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-99e6f6c4eb5eb3af423af4bd",
+      "recordPath": "equipment/lovato-order-99e6f6c4eb5eb3af423af4bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-99e6f6c4eb5eb3af423af4bd.json"
+    },
+    {
+      "id": "lovato-order-4deb0edbd35e3a1f8d377f34",
+      "name": "PMV70A600 — Protection relay, voltage monitoring for three phase systems without neutral, modular version, min/max voltage, phase loss and incorrect phase sequence, 600VAC, 2U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4deb0edbd35e3a1f8d377f34",
+      "recordPath": "equipment/lovato-order-4deb0edbd35e3a1f8d377f34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4deb0edbd35e3a1f8d377f34.json"
+    },
+    {
+      "id": "lovato-order-90596f993b78b470900234af",
+      "name": "LVM40A024 — Level monitoring relay, in modular housing, 24VAC, multifunctions, high sensitivity, 2 relay outputs: 1 C/O + 1NO",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-90596f993b78b470900234af",
+      "recordPath": "equipment/lovato-order-90596f993b78b470900234af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-90596f993b78b470900234af.json"
+    },
+    {
+      "id": "lovato-order-f1d4745b39479580aeb8a069",
+      "name": "31LV1E24 — Level monitoring relay, plug-in housing, single voltage, 24VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f1d4745b39479580aeb8a069",
+      "recordPath": "equipment/lovato-order-f1d4745b39479580aeb8a069.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f1d4745b39479580aeb8a069.json"
+    },
+    {
+      "id": "lovato-order-eda3dd5071779d3d8e57b4d7",
+      "name": "31LV1E110 — Level monitoring relay, plug-in housing, single voltage, 110-120VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eda3dd5071779d3d8e57b4d7",
+      "recordPath": "equipment/lovato-order-eda3dd5071779d3d8e57b4d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eda3dd5071779d3d8e57b4d7.json"
+    },
+    {
+      "id": "lovato-order-bf14fc8a029975066a9d56d8",
+      "name": "31LV1E230 — Level monitoring relay, plug-in housing, single voltage, 220-230-240VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bf14fc8a029975066a9d56d8",
+      "recordPath": "equipment/lovato-order-bf14fc8a029975066a9d56d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bf14fc8a029975066a9d56d8.json"
+    },
+    {
+      "id": "lovato-order-8792eab2fd43d7be89bb98ed",
+      "name": "31LV1E400 — Level monitoring relay, plug-in housing, single voltage, 380-400-415VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8792eab2fd43d7be89bb98ed",
+      "recordPath": "equipment/lovato-order-8792eab2fd43d7be89bb98ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8792eab2fd43d7be89bb98ed.json"
+    },
+    {
+      "id": "lovato-order-36491c383ead788551d46ece",
+      "name": "31LV2E48 — Level monitoring relay, plug-in housing, dual voltage, 24-48VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-36491c383ead788551d46ece",
+      "recordPath": "equipment/lovato-order-36491c383ead788551d46ece.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-36491c383ead788551d46ece.json"
+    },
+    {
+      "id": "lovato-order-050f87b6712a01912fea2d68",
+      "name": "31LV2E220 — Level monitoring relay, plug-in housing, dual voltage, 110/120-220/230/240VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-050f87b6712a01912fea2d68",
+      "recordPath": "equipment/lovato-order-050f87b6712a01912fea2d68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-050f87b6712a01912fea2d68.json"
+    },
+    {
+      "id": "lovato-order-8261aa71fdccb15879c52537",
+      "name": "31LV2E400 — Level monitoring relay, plug-in housing, dual voltage, 220/230/240-380/400/415VAC, automatic reset",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8261aa71fdccb15879c52537",
+      "recordPath": "equipment/lovato-order-8261aa71fdccb15879c52537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8261aa71fdccb15879c52537.json"
+    },
+    {
+      "id": "lovato-order-94b4867b261a8cacabb8c2d7",
+      "name": "LVMP10A024 — Priority change relay in modular housing, 24VAC, 2 outputs",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-94b4867b261a8cacabb8c2d7",
+      "recordPath": "equipment/lovato-order-94b4867b261a8cacabb8c2d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-94b4867b261a8cacabb8c2d7.json"
+    },
+    {
+      "id": "lovato-order-3caf2a119b5866f33182abac",
+      "name": "31CSP2E24 — Priority change relay, plug-in housing, 24VAC, 2 outputs",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3caf2a119b5866f33182abac",
+      "recordPath": "equipment/lovato-order-3caf2a119b5866f33182abac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3caf2a119b5866f33182abac.json"
+    },
+    {
+      "id": "lovato-order-b6e51879512119bef6cbafe0",
+      "name": "31CSP2E110 — Priority change relay, plug-in housing, 110VAC, 2 outputs",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b6e51879512119bef6cbafe0",
+      "recordPath": "equipment/lovato-order-b6e51879512119bef6cbafe0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b6e51879512119bef6cbafe0.json"
+    },
+    {
+      "id": "lovato-order-42e1408d1628a98f1c47c8cd",
+      "name": "31CSP2E220 — Priority change relay, plug-in housing, 220VAC, 2 outputs",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-42e1408d1628a98f1c47c8cd",
+      "recordPath": "equipment/lovato-order-42e1408d1628a98f1c47c8cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-42e1408d1628a98f1c47c8cd.json"
+    },
+    {
+      "id": "lovato-order-f83d5c89e2d43e3117f35cb4",
+      "name": "31CSP2E230 — Priority change relay, plug-in housing, 230-240VAC, 2 outputs",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f83d5c89e2d43e3117f35cb4",
+      "recordPath": "equipment/lovato-order-f83d5c89e2d43e3117f35cb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f83d5c89e2d43e3117f35cb4.json"
+    },
+    {
+      "id": "lovato-order-39865d086362117db6a52ce6",
+      "name": "31RE014 — Relay socket retention bracket, only for S8 or S11",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-39865d086362117db6a52ce6",
+      "recordPath": "equipment/lovato-order-39865d086362117db6a52ce6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-39865d086362117db6a52ce6.json"
+    },
+    {
+      "id": "lovato-order-ffc27cf6af5e9620db237620",
+      "name": "31G216 — Flush mount frame complete with fixing accessories for plug in relays LV1E-LV2E-LV2EM",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ffc27cf6af5e9620db237620",
+      "recordPath": "equipment/lovato-order-ffc27cf6af5e9620db237620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ffc27cf6af5e9620db237620.json"
+    },
+    {
+      "id": "lovato-order-eb434eb0155db2707b56a7e0",
+      "name": "LRE08RA024 — Expansion module, 4 digital inputs, 4 digital relay outputs, supply 24VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eb434eb0155db2707b56a7e0",
+      "recordPath": "equipment/lovato-order-eb434eb0155db2707b56a7e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eb434eb0155db2707b56a7e0.json"
+    },
+    {
+      "id": "lovato-order-125ae391d53ab3a4406f820a",
+      "name": "RFE450200 — Electronic thermal overload relays phase failure, single phase sensitive. Three pole (Three phase), manual or automatic resetting, 0,4...2A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-125ae391d53ab3a4406f820a",
+      "recordPath": "equipment/lovato-order-125ae391d53ab3a4406f820a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-125ae391d53ab3a4406f820a.json"
+    },
+    {
+      "id": "lovato-order-fc033697cbdceb112d480131",
+      "name": "RFE450800 — Electronic thermal overload relays phase failure, single phase sensitive. Three pole (Three phase), manual or automatic resetting, 1,6...8A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fc033697cbdceb112d480131",
+      "recordPath": "equipment/lovato-order-fc033697cbdceb112d480131.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fc033697cbdceb112d480131.json"
+    },
+    {
+      "id": "lovato-order-510d6938efd22fd309bc2511",
+      "name": "RFE453200 — Electronic thermal overload relays phase failure, single phase sensitive. Three pole (Three phase), manual or automatic resetting, 6,4...32A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-510d6938efd22fd309bc2511",
+      "recordPath": "equipment/lovato-order-510d6938efd22fd309bc2511.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-510d6938efd22fd309bc2511.json"
+    },
+    {
+      "id": "lovato-order-76c91bfadbc535e831d0884b",
+      "name": "RFE454500 — Electronic thermal overload relays phase failure, single phase sensitive. Three pole (Three phase), manual or automatic resetting, 9...45A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-76c91bfadbc535e831d0884b",
+      "recordPath": "equipment/lovato-order-76c91bfadbc535e831d0884b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-76c91bfadbc535e831d0884b.json"
+    },
+    {
+      "id": "lovato-order-3568b26779a0736de79288c3",
+      "name": "31DRPTC24 — Thermistor protection relay, 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3568b26779a0736de79288c3",
+      "recordPath": "equipment/lovato-order-3568b26779a0736de79288c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3568b26779a0736de79288c3.json"
+    },
+    {
+      "id": "lovato-order-18ee7b5b3fd87dc3ba8248aa",
+      "name": "31DRPT24 — Thermistor protection relay, 24VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-18ee7b5b3fd87dc3ba8248aa",
+      "recordPath": "equipment/lovato-order-18ee7b5b3fd87dc3ba8248aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-18ee7b5b3fd87dc3ba8248aa.json"
+    },
+    {
+      "id": "lovato-order-02ab1ec5d0cac215cb278c61",
+      "name": "31DRPT110 — Thermistor protection relay, 110VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-02ab1ec5d0cac215cb278c61",
+      "recordPath": "equipment/lovato-order-02ab1ec5d0cac215cb278c61.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-02ab1ec5d0cac215cb278c61.json"
+    },
+    {
+      "id": "lovato-order-78a137c661573ef09cba39fd",
+      "name": "ADXC012600R2 — 12A 2ph control soft starter 187-660VAC motor control voltage and 100-240VAC auxiliary voltage, 2 output relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-78a137c661573ef09cba39fd",
+      "recordPath": "equipment/lovato-order-78a137c661573ef09cba39fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-78a137c661573ef09cba39fd.json"
+    },
+    {
+      "id": "lovato-order-eb55f6e079e1fec9ba419439",
+      "name": "ADXC016600R2 — 16A 2ph control soft starter 187-660VAC motor control voltage and 100-240VAC auxiliary voltage, 2 output relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eb55f6e079e1fec9ba419439",
+      "recordPath": "equipment/lovato-order-eb55f6e079e1fec9ba419439.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eb55f6e079e1fec9ba419439.json"
+    },
+    {
+      "id": "lovato-order-a6a837f97434d3e20d4b24ff",
+      "name": "ADXC025600R2 — 25A 2ph control soft starter 187-660VAC motor control voltage and 100-240VAC auxiliary voltage, 2 output relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a6a837f97434d3e20d4b24ff",
+      "recordPath": "equipment/lovato-order-a6a837f97434d3e20d4b24ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a6a837f97434d3e20d4b24ff.json"
+    },
+    {
+      "id": "lovato-order-a3206c0082eb0e2876ced756",
+      "name": "ADXC032600R2 — 32A 2ph control soft starter 187-660VAC motor control voltage and 100-240VAC auxiliary voltage, 2 output relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a3206c0082eb0e2876ced756",
+      "recordPath": "equipment/lovato-order-a3206c0082eb0e2876ced756.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a3206c0082eb0e2876ced756.json"
+    },
+    {
+      "id": "lovato-order-c59767495000bc90c9db0053",
+      "name": "ADXC037600R2 — 37A 2ph control soft starter 187-660VAC motor control voltage and 100-240VAC auxiliary voltage, 2 output relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c59767495000bc90c9db0053",
+      "recordPath": "equipment/lovato-order-c59767495000bc90c9db0053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c59767495000bc90c9db0053.json"
+    },
+    {
+      "id": "lovato-order-4278b9ea2deb1cdf14810806",
+      "name": "ADXC045600R2 — 45A 2ph control soft starter 187-660VAC motor control voltage and 100-240VAC auxiliary voltage, 2 output relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4278b9ea2deb1cdf14810806",
+      "recordPath": "equipment/lovato-order-4278b9ea2deb1cdf14810806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4278b9ea2deb1cdf14810806.json"
+    },
+    {
+      "id": "lovato-order-6772b55bee500ec8d86d529d",
+      "name": "51ADXM06BP — Soft starter, 2-phase control, 6A, with by-pass relay, 400VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6772b55bee500ec8d86d529d",
+      "recordPath": "equipment/lovato-order-6772b55bee500ec8d86d529d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6772b55bee500ec8d86d529d.json"
+    },
+    {
+      "id": "lovato-order-05a2eae348aedcbf4cbcd080",
+      "name": "51ADXM12BP — Soft starter, 2-phase control, 12A, with by-pass relay, 400VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-05a2eae348aedcbf4cbcd080",
+      "recordPath": "equipment/lovato-order-05a2eae348aedcbf4cbcd080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-05a2eae348aedcbf4cbcd080.json"
+    },
+    {
+      "id": "lovato-order-2eebd15692861a3081e7c037",
+      "name": "51ADXM18BP — Soft starter, 2-phase control, 18A, with by-pass relay, 400VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2eebd15692861a3081e7c037",
+      "recordPath": "equipment/lovato-order-2eebd15692861a3081e7c037.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2eebd15692861a3081e7c037.json"
+    },
+    {
+      "id": "lovato-order-5d32be830497db9904ff37c7",
+      "name": "51ADXM25BP — Soft starter, 2-phase control, 25A, with by-pass relay, 400VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5d32be830497db9904ff37c7",
+      "recordPath": "equipment/lovato-order-5d32be830497db9904ff37c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5d32be830497db9904ff37c7.json"
+    },
+    {
+      "id": "lovato-order-5ba433e80cbe0f3f71aacee4",
+      "name": "51ADXM38BP — Soft starter, 2-phase control, 38A, with by-pass relay, 400VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5ba433e80cbe0f3f71aacee4",
+      "recordPath": "equipment/lovato-order-5ba433e80cbe0f3f71aacee4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5ba433e80cbe0f3f71aacee4.json"
+    },
+    {
+      "id": "lovato-order-00024932a4899d43039d7af9",
+      "name": "51ADXM45BP — Soft starter, 2-phase control, 45A, with by-pass relay, 400VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-00024932a4899d43039d7af9",
+      "recordPath": "equipment/lovato-order-00024932a4899d43039d7af9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-00024932a4899d43039d7af9.json"
+    },
+    {
+      "id": "lovato-order-e375998470310b466ae729f7",
+      "name": "51ADXM06BPA220 — Soft starter, 2-phase control, 6A, with by-pass relay, 220VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e375998470310b466ae729f7",
+      "recordPath": "equipment/lovato-order-e375998470310b466ae729f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e375998470310b466ae729f7.json"
+    },
+    {
+      "id": "lovato-order-1db7e8c73b68cc426182ace0",
+      "name": "51ADXM12BPA220 — Soft starter, 2-phase control, 12A, with by-pass relay, 220VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1db7e8c73b68cc426182ace0",
+      "recordPath": "equipment/lovato-order-1db7e8c73b68cc426182ace0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1db7e8c73b68cc426182ace0.json"
+    },
+    {
+      "id": "lovato-order-888065a01aba9c232b136a04",
+      "name": "51ADXM18BPA220 — Soft starter, 2-phase control, 18A, with by-pass relay, 220VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-888065a01aba9c232b136a04",
+      "recordPath": "equipment/lovato-order-888065a01aba9c232b136a04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-888065a01aba9c232b136a04.json"
+    },
+    {
+      "id": "lovato-order-323e0e4e78c57deb975a3623",
+      "name": "51ADXM25BPA220 — Soft starter, 2-phase control, 25A, with by-pass relay, 220VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-323e0e4e78c57deb975a3623",
+      "recordPath": "equipment/lovato-order-323e0e4e78c57deb975a3623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-323e0e4e78c57deb975a3623.json"
+    },
+    {
+      "id": "lovato-order-f60429dd8c0a6d35cdea52f9",
+      "name": "51ADXM38BPA220 — Soft starter, 2-phase control, 38A, with by-pass relay, 220VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f60429dd8c0a6d35cdea52f9",
+      "recordPath": "equipment/lovato-order-f60429dd8c0a6d35cdea52f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f60429dd8c0a6d35cdea52f9.json"
+    },
+    {
+      "id": "lovato-order-7d1f10bf7a3cf6729c80cea2",
+      "name": "51ADXM45BPA220 — Soft starter, 2-phase control, 45A, with by-pass relay, 220VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7d1f10bf7a3cf6729c80cea2",
+      "recordPath": "equipment/lovato-order-7d1f10bf7a3cf6729c80cea2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7d1f10bf7a3cf6729c80cea2.json"
+    },
+    {
+      "id": "lovato-order-1d9501d5ff7c3f28d7271108",
+      "name": "11BG0040A024 — Control relay, 11BG00 40 A024, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1d9501d5ff7c3f28d7271108",
+      "recordPath": "equipment/lovato-order-1d9501d5ff7c3f28d7271108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1d9501d5ff7c3f28d7271108.json"
+    },
+    {
+      "id": "lovato-order-67f790bd0f3463543a7ac6e4",
+      "name": "11BG0040A048 — Control relay, 11BG00 40 A048, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-67f790bd0f3463543a7ac6e4",
+      "recordPath": "equipment/lovato-order-67f790bd0f3463543a7ac6e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-67f790bd0f3463543a7ac6e4.json"
+    },
+    {
+      "id": "lovato-order-33c3e12099b94b5b8ef90563",
+      "name": "11BG0040A110 — Control relay, 11BG00 40 A110, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-33c3e12099b94b5b8ef90563",
+      "recordPath": "equipment/lovato-order-33c3e12099b94b5b8ef90563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-33c3e12099b94b5b8ef90563.json"
+    },
+    {
+      "id": "lovato-order-2353cdaf822ade07188beaeb",
+      "name": "11BG0040A230 — Control relay, 11BG00 40 A230, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2353cdaf822ade07188beaeb",
+      "recordPath": "equipment/lovato-order-2353cdaf822ade07188beaeb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2353cdaf822ade07188beaeb.json"
+    },
+    {
+      "id": "lovato-order-0758634a9c6d0e4cae9e30a8",
+      "name": "11BG0040A400 — Control relay, 11BG00 40 A400, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0758634a9c6d0e4cae9e30a8",
+      "recordPath": "equipment/lovato-order-0758634a9c6d0e4cae9e30a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0758634a9c6d0e4cae9e30a8.json"
+    },
+    {
+      "id": "lovato-order-7755c9da312530836d1e3347",
+      "name": "11BG0040A02460 — Control relay, 11BG00 40 A024 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7755c9da312530836d1e3347",
+      "recordPath": "equipment/lovato-order-7755c9da312530836d1e3347.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7755c9da312530836d1e3347.json"
+    },
+    {
+      "id": "lovato-order-7b5a8bb79a57610fc47f4e27",
+      "name": "11BG0040A04860 — Control relay, 11BG00 40 A048 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7b5a8bb79a57610fc47f4e27",
+      "recordPath": "equipment/lovato-order-7b5a8bb79a57610fc47f4e27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7b5a8bb79a57610fc47f4e27.json"
+    },
+    {
+      "id": "lovato-order-0ea4e67b3c7422bcd97ca8a7",
+      "name": "11BG0040A12060 — Control relay, 11BG00 40 A120 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0ea4e67b3c7422bcd97ca8a7",
+      "recordPath": "equipment/lovato-order-0ea4e67b3c7422bcd97ca8a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0ea4e67b3c7422bcd97ca8a7.json"
+    },
+    {
+      "id": "lovato-order-fe6d828d0667b7a9d7ce11dc",
+      "name": "11BG0040A22060 — Control relay, 11BG00 40 A220 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fe6d828d0667b7a9d7ce11dc",
+      "recordPath": "equipment/lovato-order-fe6d828d0667b7a9d7ce11dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fe6d828d0667b7a9d7ce11dc.json"
+    },
+    {
+      "id": "lovato-order-c77f3e49fe979a5c6f4b8cf4",
+      "name": "11BG0040A23060 — Control relay, 11BG00 40 A230 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c77f3e49fe979a5c6f4b8cf4",
+      "recordPath": "equipment/lovato-order-c77f3e49fe979a5c6f4b8cf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c77f3e49fe979a5c6f4b8cf4.json"
+    },
+    {
+      "id": "lovato-order-5c4de063875420f5d5f00ddb",
+      "name": "11BG0040A46060 — Control relay, 11BG00 40 A460 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5c4de063875420f5d5f00ddb",
+      "recordPath": "equipment/lovato-order-5c4de063875420f5d5f00ddb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5c4de063875420f5d5f00ddb.json"
+    },
+    {
+      "id": "lovato-order-0e21a940ea5ca9c70979d463",
+      "name": "11BG0040A57560 — Control relay, 11BG00 40 A575 60, 4NO, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0e21a940ea5ca9c70979d463",
+      "recordPath": "equipment/lovato-order-0e21a940ea5ca9c70979d463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0e21a940ea5ca9c70979d463.json"
+    },
+    {
+      "id": "lovato-order-351669303f4041dd94426277",
+      "name": "11BG0031A024 — Control relay, 11BG00 31 A024, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-351669303f4041dd94426277",
+      "recordPath": "equipment/lovato-order-351669303f4041dd94426277.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-351669303f4041dd94426277.json"
+    },
+    {
+      "id": "lovato-order-e386c99430b0a8b335105d6d",
+      "name": "11BG0031A048 — Control relay, 11BG00 31 A048, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e386c99430b0a8b335105d6d",
+      "recordPath": "equipment/lovato-order-e386c99430b0a8b335105d6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e386c99430b0a8b335105d6d.json"
+    },
+    {
+      "id": "lovato-order-4cfb1e60c887ea7a045339f7",
+      "name": "11BG0031A110 — Control relay, 11BG00 31 A110, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4cfb1e60c887ea7a045339f7",
+      "recordPath": "equipment/lovato-order-4cfb1e60c887ea7a045339f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4cfb1e60c887ea7a045339f7.json"
+    },
+    {
+      "id": "lovato-order-3cac748b57559c6d6336e42e",
+      "name": "11BG0031A230 — Control relay, 11BG00 31 A230, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3cac748b57559c6d6336e42e",
+      "recordPath": "equipment/lovato-order-3cac748b57559c6d6336e42e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3cac748b57559c6d6336e42e.json"
+    },
+    {
+      "id": "lovato-order-d743d7f7ef8ebe650bcc336a",
+      "name": "11BG0031A400 — Control relay, 11BG00 31 A400, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d743d7f7ef8ebe650bcc336a",
+      "recordPath": "equipment/lovato-order-d743d7f7ef8ebe650bcc336a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d743d7f7ef8ebe650bcc336a.json"
+    },
+    {
+      "id": "lovato-order-bdad8e77a69999aadd9af161",
+      "name": "11BG0031A02460 — Control relay, 11BG00 31 A024 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bdad8e77a69999aadd9af161",
+      "recordPath": "equipment/lovato-order-bdad8e77a69999aadd9af161.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bdad8e77a69999aadd9af161.json"
+    },
+    {
+      "id": "lovato-order-5cc1158757912d6464f5f837",
+      "name": "11BG0031A04860 — Control relay, 11BG00 31 A048 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5cc1158757912d6464f5f837",
+      "recordPath": "equipment/lovato-order-5cc1158757912d6464f5f837.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5cc1158757912d6464f5f837.json"
+    },
+    {
+      "id": "lovato-order-0a06581a5ffbac0c381c6ce1",
+      "name": "11BG0031A12060 — Control relay, 11BG00 31 A120 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0a06581a5ffbac0c381c6ce1",
+      "recordPath": "equipment/lovato-order-0a06581a5ffbac0c381c6ce1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0a06581a5ffbac0c381c6ce1.json"
+    },
+    {
+      "id": "lovato-order-61750f251114d2d6c0cc7cdf",
+      "name": "11BG0031A22060 — Control relay, 11BG00 31 A220 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-61750f251114d2d6c0cc7cdf",
+      "recordPath": "equipment/lovato-order-61750f251114d2d6c0cc7cdf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-61750f251114d2d6c0cc7cdf.json"
+    },
+    {
+      "id": "lovato-order-e5fc04b08343edf0323fe23e",
+      "name": "11BG0031A23060 — Control relay, 11BG00 31 A230 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e5fc04b08343edf0323fe23e",
+      "recordPath": "equipment/lovato-order-e5fc04b08343edf0323fe23e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e5fc04b08343edf0323fe23e.json"
+    },
+    {
+      "id": "lovato-order-7bc36675c2c4bebdbe1dd315",
+      "name": "11BG0031A46060 — Control relay, 11BG00 31 A460 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7bc36675c2c4bebdbe1dd315",
+      "recordPath": "equipment/lovato-order-7bc36675c2c4bebdbe1dd315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7bc36675c2c4bebdbe1dd315.json"
+    },
+    {
+      "id": "lovato-order-66a3acec267e903791298a43",
+      "name": "11BG0031A57560 — Control relay, 11BG00 31 A575 60, 3NO+1NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-66a3acec267e903791298a43",
+      "recordPath": "equipment/lovato-order-66a3acec267e903791298a43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-66a3acec267e903791298a43.json"
+    },
+    {
+      "id": "lovato-order-a27766aa6247fa73407212d9",
+      "name": "11BG0022A024 — Control relay, 11BG00 22 A024, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a27766aa6247fa73407212d9",
+      "recordPath": "equipment/lovato-order-a27766aa6247fa73407212d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a27766aa6247fa73407212d9.json"
+    },
+    {
+      "id": "lovato-order-52d9c8cff939fd2a84a8ea45",
+      "name": "11BG0022A048 — Control relay, 11BG00 22 A048, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-52d9c8cff939fd2a84a8ea45",
+      "recordPath": "equipment/lovato-order-52d9c8cff939fd2a84a8ea45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-52d9c8cff939fd2a84a8ea45.json"
+    },
+    {
+      "id": "lovato-order-2dabaf3bed60efc848960bfb",
+      "name": "11BG0022A110 — Control relay, 11BG00 22 A110, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2dabaf3bed60efc848960bfb",
+      "recordPath": "equipment/lovato-order-2dabaf3bed60efc848960bfb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2dabaf3bed60efc848960bfb.json"
+    },
+    {
+      "id": "lovato-order-ac73e62b37b39901ab147413",
+      "name": "11BG0022A230 — Control relay, 11BG00 22 A230, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ac73e62b37b39901ab147413",
+      "recordPath": "equipment/lovato-order-ac73e62b37b39901ab147413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ac73e62b37b39901ab147413.json"
+    },
+    {
+      "id": "lovato-order-f5d10c67b4e7797892787b24",
+      "name": "11BG0022A400 — Control relay, 11BG00 22 A400, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f5d10c67b4e7797892787b24",
+      "recordPath": "equipment/lovato-order-f5d10c67b4e7797892787b24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f5d10c67b4e7797892787b24.json"
+    },
+    {
+      "id": "lovato-order-8a499b675e8d3378907d6a08",
+      "name": "11BG0022A02460 — Control relay, 11BG00 22 A024 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8a499b675e8d3378907d6a08",
+      "recordPath": "equipment/lovato-order-8a499b675e8d3378907d6a08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8a499b675e8d3378907d6a08.json"
+    },
+    {
+      "id": "lovato-order-d50f1c80ca8c992e8805ee5e",
+      "name": "11BG0022A04860 — Control relay, 11BG00 22 A048 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d50f1c80ca8c992e8805ee5e",
+      "recordPath": "equipment/lovato-order-d50f1c80ca8c992e8805ee5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d50f1c80ca8c992e8805ee5e.json"
+    },
+    {
+      "id": "lovato-order-b8f4116560d84caad130c9f2",
+      "name": "11BG0022A12060 — Control relay, 11BG00 22 A120 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b8f4116560d84caad130c9f2",
+      "recordPath": "equipment/lovato-order-b8f4116560d84caad130c9f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b8f4116560d84caad130c9f2.json"
+    },
+    {
+      "id": "lovato-order-adf23a653e719c9653571433",
+      "name": "11BG0022A22060 — Control relay, 11BG00 22 A220 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-adf23a653e719c9653571433",
+      "recordPath": "equipment/lovato-order-adf23a653e719c9653571433.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-adf23a653e719c9653571433.json"
+    },
+    {
+      "id": "lovato-order-756ebe4d64d433487219e31c",
+      "name": "11BG0022A23060 — Control relay, 11BG00 22 A230 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-756ebe4d64d433487219e31c",
+      "recordPath": "equipment/lovato-order-756ebe4d64d433487219e31c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-756ebe4d64d433487219e31c.json"
+    },
+    {
+      "id": "lovato-order-d139920f34e17575c2d0b3af",
+      "name": "11BG0022A46060 — Control relay, 11BG00 22 A460 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d139920f34e17575c2d0b3af",
+      "recordPath": "equipment/lovato-order-d139920f34e17575c2d0b3af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d139920f34e17575c2d0b3af.json"
+    },
+    {
+      "id": "lovato-order-dd395b72583ed83e4bb24909",
+      "name": "11BG0022A57560 — Control relay, 11BG00 22 A575 60, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dd395b72583ed83e4bb24909",
+      "recordPath": "equipment/lovato-order-dd395b72583ed83e4bb24909.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dd395b72583ed83e4bb24909.json"
+    },
+    {
+      "id": "lovato-order-38f8b6fef7cf976f8f5ebdb9",
+      "name": "11BG0040D012 — Control relay, 11BG00 40 D012, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-38f8b6fef7cf976f8f5ebdb9",
+      "recordPath": "equipment/lovato-order-38f8b6fef7cf976f8f5ebdb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-38f8b6fef7cf976f8f5ebdb9.json"
+    },
+    {
+      "id": "lovato-order-08b962d9afab2b9b7101e13a",
+      "name": "11BG0040D024 — Control relay, 11BG00 40 D024, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-08b962d9afab2b9b7101e13a",
+      "recordPath": "equipment/lovato-order-08b962d9afab2b9b7101e13a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-08b962d9afab2b9b7101e13a.json"
+    },
+    {
+      "id": "lovato-order-e404994e2ac8a71a92bedf6a",
+      "name": "11BG0040D048 — Control relay, 11BG00 40 D048, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e404994e2ac8a71a92bedf6a",
+      "recordPath": "equipment/lovato-order-e404994e2ac8a71a92bedf6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e404994e2ac8a71a92bedf6a.json"
+    },
+    {
+      "id": "lovato-order-63672b2b73d9e37a8b3a0b1b",
+      "name": "11BG0040D060 — Control relay, 11BG00 40 D060, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-63672b2b73d9e37a8b3a0b1b",
+      "recordPath": "equipment/lovato-order-63672b2b73d9e37a8b3a0b1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-63672b2b73d9e37a8b3a0b1b.json"
+    },
+    {
+      "id": "lovato-order-507f5baa91a2c945a897a4ba",
+      "name": "11BG0040D110 — Control relay, 11BG00 40 D110, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-507f5baa91a2c945a897a4ba",
+      "recordPath": "equipment/lovato-order-507f5baa91a2c945a897a4ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-507f5baa91a2c945a897a4ba.json"
+    },
+    {
+      "id": "lovato-order-9d0825929d3d5330d9cb420f",
+      "name": "11BG0040D125 — Control relay, 11BG00 40 D125, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9d0825929d3d5330d9cb420f",
+      "recordPath": "equipment/lovato-order-9d0825929d3d5330d9cb420f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9d0825929d3d5330d9cb420f.json"
+    },
+    {
+      "id": "lovato-order-113172fe5763fb4806995618",
+      "name": "11BG0040D220 — Control relay, 11BG00 40 D220, 4NO, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-113172fe5763fb4806995618",
+      "recordPath": "equipment/lovato-order-113172fe5763fb4806995618.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-113172fe5763fb4806995618.json"
+    },
+    {
+      "id": "lovato-order-f983220e22e5004bde15db50",
+      "name": "11BG0031D012 — Control relay, 11BG00 31 D012, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f983220e22e5004bde15db50",
+      "recordPath": "equipment/lovato-order-f983220e22e5004bde15db50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f983220e22e5004bde15db50.json"
+    },
+    {
+      "id": "lovato-order-364a9fb645504b0220d0834c",
+      "name": "11BG0031D024 — Control relay, 11BG00 31 D024, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-364a9fb645504b0220d0834c",
+      "recordPath": "equipment/lovato-order-364a9fb645504b0220d0834c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-364a9fb645504b0220d0834c.json"
+    },
+    {
+      "id": "lovato-order-aca01b8ce8252c4bdb9b18f9",
+      "name": "11BG0031D048 — Control relay, 11BG00 31 D048, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-aca01b8ce8252c4bdb9b18f9",
+      "recordPath": "equipment/lovato-order-aca01b8ce8252c4bdb9b18f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-aca01b8ce8252c4bdb9b18f9.json"
+    },
+    {
+      "id": "lovato-order-20c55ede025ddd734a884cf0",
+      "name": "11BG0031D060 — Control relay, 11BG00 31 D060, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-20c55ede025ddd734a884cf0",
+      "recordPath": "equipment/lovato-order-20c55ede025ddd734a884cf0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-20c55ede025ddd734a884cf0.json"
+    },
+    {
+      "id": "lovato-order-804a962d9f1f48692e8ddffd",
+      "name": "11BG0031D110 — Control relay, 11BG00 31 D110, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-804a962d9f1f48692e8ddffd",
+      "recordPath": "equipment/lovato-order-804a962d9f1f48692e8ddffd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-804a962d9f1f48692e8ddffd.json"
+    },
+    {
+      "id": "lovato-order-7e003809818135f4c110f3bd",
+      "name": "11BG0031D125 — Control relay, 11BG00 31 D125, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7e003809818135f4c110f3bd",
+      "recordPath": "equipment/lovato-order-7e003809818135f4c110f3bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7e003809818135f4c110f3bd.json"
+    },
+    {
+      "id": "lovato-order-1ee344402fcfaa650c53e8c7",
+      "name": "11BG0031D220 — Control relay, 11BG00 31 D220, 3NO+1NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1ee344402fcfaa650c53e8c7",
+      "recordPath": "equipment/lovato-order-1ee344402fcfaa650c53e8c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1ee344402fcfaa650c53e8c7.json"
+    },
+    {
+      "id": "lovato-order-7c2c31830d706c476dfbed7b",
+      "name": "11BG0022D012 — Control relay, 11BG00 22 D012, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7c2c31830d706c476dfbed7b",
+      "recordPath": "equipment/lovato-order-7c2c31830d706c476dfbed7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7c2c31830d706c476dfbed7b.json"
+    },
+    {
+      "id": "lovato-order-1f0f3d694d9680bc6fe9f5a1",
+      "name": "11BG0022D024 — Control relay, 11BG00 22 D024, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1f0f3d694d9680bc6fe9f5a1",
+      "recordPath": "equipment/lovato-order-1f0f3d694d9680bc6fe9f5a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1f0f3d694d9680bc6fe9f5a1.json"
+    },
+    {
+      "id": "lovato-order-dfcc6d07363bd4870e02f7a2",
+      "name": "11BG0022D048 — Control relay, 11BG00 22 D048, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dfcc6d07363bd4870e02f7a2",
+      "recordPath": "equipment/lovato-order-dfcc6d07363bd4870e02f7a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dfcc6d07363bd4870e02f7a2.json"
+    },
+    {
+      "id": "lovato-order-3e23c34e0ac6503c2899a773",
+      "name": "11BG0022D060 — Control relay, 11BG00 22 D060, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3e23c34e0ac6503c2899a773",
+      "recordPath": "equipment/lovato-order-3e23c34e0ac6503c2899a773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3e23c34e0ac6503c2899a773.json"
+    },
+    {
+      "id": "lovato-order-9439a920a094247480b9398a",
+      "name": "11BG0022D110 — Control relay, 11BG00 22 D110, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9439a920a094247480b9398a",
+      "recordPath": "equipment/lovato-order-9439a920a094247480b9398a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9439a920a094247480b9398a.json"
+    },
+    {
+      "id": "lovato-order-e69021a145296f32928abe52",
+      "name": "11BG0022D125 — Control relay, 11BG00 22 D125, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e69021a145296f32928abe52",
+      "recordPath": "equipment/lovato-order-e69021a145296f32928abe52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e69021a145296f32928abe52.json"
+    },
+    {
+      "id": "lovato-order-0d9ceb54c090932ab7be9f14",
+      "name": "11BG0022D220 — Control relay, 11BG00 22 D220, 2NO+2NC, coil DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0d9ceb54c090932ab7be9f14",
+      "recordPath": "equipment/lovato-order-0d9ceb54c090932ab7be9f14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0d9ceb54c090932ab7be9f14.json"
+    },
+    {
+      "id": "lovato-order-d764bc2ae8b555da25e63cdc",
+      "name": "11BG0040L024 — Control relay, 11BG00 40 L024, 4NO, coil DC, low consumption",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d764bc2ae8b555da25e63cdc",
+      "recordPath": "equipment/lovato-order-d764bc2ae8b555da25e63cdc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d764bc2ae8b555da25e63cdc.json"
+    },
+    {
+      "id": "lovato-order-49519d00b1607452cbdb97cd",
+      "name": "11BG0040L048 — Control relay, 11BG00 40 L048, 4NO, coil DC, low consumption",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-49519d00b1607452cbdb97cd",
+      "recordPath": "equipment/lovato-order-49519d00b1607452cbdb97cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-49519d00b1607452cbdb97cd.json"
+    },
+    {
+      "id": "lovato-order-cbbe4b2483c4250d1c1f5aeb",
+      "name": "11BG0031L024 — Control relay, 11BG00 31 L024, 3NO+1NC, coil DC, low consumption",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cbbe4b2483c4250d1c1f5aeb",
+      "recordPath": "equipment/lovato-order-cbbe4b2483c4250d1c1f5aeb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cbbe4b2483c4250d1c1f5aeb.json"
+    },
+    {
+      "id": "lovato-order-ea6224ad484e02333045b5c1",
+      "name": "11BG0031L048 — Control relay, 11BG00 31 L048, 3NO+1NC, coil DC, low consumption",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ea6224ad484e02333045b5c1",
+      "recordPath": "equipment/lovato-order-ea6224ad484e02333045b5c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ea6224ad484e02333045b5c1.json"
+    },
+    {
+      "id": "lovato-order-a2e48e25a95bfd817038b1f8",
+      "name": "11BG0022L024 — Control relay, 11BG00 22 L024, 2NO+2NC, coil DC, low consumption",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a2e48e25a95bfd817038b1f8",
+      "recordPath": "equipment/lovato-order-a2e48e25a95bfd817038b1f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a2e48e25a95bfd817038b1f8.json"
+    },
+    {
+      "id": "lovato-order-e083fc39932e347f21eacf22",
+      "name": "11BG0022L048 — Control relay, 11BG00 22 L048, 2NO+2NC, coil DC, low consumption",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e083fc39932e347f21eacf22",
+      "recordPath": "equipment/lovato-order-e083fc39932e347f21eacf22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e083fc39932e347f21eacf22.json"
+    },
+    {
+      "id": "lovato-order-e272ecfd41938c35be54a1a4",
+      "name": "BF0004A024 — Control relay, BF00 04 A024, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e272ecfd41938c35be54a1a4",
+      "recordPath": "equipment/lovato-order-e272ecfd41938c35be54a1a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e272ecfd41938c35be54a1a4.json"
+    },
+    {
+      "id": "lovato-order-123cc94b1d271397eaf9497c",
+      "name": "BF0004A048 — Control relay, BF00 04 A048, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-123cc94b1d271397eaf9497c",
+      "recordPath": "equipment/lovato-order-123cc94b1d271397eaf9497c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-123cc94b1d271397eaf9497c.json"
+    },
+    {
+      "id": "lovato-order-2b9eb681cdec0353ef47e195",
+      "name": "BF0004A110 — Control relay, BF00 04 A110, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2b9eb681cdec0353ef47e195",
+      "recordPath": "equipment/lovato-order-2b9eb681cdec0353ef47e195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2b9eb681cdec0353ef47e195.json"
+    },
+    {
+      "id": "lovato-order-71d9d41785ce5c04cbbfd6db",
+      "name": "BF0004A230 — Control relay, BF00 04 A230, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-71d9d41785ce5c04cbbfd6db",
+      "recordPath": "equipment/lovato-order-71d9d41785ce5c04cbbfd6db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-71d9d41785ce5c04cbbfd6db.json"
+    },
+    {
+      "id": "lovato-order-2be0a8be4be5056308b32458",
+      "name": "BF0004A400 — Control relay, BF00 04 A400, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2be0a8be4be5056308b32458",
+      "recordPath": "equipment/lovato-order-2be0a8be4be5056308b32458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2be0a8be4be5056308b32458.json"
+    },
+    {
+      "id": "lovato-order-72c8ddca9efca1aa919b3950",
+      "name": "BF0004A02460 — Control relay, BF00 04 A024 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-72c8ddca9efca1aa919b3950",
+      "recordPath": "equipment/lovato-order-72c8ddca9efca1aa919b3950.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-72c8ddca9efca1aa919b3950.json"
+    },
+    {
+      "id": "lovato-order-d5591fd605e63d10d52c746a",
+      "name": "BF0004A04860 — Control relay, BF00 04 A048 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d5591fd605e63d10d52c746a",
+      "recordPath": "equipment/lovato-order-d5591fd605e63d10d52c746a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d5591fd605e63d10d52c746a.json"
+    },
+    {
+      "id": "lovato-order-9d4ff7aa74711882bc733e4f",
+      "name": "BF0004A12060 — Control relay, BF00 04 A120 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9d4ff7aa74711882bc733e4f",
+      "recordPath": "equipment/lovato-order-9d4ff7aa74711882bc733e4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9d4ff7aa74711882bc733e4f.json"
+    },
+    {
+      "id": "lovato-order-7af636aa8c77253188f43e7d",
+      "name": "BF0004A22060 — Control relay, BF00 04 A220 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7af636aa8c77253188f43e7d",
+      "recordPath": "equipment/lovato-order-7af636aa8c77253188f43e7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7af636aa8c77253188f43e7d.json"
+    },
+    {
+      "id": "lovato-order-ee0ce035d1b0404dfeadda2b",
+      "name": "BF0004A23060 — Control relay, BF00 04 A230 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ee0ce035d1b0404dfeadda2b",
+      "recordPath": "equipment/lovato-order-ee0ce035d1b0404dfeadda2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ee0ce035d1b0404dfeadda2b.json"
+    },
+    {
+      "id": "lovato-order-d876c8c1f5b88b104cfea795",
+      "name": "BF0004A46060 — Control relay, BF00 04 A460 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d876c8c1f5b88b104cfea795",
+      "recordPath": "equipment/lovato-order-d876c8c1f5b88b104cfea795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d876c8c1f5b88b104cfea795.json"
+    },
+    {
+      "id": "lovato-order-a819d587246387b8b783425f",
+      "name": "BF0004A57560 — Control relay, BF00 04 A575 60, 4NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a819d587246387b8b783425f",
+      "recordPath": "equipment/lovato-order-a819d587246387b8b783425f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a819d587246387b8b783425f.json"
+    },
+    {
+      "id": "lovato-order-7ce51cb910f45c52597089f4",
+      "name": "BF0022A024 — Control relay, BF00 22 A024, 2NO+2NC, coil AC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7ce51cb910f45c52597089f4",
+      "recordPath": "equipment/lovato-order-7ce51cb910f45c52597089f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7ce51cb910f45c52597089f4.json"
+    }
+  ]
+}

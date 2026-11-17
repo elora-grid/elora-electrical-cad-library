@@ -25,6 +25,7 @@ The supplied configuration is “OT1600E04W4”. Keep those frame, mounting and 
 - Manufacturer drawing: 1SCC301917F0001
 - Manufacturer reference: 1SCC301917F0001
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: DWG
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

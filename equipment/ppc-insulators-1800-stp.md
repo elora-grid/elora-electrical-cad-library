@@ -32,6 +32,7 @@ Use the 1800 STP column on PDF page 14. The download is the complete catalogue, 
 - Diameter Db (in): 8.7
 - Cantilever Strength, Upright, Pounds: 1400
 - Impulse Withstand, kV: 1800
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

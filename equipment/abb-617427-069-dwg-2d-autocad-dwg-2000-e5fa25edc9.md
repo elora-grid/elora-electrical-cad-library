@@ -8,7 +8,7 @@ ABB 617427-069: motor outline for motor footprint and drive-end arrangement. Man
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 617427-069
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -30,8 +30,8 @@ The supplied configuration is “617427-069”. Keep those frame, mounting and a
 - MOUNTING (617427-069): FOOT INCLUDES 445T FRAME MOUNTING HOLES
 - Drawing units (617427-069.pdf, page 1): inches / millimetres
 - Drawing units (617427-069.pdf, page 2): inches / millimetres
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 6
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 7
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -118,6 +118,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=617427-069&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 586797 bytes
 - Delivery SHA-256: 6772b1fe7328eadbe4b452415a74a01a843bd304059bf20de3fba149a84ed23d
+
+### 617427\_069.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (617427\_069.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=617427-069&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-617427-069-dwg-2d-autocad-dwg-2000-e5fa25edc9/6772b1fe7328eadbe4b4-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6772b1fe7328eadbe4b452415a74a01a843bd304059bf20de3fba149a84ed23d
+- Original bytes: 586797
+- Revision: A
+- Retrieved: 2026-11-04T00:59:35Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=617427-069&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=617427-069&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1091663 bytes
+- Delivery SHA-256: f4d14b92c0f3ff22c375ad4046bcf54d4fe3315f43897f6b4504ccd148516d4f
 
 ### 617427-069.pdf
 

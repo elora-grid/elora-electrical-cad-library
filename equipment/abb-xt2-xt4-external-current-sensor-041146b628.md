@@ -8,7 +8,7 @@ ABB XT2-XT4 External current sensor: breaker or breaker-accessory reference for 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0908
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2-XT4 External current sensor”. Keep those 
 - Manufacturer reference: 1SDH001295R0908
 - Document revision: A
 - Model envelope: 1SDH001295R0908\_Current\_sensor\_XT2\_XT4.stp: 37 × 71.2 × 86 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0908&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 839067 bytes
 - Delivery SHA-256: edf981669481cd1ccb46a62d243f72c65ae94571985c7c12dc37b9e8fcc2b8dd
+
+### 1SDH001295R0908\_Current\_sensor\_XT2\_XT4.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0908\_Current\_sensor\_XT2\_XT4.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0908&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-xt4-external-current-sensor-041146b628/edf981669481cd1ccb46-dxf)
+- Redistribution: unknown
+- Original SHA-256: edf981669481cd1ccb46a62d243f72c65ae94571985c7c12dc37b9e8fcc2b8dd
+- Original bytes: 839067
+- Revision: A
+- Retrieved: 2026-11-03T01:53:48.637554Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0908&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0908&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 136401 bytes
+- Delivery SHA-256: 637afc2e0048283aaf2a32e9d898f80950729cae2ed63f4b4f5728ed4f855b11
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

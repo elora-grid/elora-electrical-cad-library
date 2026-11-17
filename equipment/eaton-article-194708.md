@@ -1,0 +1,118 @@
+# Eaton — NZM1-XSM-L-4MM — Main Switch Assembly kit, left side, enforced
+
+Eaton NZM1-XSM-L-4MM — Main Switch Assembly kit, left side, enforced. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-194708) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-194708.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-194708.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/b22b0b5c-6d08-4170-adf7-bdd593a5b1d6/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 194708
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NZM1-XSM-L-4MM — Main Switch Assembly kit, left side, enforced
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 194708
+- Manufacturer reference: 194708
+- Manufacturer type: NZM1-XSM-L-4MM
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 194708 ([source](https://ecat.eaton.com/downloads/b22b0b5c-6d08-4170-adf7-bdd593a5b1d6/cad_files_001.zip))
+- Manufacturer type: NZM1-XSM-L-4MM ([source](https://ecat.eaton.com/downloads/b22b0b5c-6d08-4170-adf7-bdd593a5b1d6/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/b22b0b5c-6d08-4170-adf7-bdd593a5b1d6/cad_files_001.zip))
+
+## What the equipment does
+
+A switch changes an electrical connection when a person or mechanism operates it. Its contacts determine which control paths are made or broken.
+
+Use eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp.
+
+Use eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp. Use eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 194708 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NZM1-XSM-L-4MM — Main Switch Assembly kit, left side, enforced?
+
+2 inspected originals for Eaton NZM1-XSM-L-4MM — Main Switch Assembly kit, left side, enforced: eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp (STEP); eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/b22b0b5c-6d08-4170-adf7-bdd593a5b1d6/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/b22b0b5c-6d08-4170-adf7-bdd593a5b1d6/cad_files_001.zip)
+
+## Choosing a file
+
+Use eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp. Use eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-194708/native-50641ea6c4cbd1a3a6bcafd2-step)
+- Redistribution: unknown
+- Original SHA-256: 50641ea6c4cbd1a3a6bcafd2b01b88b68edde7d9ce9be9858e6ac833aec3143c
+- Original bytes: 524727
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-handle-mechanisms-mcad-3d-models-nzm1-xsm-l.stp)
+- Delivery: source-bundle; ZIP; 94899 bytes
+- Delivery SHA-256: d4cb0fa6e6cc7bebf1b29e70ae22985dbf88896928e385bcfb8c85e96fb4ad57
+
+### eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-194708/native-ce08e6da5a25977f54131e67-dwg)
+- Redistribution: unknown
+- Original SHA-256: ce08e6da5a25977f54131e678ce55759e2e2feab26944c52bf348f06adaf4322
+- Original bytes: 518880
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-handle-mechanisms-mcad-drawings-nzm1-xsm-l.dwg)
+- Delivery: source-bundle; ZIP; 459199 bytes
+- Delivery SHA-256: e8b3a3f993c94bf41c6b6dc18041c3e0633945890605db1bea5bfdf462694308
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

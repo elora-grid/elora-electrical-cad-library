@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: USF
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: USF
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 4
 - Available previews: 12 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with USF. The files above belong to Greenheck's USF fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -161,5 +161,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 450871 bytes
 - Delivery SHA-256: e03d147d3b15e4d30deb22e72c1495085662f8179d25cd06f795ea92a312cc9e
+
+### USF-04-1-B2-Arr10-3.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (USF-04-1-B2-Arr10-3.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/USF-04-1-B2-Arr10-3.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-usf-fans/greenheck-usf-04-1-b2-arr10-3-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: e03d147d3b15e4d30deb22e72c1495085662f8179d25cd06f795ea92a312cc9e
+- Original bytes: 450871
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 316888 bytes
+- Delivery SHA-256: 61a3df0a169eabc2d23a560ed7ec1bf39e3d11b211356cd86fc13801ccd136e8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

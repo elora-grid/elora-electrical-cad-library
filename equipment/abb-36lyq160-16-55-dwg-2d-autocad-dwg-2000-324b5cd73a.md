@@ -8,7 +8,7 @@ ABB 36LYQ160\_16.55: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 36LYQ160\_16.55; 36LYQ160
-- Formats: DWG, IGS, PDF, SAT, STEP
+- Formats: DWG, IGS, PDF, SAT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -31,8 +31,8 @@ The supplied configuration is “36LYQ160\_16.55”. Keep those frame, mounting 
 - Drawing views (36LYQ160.pdf, page 1): drive end detail
 - Manufacturer reference: 36LYQ160\_18.05; 36LYQ160
 - Manufacturer reference: 36LYQ160
-- Listed file formats: DWG, IGS, PDF, SAT, STEP
-- Listed files: 7
+- Listed file formats: DWG, IGS, PDF, SAT, STEP, DXF
+- Listed files: 9
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -125,6 +125,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 435725 bytes
 - Delivery SHA-256: d528a9e1651cbb737e7a3f6986957bce0b9a67947738d3bb83f9611a5292f449
 
+### 36LYQ160\_16.55.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (36LYQ160\_16.55.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_16.55&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyq160-16-55-dwg-2d-autocad-dwg-2000-324b5cd73a/d528a9e1651cbb737e7a-dxf)
+- Redistribution: unknown
+- Original SHA-256: d528a9e1651cbb737e7a3f6986957bce0b9a67947738d3bb83f9611a5292f449
+- Original bytes: 435725
+- Revision: A
+- Retrieved: 2026-11-04T00:58:47Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_16.55&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_16.55&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 578859 bytes
+- Delivery SHA-256: 5874b3ebe4edad410df5d4137b925597a12a79eb0a326664148690aa2caa02c0
+
 ### 36LYQ160.pdf
 
 - Format: PDF
@@ -181,6 +200,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 449795 bytes
 - Delivery SHA-256: d03ab10de15447350d8a5f1ee4600e41aa9ed9fe15af2166e74453e16291d3da
+
+### 36LYQ160\_18.05.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (36LYQ160\_18.05.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyq160-16-55-dwg-2d-autocad-dwg-2000-324b5cd73a/d03ab10de15447350d8a-dxf)
+- Redistribution: unknown
+- Original SHA-256: d03ab10de15447350d8a5f1ee4600e41aa9ed9fe15af2166e74453e16291d3da
+- Original bytes: 449795
+- Revision: A
+- Retrieved: 2026-11-04T00:58:55Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 624927 bytes
+- Delivery SHA-256: 48e37793db5a8c5f72c1c710cb69ac69639553283977afecd37594fd58f71f51
 
 ### 36LYQ160\_16.55.sat
 

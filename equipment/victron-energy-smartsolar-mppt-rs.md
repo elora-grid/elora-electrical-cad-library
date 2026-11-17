@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: SmartSolar MPPT RS
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: IEC 62109-1
 - Listed file formats: STEP
 - Listed files: 2
 - Available previews: 2 interactive model variants

@@ -26,7 +26,7 @@ Original DXF drawing for OTDC100...250E02, OTDC100...245U02; ABB document 1SCC30
 - Manufacturer drawing: 1SCC307579F0201
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307579F0201.dxf for OTDC100...250E02, OTDC100...245U02. DXF is the suppl
 
 ## Preview
 
-![ABB OTDC100...250E02, OTDC100...245U02: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc100-250e02-otdc100-245u02-d9bf1cef/original?asset=18dc901f0e20c200ac01ba35eb05d37a498283693e7486f378de0ea715e660da)
+![ABB OTDC100...250E02, OTDC100...245U02: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc100-250e02-otdc100-245u02-d9bf1cef/original?asset=18dc901f0e20c200ac01ba35eb05d37a498283693e7486f378de0ea715e660da&view=thumb&v=f7d9ec8cf2a9787e)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-250e02-otdc100-245u02-d9bf1cef). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

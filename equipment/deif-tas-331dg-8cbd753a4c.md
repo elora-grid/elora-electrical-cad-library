@@ -25,6 +25,7 @@ Manufacturer reference tas-331dg-3d-pdf.pdf identifies this instrumentation or c
 - Manufacturer drawing: tas-331dg-3d-pdf.pdf
 - Manufacturer reference: tas-331dg-3d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

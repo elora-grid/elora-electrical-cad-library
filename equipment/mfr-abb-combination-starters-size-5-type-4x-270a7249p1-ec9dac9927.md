@@ -1,0 +1,122 @@
+# ABB — COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1)
+
+ABB COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1): original DXF / PDF for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1).
+
+## Equipment and file summary
+
+- Equipment / resource: COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1)
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1)
+- Source document: 1SQC912031D0201; revision A
+- Listed file formats: DXF, PDF
+- Listed files: 2
+- Available previews: 2 drawing previews
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1) ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SQC912031D0201; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A))
+- Source document: 1SQC912031D0201; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+A motor starter or feeder groups the switching and selected protective devices used to supply and control a motor.
+
+Use 1SQC912031D0201.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SQC912031D0201.dxf.
+
+Use 1SQC912031D0201.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SQC912031D0201.dxf. Use 1SQC912031D0201.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1) and the exact source filename shown above.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC912031D0201.dxf — A; 1SQC912031D0201.pdf — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1)?
+
+2 inspected originals for ABB COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1): 1SQC912031D0201.dxf (DXF); 1SQC912031D0201.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SQC912031D0201.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SQC912031D0201.dxf. Use 1SQC912031D0201.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB COMBINATION STARTERS SIZE 5, TYPE 4X (270A7249P1): drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927/abb-a45e2180af225715196b?asset=0c7ddc9995c53ae065f0d56e74352685659a5ec131d4769d27d11d2208a9895c)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC912031D0201.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927/abb-a45e2180af225715196b)
+- Redistribution: unknown
+- Original SHA-256: 0c7ddc9995c53ae065f0d56e74352685659a5ec131d4769d27d11d2208a9895c
+- Original bytes: 504243
+- Revision: A
+- Retrieved: 2026-11-11T10:06:19.748841+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 59244 bytes
+- Delivery SHA-256: fd6a07683cb765ca14a0058e9cc2178d80eeba51b0fc06dd7a75c07f153bdf50
+
+### 1SQC912031D0201.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-combination-starters-size-5-type-4x-270a7249p1-ec9dac9927/abb-44be810a348d3ea9256d)
+- Redistribution: unknown
+- Original SHA-256: dc5a80205ff3a9dee6a6d4eaeed10449cf458c27ebecd84a86f4d6c2c8fb791d
+- Original bytes: 104804
+- Revision: A
+- Retrieved: 2026-11-11T05:38:24.513899+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912031D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; PDF; 104804 bytes
+- Delivery SHA-256: dc5a80205ff3a9dee6a6d4eaeed10449cf458c27ebecd84a86f4d6c2c8fb791d
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

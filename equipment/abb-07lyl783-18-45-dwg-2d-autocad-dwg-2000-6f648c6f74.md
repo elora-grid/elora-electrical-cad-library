@@ -8,7 +8,7 @@ ABB 07LYL783\_18.45.: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 07LYL783\_18.45.; 07LYL783
-- Formats: DWG, IGS, PDF, SAT, SLDPRT
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “07LYL783\_18.45.”. Keep those frame, mounting
 - Motor drawing designation (07LYL783): HORZ 213-5T TEFC M, LOCKED BRG, INTERNAL AEGIS SHAFT GROUND
 - Drawing views (07LYL783.pdf, page 1): drive end detail
 - Manufacturer reference: 07LYL783
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -115,6 +115,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1090677 bytes
 - Delivery SHA-256: fd957752477f1824b4a2f6e7dfe37899d9bccb5debffe9149ca17b25bfc77234
+
+### 07LYL783\_18.45..dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (07LYL783\_18.45..dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lyl783-18-45-dwg-2d-autocad-dwg-2000-6f648c6f74/fd957752477f1824b4a2-dxf)
+- Redistribution: unknown
+- Original SHA-256: fd957752477f1824b4a2f6e7dfe37899d9bccb5debffe9149ca17b25bfc77234
+- Original bytes: 1090677
+- Revision: C
+- Retrieved: 2026-11-04T00:24:14Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 2776718 bytes
+- Delivery SHA-256: ddeb7f2f5c35969a64f2f07a2d4dcb922e9903a870c7f4a16ad961f3e8b485c1
 
 ### 07LYL783.pdf
 

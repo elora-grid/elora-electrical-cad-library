@@ -25,6 +25,7 @@ The supplied configuration is “OT315...OT400E03K”. Keep those frame, mountin
 - Manufacturer drawing: 1SCC307754F0001; OT315-400E03K.STP
 - Manufacturer reference: 1SCC307754F0001; OT315-400E03K.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DXF, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

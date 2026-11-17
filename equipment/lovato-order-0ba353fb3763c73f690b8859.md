@@ -1,0 +1,140 @@
+# LOVATO Electric — GE0500 — Three pole switch disconnector, to complete with extension shaft and handle, 500A (Ith/AC21A)
+
+LOVATO Electric GE0500 — Three pole switch disconnector, to complete with extension shaft and handle, 500A (Ith/AC21A). Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0ba353fb3763c73f690b8859) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-0ba353fb3763c73f690b8859.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-0ba353fb3763c73f690b8859.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/GE0500/GE0500/snp)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: GE0500
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: GE0500 — Three pole switch disconnector, to complete with extension shaft and handle, 500A (Ith/AC21A)
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: GE0500
+- Manufacturer reference: GE0500
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: GE0500 ([source](https://catalogue.lovatoelectric.com/gl_en/GE0500/GE0500/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/GE0500/GE0500/snp))
+
+## What the equipment does
+
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
+
+Use 2d\_GE0500.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GE0500.dwg.
+
+Use 2d\_GE0500.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GE0500.dwg. Use 3d\_GE0500.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_GE0500.stp. Use 2D\_ROZI\_029B.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_029B.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric GE0500 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for GE0500 — Three pole switch disconnector, to complete with extension shaft and handle, 500A (Ith/AC21A)?
+
+3 inspected originals for LOVATO Electric GE0500 — Three pole switch disconnector, to complete with extension shaft and handle, 500A (Ith/AC21A): 2d\_GE0500.dwg (DWG); 3d\_GE0500.stp (STEP); 2D\_ROZI\_029B.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/GE0500/GE0500/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/GE0500/GE0500/snp)
+
+## Choosing a file
+
+Use 2d\_GE0500.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GE0500.dwg. Use 3d\_GE0500.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_GE0500.stp. Use 2D\_ROZI\_029B.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_029B.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric GE0500 — Three pole switch disconnector, to complete with extension shaft and handle, 500A (Ith/AC21A): drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-0ba353fb3763c73f690b8859/native-346d0c6e6a2e47d272d6c6f5-dxf?asset=346d0c6e6a2e47d272d6c6f5501417049769409657acaeb014ca865d6c08c6d3)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0ba353fb3763c73f690b8859). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_GE0500.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GE0500.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-0ba353fb3763c73f690b8859/native-a099348a68540d94ad4141c7-dwg)
+- Redistribution: unknown
+- Original SHA-256: a099348a68540d94ad4141c79d423cca96e4363320238655c2b17d5caa8dd3b9
+- Original bytes: 84766
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GE0500.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GE0500.dwg)
+- Delivery: source-bundle; ZIP; 21837 bytes
+- Delivery SHA-256: 3ae9e1e89f86d2f6ddb19af4e57ebc40a16d174027555e4adb68550d74913461
+
+### 3d\_GE0500.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GE0500.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-0ba353fb3763c73f690b8859/native-15283686253083ba0c0b4526-step)
+- Redistribution: unknown
+- Original SHA-256: 15283686253083ba0c0b4526dc4e694929566ff1d06b2142f24d43a4d2885bcd
+- Original bytes: 137034
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GE0500.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GE0500.stp)
+- Delivery: source-bundle; ZIP; 24967 bytes
+- Delivery SHA-256: f22a75789c9f32873b2c503c410cd8de400481ebfb5aa7033b82838e5543d740
+
+### 2D\_ROZI\_029B.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-0ba353fb3763c73f690b8859/native-346d0c6e6a2e47d272d6c6f5-dxf)
+- Redistribution: unknown
+- Original SHA-256: 346d0c6e6a2e47d272d6c6f5501417049769409657acaeb014ca865d6c08c6d3
+- Original bytes: 353310
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 32710 bytes
+- Delivery SHA-256: 57be0e6070edd9a3e293d95aa5a142b19ff80d629ac7af4f383c0d61344c679f
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

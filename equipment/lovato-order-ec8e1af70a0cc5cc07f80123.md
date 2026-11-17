@@ -1,0 +1,102 @@
+# LOVATO Electric — KMH1L12 — Limit switch, ceramic rod lever, bottom entry, single, metal, 1NO+2NC, slow break
+
+LOVATO Electric KMH1L12 — Limit switch, ceramic rod lever, bottom entry, single, metal, 1NO+2NC, slow break. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ec8e1af70a0cc5cc07f80123) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-ec8e1af70a0cc5cc07f80123.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-ec8e1af70a0cc5cc07f80123.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: KMH1L12
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: KMH1L12 — Limit switch, ceramic rod lever, bottom entry, single, metal, 1NO+2NC, slow break
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: KMH1L12
+- Manufacturer reference: KMH1L12
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: KMH1L12 ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+A limit switch changes its contacts when a moving part presses its operating mechanism. It reports that the part has reached a particular position.
+
+Use 2D\_WYKR\_019.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYKR\_019.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_WYKR\_019.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYKR\_019.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric KMH1L12 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for KMH1L12 — Limit switch, ceramic rod lever, bottom entry, single, metal, 1NO+2NC, slow break?
+
+1 inspected original for LOVATO Electric KMH1L12 — Limit switch, ceramic rod lever, bottom entry, single, metal, 1NO+2NC, slow break: 2D\_WYKR\_019.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_WYKR\_019.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYKR\_019.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric KMH1L12 — Limit switch, ceramic rod lever, bottom entry, single, metal, 1NO+2NC, slow break: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-ec8e1af70a0cc5cc07f80123/native-4b67f54460308e25cfeb5a85-dxf?asset=4b67f54460308e25cfeb5a85c966fe859c46ea9221307668ad59dea1ab146894)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ec8e1af70a0cc5cc07f80123). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_WYKR\_019.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-ec8e1af70a0cc5cc07f80123/native-4b67f54460308e25cfeb5a85-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4b67f54460308e25cfeb5a85c966fe859c46ea9221307668ad59dea1ab146894
+- Original bytes: 257253
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 32419 bytes
+- Delivery SHA-256: 3d2ba1495482df990466c277cc570590f5da9a11fa087541fc8ad52269ad19a0
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

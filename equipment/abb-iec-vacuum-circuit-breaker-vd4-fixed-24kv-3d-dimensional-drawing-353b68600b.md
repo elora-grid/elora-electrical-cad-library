@@ -25,6 +25,7 @@ The supplied configuration is “IEC Vacuum Circuit Breaker VD4 fixed 24kV - 3D 
 - Manufacturer drawing: TN7411.R0000\_1600-2000A\_3D
 - Manufacturer reference: TN7411.R0000\_1600-2000A\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

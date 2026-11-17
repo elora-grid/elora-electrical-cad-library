@@ -27,7 +27,7 @@ The supplied configuration is “OESAZX85”. Keep those frame, mounting and acc
 - Document revision: A
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC390029F0001.dxf revision A for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OESAZX85: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-oesazx85-b1492000ff/60c6551d569722f1979d?asset=60c6551d569722f1979d961786bdacf32a272c4cde4984d5cc1d8e01a9abc124)
+![ABB OESAZX85: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-oesazx85-b1492000ff/60c6551d569722f1979d?asset=60c6551d569722f1979d961786bdacf32a272c4cde4984d5cc1d8e01a9abc124&view=thumb&v=85a6cb2cfe18dc58)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-oesazx85-b1492000ff). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

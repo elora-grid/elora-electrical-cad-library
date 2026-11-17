@@ -8,7 +8,7 @@ ABB 12LYG931\_30.34: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 12LYG931\_30.34; 12LYG931
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “12LYG931\_30.34”. Keep those frame, mounting 
 - Motor drawing designation (12LYG931): HORZ TEFC 324-6T W/ABB INT SH GND
 - Drawing views (12LYG931.pdf, page 1): drive end detail
 - Manufacturer reference: 12LYG931
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
@@ -115,6 +115,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG931_30.34&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; DWG; 2389529 bytes
 - Delivery SHA-256: e4a4c5dd7b64a360360e93f289a6ebfd1f8d713378aeab78c0e0c34dcdf57a0c
+
+### 12LYG931\_30.34.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (12LYG931\_30.34.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LYG931_30.34&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-12lyg931-30-34-dwg-2d-autocad-dwg-2000-3c358bc7d4/e4a4c5dd7b64a360360e-dxf)
+- Redistribution: unknown
+- Original SHA-256: e4a4c5dd7b64a360360e93f289a6ebfd1f8d713378aeab78c0e0c34dcdf57a0c
+- Original bytes: 2389529
+- Revision: F
+- Retrieved: 2026-11-04T01:03:46Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG931_30.34&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG931_30.34&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 6978705 bytes
+- Delivery SHA-256: 196c15afbc41ed71fa6d7113332082a77a5096cc3d44522a08af8560b20d6686
 
 ### 12LYG931.pdf
 

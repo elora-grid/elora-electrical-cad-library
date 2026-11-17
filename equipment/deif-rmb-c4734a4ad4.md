@@ -24,6 +24,7 @@ Manufacturer reference RMB identifies this control-equipment reference.
 - Resource type: Product
 - Manufacturer drawing: RMB
 - Manufacturer lifecycle: Active
+- Standards: IEC 61010-1, IEC 60529
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

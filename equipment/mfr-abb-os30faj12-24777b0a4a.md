@@ -1,0 +1,94 @@
+# ABB — OS30FAJ12
+
+ABB OS30FAJ12. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os30faj12-24777b0a4a) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30faj12-24777b0a4a.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30faj12-24777b0a4a.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: OS30FAJ12
+- Manufacturer: ABB
+- Resource type: Product family
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use OS30FAJ12.STP.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS30FAJ12.STP.stp.
+
+Use OS30FAJ12.STP.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS30FAJ12.STP.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB OS30FAJ12 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OS30FAJ12?
+
+1 inspected original for ABB OS30FAJ12: OS30FAJ12.STP.stp (STEP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use OS30FAJ12.STP.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS30FAJ12.STP.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OS30FAJ12.STP.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os30faj12-24777b0a4a/native-1723a4b67861a3a5a4d71307-step)
+- Redistribution: unknown
+- Original SHA-256: 1723a4b67861a3a5a4d71307c2e83e928c3bfd2aacf629e181fc56545d72fb3b
+- Original bytes: 5133436
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS30FAJ12.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 997499 bytes
+- Delivery SHA-256: 52614a13abd3af42d668a603fdc8cc359b9e741966647158b26613668112598e
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

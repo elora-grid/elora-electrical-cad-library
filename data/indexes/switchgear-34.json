@@ -1,0 +1,2757 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 34,
+  "entries": [
+    {
+      "id": "lovato-order-51f3999673243eb5526188ce",
+      "name": "SM1X1457560 — Undervoltage trip release, 575VAC 60Hz, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-51f3999673243eb5526188ce",
+      "recordPath": "equipment/lovato-order-51f3999673243eb5526188ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-51f3999673243eb5526188ce.json"
+    },
+    {
+      "id": "lovato-order-dc56483226c9acdd11ffc01c",
+      "name": "SM1X15110R — Undervoltage trip release, 110VAC 50/60Hz, with early-make contacts, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dc56483226c9acdd11ffc01c",
+      "recordPath": "equipment/lovato-order-dc56483226c9acdd11ffc01c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dc56483226c9acdd11ffc01c.json"
+    },
+    {
+      "id": "lovato-order-78a1e680a527d39e90621694",
+      "name": "SM1X15230R — Undervoltage trip release, 230VAC 50/60Hz, with early-make contacts, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-78a1e680a527d39e90621694",
+      "recordPath": "equipment/lovato-order-78a1e680a527d39e90621694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-78a1e680a527d39e90621694.json"
+    },
+    {
+      "id": "lovato-order-a43f7c604ce94b1edc97da56",
+      "name": "SM1X15400R — Undervoltage trip release, 400VAC 50/60Hz, with early-make contacts, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a43f7c604ce94b1edc97da56",
+      "recordPath": "equipment/lovato-order-a43f7c604ce94b1edc97da56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a43f7c604ce94b1edc97da56.json"
+    },
+    {
+      "id": "lovato-order-f6cc8841ab25fe3edf91e116",
+      "name": "11SMX16AF — Shunt trip release, 24VAC 50/60Hz, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f6cc8841ab25fe3edf91e116",
+      "recordPath": "equipment/lovato-order-f6cc8841ab25fe3edf91e116.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f6cc8841ab25fe3edf91e116.json"
+    },
+    {
+      "id": "lovato-order-874985a0aa339a80ad249215",
+      "name": "11SMX16BC — Shunt trip release, 110VAC 50/60Hz, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-874985a0aa339a80ad249215",
+      "recordPath": "equipment/lovato-order-874985a0aa339a80ad249215.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-874985a0aa339a80ad249215.json"
+    },
+    {
+      "id": "lovato-order-2c00998009b0a78227358bcd",
+      "name": "11SMX16CL — Shunt trip release, 230VAC 50/60Hz, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2c00998009b0a78227358bcd",
+      "recordPath": "equipment/lovato-order-2c00998009b0a78227358bcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2c00998009b0a78227358bcd.json"
+    },
+    {
+      "id": "lovato-order-efae2015872f9887dd873bb1",
+      "name": "11SMX16EA — Shunt trip release, 400VAC 50/60Hz, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-efae2015872f9887dd873bb1",
+      "recordPath": "equipment/lovato-order-efae2015872f9887dd873bb1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-efae2015872f9887dd873bb1.json"
+    },
+    {
+      "id": "lovato-order-559b18e3591c3377b5736fe8",
+      "name": "SM1X18S — Support for rod >145mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-559b18e3591c3377b5736fe8",
+      "recordPath": "equipment/lovato-order-559b18e3591c3377b5736fe8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-559b18e3591c3377b5736fe8.json"
+    },
+    {
+      "id": "lovato-order-18c78dfa7f95ea7753de93b8",
+      "name": "11SMX1730 — Padlockable rotary actuator for SMX17 10 and SMX 17 20, IP65, grey/black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-18c78dfa7f95ea7753de93b8",
+      "recordPath": "equipment/lovato-order-18c78dfa7f95ea7753de93b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-18c78dfa7f95ea7753de93b8.json"
+    },
+    {
+      "id": "lovato-order-34aa4fefd47281df2b398e44",
+      "name": "11SMX1735 — Padlockable rotary actuator for SMX17 10 and SMX 17 20, IP65, red/yellow",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-34aa4fefd47281df2b398e44",
+      "recordPath": "equipment/lovato-order-34aa4fefd47281df2b398e44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-34aa4fefd47281df2b398e44.json"
+    },
+    {
+      "id": "lovato-order-64cfbde692ec2292fa71ed29",
+      "name": "11SMX2011 — Auxiliary contacts 1NO/NC, changeover, front mount, for SM2 and SM3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-64cfbde692ec2292fa71ed29",
+      "recordPath": "equipment/lovato-order-64cfbde692ec2292fa71ed29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-64cfbde692ec2292fa71ed29.json"
+    },
+    {
+      "id": "lovato-order-1000e9e7a67422d872584a6c",
+      "name": "11SMX2111 — Auxiliary contacts 1NO+1NC, front mount, for SM2 and SM3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1000e9e7a67422d872584a6c",
+      "recordPath": "equipment/lovato-order-1000e9e7a67422d872584a6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1000e9e7a67422d872584a6c.json"
+    },
+    {
+      "id": "lovato-order-51fcb8c525178b2a3e211afb",
+      "name": "11SMX2202 — Auxiliary contacts 2NC, side mount, for SM2 and SM3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-51fcb8c525178b2a3e211afb",
+      "recordPath": "equipment/lovato-order-51fcb8c525178b2a3e211afb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-51fcb8c525178b2a3e211afb.json"
+    },
+    {
+      "id": "lovato-order-e2d27e0ac363282025910f21",
+      "name": "11SMX2211 — Auxiliary contacts 1NO+1NC, side mount, for SM2 and SM3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e2d27e0ac363282025910f21",
+      "recordPath": "equipment/lovato-order-e2d27e0ac363282025910f21.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e2d27e0ac363282025910f21.json"
+    },
+    {
+      "id": "lovato-order-4561fb3a5f3a41c96ddb1324",
+      "name": "11SMX2220 — Auxiliary contacts 2NO, side mount, for SM2 and SM3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4561fb3a5f3a41c96ddb1324",
+      "recordPath": "equipment/lovato-order-4561fb3a5f3a41c96ddb1324.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4561fb3a5f3a41c96ddb1324.json"
+    },
+    {
+      "id": "lovato-order-5f3191238cd1e6c6e180a0a8",
+      "name": "11SMX2311 — Auxiliary contacts 2NO+2NC, side mount, with indicator for thermal and magnetic trip",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5f3191238cd1e6c6e180a0a8",
+      "recordPath": "equipment/lovato-order-5f3191238cd1e6c6e180a0a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5f3191238cd1e6c6e180a0a8.json"
+    },
+    {
+      "id": "lovato-order-b283428328584f3211d9a0f2",
+      "name": "11SMX24BC — Undervoltage trip releases, 110VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b283428328584f3211d9a0f2",
+      "recordPath": "equipment/lovato-order-b283428328584f3211d9a0f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b283428328584f3211d9a0f2.json"
+    },
+    {
+      "id": "lovato-order-25a4ca8fd16525299f25eba8",
+      "name": "11SMX24CL — Undervoltage trip releases, 230VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-25a4ca8fd16525299f25eba8",
+      "recordPath": "equipment/lovato-order-25a4ca8fd16525299f25eba8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-25a4ca8fd16525299f25eba8.json"
+    },
+    {
+      "id": "lovato-order-8aa560821ff19c332338cc2f",
+      "name": "11SMX24EA — Undervoltage trip releases, 400VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8aa560821ff19c332338cc2f",
+      "recordPath": "equipment/lovato-order-8aa560821ff19c332338cc2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8aa560821ff19c332338cc2f.json"
+    },
+    {
+      "id": "lovato-order-203f458831595d3da1b42424",
+      "name": "11SMX25CL — Undervoltage trip releases, 230VAC 50/60Hz, with early make contacts",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-203f458831595d3da1b42424",
+      "recordPath": "equipment/lovato-order-203f458831595d3da1b42424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-203f458831595d3da1b42424.json"
+    },
+    {
+      "id": "lovato-order-520d86fb9ef6023f5a1a7592",
+      "name": "11SMX25EA — Undervoltage trip releases, 400VAC 50/60Hz, with early make contacts",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-520d86fb9ef6023f5a1a7592",
+      "recordPath": "equipment/lovato-order-520d86fb9ef6023f5a1a7592.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-520d86fb9ef6023f5a1a7592.json"
+    },
+    {
+      "id": "lovato-order-e767845a685e3802ca59d85d",
+      "name": "11SMX26AF — Shunt trip releases, 24VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e767845a685e3802ca59d85d",
+      "recordPath": "equipment/lovato-order-e767845a685e3802ca59d85d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e767845a685e3802ca59d85d.json"
+    },
+    {
+      "id": "lovato-order-0285f88ba2372acfafc450d8",
+      "name": "11SMX26BC — Shunt trip releases, 110VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0285f88ba2372acfafc450d8",
+      "recordPath": "equipment/lovato-order-0285f88ba2372acfafc450d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0285f88ba2372acfafc450d8.json"
+    },
+    {
+      "id": "lovato-order-b4087648d2964c8816b400cb",
+      "name": "11SMX26CL — Shunt trip releases, 230VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b4087648d2964c8816b400cb",
+      "recordPath": "equipment/lovato-order-b4087648d2964c8816b400cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b4087648d2964c8816b400cb.json"
+    },
+    {
+      "id": "lovato-order-9b664643ae5aaee0e733d118",
+      "name": "11SMX26EA — Shunt trip releases, 400VAC 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9b664643ae5aaee0e733d118",
+      "recordPath": "equipment/lovato-order-9b664643ae5aaee0e733d118.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9b664643ae5aaee0e733d118.json"
+    },
+    {
+      "id": "lovato-order-e89c0bc987f2c089de998999",
+      "name": "11LMH01 — Auxiliary contact, 1NC, side mount, for LMS",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e89c0bc987f2c089de998999",
+      "recordPath": "equipment/lovato-order-e89c0bc987f2c089de998999.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e89c0bc987f2c089de998999.json"
+    },
+    {
+      "id": "lovato-order-70a567ab2ab33349b82facb5",
+      "name": "11LMH10 — Auxiliary contact, 1NO, side mount, for LMS",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-70a567ab2ab33349b82facb5",
+      "recordPath": "equipment/lovato-order-70a567ab2ab33349b82facb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-70a567ab2ab33349b82facb5.json"
+    },
+    {
+      "id": "lovato-order-87a3fad14efe3bbd0fe8f6e8",
+      "name": "11LMH11 — Auxiliary contacts, 1NO+1NC, side mount, for LMS",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-87a3fad14efe3bbd0fe8f6e8",
+      "recordPath": "equipment/lovato-order-87a3fad14efe3bbd0fe8f6e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-87a3fad14efe3bbd0fe8f6e8.json"
+    },
+    {
+      "id": "lovato-order-e07486718d1cb78d65265179",
+      "name": "11LMH20 — Auxiliary contacts, 2NO, side mount, for LMS",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e07486718d1cb78d65265179",
+      "recordPath": "equipment/lovato-order-e07486718d1cb78d65265179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e07486718d1cb78d65265179.json"
+    },
+    {
+      "id": "hager-order-9a9adaa1ea36ec1243902ecd",
+      "name": "VD106NP — IC2 Rozdzielnica 1x6M n/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9a9adaa1ea36ec1243902ecd",
+      "recordPath": "equipment/hager-order-9a9adaa1ea36ec1243902ecd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9a9adaa1ea36ec1243902ecd.json"
+    },
+    {
+      "id": "hager-order-36d06bd2bd43edc048ace98e",
+      "name": "VD106PP — IC2 Rozdzielnica 1x6M n/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-36d06bd2bd43edc048ace98e",
+      "recordPath": "equipment/hager-order-36d06bd2bd43edc048ace98e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-36d06bd2bd43edc048ace98e.json"
+    },
+    {
+      "id": "hager-order-7e76be93b2e767be452f4cc7",
+      "name": "VD106TP — IC2 Rozdzielnica 1x6M n/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7e76be93b2e767be452f4cc7",
+      "recordPath": "equipment/hager-order-7e76be93b2e767be452f4cc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7e76be93b2e767be452f4cc7.json"
+    },
+    {
+      "id": "hager-order-a174b24a5aa5eefe16f52ee3",
+      "name": "VD108NP — IC2 Rozdzielnica 1x8M n/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a174b24a5aa5eefe16f52ee3",
+      "recordPath": "equipment/hager-order-a174b24a5aa5eefe16f52ee3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a174b24a5aa5eefe16f52ee3.json"
+    },
+    {
+      "id": "hager-order-73453dbd2d71498a3993350f",
+      "name": "VD108PP — IC2 Rozdzielnica 1x8M n/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-73453dbd2d71498a3993350f",
+      "recordPath": "equipment/hager-order-73453dbd2d71498a3993350f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-73453dbd2d71498a3993350f.json"
+    },
+    {
+      "id": "hager-order-83c85d6b4de2cfa7173dd51b",
+      "name": "VD108TP — IC2 Rozdzielnica 1x8M n/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-83c85d6b4de2cfa7173dd51b",
+      "recordPath": "equipment/hager-order-83c85d6b4de2cfa7173dd51b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-83c85d6b4de2cfa7173dd51b.json"
+    },
+    {
+      "id": "hager-order-e7016200a9376ea17e953ba1",
+      "name": "VD110NP — IC2 Rozdzielnica 1x10M n/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e7016200a9376ea17e953ba1",
+      "recordPath": "equipment/hager-order-e7016200a9376ea17e953ba1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e7016200a9376ea17e953ba1.json"
+    },
+    {
+      "id": "hager-order-cc7b06917ece9856430a6393",
+      "name": "VD110PP — IC2 Rozdzielnica 1x10M n/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-cc7b06917ece9856430a6393",
+      "recordPath": "equipment/hager-order-cc7b06917ece9856430a6393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-cc7b06917ece9856430a6393.json"
+    },
+    {
+      "id": "hager-order-8d341216740e8f0bf7bfc6ae",
+      "name": "VD110TP — IC2 Rozdzielnica 1x10M n/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8d341216740e8f0bf7bfc6ae",
+      "recordPath": "equipment/hager-order-8d341216740e8f0bf7bfc6ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8d341216740e8f0bf7bfc6ae.json"
+    },
+    {
+      "id": "hager-order-9b33c494d41b66d3e0bf49a8",
+      "name": "VR108NP — IC2 Rozdzielnica 1x8M p/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9b33c494d41b66d3e0bf49a8",
+      "recordPath": "equipment/hager-order-9b33c494d41b66d3e0bf49a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9b33c494d41b66d3e0bf49a8.json"
+    },
+    {
+      "id": "hager-order-6e13632b89ea70d5236ba047",
+      "name": "VR108PP — IC2 Rozdzielnica 1x8M p/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6e13632b89ea70d5236ba047",
+      "recordPath": "equipment/hager-order-6e13632b89ea70d5236ba047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6e13632b89ea70d5236ba047.json"
+    },
+    {
+      "id": "hager-order-9ad6b819e855250428689a38",
+      "name": "VR108TP — IC2 Rozdzielnica 1x8M p/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9ad6b819e855250428689a38",
+      "recordPath": "equipment/hager-order-9ad6b819e855250428689a38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9ad6b819e855250428689a38.json"
+    },
+    {
+      "id": "hager-order-514f72cd58f6f5050d9c3c28",
+      "name": "VR112NP — cosmos Rozdzielnica 1x12M p/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-514f72cd58f6f5050d9c3c28",
+      "recordPath": "equipment/hager-order-514f72cd58f6f5050d9c3c28.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-514f72cd58f6f5050d9c3c28.json"
+    },
+    {
+      "id": "hager-order-7c9957ce198b396ac973e640",
+      "name": "VR112PP — cosmos Rozdzielnica 1x12M p/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7c9957ce198b396ac973e640",
+      "recordPath": "equipment/hager-order-7c9957ce198b396ac973e640.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7c9957ce198b396ac973e640.json"
+    },
+    {
+      "id": "hager-order-b8cabca1c14354ad6d2484ca",
+      "name": "VR112TP — cosmos Rozdzielnica 1x12M p/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b8cabca1c14354ad6d2484ca",
+      "recordPath": "equipment/hager-order-b8cabca1c14354ad6d2484ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b8cabca1c14354ad6d2484ca.json"
+    },
+    {
+      "id": "hager-order-377741c3a63ecab1826da626",
+      "name": "VR118NP — cosmos Rozdzielnica 1x18M p/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-377741c3a63ecab1826da626",
+      "recordPath": "equipment/hager-order-377741c3a63ecab1826da626.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-377741c3a63ecab1826da626.json"
+    },
+    {
+      "id": "hager-order-84c20ae851399e6a5414d242",
+      "name": "VR118PP — cosmos Rozdzielnica 1x18M p/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-84c20ae851399e6a5414d242",
+      "recordPath": "equipment/hager-order-84c20ae851399e6a5414d242.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-84c20ae851399e6a5414d242.json"
+    },
+    {
+      "id": "hager-order-d417fef73675597c43cf725a",
+      "name": "VR118TP — cosmos Rozdzielnica 1x18M p/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d417fef73675597c43cf725a",
+      "recordPath": "equipment/hager-order-d417fef73675597c43cf725a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d417fef73675597c43cf725a.json"
+    },
+    {
+      "id": "hager-order-d9e7109297828a3b48b20e9d",
+      "name": "VR212NP — cosmos Rozdzielnica 2x12M p/t, IP30, bez drzwi",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d9e7109297828a3b48b20e9d",
+      "recordPath": "equipment/hager-order-d9e7109297828a3b48b20e9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d9e7109297828a3b48b20e9d.json"
+    },
+    {
+      "id": "hager-order-da50f1f53a1f57c4445154be",
+      "name": "VR212PP — cosmos Rozdzielnica 2x12M p/t, IP40, drzwi pelne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-da50f1f53a1f57c4445154be",
+      "recordPath": "equipment/hager-order-da50f1f53a1f57c4445154be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-da50f1f53a1f57c4445154be.json"
+    },
+    {
+      "id": "hager-order-81a75b339f6fa4214835211b",
+      "name": "VR212TP — cosmos Rozdzielnica 2x12M p/t, IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-81a75b339f6fa4214835211b",
+      "recordPath": "equipment/hager-order-81a75b339f6fa4214835211b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-81a75b339f6fa4214835211b.json"
+    },
+    {
+      "id": "hager-order-f8c87ea0cdde4a1ec87021ec",
+      "name": "VF218PZF — golf Rozdzielnica p/t VDI drzwi wentylowane biale 2R",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f8c87ea0cdde4a1ec87021ec",
+      "recordPath": "equipment/hager-order-f8c87ea0cdde4a1ec87021ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f8c87ea0cdde4a1ec87021ec.json"
+    },
+    {
+      "id": "hager-order-97cb92b40ab4e64bc1acd220",
+      "name": "VF318PZF — golf Rozdzielnica p/t VDI drzwi wentylowane biale 3R",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-97cb92b40ab4e64bc1acd220",
+      "recordPath": "equipment/hager-order-97cb92b40ab4e64bc1acd220.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-97cb92b40ab4e64bc1acd220.json"
+    },
+    {
+      "id": "hager-order-0a2de3831d64fd9e49771fa4",
+      "name": "VF418PZF — golf Rozdzielnica p/t VDI drzwi wentylowane biale 4R",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-0a2de3831d64fd9e49771fa4",
+      "recordPath": "equipment/hager-order-0a2de3831d64fd9e49771fa4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-0a2de3831d64fd9e49771fa4.json"
+    },
+    {
+      "id": "hager-order-e162809ef27dc9cc87bee000",
+      "name": "VS218PZF — golf Rozdzielnica n/t VDI drzwi wentylowane biale 2R",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e162809ef27dc9cc87bee000",
+      "recordPath": "equipment/hager-order-e162809ef27dc9cc87bee000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e162809ef27dc9cc87bee000.json"
+    },
+    {
+      "id": "hager-order-c22169296b75203f990dc72b",
+      "name": "VS318PZF — golf Rozdzielnica n/t VDI drzwi wentylowane biale 3R",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c22169296b75203f990dc72b",
+      "recordPath": "equipment/hager-order-c22169296b75203f990dc72b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c22169296b75203f990dc72b.json"
+    },
+    {
+      "id": "hager-order-690d7aca895debdfab93cc59",
+      "name": "VS418PZF — golf Rozdzielnica n/t VDI drzwi wentylowane biale 4R",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-690d7aca895debdfab93cc59",
+      "recordPath": "equipment/hager-order-690d7aca895debdfab93cc59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-690d7aca895debdfab93cc59.json"
+    },
+    {
+      "id": "hager-order-d9cc65a006f8267f06193ce0",
+      "name": "VA36NWB — volta Rozdzielnica VDI n/t 3R, 2x plyta montazowa, 1xTH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d9cc65a006f8267f06193ce0",
+      "recordPath": "equipment/hager-order-d9cc65a006f8267f06193ce0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d9cc65a006f8267f06193ce0.json"
+    },
+    {
+      "id": "hager-order-6b16d9f3153d27376a376ab7",
+      "name": "VA48NWB — volta Rozdzielnica VDI n/t 4R, 3x plyta montazowa, 1xTH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6b16d9f3153d27376a376ab7",
+      "recordPath": "equipment/hager-order-6b16d9f3153d27376a376ab7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6b16d9f3153d27376a376ab7.json"
+    },
+    {
+      "id": "hager-order-ba07dc5563cba081da626c03",
+      "name": "VA36NWP — volta Rozdzielnica natynkowa 3R PatchPanel gniazdo x3 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ba07dc5563cba081da626c03",
+      "recordPath": "equipment/hager-order-ba07dc5563cba081da626c03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ba07dc5563cba081da626c03.json"
+    },
+    {
+      "id": "hager-order-1c23f4d7d2d9e0bb701d0bfb",
+      "name": "VA48NWP — volta Rozdzielnica natynkowa 4R PatchPanel gniazdo x3 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-1c23f4d7d2d9e0bb701d0bfb",
+      "recordPath": "equipment/hager-order-1c23f4d7d2d9e0bb701d0bfb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-1c23f4d7d2d9e0bb701d0bfb.json"
+    },
+    {
+      "id": "hager-order-5d5d52ceaeffe75c89b724cc",
+      "name": "VH60NC — volta Rozdzielnica do scian szkieletowych (GK) 5R/60M II kl IP30",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-5d5d52ceaeffe75c89b724cc",
+      "recordPath": "equipment/hager-order-5d5d52ceaeffe75c89b724cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-5d5d52ceaeffe75c89b724cc.json"
+    },
+    {
+      "id": "hager-order-59db9f686807b09e11961d59",
+      "name": "VH24NWB — volta Rozdzielnica VDI do scian szkieletowych (GK) 2R 2xplyta mont.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-59db9f686807b09e11961d59",
+      "recordPath": "equipment/hager-order-59db9f686807b09e11961d59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-59db9f686807b09e11961d59.json"
+    },
+    {
+      "id": "hager-order-1e8a49dda5591188ac8d1c8a",
+      "name": "VH36NWB — volta Rozdzielnica VDI do scian szkieletowych (GK) 3R 2xplyta mont., 1xszyna TH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-1e8a49dda5591188ac8d1c8a",
+      "recordPath": "equipment/hager-order-1e8a49dda5591188ac8d1c8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-1e8a49dda5591188ac8d1c8a.json"
+    },
+    {
+      "id": "hager-order-9dfa062885fb1937341ad612",
+      "name": "VH36NWP — volta Rozdzielnica VDI do scian szkieletowych (GK) 3R PatchPanel, 3xgniazdo 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9dfa062885fb1937341ad612",
+      "recordPath": "equipment/hager-order-9dfa062885fb1937341ad612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9dfa062885fb1937341ad612.json"
+    },
+    {
+      "id": "hager-order-cafb591bba37c3650118e75d",
+      "name": "VH48NWB — volta Rozdzielnica VDI do scian szkieletowych (GK) 4R 3xplyta mont., 1xszyna TH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-cafb591bba37c3650118e75d",
+      "recordPath": "equipment/hager-order-cafb591bba37c3650118e75d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-cafb591bba37c3650118e75d.json"
+    },
+    {
+      "id": "hager-order-b6ae2a24ba587cf44625d0c6",
+      "name": "VH48NWP — volta Rozdzielnica VDI do scian szkieletowych (GK) 4R PatchPanel, 3xgniazdo 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b6ae2a24ba587cf44625d0c6",
+      "recordPath": "equipment/hager-order-b6ae2a24ba587cf44625d0c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b6ae2a24ba587cf44625d0c6.json"
+    },
+    {
+      "id": "hager-order-7cadd953051d6008f767cfaa",
+      "name": "VH60NWB — volta Rozdzielnica VDI do scian szkieletowych (GK) 5R 4xplyta mont., 1xszyna TH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7cadd953051d6008f767cfaa",
+      "recordPath": "equipment/hager-order-7cadd953051d6008f767cfaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7cadd953051d6008f767cfaa.json"
+    },
+    {
+      "id": "hager-order-8925040ddb13dfbcbf173b75",
+      "name": "VH60NWP — volta Rozdzielnica VDI do scian szkieletowych (GK) 5R PatchPanel, 3xgniazdo 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8925040ddb13dfbcbf173b75",
+      "recordPath": "equipment/hager-order-8925040ddb13dfbcbf173b75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8925040ddb13dfbcbf173b75.json"
+    },
+    {
+      "id": "hager-order-382aa2079066b961983e828b",
+      "name": "VU60NC — volta Rozdzielnica p/t 5R/60M II kl IP30",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-382aa2079066b961983e828b",
+      "recordPath": "equipment/hager-order-382aa2079066b961983e828b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-382aa2079066b961983e828b.json"
+    },
+    {
+      "id": "hager-order-093574fdba67b07e7b2cf1f9",
+      "name": "VU24NWB — volta Rozdzielnica VDI podtynkowa 2R 2x plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-093574fdba67b07e7b2cf1f9",
+      "recordPath": "equipment/hager-order-093574fdba67b07e7b2cf1f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-093574fdba67b07e7b2cf1f9.json"
+    },
+    {
+      "id": "hager-order-51675fead2bc9beab8fc8db3",
+      "name": "VU36NWB — volta Rozdzielnica VDI podtynkowa 3R 2x plyta montazowa, 1x szyna TH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-51675fead2bc9beab8fc8db3",
+      "recordPath": "equipment/hager-order-51675fead2bc9beab8fc8db3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-51675fead2bc9beab8fc8db3.json"
+    },
+    {
+      "id": "hager-order-ac4a9ff678adec98c1f90684",
+      "name": "VU36NWP — volta Rozdzielnica VDI podtynkowa 3R plyta montazowa, gniazdo x3 230 V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ac4a9ff678adec98c1f90684",
+      "recordPath": "equipment/hager-order-ac4a9ff678adec98c1f90684.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ac4a9ff678adec98c1f90684.json"
+    },
+    {
+      "id": "hager-order-8cf44dca577f307dbde81e9e",
+      "name": "VU48NWB — volta Rozdzielnica VDI podtynkowa 4R 3x plyta montazowa, 1x szyna TH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8cf44dca577f307dbde81e9e",
+      "recordPath": "equipment/hager-order-8cf44dca577f307dbde81e9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8cf44dca577f307dbde81e9e.json"
+    },
+    {
+      "id": "hager-order-94c96ad0f207d228ad59a1b8",
+      "name": "VU48NWP — volta Rozdzielnica VDI podtynkowa 4R plyta montazowa, gniazdo x3 230 V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-94c96ad0f207d228ad59a1b8",
+      "recordPath": "equipment/hager-order-94c96ad0f207d228ad59a1b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-94c96ad0f207d228ad59a1b8.json"
+    },
+    {
+      "id": "hager-order-1ce032b2a07e0b1f1a22321c",
+      "name": "VU60NWB — volta Rozdzielnica VDI podtynkowa 5R 4x plyta montazowa, 1x szyna TH",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-1ce032b2a07e0b1f1a22321c",
+      "recordPath": "equipment/hager-order-1ce032b2a07e0b1f1a22321c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-1ce032b2a07e0b1f1a22321c.json"
+    },
+    {
+      "id": "hager-order-ac62b5c6280f49af3c59bacc",
+      "name": "VU60NWP — volta Rozdzielnica VDI podtynkowa 5R plyta montazowa, gniazdo x3 230 V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ac62b5c6280f49af3c59bacc",
+      "recordPath": "equipment/hager-order-ac62b5c6280f49af3c59bacc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ac62b5c6280f49af3c59bacc.json"
+    },
+    {
+      "id": "hager-order-fcc55f4dbddea0ea58fc946f",
+      "name": "VZ00LB — volta Plyta mont.perforowana (VDI) ze srubami, 265x95",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-fcc55f4dbddea0ea58fc946f",
+      "recordPath": "equipment/hager-order-fcc55f4dbddea0ea58fc946f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-fcc55f4dbddea0ea58fc946f.json"
+    },
+    {
+      "id": "hager-order-e6a389c2641b692f3aa7b23c",
+      "name": "VB118PB — vega Rozdzielnica natynkowa 1x18M IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e6a389c2641b692f3aa7b23c",
+      "recordPath": "equipment/hager-order-e6a389c2641b692f3aa7b23c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e6a389c2641b692f3aa7b23c.json"
+    },
+    {
+      "id": "hager-order-83962ca2be89ee4008bf74cf",
+      "name": "VB118TB — vega Rozdzielnica natynkowa 1x18M IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-83962ca2be89ee4008bf74cf",
+      "recordPath": "equipment/hager-order-83962ca2be89ee4008bf74cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-83962ca2be89ee4008bf74cf.json"
+    },
+    {
+      "id": "hager-order-731a2030d18c2bfb6b1ee11e",
+      "name": "VB218PB — vega Rozdzielnica natynkowa 2x18M IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-731a2030d18c2bfb6b1ee11e",
+      "recordPath": "equipment/hager-order-731a2030d18c2bfb6b1ee11e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-731a2030d18c2bfb6b1ee11e.json"
+    },
+    {
+      "id": "hager-order-ce9a4894bbaab144e63bae6c",
+      "name": "VB218TB — vega Rozdzielnica natynkowa 2x18M IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ce9a4894bbaab144e63bae6c",
+      "recordPath": "equipment/hager-order-ce9a4894bbaab144e63bae6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ce9a4894bbaab144e63bae6c.json"
+    },
+    {
+      "id": "hager-order-154fb36282e1b8d5960f4d48",
+      "name": "VB318PB — vega Rozdzielnica natynkowa 3x18M IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-154fb36282e1b8d5960f4d48",
+      "recordPath": "equipment/hager-order-154fb36282e1b8d5960f4d48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-154fb36282e1b8d5960f4d48.json"
+    },
+    {
+      "id": "hager-order-e7c9d58cfe30a891fb08d09b",
+      "name": "VB318TB — vega Rozdzielnica natynkowa 3x18M IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e7c9d58cfe30a891fb08d09b",
+      "recordPath": "equipment/hager-order-e7c9d58cfe30a891fb08d09b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e7c9d58cfe30a891fb08d09b.json"
+    },
+    {
+      "id": "hager-order-e5d59c8b87d0e365555778e9",
+      "name": "VB418PB — vega Rozdzielnica natynkowa 4x18M IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e5d59c8b87d0e365555778e9",
+      "recordPath": "equipment/hager-order-e5d59c8b87d0e365555778e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e5d59c8b87d0e365555778e9.json"
+    },
+    {
+      "id": "hager-order-6c38517a0b4690e6a5e2441c",
+      "name": "VB418TB — vega Rozdzielnica natynkowa 4x18M IP40, drzwi transparentne",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6c38517a0b4690e6a5e2441c",
+      "recordPath": "equipment/hager-order-6c38517a0b4690e6a5e2441c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6c38517a0b4690e6a5e2441c.json"
+    },
+    {
+      "id": "hager-order-4c56e5870a1bc65b85fddf94",
+      "name": "VB118MP — vega Rozdzielnica natynkowa teletechniczna 1R IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4c56e5870a1bc65b85fddf94",
+      "recordPath": "equipment/hager-order-4c56e5870a1bc65b85fddf94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4c56e5870a1bc65b85fddf94.json"
+    },
+    {
+      "id": "hager-order-a05243e64c2d3167cd2e5249",
+      "name": "VB218MP — vega Rozdzielnica natynkowa teletechniczna 2R IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a05243e64c2d3167cd2e5249",
+      "recordPath": "equipment/hager-order-a05243e64c2d3167cd2e5249.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a05243e64c2d3167cd2e5249.json"
+    },
+    {
+      "id": "hager-order-849f96a5a0ea5524731133d3",
+      "name": "VB318MP — vega Rozdzielnica natynkowa teletechniczna 3R IP40, drzwi biale",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-849f96a5a0ea5524731133d3",
+      "recordPath": "equipment/hager-order-849f96a5a0ea5524731133d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-849f96a5a0ea5524731133d3.json"
+    },
+    {
+      "id": "hager-order-88f3c764e1113ddbcca91d30",
+      "name": "VU601PLH — volta.hybrid Rozdzielnica hybrydowa p/t, 12M, 3x plyta mont., 1x gniazdo 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-88f3c764e1113ddbcca91d30",
+      "recordPath": "equipment/hager-order-88f3c764e1113ddbcca91d30.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-88f3c764e1113ddbcca91d30.json"
+    },
+    {
+      "id": "hager-order-c5b97fd5fea57ab89be113db",
+      "name": "VU602PLH — volta.hybrid Rozdzielnica hybrydowa p/t, 24M, 2x plyta mont., 1x gniazdo 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c5b97fd5fea57ab89be113db",
+      "recordPath": "equipment/hager-order-c5b97fd5fea57ab89be113db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c5b97fd5fea57ab89be113db.json"
+    },
+    {
+      "id": "hager-order-4c7aacee1a609c41dd865b1e",
+      "name": "VU603PLH — volta.hybrid Rozdzielnica hybrydowa p/t, 36M, 1x plyta mont., 1x gniazdo 230V",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4c7aacee1a609c41dd865b1e",
+      "recordPath": "equipment/hager-order-4c7aacee1a609c41dd865b1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4c7aacee1a609c41dd865b1e.json"
+    },
+    {
+      "id": "hager-order-9e5e1c9fa994511f33bbab08",
+      "name": "VZ00HWF — Przepust kablowy 3-krotne gniazdo zasilajace 230V do VHxxx",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9e5e1c9fa994511f33bbab08",
+      "recordPath": "equipment/hager-order-9e5e1c9fa994511f33bbab08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9e5e1c9fa994511f33bbab08.json"
+    },
+    {
+      "id": "hager-order-78b9b4ac2a8acbe483093460",
+      "name": "VZ00UPF — Przepust kablowy 3-krotne gniazdo zasilajace 230V do VUxxx",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-78b9b4ac2a8acbe483093460",
+      "recordPath": "equipment/hager-order-78b9b4ac2a8acbe483093460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-78b9b4ac2a8acbe483093460.json"
+    },
+    {
+      "id": "hager-order-a6ccf5046e0d65eaa4c3a2c3",
+      "name": "FZ12MK — Patch Panel 12M Keystone, bez modulow, szyna TS lub plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a6ccf5046e0d65eaa4c3a2c3",
+      "recordPath": "equipment/hager-order-a6ccf5046e0d65eaa4c3a2c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a6ccf5046e0d65eaa4c3a2c3.json"
+    },
+    {
+      "id": "hager-order-5c23dacf164876f58ee895dd",
+      "name": "FZ12MM — Patch-Panel 12M 6xRJ45 kat 6A ekranowane",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-5c23dacf164876f58ee895dd",
+      "recordPath": "equipment/hager-order-5c23dacf164876f58ee895dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-5c23dacf164876f58ee895dd.json"
+    },
+    {
+      "id": "hager-order-f56637fc8304e730f9612925",
+      "name": "FZ12MMO — Patch Panel 12M BTR, bez modulow, szyna TS lub plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f56637fc8304e730f9612925",
+      "recordPath": "equipment/hager-order-f56637fc8304e730f9612925.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f56637fc8304e730f9612925.json"
+    },
+    {
+      "id": "hager-order-d479ef91158d1b72fcd81d7c",
+      "name": "FZ24MK — Patch Panel 24M Keystone, bez modulow, szyna TS lub plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d479ef91158d1b72fcd81d7c",
+      "recordPath": "equipment/hager-order-d479ef91158d1b72fcd81d7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d479ef91158d1b72fcd81d7c.json"
+    },
+    {
+      "id": "hager-order-40a9631a670c830d6b16cb82",
+      "name": "FZ24MM — Patch-Panel 24M dlugi z 12xRJ45-kat 6A ekranowane",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-40a9631a670c830d6b16cb82",
+      "recordPath": "equipment/hager-order-40a9631a670c830d6b16cb82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-40a9631a670c830d6b16cb82.json"
+    },
+    {
+      "id": "hager-order-1d94f2d60daaac85b7d15ea8",
+      "name": "FZ24MMO — Patch Panel 24M BTR, bez modulow, szyna TS lub plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-1d94f2d60daaac85b7d15ea8",
+      "recordPath": "equipment/hager-order-1d94f2d60daaac85b7d15ea8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-1d94f2d60daaac85b7d15ea8.json"
+    },
+    {
+      "id": "hager-order-2399c407cdc0ac4dbd7c4271",
+      "name": "VZ00AS — Gniazdo SCHUKO 3-krotne 230V VDI szyna TS/plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-2399c407cdc0ac4dbd7c4271",
+      "recordPath": "equipment/hager-order-2399c407cdc0ac4dbd7c4271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-2399c407cdc0ac4dbd7c4271.json"
+    },
+    {
+      "id": "hager-order-794fcd60a90cbb5266424849",
+      "name": "VZ00ASF — Gniazdo zasilajace 3-krotne 230V VDI szyna TS/plyta montazowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-794fcd60a90cbb5266424849",
+      "recordPath": "equipment/hager-order-794fcd60a90cbb5266424849.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-794fcd60a90cbb5266424849.json"
+    },
+    {
+      "id": "hager-order-b42e964a9992b5aa3f66abe1",
+      "name": "FWB32M2 — FWB Rozdzielnica kompletna 3rz. 78 M II kl n/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b42e964a9992b5aa3f66abe1",
+      "recordPath": "equipment/hager-order-b42e964a9992b5aa3f66abe1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b42e964a9992b5aa3f66abe1.json"
+    },
+    {
+      "id": "hager-order-6fedd263c12f90376bb566d0",
+      "name": "FZ011B — univers Rama maskujaca IP44 500x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6fedd263c12f90376bb566d0",
+      "recordPath": "equipment/hager-order-6fedd263c12f90376bb566d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6fedd263c12f90376bb566d0.json"
+    },
+    {
+      "id": "hager-order-853246c609ac4ea4019e946a",
+      "name": "FZ012B — univers Rama maskujaca IP44 500x550mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-853246c609ac4ea4019e946a",
+      "recordPath": "equipment/hager-order-853246c609ac4ea4019e946a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-853246c609ac4ea4019e946a.json"
+    },
+    {
+      "id": "hager-order-7707396742fe66189208fb4d",
+      "name": "FZ013B — univers Rama maskujaca IP44 500x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7707396742fe66189208fb4d",
+      "recordPath": "equipment/hager-order-7707396742fe66189208fb4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7707396742fe66189208fb4d.json"
+    },
+    {
+      "id": "hager-order-b7113adb14952e21fd378c1a",
+      "name": "FZ014B — univers Rama maskujaca IP44 500x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b7113adb14952e21fd378c1a",
+      "recordPath": "equipment/hager-order-b7113adb14952e21fd378c1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b7113adb14952e21fd378c1a.json"
+    },
+    {
+      "id": "hager-order-835528f1044f94309a9240d6",
+      "name": "FZ021B — univers Rama maskujaca IP44 650x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-835528f1044f94309a9240d6",
+      "recordPath": "equipment/hager-order-835528f1044f94309a9240d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-835528f1044f94309a9240d6.json"
+    },
+    {
+      "id": "hager-order-c65b3cd6ad55f9908a4f5f05",
+      "name": "FZ022B — univers Rama maskujaca IP44 650x550mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c65b3cd6ad55f9908a4f5f05",
+      "recordPath": "equipment/hager-order-c65b3cd6ad55f9908a4f5f05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c65b3cd6ad55f9908a4f5f05.json"
+    },
+    {
+      "id": "hager-order-2d0fbfac18ed15ab22a3526a",
+      "name": "FZ023B — univers Rama maskujaca IP44 650x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-2d0fbfac18ed15ab22a3526a",
+      "recordPath": "equipment/hager-order-2d0fbfac18ed15ab22a3526a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-2d0fbfac18ed15ab22a3526a.json"
+    },
+    {
+      "id": "hager-order-c9aa9cd376188d24bdbb6bd7",
+      "name": "FZ024B — univers Rama maskujaca IP44 650x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c9aa9cd376188d24bdbb6bd7",
+      "recordPath": "equipment/hager-order-c9aa9cd376188d24bdbb6bd7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c9aa9cd376188d24bdbb6bd7.json"
+    },
+    {
+      "id": "hager-order-493858e5d9daa6f47775a543",
+      "name": "FZ12B — univers Rama maskujaca IP44 800x550mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-493858e5d9daa6f47775a543",
+      "recordPath": "equipment/hager-order-493858e5d9daa6f47775a543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-493858e5d9daa6f47775a543.json"
+    },
+    {
+      "id": "hager-order-7dca58c79d9a3d69f134433b",
+      "name": "FZ13B — univers Rama maskujaca IP44 800x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7dca58c79d9a3d69f134433b",
+      "recordPath": "equipment/hager-order-7dca58c79d9a3d69f134433b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7dca58c79d9a3d69f134433b.json"
+    },
+    {
+      "id": "hager-order-68fe12d19a5d38600fe1f6dd",
+      "name": "FZ14B — univers Rama maskujaca IP44 800x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-68fe12d19a5d38600fe1f6dd",
+      "recordPath": "equipment/hager-order-68fe12d19a5d38600fe1f6dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-68fe12d19a5d38600fe1f6dd.json"
+    },
+    {
+      "id": "hager-order-0132e5390291442359f5c5f4",
+      "name": "FZ21B — univers Rama maskujaca IP44 950x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-0132e5390291442359f5c5f4",
+      "recordPath": "equipment/hager-order-0132e5390291442359f5c5f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-0132e5390291442359f5c5f4.json"
+    },
+    {
+      "id": "hager-order-78c0c75904cb9afdd65557bc",
+      "name": "FZ22B — univers Rama maskujaca IP44 950x550mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-78c0c75904cb9afdd65557bc",
+      "recordPath": "equipment/hager-order-78c0c75904cb9afdd65557bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-78c0c75904cb9afdd65557bc.json"
+    },
+    {
+      "id": "hager-order-06138ffeaa57489f7c7ab1e6",
+      "name": "FZ23B — univers Rama maskujaca IP44 950x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-06138ffeaa57489f7c7ab1e6",
+      "recordPath": "equipment/hager-order-06138ffeaa57489f7c7ab1e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-06138ffeaa57489f7c7ab1e6.json"
+    },
+    {
+      "id": "hager-order-f13c19d3edaf6c6159c4f2f9",
+      "name": "FZ24B — univers Rama maskujaca IP44 950x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f13c19d3edaf6c6159c4f2f9",
+      "recordPath": "equipment/hager-order-f13c19d3edaf6c6159c4f2f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f13c19d3edaf6c6159c4f2f9.json"
+    },
+    {
+      "id": "hager-order-1b27f0215619856127aac5c1",
+      "name": "FZ31B — univers Rama maskujaca IP44 1100x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-1b27f0215619856127aac5c1",
+      "recordPath": "equipment/hager-order-1b27f0215619856127aac5c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-1b27f0215619856127aac5c1.json"
+    },
+    {
+      "id": "hager-order-502e33f4463c23a43f248f36",
+      "name": "FZ32B — univers Rama maskujaca IP44 1100x550mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-502e33f4463c23a43f248f36",
+      "recordPath": "equipment/hager-order-502e33f4463c23a43f248f36.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-502e33f4463c23a43f248f36.json"
+    },
+    {
+      "id": "hager-order-23aa62f4538cffd8dfee3517",
+      "name": "FZ33B — univers Rama maskujaca IP44 1100x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-23aa62f4538cffd8dfee3517",
+      "recordPath": "equipment/hager-order-23aa62f4538cffd8dfee3517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-23aa62f4538cffd8dfee3517.json"
+    },
+    {
+      "id": "hager-order-439c20ebbacd295dcc67879a",
+      "name": "FZ34B — univers Rama maskujaca IP44 1100x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-439c20ebbacd295dcc67879a",
+      "recordPath": "equipment/hager-order-439c20ebbacd295dcc67879a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-439c20ebbacd295dcc67879a.json"
+    },
+    {
+      "id": "hager-order-7d7055202886642af3f3bf72",
+      "name": "UT22B — Szyna nosna TS35 FW 1-polowa izolowana obnizona 7,5mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7d7055202886642af3f3bf72",
+      "recordPath": "equipment/hager-order-7d7055202886642af3f3bf72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7d7055202886642af3f3bf72.json"
+    },
+    {
+      "id": "hager-order-458af4b7fee2f5e7b39fa6c3",
+      "name": "UT26A — Plyta montazowa FW obnizona 115x210mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-458af4b7fee2f5e7b39fa6c3",
+      "recordPath": "equipment/hager-order-458af4b7fee2f5e7b39fa6c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-458af4b7fee2f5e7b39fa6c3.json"
+    },
+    {
+      "id": "hager-order-a973396af423a842aa46dd2e",
+      "name": "UT26B — Plyta montazowa FW obnizona 215x210mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a973396af423a842aa46dd2e",
+      "recordPath": "equipment/hager-order-a973396af423a842aa46dd2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a973396af423a842aa46dd2e.json"
+    },
+    {
+      "id": "hager-order-dd5ff2e00c3c460440f4120d",
+      "name": "FZ441N — Oslona wyprowadzenia przewodow 1-polowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-dd5ff2e00c3c460440f4120d",
+      "recordPath": "equipment/hager-order-dd5ff2e00c3c460440f4120d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-dd5ff2e00c3c460440f4120d.json"
+    },
+    {
+      "id": "hager-order-60730c5234468ec45fcb2285",
+      "name": "FZ442N — Oslona wyprowadzenia przewodow 2-polowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-60730c5234468ec45fcb2285",
+      "recordPath": "equipment/hager-order-60730c5234468ec45fcb2285.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-60730c5234468ec45fcb2285.json"
+    },
+    {
+      "id": "hager-order-3682e281f1ebb0c3c62e6799",
+      "name": "FZ443N — Oslona wyprowadzenia przewodow 3-polowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3682e281f1ebb0c3c62e6799",
+      "recordPath": "equipment/hager-order-3682e281f1ebb0c3c62e6799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3682e281f1ebb0c3c62e6799.json"
+    },
+    {
+      "id": "hager-order-c20418198455c853b1dc812e",
+      "name": "FZ444N — Oslona wyprowadzenia przewodow 4-polowa",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c20418198455c853b1dc812e",
+      "recordPath": "equipment/hager-order-c20418198455c853b1dc812e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c20418198455c853b1dc812e.json"
+    },
+    {
+      "id": "hager-order-e295ccc0dbfa94803147dbc4",
+      "name": "FWU31S — FW Rozdzielnica kompletna 36M IP30 II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e295ccc0dbfa94803147dbc4",
+      "recordPath": "equipment/hager-order-e295ccc0dbfa94803147dbc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e295ccc0dbfa94803147dbc4.json"
+    },
+    {
+      "id": "hager-order-77e0ead497bf367613054d29",
+      "name": "FWU32S — FW Rozdzielnica kompletna 72M IP30 II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-77e0ead497bf367613054d29",
+      "recordPath": "equipment/hager-order-77e0ead497bf367613054d29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-77e0ead497bf367613054d29.json"
+    },
+    {
+      "id": "hager-order-8100bf4791ce6cad376b26ad",
+      "name": "FWU33S — FW Rozdzielnica kompletna 108M IP30 II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8100bf4791ce6cad376b26ad",
+      "recordPath": "equipment/hager-order-8100bf4791ce6cad376b26ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8100bf4791ce6cad376b26ad.json"
+    },
+    {
+      "id": "hager-order-ba48451394f6372310bc7da9",
+      "name": "FWU41S — FW Rozdzielnica kompletna 48M IP30 II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ba48451394f6372310bc7da9",
+      "recordPath": "equipment/hager-order-ba48451394f6372310bc7da9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ba48451394f6372310bc7da9.json"
+    },
+    {
+      "id": "hager-order-0c1ac8b9dd1c432cdccd9938",
+      "name": "FWU42S — FW Rozdzielnica kompletna 96M IP30 II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-0c1ac8b9dd1c432cdccd9938",
+      "recordPath": "equipment/hager-order-0c1ac8b9dd1c432cdccd9938.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-0c1ac8b9dd1c432cdccd9938.json"
+    },
+    {
+      "id": "hager-order-af1f714e95c1c8aa44a003c4",
+      "name": "FWU43S — FW Rozdzielnica kompletna 144M IP30 II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-af1f714e95c1c8aa44a003c4",
+      "recordPath": "equipment/hager-order-af1f714e95c1c8aa44a003c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-af1f714e95c1c8aa44a003c4.json"
+    },
+    {
+      "id": "hager-order-84670b9eab48f56c00fb37a4",
+      "name": "FWU32M2 — FW Rozdzielnica kompletna 3rz. 78 M II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-84670b9eab48f56c00fb37a4",
+      "recordPath": "equipment/hager-order-84670b9eab48f56c00fb37a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-84670b9eab48f56c00fb37a4.json"
+    },
+    {
+      "id": "hager-order-25246e121137e266694e9efe",
+      "name": "FWU42M2 — FW Rozdzielnica kompletna 4rz. 104 M II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-25246e121137e266694e9efe",
+      "recordPath": "equipment/hager-order-25246e121137e266694e9efe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-25246e121137e266694e9efe.json"
+    },
+    {
+      "id": "hager-order-013dc973c6044ee5f985c02f",
+      "name": "FWU52M2 — FW Rozdzielnica kompletna 5rz. 130 M II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-013dc973c6044ee5f985c02f",
+      "recordPath": "equipment/hager-order-013dc973c6044ee5f985c02f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-013dc973c6044ee5f985c02f.json"
+    },
+    {
+      "id": "hager-order-d8974110a38b862f6f6e3cee",
+      "name": "FWU62M2 — FW Rozdzielnica kompletna 6rz. 156 M II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d8974110a38b862f6f6e3cee",
+      "recordPath": "equipment/hager-order-d8974110a38b862f6f6e3cee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d8974110a38b862f6f6e3cee.json"
+    },
+    {
+      "id": "hager-order-e9ceba30c2220b2f2ebc3daf",
+      "name": "FWU72M2 — FW Rozdzielnica kompletna 7rz. 182 M II kl p/t",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e9ceba30c2220b2f2ebc3daf",
+      "recordPath": "equipment/hager-order-e9ceba30c2220b2f2ebc3daf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e9ceba30c2220b2f2ebc3daf.json"
+    },
+    {
+      "id": "hager-order-ef8b7f412da1f44eeba46539",
+      "name": "UW31U — FW Podzespol do zabudowy aparatow modulowych 500x250",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ef8b7f412da1f44eeba46539",
+      "recordPath": "equipment/hager-order-ef8b7f412da1f44eeba46539.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ef8b7f412da1f44eeba46539.json"
+    },
+    {
+      "id": "hager-order-16f54e0ae986b9e0fb4e1ff6",
+      "name": "UW41U — FW Podzespol do zabudowy aparatow modulowych 650x250",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-16f54e0ae986b9e0fb4e1ff6",
+      "recordPath": "equipment/hager-order-16f54e0ae986b9e0fb4e1ff6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-16f54e0ae986b9e0fb4e1ff6.json"
+    },
+    {
+      "id": "hager-order-e448f153666263c5630da725",
+      "name": "UW51U — FW Podzespol do zabudowy aparatow modulowych 800x250",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e448f153666263c5630da725",
+      "recordPath": "equipment/hager-order-e448f153666263c5630da725.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e448f153666263c5630da725.json"
+    },
+    {
+      "id": "hager-order-f1085979fbf031e96ebb7199",
+      "name": "UW61U — FW Podzespol do zabudowy aparatow modulowych 950x250",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f1085979fbf031e96ebb7199",
+      "recordPath": "equipment/hager-order-f1085979fbf031e96ebb7199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f1085979fbf031e96ebb7199.json"
+    },
+    {
+      "id": "hager-order-565d1a8f6b11b41e7a9154fe",
+      "name": "UW71U — FW Podzespol do zabudowy aparatow modulowych 1100x250",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-565d1a8f6b11b41e7a9154fe",
+      "recordPath": "equipment/hager-order-565d1a8f6b11b41e7a9154fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-565d1a8f6b11b41e7a9154fe.json"
+    },
+    {
+      "id": "hager-order-6af5edbdab23c95613ab1dee",
+      "name": "UW81U — FW Podzespol do zabudowy aparatow modulowych 1250x250",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6af5edbdab23c95613ab1dee",
+      "recordPath": "equipment/hager-order-6af5edbdab23c95613ab1dee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6af5edbdab23c95613ab1dee.json"
+    },
+    {
+      "id": "hager-order-ed9c9e197ea84b881087fbe3",
+      "name": "ZP410M01A — univers Z Rozdzielnica multimedialna nascienna 1250x300mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ed9c9e197ea84b881087fbe3",
+      "recordPath": "equipment/hager-order-ed9c9e197ea84b881087fbe3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ed9c9e197ea84b881087fbe3.json"
+    },
+    {
+      "id": "hager-order-ca9accf6f6fcb82956dbbc7b",
+      "name": "ZP413W21A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x300mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ca9accf6f6fcb82956dbbc7b",
+      "recordPath": "equipment/hager-order-ca9accf6f6fcb82956dbbc7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ca9accf6f6fcb82956dbbc7b.json"
+    },
+    {
+      "id": "hager-order-a776dfe86b34a108fb0b8d77",
+      "name": "ZP423W41A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x550mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a776dfe86b34a108fb0b8d77",
+      "recordPath": "equipment/hager-order-a776dfe86b34a108fb0b8d77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a776dfe86b34a108fb0b8d77.json"
+    },
+    {
+      "id": "hager-order-34921b9be901de98edd17b0c",
+      "name": "ZP433W61A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x800mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-34921b9be901de98edd17b0c",
+      "recordPath": "equipment/hager-order-34921b9be901de98edd17b0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-34921b9be901de98edd17b0c.json"
+    },
+    {
+      "id": "hager-order-8dd80ea7e12d5be2f0ee4d82",
+      "name": "ZP443W81A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x1050mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8dd80ea7e12d5be2f0ee4d82",
+      "recordPath": "equipment/hager-order-8dd80ea7e12d5be2f0ee4d82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8dd80ea7e12d5be2f0ee4d82.json"
+    },
+    {
+      "id": "hager-order-b53990c87e325aa8a8ac1e08",
+      "name": "ZQ410M01A — univers Z Rozdzielnica multimedialna nascienna 1250x300mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b53990c87e325aa8a8ac1e08",
+      "recordPath": "equipment/hager-order-b53990c87e325aa8a8ac1e08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b53990c87e325aa8a8ac1e08.json"
+    },
+    {
+      "id": "hager-order-8710c70cbc874ac2b7147fc6",
+      "name": "ZQ413W21A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x300mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8710c70cbc874ac2b7147fc6",
+      "recordPath": "equipment/hager-order-8710c70cbc874ac2b7147fc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8710c70cbc874ac2b7147fc6.json"
+    },
+    {
+      "id": "hager-order-3190dc7705cfb4e9c3c532e4",
+      "name": "ZQ423W41A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x550mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3190dc7705cfb4e9c3c532e4",
+      "recordPath": "equipment/hager-order-3190dc7705cfb4e9c3c532e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3190dc7705cfb4e9c3c532e4.json"
+    },
+    {
+      "id": "hager-order-7e573baf2bd8e4f776c3e7f1",
+      "name": "ZQ433W61A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x800mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7e573baf2bd8e4f776c3e7f1",
+      "recordPath": "equipment/hager-order-7e573baf2bd8e4f776c3e7f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7e573baf2bd8e4f776c3e7f1.json"
+    },
+    {
+      "id": "hager-order-0a88ba7560d0f265e715fe3a",
+      "name": "ZQ443W81A — univers Z Rozdzielnica wielolicznikowa nascienna 1250x1050mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-0a88ba7560d0f265e715fe3a",
+      "recordPath": "equipment/hager-order-0a88ba7560d0f265e715fe3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-0a88ba7560d0f265e715fe3a.json"
+    },
+    {
+      "id": "hager-order-e948726e3f64e6bcfd4d1fa7",
+      "name": "ZP824S61A — univers Z Rozdzielnica wielolicznikowa stojaca 1950x550mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e948726e3f64e6bcfd4d1fa7",
+      "recordPath": "equipment/hager-order-e948726e3f64e6bcfd4d1fa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e948726e3f64e6bcfd4d1fa7.json"
+    },
+    {
+      "id": "hager-order-b008bcd81c17a3a174cf6625",
+      "name": "ZP834S91A — univers Z Rozdzielnica wielolicznikowa stojaca 1850x800mm zamek cylindryczny",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b008bcd81c17a3a174cf6625",
+      "recordPath": "equipment/hager-order-b008bcd81c17a3a174cf6625.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b008bcd81c17a3a174cf6625.json"
+    },
+    {
+      "id": "hager-order-03a7cd26371a00ab5c8b5bfb",
+      "name": "ZQ824S61A — univers Z Rozdzielnica wielolicznikowa stojaca 1250x550mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-03a7cd26371a00ab5c8b5bfb",
+      "recordPath": "equipment/hager-order-03a7cd26371a00ab5c8b5bfb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-03a7cd26371a00ab5c8b5bfb.json"
+    },
+    {
+      "id": "hager-order-b30142ff72ba1794681992a4",
+      "name": "ZQ834S91A — univers Z Rozdzielnica wielolicznikowa stojaca 1850x800mm zamek dzwigniowy",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b30142ff72ba1794681992a4",
+      "recordPath": "equipment/hager-order-b30142ff72ba1794681992a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b30142ff72ba1794681992a4.json"
+    },
+    {
+      "id": "hager-order-4ed9d4bad6413f80199f52a3",
+      "name": "VP930 — vector Plyta izolacyjna 350x250mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4ed9d4bad6413f80199f52a3",
+      "recordPath": "equipment/hager-order-4ed9d4bad6413f80199f52a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4ed9d4bad6413f80199f52a3.json"
+    },
+    {
+      "id": "hager-order-32e6de5e042efbb64025471b",
+      "name": "VP933 — vector Plyta izolacyjna 500x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-32e6de5e042efbb64025471b",
+      "recordPath": "equipment/hager-order-32e6de5e042efbb64025471b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-32e6de5e042efbb64025471b.json"
+    },
+    {
+      "id": "hager-order-53630ff4ca1e7582ae59a1ff",
+      "name": "VP935 — vector Plyta izolacyjna 500x400mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-53630ff4ca1e7582ae59a1ff",
+      "recordPath": "equipment/hager-order-53630ff4ca1e7582ae59a1ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-53630ff4ca1e7582ae59a1ff.json"
+    },
+    {
+      "id": "hager-order-87fcc932ba8b13bca519c437",
+      "name": "VP937 — vector Plyta izolacyjna 650x400mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-87fcc932ba8b13bca519c437",
+      "recordPath": "equipment/hager-order-87fcc932ba8b13bca519c437.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-87fcc932ba8b13bca519c437.json"
+    },
+    {
+      "id": "hager-order-d60a37717b64854a31bfecf9",
+      "name": "VP940 — vector Plyta metalowa 350x250mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d60a37717b64854a31bfecf9",
+      "recordPath": "equipment/hager-order-d60a37717b64854a31bfecf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d60a37717b64854a31bfecf9.json"
+    },
+    {
+      "id": "hager-order-3fd2b85f6bcc591f838b3ffc",
+      "name": "VP943 — vector Plyta metalowa 500x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3fd2b85f6bcc591f838b3ffc",
+      "recordPath": "equipment/hager-order-3fd2b85f6bcc591f838b3ffc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3fd2b85f6bcc591f838b3ffc.json"
+    },
+    {
+      "id": "hager-order-9d78511b48430dc5d2914f20",
+      "name": "VP945 — vector Plyta metalowa 500x400mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9d78511b48430dc5d2914f20",
+      "recordPath": "equipment/hager-order-9d78511b48430dc5d2914f20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9d78511b48430dc5d2914f20.json"
+    },
+    {
+      "id": "hager-order-4d3c2596fa87fb41696000fe",
+      "name": "VP947 — vector Plyta metalowa 650x400mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4d3c2596fa87fb41696000fe",
+      "recordPath": "equipment/hager-order-4d3c2596fa87fb41696000fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4d3c2596fa87fb41696000fe.json"
+    },
+    {
+      "id": "hager-order-6d978fb940d76c02d1a2e5c2",
+      "name": "VP950 — vector Ruszt montazowy pod aparature modulowa 350x250mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6d978fb940d76c02d1a2e5c2",
+      "recordPath": "equipment/hager-order-6d978fb940d76c02d1a2e5c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6d978fb940d76c02d1a2e5c2.json"
+    },
+    {
+      "id": "hager-order-44f2c840ab9c166872151358",
+      "name": "VP953 — vector Ruszt montazowy pod aparature modulowa 500x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-44f2c840ab9c166872151358",
+      "recordPath": "equipment/hager-order-44f2c840ab9c166872151358.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-44f2c840ab9c166872151358.json"
+    },
+    {
+      "id": "hager-order-69f344fe34c6c46021530554",
+      "name": "VP955 — vector Ruszt montazowy pod aparature modulowa 500x400mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-69f344fe34c6c46021530554",
+      "recordPath": "equipment/hager-order-69f344fe34c6c46021530554.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-69f344fe34c6c46021530554.json"
+    },
+    {
+      "id": "hager-order-99974b2d4216ffd616783158",
+      "name": "VP957 — vector Ruszt montazowy pod aparature modulowa 650x400mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-99974b2d4216ffd616783158",
+      "recordPath": "equipment/hager-order-99974b2d4216ffd616783158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-99974b2d4216ffd616783158.json"
+    },
+    {
+      "id": "hager-order-aa895aac831b3abeb00b51e5",
+      "name": "FZ272N — Wentylator 24V do obudow FB",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-aa895aac831b3abeb00b51e5",
+      "recordPath": "equipment/hager-order-aa895aac831b3abeb00b51e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-aa895aac831b3abeb00b51e5.json"
+    },
+    {
+      "id": "hager-order-32202fc67286ae0f3643aa78",
+      "name": "FZ015B — univers Rama maskujaca IP44 500x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-32202fc67286ae0f3643aa78",
+      "recordPath": "equipment/hager-order-32202fc67286ae0f3643aa78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-32202fc67286ae0f3643aa78.json"
+    },
+    {
+      "id": "hager-order-7e50455c7854db8b278c4b80",
+      "name": "FZ025B — univers Rama maskujaca IP44 650x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7e50455c7854db8b278c4b80",
+      "recordPath": "equipment/hager-order-7e50455c7854db8b278c4b80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7e50455c7854db8b278c4b80.json"
+    },
+    {
+      "id": "hager-order-14897c0c47c3c7ad732d5a13",
+      "name": "FZ15B — univers Rama maskujaca IP44 800x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-14897c0c47c3c7ad732d5a13",
+      "recordPath": "equipment/hager-order-14897c0c47c3c7ad732d5a13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-14897c0c47c3c7ad732d5a13.json"
+    },
+    {
+      "id": "hager-order-3afd657fdae4a4161f69d2c3",
+      "name": "FZ25B — univers Rama maskujaca IP44 950x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3afd657fdae4a4161f69d2c3",
+      "recordPath": "equipment/hager-order-3afd657fdae4a4161f69d2c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3afd657fdae4a4161f69d2c3.json"
+    },
+    {
+      "id": "hager-order-3cb9c1607b2a41844754da8c",
+      "name": "FZ35B — univers Rama maskujaca IP44 1100x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3cb9c1607b2a41844754da8c",
+      "recordPath": "equipment/hager-order-3cb9c1607b2a41844754da8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3cb9c1607b2a41844754da8c.json"
+    },
+    {
+      "id": "hager-order-f61aba2a1533d697c7310e0e",
+      "name": "FZ41B — univers Rama maskujaca IP43 1250x300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f61aba2a1533d697c7310e0e",
+      "recordPath": "equipment/hager-order-f61aba2a1533d697c7310e0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f61aba2a1533d697c7310e0e.json"
+    },
+    {
+      "id": "hager-order-11771134a0711777586dd79d",
+      "name": "FZ42B — univers Rama maskujaca IP44 1250x550mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-11771134a0711777586dd79d",
+      "recordPath": "equipment/hager-order-11771134a0711777586dd79d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-11771134a0711777586dd79d.json"
+    },
+    {
+      "id": "hager-order-a4623bde26fa9f269d65c1d5",
+      "name": "FZ43B — univers Rama maskujaca IP44 1250x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a4623bde26fa9f269d65c1d5",
+      "recordPath": "equipment/hager-order-a4623bde26fa9f269d65c1d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a4623bde26fa9f269d65c1d5.json"
+    },
+    {
+      "id": "hager-order-d920feb3c253a1ffb7145703",
+      "name": "FZ44B — univers Rama maskujaca IP44 1250x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d920feb3c253a1ffb7145703",
+      "recordPath": "equipment/hager-order-d920feb3c253a1ffb7145703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d920feb3c253a1ffb7145703.json"
+    },
+    {
+      "id": "hager-order-4f1337db41dcd13880ebd3d7",
+      "name": "FZ45B — univers Rama maskujaca IP44 1250x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4f1337db41dcd13880ebd3d7",
+      "recordPath": "equipment/hager-order-4f1337db41dcd13880ebd3d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4f1337db41dcd13880ebd3d7.json"
+    },
+    {
+      "id": "hager-order-32eb77550f5c5e5328d12718",
+      "name": "FZ53B — univers Rama maskujaca IP44 1400x800mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-32eb77550f5c5e5328d12718",
+      "recordPath": "equipment/hager-order-32eb77550f5c5e5328d12718.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-32eb77550f5c5e5328d12718.json"
+    },
+    {
+      "id": "hager-order-3c7ecbbd70bac5cbe3997188",
+      "name": "FZ54B — univers Rama maskujaca IP44 1400x1050mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3c7ecbbd70bac5cbe3997188",
+      "recordPath": "equipment/hager-order-3c7ecbbd70bac5cbe3997188.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3c7ecbbd70bac5cbe3997188.json"
+    },
+    {
+      "id": "hager-order-39f45145ff66f5ae75760c0e",
+      "name": "FZ55B — univers Rama maskujaca IP44 1400x1300mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-39f45145ff66f5ae75760c0e",
+      "recordPath": "equipment/hager-order-39f45145ff66f5ae75760c0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-39f45145ff66f5ae75760c0e.json"
+    },
+    {
+      "id": "hager-order-c8fe771b2b45ed0d5b00aabd",
+      "name": "FR01E — univers Rozdzielnica wiszaca IP55/I 300x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c8fe771b2b45ed0d5b00aabd",
+      "recordPath": "equipment/hager-order-c8fe771b2b45ed0d5b00aabd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c8fe771b2b45ed0d5b00aabd.json"
+    },
+    {
+      "id": "hager-order-76641f85bede943ef510a05a",
+      "name": "FR02E — univers Rozdzielnica wiszaca IP55/I 550x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-76641f85bede943ef510a05a",
+      "recordPath": "equipment/hager-order-76641f85bede943ef510a05a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-76641f85bede943ef510a05a.json"
+    },
+    {
+      "id": "hager-order-c9c71236917d0d831de8af80",
+      "name": "FR03E — univers Rozdzielnica wiszaca IP55/I 800x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c9c71236917d0d831de8af80",
+      "recordPath": "equipment/hager-order-c9c71236917d0d831de8af80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c9c71236917d0d831de8af80.json"
+    },
+    {
+      "id": "hager-order-f58a05005a1e968f02210f09",
+      "name": "FR04E — univers Rozdzielnica wiszaca IP55/I 1050x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f58a05005a1e968f02210f09",
+      "recordPath": "equipment/hager-order-f58a05005a1e968f02210f09.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f58a05005a1e968f02210f09.json"
+    },
+    {
+      "id": "hager-order-b28b966e71f31d7792c054cd",
+      "name": "FR05E — univers Rozdzielnica wiszaca IP55/I 1300x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b28b966e71f31d7792c054cd",
+      "recordPath": "equipment/hager-order-b28b966e71f31d7792c054cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b28b966e71f31d7792c054cd.json"
+    },
+    {
+      "id": "hager-order-1179c7de02ffee737caf8e48",
+      "name": "FR35E — univers Rozdzielnica wiszaca IP55/I 1300x500x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-1179c7de02ffee737caf8e48",
+      "recordPath": "equipment/hager-order-1179c7de02ffee737caf8e48.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-1179c7de02ffee737caf8e48.json"
+    },
+    {
+      "id": "hager-order-63bf019781014119045d7a8d",
+      "name": "FR45E — univers Rozdzielnica wiszaca IP55/I 1300x650x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-63bf019781014119045d7a8d",
+      "recordPath": "equipment/hager-order-63bf019781014119045d7a8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-63bf019781014119045d7a8d.json"
+    },
+    {
+      "id": "hager-order-31cdf6eae7704bceeb7a5bec",
+      "name": "FR55E — univers Rozdzielnica wiszaca IP55/I 1300x800x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-31cdf6eae7704bceeb7a5bec",
+      "recordPath": "equipment/hager-order-31cdf6eae7704bceeb7a5bec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-31cdf6eae7704bceeb7a5bec.json"
+    },
+    {
+      "id": "hager-order-3e3c0ef9a6930950b5a81447",
+      "name": "FR65E — univers Rozdzielnica wiszaca IP55/I 1300x950x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3e3c0ef9a6930950b5a81447",
+      "recordPath": "equipment/hager-order-3e3c0ef9a6930950b5a81447.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3e3c0ef9a6930950b5a81447.json"
+    },
+    {
+      "id": "hager-order-a4781b1414978444c84926ff",
+      "name": "FR75E — univers Rozdzielnica wiszaca IP55/I 1300x1100x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a4781b1414978444c84926ff",
+      "recordPath": "equipment/hager-order-a4781b1414978444c84926ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a4781b1414978444c84926ff.json"
+    },
+    {
+      "id": "hager-order-2dbe58f116f3347aa8b240c1",
+      "name": "FR81E — univers Rozdzielnica wiszaca IP55/I 300x1250x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-2dbe58f116f3347aa8b240c1",
+      "recordPath": "equipment/hager-order-2dbe58f116f3347aa8b240c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-2dbe58f116f3347aa8b240c1.json"
+    },
+    {
+      "id": "hager-order-663fb0a423a2cb962e12e5aa",
+      "name": "FR85E — univers Rozdzielnica wiszaca IP55/I 1300x1250x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-663fb0a423a2cb962e12e5aa",
+      "recordPath": "equipment/hager-order-663fb0a423a2cb962e12e5aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-663fb0a423a2cb962e12e5aa.json"
+    },
+    {
+      "id": "hager-order-2515847127b023739a285b55",
+      "name": "FR91E — univers Rozdzielnica wiszaca IP55/I 300x1400x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-2515847127b023739a285b55",
+      "recordPath": "equipment/hager-order-2515847127b023739a285b55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-2515847127b023739a285b55.json"
+    },
+    {
+      "id": "hager-order-996557ee8b628759c0ce0f61",
+      "name": "FR01S — univers Rozdzielnica wiszaca IP55/II 300x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-996557ee8b628759c0ce0f61",
+      "recordPath": "equipment/hager-order-996557ee8b628759c0ce0f61.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-996557ee8b628759c0ce0f61.json"
+    },
+    {
+      "id": "hager-order-82d6b5fdf62352d5951ba885",
+      "name": "FR02S — univers Rozdzielnica wiszaca IP55/II 550x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-82d6b5fdf62352d5951ba885",
+      "recordPath": "equipment/hager-order-82d6b5fdf62352d5951ba885.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-82d6b5fdf62352d5951ba885.json"
+    },
+    {
+      "id": "hager-order-261607d75e29758436cd7517",
+      "name": "FR03S — univers Rozdzielnica wiszaca IP55/II 800x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-261607d75e29758436cd7517",
+      "recordPath": "equipment/hager-order-261607d75e29758436cd7517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-261607d75e29758436cd7517.json"
+    },
+    {
+      "id": "hager-order-2e3d1784d3e801e455eebddd",
+      "name": "FR04S — univers Rozdzielnica wiszaca IP55/II 1050x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-2e3d1784d3e801e455eebddd",
+      "recordPath": "equipment/hager-order-2e3d1784d3e801e455eebddd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-2e3d1784d3e801e455eebddd.json"
+    },
+    {
+      "id": "hager-order-f4b95946dde3c53047ea4a9e",
+      "name": "FR05S — univers Rozdzielnica wiszaca IP55/II 1300x1550x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-f4b95946dde3c53047ea4a9e",
+      "recordPath": "equipment/hager-order-f4b95946dde3c53047ea4a9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-f4b95946dde3c53047ea4a9e.json"
+    },
+    {
+      "id": "hager-order-a91061a7c33ac8c33e02aaae",
+      "name": "FR35S — univers Rozdzielnica wiszaca IP55/II 1300x500x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a91061a7c33ac8c33e02aaae",
+      "recordPath": "equipment/hager-order-a91061a7c33ac8c33e02aaae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a91061a7c33ac8c33e02aaae.json"
+    },
+    {
+      "id": "hager-order-8454c63cb606370577ef9753",
+      "name": "FR45S — univers Rozdzielnica wiszaca IP55/II 1300x650x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8454c63cb606370577ef9753",
+      "recordPath": "equipment/hager-order-8454c63cb606370577ef9753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8454c63cb606370577ef9753.json"
+    },
+    {
+      "id": "hager-order-8773f447ab667e509618cb73",
+      "name": "FR55S — univers Rozdzielnica wiszaca IP55/II 1300x800x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-8773f447ab667e509618cb73",
+      "recordPath": "equipment/hager-order-8773f447ab667e509618cb73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-8773f447ab667e509618cb73.json"
+    },
+    {
+      "id": "hager-order-9515d599b6683644b2fed9e0",
+      "name": "FR65S — univers Rozdzielnica wiszaca IP55/II 1300x950x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9515d599b6683644b2fed9e0",
+      "recordPath": "equipment/hager-order-9515d599b6683644b2fed9e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9515d599b6683644b2fed9e0.json"
+    },
+    {
+      "id": "hager-order-a3912840e4a61bcecaaefa26",
+      "name": "FR75S — univers Rozdzielnica wiszaca IP55/II 1300x1100x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a3912840e4a61bcecaaefa26",
+      "recordPath": "equipment/hager-order-a3912840e4a61bcecaaefa26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a3912840e4a61bcecaaefa26.json"
+    },
+    {
+      "id": "hager-order-9e8ade5fe8eb0615336d82ad",
+      "name": "FR85S — univers Rozdzielnica wiszaca IP55/II 1300x1250x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9e8ade5fe8eb0615336d82ad",
+      "recordPath": "equipment/hager-order-9e8ade5fe8eb0615336d82ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9e8ade5fe8eb0615336d82ad.json"
+    },
+    {
+      "id": "hager-order-4ded75b87268fc75766208a5",
+      "name": "FR91S — univers Rozdzielnica wiszaca IP55/II 300x1400x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4ded75b87268fc75766208a5",
+      "recordPath": "equipment/hager-order-4ded75b87268fc75766208a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4ded75b87268fc75766208a5.json"
+    },
+    {
+      "id": "hager-order-d4ea03a846a9ef501942cb64",
+      "name": "FR95S — univers Rozdzielnica wiszaca IP55/II 1300x1400x275",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d4ea03a846a9ef501942cb64",
+      "recordPath": "equipment/hager-order-d4ea03a846a9ef501942cb64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d4ea03a846a9ef501942cb64.json"
+    },
+    {
+      "id": "hager-order-b9b00b9837ad94b727291473",
+      "name": "FR11E1 — univers Rozdzielnica stojaca IP55/I 300x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b9b00b9837ad94b727291473",
+      "recordPath": "equipment/hager-order-b9b00b9837ad94b727291473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b9b00b9837ad94b727291473.json"
+    },
+    {
+      "id": "hager-order-6736cc96c91935db6e9625ba",
+      "name": "FR11E2 — univers Rozdzielnica stojaca IP55/I 300x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-6736cc96c91935db6e9625ba",
+      "recordPath": "equipment/hager-order-6736cc96c91935db6e9625ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-6736cc96c91935db6e9625ba.json"
+    },
+    {
+      "id": "hager-order-3d99820bb28788630b571d81",
+      "name": "FR12E1 — univers Rozdzielnica stojaca IP55/I 550x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3d99820bb28788630b571d81",
+      "recordPath": "equipment/hager-order-3d99820bb28788630b571d81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3d99820bb28788630b571d81.json"
+    },
+    {
+      "id": "hager-order-4fbaa82de7551d92a7354a43",
+      "name": "FR12E2 — univers Rozdzielnica stojaca IP55/I 550x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-4fbaa82de7551d92a7354a43",
+      "recordPath": "equipment/hager-order-4fbaa82de7551d92a7354a43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-4fbaa82de7551d92a7354a43.json"
+    },
+    {
+      "id": "hager-order-9978970e5b24813d4cc652ca",
+      "name": "FR13E1 — univers Rozdzielnica stojaca IP55/I 800x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9978970e5b24813d4cc652ca",
+      "recordPath": "equipment/hager-order-9978970e5b24813d4cc652ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9978970e5b24813d4cc652ca.json"
+    },
+    {
+      "id": "hager-order-412a1838c8dfd30d62d7d6ec",
+      "name": "FR13E2 — univers Rozdzielnica stojaca IP55/I 800x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-412a1838c8dfd30d62d7d6ec",
+      "recordPath": "equipment/hager-order-412a1838c8dfd30d62d7d6ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-412a1838c8dfd30d62d7d6ec.json"
+    },
+    {
+      "id": "hager-order-56e842fada913c07d0c774c8",
+      "name": "FR14E1 — univers Rozdzielnica stojaca IP55/I 1050x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-56e842fada913c07d0c774c8",
+      "recordPath": "equipment/hager-order-56e842fada913c07d0c774c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-56e842fada913c07d0c774c8.json"
+    },
+    {
+      "id": "hager-order-d3b2ee2acc44ebf4eab05faa",
+      "name": "FR14E2 — univers Rozdzielnica stojaca IP55/I 1050x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d3b2ee2acc44ebf4eab05faa",
+      "recordPath": "equipment/hager-order-d3b2ee2acc44ebf4eab05faa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d3b2ee2acc44ebf4eab05faa.json"
+    },
+    {
+      "id": "hager-order-5526a1ca6bbca6b38ce22706",
+      "name": "FR15E1 — univers Rozdzielnica stojaca IP55/I 1300x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-5526a1ca6bbca6b38ce22706",
+      "recordPath": "equipment/hager-order-5526a1ca6bbca6b38ce22706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-5526a1ca6bbca6b38ce22706.json"
+    },
+    {
+      "id": "hager-order-3d9d3149f76f77335e33de19",
+      "name": "FR15E2 — univers Rozdzielnica stojaca IP55/I 1300x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3d9d3149f76f77335e33de19",
+      "recordPath": "equipment/hager-order-3d9d3149f76f77335e33de19.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3d9d3149f76f77335e33de19.json"
+    },
+    {
+      "id": "hager-order-ae464233439cb0b9759ee2a4",
+      "name": "FR21E2 — univers Rozdzielnica stojaca IP55/I 300x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ae464233439cb0b9759ee2a4",
+      "recordPath": "equipment/hager-order-ae464233439cb0b9759ee2a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ae464233439cb0b9759ee2a4.json"
+    },
+    {
+      "id": "hager-order-c9dc13a7fc51b68db955c9b0",
+      "name": "FR22E2 — univers Rozdzielnica stojaca IP55/I 550x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-c9dc13a7fc51b68db955c9b0",
+      "recordPath": "equipment/hager-order-c9dc13a7fc51b68db955c9b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-c9dc13a7fc51b68db955c9b0.json"
+    },
+    {
+      "id": "hager-order-3f1172be918a53e5ce4787af",
+      "name": "FR22K2 — univers Rozdzielnica stojaca IP55/I 550x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3f1172be918a53e5ce4787af",
+      "recordPath": "equipment/hager-order-3f1172be918a53e5ce4787af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3f1172be918a53e5ce4787af.json"
+    },
+    {
+      "id": "hager-order-e4b7639a916f147d0178f1e9",
+      "name": "FR23E2 — univers Rozdzielnica stojaca IP55/I 800x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-e4b7639a916f147d0178f1e9",
+      "recordPath": "equipment/hager-order-e4b7639a916f147d0178f1e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-e4b7639a916f147d0178f1e9.json"
+    },
+    {
+      "id": "hager-order-b25dedf7f1e34f02572fc13e",
+      "name": "FR23K2 — univers Rozdzielnica stojaca IP55/I 800x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b25dedf7f1e34f02572fc13e",
+      "recordPath": "equipment/hager-order-b25dedf7f1e34f02572fc13e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b25dedf7f1e34f02572fc13e.json"
+    },
+    {
+      "id": "hager-order-88fc64699a42ea313750b2e1",
+      "name": "FR24E2 — univers Rozdzielnica stojaca IP55/I 1050x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-88fc64699a42ea313750b2e1",
+      "recordPath": "equipment/hager-order-88fc64699a42ea313750b2e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-88fc64699a42ea313750b2e1.json"
+    },
+    {
+      "id": "hager-order-988b1395fe036df42f43cc4e",
+      "name": "FR24K2 — univers Rozdzielnica stojaca IP55/I 1050x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-988b1395fe036df42f43cc4e",
+      "recordPath": "equipment/hager-order-988b1395fe036df42f43cc4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-988b1395fe036df42f43cc4e.json"
+    },
+    {
+      "id": "hager-order-7834140518532ac048fc553d",
+      "name": "FR25E2 — univers Rozdzielnica stojaca IP55/I 1300x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7834140518532ac048fc553d",
+      "recordPath": "equipment/hager-order-7834140518532ac048fc553d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7834140518532ac048fc553d.json"
+    },
+    {
+      "id": "hager-order-af2375dec6025f2ab926aa41",
+      "name": "FR25K2 — univers Rozdzielnica stojaca IP55/I 1300x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-af2375dec6025f2ab926aa41",
+      "recordPath": "equipment/hager-order-af2375dec6025f2ab926aa41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-af2375dec6025f2ab926aa41.json"
+    },
+    {
+      "id": "hager-order-7b32fe373660d03871154b92",
+      "name": "FR26E1 — univers Rozdzielnica stojaca IP55/I 1550x1850x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7b32fe373660d03871154b92",
+      "recordPath": "equipment/hager-order-7b32fe373660d03871154b92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7b32fe373660d03871154b92.json"
+    },
+    {
+      "id": "hager-order-7acdb59d9b2095fbcce2d27a",
+      "name": "FR26E2 — univers Rozdzielnica stojaca IP55/I 1550x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-7acdb59d9b2095fbcce2d27a",
+      "recordPath": "equipment/hager-order-7acdb59d9b2095fbcce2d27a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-7acdb59d9b2095fbcce2d27a.json"
+    },
+    {
+      "id": "hager-order-71bf7e0aa9981c31f2afb4c3",
+      "name": "FR26K1 — univers Rozdzielnica stojaca IP55/I 1550x1850x275 + cokol 100mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-71bf7e0aa9981c31f2afb4c3",
+      "recordPath": "equipment/hager-order-71bf7e0aa9981c31f2afb4c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-71bf7e0aa9981c31f2afb4c3.json"
+    },
+    {
+      "id": "hager-order-74613ecbbb53c8898ec4b78f",
+      "name": "FR26K2 — univers Rozdzielnica stojaca IP55/I 1550x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-74613ecbbb53c8898ec4b78f",
+      "recordPath": "equipment/hager-order-74613ecbbb53c8898ec4b78f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-74613ecbbb53c8898ec4b78f.json"
+    },
+    {
+      "id": "hager-order-5b19e1db61fd87c81b4773aa",
+      "name": "FR11S1 — univers Rozdzielnica stojaca IP55/II 300x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-5b19e1db61fd87c81b4773aa",
+      "recordPath": "equipment/hager-order-5b19e1db61fd87c81b4773aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-5b19e1db61fd87c81b4773aa.json"
+    },
+    {
+      "id": "hager-order-d23d8181b0831911bd79a741",
+      "name": "FR11S2 — univers Rozdzielnica stojaca IP55/II 300x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-d23d8181b0831911bd79a741",
+      "recordPath": "equipment/hager-order-d23d8181b0831911bd79a741.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-d23d8181b0831911bd79a741.json"
+    },
+    {
+      "id": "hager-order-9285eb2dbac8e1eedb909238",
+      "name": "FR12S1 — univers Rozdzielnica stojaca IP55/II 550x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-9285eb2dbac8e1eedb909238",
+      "recordPath": "equipment/hager-order-9285eb2dbac8e1eedb909238.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-9285eb2dbac8e1eedb909238.json"
+    },
+    {
+      "id": "hager-order-fadaa6653bb48cbb48cecce2",
+      "name": "FR12S2 — univers Rozdzielnica stojaca IP55/II 550x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-fadaa6653bb48cbb48cecce2",
+      "recordPath": "equipment/hager-order-fadaa6653bb48cbb48cecce2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-fadaa6653bb48cbb48cecce2.json"
+    },
+    {
+      "id": "hager-order-3dbda2cd6105d9cad81c3dbd",
+      "name": "FR13S1 — univers Rozdzielnica stojaca IP55/II 800x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-3dbda2cd6105d9cad81c3dbd",
+      "recordPath": "equipment/hager-order-3dbda2cd6105d9cad81c3dbd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-3dbda2cd6105d9cad81c3dbd.json"
+    },
+    {
+      "id": "hager-order-893f67c225c2c27d38ec1aa3",
+      "name": "FR13S2 — univers Rozdzielnica stojaca IP55/II 800x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-893f67c225c2c27d38ec1aa3",
+      "recordPath": "equipment/hager-order-893f67c225c2c27d38ec1aa3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-893f67c225c2c27d38ec1aa3.json"
+    },
+    {
+      "id": "hager-order-b880342636958d5ffcd8a9c3",
+      "name": "FR14S1 — univers Rozdzielnica stojaca IP55/II 1050x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b880342636958d5ffcd8a9c3",
+      "recordPath": "equipment/hager-order-b880342636958d5ffcd8a9c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b880342636958d5ffcd8a9c3.json"
+    },
+    {
+      "id": "hager-order-2b8bbcf92893800ba211776f",
+      "name": "FR14S2 — univers Rozdzielnica stojaca IP55/II 1050x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-2b8bbcf92893800ba211776f",
+      "recordPath": "equipment/hager-order-2b8bbcf92893800ba211776f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-2b8bbcf92893800ba211776f.json"
+    },
+    {
+      "id": "hager-order-19e2ae8fde143f150a271d8a",
+      "name": "FR15S1 — univers Rozdzielnica stojaca IP55/II 1300x1700x275 + cokol 100mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-19e2ae8fde143f150a271d8a",
+      "recordPath": "equipment/hager-order-19e2ae8fde143f150a271d8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-19e2ae8fde143f150a271d8a.json"
+    },
+    {
+      "id": "hager-order-b6af100f8e8eee39d4aae13a",
+      "name": "FR15S2 — univers Rozdzielnica stojaca IP55/II 1300x1700x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-b6af100f8e8eee39d4aae13a",
+      "recordPath": "equipment/hager-order-b6af100f8e8eee39d4aae13a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-b6af100f8e8eee39d4aae13a.json"
+    },
+    {
+      "id": "hager-order-ce77a40f054f4431ccd2efec",
+      "name": "FR21S2 — univers Rozdzielnica stojaca IP55/II 300x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-ce77a40f054f4431ccd2efec",
+      "recordPath": "equipment/hager-order-ce77a40f054f4431ccd2efec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-ce77a40f054f4431ccd2efec.json"
+    },
+    {
+      "id": "hager-order-0bd6bb3ef15bd47041f83d67",
+      "name": "FR22L2 — univers Rozdzielnica stojaca IP55/II 550x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-0bd6bb3ef15bd47041f83d67",
+      "recordPath": "equipment/hager-order-0bd6bb3ef15bd47041f83d67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-0bd6bb3ef15bd47041f83d67.json"
+    },
+    {
+      "id": "hager-order-665d8ab4f4ab492efc602fb5",
+      "name": "FR22S2 — univers Rozdzielnica stojaca IP55/II 550x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-665d8ab4f4ab492efc602fb5",
+      "recordPath": "equipment/hager-order-665d8ab4f4ab492efc602fb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-665d8ab4f4ab492efc602fb5.json"
+    },
+    {
+      "id": "hager-order-5dadddbabc728625f1f6492b",
+      "name": "FR23L2 — univers Rozdzielnica stojaca IP55/II 800x1850x275 + cokol 200mm, drzwi transp.",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-5dadddbabc728625f1f6492b",
+      "recordPath": "equipment/hager-order-5dadddbabc728625f1f6492b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-5dadddbabc728625f1f6492b.json"
+    },
+    {
+      "id": "hager-order-a7271dca30520982f34548d1",
+      "name": "FR23S2 — univers Rozdzielnica stojaca IP55/II 800x1850x275 + cokol 200mm",
+      "manufacturer": "Hager",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/hager-order-a7271dca30520982f34548d1",
+      "recordPath": "equipment/hager-order-a7271dca30520982f34548d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/hager-order-a7271dca30520982f34548d1.json"
+    }
+  ]
+}

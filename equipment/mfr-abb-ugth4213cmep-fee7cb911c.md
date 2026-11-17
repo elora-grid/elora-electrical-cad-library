@@ -1,0 +1,104 @@
+# ABB — UGTH4213CMEP
+
+ABB UGTH4213CMEP: original PDF for protection or metering equipment layouts. UGTH4213CMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ugth4213cmep-fee7cb911c) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ugth4213cmep-fee7cb911c.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ugth4213cmep-fee7cb911c.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Protection & metering
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+UGTH4213CMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product
+
+## Equipment and file summary
+
+- Equipment / resource: UGTH4213CMEP
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: UGTH4213CMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product
+- Manufacturer drawing identity: UGTH4213CMEP
+- Source document: UGTH4213CMEP; revision A
+- Listed file formats: PDF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: UGTH4213CMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product ([source](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: UGTH4213CMEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: UGTH4213CMEP; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+A measuring instrument turns a quantity such as current, voltage or power into a reading or signal that people and control systems can use.
+
+Use UGTH4213CMEP.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+Use UGTH4213CMEP.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: UGTH4213CMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product
+- The source was checked on 2026-11-11; recorded file revisions: UGTH4213CMEP.pdf — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for UGTH4213CMEP?
+
+1 inspected original for ABB UGTH4213CMEP: UGTH4213CMEP.pdf (PDF). The manufacturer describes this configuration as UGTH4213CMEP Outline Drawing - For Midwest SE- Single Meter Sockets Product.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use UGTH4213CMEP.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB UGTH4213CMEP: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-ugth4213cmep-fee7cb911c/abb-7198a39896165b4b652d?asset=8263fadd2a9bc3897ac14fd8da43dbad5fcf431765991c6e2958ba0d6eedfcaf)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ugth4213cmep-fee7cb911c). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### UGTH4213CMEP.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ugth4213cmep-fee7cb911c/abb-7198a39896165b4b652d)
+- Redistribution: unknown
+- Original SHA-256: 07326d8b35dee6261af79a01b0d318c240ab70525324d2163a79790e5641b0e1
+- Original bytes: 172456
+- Revision: A
+- Retrieved: 2026-11-11T05:42:56.489583+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=UGTH4213CMEP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; PDF; 172456 bytes
+- Delivery SHA-256: 07326d8b35dee6261af79a01b0d318c240ab70525324d2163a79790e5641b0e1
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

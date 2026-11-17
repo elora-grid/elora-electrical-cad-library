@@ -29,6 +29,7 @@ Manufacturer reference mib-mic-2-mounting-instructions-4189320052-uk.pdf; mib-80
 - Model envelope: mic-2-mkii-3d-step-file.stp: 108 × 64.8 × 99.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: mib-mic-2-mounting-instructions-4189320052-uk.pdf; mib-mic-2d-cad-drawing.dwg; mic-2-mkii-3d-step-file.stp; mic-2-mkii-3d-pdf.pdf
 - Manufacturer reference: mib-mic-2d-cad-drawing.dwg; mic-2-mkii-3d-pdf.pdf; mic-2-mkii-3d-step-file.stp
+- Standards: IEC 62053-22, ANSI C12.20, IEC 61557-12, IEC 61000-3-2, IEC 61000-6-2, IEC 61000-6-4, EN 55011, IEC 61010-1, UL 61010-1, IEC 60529, IEC 60092, ANSI C39.1
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

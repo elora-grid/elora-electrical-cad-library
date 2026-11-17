@@ -25,6 +25,7 @@ The supplied configuration is “OT30...160G3-3BSU”. Keep those frame, mountin
 - Manufacturer drawing: OT30\_160G3\_3BSU.STP
 - Manufacturer reference: OT30\_160G3\_3BSU.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

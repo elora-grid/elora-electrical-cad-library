@@ -8,7 +8,7 @@ ABB XT5 3p Plug-in 630A Circuit Breaker + Fixed Part: breaker or breaker-accesso
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1302
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT5 3p Plug-in 630A Circuit Breaker + Fixed Par
 - Manufacturer drawing: 1SDH002065A1302
 - Manufacturer reference: 1SDH002065A1302
 - Document revision: C
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -90,5 +90,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1302&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; STEP; 52420412 bytes
 - Delivery SHA-256: ec8acc56566d5526880165f34c669ba679e57ebe34a549bf141bfa5f9afbf3d5
+
+### 1SDH002065A1302.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1302.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1302&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-plug-in-630a-circuit-breaker-fixed-part-8a47dafb69/ec8acc56566d55268801-dxf)
+- Redistribution: unknown
+- Original SHA-256: ec8acc56566d5526880165f34c669ba679e57ebe34a549bf141bfa5f9afbf3d5
+- Original bytes: 52420412
+- Revision: C
+- Retrieved: 2026-11-04T04:08:42Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1302&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1302&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 1614486 bytes
+- Delivery SHA-256: f0323b48417b3252a8385fe7283b002bbb7e39a44cfd0aa58ace2940894ae9f9
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

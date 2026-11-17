@@ -8,7 +8,7 @@ ABB XT6 3p 4p W Flange for MOE: breaker or breaker-accessory reference for break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1580
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p 4p W Flange for MOE”. Keep those frame
 - Manufacturer reference: 1SDH002065A1580
 - Document revision: A
 - Model envelope: 1SDH002065A1580\_XT6\_3p\_4p\_W\_Flange\_for\_MOE.stp: 11.2 × 269 × 188.2 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1580&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 2970048 bytes
 - Delivery SHA-256: 7644591afaa8798c563f5cd4eada11e282a0fafff0498e4bfc83c6c34953ff3a
+
+### 1SDH002065A1580\_XT6\_3p\_4p\_W\_Flange\_for\_MOE.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1580\_XT6\_3p\_4p\_W\_Flange\_for\_MOE.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1580&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-w-flange-for-moe-e61704bab4/7644591afaa8798c563f-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7644591afaa8798c563f5cd4eada11e282a0fafff0498e4bfc83c6c34953ff3a
+- Original bytes: 2970048
+- Revision: A
+- Retrieved: 2026-11-03T01:58:06.231038Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1580&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1580&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 846592 bytes
+- Delivery SHA-256: 95f7251b647ea58816b9ec30b4a5d825f346a3812cc1343661a2005eb2073f66
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

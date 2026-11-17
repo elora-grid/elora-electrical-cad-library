@@ -1,0 +1,129 @@
+# ABB — IS2 component EP1660K
+
+ABB IS2 component EP1660K. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-ep1660k) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-is2-ep1660k.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-is2-ep1660k.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: EP1660K
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: IS2 component EP1660K
+- Manufacturer: ABB
+- Resource type: Product
+- Part number: EP1660K
+- Manufacturer reference: EP1660K
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: EP1660K ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+- Available native formats: DWG / STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+EP1660K.zip is the original ABB archive. Open EP1660K.stp inside it to place the original solid geometry in your 3D assembly.
+
+EP1660K.zip is the original ABB archive. Open EP1660K.stp inside it to place the original solid geometry in your 3D assembly. Use EP1660K.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified EP1660K.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB EP1660K and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for IS2 component EP1660K?
+
+2 inspected originals for ABB IS2 component EP1660K: EP1660K.zip (ZIP); EP1660K.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+## Choosing a file
+
+EP1660K.zip is the original ABB archive. Open EP1660K.stp inside it to place the original solid geometry in your 3D assembly. Use EP1660K.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified EP1660K.dwg.
+
+## Preview
+
+![ABB IS2 component EP1660K: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-is2-ep1660k/native-366c95e95e9ae67bac7f6bfa-dwg?asset=366c95e95e9ae67bac7f6bfa84ec89a93ca1d6258107c142de9895f750d31fbe)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-ep1660k). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### EP1660K.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-ep1660k/native-1cb71aff19bae3cd7277a54f-zip)
+- Redistribution: unknown
+- Original SHA-256: 1cb71aff19bae3cd7277a54fb97752e83f77fbbadb9b01d250e192e8da4c25d2
+- Original bytes: 25370
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Delivery: original; ZIP; 25370 bytes
+- Delivery SHA-256: 1cb71aff19bae3cd7277a54fb97752e83f77fbbadb9b01d250e192e8da4c25d2
+
+<details>
+<summary>Archive members</summary>
+
+- EP1660K.stp
+
+</details>
+
+### EP1660K.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-ep1660k/native-366c95e95e9ae67bac7f6bfa-dwg)
+- Redistribution: unknown
+- Original SHA-256: 366c95e95e9ae67bac7f6bfa84ec89a93ca1d6258107c142de9895f750d31fbe
+- Original bytes: 646582
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Delivery: source-bundle; ZIP; 507849 bytes
+- Delivery SHA-256: 0b16407b5a4aa94c14d4c9cbfa0f0fffa0cd2b5a16809cae89d03f7fac2d3cfc
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

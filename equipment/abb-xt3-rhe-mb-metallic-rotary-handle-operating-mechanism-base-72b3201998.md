@@ -8,7 +8,7 @@ ABB XT3 RHE MB - Metallic rotary handle operating mechanism base: breaker or bre
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0797
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT3 RHE MB - Metallic rotary handle operating m
 - Manufacturer reference: 1SDH001295R0797
 - Document revision: A
 - Model envelope: 1SDH001295R0797.stp: 71 × 83.5 × 78.1 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0797&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 343696 bytes
 - Delivery SHA-256: 2a427f441201b6646e594d01a4a27dda0ff55a977fb0f812bdff705a4b7b49ac
+
+### 1SDH001295R0797.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0797.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0797&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-rhe-mb-metallic-rotary-handle-operating-mechanism-base-72b3201998/2a427f441201b6646e59-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2a427f441201b6646e594d01a4a27dda0ff55a977fb0f812bdff705a4b7b49ac
+- Original bytes: 343696
+- Revision: A
+- Retrieved: 2026-11-03T01:50:13.144948Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0797&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0797&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 127413 bytes
+- Delivery SHA-256: 789204e330571a93614b77111feef8798ed3628e72aebaf732321c653f7df5a9
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

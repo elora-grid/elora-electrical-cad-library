@@ -26,6 +26,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Source configurations grouped on this page: GPU-3 gas; GPU-3 hydro
 - Manufacturer reference: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; option-m15-ea-erweiterungskarten-4x-4-20-ma-eing-4189340542d-de.pdf; ml-2-2d-cad-drawings.zip; option-m15-io-extension-card-4-analogue-inputs-4189340683d-uk.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, IEC 60751, IEC 61010-1, UL 508, IEC 61000-6-2, IEC 61000-6-4, IEC 60255-26, IEC 60529, UL 2200
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

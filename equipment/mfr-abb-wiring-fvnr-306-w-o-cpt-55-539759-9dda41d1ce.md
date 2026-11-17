@@ -1,0 +1,141 @@
+# ABB — Wiring , FVNR, 306, W/O CPT (55-539759)
+
+ABB Wiring , FVNR, 306, W/O CPT (55-539759): original DWG / PDF for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DWG, PDF, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named Wiring , FVNR, 306, W/O CPT (55-539759).
+
+## Equipment and file summary
+
+- Equipment / resource: Wiring , FVNR, 306, W/O CPT (55-539759)
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: Wiring , FVNR, 306, W/O CPT (55-539759)
+- Source document: 1SQC912755D0201; revision B
+- Listed file formats: DWG, PDF, DXF
+- Listed files: 3
+- Available previews: 2 drawing previews
+- Recorded revisions: B
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: Wiring , FVNR, 306, W/O CPT (55-539759) ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch))
+- Source document: 1SQC912755D0201; revision B ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B))
+- Source document: 1SQC912755D0201; revision B ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B))
+
+## What the equipment does
+
+A motor turns electrical energy into movement, usually rotation of a shaft.
+
+Use 1SQC912755D0201.dwg (revision B) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SQC912755D0201.dwg.
+
+Use 1SQC912755D0201.dwg (revision B) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SQC912755D0201.dwg. Use 1SQC912755D0201.pdf (revision B) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB Wiring , FVNR, 306, W/O CPT (55-539759) and the exact source filename shown above.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC912755D0201.dwg — B; 1SQC912755D0201.pdf — B. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Wiring , FVNR, 306, W/O CPT (55-539759)?
+
+2 inspected originals for ABB Wiring , FVNR, 306, W/O CPT (55-539759): 1SQC912755D0201.dwg (DWG); 1SQC912755D0201.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch)
+
+## Choosing a file
+
+Use 1SQC912755D0201.dwg (revision B) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SQC912755D0201.dwg. Use 1SQC912755D0201.pdf (revision B) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB Wiring , FVNR, 306, W/O CPT (55-539759): drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce/abb-07d28e7675d1fe315697?asset=ff0b4a3c5569008a8b8c481a22493c2598346bea2321191e99d06644417e4124)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC912755D0201.dwg
+
+- Format: DWG
+- Purpose: Original manufacturer DWG geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce/abb-07d28e7675d1fe315697)
+- Redistribution: unknown
+- Original SHA-256: ff0b4a3c5569008a8b8c481a22493c2598346bea2321191e99d06644417e4124
+- Original bytes: 313676
+- Revision: B
+- Retrieved: 2026-11-11T09:58:09.562952+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: source-bundle; ZIP; 131734 bytes
+- Delivery SHA-256: a9029908b95e704258ba07a717a3f1212d228dc01e81fcc320c4312c665e719a
+
+### 1SQC912755D0201.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SQC912755D0201.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce/abb-07d28e7675d1fe315697-dxf)
+- Redistribution: unknown
+- Original SHA-256: ff0b4a3c5569008a8b8c481a22493c2598346bea2321191e99d06644417e4124
+- Original bytes: 313676
+- Revision: B
+- Retrieved: 2026-11-11T09:58:09.562952+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 719620 bytes
+- Delivery SHA-256: 6bccc1961ff97668d4efdf3b70468f15b26ab306076c9bccaae1b96919a7adba
+
+### 1SQC912755D0201.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-fvnr-306-w-o-cpt-55-539759-9dda41d1ce/abb-59d647010e0190f4ebed)
+- Redistribution: unknown
+- Original SHA-256: 273e78d6e88847a11b6bdd2f0fc6398a0ee2fd859dd9a14c43e25e10995af6fd
+- Original bytes: 61000
+- Revision: B
+- Retrieved: 2026-11-11T05:33:39.044177+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912755D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: original; PDF; 61000 bytes
+- Delivery SHA-256: 273e78d6e88847a11b6bdd2f0fc6398a0ee2fd859dd9a14c43e25e10995af6fd
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

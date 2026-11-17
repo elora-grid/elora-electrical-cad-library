@@ -25,6 +25,7 @@ The supplied configuration is “OT1600E12W8”. Keep those frame, mounting and 
 - Manufacturer drawing: OT1600E12W8.IGS
 - Manufacturer reference: OT1600E12W8.IGS
 - Document revision: B
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -25,6 +25,7 @@ The supplied configuration is “OT315E12, OT400E12”. Keep those frame, mounti
 - Manufacturer drawing: 1SCC301284F0001
 - Manufacturer reference: 1SCC301284F0001
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: DWG
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

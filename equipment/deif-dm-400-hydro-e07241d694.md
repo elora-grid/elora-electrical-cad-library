@@ -25,6 +25,7 @@ Manufacturer reference delomatic-400-hydro-data-sheet-4921240453-uk.pdf identifi
 - Manufacturer drawing: delomatic-400-hydro-data-sheet-4921240453-uk.pdf
 - Manufacturer reference: delomatic-400-hydro-data-sheet-4921240453-uk.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-1, IEC 61000-6-2, IEC 61000-6-4, IEC 60255-26, IEC 60529, IEC 61010-1, IEC 60688
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

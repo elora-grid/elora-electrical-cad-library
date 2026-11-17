@@ -1,0 +1,119 @@
+# ABB — OSM1250 4M
+
+ABB OSM1250 4M. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm1250-4m-b0cfc01aba) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm1250-4m-b0cfc01aba.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm1250-4m-b0cfc01aba.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DXF, IGES
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: OSM1250 4M
+- Manufacturer: ABB
+- Resource type: Product family
+- Available native formats: DXF / IGES
+- Listed file formats: DXF, IGES
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DXF / IGES ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 1SCC303460F0001.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC303460F0001.dxf.
+
+Use 1SCC303460F0001.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC303460F0001.dxf. Use OSM1250\_4.IGS.igs to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OSM1250\_4.IGS.igs.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB OSM1250 4M and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OSM1250 4M?
+
+2 inspected originals for ABB OSM1250 4M: 1SCC303460F0001.dxf (DXF); OSM1250\_4.IGS.igs (IGES).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SCC303460F0001.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC303460F0001.dxf. Use OSM1250\_4.IGS.igs to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OSM1250\_4.IGS.igs.
+
+## Preview
+
+![ABB OSM1250 4M: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-osm1250-4m-b0cfc01aba/native-7667ed724f83263dc046b63c-dxf?asset=7667ed724f83263dc046b63cd8467f67bb84bbef461e27576820ca8bc41a809b)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm1250-4m-b0cfc01aba). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SCC303460F0001.dxf
+
+- Format: DXF
+- Purpose: Manufacturer DXF CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-osm1250-4m-b0cfc01aba/native-7667ed724f83263dc046b63c-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7667ed724f83263dc046b63cd8467f67bb84bbef461e27576820ca8bc41a809b
+- Original bytes: 14327492
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC303460F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 1976348 bytes
+- Delivery SHA-256: ae2eed0c37c1aded548ea2a0fc8699f2044cfff68e794fa34e318434b8c499d2
+
+### OSM1250\_4.IGS.igs
+
+- Format: IGES
+- Purpose: Manufacturer IGES CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OSM1250_4.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-osm1250-4m-b0cfc01aba/native-739201f59e095d024934f5a3-iges)
+- Redistribution: unknown
+- Original SHA-256: 739201f59e095d024934f5a31775b1279e3d1d4cb5d85a48f54c4586260855ae
+- Original bytes: 1788584
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OSM1250_4.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OSM1250_4.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 211688 bytes
+- Delivery SHA-256: cbb5c059130e6c5b68062e290fb4162decc8c730b0233f701155ddd23f18fa94
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

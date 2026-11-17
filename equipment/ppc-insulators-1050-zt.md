@@ -32,6 +32,7 @@ Use the 1050 ZT column on PDF page 11. The download is the complete catalogue, n
 - Diameter Db (in): 13.4
 - Cantilever Strength, Upright, Pounds: 5000
 - Impulse Withstand, kV: 1050
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

@@ -23,6 +23,7 @@ Manufacturer reference LINAM UGFI Underground Fault Indicator identifies this pr
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: LINAM UGFI Underground Fault Indicator
+- Standards: IEEE 495
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -25,6 +25,7 @@ The supplied configuration is “X1 IV W - X1 4 poles Withdrawable”. Keep thos
 - Manufacturer drawing: 1SDH001292R0048
 - Manufacturer reference: 1SDH001292R0048
 - Document revision: -
+- Standards: IEC 60947-2, IEC 61000
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -32,6 +32,7 @@ Use the 900 ZT column on PDF page 10. The download is the complete catalogue, no
 - Diameter Db (in): 13.2
 - Cantilever Strength, Upright, Pounds: 4000
 - Impulse Withstand, kV: 900
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

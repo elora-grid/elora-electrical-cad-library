@@ -1,0 +1,2852 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 30,
+  "entries": [
+    {
+      "id": "eaton-article-194771",
+      "name": "HL-C16/2 — Miniature circuit breaker (MCB), 16 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-194771",
+      "recordPath": "equipment/eaton-article-194771.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-194771.json"
+    },
+    {
+      "id": "eaton-article-194791",
+      "name": "HL-C16/3 — Miniature circuit breaker (MCB), 16 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-194791",
+      "recordPath": "equipment/eaton-article-194791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-194791.json"
+    },
+    {
+      "id": "eaton-article-194796",
+      "name": "HL-C50/3 — Miniature circuit breaker (MCB), 50 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-194796",
+      "recordPath": "equipment/eaton-article-194796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-194796.json"
+    },
+    {
+      "id": "eaton-article-194770",
+      "name": "HL-C13/2 — Miniature circuit breaker (MCB), 13 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-194770",
+      "recordPath": "equipment/eaton-article-194770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-194770.json"
+    },
+    {
+      "id": "eaton-article-193606",
+      "name": "PKNM-16/1N/C/01-F-MW — RCBO C 16A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193606",
+      "recordPath": "equipment/eaton-article-193606.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193606.json"
+    },
+    {
+      "id": "eaton-article-193601",
+      "name": "PKNM-40/1N/C/03-F-MW — RCD/MCB combination, 40 A, 300 mA, MCB trip characteristic: C, 1p+N, RCD trip characteristic: F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193601",
+      "recordPath": "equipment/eaton-article-193601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193601.json"
+    },
+    {
+      "id": "eaton-article-193611",
+      "name": "PKNM-25/1N/B/01-F-MW — RCBO B 25A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193611",
+      "recordPath": "equipment/eaton-article-193611.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193611.json"
+    },
+    {
+      "id": "eaton-article-193602",
+      "name": "PKNM-13/1N/B/01-F-MW — RCBO B 13A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193602",
+      "recordPath": "equipment/eaton-article-193602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193602.json"
+    },
+    {
+      "id": "eaton-article-193779",
+      "name": "NmRBM-10/2/B/01-A — RCD/MCB combination, 10 A, 100 mA, MCB trip characteristic: B, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193779",
+      "recordPath": "equipment/eaton-article-193779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193779.json"
+    },
+    {
+      "id": "eaton-article-193780",
+      "name": "NmRBM-13/2/B/01-A — RCD/MCB combination, 13 A, 100 mA, MCB trip characteristic: B, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193780",
+      "recordPath": "equipment/eaton-article-193780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193780.json"
+    },
+    {
+      "id": "eaton-article-193599",
+      "name": "PKNM-25/1N/C/03-F-MW — RCD/MCB combination, 25 A, 300 mA, MCB trip characteristic: C, 1p+N, RCD trip characteristic: F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193599",
+      "recordPath": "equipment/eaton-article-193599.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193599.json"
+    },
+    {
+      "id": "eaton-article-193603",
+      "name": "PKNM-16/1N/B/01-F-MW — RCBO B 16A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193603",
+      "recordPath": "equipment/eaton-article-193603.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193603.json"
+    },
+    {
+      "id": "eaton-article-193781",
+      "name": "NmRBM-16/2/B/01-A — RCD/MCB combination, 16 A, 100 mA, MCB trip characteristic: B, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193781",
+      "recordPath": "equipment/eaton-article-193781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193781.json"
+    },
+    {
+      "id": "eaton-article-193782",
+      "name": "NmRBM-20/2/B/01-A — RCD/MCB combination, 20 A, 100 mA, MCB trip characteristic: B, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193782",
+      "recordPath": "equipment/eaton-article-193782.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193782.json"
+    },
+    {
+      "id": "eaton-article-193607",
+      "name": "PKNM-20/1N/C/01-F-MW — RCBO C 20A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193607",
+      "recordPath": "equipment/eaton-article-193607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193607.json"
+    },
+    {
+      "id": "eaton-article-193605",
+      "name": "PKNM-13/1N/C/01-F-MW — RCBO C 13A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193605",
+      "recordPath": "equipment/eaton-article-193605.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193605.json"
+    },
+    {
+      "id": "eaton-article-193608",
+      "name": "PKNM-13/1N/D/01-F-MW — RCBO B 13A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193608",
+      "recordPath": "equipment/eaton-article-193608.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193608.json"
+    },
+    {
+      "id": "eaton-article-193598",
+      "name": "PKNM-40/1N/B/03-F-MW — RCD/MCB combination, 40 A, 300 mA, MCB trip characteristic: B, 1p+N, RCD trip characteristic: F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193598",
+      "recordPath": "equipment/eaton-article-193598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193598.json"
+    },
+    {
+      "id": "eaton-article-193616",
+      "name": "PKNM-40/1N/C/01-F-MW — RCBO C 40A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193616",
+      "recordPath": "equipment/eaton-article-193616.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193616.json"
+    },
+    {
+      "id": "eaton-article-193610",
+      "name": "PKNM-20/1N/D/01-F-MW — RCBO B 20A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193610",
+      "recordPath": "equipment/eaton-article-193610.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193610.json"
+    },
+    {
+      "id": "eaton-article-193615",
+      "name": "PKNM-32/1N/C/01-F-MW — RCBO C 32A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193615",
+      "recordPath": "equipment/eaton-article-193615.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193615.json"
+    },
+    {
+      "id": "eaton-article-193774",
+      "name": "NmRBM-16/2/B/003-A — RCD/MCB combination, 16 A, 30 mA, MCB trip characteristic: B, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193774",
+      "recordPath": "equipment/eaton-article-193774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193774.json"
+    },
+    {
+      "id": "eaton-article-193783",
+      "name": "NmRBM-10/2/C/01-A — RCD/MCB combination, 10 A, 100 mA, MCB trip characteristic: C, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193783",
+      "recordPath": "equipment/eaton-article-193783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193783.json"
+    },
+    {
+      "id": "eaton-article-193778",
+      "name": "NmRBM-16/2/C/003-A — RCD/MCB combination, 16 A, 30 mA, MCB trip characteristic: C, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193778",
+      "recordPath": "equipment/eaton-article-193778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193778.json"
+    },
+    {
+      "id": "eaton-article-193612",
+      "name": "PKNM-32/1N/B/01-F-MW — RCBO B 32A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193612",
+      "recordPath": "equipment/eaton-article-193612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193612.json"
+    },
+    {
+      "id": "eaton-article-193614",
+      "name": "PKNM-25/1N/C/01-F-MW — RCBO C 25A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193614",
+      "recordPath": "equipment/eaton-article-193614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193614.json"
+    },
+    {
+      "id": "eaton-article-193784",
+      "name": "NmRBM-13/2/C/01-A — RCD/MCB combination, 13 A, 100 mA, MCB trip characteristic: C, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193784",
+      "recordPath": "equipment/eaton-article-193784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193784.json"
+    },
+    {
+      "id": "eaton-article-193613",
+      "name": "PKNM-40/1N/B/01-F-MW — RCBO B 40A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193613",
+      "recordPath": "equipment/eaton-article-193613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193613.json"
+    },
+    {
+      "id": "eaton-article-193785",
+      "name": "NmRBM-16/2/C/01-A — RCD/MCB combination, 16 A, 100 mA, MCB trip characteristic: C, 2p, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193785",
+      "recordPath": "equipment/eaton-article-193785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193785.json"
+    },
+    {
+      "id": "eaton-article-193604",
+      "name": "PKNM-20/1N/B/01-F-MW — RCBO B 20A 1+N 100mA sensitivity F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193604",
+      "recordPath": "equipment/eaton-article-193604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193604.json"
+    },
+    {
+      "id": "eaton-article-193600",
+      "name": "PKNM-32/1N/C/03-F-MW — RCD/MCB combination, 32 A, 300 mA, MCB trip characteristic: C, 1p+N, RCD trip characteristic: F",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-193600",
+      "recordPath": "equipment/eaton-article-193600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-193600.json"
+    },
+    {
+      "id": "eaton-article-165220",
+      "name": "PL7-B3/1N — Miniature circuit breaker (MCB), 3 A, 1p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165220",
+      "recordPath": "equipment/eaton-article-165220.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165220.json"
+    },
+    {
+      "id": "eaton-article-165055",
+      "name": "PL7-B3/1 — Miniature circuit breaker (MCB), 3 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165055",
+      "recordPath": "equipment/eaton-article-165055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165055.json"
+    },
+    {
+      "id": "eaton-article-165206",
+      "name": "PL7-D32/4 — Miniature circuit breaker (MCB), 32 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165206",
+      "recordPath": "equipment/eaton-article-165206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165206.json"
+    },
+    {
+      "id": "eaton-article-165079",
+      "name": "PL7-B1/2 — Miniature circuit breaker (MCB), 1 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165079",
+      "recordPath": "equipment/eaton-article-165079.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165079.json"
+    },
+    {
+      "id": "eaton-article-165271",
+      "name": "PL7-C2/3N — Miniature circuit breaker (MCB), 2 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165271",
+      "recordPath": "equipment/eaton-article-165271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165271.json"
+    },
+    {
+      "id": "eaton-article-165118",
+      "name": "PL7-B3/3 — Miniature circuit breaker (MCB), 3 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165118",
+      "recordPath": "equipment/eaton-article-165118.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165118.json"
+    },
+    {
+      "id": "eaton-article-165085",
+      "name": "PL7-B3/2 — Miniature circuit breaker (MCB), 3 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165085",
+      "recordPath": "equipment/eaton-article-165085.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165085.json"
+    },
+    {
+      "id": "eaton-article-165112",
+      "name": "PL7-B1/3 — Miniature circuit breaker (MCB), 1 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165112",
+      "recordPath": "equipment/eaton-article-165112.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165112.json"
+    },
+    {
+      "id": "eaton-article-165257",
+      "name": "PL7-B3/3N — Miniature circuit breaker (MCB), 3 A, 3p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165257",
+      "recordPath": "equipment/eaton-article-165257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165257.json"
+    },
+    {
+      "id": "eaton-article-165178",
+      "name": "PL7-C2/4 — Miniature circuit breaker (MCB), 2 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165178",
+      "recordPath": "equipment/eaton-article-165178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165178.json"
+    },
+    {
+      "id": "eaton-article-165153",
+      "name": "PL7-B2/4 — Miniature circuit breaker (MCB), 2 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165153",
+      "recordPath": "equipment/eaton-article-165153.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165153.json"
+    },
+    {
+      "id": "eaton-article-165183",
+      "name": "PL7-C32/4 — Miniature circuit breaker (MCB), 32 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165183",
+      "recordPath": "equipment/eaton-article-165183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165183.json"
+    },
+    {
+      "id": "eaton-article-165203",
+      "name": "PL7-D25/4 — Miniature circuit breaker (MCB), 25 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165203",
+      "recordPath": "equipment/eaton-article-165203.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165203.json"
+    },
+    {
+      "id": "eaton-article-165194",
+      "name": "PL7-D1/4 — Miniature circuit breaker (MCB), 1 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165194",
+      "recordPath": "equipment/eaton-article-165194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165194.json"
+    },
+    {
+      "id": "eaton-article-165180",
+      "name": "PL7-C25/4 — Miniature circuit breaker (MCB), 25 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165180",
+      "recordPath": "equipment/eaton-article-165180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165180.json"
+    },
+    {
+      "id": "eaton-article-165208",
+      "name": "PL7-D40/4 — Miniature circuit breaker (MCB), 40 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165208",
+      "recordPath": "equipment/eaton-article-165208.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165208.json"
+    },
+    {
+      "id": "eaton-article-165184",
+      "name": "PL7-C4/4 — Miniature circuit breaker (MCB), 4 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165184",
+      "recordPath": "equipment/eaton-article-165184.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165184.json"
+    },
+    {
+      "id": "eaton-article-165255",
+      "name": "PL7-B2/3N — Miniature circuit breaker (MCB), 2 A, 3p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165255",
+      "recordPath": "equipment/eaton-article-165255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165255.json"
+    },
+    {
+      "id": "eaton-article-165185",
+      "name": "PL7-C40/4 — Miniature circuit breaker (MCB), 40 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165185",
+      "recordPath": "equipment/eaton-article-165185.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165185.json"
+    },
+    {
+      "id": "eaton-article-165197",
+      "name": "PL7-D13/4 — Miniature circuit breaker (MCB), 13 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165197",
+      "recordPath": "equipment/eaton-article-165197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165197.json"
+    },
+    {
+      "id": "eaton-article-165202",
+      "name": "PL7-D20/4 — Miniature circuit breaker (MCB), 20 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165202",
+      "recordPath": "equipment/eaton-article-165202.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165202.json"
+    },
+    {
+      "id": "eaton-article-165214",
+      "name": "PL7-B1/1N — Miniature circuit breaker (MCB), 1 A, 1p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165214",
+      "recordPath": "equipment/eaton-article-165214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165214.json"
+    },
+    {
+      "id": "eaton-article-165086",
+      "name": "PL7-B4/2 — Miniature circuit breaker (MCB), 4 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165086",
+      "recordPath": "equipment/eaton-article-165086.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165086.json"
+    },
+    {
+      "id": "eaton-article-165274",
+      "name": "PL7-C4/3N — Miniature circuit breaker (MCB), 4 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165274",
+      "recordPath": "equipment/eaton-article-165274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165274.json"
+    },
+    {
+      "id": "eaton-article-165071",
+      "name": "PL7-D1/1 — Miniature circuit breaker (MCB), 1 A, 1p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165071",
+      "recordPath": "equipment/eaton-article-165071.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165071.json"
+    },
+    {
+      "id": "eaton-article-165151",
+      "name": "PL7-B16/4 — Miniature circuit breaker (MCB), 16 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165151",
+      "recordPath": "equipment/eaton-article-165151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165151.json"
+    },
+    {
+      "id": "eaton-article-165218",
+      "name": "PL7-B2/1N — Miniature circuit breaker (MCB), 2 A, 1p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165218",
+      "recordPath": "equipment/eaton-article-165218.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165218.json"
+    },
+    {
+      "id": "eaton-article-165280",
+      "name": "PL7-D1/3N — Miniature circuit breaker (MCB), 1 A, 3p+N, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165280",
+      "recordPath": "equipment/eaton-article-165280.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165280.json"
+    },
+    {
+      "id": "eaton-article-165130",
+      "name": "PL7-C3/3 — Miniature circuit breaker (MCB), 3 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165130",
+      "recordPath": "equipment/eaton-article-165130.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165130.json"
+    },
+    {
+      "id": "eaton-article-165164",
+      "name": "PL7-B63/4 — Miniature circuit breaker (MCB), 63 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165164",
+      "recordPath": "equipment/eaton-article-165164.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165164.json"
+    },
+    {
+      "id": "eaton-article-165187",
+      "name": "PL7-C50/4 — Miniature circuit breaker (MCB), 50 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165187",
+      "recordPath": "equipment/eaton-article-165187.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165187.json"
+    },
+    {
+      "id": "eaton-article-165154",
+      "name": "PL7-B20/4 — Miniature circuit breaker (MCB), 20 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165154",
+      "recordPath": "equipment/eaton-article-165154.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165154.json"
+    },
+    {
+      "id": "eaton-article-165175",
+      "name": "PL7-C13/4 — Miniature circuit breaker (MCB), 13 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165175",
+      "recordPath": "equipment/eaton-article-165175.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165175.json"
+    },
+    {
+      "id": "eaton-article-165258",
+      "name": "PL7-B4/3N — Miniature circuit breaker (MCB), 4 A, 3p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165258",
+      "recordPath": "equipment/eaton-article-165258.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165258.json"
+    },
+    {
+      "id": "eaton-article-165246",
+      "name": "PL7-D3/1N — Miniature circuit breaker (MCB), 3 A, 1p+N, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165246",
+      "recordPath": "equipment/eaton-article-165246.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165246.json"
+    },
+    {
+      "id": "eaton-article-165157",
+      "name": "PL7-B3/4 — Miniature circuit breaker (MCB), 3 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165157",
+      "recordPath": "equipment/eaton-article-165157.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165157.json"
+    },
+    {
+      "id": "eaton-article-165083",
+      "name": "PL7-B2/2 — Miniature circuit breaker (MCB), 2 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165083",
+      "recordPath": "equipment/eaton-article-165083.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165083.json"
+    },
+    {
+      "id": "eaton-article-165221",
+      "name": "PL7-B4/1N — Miniature circuit breaker (MCB), 4 A, 1p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165221",
+      "recordPath": "equipment/eaton-article-165221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165221.json"
+    },
+    {
+      "id": "eaton-article-165189",
+      "name": "PL7-C63/4 — Miniature circuit breaker (MCB), 63 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165189",
+      "recordPath": "equipment/eaton-article-165189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165189.json"
+    },
+    {
+      "id": "eaton-article-165159",
+      "name": "PL7-B4/4 — Miniature circuit breaker (MCB), 4 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165159",
+      "recordPath": "equipment/eaton-article-165159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165159.json"
+    },
+    {
+      "id": "eaton-article-165149",
+      "name": "PL7-B13/4 — Miniature circuit breaker (MCB), 13 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165149",
+      "recordPath": "equipment/eaton-article-165149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165149.json"
+    },
+    {
+      "id": "eaton-article-165207",
+      "name": "PL7-D4/4 — Miniature circuit breaker (MCB), 4 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165207",
+      "recordPath": "equipment/eaton-article-165207.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165207.json"
+    },
+    {
+      "id": "eaton-article-165147",
+      "name": "PL7-B10/4 — Miniature circuit breaker (MCB), 10 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165147",
+      "recordPath": "equipment/eaton-article-165147.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165147.json"
+    },
+    {
+      "id": "eaton-article-165098",
+      "name": "PL7-C3/2 — Miniature circuit breaker (MCB), 3 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165098",
+      "recordPath": "equipment/eaton-article-165098.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165098.json"
+    },
+    {
+      "id": "eaton-article-165155",
+      "name": "PL7-B25/4 — Miniature circuit breaker (MCB), 25 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165155",
+      "recordPath": "equipment/eaton-article-165155.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165155.json"
+    },
+    {
+      "id": "eaton-article-165210",
+      "name": "PL7-D6/4 — Miniature circuit breaker (MCB), 6 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165210",
+      "recordPath": "equipment/eaton-article-165210.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165210.json"
+    },
+    {
+      "id": "eaton-article-165201",
+      "name": "PL7-D2/4 — Miniature circuit breaker (MCB), 2 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165201",
+      "recordPath": "equipment/eaton-article-165201.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165201.json"
+    },
+    {
+      "id": "eaton-article-165267",
+      "name": "PL7-C1/3N — Miniature circuit breaker (MCB), 1 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165267",
+      "recordPath": "equipment/eaton-article-165267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165267.json"
+    },
+    {
+      "id": "eaton-article-165116",
+      "name": "PL7-B2/3 — Miniature circuit breaker (MCB), 2 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165116",
+      "recordPath": "equipment/eaton-article-165116.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165116.json"
+    },
+    {
+      "id": "eaton-article-165188",
+      "name": "PL7-C6/4 — Miniature circuit breaker (MCB), 6 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165188",
+      "recordPath": "equipment/eaton-article-165188.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165188.json"
+    },
+    {
+      "id": "eaton-article-165074",
+      "name": "PL7-D3/1 — Miniature circuit breaker (MCB), 3 A, 1p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165074",
+      "recordPath": "equipment/eaton-article-165074.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165074.json"
+    },
+    {
+      "id": "eaton-article-165195",
+      "name": "PL7-D10/4 — Miniature circuit breaker (MCB), 10 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165195",
+      "recordPath": "equipment/eaton-article-165195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165195.json"
+    },
+    {
+      "id": "eaton-article-165230",
+      "name": "PL7-C1/1N — Miniature circuit breaker (MCB), 1 A, 1p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165230",
+      "recordPath": "equipment/eaton-article-165230.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165230.json"
+    },
+    {
+      "id": "eaton-article-165136",
+      "name": "PL7-D1/3 — Miniature circuit breaker (MCB), 1 A, 3p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165136",
+      "recordPath": "equipment/eaton-article-165136.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165136.json"
+    },
+    {
+      "id": "eaton-article-165172",
+      "name": "PL7-C1/4 — Miniature circuit breaker (MCB), 1 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165172",
+      "recordPath": "equipment/eaton-article-165172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165172.json"
+    },
+    {
+      "id": "eaton-article-165052",
+      "name": "PL7-B1/1 — Miniature circuit breaker (MCB), 1 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165052",
+      "recordPath": "equipment/eaton-article-165052.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165052.json"
+    },
+    {
+      "id": "eaton-article-165158",
+      "name": "PL7-B32/4 — Miniature circuit breaker (MCB), 32 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165158",
+      "recordPath": "equipment/eaton-article-165158.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165158.json"
+    },
+    {
+      "id": "eaton-article-165141",
+      "name": "PL7-D3/3 — Miniature circuit breaker (MCB), 3 A, 3p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165141",
+      "recordPath": "equipment/eaton-article-165141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165141.json"
+    },
+    {
+      "id": "eaton-article-165163",
+      "name": "PL7-B6/4 — Miniature circuit breaker (MCB), 6 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165163",
+      "recordPath": "equipment/eaton-article-165163.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165163.json"
+    },
+    {
+      "id": "eaton-article-165063",
+      "name": "PL7-C3/1 — Miniature circuit breaker (MCB), 3 A, 1p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165063",
+      "recordPath": "equipment/eaton-article-165063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165063.json"
+    },
+    {
+      "id": "eaton-article-165199",
+      "name": "PL7-D16/4 — Miniature circuit breaker (MCB), 16 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165199",
+      "recordPath": "equipment/eaton-article-165199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165199.json"
+    },
+    {
+      "id": "eaton-article-165251",
+      "name": "PL7-B1/3N — Miniature circuit breaker (MCB), 1 A, 3p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165251",
+      "recordPath": "equipment/eaton-article-165251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165251.json"
+    },
+    {
+      "id": "eaton-article-165160",
+      "name": "PL7-B40/4 — Miniature circuit breaker (MCB), 40 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165160",
+      "recordPath": "equipment/eaton-article-165160.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165160.json"
+    },
+    {
+      "id": "eaton-article-165182",
+      "name": "PL7-C3/4 — Miniature circuit breaker (MCB), 3 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165182",
+      "recordPath": "equipment/eaton-article-165182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165182.json"
+    },
+    {
+      "id": "eaton-article-165273",
+      "name": "PL7-C3/3N — Miniature circuit breaker (MCB), 3 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165273",
+      "recordPath": "equipment/eaton-article-165273.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165273.json"
+    },
+    {
+      "id": "eaton-article-165205",
+      "name": "PL7-D3/4 — Miniature circuit breaker (MCB), 3 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165205",
+      "recordPath": "equipment/eaton-article-165205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165205.json"
+    },
+    {
+      "id": "eaton-article-165179",
+      "name": "PL7-C20/4 — Miniature circuit breaker (MCB), 20 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165179",
+      "recordPath": "equipment/eaton-article-165179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165179.json"
+    },
+    {
+      "id": "eaton-article-165173",
+      "name": "PL7-C10/4 — Miniature circuit breaker (MCB), 10 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165173",
+      "recordPath": "equipment/eaton-article-165173.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165173.json"
+    },
+    {
+      "id": "eaton-article-165162",
+      "name": "PL7-B50/4 — Miniature circuit breaker (MCB), 50 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165162",
+      "recordPath": "equipment/eaton-article-165162.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165162.json"
+    },
+    {
+      "id": "eaton-article-165146",
+      "name": "PL7-B1/4 — Miniature circuit breaker (MCB), 1 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165146",
+      "recordPath": "equipment/eaton-article-165146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165146.json"
+    },
+    {
+      "id": "eaton-article-165235",
+      "name": "PL7-C3/1N — Miniature circuit breaker (MCB), 3 A, 1p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165235",
+      "recordPath": "equipment/eaton-article-165235.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165235.json"
+    },
+    {
+      "id": "eaton-article-165241",
+      "name": "PL7-D1/1N — Miniature circuit breaker (MCB), 1 A, 1p+N, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165241",
+      "recordPath": "equipment/eaton-article-165241.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165241.json"
+    },
+    {
+      "id": "eaton-article-177542",
+      "name": "FAZ6-B1,6/2 — Miniature circuit breaker (MCB), 1.6 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177542",
+      "recordPath": "equipment/eaton-article-177542.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177542.json"
+    },
+    {
+      "id": "eaton-article-177543",
+      "name": "FAZ6-B2/2 — Miniature circuit breaker (MCB), 2 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177543",
+      "recordPath": "equipment/eaton-article-177543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177543.json"
+    },
+    {
+      "id": "eaton-article-177544",
+      "name": "FAZ6-B2,5/2 — Miniature circuit breaker (MCB), 2.5 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177544",
+      "recordPath": "equipment/eaton-article-177544.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177544.json"
+    },
+    {
+      "id": "eaton-article-177545",
+      "name": "FAZ6-B3/2 — Miniature circuit breaker (MCB), 3 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177545",
+      "recordPath": "equipment/eaton-article-177545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177545.json"
+    },
+    {
+      "id": "eaton-article-177546",
+      "name": "FAZ6-B3,5/2 — Miniature circuit breaker (MCB), 3.5 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177546",
+      "recordPath": "equipment/eaton-article-177546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177546.json"
+    },
+    {
+      "id": "eaton-article-177547",
+      "name": "FAZ6-B4/2 — Miniature circuit breaker (MCB), 4 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177547",
+      "recordPath": "equipment/eaton-article-177547.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177547.json"
+    },
+    {
+      "id": "eaton-article-177548",
+      "name": "FAZ6-B5/2 — Miniature circuit breaker (MCB), 5 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177548",
+      "recordPath": "equipment/eaton-article-177548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177548.json"
+    },
+    {
+      "id": "eaton-article-177549",
+      "name": "FAZ6-B8/2 — Miniature circuit breaker (MCB), 8 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177549",
+      "recordPath": "equipment/eaton-article-177549.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177549.json"
+    },
+    {
+      "id": "eaton-article-177550",
+      "name": "FAZ6-B12/2 — Miniature circuit breaker (MCB), 12 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177550",
+      "recordPath": "equipment/eaton-article-177550.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177550.json"
+    },
+    {
+      "id": "eaton-article-177551",
+      "name": "FAZ6-B15/2 — Miniature circuit breaker (MCB), 15 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177551",
+      "recordPath": "equipment/eaton-article-177551.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177551.json"
+    },
+    {
+      "id": "eaton-article-177552",
+      "name": "FAZ6-C0,16/2 — Miniature circuit breaker (MCB), 0.16 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177552",
+      "recordPath": "equipment/eaton-article-177552.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177552.json"
+    },
+    {
+      "id": "eaton-article-177553",
+      "name": "FAZ6-C0,25/2 — Miniature circuit breaker (MCB), 0.25 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177553",
+      "recordPath": "equipment/eaton-article-177553.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177553.json"
+    },
+    {
+      "id": "eaton-article-177554",
+      "name": "FAZ6-C0,75/2 — Miniature circuit breaker (MCB), 0.75 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177554",
+      "recordPath": "equipment/eaton-article-177554.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177554.json"
+    },
+    {
+      "id": "eaton-article-177555",
+      "name": "FAZ6-C1,5/2 — Miniature circuit breaker (MCB), 1.5 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177555",
+      "recordPath": "equipment/eaton-article-177555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177555.json"
+    },
+    {
+      "id": "eaton-article-177556",
+      "name": "FAZ6-C1,6/2 — Miniature circuit breaker (MCB), 1.6 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177556",
+      "recordPath": "equipment/eaton-article-177556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177556.json"
+    },
+    {
+      "id": "eaton-article-177557",
+      "name": "FAZ6-C2,5/2 — Miniature circuit breaker (MCB), 2.5 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177557",
+      "recordPath": "equipment/eaton-article-177557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177557.json"
+    },
+    {
+      "id": "eaton-article-177471",
+      "name": "FAZ6-D1,5/3N — Miniature circuit breaker (MCB), 1.5 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177471",
+      "recordPath": "equipment/eaton-article-177471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177471.json"
+    },
+    {
+      "id": "eaton-article-177472",
+      "name": "FAZ6-D1,6/3N — Miniature circuit breaker (MCB), 1.6 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177472",
+      "recordPath": "equipment/eaton-article-177472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177472.json"
+    },
+    {
+      "id": "eaton-article-177473",
+      "name": "FAZ6-D2/3N — Miniature circuit breaker (MCB), 2 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177473",
+      "recordPath": "equipment/eaton-article-177473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177473.json"
+    },
+    {
+      "id": "eaton-article-177474",
+      "name": "FAZ6-D2,5/3N — Miniature circuit breaker (MCB), 2.5 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177474",
+      "recordPath": "equipment/eaton-article-177474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177474.json"
+    },
+    {
+      "id": "eaton-article-177558",
+      "name": "FAZ6-C3,5/2 — Miniature circuit breaker (MCB), 3.5 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177558",
+      "recordPath": "equipment/eaton-article-177558.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177558.json"
+    },
+    {
+      "id": "eaton-article-177559",
+      "name": "FAZ6-C5/2 — Miniature circuit breaker (MCB), 5 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177559",
+      "recordPath": "equipment/eaton-article-177559.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177559.json"
+    },
+    {
+      "id": "eaton-article-177560",
+      "name": "FAZ6-C8/2 — Miniature circuit breaker (MCB), 8 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177560",
+      "recordPath": "equipment/eaton-article-177560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177560.json"
+    },
+    {
+      "id": "eaton-article-177561",
+      "name": "FAZ6-C12/2 — Miniature circuit breaker (MCB), 12 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177561",
+      "recordPath": "equipment/eaton-article-177561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177561.json"
+    },
+    {
+      "id": "eaton-article-177562",
+      "name": "FAZ6-C15/2 — Miniature circuit breaker (MCB), 15 A, 2p, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177562",
+      "recordPath": "equipment/eaton-article-177562.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177562.json"
+    },
+    {
+      "id": "eaton-article-177563",
+      "name": "FAZ6-D0,5/2 — Miniature circuit breaker (MCB), 0.5 A, 2p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177563",
+      "recordPath": "equipment/eaton-article-177563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177563.json"
+    },
+    {
+      "id": "eaton-article-177475",
+      "name": "FAZ6-D3/3N — Miniature circuit breaker (MCB), 3 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177475",
+      "recordPath": "equipment/eaton-article-177475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177475.json"
+    },
+    {
+      "id": "eaton-article-177476",
+      "name": "FAZ6-D3,5/3N — Miniature circuit breaker (MCB), 3.5 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177476",
+      "recordPath": "equipment/eaton-article-177476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177476.json"
+    },
+    {
+      "id": "eaton-article-177477",
+      "name": "FAZ6-D4/3N — Miniature circuit breaker (MCB), 4 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177477",
+      "recordPath": "equipment/eaton-article-177477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177477.json"
+    },
+    {
+      "id": "eaton-article-177478",
+      "name": "FAZ6-D5/3N — Miniature circuit breaker (MCB), 5 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177478",
+      "recordPath": "equipment/eaton-article-177478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177478.json"
+    },
+    {
+      "id": "eaton-article-177479",
+      "name": "FAZ6-D6/3N — Miniature circuit breaker (MCB), 6 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177479",
+      "recordPath": "equipment/eaton-article-177479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177479.json"
+    },
+    {
+      "id": "eaton-article-177480",
+      "name": "FAZ6-D8/3N — Miniature circuit breaker (MCB), 8 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177480",
+      "recordPath": "equipment/eaton-article-177480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177480.json"
+    },
+    {
+      "id": "eaton-article-177564",
+      "name": "FAZ6-D1/2 — Miniature circuit breaker (MCB), 1 A, 2p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177564",
+      "recordPath": "equipment/eaton-article-177564.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177564.json"
+    },
+    {
+      "id": "eaton-article-177481",
+      "name": "FAZ6-D10/3N — Miniature circuit breaker (MCB), 10 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177481",
+      "recordPath": "equipment/eaton-article-177481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177481.json"
+    },
+    {
+      "id": "eaton-article-177482",
+      "name": "FAZ6-D12/3N — Miniature circuit breaker (MCB), 12 A, 3p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177482",
+      "recordPath": "equipment/eaton-article-177482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177482.json"
+    },
+    {
+      "id": "eaton-article-177483",
+      "name": "FAZ6-D1,6/1 — Miniature circuit breaker (MCB), 1.6 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177483",
+      "recordPath": "equipment/eaton-article-177483.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177483.json"
+    },
+    {
+      "id": "eaton-article-177484",
+      "name": "FAZ6-D2/1 — Miniature circuit breaker (MCB), 2 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177484",
+      "recordPath": "equipment/eaton-article-177484.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177484.json"
+    },
+    {
+      "id": "eaton-article-177485",
+      "name": "FAZ6-D2,5/1 — Miniature circuit breaker (MCB), 2.5 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177485",
+      "recordPath": "equipment/eaton-article-177485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177485.json"
+    },
+    {
+      "id": "eaton-article-177487",
+      "name": "FAZ6-D3,5/1 — Miniature circuit breaker (MCB), 3.5 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177487",
+      "recordPath": "equipment/eaton-article-177487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177487.json"
+    },
+    {
+      "id": "eaton-article-177488",
+      "name": "FAZ6-D4/1 — Miniature circuit breaker (MCB), 4 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177488",
+      "recordPath": "equipment/eaton-article-177488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177488.json"
+    },
+    {
+      "id": "eaton-article-177489",
+      "name": "FAZ6-D5/1 — Miniature circuit breaker (MCB), 5 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177489",
+      "recordPath": "equipment/eaton-article-177489.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177489.json"
+    },
+    {
+      "id": "eaton-article-177486",
+      "name": "FAZ6-D3/1 — Miniature circuit breaker (MCB), 3 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177486",
+      "recordPath": "equipment/eaton-article-177486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177486.json"
+    },
+    {
+      "id": "eaton-article-177490",
+      "name": "FAZ6-D8/1 — Miniature circuit breaker (MCB), 8 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177490",
+      "recordPath": "equipment/eaton-article-177490.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177490.json"
+    },
+    {
+      "id": "eaton-article-177491",
+      "name": "FAZ6-D12/1 — Miniature circuit breaker (MCB), 12 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177491",
+      "recordPath": "equipment/eaton-article-177491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177491.json"
+    },
+    {
+      "id": "eaton-article-177492",
+      "name": "FAZ6-D13/1 — Miniature circuit breaker (MCB), 13 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177492",
+      "recordPath": "equipment/eaton-article-177492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177492.json"
+    },
+    {
+      "id": "eaton-article-177493",
+      "name": "FAZ6-D15/1 — Miniature circuit breaker (MCB), 15 A, 1p, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177493",
+      "recordPath": "equipment/eaton-article-177493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177493.json"
+    },
+    {
+      "id": "eaton-article-177494",
+      "name": "FAZ6-B1/1N — Miniature circuit breaker (MCB), 1 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177494",
+      "recordPath": "equipment/eaton-article-177494.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177494.json"
+    },
+    {
+      "id": "eaton-article-177495",
+      "name": "FAZ6-B1,5/1N — Miniature circuit breaker (MCB), 1.5 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177495",
+      "recordPath": "equipment/eaton-article-177495.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177495.json"
+    },
+    {
+      "id": "eaton-article-177496",
+      "name": "FAZ6-B1,6/1N — Miniature circuit breaker (MCB), 1.6 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177496",
+      "recordPath": "equipment/eaton-article-177496.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177496.json"
+    },
+    {
+      "id": "eaton-article-177497",
+      "name": "FAZ6-B2/1N — Miniature circuit breaker (MCB), 2 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177497",
+      "recordPath": "equipment/eaton-article-177497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177497.json"
+    },
+    {
+      "id": "eaton-article-177498",
+      "name": "FAZ6-B2,5/1N — Miniature circuit breaker (MCB), 2.5 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177498",
+      "recordPath": "equipment/eaton-article-177498.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177498.json"
+    },
+    {
+      "id": "eaton-article-177499",
+      "name": "FAZ6-B3/1N — Miniature circuit breaker (MCB), 3 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177499",
+      "recordPath": "equipment/eaton-article-177499.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177499.json"
+    },
+    {
+      "id": "eaton-article-177500",
+      "name": "FAZ6-B3,5/1N — Miniature circuit breaker (MCB), 3.5 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177500",
+      "recordPath": "equipment/eaton-article-177500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177500.json"
+    },
+    {
+      "id": "eaton-article-177501",
+      "name": "FAZ6-B4/1N — Miniature circuit breaker (MCB), 4 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177501",
+      "recordPath": "equipment/eaton-article-177501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177501.json"
+    },
+    {
+      "id": "eaton-article-177502",
+      "name": "FAZ6-B5/1N — Miniature circuit breaker (MCB), 5 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177502",
+      "recordPath": "equipment/eaton-article-177502.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177502.json"
+    },
+    {
+      "id": "eaton-article-177503",
+      "name": "FAZ6-B8/1N — Miniature circuit breaker (MCB), 8 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177503",
+      "recordPath": "equipment/eaton-article-177503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177503.json"
+    },
+    {
+      "id": "eaton-article-177504",
+      "name": "FAZ6-B12/1N — Miniature circuit breaker (MCB), 12 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177504",
+      "recordPath": "equipment/eaton-article-177504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177504.json"
+    },
+    {
+      "id": "eaton-article-177505",
+      "name": "FAZ6-B15/1N — Miniature circuit breaker (MCB), 15 A, 1p+N, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177505",
+      "recordPath": "equipment/eaton-article-177505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177505.json"
+    },
+    {
+      "id": "eaton-article-177506",
+      "name": "FAZ6-C0,16/1N — Miniature circuit breaker (MCB), 0.16 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177506",
+      "recordPath": "equipment/eaton-article-177506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177506.json"
+    },
+    {
+      "id": "eaton-article-177507",
+      "name": "FAZ6-C0,25/1N — Miniature circuit breaker (MCB), 0.25 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177507",
+      "recordPath": "equipment/eaton-article-177507.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177507.json"
+    },
+    {
+      "id": "eaton-article-177508",
+      "name": "FAZ6-C0,75/1N — Miniature circuit breaker (MCB), 0.75 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177508",
+      "recordPath": "equipment/eaton-article-177508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177508.json"
+    },
+    {
+      "id": "eaton-article-177509",
+      "name": "FAZ6-C1,5/1N — Miniature circuit breaker (MCB), 1.5 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177509",
+      "recordPath": "equipment/eaton-article-177509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177509.json"
+    },
+    {
+      "id": "eaton-article-177510",
+      "name": "FAZ6-C1,6/1N — Miniature circuit breaker (MCB), 1.6 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177510",
+      "recordPath": "equipment/eaton-article-177510.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177510.json"
+    },
+    {
+      "id": "eaton-article-177511",
+      "name": "FAZ6-C2,5/1N — Miniature circuit breaker (MCB), 2.5 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177511",
+      "recordPath": "equipment/eaton-article-177511.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177511.json"
+    },
+    {
+      "id": "eaton-article-177512",
+      "name": "FAZ6-C3,5/1N — Miniature circuit breaker (MCB), 3.5 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177512",
+      "recordPath": "equipment/eaton-article-177512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177512.json"
+    },
+    {
+      "id": "eaton-article-177513",
+      "name": "FAZ6-C5/1N — Miniature circuit breaker (MCB), 5 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177513",
+      "recordPath": "equipment/eaton-article-177513.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177513.json"
+    },
+    {
+      "id": "eaton-article-177514",
+      "name": "FAZ6-C8/1N — Miniature circuit breaker (MCB), 8 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177514",
+      "recordPath": "equipment/eaton-article-177514.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177514.json"
+    },
+    {
+      "id": "eaton-article-177515",
+      "name": "FAZ6-C12/1N — Miniature circuit breaker (MCB), 12 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177515",
+      "recordPath": "equipment/eaton-article-177515.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177515.json"
+    },
+    {
+      "id": "eaton-article-177516",
+      "name": "FAZ6-C15/1N — Miniature circuit breaker (MCB), 15 A, 1p+N, characteristic: C, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177516",
+      "recordPath": "equipment/eaton-article-177516.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177516.json"
+    },
+    {
+      "id": "eaton-article-177517",
+      "name": "FAZ6-D0,5/1N — Miniature circuit breaker (MCB), 0.5 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177517",
+      "recordPath": "equipment/eaton-article-177517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177517.json"
+    },
+    {
+      "id": "eaton-article-177518",
+      "name": "FAZ6-D1/1N — Miniature circuit breaker (MCB), 1 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177518",
+      "recordPath": "equipment/eaton-article-177518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177518.json"
+    },
+    {
+      "id": "eaton-article-177519",
+      "name": "FAZ6-D1,5/1N — Miniature circuit breaker (MCB), 1.5 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177519",
+      "recordPath": "equipment/eaton-article-177519.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177519.json"
+    },
+    {
+      "id": "eaton-article-177520",
+      "name": "FAZ6-D1,6/1N — Miniature circuit breaker (MCB), 1.6 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177520",
+      "recordPath": "equipment/eaton-article-177520.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177520.json"
+    },
+    {
+      "id": "eaton-article-177521",
+      "name": "FAZ6-D2/1N — Miniature circuit breaker (MCB), 2 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177521",
+      "recordPath": "equipment/eaton-article-177521.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177521.json"
+    },
+    {
+      "id": "eaton-article-177522",
+      "name": "FAZ6-D2,5/1N — Miniature circuit breaker (MCB), 2.5 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177522",
+      "recordPath": "equipment/eaton-article-177522.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177522.json"
+    },
+    {
+      "id": "eaton-article-177523",
+      "name": "FAZ6-D3/1N — Miniature circuit breaker (MCB), 3 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177523",
+      "recordPath": "equipment/eaton-article-177523.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177523.json"
+    },
+    {
+      "id": "eaton-article-177525",
+      "name": "FAZ6-D4/1N — Miniature circuit breaker (MCB), 4 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177525",
+      "recordPath": "equipment/eaton-article-177525.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177525.json"
+    },
+    {
+      "id": "eaton-article-177526",
+      "name": "FAZ6-D5/1N — Miniature circuit breaker (MCB), 5 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177526",
+      "recordPath": "equipment/eaton-article-177526.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177526.json"
+    },
+    {
+      "id": "eaton-article-177527",
+      "name": "FAZ6-D6/1N — Miniature circuit breaker (MCB), 6 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177527",
+      "recordPath": "equipment/eaton-article-177527.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177527.json"
+    },
+    {
+      "id": "eaton-article-177524",
+      "name": "FAZ6-D3,5/1N — Miniature circuit breaker (MCB), 3.5 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177524",
+      "recordPath": "equipment/eaton-article-177524.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177524.json"
+    },
+    {
+      "id": "eaton-article-177528",
+      "name": "FAZ6-D8/1N — Miniature circuit breaker (MCB), 8 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177528",
+      "recordPath": "equipment/eaton-article-177528.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177528.json"
+    },
+    {
+      "id": "eaton-article-177529",
+      "name": "FAZ6-D10/1N — Miniature circuit breaker (MCB), 10 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177529",
+      "recordPath": "equipment/eaton-article-177529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177529.json"
+    },
+    {
+      "id": "eaton-article-177530",
+      "name": "FAZ6-D12/1N — Miniature circuit breaker (MCB), 12 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177530",
+      "recordPath": "equipment/eaton-article-177530.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177530.json"
+    },
+    {
+      "id": "eaton-article-177531",
+      "name": "FAZ6-D13/1N — Miniature circuit breaker (MCB), 13 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177531",
+      "recordPath": "equipment/eaton-article-177531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177531.json"
+    },
+    {
+      "id": "eaton-article-177532",
+      "name": "FAZ6-D15/1N — Miniature circuit breaker (MCB), 15 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177532",
+      "recordPath": "equipment/eaton-article-177532.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177532.json"
+    },
+    {
+      "id": "eaton-article-177533",
+      "name": "FAZ6-D16/1N — Miniature circuit breaker (MCB), 16 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177533",
+      "recordPath": "equipment/eaton-article-177533.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177533.json"
+    },
+    {
+      "id": "eaton-article-177534",
+      "name": "FAZ6-D20/1N — Miniature circuit breaker (MCB), 20 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177534",
+      "recordPath": "equipment/eaton-article-177534.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177534.json"
+    },
+    {
+      "id": "eaton-article-177535",
+      "name": "FAZ6-D25/1N — Miniature circuit breaker (MCB), 25 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177535",
+      "recordPath": "equipment/eaton-article-177535.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177535.json"
+    },
+    {
+      "id": "eaton-article-177536",
+      "name": "FAZ6-D32/1N — Miniature circuit breaker (MCB), 32 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177536",
+      "recordPath": "equipment/eaton-article-177536.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177536.json"
+    },
+    {
+      "id": "eaton-article-177538",
+      "name": "FAZ6-D50/1N — Miniature circuit breaker (MCB), 50 A, 1p+N, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177538",
+      "recordPath": "equipment/eaton-article-177538.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177538.json"
+    },
+    {
+      "id": "eaton-article-177539",
+      "name": "FAZ6-D63/1N — Miniature circuit breaker (MCB), 63 A, 1p+N, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177539",
+      "recordPath": "equipment/eaton-article-177539.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177539.json"
+    },
+    {
+      "id": "eaton-article-177540",
+      "name": "FAZ6-B1/2 — Miniature circuit breaker (MCB), 1 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177540",
+      "recordPath": "equipment/eaton-article-177540.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177540.json"
+    },
+    {
+      "id": "eaton-article-177541",
+      "name": "FAZ6-B1,5/2 — Miniature circuit breaker (MCB), 1.5 A, 2p, characteristic: B, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177541",
+      "recordPath": "equipment/eaton-article-177541.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177541.json"
+    },
+    {
+      "id": "eaton-article-264888",
+      "name": "PL7-C13/1-DC — Miniature circuit breaker (MCB), 13 A, 1p, characteristic: C, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-264888",
+      "recordPath": "equipment/eaton-article-264888.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-264888.json"
+    },
+    {
+      "id": "eaton-article-264890",
+      "name": "PL7-C20/1-DC — Miniature circuit breaker (MCB), 20 A, 1p, characteristic: C, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-264890",
+      "recordPath": "equipment/eaton-article-264890.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-264890.json"
+    },
+    {
+      "id": "eaton-article-264887",
+      "name": "PL7-C10/1-DC — Miniature circuit breaker (MCB), 10 A, 1p, characteristic: C, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-264887",
+      "recordPath": "equipment/eaton-article-264887.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-264887.json"
+    },
+    {
+      "id": "eaton-article-264889",
+      "name": "PL7-C16/1-DC — Miniature circuit breaker (MCB), 16 A, 1p, characteristic: C, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-264889",
+      "recordPath": "equipment/eaton-article-264889.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-264889.json"
+    },
+    {
+      "id": "eaton-article-264892",
+      "name": "PL7-C32/1-DC — Miniature circuit breaker (MCB), 32 A, 1p, characteristic: C, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-264892",
+      "recordPath": "equipment/eaton-article-264892.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-264892.json"
+    },
+    {
+      "id": "eaton-article-177537",
+      "name": "FAZ6-D40/1N — Miniature circuit breaker (MCB), 40 A, 1p+N, characteristic: D, 6 kA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-177537",
+      "recordPath": "equipment/eaton-article-177537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-177537.json"
+    },
+    {
+      "id": "eaton-article-264891",
+      "name": "PL7-C25/1-DC — Miniature circuit breaker (MCB), 25 A, 1p, characteristic: C, DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-264891",
+      "recordPath": "equipment/eaton-article-264891.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-264891.json"
+    },
+    {
+      "id": "eaton-article-167459",
+      "name": "FAZ-C7/3 — Miniature circuit breaker (MCB), 7 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167459",
+      "recordPath": "equipment/eaton-article-167459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167459.json"
+    },
+    {
+      "id": "eaton-article-167489",
+      "name": "FAZ-C7/2 — Miniature circuit breaker (MCB), 7 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167489",
+      "recordPath": "equipment/eaton-article-167489.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167489.json"
+    },
+    {
+      "id": "eaton-article-167488",
+      "name": "FAZ-B30/2 — Miniature circuit breaker (MCB), 30 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167488",
+      "recordPath": "equipment/eaton-article-167488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167488.json"
+    },
+    {
+      "id": "eaton-article-167492",
+      "name": "FAZ-D30/2 — Miniature circuit breaker (MCB), 30 A, 2p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167492",
+      "recordPath": "equipment/eaton-article-167492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167492.json"
+    },
+    {
+      "id": "eaton-article-167462",
+      "name": "FAZ-D30/3 — Miniature circuit breaker (MCB), 30 A, 3p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167462",
+      "recordPath": "equipment/eaton-article-167462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167462.json"
+    },
+    {
+      "id": "eaton-article-167509",
+      "name": "mRB4-32/3N/C/01-A — RCD/MCB combination, 32 A, 100 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167509",
+      "recordPath": "equipment/eaton-article-167509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167509.json"
+    },
+    {
+      "id": "eaton-article-167510",
+      "name": "mRB4-32/3N/C/03-A — RCD/MCB combination, 32 A, 300 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167510",
+      "recordPath": "equipment/eaton-article-167510.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167510.json"
+    },
+    {
+      "id": "eaton-article-167508",
+      "name": "mRB4-32/3N/C/003-A — RCD/MCB combination, 32 A, 30 mA, MCB trip characteristic: C, 3p+N, RCD trip characteristic: A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167508",
+      "recordPath": "equipment/eaton-article-167508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167508.json"
+    },
+    {
+      "id": "eaton-article-167460",
+      "name": "FAZ-C30/3 — Miniature circuit breaker (MCB), 30 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167460",
+      "recordPath": "equipment/eaton-article-167460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167460.json"
+    },
+    {
+      "id": "eaton-article-167467",
+      "name": "FAZ-D7/4 — Miniature circuit breaker (MCB), 7 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167467",
+      "recordPath": "equipment/eaton-article-167467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167467.json"
+    },
+    {
+      "id": "eaton-article-167461",
+      "name": "FAZ-D7/3 — Miniature circuit breaker (MCB), 7 A, 3p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167461",
+      "recordPath": "equipment/eaton-article-167461.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167461.json"
+    },
+    {
+      "id": "eaton-article-167487",
+      "name": "FAZ-B7/2 — Miniature circuit breaker (MCB), 7 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167487",
+      "recordPath": "equipment/eaton-article-167487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167487.json"
+    },
+    {
+      "id": "eaton-article-167465",
+      "name": "FAZ-C7/4 — Miniature circuit breaker (MCB), 7 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167465",
+      "recordPath": "equipment/eaton-article-167465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167465.json"
+    },
+    {
+      "id": "eaton-article-167490",
+      "name": "FAZ-C30/2 — Miniature circuit breaker (MCB), 30 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167490",
+      "recordPath": "equipment/eaton-article-167490.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167490.json"
+    },
+    {
+      "id": "eaton-article-167466",
+      "name": "FAZ-C30/4 — Miniature circuit breaker (MCB), 30 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167466",
+      "recordPath": "equipment/eaton-article-167466.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167466.json"
+    },
+    {
+      "id": "eaton-article-167493",
+      "name": "FAZ-B7/3 — Miniature circuit breaker (MCB), 7 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167493",
+      "recordPath": "equipment/eaton-article-167493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167493.json"
+    },
+    {
+      "id": "eaton-article-167468",
+      "name": "FAZ-D30/4 — Miniature circuit breaker (MCB), 30 A, 4p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167468",
+      "recordPath": "equipment/eaton-article-167468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167468.json"
+    },
+    {
+      "id": "eaton-article-167494",
+      "name": "FAZ-B30/3 — Miniature circuit breaker (MCB), 30 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167494",
+      "recordPath": "equipment/eaton-article-167494.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167494.json"
+    },
+    {
+      "id": "eaton-article-167464",
+      "name": "FAZ-B30/4 — Miniature circuit breaker (MCB), 30 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167464",
+      "recordPath": "equipment/eaton-article-167464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167464.json"
+    },
+    {
+      "id": "eaton-article-167491",
+      "name": "FAZ-D7/2 — Miniature circuit breaker (MCB), 7 A, 2p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167491",
+      "recordPath": "equipment/eaton-article-167491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167491.json"
+    },
+    {
+      "id": "eaton-article-167463",
+      "name": "FAZ-B7/4 — Miniature circuit breaker (MCB), 7 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167463",
+      "recordPath": "equipment/eaton-article-167463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-167463.json"
+    },
+    {
+      "id": "eaton-article-190928",
+      "name": "FAZ-B10/4-NA — Miniature circuit breaker (MCB), 10 A, 4p, characteristic: B, NA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-190928",
+      "recordPath": "equipment/eaton-article-190928.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-190928.json"
+    },
+    {
+      "id": "eaton-article-190923",
+      "name": "FAZ-C6/4-NA — Miniature circuit breaker (MCB), 6 A, 4p, characteristic: C, NA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-190923",
+      "recordPath": "equipment/eaton-article-190923.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-190923.json"
+    },
+    {
+      "id": "eaton-article-190926",
+      "name": "FAZ-C10/4-NA — Miniature circuit breaker (MCB), 10 A, 4p, characteristic: C, NA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-190926",
+      "recordPath": "equipment/eaton-article-190926.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-190926.json"
+    },
+    {
+      "id": "eaton-article-190924",
+      "name": "FAZ-C7/4-NA — Miniature circuit breaker (MCB), 7 A, 4p, characteristic: C, NA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-190924",
+      "recordPath": "equipment/eaton-article-190924.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-190924.json"
+    },
+    {
+      "id": "eaton-article-190925",
+      "name": "FAZ-C8/4-NA — Miniature circuit breaker (MCB), 8 A, 4p, characteristic: C, NA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-190925",
+      "recordPath": "equipment/eaton-article-190925.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-190925.json"
+    },
+    {
+      "id": "eaton-article-190927",
+      "name": "FAZ-B8/4-NA — Miniature circuit breaker (MCB), 8 A, 4p, characteristic: B, NA",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-190927",
+      "recordPath": "equipment/eaton-article-190927.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-190927.json"
+    },
+    {
+      "id": "eaton-article-278730",
+      "name": "FAZ-B10/2 — Miniature circuit breaker (MCB), 10 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278730",
+      "recordPath": "equipment/eaton-article-278730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278730.json"
+    },
+    {
+      "id": "eaton-article-278767",
+      "name": "FAZ-D0,5/2 — Miniature circuit breaker (MCB), 0.5 A, 2p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278767",
+      "recordPath": "equipment/eaton-article-278767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278767.json"
+    },
+    {
+      "id": "eaton-article-278748",
+      "name": "FAZ-C2/2 — Miniature circuit breaker (MCB), 2 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278748",
+      "recordPath": "equipment/eaton-article-278748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278748.json"
+    },
+    {
+      "id": "eaton-article-278761",
+      "name": "FAZ-C20/2 — Miniature circuit breaker (MCB), 20 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278761",
+      "recordPath": "equipment/eaton-article-278761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278761.json"
+    },
+    {
+      "id": "eaton-article-278762",
+      "name": "FAZ-C25/2 — Miniature circuit breaker (MCB), 25 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278762",
+      "recordPath": "equipment/eaton-article-278762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278762.json"
+    },
+    {
+      "id": "eaton-article-278750",
+      "name": "FAZ-C3/2 — Miniature circuit breaker (MCB), 3 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278750",
+      "recordPath": "equipment/eaton-article-278750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278750.json"
+    },
+    {
+      "id": "eaton-article-278759",
+      "name": "FAZ-C15/2 — Miniature circuit breaker (MCB), 15 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278759",
+      "recordPath": "equipment/eaton-article-278759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278759.json"
+    },
+    {
+      "id": "eaton-article-278783",
+      "name": "FAZ-D16/2 — Miniature circuit breaker (MCB), 16 A, 2p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278783",
+      "recordPath": "equipment/eaton-article-278783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278783.json"
+    },
+    {
+      "id": "eaton-article-278766",
+      "name": "FAZ-C63/2 — Miniature circuit breaker (MCB), 63 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278766",
+      "recordPath": "equipment/eaton-article-278766.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278766.json"
+    },
+    {
+      "id": "eaton-article-278755",
+      "name": "FAZ-C8/2 — Miniature circuit breaker (MCB), 8 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278755",
+      "recordPath": "equipment/eaton-article-278755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278755.json"
+    },
+    {
+      "id": "eaton-article-278735",
+      "name": "FAZ-B20/2 — Miniature circuit breaker (MCB), 20 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278735",
+      "recordPath": "equipment/eaton-article-278735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278735.json"
+    },
+    {
+      "id": "eaton-article-278765",
+      "name": "FAZ-C50/2 — Miniature circuit breaker (MCB), 50 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278765",
+      "recordPath": "equipment/eaton-article-278765.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278765.json"
+    },
+    {
+      "id": "eaton-article-278737",
+      "name": "FAZ-B32/2 — Miniature circuit breaker (MCB), 32 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278737",
+      "recordPath": "equipment/eaton-article-278737.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278737.json"
+    },
+    {
+      "id": "eaton-article-278754",
+      "name": "FAZ-C6/2 — Miniature circuit breaker (MCB), 6 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278754",
+      "recordPath": "equipment/eaton-article-278754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278754.json"
+    },
+    {
+      "id": "eaton-article-278764",
+      "name": "FAZ-C40/2 — Miniature circuit breaker (MCB), 40 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278764",
+      "recordPath": "equipment/eaton-article-278764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278764.json"
+    },
+    {
+      "id": "eaton-article-278778",
+      "name": "FAZ-D8/2 — Miniature circuit breaker (MCB), 8 A, 2p, characteristic: D",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278778",
+      "recordPath": "equipment/eaton-article-278778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278778.json"
+    },
+    {
+      "id": "eaton-article-278752",
+      "name": "FAZ-C4/2 — Miniature circuit breaker (MCB), 4 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278752",
+      "recordPath": "equipment/eaton-article-278752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278752.json"
+    },
+    {
+      "id": "eaton-article-278745",
+      "name": "FAZ-C1/2 — Miniature circuit breaker (MCB), 1 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278745",
+      "recordPath": "equipment/eaton-article-278745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278745.json"
+    },
+    {
+      "id": "eaton-article-278753",
+      "name": "FAZ-C5/2 — Miniature circuit breaker (MCB), 5 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278753",
+      "recordPath": "equipment/eaton-article-278753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278753.json"
+    },
+    {
+      "id": "eaton-article-278728",
+      "name": "FAZ-B6/2 — Miniature circuit breaker (MCB), 6 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-278728",
+      "recordPath": "equipment/eaton-article-278728.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-278728.json"
+    }
+  ]
+}

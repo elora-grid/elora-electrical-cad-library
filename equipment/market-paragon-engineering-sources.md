@@ -1,0 +1,87 @@
+# PARAGON — PARAGON protection and metering catalogue and drawing sources
+
+Find the PARAGON source catalogue for protection and metering equipment used in switchboard or switchroom design. Select the exact product at the original source to establish available drawings and model formats. The supplier-certified PARAGON catalogue provides a selection route for protection and metering. Confirm the exact product and regional configuration at the source.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/market-paragon-engineering-sources) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/market-paragon-engineering-sources.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/market-paragon-engineering-sources.json) · [Official manufacturer source](https://www.traceparts.com/en/search/paragon?CatalogPath=NANJING_1124780901%3AF_PARAGON)
+
+- Category: Protection & metering
+- Entry type: library
+- Part number: Select exact configuration
+- Formats: Confirm with manufacturer
+- Discovery markets: Global
+- Access: catalogue
+- Checked: 2026-11-16
+
+Open the original supplier catalogue, select the exact product and check its available export formats. The source may require an account. A catalogue route is not a verified file download.
+Global discovery tag. Product suitability, regional variants and certification must be confirmed for the selected equipment.
+This is a manufacturer source collection. Use the original catalogue to select a product before using its geometry to coordinate protection and metering devices with panel cutouts. Catalogue presence does not establish complete product coverage.
+
+## Equipment and file summary
+
+- Equipment / resource: PARAGON protection and metering catalogue and drawing sources
+- Manufacturer: PARAGON
+- Resource type: Manufacturer library
+- Supplier label: PARAGON
+- Electrical discovery results: 28 results shown by the TraceParts electrical supplier facet at the recorded snapshot. Includes variants and potentially adjacent products; not a count of verified switchgear models.
+- Source collection: PARAGON
+- Design scope: protection and metering
+- File status: Individual products, formats and downloads must be confirmed at the source; no files acquired for this collection page.
+- Listed file formats: Confirm with manufacturer
+- Listed files: 0
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-16
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## Source-linked technical facts
+
+- Supplier label: PARAGON ([source](https://www.traceparts.com/en/search/paragon?CatalogPath=NANJING_1124780901%3AF_PARAGON))
+- Electrical discovery results: 28 results shown by the TraceParts electrical supplier facet at the recorded snapshot. Includes variants and potentially adjacent products; not a count of verified switchgear models. ([source](https://www.traceparts.com/en/search/traceparts-classification-electrical?CatalogPath=TRACEPARTS:TP09))
+- Source collection: PARAGON ([source](https://www.traceparts.com/en/search/paragon?CatalogPath=NANJING_1124780901%3AF_PARAGON))
+- Design scope: protection and metering ([source](https://www.traceparts.com/en/search/paragon?CatalogPath=NANJING_1124780901%3AF_PARAGON))
+- File status: Individual products, formats and downloads must be confirmed at the source; no files acquired for this collection page. ([source](https://www.traceparts.com/en/search/paragon?CatalogPath=NANJING_1124780901%3AF_PARAGON))
+
+## What this resource helps you do
+
+This manufacturer resource helps you find drawings or select versions of protection and metering equipment. Use it to locate the matching equipment outline or model for your design.
+
+For PARAGON protection and metering equipment, use this source to coordinate protection and metering devices with panel cutouts. Choose the exact model before transferring dimensions into the project layout.
+
+PARAGON protection and metering catalogue and drawing sources: check panel cutout and mounting depth; terminal and connector arrangement; current and voltage measurement interfaces. The page links to the original source. Individual engineering files have not been acquired for this entry; use the source or request the selected configuration.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Identify the exact PARAGON family, model and revision.
+- Check panel cutout and mounting depth against the selected original.
+- Check terminal and connector arrangement against the selected original.
+- Check current and voltage measurement interfaces against the selected original.
+- Confirm dimensional units, regional version and manufacturer installation requirements.
+
+### What is verified on this page?
+
+TraceParts supplier-certified catalogue listing is the recorded source. The page links to the original source. Individual engineering files have not been acquired for this entry; use the source or request the selected configuration.
+
+### Does this cover every manufacturer model?
+
+No. This entry identifies a specific source collection, family or project route. It does not establish full SKU, configuration or regional coverage.
+
+- [PARAGON official source](https://www.traceparts.com/en/search/paragon?CatalogPath=NANJING_1124780901%3AF_PARAGON)
+
+## Choosing a file
+
+PARAGON protection and metering catalogue and drawing sources: check panel cutout and mounting depth; terminal and connector arrangement; current and voltage measurement interfaces. The page links to the original source. Individual engineering files have not been acquired for this entry; use the source or request the selected configuration.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+No individual file listed. Browse the official source or Request CAD on the equipment page.
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

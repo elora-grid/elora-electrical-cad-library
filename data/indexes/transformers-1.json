@@ -2094,6 +2094,898 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2",
       "recordPath": "equipment/abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-xfmr-outline-drawing-type-ql-3-phase-doe-2016-efficiency-enclosed-unit-93e407c4b2.json"
+    },
+    {
+      "id": "mfr-nhp-powermax-ct-chassis-e00b189c25",
+      "name": "POWERMAX CT Chassis",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-powermax-ct-chassis-e00b189c25",
+      "recordPath": "equipment/mfr-nhp-powermax-ct-chassis-e00b189c25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-powermax-ct-chassis-e00b189c25.json"
+    },
+    {
+      "id": "mfr-terasaki-ct-blocks-for-tembreak-2-mccb-s-2662249623",
+      "name": "CT Blocks For Tembreak 2 MCCB's",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-ct-blocks-for-tembreak-2-mccb-s-2662249623",
+      "recordPath": "equipment/mfr-terasaki-ct-blocks-for-tembreak-2-mccb-s-2662249623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-ct-blocks-for-tembreak-2-mccb-s-2662249623.json"
+    },
+    {
+      "id": "mfr-abb-1sep619510p0001-zhbm-00-ct-slide-on-rear-side-100-5a-1-5v-aci-1-8770f360ed",
+      "name": "1SEP619510P0001-ZHBM 00 CT Slide on rear side 100/5A 1,5V ACI.1",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep619510p0001-zhbm-00-ct-slide-on-rear-side-100-5a-1-5v-aci-1-8770f360ed",
+      "recordPath": "equipment/mfr-abb-1sep619510p0001-zhbm-00-ct-slide-on-rear-side-100-5a-1-5v-aci-1-8770f360ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep619510p0001-zhbm-00-ct-slide-on-rear-side-100-5a-1-5v-aci-1-8770f360ed.json"
+    },
+    {
+      "id": "mfr-abb-1sep619516r0001-ct-zlbm-zubm123-400-5-1-te-3ebfda1179",
+      "name": "1SEP619516R0001-CT-ZLBM/ZUBM123-400/5-1-TE",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep619516r0001-ct-zlbm-zubm123-400-5-1-te-3ebfda1179",
+      "recordPath": "equipment/mfr-abb-1sep619516r0001-ct-zlbm-zubm123-400-5-1-te-3ebfda1179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep619516r0001-ct-zlbm-zubm123-400-5-1-te-3ebfda1179.json"
+    },
+    {
+      "id": "mfr-abb-1sep619517r0001-ct-zlbm-zubm123-600-5-1-te-5c22e44ee5",
+      "name": "1SEP619517R0001-CT-ZLBM/ZUBM123-600/5-1-TE",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep619517r0001-ct-zlbm-zubm123-600-5-1-te-5c22e44ee5",
+      "recordPath": "equipment/mfr-abb-1sep619517r0001-ct-zlbm-zubm123-600-5-1-te-5c22e44ee5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep619517r0001-ct-zlbm-zubm123-600-5-1-te-5c22e44ee5.json"
+    },
+    {
+      "id": "mfr-abb-1sep619519r0001-ct-zlbm-zubm123-600-5-0-5-te-d56628160a",
+      "name": "1SEP619519R0001-CT-ZLBM/ZUBM123-600/5-0.5-TE",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep619519r0001-ct-zlbm-zubm123-600-5-0-5-te-d56628160a",
+      "recordPath": "equipment/mfr-abb-1sep619519r0001-ct-zlbm-zubm123-600-5-0-5-te-d56628160a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep619519r0001-ct-zlbm-zubm123-600-5-0-5-te-d56628160a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bcpm-solid-core-ct-333mv-100a-10mm-dia-ul2808-ee02d4ebc6",
+      "name": "BCPM Solid core CT 333mV 100A 10mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-100a-10mm-dia-ul2808-ee02d4ebc6",
+      "recordPath": "equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-100a-10mm-dia-ul2808-ee02d4ebc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bcpm-solid-core-ct-333mv-100a-10mm-dia-ul2808-ee02d4ebc6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bcpm-solid-core-ct-333mv-200a-25mm-dia-ul2808-8291cc4b8b",
+      "name": "BCPM Solid core CT 333mV 200A 25mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-200a-25mm-dia-ul2808-8291cc4b8b",
+      "recordPath": "equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-200a-25mm-dia-ul2808-8291cc4b8b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bcpm-solid-core-ct-333mv-200a-25mm-dia-ul2808-8291cc4b8b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bcpm-solid-core-ct-333mv-400a-31mm-dia-ul2808-ceefdff823",
+      "name": "BCPM Solid core CT 333mV 400A 31mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-400a-31mm-dia-ul2808-ceefdff823",
+      "recordPath": "equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-400a-31mm-dia-ul2808-ceefdff823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bcpm-solid-core-ct-333mv-400a-31mm-dia-ul2808-ceefdff823.json"
+    },
+    {
+      "id": "mfr-schneider-electric-bcpm-solid-core-ct-333mv-50a-10mm-dia-ul2808-c7c19441ea",
+      "name": "BCPM Solid core CT 333mV 50A 10mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-50a-10mm-dia-ul2808-c7c19441ea",
+      "recordPath": "equipment/mfr-schneider-electric-bcpm-solid-core-ct-333mv-50a-10mm-dia-ul2808-c7c19441ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-bcpm-solid-core-ct-333mv-50a-10mm-dia-ul2808-c7c19441ea.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-rogowski-250mm-coil-ul2808-1000a-9893526189",
+      "name": "CT Rogowski 250mm coil UL2808 1000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-rogowski-250mm-coil-ul2808-1000a-9893526189",
+      "recordPath": "equipment/mfr-schneider-electric-ct-rogowski-250mm-coil-ul2808-1000a-9893526189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-rogowski-250mm-coil-ul2808-1000a-9893526189.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-rogowski-300mm-coil-ul2808-2000a-54ce6e0b7f",
+      "name": "CT Rogowski 300mm coil UL2808 2000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-rogowski-300mm-coil-ul2808-2000a-54ce6e0b7f",
+      "recordPath": "equipment/mfr-schneider-electric-ct-rogowski-300mm-coil-ul2808-2000a-54ce6e0b7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-rogowski-300mm-coil-ul2808-2000a-54ce6e0b7f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-rogowski-460mm-coil-ul2808-5000a-44dd531790",
+      "name": "CT Rogowski 460mm coil UL2808 5000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-rogowski-460mm-coil-ul2808-5000a-44dd531790",
+      "recordPath": "equipment/mfr-schneider-electric-ct-rogowski-460mm-coil-ul2808-5000a-44dd531790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-rogowski-460mm-coil-ul2808-5000a-44dd531790.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-rogowski-600mm-coil-ul2808-5000a-b00c257485",
+      "name": "CT Rogowski 600mm coil UL2808 5000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-rogowski-600mm-coil-ul2808-5000a-b00c257485",
+      "recordPath": "equipment/mfr-schneider-electric-ct-rogowski-600mm-coil-ul2808-5000a-b00c257485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-rogowski-600mm-coil-ul2808-5000a-b00c257485.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-rogowski-900mm-coil-ul2808-5000a-fa31037921",
+      "name": "CT Rogowski 900mm coil UL2808 5000A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-rogowski-900mm-coil-ul2808-5000a-fa31037921",
+      "recordPath": "equipment/mfr-schneider-electric-ct-rogowski-900mm-coil-ul2808-5000a-fa31037921.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-rogowski-900mm-coil-ul2808-5000a-fa31037921.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-neutral-or-ground-fault-protection-400-1600a-for-mtz1-spare-part-f04faaf3bb",
+      "name": "CT neutral or ground fault protection, 400/1600A for MTZ1 spare part",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-neutral-or-ground-fault-protection-400-1600a-for-mtz1-spare-part-f04faaf3bb",
+      "recordPath": "equipment/mfr-schneider-electric-ct-neutral-or-ground-fault-protection-400-1600a-for-mtz1-spare-part-f04faaf3bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-neutral-or-ground-fault-protection-400-1600a-for-mtz1-spare-part-f04faaf3bb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-splitcore-50a-0-333vac-0-39inid-6ft-360-set-of-images-a5cf161478",
+      "name": "CT, SplitCore, 50A:0.333VAC, 0.39inID, 6ft - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-splitcore-50a-0-333vac-0-39inid-6ft-360-set-of-images-a5cf161478",
+      "recordPath": "equipment/mfr-schneider-electric-ct-splitcore-50a-0-333vac-0-39inid-6ft-360-set-of-images-a5cf161478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-splitcore-50a-0-333vac-0-39inid-6ft-360-set-of-images-a5cf161478.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-volt-solid-core-sz0-100a-0-333vac-s4-360-set-of-images-837db5c07e",
+      "name": "CT, Volt, Solid Core, Sz0, 100A:0.333VAC, S4 - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-volt-solid-core-sz0-100a-0-333vac-s4-360-set-of-images-837db5c07e",
+      "recordPath": "equipment/mfr-schneider-electric-ct-volt-solid-core-sz0-100a-0-333vac-s4-360-set-of-images-837db5c07e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-volt-solid-core-sz0-100a-0-333vac-s4-360-set-of-images-837db5c07e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-volt-solid-core-sz0-50a-0-333vac-s4-360-set-of-images-2d6d932c92",
+      "name": "CT, Volt, Solid Core, Sz0, 50A:0.333VAC, S4 - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-volt-solid-core-sz0-50a-0-333vac-s4-360-set-of-images-2d6d932c92",
+      "recordPath": "equipment/mfr-schneider-electric-ct-volt-solid-core-sz0-50a-0-333vac-s4-360-set-of-images-2d6d932c92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-volt-solid-core-sz0-50a-0-333vac-s4-360-set-of-images-2d6d932c92.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-volt-solid-core-sz2-200a-0-333vac-s4-360-set-of-images-b17e219369",
+      "name": "CT, Volt, Solid Core, Sz2, 200A:0.333VAC, S4 - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-volt-solid-core-sz2-200a-0-333vac-s4-360-set-of-images-b17e219369",
+      "recordPath": "equipment/mfr-schneider-electric-ct-volt-solid-core-sz2-200a-0-333vac-s4-360-set-of-images-b17e219369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-volt-solid-core-sz2-200a-0-333vac-s4-360-set-of-images-b17e219369.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-volt-solid-core-sz3-400a-0-333vac-s4-360-set-of-images-2240397816",
+      "name": "CT, Volt, Solid Core, Sz3, 400A:0.333VAC, S4 - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-volt-solid-core-sz3-400a-0-333vac-s4-360-set-of-images-2240397816",
+      "recordPath": "equipment/mfr-schneider-electric-ct-volt-solid-core-sz3-400a-0-333vac-s4-360-set-of-images-2240397816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-volt-solid-core-sz3-400a-0-333vac-s4-360-set-of-images-2240397816.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-volt-split-core-sz1-100a-0-333vac-s4-360-set-of-images-839f50a8cb",
+      "name": "CT, Volt, Split Core, Sz1, 100A:0.333VAC, S4 - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-volt-split-core-sz1-100a-0-333vac-s4-360-set-of-images-839f50a8cb",
+      "recordPath": "equipment/mfr-schneider-electric-ct-volt-split-core-sz1-100a-0-333vac-s4-360-set-of-images-839f50a8cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-volt-split-core-sz1-100a-0-333vac-s4-360-set-of-images-839f50a8cb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-ct-volt-split-core-sz1-200a-0-333vac-s4-360-set-of-images-a368423779",
+      "name": "CT, Volt, Split Core, Sz1, 200A:0.333VAC, S4 - 360 Set of Images",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-ct-volt-split-core-sz1-200a-0-333vac-s4-360-set-of-images-a368423779",
+      "recordPath": "equipment/mfr-schneider-electric-ct-volt-split-core-sz1-200a-0-333vac-s4-360-set-of-images-a368423779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-ct-volt-split-core-sz1-200a-0-333vac-s4-360-set-of-images-a368423779.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-46dcbe0178",
+      "name": "CURRENT TRANSFORMER",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-46dcbe0178",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-46dcbe0178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-46dcbe0178.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-std-04bba7239c",
+      "name": "CURRENT TRANSFORMER STD",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-std-04bba7239c",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-std-04bba7239c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-std-04bba7239c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-std-1250-5a-77b40f7ea9",
+      "name": "CURRENT TRANSFORMER STD 1250/5A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-std-1250-5a-77b40f7ea9",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-std-1250-5a-77b40f7ea9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-std-1250-5a-77b40f7ea9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-din-mount-300-5-for-cables-d-35-and-bars-10x40-b8e299d5db",
+      "name": "Current transformer tropicalised DIN mount 300 5 for cables d. 35 and bars 10x40",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-300-5-for-cables-d-35-and-bars-10x40-b8e299d5db",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-300-5-for-cables-d-35-and-bars-10x40-b8e299d5db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-din-mount-300-5-for-cables-d-35-and-bars-10x40-b8e299d5db.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-bars-10x40-20x32-25x25-48361bf9bf",
+      "name": "Current transformer tropicalised DIN mount for bars 10x40 20x32 25x25",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-bars-10x40-20x32-25x25-48361bf9bf",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-bars-10x40-20x32-25x25-48361bf9bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-bars-10x40-20x32-25x25-48361bf9bf.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-21-d3785284a4",
+      "name": "Current transformer tropicalised DIN mount for cables d. 21",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-21-d3785284a4",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-21-d3785284a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-21-d3785284a4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-22-and-bars-10x30-672fb38594",
+      "name": "Current transformer tropicalised DIN mount for cables d. 22 and bars 10x30",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-22-and-bars-10x30-672fb38594",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-22-and-bars-10x30-672fb38594.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-22-and-bars-10x30-672fb38594.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-27-bars-10x32-15x25-2e1c160026",
+      "name": "Current transformer tropicalised DIN mount for cables d. 27 - bars 10x32 15x25",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-27-bars-10x32-15x25-2e1c160026",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-27-bars-10x32-15x25-2e1c160026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-din-mount-for-cables-d-27-bars-10x32-15x25-2e1c160026.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-for-bars-11x64-or-31x51-9ad75efbc6",
+      "name": "Current transformer tropicalised for bars 11x64 or 31x51",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-for-bars-11x64-or-31x51-9ad75efbc6",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-for-bars-11x64-or-31x51-9ad75efbc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-for-bars-11x64-or-31x51-9ad75efbc6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-for-bars-32x65-5ac4bcf51f",
+      "name": "Current transformer tropicalised for bars 32x65",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-for-bars-32x65-5ac4bcf51f",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-for-bars-32x65-5ac4bcf51f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-for-bars-32x65-5ac4bcf51f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-current-transformer-tropicalised-for-bars-38x127-5ad23cd9a1",
+      "name": "Current transformer tropicalised for bars 38x127",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-current-transformer-tropicalised-for-bars-38x127-5ad23cd9a1",
+      "recordPath": "equipment/mfr-schneider-electric-current-transformer-tropicalised-for-bars-38x127-5ad23cd9a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-current-transformer-tropicalised-for-bars-38x127-5ad23cd9a1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-333mv-100a-16mm-dia-ul2808-19a497d7dd",
+      "name": "EM3500 series Split core CT 333mV 100A 16mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-333mv-100a-16mm-dia-ul2808-19a497d7dd",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-333mv-100a-16mm-dia-ul2808-19a497d7dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-333mv-100a-16mm-dia-ul2808-19a497d7dd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-333mv-200a-32mm-dia-ul2808-730d03eeba",
+      "name": "EM3500 series Split core CT 333mV 200A 32mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-333mv-200a-32mm-dia-ul2808-730d03eeba",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-333mv-200a-32mm-dia-ul2808-730d03eeba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-333mv-200a-32mm-dia-ul2808-730d03eeba.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-333mv-50a-10mm-dia-ul2808-6ea238e69a",
+      "name": "EM3500 series Split core CT 333mV 50A 10mm Dia UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-333mv-50a-10mm-dia-ul2808-6ea238e69a",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-333mv-50a-10mm-dia-ul2808-6ea238e69a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-333mv-50a-10mm-dia-ul2808-6ea238e69a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-5a-small-400a-ul2808-3b2221939c",
+      "name": "EM3500 series Split core CT, 5A, Small, 400A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-5a-small-400a-ul2808-3b2221939c",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-5a-small-400a-ul2808-3b2221939c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-5a-small-400a-ul2808-3b2221939c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1000a-ul2808-5388c2a32c",
+      "name": "EM3500 series Split core CT, Large, .3V, 1000A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1000a-ul2808-5388c2a32c",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1000a-ul2808-5388c2a32c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1000a-ul2808-5388c2a32c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1200a-ul2808-ba52524bb0",
+      "name": "EM3500 series Split core CT, Large, .3V, 1200A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1200a-ul2808-ba52524bb0",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1200a-ul2808-ba52524bb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1200a-ul2808-ba52524bb0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1600a-ul2808-c143009072",
+      "name": "EM3500 series Split core CT, Large, .3V, 1600A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1600a-ul2808-c143009072",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1600a-ul2808-c143009072.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-1600a-ul2808-c143009072.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2000a-ul2808-2c62d1980e",
+      "name": "EM3500 series Split core CT, Large, .3V, 2000A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2000a-ul2808-2c62d1980e",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2000a-ul2808-2c62d1980e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2000a-ul2808-2c62d1980e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2400a-ul2808-2f92297aa1",
+      "name": "EM3500 series Split core CT, Large, .3V, 2400A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2400a-ul2808-2f92297aa1",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2400a-ul2808-2f92297aa1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-2400a-ul2808-2f92297aa1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-3v-800a-ul2808-010dc86329",
+      "name": "EM3500 series Split core CT, Large, .3V, 800A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-800a-ul2808-010dc86329",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-800a-ul2808-010dc86329.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-3v-800a-ul2808-010dc86329.json"
+    },
+    {
+      "id": "mfr-allen-bradley-193-esm-vig-30a-ct-8fedf5c550",
+      "name": "193 ESM VIG 30A CT",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-193-esm-vig-30a-ct-8fedf5c550",
+      "recordPath": "equipment/mfr-allen-bradley-193-esm-vig-30a-ct-8fedf5c550.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-193-esm-vig-30a-ct-8fedf5c550.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1200a-ul2808-c6be03aa9d",
+      "name": "EM3500 series Split core CT, Large, 5A, 1200A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1200a-ul2808-c6be03aa9d",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1200a-ul2808-c6be03aa9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1200a-ul2808-c6be03aa9d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1600a-ul2808-6976a509a1",
+      "name": "EM3500 series Split core CT, Large, 5A, 1600A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1600a-ul2808-6976a509a1",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1600a-ul2808-6976a509a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-1600a-ul2808-6976a509a1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2000a-ul2808-04d14ea2c5",
+      "name": "EM3500 series Split core CT, Large, 5A, 2000A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2000a-ul2808-04d14ea2c5",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2000a-ul2808-04d14ea2c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2000a-ul2808-04d14ea2c5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2400a-ul2808-34f0619786",
+      "name": "EM3500 series Split core CT, Large, 5A, 2400A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2400a-ul2808-34f0619786",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2400a-ul2808-34f0619786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-2400a-ul2808-34f0619786.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-large-5a-800a-ul2808-941e122b3e",
+      "name": "EM3500 series Split core CT, Large, 5A, 800A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-800a-ul2808-941e122b3e",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-800a-ul2808-941e122b3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-large-5a-800a-ul2808-941e122b3e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-medium-ul2808-06161ef2ec",
+      "name": "EM3500 series Split core CT, Medium UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-ul2808-06161ef2ec",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-ul2808-06161ef2ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-medium-ul2808-06161ef2ec.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-medium-3v-800a-ul2808-a76ca725c9",
+      "name": "EM3500 series Split core CT, Medium, .3V, 800A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-3v-800a-ul2808-a76ca725c9",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-3v-800a-ul2808-a76ca725c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-medium-3v-800a-ul2808-a76ca725c9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-600a-ul2808-cbe108d003",
+      "name": "EM3500 series Split core CT, Medium, 5A, 600A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-600a-ul2808-cbe108d003",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-600a-ul2808-cbe108d003.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-600a-ul2808-cbe108d003.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-800a-ul2808-4921f41e7e",
+      "name": "EM3500 series Split core CT, Medium, 5A, 800A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-800a-ul2808-4921f41e7e",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-800a-ul2808-4921f41e7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-medium-5a-800a-ul2808-4921f41e7e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-small-3v-100a-ul2808-0415ee6390",
+      "name": "EM3500 series Split core CT, Small, .3V, 100A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-100a-ul2808-0415ee6390",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-100a-ul2808-0415ee6390.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-100a-ul2808-0415ee6390.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-small-3v-200a-ul2808-946b069573",
+      "name": "EM3500 series Split core CT, Small, .3V, 200A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-200a-ul2808-946b069573",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-200a-ul2808-946b069573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-200a-ul2808-946b069573.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-small-3v-300a-ul2808-77282f9a49",
+      "name": "EM3500 series Split core CT, Small, .3V, 300A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-300a-ul2808-77282f9a49",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-300a-ul2808-77282f9a49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-300a-ul2808-77282f9a49.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-small-3v-400a-ul2808-3b944da98a",
+      "name": "EM3500 series Split core CT, Small, .3V, 400A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-400a-ul2808-3b944da98a",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-400a-ul2808-3b944da98a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-small-3v-400a-ul2808-3b944da98a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-small-5a-200a-ul2808-ad4fc1f79c",
+      "name": "EM3500 series Split core CT, Small, 5A, 200A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-5a-200a-ul2808-ad4fc1f79c",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-5a-200a-ul2808-ad4fc1f79c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-small-5a-200a-ul2808-ad4fc1f79c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-em3500-series-split-core-ct-small-5a-300a-ul2808-b9a93b8196",
+      "name": "EM3500 series Split core CT, Small, 5A, 300A UL2808",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-5a-300a-ul2808-b9a93b8196",
+      "recordPath": "equipment/mfr-schneider-electric-em3500-series-split-core-ct-small-5a-300a-ul2808-b9a93b8196.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-em3500-series-split-core-ct-small-5a-300a-ul2808-b9a93b8196.json"
+    },
+    {
+      "id": "mfr-schneider-electric-electro-relay-sensor-ct-a12d4de0ad",
+      "name": "Electro relay sensor CT",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-electro-relay-sensor-ct-a12d4de0ad",
+      "recordPath": "equipment/mfr-schneider-electric-electro-relay-sensor-ct-a12d4de0ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-electro-relay-sensor-ct-a12d4de0ad.json"
+    },
+    {
+      "id": "mfr-schneider-electric-electro-relay-sensor-ct-10-100a-cb9fe8c53d",
+      "name": "Electro relay sensor CT 10-100A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-electro-relay-sensor-ct-10-100a-cb9fe8c53d",
+      "recordPath": "equipment/mfr-schneider-electric-electro-relay-sensor-ct-10-100a-cb9fe8c53d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-electro-relay-sensor-ct-10-100a-cb9fe8c53d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-electro-relay-sensor-ct-7-70a-ee9bb82e68",
+      "name": "Electro relay sensor CT 7-70A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-electro-relay-sensor-ct-7-70a-ee9bb82e68",
+      "recordPath": "equipment/mfr-schneider-electric-electro-relay-sensor-ct-7-70a-ee9bb82e68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-electro-relay-sensor-ct-7-70a-ee9bb82e68.json"
+    },
+    {
+      "id": "mfr-schneider-electric-electro-relay-sensor-ct-horiz-5ffb6b834e",
+      "name": "Electro relay sensor CT Horiz",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-electro-relay-sensor-ct-horiz-5ffb6b834e",
+      "recordPath": "equipment/mfr-schneider-electric-electro-relay-sensor-ct-horiz-5ffb6b834e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-electro-relay-sensor-ct-horiz-5ffb6b834e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-electro-relay-sensor-ct-horiz-us-900d473e7f",
+      "name": "Electro relay sensor CT Horiz US",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-electro-relay-sensor-ct-horiz-us-900d473e7f",
+      "recordPath": "equipment/mfr-schneider-electric-electro-relay-sensor-ct-horiz-us-900d473e7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-electro-relay-sensor-ct-horiz-us-900d473e7f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-sc150-ct-capa-switch-controller-1-5-a-vpis-vds-ppacs-sensors-026d488f52",
+      "name": "PowerLogic SC150 CT-CAPA: Switch controller - 1/5 A - VPIS/VDS/PPACS sensors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-sc150-ct-capa-switch-controller-1-5-a-vpis-vds-ppacs-sensors-026d488f52",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-sc150-ct-capa-switch-controller-1-5-a-vpis-vds-ppacs-sensors-026d488f52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-sc150-ct-capa-switch-controller-1-5-a-vpis-vds-ppacs-sensors-026d488f52.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-sc150-ct-lpvt-vt-switch-controller-1-5-a-lpvt-vt-sensors-93f86c64bc",
+      "name": "PowerLogic SC150 CT-LPVT/VT: Switch controller - 1/5 A - LPVT/VT sensors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-sc150-ct-lpvt-vt-switch-controller-1-5-a-lpvt-vt-sensors-93f86c64bc",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-sc150-ct-lpvt-vt-switch-controller-1-5-a-lpvt-vt-sensors-93f86c64bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-sc150-ct-lpvt-vt-switch-controller-1-5-a-lpvt-vt-sensors-93f86c64bc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-sc150h-ct-capa-switch-controller-1-5a-vpis-vds-ppacs-sensors-974e646dcb",
+      "name": "PowerLogic SC150H CT-CAPA: Switch controller - 1/5A - VPIS/VDS/PPACS sensors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-sc150h-ct-capa-switch-controller-1-5a-vpis-vds-ppacs-sensors-974e646dcb",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-sc150h-ct-capa-switch-controller-1-5a-vpis-vds-ppacs-sensors-974e646dcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-sc150h-ct-capa-switch-controller-1-5a-vpis-vds-ppacs-sensors-974e646dcb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-sc150h-ct-lpvt-vt-horizontal-switch-controller-1-5a-lpvt-vt-sensors-5b45cfe470",
+      "name": "PowerLogic SC150H CT-LPVT/VT: Horizontal switch controller - 1/5A - LPVT/VT sensors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-sc150h-ct-lpvt-vt-horizontal-switch-controller-1-5a-lpvt-vt-sensors-5b45cfe470",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-sc150h-ct-lpvt-vt-horizontal-switch-controller-1-5a-lpvt-vt-sensors-5b45cfe470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-sc150h-ct-lpvt-vt-horizontal-switch-controller-1-5a-lpvt-vt-sensors-5b45cfe470.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-sc160-ct-lpvt-vt-e0a8d29df4",
+      "name": "PowerLogic SC160 CT- LPVT/VT",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-sc160-ct-lpvt-vt-e0a8d29df4",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-sc160-ct-lpvt-vt-e0a8d29df4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-sc160-ct-lpvt-vt-e0a8d29df4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-powerlogic-sc160h-ct-lpvt-vt-1046aa208f",
+      "name": "PowerLogic SC160H CT- LPVT/VT",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-sc160h-ct-lpvt-vt-1046aa208f",
+      "recordPath": "equipment/mfr-schneider-electric-powerlogic-sc160h-ct-lpvt-vt-1046aa208f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-sc160h-ct-lpvt-vt-1046aa208f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-steel-fs-accessories-2-earthing-collect-rail-supports-eae413f926",
+      "name": "Steel FS accessories - 2 earthing collect + rail supports",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-steel-fs-accessories-2-earthing-collect-rail-supports-eae413f926",
+      "recordPath": "equipment/mfr-schneider-electric-steel-fs-accessories-2-earthing-collect-rail-supports-eae413f926.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-steel-fs-accessories-2-earthing-collect-rail-supports-eae413f926.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-additional-earthing-block-20-a-for-vn12-vn-20-049c1ae81d",
+      "name": "TeSys Mini-VARIO - additional earthing block -20 A - for VN12, VN-20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-additional-earthing-block-20-a-for-vn12-vn-20-049c1ae81d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-additional-earthing-block-20-a-for-vn12-vn-20-049c1ae81d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-additional-earthing-block-20-a-for-vn12-vn-20-049c1ae81d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-t-current-transformer-tesys-t-lt6ct-d8bca49733",
+      "name": "TeSys T - Current transformer TeSys T LT6CT",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-t-current-transformer-tesys-t-lt6ct-d8bca49733",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-t-current-transformer-tesys-t-lt6ct-d8bca49733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-t-current-transformer-tesys-t-lt6ct-d8bca49733.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-u-current-transformer-for-tesys-u-xx-1-a-4931702d35",
+      "name": "TeSys U - Current transformer - for TeSys U - XX/1 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-u-current-transformer-for-tesys-u-xx-1-a-4931702d35",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-u-current-transformer-for-tesys-u-xx-1-a-4931702d35.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-u-current-transformer-for-tesys-u-xx-1-a-4931702d35.json"
     }
   ]
 }

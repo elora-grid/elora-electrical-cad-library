@@ -8,7 +8,7 @@ ABB 42LYE245\_27.69: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 42LYE245\_27.69; 42LYE245
-- Formats: DWG, IGS, PDF, SAT, SLDPRT
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “42LYE245\_27.69”. Keep those frame, mounting 
 - Document revision: C
 - Drawing views (42LYE245.pdf, page 1): drive end detail
 - Manufacturer reference: 42LYE245
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=42LYE245_27.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1101958 bytes
 - Delivery SHA-256: bd6213fc13485a08c1b43f6008a52a5589be56ed15a11929cdf5aee62c050395
+
+### 42LYE245\_27.69.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (42LYE245\_27.69.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=42LYE245_27.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-42lye245-27-69-dwg-2d-autocad-dwg-2000-3e84b13de8/bd6213fc13485a08c1b4-dxf)
+- Redistribution: unknown
+- Original SHA-256: bd6213fc13485a08c1b43f6008a52a5589be56ed15a11929cdf5aee62c050395
+- Original bytes: 1101958
+- Revision: C
+- Retrieved: 2026-11-04T01:00:57Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=42LYE245_27.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=42LYE245_27.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 3564315 bytes
+- Delivery SHA-256: 50ab913f1205a282376c0f0c024942efd0666adb6e99fe7b4be6936eca634661
 
 ### 42LYE245.pdf
 

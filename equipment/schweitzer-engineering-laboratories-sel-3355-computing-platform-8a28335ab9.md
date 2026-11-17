@@ -23,6 +23,7 @@ Manufacturer reference SEL-3355 Computing Platform identifies this protection or
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-3355 Computing Platform
+- Standards: IEEE 1613, IEEE C37.90, IEC 60255
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -27,6 +27,7 @@ The supplied configuration is “OT1600E03N3P”. Keep those frame, mounting and
 - Manufacturer reference: OT1600E03N3P.STP
 - Document revision: A
 - Model envelope: ot1600e03n3p.stp: 372 × 314.5 × 334.5 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -8,7 +8,7 @@ ABB XT2 4p FIXED RC: breaker or breaker-accessory reference for breaker compartm
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0274
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p FIXED RC”. Keep those frame, mounting 
 - Manufacturer reference: 1SDH001295R0274
 - Document revision: A
 - Model envelope: 1SDH001295R0274\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIFFERENZIALE.stp: 120 × 90.5 × 91 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0274&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 389372 bytes
 - Delivery SHA-256: 37deab5be41a5273306ebb5594b23ffe35e71684210de7f7246e31f3eaf7b0b1
+
+### 1SDH001295R0274\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIFFERENZIALE.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0274\_1PA\_001\_00\_XT2\_4P\_FIXED\_DIFFERENZIALE.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0274&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-rc-4fbba2c8e6/37deab5be41a5273306e-dxf)
+- Redistribution: unknown
+- Original SHA-256: 37deab5be41a5273306ebb5594b23ffe35e71684210de7f7246e31f3eaf7b0b1
+- Original bytes: 389372
+- Revision: A
+- Retrieved: 2026-11-03T01:50:24.951230Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0274&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0274&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 77903 bytes
+- Delivery SHA-256: efd4e1f87bbb5392c7f02cdf353508c227842d53a3457fa9eac81a76b9c30e18
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

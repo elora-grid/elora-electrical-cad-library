@@ -9,7 +9,7 @@ XT7-XT7M 3P Fixed FC CuAl 2x240mm2 bottom: ABB manufacturer STEP resource, docum
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1378
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT7-XT7M 3P Fixed FC CuAl 2x240mm2 bottom; ABB doc
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1378
 - Model extents (X × Y × Z, mm): 193.0 × 58.3 × 28.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1378&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 792430 bytes
 - Delivery SHA-256: a720891d6c527028cbe1bac668a5f560ea4549511ef39b11debe2795eab5fe7e
+
+### 1SDH002065A1378\_XT7\_XT7M\_3P\_Fixed\_FC\_CuAl\_2x240mm2\_bottom.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1378\_XT7\_XT7M\_3P\_Fixed\_FC\_CuAl\_2x240mm2\_bottom.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1378&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-fixed-fc-cual-2x240mm2-bottom-b137ce95/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: a720891d6c527028cbe1bac668a5f560ea4549511ef39b11debe2795eab5fe7e
+- Original bytes: 792430
+- Revision: A
+- Retrieved: 2026-11-03T01:36:06.471848+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1378&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1378&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 161474 bytes
+- Delivery SHA-256: a90cc2397fc0bad2c8bb0fe31bfc4ff4abc4c735dc1cdd3b348dcb70b46ac03c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -26,6 +26,7 @@ Manufacturer reference option-d-arc-protection-4189341408-uk.pdf; mvr-200-series
 - Source configurations grouped on this page: MVR-F2xx; MVR-G2xx; MVR-T2xx
 - Manufacturer reference: option-d-arc-protection-4189341408-uk.pdf; mvr-200-series-autocad-dimensions-and-faceplates.zip; mvr-21x-3d-step-file.stp; mvr-21x-2d-cad-drawing.dwg
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-26, IEC 61000-6-4, IEC 60255-27, IEC 60255-1, IEC 60529
 - Listed file formats: DWG, PDF, STEP, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

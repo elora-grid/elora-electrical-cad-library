@@ -1,0 +1,132 @@
+# ABB — OS100GJ12
+
+ABB OS100GJ12: original DXF / IGES for switching or transfer equipment layouts. OS100GJ12, OS100GJ12P, dxf-file, 1SCC301848F0001.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100gj12-ac2ca6d5cb) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100gj12-ac2ca6d5cb.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100gj12-ac2ca6d5cb.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: DXF, IGES
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+OS100GJ12, OS100GJ12P, dxf-file, 1SCC301848F0001
+
+## Equipment and file summary
+
+- Equipment / resource: OS100GJ12
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: OS100GJ12, OS100GJ12P, dxf-file, 1SCC301848F0001
+- Manufacturer drawing identity: OS100GJ12
+- Source document: 1SCC301848F0001; revision A
+- Source document: OS100GJ12.IGS; revision A
+- Source-model envelope: 220 × 104.5 × 167 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, IGES
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: OS100GJ12, OS100GJ12P, dxf-file, 1SCC301848F0001 ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OS100GJ12 ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SCC301848F0001; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source document: OS100GJ12.IGS; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100GJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 220 × 104.5 × 167 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100GJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 1SCC301848F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC301848F0001.dxf.
+
+Use 1SCC301848F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC301848F0001.dxf. Use OS100GJ12.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS100GJ12.IGS.igs.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: OS100GJ12, OS100GJ12P, dxf-file, 1SCC301848F0001
+- The supplied model has approximate X × Y × Z bounds of 220 × 104.5 × 167 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SCC301848F0001.dxf — A; OS100GJ12.IGS.igs — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OS100GJ12?
+
+2 inspected originals for ABB OS100GJ12: 1SCC301848F0001.dxf (DXF); OS100GJ12.IGS.igs (IGES). The manufacturer describes this configuration as OS100GJ12, OS100GJ12P, dxf-file, 1SCC301848F0001.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SCC301848F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC301848F0001.dxf. Use OS100GJ12.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS100GJ12.IGS.igs.
+
+## Preview
+
+![ABB OS100GJ12: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-os100gj12-ac2ca6d5cb/abb-3969703ccf2dd7e2740e?asset=38b54575f35a61d764af3ef7ee84a8377f5bd88a2aa29d0fcbf0e7e97f8fc007&view=thumb&v=b6c66d1548573571)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100gj12-ac2ca6d5cb). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SCC301848F0001.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os100gj12-ac2ca6d5cb/abb-82d088803dd64d4f5c85)
+- Redistribution: unknown
+- Original SHA-256: d9c194a6f1c84d0513788c20e9a543f3b29fec56d41a5197fa2819b13216db8f
+- Original bytes: 2281770
+- Revision: A
+- Retrieved: 2026-11-11T06:21:05.434689+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301848F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 284208 bytes
+- Delivery SHA-256: b692aea0f534496a9d85f4f6853a4a1aa2ff7f004ee68399affb3e3a73416c5e
+
+### OS100GJ12.IGS.igs
+
+- Format: IGES
+- Purpose: Original manufacturer IGES geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OS100GJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os100gj12-ac2ca6d5cb/abb-3969703ccf2dd7e2740e)
+- Redistribution: unknown
+- Original SHA-256: 38b54575f35a61d764af3ef7ee84a8377f5bd88a2aa29d0fcbf0e7e97f8fc007
+- Original bytes: 3082134
+- Revision: A
+- Retrieved: 2026-11-11T06:29:56.788345+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS100GJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS100GJ12.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 397419 bytes
+- Delivery SHA-256: 4a1dd43e6ec4546a65b4d258ea9f41c6f4e41c068ce695e9baed00a9e50f84c0
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

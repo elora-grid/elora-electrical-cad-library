@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: InteliGen 1000 CAD and EPLAN
 - Manufacturer: ComAp
 - Resource type: Manufacturer library
+- Standards: EN 50549, IEEE 1547, IEC 61000-6-2, UL 6200
 - Listed file formats: CAD package, EPLAN
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

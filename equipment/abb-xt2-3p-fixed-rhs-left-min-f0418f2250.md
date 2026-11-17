@@ -8,7 +8,7 @@ ABB XT2 3p Fixed RHS left min: breaker or breaker-accessory reference for breake
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0831
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT2 3p Fixed RHS left min”. Keep those frame,
 - Model envelope: 1SDH001295R0831.stp: 159.7 × 117.3 × 75.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0839
 - Model envelope: 1SDH001295R0839.stp: 159.7 × 117.3 × 75.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 7834335 bytes
 - Delivery SHA-256: 951397d1d33045a2b95ebd69a60168f5eac9d3580193133e76466fcba6461ec4
 
+### 1SDH001295R0831.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0831.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0831&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-3p-fixed-rhs-left-min-f0418f2250/951397d1d33045a2b95e-dxf)
+- Redistribution: unknown
+- Original SHA-256: 951397d1d33045a2b95ebd69a60168f5eac9d3580193133e76466fcba6461ec4
+- Original bytes: 7834335
+- Revision: A
+- Retrieved: 2026-11-03T02:12:23.723048Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0831&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0831&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 981986 bytes
+- Delivery SHA-256: 1d81e80dc6ebab8acd2445f3f887c90a7e0d3b35bc445adf74b69eb2225c7587
+
 ### 1SDH001295R0839.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0839&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 7834335 bytes
 - Delivery SHA-256: e810b6d8c5ef557b79762419bc450aeffacae574f6d88ea34cbedff72abffa5f
+
+### 1SDH001295R0839.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0839.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0839&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-3p-fixed-rhs-left-min-f0418f2250/e810b6d8c5ef557b7976-dxf)
+- Redistribution: unknown
+- Original SHA-256: e810b6d8c5ef557b79762419bc450aeffacae574f6d88ea34cbedff72abffa5f
+- Original bytes: 7834335
+- Revision: A
+- Retrieved: 2026-11-03T02:12:25.598741Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0839&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0839&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 981986 bytes
+- Delivery SHA-256: 8590375323e47e2f77b468ac21b9961f641640cc488b5d6e8d30a94968a457c9
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

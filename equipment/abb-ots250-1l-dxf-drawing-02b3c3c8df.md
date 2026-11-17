@@ -27,7 +27,7 @@ The supplied configuration is “OTS250\_1L, DXF-drawing”. Keep those frame, m
 - Document revision: A
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC390262F0201.dxf revision A for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OTS250\_1L, DXF-drawing: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ots250-1l-dxf-drawing-02b3c3c8df/a63c41a08eb658505a16?asset=a63c41a08eb658505a165d1e0e58b8b8fde5a1cb8edb5c2dbf99b4248d2cbcad)
+![ABB OTS250\_1L, DXF-drawing: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ots250-1l-dxf-drawing-02b3c3c8df/a63c41a08eb658505a16?asset=a63c41a08eb658505a165d1e0e58b8b8fde5a1cb8edb5c2dbf99b4248d2cbcad&view=thumb&v=e8dec767838145b2)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ots250-1l-dxf-drawing-02b3c3c8df). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

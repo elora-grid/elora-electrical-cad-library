@@ -9,7 +9,7 @@ XT5 3p 4p Flange for circuit-breaker: ABB manufacturer STEP resource, document 1
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1563
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT5 3p 4p Flange for circuit-breaker; ABB document
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1563
 - Model extents (X × Y × Z, mm): 198.5 × 11.0 × 177.1
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1563&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1152742 bytes
 - Delivery SHA-256: a3b504530dda77317d22aba72061c93d2609d7931acde8c0a09dc6f38731e5bc
+
+### 1SDH002065A1563\_XT5\_3p\_4p\_Flange\_for\_circuit\_breaker.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1563\_XT5\_3p\_4p\_Flange\_for\_circuit\_breaker.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1563&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-flange-for-circuit-breaker-517d59b4/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: a3b504530dda77317d22aba72061c93d2609d7931acde8c0a09dc6f38731e5bc
+- Original bytes: 1152742
+- Revision: A
+- Retrieved: 2026-11-03T01:34:58.737401+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1563&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1563&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 384383 bytes
+- Delivery SHA-256: e463b3e6d8049a91b5607e9865d6406fd8f5054aa9bfefd65c407c1395e56dde
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

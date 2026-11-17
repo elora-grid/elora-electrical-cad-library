@@ -25,6 +25,7 @@ The supplied configuration is “OT630ES04 OT800ES04 OT600US04”. Keep those fr
 - Manufacturer drawing: 1SCC301674F0001
 - Manufacturer reference: 1SCC301674F0001
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DWG
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

@@ -1,0 +1,102 @@
+# ABB — MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter
+
+ABB MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter: original PDF for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ms116-manual-motor-starter-bea16-3-connection-link-2-x-as-l-contactors-ber16c-3-connection-set-for-re-d65498f6b5) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ms116-manual-motor-starter-bea16-3-connection-link-2-x-as-l-contactors-ber16c-3-connection-set-for-re-d65498f6b5.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ms116-manual-motor-starter-bea16-3-connection-link-2-x-as-l-contactors-ber16c-3-connection-set-for-re-d65498f6b5.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter.
+
+## Equipment and file summary
+
+- Equipment / resource: MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter
+- Source document: 1SBB900509D3501.PDF
+- Listed file formats: PDF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SBB900509D3501.PDF ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-))
+
+## What the equipment does
+
+A manual motor starter lets a person switch a motor locally and provides the protection functions included in the selected device.
+
+Use 1SBB900509D3501.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+Use 1SBB900509D3501.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter?
+
+1 inspected original for ABB MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter: 1SBB900509D3501.PDF.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SBB900509D3501.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB MS116 Manual Motor Starter + BEA16-3 Connection link + 2 x AS(L).. Contactors + BER16C-3 Connection Set for Reversing Starter: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-ms116-manual-motor-starter-bea16-3-connection-link-2-x-as-l-contactors-ber16c-3-connection-set-for-re-d65498f6b5/abb-ab23a130c8266de1b53f?asset=f3d7b4b7ab932ed88ba8519c2c114788cc4f275b824ac36f197936e3130420c7)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ms116-manual-motor-starter-bea16-3-connection-link-2-x-as-l-contactors-ber16c-3-connection-set-for-re-d65498f6b5). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SBB900509D3501.PDF.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ms116-manual-motor-starter-bea16-3-connection-link-2-x-as-l-contactors-ber16c-3-connection-set-for-re-d65498f6b5/abb-ab23a130c8266de1b53f)
+- Redistribution: unknown
+- Original SHA-256: ab5464a5faed2f4b936e8c21dcd8f21e06cc5309921e03226f4748f21d8e2d82
+- Original bytes: 249170
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:47:25.079884+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SBB900509D3501.PDF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: original; PDF; 249170 bytes
+- Delivery SHA-256: ab5464a5faed2f4b936e8c21dcd8f21e06cc5309921e03226f4748f21d8e2d82
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

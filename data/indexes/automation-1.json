@@ -518,7 +518,9 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STP"
+        "STP",
+        "DXF",
+        "STEP"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-adxl0060600",
       "recordPath": "equipment/europe-lovato-adxl0060600.md",
@@ -530,7 +532,9 @@
       "manufacturer": "LOVATO Electric",
       "formats": [
         "DWG",
-        "STP"
+        "STP",
+        "DXF",
+        "STEP"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/europe-lovato-hr6xs41s",
       "recordPath": "equipment/europe-lovato-hr6xs41s.md",

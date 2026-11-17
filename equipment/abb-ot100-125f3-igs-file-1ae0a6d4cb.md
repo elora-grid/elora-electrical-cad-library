@@ -27,6 +27,7 @@ The supplied configuration is “OT100-125F3”. Keep those frame, mounting and 
 - Manufacturer reference: OT100-125F3.IGS
 - Document revision: -
 - Model envelope: OT100-125F3.IGS.stp: 70 × 100 × 74 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3, UL 98, CSA C22.2 No. 4
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

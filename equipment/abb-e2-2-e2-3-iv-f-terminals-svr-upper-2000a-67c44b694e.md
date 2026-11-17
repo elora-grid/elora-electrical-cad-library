@@ -8,7 +8,7 @@ ABB E2.2/E2.3 IV F TERMINALS SVR UPPER 2000A: breaker connection or accessory re
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0138
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ This reference covers the connection or accessory named in “E2.2/E2.3 IV F TER
 - Model envelope: 1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.stp: 315 × 78.4 × 100 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001252R0157
 - Model envelope: 1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.stp: 315 × 78.4 × 100 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 751808 bytes
 - Delivery SHA-256: ebc473f5d1b70385d9dbdddaf0aadb765c974da5973d5f1e2b98aa5e26b07848
 
+### 1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0138\_1PA\_001\_01\_E2.2\_IV\_F\_TERMINALS\_SVR\_UPPER\_2000A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0138&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e/ebc473f5d1b70385d9db-dxf)
+- Redistribution: unknown
+- Original SHA-256: ebc473f5d1b70385d9dbdddaf0aadb765c974da5973d5f1e2b98aa5e26b07848
+- Original bytes: 751808
+- Revision: A
+- Retrieved: 2026-11-03T01:53:28.809726Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0138&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0138&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 157499 bytes
+- Delivery SHA-256: b28b6fa906afc60d7f4c81c60c5efae2fc341f355d6b8ff86e1de012d54e67c4
+
 ### 1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.stp
 
 - Format: STEP
@@ -130,5 +149,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0157&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 751817 bytes
 - Delivery SHA-256: 2b475a4faa633970c9894d9c4304b98635a73a8b9213cd82ba19d89a5b42d454
+
+### 1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0157\_1PA\_001\_00\_E2.2\_IV\_W\_TERMINALS\_SVR\_UPPER\_2000A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0157&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-f-terminals-svr-upper-2000a-67c44b694e/2b475a4faa633970c989-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2b475a4faa633970c9894d9c4304b98635a73a8b9213cd82ba19d89a5b42d454
+- Original bytes: 751817
+- Revision: A
+- Retrieved: 2026-11-03T01:53:31.053423Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0157&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0157&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 157499 bytes
+- Delivery SHA-256: aabe31870bc143b4a3339ae7f53de7acd79b2aa1b3efc07ee3cae85c92a75294
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,122 @@
+# LOVATO Electric — BFX1002 — Auxiliary contacts 2NC, front centre mounting
+
+LOVATO Electric BFX1002 — Auxiliary contacts 2NC, front centre mounting. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-506220998bdb30d1c5f0847f) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-506220998bdb30d1c5f0847f.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-506220998bdb30d1c5f0847f.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/BFX1002/BFX1002/snp)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: BFX1002
+- Formats: DWG, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: BFX1002 — Auxiliary contacts 2NC, front centre mounting
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: BFX1002
+- Manufacturer reference: BFX1002
+- Available native formats: DWG / DXF
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: BFX1002 ([source](https://catalogue.lovatoelectric.com/gl_en/BFX1002/BFX1002/snp))
+- Available native formats: DWG / DXF ([source](https://catalogue.lovatoelectric.com/gl_en/BFX1002/BFX1002/snp))
+
+## What the equipment does
+
+An auxiliary contact reports a device's state or provides a related control connection. It is separate from the main power contacts.
+
+Use 2d\_BFX1002.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_BFX1002.dwg.
+
+Use 2d\_BFX1002.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_BFX1002.dwg. Use 2D\_STY\_029.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_029.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric BFX1002 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for BFX1002 — Auxiliary contacts 2NC, front centre mounting?
+
+2 inspected originals for LOVATO Electric BFX1002 — Auxiliary contacts 2NC, front centre mounting: 2d\_BFX1002.dwg (DWG); 2D\_STY\_029.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/BFX1002/BFX1002/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/BFX1002/BFX1002/snp)
+
+## Choosing a file
+
+Use 2d\_BFX1002.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_BFX1002.dwg. Use 2D\_STY\_029.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_029.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric BFX1002 — Auxiliary contacts 2NC, front centre mounting: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-506220998bdb30d1c5f0847f/native-dfba69795249933bda19b45f-dxf?asset=dfba69795249933bda19b45f7e73eacf02a8a7c317afa1badd8ddab9504d6ea6)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-506220998bdb30d1c5f0847f). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_BFX1002.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_BFX1002.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-506220998bdb30d1c5f0847f/native-51d7a9030c564bd77bde94a0-dwg)
+- Redistribution: unknown
+- Original SHA-256: 51d7a9030c564bd77bde94a05d55ffd0c25caf469efa9275981fa3ec35b41a3b
+- Original bytes: 94733
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_BFX1002.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_BFX1002.dwg)
+- Delivery: source-bundle; ZIP; 31425 bytes
+- Delivery SHA-256: 066896b6dd9f590087f066b7aef0c6c6c9a2ee3f95254f9f9efaf2b6214375b3
+
+### 2D\_STY\_029.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-506220998bdb30d1c5f0847f/native-dfba69795249933bda19b45f-dxf)
+- Redistribution: unknown
+- Original SHA-256: dfba69795249933bda19b45f7e73eacf02a8a7c317afa1badd8ddab9504d6ea6
+- Original bytes: 340988
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 39687 bytes
+- Delivery SHA-256: 340008e81412dc907e58364e048a638d0ce8b38c55524cfaf82e51fe36c9055e
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

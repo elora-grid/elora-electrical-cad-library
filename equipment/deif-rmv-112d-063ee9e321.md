@@ -26,6 +26,7 @@ Manufacturer reference rmv-112-122-132d-data-sheet-4921240096-fr.pdf; rmv-112-12
 - Source configurations grouped on this page: RMV-112D; RMV-122D; RMV-132D
 - Manufacturer reference: rmv-112-122-132d-data-sheet-4921240096-fr.pdf; rmv-112-122-132d-data-sheet-4921240096-uk.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip; rmv-112-122-132d-datenblatt-4921240096-de.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

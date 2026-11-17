@@ -1,0 +1,132 @@
+# ABB — OS60GJ40
+
+ABB OS60GJ40: original DXF / IGES for switching or transfer equipment layouts. OS60GJ40, OS60GJ40P, dxf-file, 1SCC301802F0001.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os60gj40-aeffc7b3a0) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os60gj40-aeffc7b3a0.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os60gj40-aeffc7b3a0.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: DXF, IGES
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+OS60GJ40, OS60GJ40P, dxf-file, 1SCC301802F0001
+
+## Equipment and file summary
+
+- Equipment / resource: OS60GJ40
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: OS60GJ40, OS60GJ40P, dxf-file, 1SCC301802F0001
+- Manufacturer drawing identity: OS60GJ40
+- Source document: 1SCC301802F0001; revision A
+- Source document: OS60GJ40.IGS; revision A
+- Source-model envelope: 220 × 116.5 × 223.8 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, IGES
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: OS60GJ40, OS60GJ40P, dxf-file, 1SCC301802F0001 ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OS60GJ40 ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SCC301802F0001; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source document: OS60GJ40.IGS; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS60GJ40.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 220 × 116.5 × 223.8 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS60GJ40.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 1SCC301802F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC301802F0001.dxf.
+
+Use 1SCC301802F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC301802F0001.dxf. Use OS60GJ40.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS60GJ40.IGS.igs.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: OS60GJ40, OS60GJ40P, dxf-file, 1SCC301802F0001
+- The supplied model has approximate X × Y × Z bounds of 220 × 116.5 × 223.8 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SCC301802F0001.dxf — A; OS60GJ40.IGS.igs — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OS60GJ40?
+
+2 inspected originals for ABB OS60GJ40: 1SCC301802F0001.dxf (DXF); OS60GJ40.IGS.igs (IGES). The manufacturer describes this configuration as OS60GJ40, OS60GJ40P, dxf-file, 1SCC301802F0001.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SCC301802F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC301802F0001.dxf. Use OS60GJ40.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OS60GJ40.IGS.igs.
+
+## Preview
+
+![ABB OS60GJ40: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-os60gj40-aeffc7b3a0/abb-29af13671ff9d803a3a9?asset=654e8bd34dbfdea37ecc2d5e90ae4684e88dfbdc11b776e701f1ca067a4f8bd5&view=thumb&v=476d974b98df83a1)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os60gj40-aeffc7b3a0). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SCC301802F0001.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os60gj40-aeffc7b3a0/abb-e012b42c46d0d648fd19)
+- Redistribution: unknown
+- Original SHA-256: 6e11c7c20d113c16a3f71d5250043d38a3d61d2f3ec0d20f0020a3d0359b7c01
+- Original bytes: 2921789
+- Revision: A
+- Retrieved: 2026-11-11T06:25:54.906280+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC301802F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 346341 bytes
+- Delivery SHA-256: 6d3944b054e41c00a80a90d0befc735a24fea5615043003a65344c8d8a75a1c6
+
+### OS60GJ40.IGS.igs
+
+- Format: IGES
+- Purpose: Original manufacturer IGES geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OS60GJ40.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os60gj40-aeffc7b3a0/abb-29af13671ff9d803a3a9)
+- Redistribution: unknown
+- Original SHA-256: 654e8bd34dbfdea37ecc2d5e90ae4684e88dfbdc11b776e701f1ca067a4f8bd5
+- Original bytes: 3721160
+- Revision: A
+- Retrieved: 2026-11-11T07:53:34.745942+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS60GJ40.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS60GJ40.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 477448 bytes
+- Delivery SHA-256: 01b7d02648ec6135d5758dcea5561822021e96b5aa73750596873a6c736ba8ad
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

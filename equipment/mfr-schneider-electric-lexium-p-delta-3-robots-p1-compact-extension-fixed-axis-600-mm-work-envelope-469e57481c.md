@@ -1,0 +1,118 @@
+# Schneider Electric — Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope
+
+Schneider Electric Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope. Retained manufacturer CAD files and drawings for breakers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/MCADID0002004_3D-CAD/)
+
+- Category: Breakers & accessories
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope
+- Manufacturer: Schneider Electric
+- Resource type: Product family
+- Available native formats: DXF / STEP
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DXF / STEP ([source](https://www.se.com/us/en/download/document/MCADID0002004_3D-CAD/))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use MCADID0002004\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified MCADID0002004\_2D-front.dxf.
+
+Use MCADID0002004\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified MCADID0002004\_2D-front.dxf. Use MCADID0002004\_3D-simplified.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified MCADID0002004\_3D-simplified.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope?
+
+2 inspected originals for Schneider Electric Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope: MCADID0002004\_2D-front.dxf (DXF); MCADID0002004\_3D-simplified.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/MCADID0002004\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/MCADID0002004_3D-CAD/)
+
+## Choosing a file
+
+Use MCADID0002004\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified MCADID0002004\_2D-front.dxf. Use MCADID0002004\_3D-simplified.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified MCADID0002004\_3D-simplified.stp.
+
+## Preview
+
+![Schneider Electric Lexium P, Delta 3 robots, P1 compact extension, fixed axis, 600 mm work envelope: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c/native-158300ca9efb6dba359a644f-dxf?asset=158300ca9efb6dba359a644fd0e862c416138b2437837eca5d774763eed3213a)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### MCADID0002004\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Manufacturer DXF CAD file
+- [Official source](https://download.se.com/files?p_File_Name=MCADID0002004_2D-front.dxf&p_Doc_Ref=MCADID0002004_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c/native-158300ca9efb6dba359a644f-dxf)
+- Redistribution: unknown
+- Original SHA-256: 158300ca9efb6dba359a644fd0e862c416138b2437837eca5d774763eed3213a
+- Original bytes: 607081
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://download.se.com/files?p_File_Name=MCADID0002004_2D-front.dxf&p_Doc_Ref=MCADID0002004_3D-CAD&p_enDocType=CAD)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.se.com/files?p_File_Name=MCADID0002004_2D-front.dxf&p_Doc_Ref=MCADID0002004_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 110055 bytes
+- Delivery SHA-256: 0b5d703885fa9f04e6da05227113108435eb402ccc5cb41f240f33d96327543e
+
+### MCADID0002004\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://download.se.com/files?p_File_Name=MCADID0002004_3D-simplified.stp&p_Doc_Ref=MCADID0002004_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-lexium-p-delta-3-robots-p1-compact-extension-fixed-axis-600-mm-work-envelope-469e57481c/native-817eca7c2c98bbfd150647b3-step)
+- Redistribution: unknown
+- Original SHA-256: 817eca7c2c98bbfd150647b38f02d058706e4cbb70b3e068c497756321853245
+- Original bytes: 20333309
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://download.se.com/files?p_File_Name=MCADID0002004_3D-simplified.stp&p_Doc_Ref=MCADID0002004_3D-CAD&p_enDocType=CAD)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.se.com/files?p_File_Name=MCADID0002004_3D-simplified.stp&p_Doc_Ref=MCADID0002004_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 4195273 bytes
+- Delivery SHA-256: c2e73d3538ecb5115fc3142268576083b340f7ad1bb4fc1a74d31a80e25a39b7
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

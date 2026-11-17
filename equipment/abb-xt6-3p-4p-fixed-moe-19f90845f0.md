@@ -8,7 +8,7 @@ ABB XT6 3p 4p Fixed MOE: breaker or breaker-accessory reference for breaker comp
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1256
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p 4p Fixed MOE”. Keep those frame, mount
 - Manufacturer reference: 1SDH002065A1256
 - Document revision: A
 - Model envelope: 1SDH002065A1256\_XT6\_3p\_4p\_Fixed\_MOE.stp: 133.1 × 210.6 × 151.2 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1256&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 3284913 bytes
 - Delivery SHA-256: 44abc19cf8074500af125c38746b66970671719f2a50af7e55e7c043e026aaf1
+
+### 1SDH002065A1256\_XT6\_3p\_4p\_Fixed\_MOE.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1256\_XT6\_3p\_4p\_Fixed\_MOE.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1256&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-fixed-moe-19f90845f0/44abc19cf8074500af12-dxf)
+- Redistribution: unknown
+- Original SHA-256: 44abc19cf8074500af125c38746b66970671719f2a50af7e55e7c043e026aaf1
+- Original bytes: 3284913
+- Revision: A
+- Retrieved: 2026-11-03T01:58:31.229514Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1256&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1256&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 647222 bytes
+- Delivery SHA-256: 8161f1f9b52f2a33d1ae2ee8778ee2ba77ac19cd79dc4ac094e6440c9c109fbd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

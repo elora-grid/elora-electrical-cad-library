@@ -9,7 +9,7 @@ E2.2 III W FLOOR - UL: ABB manufacturer STEP resource, document 1SDH001336R0106,
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0106
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E2.2 III W FLOOR - UL; ABB document 1SDH001336R010
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001336R0106
 - Model extents (X × Y × Z, mm): 320.0 × 350.0 × 10.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0106&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 30433 bytes
 - Delivery SHA-256: 9135e3c10a837f28831e0406fa8e64cc5ce308727c9ff8f3de728afa29a0feaa
+
+### 1SDH001336R0106\_1PA\_001\_00\_E2.2\_III\_W\_FLOOR\_FIXING\_UL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0106\_1PA\_001\_00\_E2.2\_III\_W\_FLOOR\_FIXING\_UL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0106&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-iii-w-floor-ul-9a62ff06/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9135e3c10a837f28831e0406fa8e64cc5ce308727c9ff8f3de728afa29a0feaa
+- Original bytes: 30433
+- Revision: A
+- Retrieved: 2026-11-03T01:33:22.870598+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0106&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0106&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 30667 bytes
+- Delivery SHA-256: 587d84d85b1e089cb85dd8060a0937cb80c1e7160b6798258b4b0766d2e7975b
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

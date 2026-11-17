@@ -32,6 +32,7 @@ Use the 1550 HT column on PDF page 13. The download is the complete catalogue, n
 - Diameter Db (in): 8.7
 - Cantilever Strength, Upright, Pounds: 1700
 - Impulse Withstand, kV: 1550
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

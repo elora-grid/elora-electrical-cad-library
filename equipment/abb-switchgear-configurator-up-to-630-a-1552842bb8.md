@@ -8,7 +8,7 @@ ABB Switchgear Configurator up to 630 A: switchboard or switchgear reference for
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK105713A7750
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ Manufacturer reference 9AKK105713A7750 identifies this switchboard or switchgear
 - Manufacturer drawing: 9AKK105713A7750
 - Manufacturer reference: 9AKK105713A7750
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7750&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 3317570 bytes
 - Delivery SHA-256: 042190a4e52b957db581a375076199672a436e9b82253e5266b26705fdfbcc85
+
+### ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (ABB\_Konfiguracja\_rozdzielnic\_do\_630A\_v2015.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7750&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-switchgear-configurator-up-to-630-a-1552842bb8/042190a4e52b957db581-dxf)
+- Redistribution: unknown
+- Original SHA-256: 042190a4e52b957db581a375076199672a436e9b82253e5266b26705fdfbcc85
+- Original bytes: 3317570
+- Revision: A
+- Retrieved: 2026-11-04T01:05:02Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7750&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7750&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 23498588 bytes
+- Delivery SHA-256: 5e78847caf932d2f42527b37dc2e6e78a4b73923ec43bfb111619da33bf60422
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

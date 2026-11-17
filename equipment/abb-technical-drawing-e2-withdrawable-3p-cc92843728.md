@@ -25,6 +25,7 @@ The supplied configuration is “Technical drawing - E2 Withdrawable 3p”. Keep
 - Manufacturer drawing: ITSCE-601933807
 - Manufacturer reference: ITSCE-601933807
 - Document revision: E
+- Standards: IEC 60947-2, IEC 61000
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

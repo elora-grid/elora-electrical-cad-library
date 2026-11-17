@@ -25,6 +25,7 @@ Manufacturer reference sgc-120-data-sheet-4921240630-uk.pdf identifies this cont
 - Manufacturer drawing: sgc-120-data-sheet-4921240630-uk.pdf
 - Manufacturer reference: sgc-120-data-sheet-4921240630-uk.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60529, IEC 61000-6-2, IEC 61010-1, UL 6200
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

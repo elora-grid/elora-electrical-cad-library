@@ -8,7 +8,7 @@ ABB XT7-XT7M 3P Fixed FC CuAl 4x240mm2 top: breaker or breaker-accessory referen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1362
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT7-XT7M 3P Fixed FC CuAl 4x240mm2 top”. Keep
 - Manufacturer reference: 1SDH002065A1362
 - Document revision: A
 - Model envelope: 1SDH002065A1362\_XT7\_XT7M\_3P\_Fixed\_FC\_CuAl\_4x240mm2\_top.stp: 250.4 × 88 × 150.7 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1362&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1305754 bytes
 - Delivery SHA-256: 751d472486d9e98c0ee5edcf5e7a82aa7cc641947a9a6df81beeb7f2692d378f
+
+### 1SDH002065A1362\_XT7\_XT7M\_3P\_Fixed\_FC\_CuAl\_4x240mm2\_top.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1362\_XT7\_XT7M\_3P\_Fixed\_FC\_CuAl\_4x240mm2\_top.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1362&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-fixed-fc-cual-4x240mm2-top-2c852f62c6/751d472486d9e98c0ee5-dxf)
+- Redistribution: unknown
+- Original SHA-256: 751d472486d9e98c0ee5edcf5e7a82aa7cc641947a9a6df81beeb7f2692d378f
+- Original bytes: 1305754
+- Revision: A
+- Retrieved: 2026-11-03T01:55:26.775014Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1362&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1362&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 202153 bytes
+- Delivery SHA-256: 85eba637b37c34aadb3a48d3872d09a886f20ff43e660246409975f53fe48ec1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

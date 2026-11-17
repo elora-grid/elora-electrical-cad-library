@@ -1,0 +1,160 @@
+# Weidmüller — ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow
+
+Weidmüller ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1697540000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1697540000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1697540000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zqv-2-550/p/1697540000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1697540000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1697540000
+- Manufacturer reference: 1697540000
+- Manufacturer type: ZQV 2.5/50
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1697540000 ([source](https://eshop.weidmueller.com.cn/en/zqv-2-550/p/1697540000/downloads#engineering-support))
+- Manufacturer type: ZQV 2.5/50 ([source](https://eshop.weidmueller.com.cn/en/zqv-2-550/p/1697540000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zqv-2-550/p/1697540000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1697540000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1697540000\_back.DXF, 1697540000\_bottom.DXF, 1697540000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow before placing it.
+
+1697540000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1697540000\_back.DXF, 1697540000\_bottom.DXF, 1697540000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow before placing it. Use 1697540000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1697540000.stp. 1697540000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1697540000\_back.DWG, 1697540000\_bottom.DWG, 1697540000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1697540000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow?
+
+3 inspected originals for Weidmüller ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow: 1697540000\_DXF.zip (ZIP); 1697540000.stp (STEP); 1697540000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zqv-2-550/p/1697540000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zqv-2-550/p/1697540000/downloads#engineering-support)
+
+## Choosing a file
+
+1697540000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1697540000\_back.DXF, 1697540000\_bottom.DXF, 1697540000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow before placing it. Use 1697540000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1697540000.stp. 1697540000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1697540000\_back.DWG, 1697540000\_bottom.DWG, 1697540000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZQV 2.5/50 — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 50, Pitch in mm: 5.10, Insulated: Yes, 24 A, yellow before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1697540000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/8d64bdf1-7663-46d2-825b-2fbc4d2c6642/original/1697540000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1697540000/native-f53fa72b6c1a9bd748a64b18-zip)
+- Redistribution: unknown
+- Original SHA-256: f53fa72b6c1a9bd748a64b189f5c79f6492456a4b56ef6b711d0aa051d743b24
+- Original bytes: 233479
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/8d64bdf1-7663-46d2-825b-2fbc4d2c6642/original/1697540000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/8d64bdf1-7663-46d2-825b-2fbc4d2c6642/original/1697540000_DXF.zip)
+- Delivery: original; ZIP; 233479 bytes
+- Delivery SHA-256: f53fa72b6c1a9bd748a64b189f5c79f6492456a4b56ef6b711d0aa051d743b24
+
+<details>
+<summary>Archive members</summary>
+
+- 1697540000\_back.DXF
+- 1697540000\_bottom.DXF
+- 1697540000\_front.DXF
+- 1697540000\_left.DXF
+- 1697540000\_right.DXF
+- 1697540000\_top.DXF
+
+</details>
+
+### 1697540000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/8aed473d-02b9-4ce2-8af2-898b8c3c11fd/original/1697540000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1697540000/native-ecd21a88cc789a2ec6422db0-step)
+- Redistribution: unknown
+- Original SHA-256: ecd21a88cc789a2ec6422db0c7c65ffd16dc0cf7e4cc69eb1302b55240182987
+- Original bytes: 5544890
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/8aed473d-02b9-4ce2-8af2-898b8c3c11fd/original/1697540000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/8aed473d-02b9-4ce2-8af2-898b8c3c11fd/original/1697540000.stp)
+- Delivery: source-bundle; ZIP; 752950 bytes
+- Delivery SHA-256: d2a73f020ae207aca57142152fa1aa7bc1fd481e84b9c0c861511b1ee217078a
+
+### 1697540000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/7ef28c6c-e811-4921-86fc-98d01a4a5f44/original/1697540000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1697540000/native-c28fc749c53e2d89077bc4ce-zip)
+- Redistribution: unknown
+- Original SHA-256: c28fc749c53e2d89077bc4cee4d5ae83dd0159656e757aecaf6518c1ace6d77a
+- Original bytes: 371758
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/7ef28c6c-e811-4921-86fc-98d01a4a5f44/original/1697540000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/7ef28c6c-e811-4921-86fc-98d01a4a5f44/original/1697540000_DWG.zip)
+- Delivery: original; ZIP; 371758 bytes
+- Delivery SHA-256: c28fc749c53e2d89077bc4cee4d5ae83dd0159656e757aecaf6518c1ace6d77a
+
+<details>
+<summary>Archive members</summary>
+
+- 1697540000\_back.DWG
+- 1697540000\_bottom.DWG
+- 1697540000\_front.DWG
+- 1697540000\_left.DWG
+- 1697540000\_right.DWG
+- 1697540000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

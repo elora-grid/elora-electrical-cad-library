@@ -1,0 +1,102 @@
+# LOVATO Electric — GE0201ET4 — Four pole changeover disconnector, to complete with extension shaft and handle, 200A (Ith/AC21A), 200A (Ie in AC23B 400V)
+
+LOVATO Electric GE0201ET4 — Four pole changeover disconnector, to complete with extension shaft and handle, 200A (Ith/AC21A), 200A (Ie in AC23B 400V). Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-21f52c0bbe08afd75d70091b) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-21f52c0bbe08afd75d70091b.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-21f52c0bbe08afd75d70091b.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: GE0201ET4
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: GE0201ET4 — Four pole changeover disconnector, to complete with extension shaft and handle, 200A (Ith/AC21A), 200A (Ie in AC23B 400V)
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: GE0201ET4
+- Manufacturer reference: GE0201ET4
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: GE0201ET4 ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
+
+Use 2D\_ROZI\_038.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_038.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_ROZI\_038.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_038.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric GE0201ET4 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for GE0201ET4 — Four pole changeover disconnector, to complete with extension shaft and handle, 200A (Ith/AC21A), 200A (Ie in AC23B 400V)?
+
+1 inspected original for LOVATO Electric GE0201ET4 — Four pole changeover disconnector, to complete with extension shaft and handle, 200A (Ith/AC21A), 200A (Ie in AC23B 400V): 2D\_ROZI\_038.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_ROZI\_038.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_038.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric GE0201ET4 — Four pole changeover disconnector, to complete with extension shaft and handle, 200A (Ith/AC21A), 200A (Ie in AC23B 400V): drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-21f52c0bbe08afd75d70091b/native-eb759161f70f88b6aec974db-dxf?asset=eb759161f70f88b6aec974dbc7436fbc3228bff36d1e863cdbc48448df187d09)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-21f52c0bbe08afd75d70091b). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_ROZI\_038.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-21f52c0bbe08afd75d70091b/native-eb759161f70f88b6aec974db-dxf)
+- Redistribution: unknown
+- Original SHA-256: eb759161f70f88b6aec974dbc7436fbc3228bff36d1e863cdbc48448df187d09
+- Original bytes: 560317
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 66988 bytes
+- Delivery SHA-256: d732d62df8a5d681268bbdc1415f5b8aa8650bee82824a24f4a0b37d1a811220
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

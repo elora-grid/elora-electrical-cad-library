@@ -8,7 +8,7 @@ ABB CS EXTERNAL NEUTRAL CONDUCTOR E1.2-E2.2-XT7 2000A: breaker connection or acc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0301
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ This reference covers the connection or accessory named in “CS EXTERNAL NEUTRA
 - Manufacturer reference: 1SDH001252R0301
 - Document revision: A
 - Model envelope: 1SDH001252R0301\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E1.2\_E2.2\_.stp: 77 × 130 × 115.2 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -100,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0301&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 831082 bytes
 - Delivery SHA-256: 8f13c1defeb901394248acd07a1cd369e79cf4c7cabd2dd3afd3b3ba030d2fd1
+
+### 1SDH001252R0301\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E1.2\_E2.2\_.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0301\_1PA\_001\_00\_CS\_EXTERNAL\_NEUTRAL\_CONDUCTOR\_E1.2\_E2.2\_.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0301&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-cs-external-neutral-conductor-e1-2-e2-2-xt7-2000a-6b7445e249/8f13c1defeb901394248-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8f13c1defeb901394248acd07a1cd369e79cf4c7cabd2dd3afd3b3ba030d2fd1
+- Original bytes: 831082
+- Revision: A
+- Retrieved: 2026-11-03T01:53:46.037619Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0301&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0301&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 217961 bytes
+- Delivery SHA-256: 0e51170dbc60cb73a5c573fd969080558be6cc6ae42fea78baa794681f93fb44
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,102 @@
+# ABB — SMISSLINE ZLS725
+
+ABB SMISSLINE ZLS725: original DXF for busbar or distribution hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-smissline-zls725-26aee2373d) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-smissline-zls725-26aee2373d.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-smissline-zls725-26aee2373d.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Busbar & distribution
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named SMISSLINE ZLS725.
+
+## Equipment and file summary
+
+- Equipment / resource: SMISSLINE ZLS725
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: SMISSLINE ZLS725
+- Source document: SMISSLINE TP\_ZLS725\_2D; revision A
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: SMISSLINE ZLS725 ([source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: SMISSLINE TP\_ZLS725\_2D; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
+
+Use SMISSLINE TP\_ZLS725\_2D.dxf (revision A) to insert the supplied editable drawing into your layout.
+
+Use SMISSLINE TP\_ZLS725\_2D.dxf (revision A) to insert the supplied editable drawing into your layout.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB SMISSLINE ZLS725 and the exact source filename shown above.
+- The source was checked on 2026-11-11; recorded file revisions: SMISSLINE TP\_ZLS725\_2D.dxf — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for SMISSLINE ZLS725?
+
+1 inspected original for ABB SMISSLINE ZLS725: SMISSLINE TP\_ZLS725\_2D.dxf (DXF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP\_ZLS725\_2D&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use SMISSLINE TP\_ZLS725\_2D.dxf (revision A) to insert the supplied editable drawing into your layout.
+
+## Preview
+
+![ABB SMISSLINE ZLS725: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-smissline-zls725-26aee2373d/abb-fa55009e8ee8d5d87b5f?asset=31170ff98c2421ac5ae0faa5d848cff0f5e24d1ef5ed19f0a36f061e5b0a59ce)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-smissline-zls725-26aee2373d). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Busbar trunking](https://eloragrid.ai/objects/busbar-trunking)
+- [Rigid busbar assembly](https://eloragrid.ai/objects/ga-rigid-busbar-assembly)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### SMISSLINE TP\_ZLS725\_2D.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-smissline-zls725-26aee2373d/abb-fa55009e8ee8d5d87b5f)
+- Redistribution: unknown
+- Original SHA-256: 31170ff98c2421ac5ae0faa5d848cff0f5e24d1ef5ed19f0a36f061e5b0a59ce
+- Original bytes: 338995
+- Revision: A
+- Retrieved: 2026-11-11T05:50:29.613833+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=SMISSLINE%20TP_ZLS725_2D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; DXF; 338995 bytes
+- Delivery SHA-256: 31170ff98c2421ac5ae0faa5d848cff0f5e24d1ef5ed19f0a36f061e5b0a59ce
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

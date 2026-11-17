@@ -9,7 +9,7 @@ E6.2 III F TERMINALS SVR LOWER 7200A: ABB manufacturer STEP resource, document 1
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0650
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E6.2 III F TERMINALS SVR LOWER 7200A; ABB document
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0650
 - Model extents (X × Y × Z, mm): 710.0 × 83.0 × 124.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0650&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 723005 bytes
 - Delivery SHA-256: 51eeee3a4bf2b0535f2fc1bb81fc33ab9d22116cdb24bed55f9249c24626fba9
+
+### 1sdh001252r0650.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1sdh001252r0650.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0650&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-iii-f-terminals-svr-lower-7200a-666bf9a6/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 51eeee3a4bf2b0535f2fc1bb81fc33ab9d22116cdb24bed55f9249c24626fba9
+- Original bytes: 723005
+- Revision: A
+- Retrieved: 2026-11-03T01:36:44.068213+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0650&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0650&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 602242 bytes
+- Delivery SHA-256: 036d817cb23a04dba5587ebe9a4c1656097e5ab59516a71bc53e072489364120
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

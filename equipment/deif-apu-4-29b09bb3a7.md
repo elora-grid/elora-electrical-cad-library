@@ -26,6 +26,7 @@ Manufacturer reference ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip; ml-2-co
 - Source configurations grouped on this page: APU-4; MDR-2
 - Manufacturer reference: ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip; ml-2-controller-2d-pdf.pdf; ml-2-controller-3d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60751, IEC 61010-1, UL 508, IEC 61000-6-2, IEC 61000, IEC 60255-26, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

@@ -27,7 +27,7 @@ The supplied configuration is “OZXB2K”. Keep those frame, mounting and acces
 - Document revision: -
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: -
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC390052F0001.dxf revision - for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OZXB2K: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ozxb2k-b5f91ec58c/97eae5347d14d59d0669?asset=97eae5347d14d59d0669ec53aa59c09530cf014fb4a16c7dd63df91b46de99e5)
+![ABB OZXB2K: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ozxb2k-b5f91ec58c/97eae5347d14d59d0669?asset=97eae5347d14d59d0669ec53aa59c09530cf014fb4a16c7dd63df91b46de99e5&view=thumb&v=9df34b61631e6355)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb2k-b5f91ec58c). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

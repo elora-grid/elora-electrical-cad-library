@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: QEI
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: QEI
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 2
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with QEI. The files above belong to Greenheck's QEI fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -114,5 +114,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 463652 bytes
 - Delivery SHA-256: 1acc5c21e8d9f9606b4e780bf7762e9d2d4d221a26fe246a190e9123d67c5b57
+
+### QEI-Inline-12-100.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEI-Inline-12-100.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/QEI-Inline-12-100.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qei-fans/greenheck-qei-inline-12-100-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1acc5c21e8d9f9606b4e780bf7762e9d2d4d221a26fe246a190e9123d67c5b57
+- Original bytes: 463652
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 378829 bytes
+- Delivery SHA-256: b6903914bc6f4601ab0108d53b2dd2e7ba5eb2c8f01d7ce47a0240ac8aba470c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -25,6 +25,7 @@ The supplied configuration is â€œE6.2 /E III-IV Withdrawable 5000/6300A LHR/LVRâ
 - Manufacturer drawing: 1SDH001060R0407
 - Manufacturer reference: 1SDH001060R0407
 - Document revision: A
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

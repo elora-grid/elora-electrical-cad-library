@@ -1,0 +1,118 @@
+# ABB — NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA
+
+ABB NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA: original STEP for switchboard enclosure or mounting hardware layouts. CAD model.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-gtr-cvr-45w-ctr-40-nn-gc45c40nna-6bedd30fcd) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-gtr-cvr-45w-ctr-40-nn-gc45c40nna-6bedd30fcd.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-gtr-cvr-45w-ctr-40-nn-gc45c40nna-6bedd30fcd.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+CAD model
+
+## Equipment and file summary
+
+- Equipment / resource: NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: CAD model
+- Manufacturer drawing identity: NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA
+- Source document: 1SQC900418D0201; revision A
+- Source-model envelope: 1129.2 × 1520 × 70.4 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: CAD model ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SQC900418D0201; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 1129.2 × 1520 × 70.4 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+1SQC900418D0201.zip (revision A) is the original ABB archive. Open GC45C40NNA.stp inside it to place the original solid geometry in your 3D assembly.
+
+1SQC900418D0201.zip (revision A) is the original ABB archive. Open GC45C40NNA.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: CAD model
+- The supplied model has approximate X × Y × Z bounds of 1129.2 × 1520 × 70.4 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC900418D0201.zip — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA?
+
+1 inspected original for ABB NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA: 1SQC900418D0201.zip (ZIP). The manufacturer describes this configuration as CAD model.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+1SQC900418D0201.zip (revision A) is the original ABB archive. Open GC45C40NNA.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB NEXT GTR CVR 45W CTR 40 NN - GC45C40NNA: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-next-gtr-cvr-45w-ctr-40-nn-gc45c40nna-6bedd30fcd/abb-08b253731b17f0a2c70e?asset=d20c45bd8dbc2a73553e35a7f2a108db12b3403d5efc9610ee04144885dffbd5&view=thumb&v=075a9f8a09afb8a3)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-gtr-cvr-45w-ctr-40-nn-gc45c40nna-6bedd30fcd). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC900418D0201.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-next-gtr-cvr-45w-ctr-40-nn-gc45c40nna-6bedd30fcd/abb-08b253731b17f0a2c70e)
+- Redistribution: unknown
+- Original SHA-256: d145b0d0a1a955556bb9d5814bf70a5790aabdc020e12d7d0d4170cb3dacb548
+- Original bytes: 1162621
+- Revision: A
+- Retrieved: 2026-11-11T06:10:06.215296+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900418D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; ZIP; 1162621 bytes
+- Delivery SHA-256: d145b0d0a1a955556bb9d5814bf70a5790aabdc020e12d7d0d4170cb3dacb548
+
+<details>
+<summary>Archive members</summary>
+
+- GC45C40NNA.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

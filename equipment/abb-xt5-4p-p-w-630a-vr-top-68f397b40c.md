@@ -8,7 +8,7 @@ ABB XT5 4p P-W 630A VR top: breaker or breaker-accessory reference for breaker c
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1330
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 4p P-W 630A VR top”. Keep those frame, mo
 - Manufacturer reference: 1SDH002065A1330
 - Document revision: A
 - Model envelope: 1SDH002065A1330\_XT5\_4p\_P\_W\_630A\_VR\_top.stp: 175.5 × 47.5 × 141 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1330&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 6968868 bytes
 - Delivery SHA-256: 5d20aeb446ec72ef56a049909cd4c30f4987f15d9276d5b0a30b942fab00cc97
+
+### 1SDH002065A1330\_XT5\_4p\_P\_W\_630A\_VR\_top.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1330\_XT5\_4p\_P\_W\_630A\_VR\_top.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1330&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-p-w-630a-vr-top-68f397b40c/5d20aeb446ec72ef56a0-dxf)
+- Redistribution: unknown
+- Original SHA-256: 5d20aeb446ec72ef56a049909cd4c30f4987f15d9276d5b0a30b942fab00cc97
+- Original bytes: 6968868
+- Revision: A
+- Retrieved: 2026-11-03T02:11:21.268502Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1330&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1330&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 928999 bytes
+- Delivery SHA-256: 51d6b404e57a1023d47e7d574a23e8d46ed1ab2c1a0c1ae3907363e1e8b64d9d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

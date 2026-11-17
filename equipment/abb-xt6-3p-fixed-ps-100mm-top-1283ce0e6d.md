@@ -8,7 +8,7 @@ ABB XT6 3p Fixed PS 100mm top: breaker or breaker-accessory reference for breake
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1209
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p Fixed PS 100mm top”. Keep those frame,
 - Manufacturer reference: 1SDH002065A1209
 - Document revision: B
 - Model envelope: 1SDH002065A1209.stp: 101 × 79 × 107.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1209&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 1208813 bytes
 - Delivery SHA-256: f0e37202708a48846bd3949b355470e950e966adbc56735208ab4bafab115ae2
+
+### 1SDH002065A1209.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1209.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1209&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-fixed-ps-100mm-top-1283ce0e6d/f0e37202708a48846bd3-dxf)
+- Redistribution: unknown
+- Original SHA-256: f0e37202708a48846bd3949b355470e950e966adbc56735208ab4bafab115ae2
+- Original bytes: 1208813
+- Revision: B
+- Retrieved: 2026-11-03T01:54:54.823534Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1209&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1209&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 302286 bytes
+- Delivery SHA-256: db7f53e4defe77cec8d7f93640fe2fec2e186f7c333cf21ffee9f999ff834ae2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

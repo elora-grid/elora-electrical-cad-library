@@ -8,7 +8,7 @@ ABB 10LYH956\_30.80: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYH956\_30.80; 10LYH956
-- Formats: DWG, IGS, PDF, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “10LYH956\_30.80”. Keep those frame, mounting 
 - Document revision: D
 - Motor drawing designation (10LYH956): HORZ TEFC 284-6TC CP VECTOR W/HSD38 ENC & COVER
 - Manufacturer reference: 10LYH956
-- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 984288 bytes
 - Delivery SHA-256: 1fceba732c1fe5197f515d5f99720fcb73b5008a8c4666ca4f95a9d8fd9e97dd
+
+### 10LYH956\_30.80.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYH956\_30.80.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyh956-30-80-dwg-2d-autocad-dwg-2000-c053284bbd/1fceba732c1fe5197f51-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1fceba732c1fe5197f515d5f99720fcb73b5008a8c4666ca4f95a9d8fd9e97dd
+- Original bytes: 984288
+- Revision: D
+- Retrieved: 2026-11-04T00:25:09Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 4431592 bytes
+- Delivery SHA-256: 97728d9ade103c82368df1d87c274f95d08fd4b440ac0120e0a4e0a69686b43a
 
 ### 10LYH956.pdf
 

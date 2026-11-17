@@ -1,0 +1,140 @@
+# LOVATO Electric — P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C
+
+LOVATO Electric P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C. Retained manufacturer CAD files and drawings for breakers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-17f32d55954ddedaadfe067e) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-17f32d55954ddedaadfe067e.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-17f32d55954ddedaadfe067e.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/P2MB2PC125/P2MB2PC125/snp)
+
+- Category: Breakers & accessories
+- Entry type: product
+- Part number: P2MB2PC125
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: P2MB2PC125
+- Manufacturer reference: P2MB2PC125
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: P2MB2PC125 ([source](https://catalogue.lovatoelectric.com/gl_en/P2MB2PC125/P2MB2PC125/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/P2MB2PC125/P2MB2PC125/snp))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use 2d\_P2MB2PC125.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_P2MB2PC125.dwg.
+
+Use 2d\_P2MB2PC125.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_P2MB2PC125.dwg. Use 3d\_P2MB2PC125.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_P2MB2PC125.stp. Use 2D\_WYLN\_006.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYLN\_006.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric P2MB2PC125 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C?
+
+3 inspected originals for LOVATO Electric P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C: 2d\_P2MB2PC125.dwg (DWG); 3d\_P2MB2PC125.stp (STEP); 2D\_WYLN\_006.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/P2MB2PC125/P2MB2PC125/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/P2MB2PC125/P2MB2PC125/snp)
+
+## Choosing a file
+
+Use 2d\_P2MB2PC125.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_P2MB2PC125.dwg. Use 3d\_P2MB2PC125.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_P2MB2PC125.stp. Use 2D\_WYLN\_006.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYLN\_006.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-17f32d55954ddedaadfe067e/native-bbb9fb7618fad4033f6d18bd-dxf?asset=bbb9fb7618fad4033f6d18bd4349e9bb89e390be777332f115533fc91f29ef1c)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-17f32d55954ddedaadfe067e). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_P2MB2PC125.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_P2MB2PC125.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-17f32d55954ddedaadfe067e/native-7fdbf2a9a708c101421803a7-dwg)
+- Redistribution: unknown
+- Original SHA-256: 7fdbf2a9a708c101421803a784c1286d4e0e4404b7bfa7324e0fd3755f9c0990
+- Original bytes: 74346
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_P2MB2PC125.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_P2MB2PC125.dwg)
+- Delivery: source-bundle; ZIP; 22175 bytes
+- Delivery SHA-256: dbfbab2e5532f68452cd5866051ca60e8c39e9989872f8db3c904d9095303a3c
+
+### 3d\_P2MB2PC125.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_P2MB2PC125.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-17f32d55954ddedaadfe067e/native-41f7333a7dea71b4a20e94d8-step)
+- Redistribution: unknown
+- Original SHA-256: 41f7333a7dea71b4a20e94d89d0d0d71d23a6ff1447cd856da1a8e5f17b53d92
+- Original bytes: 7270246
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_P2MB2PC125.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_P2MB2PC125.stp)
+- Delivery: source-bundle; ZIP; 1026776 bytes
+- Delivery SHA-256: 6c8dcd6b1e1cf2ebafc49858895445ef33f474d13e96b150a648481b90867472
+
+### 2D\_WYLN\_006.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-17f32d55954ddedaadfe067e/native-bbb9fb7618fad4033f6d18bd-dxf)
+- Redistribution: unknown
+- Original SHA-256: bbb9fb7618fad4033f6d18bd4349e9bb89e390be777332f115533fc91f29ef1c
+- Original bytes: 357197
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 34647 bytes
+- Delivery SHA-256: dc2af8d4c20795163ced709b57614d9a7bc72b7529c33e03d5a612c7ddf39685
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

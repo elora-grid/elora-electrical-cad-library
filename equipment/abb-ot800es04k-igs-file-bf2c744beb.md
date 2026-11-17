@@ -25,6 +25,7 @@ The supplied configuration is “OT800ES04K”. Keep those frame, mounting and a
 - Manufacturer drawing: OT800ES04K.IGS
 - Manufacturer reference: OT800ES04K.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

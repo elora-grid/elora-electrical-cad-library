@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN PSR 90mm UP: breaker or breaker-accessory reference for break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0343
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT2 4p PLUG-IN PSR 90mm UP”. Keep those frame
 - Model envelope: 1SDH001295R0343\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.stp: 69 × 103 × 55.5 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0386
 - Model envelope: 1SDH001295R0386\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.stp: 69 × 103 × 55.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 67651 bytes
 - Delivery SHA-256: 67b3e0a858103159f8d398422e1fbf83a365efb038577322ea6de69cdaaff945
 
+### 1SDH001295R0343\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0343\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0343&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-psr-90mm-up-34d0b64750/67b3e0a858103159f8d3-dxf)
+- Redistribution: unknown
+- Original SHA-256: 67b3e0a858103159f8d398422e1fbf83a365efb038577322ea6de69cdaaff945
+- Original bytes: 67651
+- Revision: A
+- Retrieved: 2026-11-03T01:45:17.652739Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0343&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0343&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 36428 bytes
+- Delivery SHA-256: 192a9f042aa35868e782f0e8e861b14374d5b2d10516a41038a4524df92c44e0
+
 ### 1SDH001295R0386\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0386&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 67661 bytes
 - Delivery SHA-256: c85ae0234049469dfe78b2570eb18adb270e362add5fd9a08755422c27b7d853
+
+### 1SDH001295R0386\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0386\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0386&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-psr-90mm-up-34d0b64750/c85ae0234049469dfe78-dxf)
+- Redistribution: unknown
+- Original SHA-256: c85ae0234049469dfe78b2570eb18adb270e362add5fd9a08755422c27b7d853
+- Original bytes: 67661
+- Revision: A
+- Retrieved: 2026-11-03T01:45:18.035664Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0386&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0386&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 36428 bytes
+- Delivery SHA-256: cb3174017b7191c7f995931ea80f607e3cbe14577d1330285823471660449f63
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

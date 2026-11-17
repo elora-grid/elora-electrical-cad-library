@@ -1,0 +1,111 @@
+# ABB — EasyLine XLP3-3P
+
+ABB EasyLine XLP3-3P: original STEP for busbar or distribution hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-easyline-xlp3-3p-fdedc6c584) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-easyline-xlp3-3p-fdedc6c584.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-easyline-xlp3-3p-fdedc6c584.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Busbar & distribution
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named EasyLine XLP3-3P.
+
+## Equipment and file summary
+
+- Equipment / resource: EasyLine XLP3-3P
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: EasyLine XLP3-3P
+- Named pole configuration: 3P
+- Source document: 1SEP101975R0001
+- Source-model envelope: 250 × 333.2 × 144.6 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: EasyLine XLP3-3P ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Named pole configuration: 3P ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SEP101975R0001 ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-))
+- Source-model envelope: 250 × 333.2 × 144.6 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
+
+Use 1SEP101975R0001.stp to place the original solid geometry in your 3D assembly.
+
+Use 1SEP101975R0001.stp to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB EasyLine XLP3-3P and the exact source filename shown above.
+- Named pole configuration: 3P
+- The supplied model has approximate X × Y × Z bounds of 250 × 333.2 × 144.6 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for EasyLine XLP3-3P?
+
+1 inspected original for ABB EasyLine XLP3-3P: 1SEP101975R0001.stp (STEP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SEP101975R0001.stp to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB EasyLine XLP3-3P: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-easyline-xlp3-3p-fdedc6c584/abb-5c153b0d7b5d41ea2d1f?asset=700221b6df579249657ee93bdc6b955e78fae9ff96395363d50ab82f6aff7581&view=thumb&v=fc649d7eee0ac9fc)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-easyline-xlp3-3p-fdedc6c584). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Busbar trunking](https://eloragrid.ai/objects/busbar-trunking)
+- [Rigid busbar assembly](https://eloragrid.ai/objects/ga-rigid-busbar-assembly)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SEP101975R0001.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-easyline-xlp3-3p-fdedc6c584/abb-5c153b0d7b5d41ea2d1f)
+- Redistribution: unknown
+- Original SHA-256: 700221b6df579249657ee93bdc6b955e78fae9ff96395363d50ab82f6aff7581
+- Original bytes: 363978
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:51:21.976204+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SEP101975R0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: original; STEP; 363978 bytes
+- Delivery SHA-256: 700221b6df579249657ee93bdc6b955e78fae9ff96395363d50ab82f6aff7581
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

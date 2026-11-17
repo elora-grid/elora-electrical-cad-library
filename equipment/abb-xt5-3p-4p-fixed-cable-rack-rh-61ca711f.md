@@ -9,7 +9,7 @@ XT5 3p 4p Fixed Cable rack RH: ABB manufacturer STEP resource, document 1SDH0020
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1135
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT5 3p 4p Fixed Cable rack RH; ABB document 1SDH00
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1135
 - Model extents (X × Y × Z, mm): 89.5 × 43.8 × 11.8
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1135&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 194065 bytes
 - Delivery SHA-256: 557dcc548cf51504ab847db37d2dd316b7d7e69c843f0825c8ff2081d6d120d7
+
+### 1SDH002065A1135\_XT5\_3p\_4p\_Fixed\_Cable\_rack\_RH.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1135\_XT5\_3p\_4p\_Fixed\_Cable\_rack\_RH.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1135&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-fixed-cable-rack-rh-61ca711f/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 557dcc548cf51504ab847db37d2dd316b7d7e69c843f0825c8ff2081d6d120d7
+- Original bytes: 194065
+- Revision: A
+- Retrieved: 2026-11-03T01:32:21.015730+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1135&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1135&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 72576 bytes
+- Delivery SHA-256: ee4b0fea5b2acad6f9c9433612406f48aed9a7a0435e911bb5282c1c22538be1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

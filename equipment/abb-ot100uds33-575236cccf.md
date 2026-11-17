@@ -25,6 +25,7 @@ The supplied configuration is “OT100UDS33”. Keep those frame, mounting and a
 - Manufacturer drawing: 1SCC307015F0001; OT100UDS33.STP
 - Manufacturer reference: 1SCC307015F0001; OT100UDS33.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DXF, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

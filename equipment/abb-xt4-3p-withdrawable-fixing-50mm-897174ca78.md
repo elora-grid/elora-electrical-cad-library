@@ -8,7 +8,7 @@ ABB XT4 3p WITHDRAWABLE FIXING 50mm: breaker or breaker-accessory reference for 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0638
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT4 3p WITHDRAWABLE FIXING 50mm”. Keep those 
 - Manufacturer reference: 1SDH001295R0638
 - Document revision: A
 - Model envelope: 1SDH001295R0638\_1PA\_001\_00\_XT4\_3P\_WITHDRAWABLE\_FIXING\_50MM.stp: 139.5 × 187 × 182 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0638&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1158596 bytes
 - Delivery SHA-256: 2f4ef9f4ca16f70f8fae5a46763454d2fbd4db1c825756e6167a33430e8449fa
+
+### 1SDH001295R0638\_1PA\_001\_00\_XT4\_3P\_WITHDRAWABLE\_FIXING\_50MM.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0638\_1PA\_001\_00\_XT4\_3P\_WITHDRAWABLE\_FIXING\_50MM.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0638&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-3p-withdrawable-fixing-50mm-897174ca78/2f4ef9f4ca16f70f8fae-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2f4ef9f4ca16f70f8fae5a46763454d2fbd4db1c825756e6167a33430e8449fa
+- Original bytes: 1158596
+- Revision: A
+- Retrieved: 2026-11-03T01:54:46.054524Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0638&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0638&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 124548 bytes
+- Delivery SHA-256: ac1351443b7101d7f1fb8aad6d08b9c0add44b53baa7cde36d7d350bdc2e74a9
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: iE 250 controllers and iE local display
 - Manufacturer: DEIF
 - Resource type: Product family
+- Standards: IEC 60255, IEC 60255-27, IEC 60255-26, IEC 60255-1, IEC 60529, UL 6200, IEC 62443
 - Listed file formats: DWG, EPLAN EDZ, STEP, ZIP, EPLAN
 - Listed files: 8
 - Available previews: Manufacturer source / drawing request

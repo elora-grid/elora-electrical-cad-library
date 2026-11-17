@@ -370,6 +370,1257 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/drawing-t1-1015g-3c69b6a02f6b",
       "recordPath": "equipment/drawing-t1-1015g-3c69b6a02f6b.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/drawing-t1-1015g-3c69b6a02f6b.json"
+    },
+    {
+      "id": "mfr-abb-a1-1p-din-rail-12495e4422",
+      "name": "A1 1p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a1-1p-din-rail-12495e4422",
+      "recordPath": "equipment/mfr-abb-a1-1p-din-rail-12495e4422.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a1-1p-din-rail-12495e4422.json"
+    },
+    {
+      "id": "mfr-abb-a1-2p-din-rail-1eb22e3ba6",
+      "name": "A1 2p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a1-2p-din-rail-1eb22e3ba6",
+      "recordPath": "equipment/mfr-abb-a1-2p-din-rail-1eb22e3ba6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a1-2p-din-rail-1eb22e3ba6.json"
+    },
+    {
+      "id": "mfr-abb-a1-3p-din-rail-e848185d02",
+      "name": "A1 3p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a1-3p-din-rail-e848185d02",
+      "recordPath": "equipment/mfr-abb-a1-3p-din-rail-e848185d02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a1-3p-din-rail-e848185d02.json"
+    },
+    {
+      "id": "mfr-abb-a1-4p-din-rail-cd5e6e71f4",
+      "name": "A1 4p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a1-4p-din-rail-cd5e6e71f4",
+      "recordPath": "equipment/mfr-abb-a1-4p-din-rail-cd5e6e71f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a1-4p-din-rail-cd5e6e71f4.json"
+    },
+    {
+      "id": "mfr-abb-a2-2p-din-rail-d7d43f14f8",
+      "name": "A2 2p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a2-2p-din-rail-d7d43f14f8",
+      "recordPath": "equipment/mfr-abb-a2-2p-din-rail-d7d43f14f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a2-2p-din-rail-d7d43f14f8.json"
+    },
+    {
+      "id": "mfr-abb-a2-3p-din-rail-00ea36245e",
+      "name": "A2 3p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a2-3p-din-rail-00ea36245e",
+      "recordPath": "equipment/mfr-abb-a2-3p-din-rail-00ea36245e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a2-3p-din-rail-00ea36245e.json"
+    },
+    {
+      "id": "mfr-abb-a2-4p-din-rail-74f38cc814",
+      "name": "A2 4p DIN Rail",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-a2-4p-din-rail-74f38cc814",
+      "recordPath": "equipment/mfr-abb-a2-4p-din-rail-74f38cc814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-a2-4p-din-rail-74f38cc814.json"
+    },
+    {
+      "id": "mfr-abb-ct1m-2-din-rail-adapter-ab50260d4f",
+      "name": "CT1M-2 DIN Rail Adapter",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ct1m-2-din-rail-adapter-ab50260d4f",
+      "recordPath": "equipment/mfr-abb-ct1m-2-din-rail-adapter-ab50260d4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ct1m-2-din-rail-adapter-ab50260d4f.json"
+    },
+    {
+      "id": "mfr-abb-ct1m-3-din-rail-adapter-dc896b138c",
+      "name": "CT1M-3 DIN Rail Adapter",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ct1m-3-din-rail-adapter-dc896b138c",
+      "recordPath": "equipment/mfr-abb-ct1m-3-din-rail-adapter-dc896b138c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ct1m-3-din-rail-adapter-dc896b138c.json"
+    },
+    {
+      "id": "mfr-abb-ct1m-4-5-6-7-din-rail-adapter-9359b9ff8a",
+      "name": "CT1M-4/5/6/7 DIN Rail Adapter",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ct1m-4-5-6-7-din-rail-adapter-9359b9ff8a",
+      "recordPath": "equipment/mfr-abb-ct1m-4-5-6-7-din-rail-adapter-9359b9ff8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ct1m-4-5-6-7-din-rail-adapter-9359b9ff8a.json"
+    },
+    {
+      "id": "mfr-socomec-diris-digiware-d-xx-din-rail-adapter-ba63f1b9ab",
+      "name": "Diris Digiware D xx Din Rail Adapter",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-diris-digiware-d-xx-din-rail-adapter-ba63f1b9ab",
+      "recordPath": "equipment/mfr-socomec-diris-digiware-d-xx-din-rail-adapter-ba63f1b9ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-diris-digiware-d-xx-din-rail-adapter-ba63f1b9ab.json"
+    },
+    {
+      "id": "mfr-abb-esskv-416-3cae10970a",
+      "name": "ESSKV-416",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-esskv-416-3cae10970a",
+      "recordPath": "equipment/mfr-abb-esskv-416-3cae10970a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-esskv-416-3cae10970a.json"
+    },
+    {
+      "id": "mfr-abb-esskv-432-435991fe06",
+      "name": "ESSKV-432",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-esskv-432-435991fe06",
+      "recordPath": "equipment/mfr-abb-esskv-432-435991fe06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-esskv-432-435991fe06.json"
+    },
+    {
+      "id": "mfr-schneider-electric-din-rail-15x5mm-2m-length-perforated-98a39b15bf",
+      "name": "DIN RAIL 15X5MM, 2M LENGTH, PERFORATED",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-din-rail-15x5mm-2m-length-perforated-98a39b15bf",
+      "recordPath": "equipment/mfr-schneider-electric-din-rail-15x5mm-2m-length-perforated-98a39b15bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-din-rail-15x5mm-2m-length-perforated-98a39b15bf.json"
+    },
+    {
+      "id": "mfr-schneider-electric-easypact-cvs-din-rail-adapter-5070ecc48e",
+      "name": "EasyPact CVS - DIN RAIL ADAPTER",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-easypact-cvs-din-rail-adapter-5070ecc48e",
+      "recordPath": "equipment/mfr-schneider-electric-easypact-cvs-din-rail-adapter-5070ecc48e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-easypact-cvs-din-rail-adapter-5070ecc48e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-solid-state-relay-125-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-bfde848dcf",
+      "name": "Harmony, Solid state relay, 125 A, DIN rail mount, zero voltage switching, input 4…32 V DC, output 48…660 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-solid-state-relay-125-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-bfde848dcf",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-solid-state-relay-125-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-bfde848dcf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-solid-state-relay-125-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-bfde848dcf.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-solid-state-relay-25-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-8ffaa38a12",
+      "name": "Harmony, Solid state relay, 25 A, DIN rail mount, zero voltage switching, input 90…280 V AC, output 24…300 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-solid-state-relay-25-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-8ffaa38a12",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-solid-state-relay-25-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-8ffaa38a12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-solid-state-relay-25-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-8ffaa38a12.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-3fb39ecf3d",
+      "name": "Harmony, Solid state relay, 50 A, DIN rail mount, zero voltage switching, input 4…32 V DC, output 48…660 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-3fb39ecf3d",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-3fb39ecf3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-3fb39ecf3d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-c67ccb8da5",
+      "name": "Harmony, Solid state relay, 50 A, DIN rail mount, zero voltage switching, input 90…280 V AC, output 24…300 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-c67ccb8da5",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-c67ccb8da5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-solid-state-relay-50-a-din-rail-mount-zero-voltage-switching-input-90-280-v-ac-c67ccb8da5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-solid-state-relay-75-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-49ef9f8bc5",
+      "name": "Harmony, Solid state relay, 75 A, DIN rail mount, zero voltage switching, input 4…32 V DC, output 48…660 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-solid-state-relay-75-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-49ef9f8bc5",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-solid-state-relay-75-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-49ef9f8bc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-solid-state-relay-75-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-49ef9f8bc5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-solid-state-relay-90-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-5e6f273f18",
+      "name": "Harmony, Solid state relay, 90 A, DIN rail mount, zero voltage switching, input 4…32 V DC, output 48…660 V AC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-solid-state-relay-90-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-5e6f273f18",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-solid-state-relay-90-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-5e6f273f18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-solid-state-relay-90-a-din-rail-mount-zero-voltage-switching-input-4-32-v-dc-o-5e6f273f18.json"
+    },
+    {
+      "id": "mfr-schneider-electric-mounting-block-gv-ms-snap-in-on-15mm-din-rail-351d1da7c0",
+      "name": "Mounting Block GV MS Snap-in on 15mm DIN Rail",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-mounting-block-gv-ms-snap-in-on-15mm-din-rail-351d1da7c0",
+      "recordPath": "equipment/mfr-schneider-electric-mounting-block-gv-ms-snap-in-on-15mm-din-rail-351d1da7c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-mounting-block-gv-ms-snap-in-on-15mm-din-rail-351d1da7c0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm8000-din-rail-mount-meter-remote-display-3d-simplified-51a4e58cda",
+      "name": "PM8000 DIN Rail Mount Meter + Remote Display 3D - Simplified",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm8000-din-rail-mount-meter-remote-display-3d-simplified-51a4e58cda",
+      "recordPath": "equipment/mfr-schneider-electric-pm8000-din-rail-mount-meter-remote-display-3d-simplified-51a4e58cda.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm8000-din-rail-mount-meter-remote-display-3d-simplified-51a4e58cda.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pm8000-din-rail-mount-meter-mounted-ed9532b3d9",
+      "name": "PM8000 DIN Rail Mount Meter - Mounted",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pm8000-din-rail-mount-meter-mounted-ed9532b3d9",
+      "recordPath": "equipment/mfr-schneider-electric-pm8000-din-rail-mount-meter-mounted-ed9532b3d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pm8000-din-rail-mount-meter-mounted-ed9532b3d9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-safety-dialogue-solutions-xalk-control-station-for-22-diameter-trigger-action-emergenc-03493347fc",
+      "name": "Safety dialogue solutions. XALK control station for 22 diameter trigger action emergency stop mushroom head pushbuttons with 2 ISO M20 x 1,5 cable entries or n° 13 (Pg13,5) cable gland",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-safety-dialogue-solutions-xalk-control-station-for-22-diameter-trigger-action-emergenc-03493347fc",
+      "recordPath": "equipment/mfr-schneider-electric-safety-dialogue-solutions-xalk-control-station-for-22-diameter-trigger-action-emergenc-03493347fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-safety-dialogue-solutions-xalk-control-station-for-22-diameter-trigger-action-emergenc-03493347fc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-3e55a1138b",
+      "name": "Solid state relay, 20 A, DIN rail mount, input 4…32 V DC, output 24…280 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-3e55a1138b",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-3e55a1138b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-3e55a1138b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-c7a841abf1",
+      "name": "Solid state relay, 30 A, DIN rail mount, input 4…32 V DC, output 48…660 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-c7a841abf1",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-c7a841abf1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-c7a841abf1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-3-32-v-dc-output-24-280-v-ac-1-no-f5ba5a710b",
+      "name": "Solid state relay, 45 A, DIN rail mount, input 3…32 V DC, output 24…280 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-3-32-v-dc-output-24-280-v-ac-1-no-f5ba5a710b",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-3-32-v-dc-output-24-280-v-ac-1-no-f5ba5a710b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-3-32-v-dc-output-24-280-v-ac-1-no-f5ba5a710b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-din-rail-1phase-20-35a-d8a6454de2",
+      "name": "Solid state relay-DIN rail, 1phase, 20..35A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-din-rail-1phase-20-35a-d8a6454de2",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-din-rail-1phase-20-35a-d8a6454de2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-din-rail-1phase-20-35a-d8a6454de2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-din-rail-1phase-245-60a-77fd1528c3",
+      "name": "Solid state relay-DIN rail, 1phase, 245..60A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-din-rail-1phase-245-60a-77fd1528c3",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-din-rail-1phase-245-60a-77fd1528c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-din-rail-1phase-245-60a-77fd1528c3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv2-combination-block-between-cb-and-contactor-din-rail-type-6b9630fb18",
+      "name": "TeSys GV2 - Combination block between cb and contactor - Din rail type",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv2-combination-block-between-cb-and-contactor-din-rail-type-6b9630fb18",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv2-combination-block-between-cb-and-contactor-din-rail-type-6b9630fb18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv2-combination-block-between-cb-and-contactor-din-rail-type-6b9630fb18.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-din-rail-mounting-320b2c1a6e",
+      "name": "TeSys VLS - TeSys VLS- 3Poles- Body switch disconnector - Din rail mounting",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-din-rail-mounting-320b2c1a6e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-din-rail-mounting-320b2c1a6e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-din-rail-mounting-320b2c1a6e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-35mm-din-rail-9080-mh-438dad456c",
+      "name": "35mm DIN Rail 9080 MH",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-35mm-din-rail-9080-mh-438dad456c",
+      "recordPath": "equipment/mfr-schneider-electric-35mm-din-rail-9080-mh-438dad456c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-35mm-din-rail-9080-mh-438dad456c.json"
+    },
+    {
+      "id": "mfr-abb-xt3-3p-fixed-din-rail-6161605840",
+      "name": "XT3 3p FIXED DIN RAIL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt3-3p-fixed-din-rail-6161605840",
+      "recordPath": "equipment/mfr-abb-xt3-3p-fixed-din-rail-6161605840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt3-3p-fixed-din-rail-6161605840.json"
+    },
+    {
+      "id": "mfr-abb-xt4-3p-fixed-din-rail-b40b93ae6a",
+      "name": "XT4 3p FIXED DIN RAIL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-fixed-din-rail-b40b93ae6a",
+      "recordPath": "equipment/mfr-abb-xt4-3p-fixed-din-rail-b40b93ae6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-3p-fixed-din-rail-b40b93ae6a.json"
+    },
+    {
+      "id": "mfr-abb-xt4-4p-fixed-din-rail-45d9e57c69",
+      "name": "XT4 4p FIXED DIN RAIL",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-fixed-din-rail-45d9e57c69",
+      "recordPath": "equipment/mfr-abb-xt4-4p-fixed-din-rail-45d9e57c69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-fixed-din-rail-45d9e57c69.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s3-497813b760",
+      "name": "3/4Pole low voltage MCCB series Isomax - Fixed version DIN rail assembly S3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s3-497813b760",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s3-497813b760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s3-497813b760.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s4-2c0fdea229",
+      "name": "3/4Pole low voltage MCCB series Isomax - Fixed version DIN rail assembly S4",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s4-2c0fdea229",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s4-2c0fdea229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s4-2c0fdea229.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s5-b781d3e9db",
+      "name": "3/4Pole low voltage MCCB series Isomax - Fixed version DIN rail assembly S5",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s5-b781d3e9db",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s5-b781d3e9db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-din-rail-assembly-s5-b781d3e9db.json"
+    },
+    {
+      "id": "mfr-abb-din-rail-1mw-3c675453af",
+      "name": "DIN Rail 1MW",
+      "manufacturer": "ABB",
+      "formats": [
+        "SVG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-din-rail-1mw-3c675453af",
+      "recordPath": "equipment/mfr-abb-din-rail-1mw-3c675453af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-din-rail-1mw-3c675453af.json"
+    },
+    {
+      "id": "mfr-abb-m-clamp16-4899daaa35",
+      "name": "M-clamp16",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m-clamp16-4899daaa35",
+      "recordPath": "equipment/mfr-abb-m-clamp16-4899daaa35.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m-clamp16-4899daaa35.json"
+    },
+    {
+      "id": "mfr-abb-m-clamp22-a7057a881a",
+      "name": "M-clamp22",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m-clamp22-a7057a881a",
+      "recordPath": "equipment/mfr-abb-m-clamp22-a7057a881a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m-clamp22-a7057a881a.json"
+    },
+    {
+      "id": "mfr-abb-m-clamp28-f4942f997e",
+      "name": "M-clamp28",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m-clamp28-f4942f997e",
+      "recordPath": "equipment/mfr-abb-m-clamp28-f4942f997e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m-clamp28-f4942f997e.json"
+    },
+    {
+      "id": "mfr-abb-m-clamp34-6740c5d8cb",
+      "name": "M-clamp34",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m-clamp34-6740c5d8cb",
+      "recordPath": "equipment/mfr-abb-m-clamp34-6740c5d8cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m-clamp34-6740c5d8cb.json"
+    },
+    {
+      "id": "mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-attach-to-din-rail-horizontal-svg-a6a6d11c7d",
+      "name": "MG/S 11.100.1.1, Fast Installation (with Screwdriver), Attach to DIN rail horizontal - .svg",
+      "manufacturer": "ABB",
+      "formats": [
+        "SVG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-attach-to-din-rail-horizontal-svg-a6a6d11c7d",
+      "recordPath": "equipment/mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-attach-to-din-rail-horizontal-svg-a6a6d11c7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-attach-to-din-rail-horizontal-svg-a6a6d11c7d.json"
+    },
+    {
+      "id": "mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-loosen-from-din-rail-horizontal-svg-44bd32f958",
+      "name": "MG/S 11.100.1.1, Fast Installation (with Screwdriver), Loosen from DIN rail horizontal - .svg",
+      "manufacturer": "ABB",
+      "formats": [
+        "SVG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-loosen-from-din-rail-horizontal-svg-44bd32f958",
+      "recordPath": "equipment/mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-loosen-from-din-rail-horizontal-svg-44bd32f958.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-mg-s-11-100-1-1-fast-installation-with-screwdriver-loosen-from-din-rail-horizontal-svg-44bd32f958.json"
+    },
+    {
+      "id": "market-bimed-engineering-sources",
+      "name": "Bimed cable management catalogue and drawing sources",
+      "manufacturer": "Bimed",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-bimed-engineering-sources",
+      "recordPath": "equipment/market-bimed-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-bimed-engineering-sources.json"
+    },
+    {
+      "id": "market-cmp-products-engineering-sources",
+      "name": "CMP Products cable management catalogue and drawing sources",
+      "manufacturer": "CMP Products",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-cmp-products-engineering-sources",
+      "recordPath": "equipment/market-cmp-products-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-cmp-products-engineering-sources.json"
+    },
+    {
+      "id": "market-detas-ultra-engineering-sources",
+      "name": "DETAS ULTRA cable management catalogue and drawing sources",
+      "manufacturer": "DETAS ULTRA",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-detas-ultra-engineering-sources",
+      "recordPath": "equipment/market-detas-ultra-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-detas-ultra-engineering-sources.json"
+    },
+    {
+      "id": "market-dkc-engineering-sources",
+      "name": "DKC cable management catalogue and drawing sources",
+      "manufacturer": "DKC",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-dkc-engineering-sources",
+      "recordPath": "equipment/market-dkc-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-dkc-engineering-sources.json"
+    },
+    {
+      "id": "market-flexicon-engineering-sources",
+      "name": "Flexicon cable management catalogue and drawing sources",
+      "manufacturer": "Flexicon",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-flexicon-engineering-sources",
+      "recordPath": "equipment/market-flexicon-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-flexicon-engineering-sources.json"
+    },
+    {
+      "id": "market-iboco-engineering-sources",
+      "name": "IBOCO cable management catalogue and drawing sources",
+      "manufacturer": "IBOCO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-iboco-engineering-sources",
+      "recordPath": "equipment/market-iboco-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-iboco-engineering-sources.json"
+    },
+    {
+      "id": "market-kss-engineering-sources",
+      "name": "KSS cable management catalogue and drawing sources",
+      "manufacturer": "KSS",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-kss-engineering-sources",
+      "recordPath": "equipment/market-kss-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-kss-engineering-sources.json"
+    },
+    {
+      "id": "market-nvent-caddy-engineering-sources",
+      "name": "nVent CADDY cable management catalogue and drawing sources",
+      "manufacturer": "nVent CADDY",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-nvent-caddy-engineering-sources",
+      "recordPath": "equipment/market-nvent-caddy-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-nvent-caddy-engineering-sources.json"
+    },
+    {
+      "id": "market-peppers-cable-glands-engineering-sources",
+      "name": "Peppers Cable Glands cable management catalogue and drawing sources",
+      "manufacturer": "Peppers Cable Glands",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-peppers-cable-glands-engineering-sources",
+      "recordPath": "equipment/market-peppers-cable-glands-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-peppers-cable-glands-engineering-sources.json"
+    },
+    {
+      "id": "market-unex-engineering-sources",
+      "name": "Unex cable management catalogue and drawing sources",
+      "manufacturer": "Unex",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-unex-engineering-sources",
+      "recordPath": "equipment/market-unex-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-unex-engineering-sources.json"
+    },
+    {
+      "id": "market-hilti-engineering-sources",
+      "name": "Hilti cable management catalogue and drawing sources",
+      "manufacturer": "Hilti",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-hilti-engineering-sources",
+      "recordPath": "equipment/market-hilti-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-hilti-engineering-sources.json"
+    },
+    {
+      "id": "market-atkore-engineering-sources",
+      "name": "Atkore cable management catalogue and drawing sources",
+      "manufacturer": "Atkore",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-atkore-engineering-sources",
+      "recordPath": "equipment/market-atkore-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-atkore-engineering-sources.json"
+    },
+    {
+      "id": "market-brevetti-stendalto-engineering-sources",
+      "name": "BREVETTI STENDALTO cable management catalogue and drawing sources",
+      "manufacturer": "BREVETTI STENDALTO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-brevetti-stendalto-engineering-sources",
+      "recordPath": "equipment/market-brevetti-stendalto-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-brevetti-stendalto-engineering-sources.json"
+    },
+    {
+      "id": "market-doublehsu-engineering-sources",
+      "name": "DOUBLEHSU cable management catalogue and drawing sources",
+      "manufacturer": "DOUBLEHSU",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-doublehsu-engineering-sources",
+      "recordPath": "equipment/market-doublehsu-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-doublehsu-engineering-sources.json"
+    },
+    {
+      "id": "market-koduct-engineering-sources",
+      "name": "KODUCT cable management catalogue and drawing sources",
+      "manufacturer": "KODUCT",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-koduct-engineering-sources",
+      "recordPath": "equipment/market-koduct-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-koduct-engineering-sources.json"
+    },
+    {
+      "id": "market-krius-engineering-sources",
+      "name": "KRIUS cable management catalogue and drawing sources",
+      "manufacturer": "KRIUS",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-krius-engineering-sources",
+      "recordPath": "equipment/market-krius-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-krius-engineering-sources.json"
+    },
+    {
+      "id": "market-kukje-engineering-sources",
+      "name": "KUKJE cable management catalogue and drawing sources",
+      "manufacturer": "KUKJE",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-kukje-engineering-sources",
+      "recordPath": "equipment/market-kukje-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-kukje-engineering-sources.json"
+    },
+    {
+      "id": "market-ortac-engineering-sources",
+      "name": "ORTAC cable management catalogue and drawing sources",
+      "manufacturer": "ORTAC",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ortac-engineering-sources",
+      "recordPath": "equipment/market-ortac-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ortac-engineering-sources.json"
+    },
+    {
+      "id": "market-powet-engineering-sources",
+      "name": "POWET cable management catalogue and drawing sources",
+      "manufacturer": "POWET",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-powet-engineering-sources",
+      "recordPath": "equipment/market-powet-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-powet-engineering-sources.json"
+    },
+    {
+      "id": "market-sealcon-engineering-sources",
+      "name": "SEALCON cable management catalogue and drawing sources",
+      "manufacturer": "SEALCON",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-sealcon-engineering-sources",
+      "recordPath": "equipment/market-sealcon-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-sealcon-engineering-sources.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-90-280-v-ac-output-24-280-v-ac-1-no-24d30e6034",
+      "name": "Solid state relay, 20 A, DIN rail mount, input 90…280 V AC, output 24…280 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-90-280-v-ac-output-24-280-v-ac-1-no-24d30e6034",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-90-280-v-ac-output-24-280-v-ac-1-no-24d30e6034.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-20-a-din-rail-mount-input-90-280-v-ac-output-24-280-v-ac-1-no-24d30e6034.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-25-a-din-rail-mount-input-90-140-v-ac-output-48-600-v-ac-3-no-9ac6ba1464",
+      "name": "Solid state relay, 25 A, DIN rail mount, input 90…140 V AC, output 48…600 V AC, 3 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-25-a-din-rail-mount-input-90-140-v-ac-output-48-600-v-ac-3-no-9ac6ba1464",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-25-a-din-rail-mount-input-90-140-v-ac-output-48-600-v-ac-3-no-9ac6ba1464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-25-a-din-rail-mount-input-90-140-v-ac-output-48-600-v-ac-3-no-9ac6ba1464.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-3-a-din-rail-mount-input-4-28-v-dc-output-5-60-v-dc-1-no-4b9d9f9213",
+      "name": "Solid state relay, 3 A, DIN rail mount, input 4...28 V DC, output 5...60 V DC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-3-a-din-rail-mount-input-4-28-v-dc-output-5-60-v-dc-1-no-4b9d9f9213",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-3-a-din-rail-mount-input-4-28-v-dc-output-5-60-v-dc-1-no-4b9d9f9213.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-3-a-din-rail-mount-input-4-28-v-dc-output-5-60-v-dc-1-no-4b9d9f9213.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-5f489a7b7a",
+      "name": "Solid state relay, 30 A, DIN rail mount, input 4…32 V DC, output 24…280 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-5f489a7b7a",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-5f489a7b7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-30-a-din-rail-mount-input-4-32-v-dc-output-24-280-v-ac-1-no-5f489a7b7a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-952f8a0f53",
+      "name": "Solid state relay, 45 A, DIN rail mount, input 4…32 V DC, output 48…660 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-952f8a0f53",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-952f8a0f53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-45-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-952f8a0f53.json"
+    },
+    {
+      "id": "mfr-schneider-electric-solid-state-relay-55-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-eee3126d3e",
+      "name": "Solid state relay, 55 A, DIN rail mount, input 4…32 V DC, output 48…660 V AC, 1 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-solid-state-relay-55-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-eee3126d3e",
+      "recordPath": "equipment/mfr-schneider-electric-solid-state-relay-55-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-eee3126d3e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-solid-state-relay-55-a-din-rail-mount-input-4-32-v-dc-output-48-660-v-ac-1-no-eee3126d3e.json"
+    },
+    {
+      "id": "mfr-abb-din-rail-spee-9cc6adec3d",
+      "name": "Din rail - SpEe",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-din-rail-spee-9cc6adec3d",
+      "recordPath": "equipment/mfr-abb-din-rail-spee-9cc6adec3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-din-rail-spee-9cc6adec3d.json"
+    },
+    {
+      "id": "lovato-order-513da9775ad4401921ccb257",
+      "name": "HR5XS21S — Socket for relay for fitting on din rail or screws, spring terminals",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-513da9775ad4401921ccb257",
+      "recordPath": "equipment/lovato-order-513da9775ad4401921ccb257.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-513da9775ad4401921ccb257.json"
+    },
+    {
+      "id": "lovato-order-b80baec53f1ec8d97d3acbae",
+      "name": "HR7XS2 — Socket for relay for fitting on din rail or with screws, 11-pin for HR70 2C... screw terminals",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b80baec53f1ec8d97d3acbae",
+      "recordPath": "equipment/lovato-order-b80baec53f1ec8d97d3acbae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b80baec53f1ec8d97d3acbae.json"
+    },
+    {
+      "id": "lovato-order-1bb555762f321896c288cd69",
+      "name": "HR5XS22 — Socket for relay for fitting on din rail or screws, screw terminals",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1bb555762f321896c288cd69",
+      "recordPath": "equipment/lovato-order-1bb555762f321896c288cd69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1bb555762f321896c288cd69.json"
+    },
+    {
+      "id": "lovato-order-7796f6efd352d340edecc810",
+      "name": "HR5XS21 — Socket for relay for fitting on din rail or screws, screw terminals, contact terminals all on upper side",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7796f6efd352d340edecc810",
+      "recordPath": "equipment/lovato-order-7796f6efd352d340edecc810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7796f6efd352d340edecc810.json"
+    },
+    {
+      "id": "lovato-order-33d08b7658e034eb9d3582dc",
+      "name": "HR7XS1 — Socket for relay for fitting on din rail or with screws, 8-pin for HR70 2C... screw terminals",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-33d08b7658e034eb9d3582dc",
+      "recordPath": "equipment/lovato-order-33d08b7658e034eb9d3582dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-33d08b7658e034eb9d3582dc.json"
+    },
+    {
+      "id": "lovato-order-5f97d4b18291c4d9e112445d",
+      "name": "GX1690O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), ON/OFF switch, one pole, 16A AC1, 2 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5f97d4b18291c4d9e112445d",
+      "recordPath": "equipment/lovato-order-5f97d4b18291c4d9e112445d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5f97d4b18291c4d9e112445d.json"
+    },
+    {
+      "id": "lovato-order-c5d83b0c789568ac21948738",
+      "name": "GX1691O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), ON/OFF switch, two poles, 16A AC1, 2 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c5d83b0c789568ac21948738",
+      "recordPath": "equipment/lovato-order-c5d83b0c789568ac21948738.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c5d83b0c789568ac21948738.json"
+    },
+    {
+      "id": "lovato-order-5f501a8de0b786d1f79f588d",
+      "name": "GX1610O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), ON/OFF switch, three poles, 16A AC1, 2 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5f501a8de0b786d1f79f588d",
+      "recordPath": "equipment/lovato-order-5f501a8de0b786d1f79f588d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5f501a8de0b786d1f79f588d.json"
+    },
+    {
+      "id": "lovato-order-74fa45c331d1933ded0cddb9",
+      "name": "GX1692O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), ON/OFF switch, four poles, 16A AC1, 2 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-74fa45c331d1933ded0cddb9",
+      "recordPath": "equipment/lovato-order-74fa45c331d1933ded0cddb9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-74fa45c331d1933ded0cddb9.json"
+    },
+    {
+      "id": "lovato-order-1054399c5f8d75b495b049ad",
+      "name": "GX1651O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), changeover switch, one pole, 16A AC1, 3 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1054399c5f8d75b495b049ad",
+      "recordPath": "equipment/lovato-order-1054399c5f8d75b495b049ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1054399c5f8d75b495b049ad.json"
+    },
+    {
+      "id": "lovato-order-5cb3eb2a53f7ab14db419c42",
+      "name": "GX1652O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), changeover switch, two poles, 16A AC1, 3 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5cb3eb2a53f7ab14db419c42",
+      "recordPath": "equipment/lovato-order-5cb3eb2a53f7ab14db419c42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5cb3eb2a53f7ab14db419c42.json"
+    },
+    {
+      "id": "lovato-order-05d9751fce2d6f595aeda614",
+      "name": "GX1653O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), changeover switch, three poles, 16A AC1, 3 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-05d9751fce2d6f595aeda614",
+      "recordPath": "equipment/lovato-order-05d9751fce2d6f595aeda614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-05d9751fce2d6f595aeda614.json"
+    },
+    {
+      "id": "lovato-order-ee6e87c2375abec242c47617",
+      "name": "GX1675O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), changeover switch, four poles, 16A AC1, 3 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ee6e87c2375abec242c47617",
+      "recordPath": "equipment/lovato-order-ee6e87c2375abec242c47617.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ee6e87c2375abec242c47617.json"
+    },
+    {
+      "id": "lovato-order-184edb746c530641644ae5bf",
+      "name": "GX1668O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), phase-neutral voltmeter switch L1-N/L2-N/L3-N, 16A AC1, 4 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-184edb746c530641644ae5bf",
+      "recordPath": "equipment/lovato-order-184edb746c530641644ae5bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-184edb746c530641644ae5bf.json"
+    },
+    {
+      "id": "lovato-order-73e810814ffeceae7dda45cb",
+      "name": "GX1667O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), phase-phase voltmeter switch L1-L2/L2-L3/L3-L1, 16A AC1, 4 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-73e810814ffeceae7dda45cb",
+      "recordPath": "equipment/lovato-order-73e810814ffeceae7dda45cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-73e810814ffeceae7dda45cb.json"
+    },
+    {
+      "id": "lovato-order-ab65c9ccaaca48aad1135c11",
+      "name": "GX1666O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), voltmeter switch for 3 phase to phase control and 3 phase voltages, 16A AC1, 7 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ab65c9ccaaca48aad1135c11",
+      "recordPath": "equipment/lovato-order-ab65c9ccaaca48aad1135c11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ab65c9ccaaca48aad1135c11.json"
+    },
+    {
+      "id": "lovato-order-c1bc31f20549ffcb4229c1c7",
+      "name": "GX1697O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), ammeter switch for direct L1-L2-L3 reading, 16A AC1, 4 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c1bc31f20549ffcb4229c1c7",
+      "recordPath": "equipment/lovato-order-c1bc31f20549ffcb4229c1c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c1bc31f20549ffcb4229c1c7.json"
+    },
+    {
+      "id": "lovato-order-82cd53edde5feb97c62703a6",
+      "name": "GX1698O48 — Rotary cam switch, O48 modular version, DIN rail mounting (EN50022), ammeter switch for L1-L2-L3 reading via 3 CTs, 16A AC1, 4 positions",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-82cd53edde5feb97c62703a6",
+      "recordPath": "equipment/lovato-order-82cd53edde5feb97c62703a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-82cd53edde5feb97c62703a6.json"
+    },
+    {
+      "id": "lovato-order-f43f14c5781d251c6145f156",
+      "name": "31BT2N6S48 — Time relay, DIN rail mounting, for star-delta starters, 6s, 24VAC/DC-48VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f43f14c5781d251c6145f156",
+      "recordPath": "equipment/lovato-order-f43f14c5781d251c6145f156.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f43f14c5781d251c6145f156.json"
+    },
+    {
+      "id": "lovato-order-f9d7b4fa056acbe53e4224d8",
+      "name": "31BT2N12S48 — Time relay, DIN rail mounting, for star-delta starters, 12s, 24VAC/DC-48VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f9d7b4fa056acbe53e4224d8",
+      "recordPath": "equipment/lovato-order-f9d7b4fa056acbe53e4224d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f9d7b4fa056acbe53e4224d8.json"
+    },
+    {
+      "id": "lovato-order-ce6acca4742aa918ca8f4899",
+      "name": "31BT2N30S48 — Time relay, DIN rail mounting, for star-delta starters, 30s, 24VAC/DC-48VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ce6acca4742aa918ca8f4899",
+      "recordPath": "equipment/lovato-order-ce6acca4742aa918ca8f4899.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ce6acca4742aa918ca8f4899.json"
+    },
+    {
+      "id": "lovato-order-3aa99cbd6c3a43ae8f8a26c8",
+      "name": "31BT2N60S48 — Time relay, DIN rail mounting, for star-delta starters, 60s, 24VAC/DC-48VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3aa99cbd6c3a43ae8f8a26c8",
+      "recordPath": "equipment/lovato-order-3aa99cbd6c3a43ae8f8a26c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3aa99cbd6c3a43ae8f8a26c8.json"
+    },
+    {
+      "id": "lovato-order-283dc955ec7c3e8289024ef8",
+      "name": "31S8 — 8 pin socket for screw fixing or on 35mm DIN rail",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-283dc955ec7c3e8289024ef8",
+      "recordPath": "equipment/lovato-order-283dc955ec7c3e8289024ef8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-283dc955ec7c3e8289024ef8.json"
+    },
+    {
+      "id": "lovato-order-5744a1bbf8aaf2a4f1e236fa",
+      "name": "31S11 — 11 pin socket for screw fixing or on 35mm DIN rail",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5744a1bbf8aaf2a4f1e236fa",
+      "recordPath": "equipment/lovato-order-5744a1bbf8aaf2a4f1e236fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5744a1bbf8aaf2a4f1e236fa.json"
+    },
+    {
+      "id": "lovato-order-53998d3aa37c03f6727d3862",
+      "name": "31DRV3110 — Protection relay, voltage monitoring for three phase systems without neutral, DIN rail version, minimum and maximum voltage, 100-110-127VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-53998d3aa37c03f6727d3862",
+      "recordPath": "equipment/lovato-order-53998d3aa37c03f6727d3862.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-53998d3aa37c03f6727d3862.json"
+    },
+    {
+      "id": "lovato-order-61f80292c2e208a3c121d6bf",
+      "name": "31DRV3230 — Protection relay, voltage monitoring for three phase systems without neutral, DIN rail version, minimum and maximum voltage, 220-230-240VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-61f80292c2e208a3c121d6bf",
+      "recordPath": "equipment/lovato-order-61f80292c2e208a3c121d6bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-61f80292c2e208a3c121d6bf.json"
+    },
+    {
+      "id": "lovato-order-18c71fe301b8b6af3cf33675",
+      "name": "31DRV3400 — Protection relay, voltage monitoring for three phase systems without neutral, DIN rail version, minimum and maximum voltage, 380-400-415VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-18c71fe301b8b6af3cf33675",
+      "recordPath": "equipment/lovato-order-18c71fe301b8b6af3cf33675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-18c71fe301b8b6af3cf33675.json"
+    },
+    {
+      "id": "lovato-order-145149ecede9656f933b2e94",
+      "name": "31DRV3460 — Protection relay, voltage monitoring for three phase systems without neutral, DIN rail version, minimum and maximum voltage, 440-460-480VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-145149ecede9656f933b2e94",
+      "recordPath": "equipment/lovato-order-145149ecede9656f933b2e94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-145149ecede9656f933b2e94.json"
+    },
+    {
+      "id": "lovato-order-492ada2f12df2efaf7f1ac9d",
+      "name": "31DRV3N110 — Protection relay, voltage monitoring for three phase systems with neutral, DIN rail version, minimum and maximum voltage, 100-110-127VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-492ada2f12df2efaf7f1ac9d",
+      "recordPath": "equipment/lovato-order-492ada2f12df2efaf7f1ac9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-492ada2f12df2efaf7f1ac9d.json"
+    },
+    {
+      "id": "lovato-order-f061e7e58e2203689c240f84",
+      "name": "31DRV3N230 — Protection relay, voltage monitoring for three phase systems with neutral, DIN rail version, minimum and maximum voltage, 220-230-240VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f061e7e58e2203689c240f84",
+      "recordPath": "equipment/lovato-order-f061e7e58e2203689c240f84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f061e7e58e2203689c240f84.json"
+    },
+    {
+      "id": "lovato-order-8f26d8397f9ebe7d3500ed05",
+      "name": "31DRV3N400 — Protection relay, voltage monitoring for three phase systems with neutral, DIN rail version, minimum and maximum voltage, 380-400-415VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8f26d8397f9ebe7d3500ed05",
+      "recordPath": "equipment/lovato-order-8f26d8397f9ebe7d3500ed05.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8f26d8397f9ebe7d3500ed05.json"
+    },
+    {
+      "id": "lovato-order-59a59546b9fdf3c24e792922",
+      "name": "31DRV3N460 — Protection relay, voltage monitoring for three phase systems with neutral, DIN rail version, minimum and maximum voltage, 440-460-480VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-59a59546b9fdf3c24e792922",
+      "recordPath": "equipment/lovato-order-59a59546b9fdf3c24e792922.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-59a59546b9fdf3c24e792922.json"
+    },
+    {
+      "id": "lovato-order-ae0feafe2c4b632ffc651610",
+      "name": "31DRV1110 — Protection relay, voltage monitoring for single phase systems, DIN rail version, minimum and maximum voltage, 100-110-127VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ae0feafe2c4b632ffc651610",
+      "recordPath": "equipment/lovato-order-ae0feafe2c4b632ffc651610.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ae0feafe2c4b632ffc651610.json"
+    },
+    {
+      "id": "lovato-order-b37cfc74a96834cefb646397",
+      "name": "31DRV1230 — Protection relay, voltage monitoring for single phase systems, DIN rail version, minimum and maximum voltage, 220-230-240VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b37cfc74a96834cefb646397",
+      "recordPath": "equipment/lovato-order-b37cfc74a96834cefb646397.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b37cfc74a96834cefb646397.json"
+    },
+    {
+      "id": "lovato-order-3bb870cd6fa4cd4722e5785e",
+      "name": "31DRV1400 — Protection relay, voltage monitoring for single phase systems, DIN rail version, minimum and maximum voltage, 380-400-415VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3bb870cd6fa4cd4722e5785e",
+      "recordPath": "equipment/lovato-order-3bb870cd6fa4cd4722e5785e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3bb870cd6fa4cd4722e5785e.json"
+    },
+    {
+      "id": "lovato-order-a1cb8f12b602aaef39e15a5c",
+      "name": "31DRV1460 — Protection relay, voltage monitoring for single phase systems, DIN rail version, minimum and maximum voltage, 440-460-480VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a1cb8f12b602aaef39e15a5c",
+      "recordPath": "equipment/lovato-order-a1cb8f12b602aaef39e15a5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a1cb8f12b602aaef39e15a5c.json"
+    },
+    {
+      "id": "lovato-order-d472f306cd610fd7f6676fe1",
+      "name": "31DLA11024 — Protection relay, current monitoring for single phase systems, DIN rail version, maximum current AC/DC 1-5-10A, 24VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d472f306cd610fd7f6676fe1",
+      "recordPath": "equipment/lovato-order-d472f306cd610fd7f6676fe1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d472f306cd610fd7f6676fe1.json"
+    },
+    {
+      "id": "lovato-order-85ee0440b35e1650dc5fa530",
+      "name": "GEX8900 — DIN rail mounting kit for GE0160P, GE0160 T4P and GE0160 DT4P",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-85ee0440b35e1650dc5fa530",
+      "recordPath": "equipment/lovato-order-85ee0440b35e1650dc5fa530.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-85ee0440b35e1650dc5fa530.json"
+    },
+    {
+      "id": "lovato-order-197a431523c377aaf4ca9c0e",
+      "name": "KXP01 — Cable gland, M20",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-197a431523c377aaf4ca9c0e",
+      "recordPath": "equipment/lovato-order-197a431523c377aaf4ca9c0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-197a431523c377aaf4ca9c0e.json"
+    },
+    {
+      "id": "lovato-order-08c8e578fc44bf25bc064a1b",
+      "name": "KXP02 — Cable gland, PG13,5",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-08c8e578fc44bf25bc064a1b",
+      "recordPath": "equipment/lovato-order-08c8e578fc44bf25bc064a1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-08c8e578fc44bf25bc064a1b.json"
+    },
+    {
+      "id": "lovato-order-9966b9b2c20f392356b7535c",
+      "name": "KXP03 — Cable gland, M20 rubber cable conduit",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9966b9b2c20f392356b7535c",
+      "recordPath": "equipment/lovato-order-9966b9b2c20f392356b7535c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9966b9b2c20f392356b7535c.json"
     }
   ]
 }

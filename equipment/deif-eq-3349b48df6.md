@@ -26,6 +26,7 @@ Manufacturer reference eq48-2d-cad-drawing.dwg; eq48-2d-pdf.pdf; eq48-3d-step-fi
 - Manufacturer reference: eq48-2d-cad-drawing.dwg; eq48-2d-pdf.pdf; eq48-3d-step-file.stp; eq48-3d-pdf.pdf
 - Manufacturer lifecycle: Active
 - Model envelope: eq48-3d-step-file.stp: 53 × 61.4 × 48 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60051-2, IEC 60051, IEC 61010-1, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 60529
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

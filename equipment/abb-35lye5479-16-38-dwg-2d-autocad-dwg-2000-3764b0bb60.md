@@ -8,7 +8,7 @@ ABB 35LYE5479\_16.38: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYE5479\_16.38; 35LYE5479
-- Formats: DWG, IGS, PDF, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “35LYE5479\_16.38”. Keep those frame, mounting
 - Document revision: E
 - Motor drawing designation (35LYE5479): HOR D90S-L TEFC B ODE MOUNT DRV INT SH GND ECS
 - Manufacturer reference: 35LYE5479
-- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5479_16.38&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; DWG; 700918 bytes
 - Delivery SHA-256: 103df6c073f5f234e285142ee6ad9f1cc571351f8cf81993f7cbe892b197b8c8
+
+### 35LYE5479\_16.38.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE5479\_16.38.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5479_16.38&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye5479-16-38-dwg-2d-autocad-dwg-2000-3764b0bb60/103df6c073f5f234e285-dxf)
+- Redistribution: unknown
+- Original SHA-256: 103df6c073f5f234e285142ee6ad9f1cc571351f8cf81993f7cbe892b197b8c8
+- Original bytes: 700918
+- Revision: E
+- Retrieved: 2026-11-04T00:59:54Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5479_16.38&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5479_16.38&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Delivery: converted; DXF; 2329729 bytes
+- Delivery SHA-256: b5714346760ea88f374b1b9276e0b6fc642b174173330f86bf40e45fa9ee9187
 
 ### 35LYE5479.pdf
 

@@ -25,6 +25,7 @@ The supplied configuration is “X1 IV F - X1 4 poles Fixed”. Keep those frame
 - Manufacturer drawing: 1SDH001292R0028
 - Manufacturer reference: 1SDH001292R0028
 - Document revision: -
+- Standards: IEC 60947-2, IEC 61000
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

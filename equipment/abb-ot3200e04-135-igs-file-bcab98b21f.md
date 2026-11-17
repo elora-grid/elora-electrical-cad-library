@@ -26,6 +26,7 @@ The supplied configuration is “OT3200E04-135”. Keep those frame, mounting an
 - Manufacturer drawing: OT3200E04
 - Manufacturer reference: OT3200E04
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

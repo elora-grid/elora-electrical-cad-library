@@ -8,7 +8,7 @@ ABB XT3 4p RC Type B: breaker or breaker-accessory reference for breaker compart
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0801
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT3 4p RC Type B”. Keep those frame, mounting
 - Manufacturer reference: 1SDH001295R0801
 - Document revision: A
 - Model envelope: 1SDH001295R0801\_XT3\_4p\_RC\_Type\_B.stp: 140 × 137.8 × 230.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0801&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 6227293 bytes
 - Delivery SHA-256: d90ec4a5e2a78af7cfdcded9c86d3f93051297283bd83a374722f43811488fd7
+
+### 1SDH001295R0801\_XT3\_4p\_RC\_Type\_B.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0801\_XT3\_4p\_RC\_Type\_B.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0801&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-rc-type-b-91960fdd17/d90ec4a5e2a78af7cfdc-dxf)
+- Redistribution: unknown
+- Original SHA-256: d90ec4a5e2a78af7cfdcded9c86d3f93051297283bd83a374722f43811488fd7
+- Original bytes: 6227293
+- Revision: A
+- Retrieved: 2026-11-03T02:10:26.021399Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0801&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0801&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 359049 bytes
+- Delivery SHA-256: 83b183969cc475810728329695b883549228986b0e52d1fda3c05cdba5e07336
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

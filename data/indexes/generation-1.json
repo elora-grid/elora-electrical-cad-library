@@ -295,6 +295,96 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/uk-fg-wilson-power-centre",
       "recordPath": "equipment/uk-fg-wilson-power-centre.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/uk-fg-wilson-power-centre.json"
+    },
+    {
+      "id": "mfr-abb-main-dimensions-shaft-generator-1120-mnm-189d9c2ae4",
+      "name": "MAIN DIMENSIONS SHAFT GENERATOR 1120 MNM",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-main-dimensions-shaft-generator-1120-mnm-189d9c2ae4",
+      "recordPath": "equipment/mfr-abb-main-dimensions-shaft-generator-1120-mnm-189d9c2ae4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-main-dimensions-shaft-generator-1120-mnm-189d9c2ae4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pulse-output-generator-module-177f213b32",
+      "name": "Pulse Output Generator Module",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pulse-output-generator-module-177f213b32",
+      "recordPath": "equipment/mfr-schneider-electric-pulse-output-generator-module-177f213b32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pulse-output-generator-module-177f213b32.json"
+    },
+    {
+      "id": "ls-doc-36545",
+      "name": "[Susol VCB for Generator Applications]_VH_17.5kV 50kA 4000A, P275, H type VCB",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-36545",
+      "recordPath": "equipment/ls-doc-36545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-36545.json"
+    },
+    {
+      "id": "ls-doc-37055",
+      "name": "[Susol VCB for Generator Applications]_VH_17.5kV 50kA 5000A, P275, P type VCB",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-37055",
+      "recordPath": "equipment/ls-doc-37055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-37055.json"
+    },
+    {
+      "id": "lovato-order-c8900a720780d1d56cd66dd9",
+      "name": "11G323 — Paralleling links, for 2 poles, for BG... (without BGX8000)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c8900a720780d1d56cd66dd9",
+      "recordPath": "equipment/lovato-order-c8900a720780d1d56cd66dd9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c8900a720780d1d56cd66dd9.json"
+    },
+    {
+      "id": "lovato-order-129c7ae9f7cb5416c0c14f1b",
+      "name": "11G324 — Paralleling links, for 2 poles, for BG... (with BGX8000)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-129c7ae9f7cb5416c0c14f1b",
+      "recordPath": "equipment/lovato-order-129c7ae9f7cb5416c0c14f1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-129c7ae9f7cb5416c0c14f1b.json"
+    },
+    {
+      "id": "lovato-order-973addc9a16b6257b854c172",
+      "name": "11G325 — Paralleling links, for 4 poles, for BG... (without BGX8000)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-973addc9a16b6257b854c172",
+      "recordPath": "equipment/lovato-order-973addc9a16b6257b854c172.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-973addc9a16b6257b854c172.json"
+    },
+    {
+      "id": "lovato-order-810ec9a17fd8b990bad18415",
+      "name": "11G326 — Paralleling links, for 4 poles, for BG... (with BGX8000)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-810ec9a17fd8b990bad18415",
+      "recordPath": "equipment/lovato-order-810ec9a17fd8b990bad18415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-810ec9a17fd8b990bad18415.json"
     }
   ]
 }

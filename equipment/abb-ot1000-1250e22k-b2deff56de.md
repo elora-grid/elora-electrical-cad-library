@@ -25,9 +25,10 @@ The supplied configuration is “OT1000-1250E22K”. Keep those frame, mounting 
 - Manufacturer drawing: 1SCC301722F0002
 - Manufacturer reference: 1SCC301722F0002
 - Document revision: B
+- Standards: IEC 60947-3
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: B
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +65,7 @@ Use OT1000E22K\_B\_1SCC301722F0002.dxf revision B for editable DXF drawing geome
 
 ## Preview
 
-![ABB OT1000-1250E22K: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot1000-1250e22k-b2deff56de/9947ed90c470270996e6?asset=9947ed90c470270996e6f563b09ebf4802198f27cf5a10d336e0c359809a825d)
+![ABB OT1000-1250E22K: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot1000-1250e22k-b2deff56de/9947ed90c470270996e6?asset=9947ed90c470270996e6f563b09ebf4802198f27cf5a10d336e0c359809a825d&view=thumb&v=6f1703e31358d77c)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot1000-1250e22k-b2deff56de). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

@@ -25,6 +25,7 @@ The supplied configuration is “OT315...OT400E03”. Keep those frame, mounting
 - Manufacturer drawing: OT315-400E03.IGS; OT315-400E03.STP
 - Manufacturer reference: OT315-400E03.IGS; OT315-400E03.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

@@ -8,7 +8,7 @@ ABB 35LYE2261\_11.63: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYE2261\_11.63; 35LYE2261
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -32,8 +32,8 @@ The supplied configuration is “35LYE2261\_11.63”. Keep those frame, mounting
 - Manufacturer reference: 35LYE2261\_13.00; 35LYE2261
 - Model envelope: 35LYE2261\_13.00.step: 330.3 × 172.9 × 226 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 35LYE2261
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 13
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 16
 - Available previews: 4 drawing previews; 3 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
@@ -139,6 +139,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 591938 bytes
 - Delivery SHA-256: ba2ac07ad94daba30fa9639a8c6827c42e6447baf95c01983443230119fef6c9
 
+### 35LYE2261\_11.63.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2261\_11.63.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_11.63&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145/ba2ac07ad94daba30fa9-dxf)
+- Redistribution: unknown
+- Original SHA-256: ba2ac07ad94daba30fa9639a8c6827c42e6447baf95c01983443230119fef6c9
+- Original bytes: 591938
+- Revision: F
+- Retrieved: 2026-11-04T00:59:33Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_11.63&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_11.63&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 1886619 bytes
+- Delivery SHA-256: 0df74d1412579c9e8e796e7b50017ad0ee028b101fb98e1b1f4cf24c4ac5beaf
+
 ### 35LYE2261.pdf
 
 - Format: PDF
@@ -196,6 +215,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 591866 bytes
 - Delivery SHA-256: 09feaf68193a21b7b82a5f5114380d3f72b5aa1ca32265f965571036a4d30d1f
 
+### 35LYE2261\_12.13.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2261\_12.13.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_12.13&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145/09feaf68193a21b7b82a-dxf)
+- Redistribution: unknown
+- Original SHA-256: 09feaf68193a21b7b82a5f5114380d3f72b5aa1ca32265f965571036a4d30d1f
+- Original bytes: 591866
+- Revision: F
+- Retrieved: 2026-11-04T00:59:33Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_12.13&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_12.13&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 1885140 bytes
+- Delivery SHA-256: c67dfdb5fcc9b836adc6798642d886f665288fc3e7be58a6000bfb41b723cd83
+
 ### 35LYE2261\_12.13.step
 
 - Format: STEP
@@ -233,6 +271,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; DWG; 595327 bytes
 - Delivery SHA-256: 09ab27b079d101f92bb55bcfef94b888fc21b034d0ffe44cbfc80279e448926b
+
+### 35LYE2261\_13.00.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2261\_13.00.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145/09ab27b079d101f92bb5-dxf)
+- Redistribution: unknown
+- Original SHA-256: 09ab27b079d101f92bb55bcfef94b888fc21b034d0ffe44cbfc80279e448926b
+- Original bytes: 595327
+- Revision: F
+- Retrieved: 2026-11-04T00:59:37Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 1900506 bytes
+- Delivery SHA-256: ca3a196473c99eee3cb617d95e7286dd867f2b33232f6fe75d50230176ff11f8
 
 ### 35LYE2261\_13.00.step
 

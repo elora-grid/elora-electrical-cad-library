@@ -7,7 +7,7 @@ Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Acce
 - Category: Automation & controls
 - Entry type: product
 - Part number: ADXL0060600
-- Formats: DWG, STP
+- Formats: DWG, STP, DXF, STEP
 - Discovery markets: UK, Europe, Global
 - Access: direct
 - Checked: 2026-10-14T01:07:25.812525+00:00
@@ -22,9 +22,10 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Manufacturer: LOVATO Electric
 - Resource type: Product
 - Part number: ADXL0060600
-- Listed file formats: DWG, STP
-- Listed files: 2
-- Available previews: 1 drawing previews; 1 interactive model variants
+- Standards: IEC 60947-1, IEC 60947-4-2
+- Listed file formats: DWG, STP, DXF, STEP
+- Listed files: 5
+- Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
 - Download access: Email registration for site downloads; official source links are also available
@@ -45,7 +46,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with ADXL0060600. The files above belong to LOVATO Electric's ADXL0060600 60 A soft starter resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, STP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, STP, STEP. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -84,6 +85,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 96869 bytes
 - Delivery SHA-256: f88efdef4af9810c28558653edd26efb66f473b4e613f50628836a7d94bbc8ec
 
+### 2d\_ADXL0060600.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (2d\_ADXL0060600.dwg).
+- [Official source](https://catalogue.lovatoelectric.com/ca_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_ADXL0060600.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-adxl0060600/europe-lovato-adxl0060600-288d342ee18c-dxf)
+- Redistribution: unknown
+- Original SHA-256: f88efdef4af9810c28558653edd26efb66f473b4e613f50628836a7d94bbc8ec
+- Original bytes: 96869
+- Revision: Not recorded
+- Retrieved: 2026-10-14T01:07:25.812525+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/ca_en/Soft-starter-ADXL-type-with-integrated-by-pass-relay-Auxiliary-supply-100-240VAC-Rated-operational-voltage-208-600VAC-60A/ADXL0060600/snp)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gb_en/Stand-alone-gen-set-controller-12-24VDC-USB-optical-and-Wi-Fi-point-programming-port-on-front-W-Pick-up-speed-input-IP54/RGK600SA/snp)
+- [Rights evidence](https://catalogue.lovatoelectric.com/)
+- Delivery: converted; DXF; 75543 bytes
+- Delivery SHA-256: e923789177d2487ea9d84c097bc609cd2dc53bf919591efe0964ab5aca9365cb
+
 ### 3d\_ADXL0060600.stp
 
 - Format: STP
@@ -103,5 +124,43 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://catalogue.lovatoelectric.com/)
 - Delivery: original; STP; 196905 bytes
 - Delivery SHA-256: aa776bbecf0ea7fd1556e639d64772280475b09da688f112a96afab1e64520f0
+
+### 3d\_ADXL0060600.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_ADXL0060600.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-adxl0060600/native-aa776bbecf0ea7fd1556e639-step)
+- Redistribution: unknown
+- Original SHA-256: aa776bbecf0ea7fd1556e639d64772280475b09da688f112a96afab1e64520f0
+- Original bytes: 196905
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_ADXL0060600.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_ADXL0060600.stp)
+- Delivery: source-bundle; ZIP; 35330 bytes
+- Delivery SHA-256: 8aa704bf6e19c87984eac1ce9e164985013c7bd7c1080a846161841a6bdf39c1
+
+### 2D\_SOST\_015.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-adxl0060600/native-1c5b6471b43816b9c013bdd4-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1c5b6471b43816b9c013bdd49bb700bfd3a1401034b74d51d9ac65858c59dd9c
+- Original bytes: 391566
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 40711 bytes
+- Delivery SHA-256: b1e1865e78bf6d844b28213f899e2a51144d509b9ed9b7c0d434a1e890b766d2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

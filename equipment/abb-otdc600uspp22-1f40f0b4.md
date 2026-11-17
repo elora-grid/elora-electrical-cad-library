@@ -26,7 +26,7 @@ Original DXF drawing for OTDC600USPP22; ABB document 1SCC307469F0001
 - Manufacturer drawing: 1SCC307469F0001
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307469F0001.dxf for OTDC600USPP22. DXF is the supplied drawing format; t
 
 ## Preview
 
-![ABB OTDC600USPP22: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc600uspp22-1f40f0b4/original?asset=b20b28bf9fb1c9c131c9c11d3d843a39ea425598513ce42badda8dd8d7117165)
+![ABB OTDC600USPP22: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc600uspp22-1f40f0b4/original?asset=b20b28bf9fb1c9c131c9c11d3d843a39ea425598513ce42badda8dd8d7117165&view=thumb&v=4bfca77f4d6d0ccf)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc600uspp22-1f40f0b4). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

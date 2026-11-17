@@ -8,7 +8,7 @@ ABB 06LYH926 motor dimension drawing: motor outline for motor footprint and driv
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 06LYH926
-- Formats: IGS, PDF, SLDPRT, STEP
+- Formats: IGS, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “06LYH926: Dimension Sheet”. Keep those frame,
 - Document revision: D
 - Motor drawing designation (06LYH926): STD HORZ 182-4TC TEFC V\*S MASTER INVERTER
 - Manufacturer reference: 06LYH926\_20.23; 06LYH926
-- Listed file formats: IGS, PDF, SLDPRT, STEP
-- Listed files: 4
+- Listed file formats: IGS, PDF, SLDPRT, STEP, DXF
+- Listed files: 5
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -146,6 +146,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=STEP&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; STEP; 11764667 bytes
 - Delivery SHA-256: f8a969d8f4f8772ad50d724cf003c8c0692b9aa1ad468736db629d67836de1c0
+
+### 06LYH926\_20.23.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (06LYH926\_20.23.step).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=STEP&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-06lyh926-dimension-sheet-fbb0346767/f8a969d8f4f8772ad50d-dxf)
+- Redistribution: unknown
+- Original SHA-256: f8a969d8f4f8772ad50d724cf003c8c0692b9aa1ad468736db629d67836de1c0
+- Original bytes: 11764667
+- Revision: D
+- Retrieved: 2026-11-04T04:29:28Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=STEP&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH926_20.23&LanguageCode=en&DocumentPartId=STEP&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 1183821 bytes
+- Delivery SHA-256: 074883b7f5777f26514aba042d84f95891277fcbd07a57efc0d93da0e1aa407b
 
 ### 06LYH926\_20.23.sldprt
 

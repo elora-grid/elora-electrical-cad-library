@@ -25,6 +25,7 @@ The supplied configuration is “OT1000E03N3”. Keep those frame, mounting and 
 - Manufacturer drawing: 9AKK108468A2284
 - Manufacturer reference: 9AKK108468A2284
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

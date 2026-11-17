@@ -1,0 +1,117 @@
+# Eaton — DDC-400/2-SK — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting
+
+Eaton DDC-400/2-SK — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3717d72ba478a4f3ca7a750b) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-3717d72ba478a4f3ca7a750b.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-3717d72ba478a4f3ca7a750b.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/c3e58e2b-68ca-40fe-9cc0-097971a847ed/cad_files_001.zip)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 6098944
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: DDC-400/2-SK — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 6098944
+- Manufacturer reference: 6098944
+- Manufacturer type: DDC-400/2-SK
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 6098944 ([source](https://ecat.eaton.com/downloads/c3e58e2b-68ca-40fe-9cc0-097971a847ed/cad_files_001.zip))
+- Manufacturer type: DDC-400/2-SK ([source](https://ecat.eaton.com/downloads/c3e58e2b-68ca-40fe-9cc0-097971a847ed/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/c3e58e2b-68ca-40fe-9cc0-097971a847ed/cad_files_001.zip))
+
+## What the equipment does
+
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
+
+Use eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp.
+
+Use eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp. Use ddc\_400\_2\_sk.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ddc\_400\_2\_sk.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 6098944 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for DDC-400/2-SK — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting?
+
+2 inspected originals for Eaton DDC-400/2-SK — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting: eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp (STEP); ddc\_400\_2\_sk.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/c3e58e2b-68ca-40fe-9cc0-097971a847ed/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/c3e58e2b-68ca-40fe-9cc0-097971a847ed/cad_files_001.zip)
+
+## Choosing a file
+
+Use eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp. Use ddc\_400\_2\_sk.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ddc\_400\_2\_sk.dwg.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-3717d72ba478a4f3ca7a750b/native-59fcaf7811a6b2a973200112-step)
+- Redistribution: unknown
+- Original SHA-256: 59fcaf7811a6b2a97320011284236a19499f091c405dcebdf9dd2a96bf60813b
+- Original bytes: 2610487
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp02/eaton-enclosed-rotary-disconnects-mcad-3d-models-ddc-250-400-630-2-sk.stp)
+- Delivery: source-bundle; ZIP; 333205 bytes
+- Delivery SHA-256: a41d3ba06dabf6fe83511d417b32919899b345e970bbc877cae111632db10a7f
+
+### ddc\_400\_2\_sk.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/ddc_400_2_sk.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-3717d72ba478a4f3ca7a750b/native-7543b967717cf2454b63ccf2-dwg)
+- Redistribution: unknown
+- Original SHA-256: 7543b967717cf2454b63ccf23aff8d75edff28910269f0f19a78068a5b96ce6e
+- Original bytes: 552544
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/ddc_400_2_sk.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/ddc_400_2_sk.dwg)
+- Delivery: source-bundle; ZIP; 471790 bytes
+- Delivery SHA-256: 322a4b166280d61df28a8f9e7666cd99dbdb705282c6d356d75cd91fcbd98392
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

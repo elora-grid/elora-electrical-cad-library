@@ -25,6 +25,7 @@ The supplied configuration is “OT315E03D, OT400E03D”. Keep those frame, moun
 - Manufacturer drawing: OT315-400E03D.IGS
 - Manufacturer reference: OT315-400E03D.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

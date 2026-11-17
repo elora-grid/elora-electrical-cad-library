@@ -25,6 +25,7 @@ The supplied configuration is “OT200-250ES40K”. Keep those frame, mounting a
 - Manufacturer drawing: 1SCC301398F0001
 - Manufacturer reference: 1SCC301398F0001
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DWG
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

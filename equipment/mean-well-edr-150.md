@@ -22,6 +22,7 @@ Check the selected EDR-150 rating and connection arrangement before transferring
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: EDR-150-24
+- Standards: IEC 62368-1, IEC 60204-1, EN 55032, IEC 61000-3-2, IEC 61000-3-3, EN 55035, IEC 61000-6-2, EN 50082-2
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

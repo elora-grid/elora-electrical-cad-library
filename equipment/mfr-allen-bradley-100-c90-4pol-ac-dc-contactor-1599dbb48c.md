@@ -1,0 +1,114 @@
+# Allen-Bradley — 100-C90 4POL AC DC Contactor
+
+Allen-Bradley 100-C90 4POL AC DC Contactor: original STEP for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-100-c90-4pol-ac-dc-contactor-1599dbb48c) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-100-c90-4pol-ac-dc-contactor-1599dbb48c.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-100-c90-4pol-ac-dc-contactor-1599dbb48c.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 100-C90
+- Installation applications: switchgear, substations, microgrids
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named 100-C90 4POL AC DC Contactor.
+
+## Equipment and file summary
+
+- Equipment / resource: 100-C90 4POL AC DC Contactor
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: 100-C90
+- Manufacturer drawing identity: 100-C90 4POL AC DC Contactor
+- Source-model envelope: 95 × 122.1 × 123.5 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: 100-C90 4POL AC DC Contactor ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 95 × 122.1 × 123.5 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
+
+Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 100-C90\_4pol\_AC\_DC.stp inside it to place the original solid geometry in your 3D assembly.
+
+Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 100-C90\_4pol\_AC\_DC.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley 100-C90 and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 95 × 122.1 × 123.5 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 100-C90 4POL AC DC Contactor?
+
+1 inspected original for Allen-Bradley 100-C90 4POL AC DC Contactor: Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip (ZIP).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 100-C90\_4pol\_AC\_DC.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Allen-Bradley 100-C90 4POL AC DC Contactor: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-allen-bradley-100-c90-4pol-ac-dc-contactor-1599dbb48c/nhp-197748?asset=9756d70397299e41209be2e887f2d13ad5e1d4787825762d3b951d3c5d796b2e&view=thumb&v=77e0bec0fb00169f)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-100-c90-4pol-ac-dc-contactor-1599dbb48c). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-100-c90-4pol-ac-dc-contactor-1599dbb48c/nhp-197748)
+- Redistribution: unknown
+- Original SHA-256: 983422468aeb0835e6962ce866d5a257c2b8ea8bc856248b0cfef8308e6c7d40
+- Original bytes: 86796
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:36:28.712458+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C90-4POL-AC-DC-Contactor-STP-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 86796 bytes
+- Delivery SHA-256: 983422468aeb0835e6962ce866d5a257c2b8ea8bc856248b0cfef8308e6c7d40
+
+<details>
+<summary>Archive members</summary>
+
+- 100-C90\_4pol\_AC\_DC.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

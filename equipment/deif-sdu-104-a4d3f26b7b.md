@@ -26,6 +26,7 @@ Manufacturer reference sdu-104-2d-cad-drawing.dwg; sdu-104-2d-pdf.pdf; sdu-104-3
 - Manufacturer drawing: sdu-104-2d-cad-drawing.dwg; sdu-104-2d-pdf.pdf; sdu-104-3d-step-file.stp
 - Manufacturer nominal dimensions: 156 mm length × 125 mm height × 59 mm depth; data sheet 4921240625G, page 16.
 - Mounting and nominal weight: DIN mounting; 0.79 kg.
+- Standards: IEC 60255-1, IEC 60529, IEC 60255-27, IEC 60255-26
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 5
 - Available previews: Manufacturer source / drawing request

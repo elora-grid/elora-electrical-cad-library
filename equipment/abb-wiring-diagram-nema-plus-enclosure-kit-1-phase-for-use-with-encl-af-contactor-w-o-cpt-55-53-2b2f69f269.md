@@ -8,7 +8,7 @@ ABB Wiring Diagram, NEMA Plus Enclosure Kit, 1 phase, for use with encl AF conta
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SQC912739D0201
-- Formats: DWG, PDF
+- Formats: DWG, PDF, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This is an electrical connection reference. Use a separate equipment outline for
 - Manufacturer drawing: 1SQC912739D0201
 - Manufacturer reference: 1SQC912739D0201
 - Document revision: A
-- Listed file formats: DWG, PDF
-- Listed files: 2
+- Listed file formats: DWG, PDF, DXF
+- Listed files: 3
 - Available previews: 2 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,6 +96,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912739D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 469135 bytes
 - Delivery SHA-256: 332a9bfe7c95cf4a79890e6ea0e8b1e5922c9fb00fa409c7e6426f339320042a
+
+### 55\_539660S1.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (55\_539660S1.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912739D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-wiring-diagram-nema-plus-enclosure-kit-1-phase-for-use-with-encl-af-contactor-w-o-cpt-55-53-2b2f69f269/332a9bfe7c95cf4a7989-dxf)
+- Redistribution: unknown
+- Original SHA-256: 332a9bfe7c95cf4a79890e6ea0e8b1e5922c9fb00fa409c7e6426f339320042a
+- Original bytes: 469135
+- Revision: A
+- Retrieved: 2026-11-04T00:59:00Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912739D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912739D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 692235 bytes
+- Delivery SHA-256: 405629de2cef1f9c3d6786e9d5f31dbda6907e4244070b6177a4058b1c72afc4
 
 ### 1SQC912739D0201.pdf
 

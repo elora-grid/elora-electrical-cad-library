@@ -9,7 +9,7 @@ E4.2 III F INSULATING SHEET: ABB manufacturer STEP resource, document 1SDH001252
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0364
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E4.2 III F INSULATING SHEET; ABB document 1SDH0012
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0364
 - Model extents (X × Y × Z, mm): 494.0 × 2.0 × 455.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0364&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 15758 bytes
 - Delivery SHA-256: 23e3c147e70d38fa3eb1438ddac9aaa3dcab164f8198419e9ffece48ed047670
+
+### 1SDH001252R0364\_E4.2\_III\_F\_INSULATING\_SHEET.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0364\_E4.2\_III\_F\_INSULATING\_SHEET.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0364&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-iii-f-insulating-sheet-7294defb/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 23e3c147e70d38fa3eb1438ddac9aaa3dcab164f8198419e9ffece48ed047670
+- Original bytes: 15758
+- Revision: A
+- Retrieved: 2026-11-03T01:32:29.953402+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0364&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0364&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 27461 bytes
+- Delivery SHA-256: c9b6a8f1c27a480c3a920b5b4ca38a279e8fee0c2bcf90a9e4342bc6916ad4b8
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

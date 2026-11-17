@@ -25,6 +25,7 @@ The supplied configuration is “T1, 4 Pole”. Keep those frame, mounting and a
 - Manufacturer drawing: 9AKK106103A4767; 9AKK106103A4766
 - Manufacturer reference: 9AKK106103A4767; 9AKK106103A4766
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: IGES, PDF
 - Listed files: 2
 - Available previews: 1 drawing previews; 1 interactive model variants

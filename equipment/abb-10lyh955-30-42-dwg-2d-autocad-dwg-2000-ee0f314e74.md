@@ -8,7 +8,7 @@ ABB 10LYH955\_30.42: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYH955\_30.42
-- Formats: DWG, IGS, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “10LYH955\_30.42”. Keep those frame, mounting 
 - Manufacturer drawing: 10LYH955\_30.42
 - Manufacturer reference: 10LYH955\_30.42
 - Document revision: D
-- Listed file formats: DWG, IGS, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, IGS, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -103,6 +103,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH955_30.42&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 983552 bytes
 - Delivery SHA-256: 02c2bfdcdd23f2f62251800f9af4ee6f1d42580bc5f6ab743af42058cf7e645d
+
+### 10LYH955\_30.42.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYH955\_30.42.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYH955_30.42&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyh955-30-42-dwg-2d-autocad-dwg-2000-ee0f314e74/02c2bfdcdd23f2f62251-dxf)
+- Redistribution: unknown
+- Original SHA-256: 02c2bfdcdd23f2f62251800f9af4ee6f1d42580bc5f6ab743af42058cf7e645d
+- Original bytes: 983552
+- Revision: D
+- Retrieved: 2026-11-04T00:25:07Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH955_30.42&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH955_30.42&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 3219087 bytes
+- Delivery SHA-256: f1702171201bfef19cce15fafb78e19604b13c3ad7c82e3aa74ae7e423936c6e
 
 ### 10LYH955\_30.42.step
 

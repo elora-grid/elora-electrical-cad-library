@@ -1,0 +1,128 @@
+# Schneider Electric — Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC
+
+Schneider Electric Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC: original DXF / STEP for protection or metering equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/rm22tg20-3d/)
+
+- Category: Protection & metering
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC.
+
+## Equipment and file summary
+
+- Equipment / resource: Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Manufacturer drawing identity: Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC
+- Source document: rm22tg20-3d; revision 1.0
+- Source-model envelope: 22.9 × 95.4 × 79.5 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC ([source](https://www.se.com/us/en/download/document/rm22tg20-3d/))
+- Source document: rm22tg20-3d; revision 1.0 ([source](https://download.se.com/files?p_File_Name=RM22TG20_2D-front.dxf&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD))
+- Source document: rm22tg20-3d; revision 1.0 ([source](https://download.se.com/files?p_File_Name=RM22TG20n_3D-Simpl.stp&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD))
+- Source-model envelope: 22.9 × 95.4 × 79.5 mm ([source](https://download.se.com/files?p_File_Name=RM22TG20n_3D-Simpl.stp&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.se.com/us/en/download/document/rm22tg20-3d/))
+
+## What the equipment does
+
+A relay uses an electrical input or measured condition to change its contacts or output. This lets one circuit pass a command or indication to another.
+
+Use RM22TG20\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified RM22TG20\_2D-front.dxf.
+
+Use RM22TG20\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified RM22TG20\_2D-front.dxf. Use RM22TG20n\_3D-Simpl.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified RM22TG20n\_3D-Simpl.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 22.9 × 95.4 × 79.5 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: RM22TG20\_2D-front.dxf — 1.0; RM22TG20n\_3D-Simpl.stp — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC?
+
+2 inspected originals for Schneider Electric Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC: RM22TG20\_2D-front.dxf (DXF); RM22TG20n\_3D-Simpl.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/rm22tg20-3d/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/rm22tg20-3d/)
+
+## Choosing a file
+
+Use RM22TG20\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified RM22TG20\_2D-front.dxf. Use RM22TG20n\_3D-Simpl.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified RM22TG20n\_3D-Simpl.stp.
+
+## Preview
+
+![Schneider Electric Modular 3-phase supply control relay, 8 A, 2 CO, 183…528 V AC: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4/se-ef6e2ac01c42cebc8c54?asset=1b63904e46adffa83537b2cffaa87c3dd9db7e904d309119c46f576a6452f7cb&view=thumb&v=bc94dfe974195af9)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### RM22TG20\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://download.se.com/files?p_File_Name=RM22TG20_2D-front.dxf&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4/se-9fe5082efeacda474365)
+- Redistribution: unknown
+- Original SHA-256: 7728f355cd0bfa0b5a77a54a83eca13399b1de26359186d7080716a94380e092
+- Original bytes: 1150709
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:48:39.520377+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/rm22tg20-3d/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=RM22TG20_2D-front.dxf&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 100719 bytes
+- Delivery SHA-256: b5a8d13e6c38385b4f9db1b337d27da5e586b4468164062e97912d9ce0383ea1
+
+### RM22TG20n\_3D-Simpl.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://download.se.com/files?p_File_Name=RM22TG20n_3D-Simpl.stp&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-modular-3-phase-supply-control-relay-8-a-2-co-183-528-v-ac-24796a65d4/se-ef6e2ac01c42cebc8c54)
+- Redistribution: unknown
+- Original SHA-256: 1b63904e46adffa83537b2cffaa87c3dd9db7e904d309119c46f576a6452f7cb
+- Original bytes: 550541
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:07:41.841997+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/rm22tg20-3d/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=RM22TG20n_3D-Simpl.stp&p_Doc_Ref=rm22tg20-3d&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 108882 bytes
+- Delivery SHA-256: 067fae347f54edd9e4f6afbbc18fa7d8aa157e201fea993d57eaeb831373304f
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

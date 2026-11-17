@@ -25,6 +25,7 @@ Manufacturer reference tdg-210dg-quick-guide-1159040018d-uk.pdf; dnv-rai-b-medb0
 - Manufacturer drawing: tdg-210dg-quick-guide-1159040018d-uk.pdf; dnv-rai-b-medb00003an-uk.pdf
 - Manufacturer reference: tdg-210dg-quick-guide-1159040018d-uk.pdf; dnv-rai-b-medb00003an-uk.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, EN 50081-1, EN 50081-2, EN 50082-1, EN 50082-2, IEC 60255-22-1, IEC 60529
 - Listed file formats: PDF
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

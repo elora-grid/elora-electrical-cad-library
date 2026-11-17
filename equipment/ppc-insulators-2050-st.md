@@ -32,6 +32,7 @@ Use the 2050 ST column on PDF page 14. The download is the complete catalogue, n
 - Diameter Db (in): 8.7
 - Cantilever Strength, Upright, Pounds: 1200
 - Impulse Withstand, kV: 2050
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

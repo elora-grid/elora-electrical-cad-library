@@ -22,6 +22,7 @@ Use only for the model/configuration stated in each original drawing.
 - Manufacturer: TDK-Lambda
 - Resource type: Product
 - Part number: DRF960
+- Standards: IEC 60950-1, UL 60950-1, UL 508, IEC 60079, ISA 12.12.01
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

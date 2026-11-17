@@ -32,6 +32,7 @@ Use the 900 SUP column on PDF page 10. The download is the complete catalogue, n
 - Diameter Db (in): 6.2
 - Cantilever Strength, Upright, Pounds: 950
 - Impulse Withstand, kV: 900
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

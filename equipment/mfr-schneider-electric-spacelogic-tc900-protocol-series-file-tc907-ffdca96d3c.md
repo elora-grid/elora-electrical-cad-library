@@ -1,0 +1,104 @@
+# Schneider Electric — SpaceLogic TC900 Protocol Series – File, TC907
+
+Schneider Electric SpaceLogic TC900 Protocol Series – File, TC907: original DXF for enclosure temperature-control equipment layouts. CAD file for the TC907 Protocol Series thermostat, DXF format.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-spacelogic-tc900-protocol-series-file-tc907-ffdca96d3c) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-spacelogic-tc900-protocol-series-file-tc907-ffdca96d3c.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-spacelogic-tc900-protocol-series-file-tc907-ffdca96d3c.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/TC907_Prot_CAD/)
+
+- Category: Thermal management
+- Entry type: family
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+CAD file for the TC907 Protocol Series thermostat, DXF format
+
+## Equipment and file summary
+
+- Equipment / resource: SpaceLogic TC900 Protocol Series – File, TC907
+- Manufacturer: Schneider Electric
+- Resource type: Product family
+- Manufacturer configuration: CAD file for the TC907 Protocol Series thermostat, DXF format
+- Manufacturer drawing identity: SpaceLogic TC900 Protocol Series – File, TC907
+- Source document: TC907\_Prot\_CAD; revision 1.0
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: CAD file for the TC907 Protocol Series thermostat, DXF format ([source](https://www.se.com/us/en/download/document/TC907_Prot_CAD/))
+- Manufacturer drawing identity: SpaceLogic TC900 Protocol Series – File, TC907 ([source](https://www.se.com/us/en/download/document/TC907_Prot_CAD/))
+- Source document: TC907\_Prot\_CAD; revision 1.0 ([source](https://download.se.com/files?p_Doc_Ref=TC907_Prot_CAD&p_enDocType=CAD))
+
+## What the equipment does
+
+A temperature device measures how hot something is or changes an output when a temperature condition is reached.
+
+Use CAD\_TC900BACnet\_TC907\_231211.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified CAD\_TC900BACnet\_TC907\_231211.dxf.
+
+Use CAD\_TC900BACnet\_TC907\_231211.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified CAD\_TC900BACnet\_TC907\_231211.dxf.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: CAD file for the TC907 Protocol Series thermostat, DXF format
+- The source was checked on 2026-11-11; recorded file revisions: CAD\_TC900BACnet\_TC907\_231211.dxf — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for SpaceLogic TC900 Protocol Series – File, TC907?
+
+1 inspected original for Schneider Electric SpaceLogic TC900 Protocol Series – File, TC907: CAD\_TC900BACnet\_TC907\_231211.dxf (DXF). The manufacturer describes this configuration as CAD file for the TC907 Protocol Series thermostat, DXF format.
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/TC907\_Prot\_CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/TC907_Prot_CAD/)
+
+## Choosing a file
+
+Use CAD\_TC900BACnet\_TC907\_231211.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified CAD\_TC900BACnet\_TC907\_231211.dxf.
+
+## Preview
+
+![Schneider Electric SpaceLogic TC900 Protocol Series – File, TC907: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-schneider-electric-spacelogic-tc900-protocol-series-file-tc907-ffdca96d3c/se-ca745aff14f73c6639af?asset=589f39109c8bb6ab541f7810e6c2d50ce95a0940067916a91f506fd4eb8f857d)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-spacelogic-tc900-protocol-series-file-tc907-ffdca96d3c). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Enclosure filter fan](https://eloragrid.ai/objects/ga-enclosure-filter-fan)
+- [Enclosure air conditioner](https://eloragrid.ai/objects/ga-enclosure-air-conditioner)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### CAD\_TC900BACnet\_TC907\_231211.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://download.se.com/files?p_Doc_Ref=TC907_Prot_CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-spacelogic-tc900-protocol-series-file-tc907-ffdca96d3c/se-ca745aff14f73c6639af)
+- Redistribution: unknown
+- Original SHA-256: 589f39109c8bb6ab541f7810e6c2d50ce95a0940067916a91f506fd4eb8f857d
+- Original bytes: 1353258
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:18:48.117984+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/TC907_Prot_CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_Doc_Ref=TC907_Prot_CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 194744 bytes
+- Delivery SHA-256: c5beb554a2f49da7612444493e5cd0e0395486a5f7a2dc4bdb83b9682e8a79a9
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

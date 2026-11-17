@@ -25,6 +25,7 @@ The supplied configuration is “OT160G40K”. Keep those frame, mounting and ac
 - Manufacturer drawing: OT160G40K.IGS; OT160G40K.STP
 - Manufacturer reference: OT160G40K.IGS; OT160G40K.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

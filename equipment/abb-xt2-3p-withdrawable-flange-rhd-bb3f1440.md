@@ -9,7 +9,7 @@ XT2 3p WITHDRAWABLE FLANGE RHD: ABB manufacturer STEP resource, document 1SDH001
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0254
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT2 3p WITHDRAWABLE FLANGE RHD; ABB document 1SDH0
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0254
 - Model extents (X × Y × Z, mm): 124.5 × 7.5 × 111.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -102,5 +102,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0254&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 43365 bytes
 - Delivery SHA-256: e9ea1619d50bee753fd8f887e7585fc0eb78a0348150046b4c1c9516227bcc83
+
+### 1SDH001295R0254\_1PA\_001\_00\_XT2\_3P\_WITHDRAWABLE\_MOSTRINA\_RHD.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0254\_1PA\_001\_00\_XT2\_3P\_WITHDRAWABLE\_MOSTRINA\_RHD.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0254&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-3p-withdrawable-flange-rhd-bb3f1440/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: e9ea1619d50bee753fd8f887e7585fc0eb78a0348150046b4c1c9516227bcc83
+- Original bytes: 43365
+- Revision: A
+- Retrieved: 2026-11-03T01:36:54.971777+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0254&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0254&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 35476 bytes
+- Delivery SHA-256: 4c98f3ed86e93f9585612081c45b2f0a7c030ce8e23cbcaa0ef615cd4fbcff4c
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

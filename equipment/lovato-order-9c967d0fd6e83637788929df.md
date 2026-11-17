@@ -1,0 +1,140 @@
+# LOVATO Electric — DM4T4000 — Current transformer, solid core, for 100x30mm, 80x50mm, 70x60mm busbars, primary current 4000A
+
+LOVATO Electric DM4T4000 — Current transformer, solid core, for 100x30mm, 80x50mm, 70x60mm busbars, primary current 4000A. Retained manufacturer CAD files and drawings for transformers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9c967d0fd6e83637788929df) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-9c967d0fd6e83637788929df.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-9c967d0fd6e83637788929df.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/DM4T4000/DM4T4000/snp)
+
+- Category: Transformers & earthing
+- Entry type: product
+- Part number: DM4T4000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: DM4T4000 — Current transformer, solid core, for 100x30mm, 80x50mm, 70x60mm busbars, primary current 4000A
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: DM4T4000
+- Manufacturer reference: DM4T4000
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: DM4T4000 ([source](https://catalogue.lovatoelectric.com/gl_en/DM4T4000/DM4T4000/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/DM4T4000/DM4T4000/snp))
+
+## What the equipment does
+
+A current transformer, or CT, produces a smaller measuring current related to the alternating current in a power conductor. Meters and protection relays use that signal to monitor the circuit.
+
+Use 2d\_DM4T4000.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_DM4T4000.dwg.
+
+Use 2d\_DM4T4000.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_DM4T4000.dwg. Use 3d\_DM4T4000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_DM4T4000.stp. Use 2D\_UPPP\_023.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_UPPP\_023.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric DM4T4000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for DM4T4000 — Current transformer, solid core, for 100x30mm, 80x50mm, 70x60mm busbars, primary current 4000A?
+
+3 inspected originals for LOVATO Electric DM4T4000 — Current transformer, solid core, for 100x30mm, 80x50mm, 70x60mm busbars, primary current 4000A: 2d\_DM4T4000.dwg (DWG); 3d\_DM4T4000.stp (STEP); 2D\_UPPP\_023.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/DM4T4000/DM4T4000/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/DM4T4000/DM4T4000/snp)
+
+## Choosing a file
+
+Use 2d\_DM4T4000.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_DM4T4000.dwg. Use 3d\_DM4T4000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_DM4T4000.stp. Use 2D\_UPPP\_023.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_UPPP\_023.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric DM4T4000 — Current transformer, solid core, for 100x30mm, 80x50mm, 70x60mm busbars, primary current 4000A: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-9c967d0fd6e83637788929df/native-98f9d765c6faeaf87ede732d-dxf?asset=98f9d765c6faeaf87ede732daa8d8205dac75731dbe7fb4035174b7b19c85056)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9c967d0fd6e83637788929df). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Transformer envelope](https://eloragrid.ai/objects/transformer-envelope)
+- [Control transformer](https://eloragrid.ai/objects/ga-control-transformer)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_DM4T4000.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_DM4T4000.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-9c967d0fd6e83637788929df/native-f8ed9c37b2559511e0109a64-dwg)
+- Redistribution: unknown
+- Original SHA-256: f8ed9c37b2559511e0109a64da8ca7d7aaa3ae396bce9a6b035ad4389e020bbe
+- Original bytes: 79987
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_DM4T4000.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_DM4T4000.dwg)
+- Delivery: source-bundle; ZIP; 25636 bytes
+- Delivery SHA-256: 531d13e1100bcd94fcd86d7a834f10b6aa7e7ebcc71eefb7ea0280176d9713bd
+
+### 3d\_DM4T4000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_DM4T4000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-9c967d0fd6e83637788929df/native-1350b43dd1764467405903b5-step)
+- Redistribution: unknown
+- Original SHA-256: 1350b43dd1764467405903b5639649e8486e3cbea717f64e79b63e034901fa7f
+- Original bytes: 786571
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_DM4T4000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_DM4T4000.stp)
+- Delivery: source-bundle; ZIP; 151349 bytes
+- Delivery SHA-256: ae75527df4e3fbd3f8b3684b019a5adfe01ac4833777e528cd527db45a9da734
+
+### 2D\_UPPP\_023.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-9c967d0fd6e83637788929df/native-98f9d765c6faeaf87ede732d-dxf)
+- Redistribution: unknown
+- Original SHA-256: 98f9d765c6faeaf87ede732daa8d8205dac75731dbe7fb4035174b7b19c85056
+- Original bytes: 276701
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 35045 bytes
+- Delivery SHA-256: d4ea7b6cf44b36c6fa699d7de205b6e31f38a88cffa198053a2f8be856fcb811
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

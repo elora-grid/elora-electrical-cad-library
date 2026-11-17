@@ -25,6 +25,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Manufacturer drawing: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; option-h6-cummins-gcs-communication-4189340698-uk.pdf; ml-2-2d-cad-drawings.zip
 - Manufacturer reference: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; option-h6-cummins-gcs-communication-4189340698-uk.pdf; ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-1, IEC 60255-127, IEC 60255-181, EN 50549-1, IEC 60255-151, IEC 60751, IEC 60688, UL 6200, IEC 61010-1, IEC 60255-27, IEC 61000-6-2, IEC 61000-6-4, IEC 60255-26, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

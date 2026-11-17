@@ -27,7 +27,7 @@ The supplied configuration is “OT200U01”. Keep those frame, mounting and acc
 - Document revision: A
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC301202F0001.dxf revision A for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OT200U01: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot200u01-ab7c1345bf/941760d650d32b47bacd?asset=941760d650d32b47bacd1321a0ed137338165e5a069696812b76c6a674372629)
+![ABB OT200U01: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot200u01-ab7c1345bf/941760d650d32b47bacd?asset=941760d650d32b47bacd1321a0ed137338165e5a069696812b76c6a674372629&view=thumb&v=2ac13c3fceeca700)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot200u01-ab7c1345bf). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

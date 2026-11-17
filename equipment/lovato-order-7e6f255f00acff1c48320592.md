@@ -1,0 +1,103 @@
+# LOVATO Electric — M0P0091004860 — Dol starter without thermal overload relay in insulated enclosure, with Start - Stop/Reset buttons, 10A max. (?440V), IP65
+
+LOVATO Electric M0P0091004860 — Dol starter without thermal overload relay in insulated enclosure, with Start - Stop/Reset buttons, 10A max. (?440V), IP65. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7e6f255f00acff1c48320592) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-7e6f255f00acff1c48320592.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-7e6f255f00acff1c48320592.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: M0P0091004860
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: M0P0091004860 — Dol starter without thermal overload relay in insulated enclosure, with Start - Stop/Reset buttons, 10A max. (?440V), IP65
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: M0P0091004860
+- Manufacturer reference: M0P0091004860
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: M0P0091004860 ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+Overload protection responds when a motor is carrying excessive current for too long or heating beyond its configured limit. It can request that the motor is stopped.
+
+Use 2D\_ROZR\_001.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZR\_001.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_ROZR\_001.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZR\_001.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric M0P0091004860 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for M0P0091004860 — Dol starter without thermal overload relay in insulated enclosure, with Start - Stop/Reset buttons, 10A max. (?440V), IP65?
+
+1 inspected original for LOVATO Electric M0P0091004860 — Dol starter without thermal overload relay in insulated enclosure, with Start - Stop/Reset buttons, 10A max. (?440V), IP65: 2D\_ROZR\_001.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_ROZR\_001.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZR\_001.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric M0P0091004860 — Dol starter without thermal overload relay in insulated enclosure, with Start - Stop/Reset buttons, 10A max. (?440V), IP65: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-7e6f255f00acff1c48320592/native-9ba492e67cccc676a5819898-dxf?asset=9ba492e67cccc676a58198988d8e29b2833717bb966861dbf3873c79d39fc252)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7e6f255f00acff1c48320592). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_ROZR\_001.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-7e6f255f00acff1c48320592/native-9ba492e67cccc676a5819898-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9ba492e67cccc676a58198988d8e29b2833717bb966861dbf3873c79d39fc252
+- Original bytes: 367619
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 35241 bytes
+- Delivery SHA-256: b99af6716ebe64c939a9b7f1e936309e9aad13feafa4d93642c12950109bbe23
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

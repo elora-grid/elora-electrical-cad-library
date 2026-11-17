@@ -8,7 +8,7 @@ ABB 35LYZ944\_12.28: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYZ944\_12.28; 35LYZ944
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -30,8 +30,8 @@ The supplied configuration is “35LYZ944\_12.28”. Keep those frame, mounting 
 - Manufacturer reference: 35LYZ944\_13.28; 35LYZ944
 - Manufacturer reference: 35LYZ944\_14.16; 35LYZ944
 - Manufacturer reference: 35LYZ944
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 11
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 14
 - Available previews: 4 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -129,6 +129,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 493707 bytes
 - Delivery SHA-256: 812c0a8b07ebd11413e1f6c2fa6304ca9b3f342b4f4dd4297eb0efcf64d3b41b
 
+### 35LYZ944\_12.28.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYZ944\_12.28.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_12.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513/812c0a8b07ebd11413e1-dxf)
+- Redistribution: unknown
+- Original SHA-256: 812c0a8b07ebd11413e1f6c2fa6304ca9b3f342b4f4dd4297eb0efcf64d3b41b
+- Original bytes: 493707
+- Revision: B
+- Retrieved: 2026-11-04T00:59:06Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_12.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_12.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1589581 bytes
+- Delivery SHA-256: a79e370e0db9029bedae292c37358455de64076157c5b9d85133d894f6f6f792
+
 ### 35LYZ944.pdf
 
 - Format: PDF
@@ -186,6 +205,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 487324 bytes
 - Delivery SHA-256: f24846318c316f7c5bec3202055a7aa722e8eb2643da41ef988031a13e9e615f
 
+### 35LYZ944\_13.28.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYZ944\_13.28.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513/f24846318c316f7c5bec-dxf)
+- Redistribution: unknown
+- Original SHA-256: f24846318c316f7c5bec3202055a7aa722e8eb2643da41ef988031a13e9e615f
+- Original bytes: 487324
+- Revision: B
+- Retrieved: 2026-11-04T00:59:01Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_13.28&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1569964 bytes
+- Delivery SHA-256: 4bfbb9612e20c95bbdae9178ad918fcf21bf5586710d8b53d71cab423b609eea
+
 ### 35LYZ944\_14.16.dwg
 
 - Format: DWG
@@ -204,6 +242,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 497340 bytes
 - Delivery SHA-256: 46a8f1b29439081214cb378f400485229f8b929d7ce22483b53cf612ebea00ad
+
+### 35LYZ944\_14.16.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYZ944\_14.16.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lyz944-12-28-dwg-2d-autocad-dwg-2000-a0fc724513/46a8f1b29439081214cb-dxf)
+- Redistribution: unknown
+- Original SHA-256: 46a8f1b29439081214cb378f400485229f8b929d7ce22483b53cf612ebea00ad
+- Original bytes: 497340
+- Revision: B
+- Retrieved: 2026-11-04T00:59:07Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYZ944_14.16&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1603597 bytes
+- Delivery SHA-256: 642a7bc63d3a911169282d43f585f20a40924bf716451242abcdd82a8c8314c6
 
 ### 35LYZ944\_12.28.sat
 

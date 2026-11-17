@@ -25,6 +25,7 @@ The supplied configuration is “E1.2 III-IV Withdrawable F”. Keep those frame
 - Manufacturer drawing: 1SDH000999R0103
 - Manufacturer reference: 1SDH000999R0103
 - Document revision: B
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

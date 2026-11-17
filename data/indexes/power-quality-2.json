@@ -1,0 +1,1594 @@
+{
+  "schemaVersion": 1,
+  "category": "power-quality",
+  "page": 2,
+  "entries": [
+    {
+      "id": "mfr-allen-bradley-vpl-x1153x-xjx2xx-servo-drive-a4f13baf85",
+      "name": "VPL x1153x-xJx2xx Servo Drive",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-vpl-x1153x-xjx2xx-servo-drive-a4f13baf85",
+      "recordPath": "equipment/mfr-allen-bradley-vpl-x1153x-xjx2xx-servo-drive-a4f13baf85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-vpl-x1153x-xjx2xx-servo-drive-a4f13baf85.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-0-75kw-1-5kw-2-2kw-400v-3-phases-atv340-sercos-3ee2b95b6a",
+      "name": "Variable speed drive - 0.75kW- 1.5kW- 2.2kW- 400V 3 phases ATV340 Sercos",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-0-75kw-1-5kw-2-2kw-400v-3-phases-atv340-sercos-3ee2b95b6a",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-0-75kw-1-5kw-2-2kw-400v-3-phases-atv340-sercos-3ee2b95b6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-0-75kw-1-5kw-2-2kw-400v-3-phases-atv340-sercos-3ee2b95b6a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-3kw-4kw-400v-3-phases-atv340-sercos-3c110629d8",
+      "name": "Variable speed drive - 3kW- 4kW- 400V 3 phases ATV340 Sercos",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-3kw-4kw-400v-3-phases-atv340-sercos-3c110629d8",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-3kw-4kw-400v-3-phases-atv340-sercos-3c110629d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-3kw-4kw-400v-3-phases-atv340-sercos-3c110629d8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-sercos-bba9a52bbc",
+      "name": "Variable speed drive - 5.5kW- 400V - 3 phases - ATV340 Sercos",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-sercos-bba9a52bbc",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-sercos-bba9a52bbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-5-5kw-400v-3-phases-atv340-sercos-bba9a52bbc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-7-5kw-400v-3-phases-atv340-sercos-1e1f8d45a5",
+      "name": "Variable speed drive - 7.5kW- 400V - 3 phases - ATV340 Sercos",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-7-5kw-400v-3-phases-atv340-sercos-1e1f8d45a5",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-7-5kw-400v-3-phases-atv340-sercos-1e1f8d45a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-7-5kw-400v-3-phases-atv340-sercos-1e1f8d45a5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-atv630-200-240v-380-440v-9abac03328",
+      "name": "Variable speed drive ATV630 - 200...240V / 380...440V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-atv630-200-240v-380-440v-9abac03328",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-atv630-200-240v-380-440v-9abac03328.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-atv630-200-240v-380-440v-9abac03328.json"
+    },
+    {
+      "id": "mfr-schneider-electric-variable-speed-drive-altivar-610-380-to-460v-ip00-41ba3062cd",
+      "name": "variable speed drive, Altivar 610, 380 to 460V, IP00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-variable-speed-drive-altivar-610-380-to-460v-ip00-41ba3062cd",
+      "recordPath": "equipment/mfr-schneider-electric-variable-speed-drive-altivar-610-380-to-460v-ip00-41ba3062cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-variable-speed-drive-altivar-610-380-to-460v-ip00-41ba3062cd.json"
+    },
+    {
+      "id": "mfr-abb-ach531-01-b0-00011c9b4b",
+      "name": "ACH531-01 B0 - &",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach531-01-b0-00011c9b4b",
+      "recordPath": "equipment/mfr-abb-ach531-01-b0-00011c9b4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach531-01-b0-00011c9b4b.json"
+    },
+    {
+      "id": "mfr-abb-ach531-01-b1-33445bf268",
+      "name": "ACH531-01 B1 - &",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach531-01-b1-33445bf268",
+      "recordPath": "equipment/mfr-abb-ach531-01-b1-33445bf268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach531-01-b1-33445bf268.json"
+    },
+    {
+      "id": "mfr-abb-ach531-01-b2-10fb19aaf5",
+      "name": "ACH531-01 B2 - &",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach531-01-b2-10fb19aaf5",
+      "recordPath": "equipment/mfr-abb-ach531-01-b2-10fb19aaf5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach531-01-b2-10fb19aaf5.json"
+    },
+    {
+      "id": "mfr-abb-ach531-04-r10-8e1d979e58",
+      "name": "ACH531-04 R10 - &",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach531-04-r10-8e1d979e58",
+      "recordPath": "equipment/mfr-abb-ach531-04-r10-8e1d979e58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach531-04-r10-8e1d979e58.json"
+    },
+    {
+      "id": "mfr-abb-ach531-04-r11-8a32795c8a",
+      "name": "ACH531-04 R11 - &",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach531-04-r11-8a32795c8a",
+      "recordPath": "equipment/mfr-abb-ach531-04-r11-8a32795c8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach531-04-r11-8a32795c8a.json"
+    },
+    {
+      "id": "mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-europe-72be6acc39",
+      "name": "ACH550, ACS550, ACS350, ACS150, ACS55 and options product data - Europe",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-europe-72be6acc39",
+      "recordPath": "equipment/mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-europe-72be6acc39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-europe-72be6acc39.json"
+    },
+    {
+      "id": "mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-usa-8d057cd6d5",
+      "name": "ACH550, ACS550, ACS350, ACS150, ACS55 and options product data - USA",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-usa-8d057cd6d5",
+      "recordPath": "equipment/mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-usa-8d057cd6d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ach550-acs550-acs350-acs150-acs55-and-options-product-data-usa-8d057cd6d5.json"
+    },
+    {
+      "id": "mfr-abb-acs180-04n-r2-1ph-e812b430da",
+      "name": "ACS180 04N R2 1ph",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs180-04n-r2-1ph-e812b430da",
+      "recordPath": "equipment/mfr-abb-acs180-04n-r2-1ph-e812b430da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs180-04n-r2-1ph-e812b430da.json"
+    },
+    {
+      "id": "mfr-abb-acs180-04n-r2-3ph-4f329dbd74",
+      "name": "ACS180 04N R2 3ph",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs180-04n-r2-3ph-4f329dbd74",
+      "recordPath": "equipment/mfr-abb-acs180-04n-r2-3ph-4f329dbd74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs180-04n-r2-3ph-4f329dbd74.json"
+    },
+    {
+      "id": "mfr-abb-acs180-04s-r2-1ph-ce5b40930d",
+      "name": "ACS180 04S R2 1ph",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs180-04s-r2-1ph-ce5b40930d",
+      "recordPath": "equipment/mfr-abb-acs180-04s-r2-1ph-ce5b40930d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs180-04s-r2-1ph-ce5b40930d.json"
+    },
+    {
+      "id": "mfr-abb-acs180-04s-r2-3ph-3ee2f5d055",
+      "name": "ACS180 04S R2 3ph",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs180-04s-r2-3ph-3ee2f5d055",
+      "recordPath": "equipment/mfr-abb-acs180-04s-r2-3ph-3ee2f5d055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs180-04s-r2-3ph-3ee2f5d055.json"
+    },
+    {
+      "id": "mfr-abb-acs180-04s-r4-55ae640ff0",
+      "name": "ACS180 04S R4",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs180-04s-r4-55ae640ff0",
+      "recordPath": "equipment/mfr-abb-acs180-04s-r4-55ae640ff0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs180-04s-r4-55ae640ff0.json"
+    },
+    {
+      "id": "mfr-abb-acs280-r1-220f71b41b",
+      "name": "ACS280, R1",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs280-r1-220f71b41b",
+      "recordPath": "equipment/mfr-abb-acs280-r1-220f71b41b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs280-r1-220f71b41b.json"
+    },
+    {
+      "id": "mfr-abb-acs280-r2-cbe26cecf5",
+      "name": "ACS280, R2",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs280-r2-cbe26cecf5",
+      "recordPath": "equipment/mfr-abb-acs280-r2-cbe26cecf5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs280-r2-cbe26cecf5.json"
+    },
+    {
+      "id": "mfr-abb-acs310-product-data-0906dd3362",
+      "name": "ACS310 product data",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs310-product-data-0906dd3362",
+      "recordPath": "equipment/mfr-abb-acs310-product-data-0906dd3362.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs310-product-data-0906dd3362.json"
+    },
+    {
+      "id": "mfr-abb-acs355-product-data-844dfa8dff",
+      "name": "ACS355 product data",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs355-product-data-844dfa8dff",
+      "recordPath": "equipment/mfr-abb-acs355-product-data-844dfa8dff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs355-product-data-844dfa8dff.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r1-1ph-230v-4dafc0bf34",
+      "name": "ACS380, R1, 1ph 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r1-1ph-230v-4dafc0bf34",
+      "recordPath": "equipment/mfr-abb-acs380-r1-1ph-230v-4dafc0bf34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r1-1ph-230v-4dafc0bf34.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r1-3p-400v-and-3p-230v-e8f3e1a9a1",
+      "name": "ACS380, R1, 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r1-3p-400v-and-3p-230v-e8f3e1a9a1",
+      "recordPath": "equipment/mfr-abb-acs380-r1-3p-400v-and-3p-230v-e8f3e1a9a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r1-3p-400v-and-3p-230v-e8f3e1a9a1.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r1-400v-209ec79b7e",
+      "name": "ACS380, R1, 400V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r1-400v-209ec79b7e",
+      "recordPath": "equipment/mfr-abb-acs380-r1-400v-209ec79b7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r1-400v-209ec79b7e.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r2-3p-400v-and-3p-230v-6d394837a0",
+      "name": "ACS380, R2, 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r2-3p-400v-and-3p-230v-6d394837a0",
+      "recordPath": "equipment/mfr-abb-acs380-r2-3p-400v-and-3p-230v-6d394837a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r2-3p-400v-and-3p-230v-6d394837a0.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r2-400v-88d679eee6",
+      "name": "ACS380, R2, 400V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r2-400v-88d679eee6",
+      "recordPath": "equipment/mfr-abb-acs380-r2-400v-88d679eee6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r2-400v-88d679eee6.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r3-3p-400v-and-3p-230v-05b9acfaa4",
+      "name": "ACS380, R3, 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r3-3p-400v-and-3p-230v-05b9acfaa4",
+      "recordPath": "equipment/mfr-abb-acs380-r3-3p-400v-and-3p-230v-05b9acfaa4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r3-3p-400v-and-3p-230v-05b9acfaa4.json"
+    },
+    {
+      "id": "mfr-abb-acs380-r3-400v-a74065bb0a",
+      "name": "ACS380, R3, 400V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-r3-400v-a74065bb0a",
+      "recordPath": "equipment/mfr-abb-acs380-r3-400v-a74065bb0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-r3-400v-a74065bb0a.json"
+    },
+    {
+      "id": "mfr-abb-acs380-e-r1-1-230v-e8f66e5040",
+      "name": "ACS380-E, R1 1~230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-e-r1-1-230v-e8f66e5040",
+      "recordPath": "equipment/mfr-abb-acs380-e-r1-1-230v-e8f66e5040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-e-r1-1-230v-e8f66e5040.json"
+    },
+    {
+      "id": "mfr-abb-acs380-e-r1-3p-400v-and-3p-230v-6e3d5210e3",
+      "name": "ACS380-E, R1 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-e-r1-3p-400v-and-3p-230v-6e3d5210e3",
+      "recordPath": "equipment/mfr-abb-acs380-e-r1-3p-400v-and-3p-230v-6e3d5210e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-e-r1-3p-400v-and-3p-230v-6e3d5210e3.json"
+    },
+    {
+      "id": "mfr-abb-acs380-e-r2-1-230v-596ade77e2",
+      "name": "ACS380-E, R2 1~230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-e-r2-1-230v-596ade77e2",
+      "recordPath": "equipment/mfr-abb-acs380-e-r2-1-230v-596ade77e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-e-r2-1-230v-596ade77e2.json"
+    },
+    {
+      "id": "mfr-abb-acs380-e-r2-3p-400v-and-3p-230v-31c9988c68",
+      "name": "ACS380-E, R2 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-e-r2-3p-400v-and-3p-230v-31c9988c68",
+      "recordPath": "equipment/mfr-abb-acs380-e-r2-3p-400v-and-3p-230v-31c9988c68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-e-r2-3p-400v-and-3p-230v-31c9988c68.json"
+    },
+    {
+      "id": "mfr-abb-acs380-e-r3-3p-400v-and-3p-230v-d7e90be6aa",
+      "name": "ACS380-E, R3 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-e-r3-3p-400v-and-3p-230v-d7e90be6aa",
+      "recordPath": "equipment/mfr-abb-acs380-e-r3-3p-400v-and-3p-230v-d7e90be6aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-e-r3-3p-400v-and-3p-230v-d7e90be6aa.json"
+    },
+    {
+      "id": "mfr-abb-acs380-e-r4-3p-400v-and-3p-230v-1742b6ae89",
+      "name": "ACS380-E, R4 3P 400V and 3P 230V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs380-e-r4-3p-400v-and-3p-230v-1742b6ae89",
+      "recordPath": "equipment/mfr-abb-acs380-e-r4-3p-400v-and-3p-230v-1742b6ae89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs380-e-r4-3p-400v-and-3p-230v-1742b6ae89.json"
+    },
+    {
+      "id": "mfr-abb-acs480-and-ach480-r1-400-v-b15ccffb23",
+      "name": "ACS480 and ACH480 R1 400 V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs480-and-ach480-r1-400-v-b15ccffb23",
+      "recordPath": "equipment/mfr-abb-acs480-and-ach480-r1-400-v-b15ccffb23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs480-and-ach480-r1-400-v-b15ccffb23.json"
+    },
+    {
+      "id": "mfr-abb-acs480-and-ach480-r2-400-v-fa9ef4c7cb",
+      "name": "ACS480 and ACH480 R2 400 V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs480-and-ach480-r2-400-v-fa9ef4c7cb",
+      "recordPath": "equipment/mfr-abb-acs480-and-ach480-r2-400-v-fa9ef4c7cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs480-and-ach480-r2-400-v-fa9ef4c7cb.json"
+    },
+    {
+      "id": "mfr-abb-acs480-and-ach480-r3-400-v-0eae3937ad",
+      "name": "ACS480 and ACH480 R3 400 V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs480-and-ach480-r3-400-v-0eae3937ad",
+      "recordPath": "equipment/mfr-abb-acs480-and-ach480-r3-400-v-0eae3937ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs480-and-ach480-r3-400-v-0eae3937ad.json"
+    },
+    {
+      "id": "mfr-abb-acs480-and-ach480-r4-400v-7690b999e9",
+      "name": "ACS480 and ACH480 R4 400V",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs480-and-ach480-r4-400v-7690b999e9",
+      "recordPath": "equipment/mfr-abb-acs480-and-ach480-r4-400v-7690b999e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs480-and-ach480-r4-400v-7690b999e9.json"
+    },
+    {
+      "id": "mfr-abb-acs510-b87a8335e1",
+      "name": "ACS510",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs510-b87a8335e1",
+      "recordPath": "equipment/mfr-abb-acs510-b87a8335e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs510-b87a8335e1.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r0-assembly-bbec39a904",
+      "name": "ACS580-01 IP21, R0 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r0-assembly-bbec39a904",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r0-assembly-bbec39a904.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r0-assembly-bbec39a904.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r1-assembly-3dea3ad7b1",
+      "name": "ACS580-01 IP21, R1 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r1-assembly-3dea3ad7b1",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r1-assembly-3dea3ad7b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r1-assembly-3dea3ad7b1.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r5-assembly-5e608bfc70",
+      "name": "ACS580-01 IP21, R5 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r5-assembly-5e608bfc70",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r5-assembly-5e608bfc70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r5-assembly-5e608bfc70.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r6-assembly-e99c470075",
+      "name": "ACS580-01 IP21, R6 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r6-assembly-e99c470075",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r6-assembly-e99c470075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r6-assembly-e99c470075.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r7-assembly-e37b5591aa",
+      "name": "ACS580-01 IP21, R7 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r7-assembly-e37b5591aa",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r7-assembly-e37b5591aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r7-assembly-e37b5591aa.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r8-assembly-99845fd204",
+      "name": "ACS580-01 IP21, R8 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r8-assembly-99845fd204",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r8-assembly-99845fd204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r8-assembly-99845fd204.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip21-r9-assembly-eacc05a7fc",
+      "name": "ACS580-01 IP21, R9 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip21-r9-assembly-eacc05a7fc",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip21-r9-assembly-eacc05a7fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip21-r9-assembly-eacc05a7fc.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip55-r0-assembly-a902f18141",
+      "name": "ACS580-01 IP55, R0 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip55-r0-assembly-a902f18141",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip55-r0-assembly-a902f18141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip55-r0-assembly-a902f18141.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip55-r2-assembly-953eb7f263",
+      "name": "ACS580-01 IP55, R2 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip55-r2-assembly-953eb7f263",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip55-r2-assembly-953eb7f263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip55-r2-assembly-953eb7f263.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip55-r6-assembly-6f971d1114",
+      "name": "ACS580-01 IP55, R6 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip55-r6-assembly-6f971d1114",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip55-r6-assembly-6f971d1114.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip55-r6-assembly-6f971d1114.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip55-r7-assembly-001107826d",
+      "name": "ACS580-01 IP55, R7 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip55-r7-assembly-001107826d",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip55-r7-assembly-001107826d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip55-r7-assembly-001107826d.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip55-r8-assembly-e6844aa4af",
+      "name": "ACS580-01 IP55, R8 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip55-r8-assembly-e6844aa4af",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip55-r8-assembly-e6844aa4af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip55-r8-assembly-e6844aa4af.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ip55-r9-assembly-9fe03c8644",
+      "name": "ACS580-01 IP55, R9 assembly",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ip55-r9-assembly-9fe03c8644",
+      "recordPath": "equipment/mfr-abb-acs580-01-ip55-r9-assembly-9fe03c8644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ip55-r9-assembly-9fe03c8644.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r1-90bf71834d",
+      "name": "ACS580-01, ACH580-01, ACQ580-01 IP21, R1",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r1-90bf71834d",
+      "recordPath": "equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r1-90bf71834d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip21-r1-90bf71834d.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-0d481006c1",
+      "name": "ACS580-01, ACH580-01, ACQ580-01 IP66, R1",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-0d481006c1",
+      "recordPath": "equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-0d481006c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-0d481006c1.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-r3-f1629687bd",
+      "name": "ACS580-01, ACH580-01, ACQ580-01 IP66, R1-R3",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-r3-f1629687bd",
+      "recordPath": "equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-r3-f1629687bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r1-r3-f1629687bd.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r2-79ec436a29",
+      "name": "ACS580-01, ACH580-01, ACQ580-01 IP66, R2",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r2-79ec436a29",
+      "recordPath": "equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r2-79ec436a29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r2-79ec436a29.json"
+    },
+    {
+      "id": "mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r3-616c7a7217",
+      "name": "ACS580-01, ACH580-01, ACQ580-01 IP66, R3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r3-616c7a7217",
+      "recordPath": "equipment/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r3-616c7a7217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs580-01-ach580-01-acq580-01-ip66-r3-616c7a7217.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-7eacb17014",
+      "name": "ACS800-01 product data",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-7eacb17014",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-7eacb17014.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-7eacb17014.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r2-ip21-aa695eaf38",
+      "name": "ACS800-01 product data , frame size R2, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r2-ip21-aa695eaf38",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r2-ip21-aa695eaf38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r2-ip21-aa695eaf38.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r2-ip55-f87848dce3",
+      "name": "ACS800-01 product data , frame size R2, IP55",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r2-ip55-f87848dce3",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r2-ip55-f87848dce3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r2-ip55-f87848dce3.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r3-ip21-61c6bf809d",
+      "name": "ACS800-01 product data , frame size R3, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r3-ip21-61c6bf809d",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r3-ip21-61c6bf809d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r3-ip21-61c6bf809d.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r3-ip55-6ed4ff234a",
+      "name": "ACS800-01 product data , frame size R3, IP55",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r3-ip55-6ed4ff234a",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r3-ip55-6ed4ff234a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r3-ip55-6ed4ff234a.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r4-ip21-2e03f15927",
+      "name": "ACS800-01 product data , frame size R4, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r4-ip21-2e03f15927",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r4-ip21-2e03f15927.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r4-ip21-2e03f15927.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r4-ip55-492b1eaf52",
+      "name": "ACS800-01 product data , frame size R4, IP55",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r4-ip55-492b1eaf52",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r4-ip55-492b1eaf52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r4-ip55-492b1eaf52.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r5-ip21-3fae6876bd",
+      "name": "ACS800-01 product data , frame size R5, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r5-ip21-3fae6876bd",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r5-ip21-3fae6876bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r5-ip21-3fae6876bd.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r5-ip55-0065d01c62",
+      "name": "ACS800-01 product data , frame size R5, IP55",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r5-ip55-0065d01c62",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r5-ip55-0065d01c62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r5-ip55-0065d01c62.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r6-ip21-23d97c066c",
+      "name": "ACS800-01 product data , frame size R6, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r6-ip21-23d97c066c",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r6-ip21-23d97c066c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r6-ip21-23d97c066c.json"
+    },
+    {
+      "id": "mfr-abb-acs800-01-product-data-frame-size-r6-ip55-b2b757148c",
+      "name": "ACS800-01 product data , frame size R6, IP55",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-01-product-data-frame-size-r6-ip55-b2b757148c",
+      "recordPath": "equipment/mfr-abb-acs800-01-product-data-frame-size-r6-ip55-b2b757148c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-01-product-data-frame-size-r6-ip55-b2b757148c.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r2-4f913752c5",
+      "name": "ACS800-04 product data , frame size R2",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r2-4f913752c5",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r2-4f913752c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r2-4f913752c5.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r3-c3297122db",
+      "name": "ACS800-04 product data , frame size R3",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r3-c3297122db",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r3-c3297122db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r3-c3297122db.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r4-af7d0fb06b",
+      "name": "ACS800-04 product data , frame size R4",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r4-af7d0fb06b",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r4-af7d0fb06b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r4-af7d0fb06b.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r5-1f4aa7c130",
+      "name": "ACS800-04 product data , frame size R5",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r5-1f4aa7c130",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r5-1f4aa7c130.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r5-1f4aa7c130.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r6-6c4cd8129a",
+      "name": "ACS800-04 product data , frame size R6",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r6-6c4cd8129a",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r6-6c4cd8129a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r6-6c4cd8129a.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r7-10a1c74652",
+      "name": "ACS800-04 product data , frame size R7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r7-10a1c74652",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r7-10a1c74652.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r7-10a1c74652.json"
+    },
+    {
+      "id": "mfr-abb-acs800-04-product-data-frame-size-r8-54d3509b1a",
+      "name": "ACS800-04 product data , frame size R8",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-04-product-data-frame-size-r8-54d3509b1a",
+      "recordPath": "equipment/mfr-abb-acs800-04-product-data-frame-size-r8-54d3509b1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-04-product-data-frame-size-r8-54d3509b1a.json"
+    },
+    {
+      "id": "mfr-abb-acs800-11-acs800-31-product-data-frame-size-r5-ip21-2017821694",
+      "name": "ACS800-11, ACS800-31 product data , frame size R5, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-11-acs800-31-product-data-frame-size-r5-ip21-2017821694",
+      "recordPath": "equipment/mfr-abb-acs800-11-acs800-31-product-data-frame-size-r5-ip21-2017821694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-11-acs800-31-product-data-frame-size-r5-ip21-2017821694.json"
+    },
+    {
+      "id": "mfr-abb-acs800-11-acs800-31-product-data-frame-size-r6-ip21-38a2e9ab6a",
+      "name": "ACS800-11, ACS800-31 product data , frame size R6, IP21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs800-11-acs800-31-product-data-frame-size-r6-ip21-38a2e9ab6a",
+      "recordPath": "equipment/mfr-abb-acs800-11-acs800-31-product-data-frame-size-r6-ip21-38a2e9ab6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs800-11-acs800-31-product-data-frame-size-r6-ip21-38a2e9ab6a.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-frame-r9e-ip21-ip55-flange-723286309c",
+      "name": "ACS880-01 Frame R9e IP21 IP55 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-frame-r9e-ip21-ip55-flange-723286309c",
+      "recordPath": "equipment/mfr-abb-acs880-01-frame-r9e-ip21-ip55-flange-723286309c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-frame-r9e-ip21-ip55-flange-723286309c.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r1-flange-82eb86a68f",
+      "name": "ACS880-01 R1 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r1-flange-82eb86a68f",
+      "recordPath": "equipment/mfr-abb-acs880-01-r1-flange-82eb86a68f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r1-flange-82eb86a68f.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r1-r2-r3-p940-ip20-6a609a1af2",
+      "name": "ACS880-01 R1 R2 R3 P940 IP20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r1-r2-r3-p940-ip20-6a609a1af2",
+      "recordPath": "equipment/mfr-abb-acs880-01-r1-r2-r3-p940-ip20-6a609a1af2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r1-r2-r3-p940-ip20-6a609a1af2.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r1-r2-r3-p944-ip20-79e231347d",
+      "name": "ACS880-01 R1 R2 R3 P944 IP20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r1-r2-r3-p944-ip20-79e231347d",
+      "recordPath": "equipment/mfr-abb-acs880-01-r1-r2-r3-p944-ip20-79e231347d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r1-r2-r3-p944-ip20-79e231347d.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r1-r2-r3-and-flange-7f4b62c5a8",
+      "name": "ACS880-01 R1, R2, R3, and flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r1-r2-r3-and-flange-7f4b62c5a8",
+      "recordPath": "equipment/mfr-abb-acs880-01-r1-r2-r3-and-flange-7f4b62c5a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r1-r2-r3-and-flange-7f4b62c5a8.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r2-flange-66f3f020c4",
+      "name": "ACS880-01 R2 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r2-flange-66f3f020c4",
+      "recordPath": "equipment/mfr-abb-acs880-01-r2-flange-66f3f020c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r2-flange-66f3f020c4.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r3-flange-697a0a9c80",
+      "name": "ACS880-01 R3 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r3-flange-697a0a9c80",
+      "recordPath": "equipment/mfr-abb-acs880-01-r3-flange-697a0a9c80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r3-flange-697a0a9c80.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r4-flange-aa1f45826d",
+      "name": "ACS880-01 R4 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r4-flange-aa1f45826d",
+      "recordPath": "equipment/mfr-abb-acs880-01-r4-flange-aa1f45826d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r4-flange-aa1f45826d.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r4-r5-r6-p940-ip20-312114d2d6",
+      "name": "ACS880-01 R4 R5 R6 P940 IP20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r4-r5-r6-p940-ip20-312114d2d6",
+      "recordPath": "equipment/mfr-abb-acs880-01-r4-r5-r6-p940-ip20-312114d2d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r4-r5-r6-p940-ip20-312114d2d6.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r4-r5-r6-p944-ip20-ec9c386976",
+      "name": "ACS880-01 R4 R5 R6 P944 IP20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r4-r5-r6-p944-ip20-ec9c386976",
+      "recordPath": "equipment/mfr-abb-acs880-01-r4-r5-r6-p944-ip20-ec9c386976.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r4-r5-r6-p944-ip20-ec9c386976.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r4-r5-r6-and-flange-3eeb5fc65f",
+      "name": "ACS880-01 R4, R5, R6, and flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r4-r5-r6-and-flange-3eeb5fc65f",
+      "recordPath": "equipment/mfr-abb-acs880-01-r4-r5-r6-and-flange-3eeb5fc65f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r4-r5-r6-and-flange-3eeb5fc65f.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r5-flange-28d64a4605",
+      "name": "ACS880-01 R5 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r5-flange-28d64a4605",
+      "recordPath": "equipment/mfr-abb-acs880-01-r5-flange-28d64a4605.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r5-flange-28d64a4605.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r6-flange-c17d9aed8e",
+      "name": "ACS880-01 R6 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r6-flange-c17d9aed8e",
+      "recordPath": "equipment/mfr-abb-acs880-01-r6-flange-c17d9aed8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r6-flange-c17d9aed8e.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r7-flange-5c7489bb18",
+      "name": "ACS880-01 R7 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r7-flange-5c7489bb18",
+      "recordPath": "equipment/mfr-abb-acs880-01-r7-flange-5c7489bb18.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r7-flange-5c7489bb18.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r7-r8-r9-p940-ip20-c107cf55c8",
+      "name": "ACS880-01 R7 R8 R9 P940 IP20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r7-r8-r9-p940-ip20-c107cf55c8",
+      "recordPath": "equipment/mfr-abb-acs880-01-r7-r8-r9-p940-ip20-c107cf55c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r7-r8-r9-p940-ip20-c107cf55c8.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r7-r8-r9-p944-ip20-69afb9a0e2",
+      "name": "ACS880-01 R7 R8 R9 P944 IP20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r7-r8-r9-p944-ip20-69afb9a0e2",
+      "recordPath": "equipment/mfr-abb-acs880-01-r7-r8-r9-p944-ip20-69afb9a0e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r7-r8-r9-p944-ip20-69afb9a0e2.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r7-r8-r9-and-flange-8e17b2ac0c",
+      "name": "ACS880-01 R7, R8, R9, and flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r7-r8-r9-and-flange-8e17b2ac0c",
+      "recordPath": "equipment/mfr-abb-acs880-01-r7-r8-r9-and-flange-8e17b2ac0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r7-r8-r9-and-flange-8e17b2ac0c.json"
+    },
+    {
+      "id": "mfr-abb-acs880-01-r8-flange-f5e905e872",
+      "name": "ACS880-01 R8 Flange",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-01-r8-flange-f5e905e872",
+      "recordPath": "equipment/mfr-abb-acs880-01-r8-flange-f5e905e872.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-01-r8-flange-f5e905e872.json"
+    },
+    {
+      "id": "mfr-abb-acs880-11-31-6a7611647e",
+      "name": "ACS880-11 -31",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-11-31-6a7611647e",
+      "recordPath": "equipment/mfr-abb-acs880-11-31-6a7611647e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-11-31-6a7611647e.json"
+    },
+    {
+      "id": "mfr-abb-acs880-m04-r1-994860a00e",
+      "name": "ACS880-M04, R1",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-m04-r1-994860a00e",
+      "recordPath": "equipment/mfr-abb-acs880-m04-r1-994860a00e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-m04-r1-994860a00e.json"
+    },
+    {
+      "id": "mfr-abb-acs880-m04-r2-9e60f0693b",
+      "name": "ACS880-M04, R2",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-m04-r2-9e60f0693b",
+      "recordPath": "equipment/mfr-abb-acs880-m04-r2-9e60f0693b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-m04-r2-9e60f0693b.json"
+    },
+    {
+      "id": "mfr-abb-acs880-m04-r3-d790737d9f",
+      "name": "ACS880-M04, R3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-m04-r3-d790737d9f",
+      "recordPath": "equipment/mfr-abb-acs880-m04-r3-d790737d9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-m04-r3-d790737d9f.json"
+    },
+    {
+      "id": "mfr-abb-acs880-m04-r4-54e60b2424",
+      "name": "ACS880-M04, R4",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acs880-m04-r4-54e60b2424",
+      "recordPath": "equipment/mfr-abb-acs880-m04-r4-54e60b2424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acs880-m04-r4-54e60b2424.json"
+    },
+    {
+      "id": "mfr-abb-acx580-31-r8-ip20-ip21-ip55-02dc15ad86",
+      "name": "ACX580-31 R8, IP20, IP21, IP55",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-acx580-31-r8-ip20-ip21-ip55-02dc15ad86",
+      "recordPath": "equipment/mfr-abb-acx580-31-r8-ip20-ip21-ip55-02dc15ad86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-acx580-31-r8-ip20-ip21-ip55-02dc15ad86.json"
+    },
+    {
+      "id": "mfr-abb-dcs800-s-900-5200a-mechanical-4939272e75",
+      "name": "DCS800-S 900~5200A mechanical",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "SAT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-dcs800-s-900-5200a-mechanical-4939272e75",
+      "recordPath": "equipment/mfr-abb-dcs800-s-900-5200a-mechanical-4939272e75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-dcs800-s-900-5200a-mechanical-4939272e75.json"
+    },
+    {
+      "id": "mfr-abb-dcs800-s-1000a-mechanical-4b68759dbf",
+      "name": "DCS800-S ~1000A mechanical",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "SAT"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-dcs800-s-1000a-mechanical-4b68759dbf",
+      "recordPath": "equipment/mfr-abb-dcs800-s-1000a-mechanical-4b68759dbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-dcs800-s-1000a-mechanical-4b68759dbf.json"
+    },
+    {
+      "id": "mfr-abb-simplified-of-acs580-07-ach580-07-acq580-07-for-installation-planning-137d1f4b78",
+      "name": "Simplified of ACS580-07, ACH580-07, ACQ580-07 for installation planning",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-simplified-of-acs580-07-ach580-07-acq580-07-for-installation-planning-137d1f4b78",
+      "recordPath": "equipment/mfr-abb-simplified-of-acs580-07-ach580-07-acq580-07-for-installation-planning-137d1f4b78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-simplified-of-acs580-07-ach580-07-acq580-07-for-installation-planning-137d1f4b78.json"
+    },
+    {
+      "id": "ls-doc-20247",
+      "name": "HFS(Low Harmonic Filter) CAD(2D)",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-20247",
+      "recordPath": "equipment/ls-doc-20247.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-20247.json"
+    },
+    {
+      "id": "lovato-order-656de16c2fe277cdf1c983d0",
+      "name": "VLA122A240 — Variable speed drive, VLA1 type, single-phase, supply 200...240VAC (50/60Hz). Built-in EMC suppressor, cat. C2, 2.2kW",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-656de16c2fe277cdf1c983d0",
+      "recordPath": "equipment/lovato-order-656de16c2fe277cdf1c983d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-656de16c2fe277cdf1c983d0.json"
+    },
+    {
+      "id": "lovato-order-c109cd4214d9ae6b6a927f3a",
+      "name": "VLA107A240 — Variable speed drive, VLA1 type, single-phase, supply 200...240VAC (50/60Hz). Built-in EMC suppressor, cat. C2, 0.75kW",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c109cd4214d9ae6b6a927f3a",
+      "recordPath": "equipment/lovato-order-c109cd4214d9ae6b6a927f3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c109cd4214d9ae6b6a927f3a.json"
+    },
+    {
+      "id": "lovato-order-397008eb90d2098fae5f0e95",
+      "name": "VLA104A240 — Variable speed drive, VLA1 type, single-phase, supply 200...240VAC (50/60Hz). Built-in EMC suppressor, cat. C2, 0.4kW",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-397008eb90d2098fae5f0e95",
+      "recordPath": "equipment/lovato-order-397008eb90d2098fae5f0e95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-397008eb90d2098fae5f0e95.json"
+    },
+    {
+      "id": "lovato-order-eeec7076206c30ec81e372b8",
+      "name": "VLA115A240 — Variable speed drive, VLA1 type, single-phase, supply 200...240VAC (50/60Hz). Built-in EMC suppressor, cat. C2, 1.5kW",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eeec7076206c30ec81e372b8",
+      "recordPath": "equipment/lovato-order-eeec7076206c30ec81e372b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eeec7076206c30ec81e372b8.json"
+    },
+    {
+      "id": "lovato-order-90ec47bc76caac421fc63e25",
+      "name": "VLA102A240 — Variable speed drive, VLA1 type, single-phase, supply 200...240VAC (50/60Hz). Built-in EMC suppressor, cat. C2, 0.25kW",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-90ec47bc76caac421fc63e25",
+      "recordPath": "equipment/lovato-order-90ec47bc76caac421fc63e25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-90ec47bc76caac421fc63e25.json"
+    },
+    {
+      "id": "lovato-order-6cd3e228c5ebc2a9d00112f5",
+      "name": "8LM2TP100 — Potentiometer drive, with graduated scale",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6cd3e228c5ebc2a9d00112f5",
+      "recordPath": "equipment/lovato-order-6cd3e228c5ebc2a9d00112f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6cd3e228c5ebc2a9d00112f5.json"
+    },
+    {
+      "id": "lovato-order-5c72e7fecb51ca9904349b9d",
+      "name": "8LM2TP110 — Potentiometer drive, with variable index",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5c72e7fecb51ca9904349b9d",
+      "recordPath": "equipment/lovato-order-5c72e7fecb51ca9904349b9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5c72e7fecb51ca9904349b9d.json"
+    },
+    {
+      "id": "lovato-order-31f020e6904e0c5437c9b4d7",
+      "name": "11BGX79048 — Quick connect surge suppressor, resistor-capacitor 48VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-31f020e6904e0c5437c9b4d7",
+      "recordPath": "equipment/lovato-order-31f020e6904e0c5437c9b4d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-31f020e6904e0c5437c9b4d7.json"
+    },
+    {
+      "id": "lovato-order-9734b2224a195e440f0c1426",
+      "name": "11G32248 — Surge suppressor, resistor-capacitor, 48VAC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9734b2224a195e440f0c1426",
+      "recordPath": "equipment/lovato-order-9734b2224a195e440f0c1426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9734b2224a195e440f0c1426.json"
+    },
+    {
+      "id": "eaton-article-285763",
+      "name": "NZM1-XDV-MODAN — Rotary drive, Modan door coupling, rotary handle, size 1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-285763",
+      "recordPath": "equipment/eaton-article-285763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-285763.json"
+    },
+    {
+      "id": "eaton-article-196557",
+      "name": "NZM2-XS-DA-NA-L — Main switch kit, side-mounted, left, Deliberate Action additional handle, lockable on handle/rotary drive, door opening by reset",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-196557",
+      "recordPath": "equipment/eaton-article-196557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-196557.json"
+    },
+    {
+      "id": "eaton-article-107249",
+      "name": "NZM1-XRAVR — Drive, on rear, 3p, lockable, red",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107249",
+      "recordPath": "equipment/eaton-article-107249.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107249.json"
+    },
+    {
+      "id": "eaton-article-107245",
+      "name": "NZM1-XRAV — Drive, on rear, 3p, lockable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107245",
+      "recordPath": "equipment/eaton-article-107245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107245.json"
+    },
+    {
+      "id": "eaton-article-107247",
+      "name": "NZM2-XRAV — Drive, on rear, 3p, lockable",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107247",
+      "recordPath": "equipment/eaton-article-107247.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107247.json"
+    },
+    {
+      "id": "eaton-article-107261",
+      "name": "NZM2-XRAVR — Drive, on rear, 3p, lockable, red",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107261",
+      "recordPath": "equipment/eaton-article-107261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-107261.json"
+    },
+    {
+      "id": "eaton-article-270588",
+      "name": "Z-S/KO — Capacitor block, 1, 5 microfarads, 240V AC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-270588",
+      "recordPath": "equipment/eaton-article-270588.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-270588.json"
+    },
+    {
+      "id": "eaton-article-185725",
+      "name": "DC1-344D1NN-A66CE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP66/NEMA 4X, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185725",
+      "recordPath": "equipment/eaton-article-185725.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185725.json"
+    },
+    {
+      "id": "eaton-article-185759",
+      "name": "DC1-34014FB-A66CE1 — Variable frequency drive, 400 V AC, 3-phase, 14 A, 5.5 kW, IP66/NEMA 4X, Radio interference suppression filter, Brake chopper, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185759",
+      "recordPath": "equipment/eaton-article-185759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185759.json"
+    },
+    {
+      "id": "eaton-article-185756",
+      "name": "DC1-349D5FB-A66CE1 — Variable frequency drive, 400 V AC, 3-phase, 9.5 A, 4 kW, IP66/NEMA 4X, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185756",
+      "recordPath": "equipment/eaton-article-185756.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185756.json"
+    },
+    {
+      "id": "eaton-article-185735",
+      "name": "DC1-349D5NB-A6SCE1 — Variable frequency drive, 400 V AC, 3-phase, 9.5 A, 4 kW, IP66/NEMA 4X, Brake chopper, Local controls, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185735",
+      "recordPath": "equipment/eaton-article-185735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185735.json"
+    },
+    {
+      "id": "eaton-article-185744",
+      "name": "DC1-342D2FN-A66CE1 — Variable frequency drive, 400 V AC, 3-phase, 2.2 A, 0.75 kW, IP66/NEMA 4X, Radio interference suppression filter, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185744",
+      "recordPath": "equipment/eaton-article-185744.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185744.json"
+    },
+    {
+      "id": "eaton-article-185763",
+      "name": "DC1-34018FB-A6SCE1 — Variable frequency drive, 400 V AC, 3-phase, 18 A, 7.5 kW, IP66/NEMA 4X, Radio interference suppression filter, Brake chopper, Local controls, FS3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185763",
+      "recordPath": "equipment/eaton-article-185763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185763.json"
+    },
+    {
+      "id": "eaton-article-185748",
+      "name": "DC1-344D1FN-A6SCE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, Local controls, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185748",
+      "recordPath": "equipment/eaton-article-185748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185748.json"
+    },
+    {
+      "id": "eaton-article-185750",
+      "name": "DC1-344D1FB-A66CE1 — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, Brake chopper, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185750",
+      "recordPath": "equipment/eaton-article-185750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185750.json"
+    },
+    {
+      "id": "eaton-article-197194",
+      "name": "DB1-124D3FN-N2CC — Variable frequency drive, 240 V AC, 1-phase, 9.1 A, IP20, NEMA Other, FS1, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197194",
+      "recordPath": "equipment/eaton-article-197194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197194.json"
+    },
+    {
+      "id": "eaton-article-197197",
+      "name": "DB1-344D1FN-N2CC — Variable frequency drive, 480 V AC, 3-phase, 5.6 A, NEMA Other, IP20, FS1, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197197",
+      "recordPath": "equipment/eaton-article-197197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197197.json"
+    },
+    {
+      "id": "eaton-article-197565",
+      "name": "DB1-345D8FB-N2CC — Variable frequency drive, 480 V AC, 3-phase, 7.5 A, NEMA Other, IP20, FS2, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197565",
+      "recordPath": "equipment/eaton-article-197565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197565.json"
+    },
+    {
+      "id": "eaton-article-197566",
+      "name": "DB1-349D5FB-N2CC — Variable frequency drive, 480 V AC, 3-phase, 10.7 A, NEMA Other, IP20, FS2, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197566",
+      "recordPath": "equipment/eaton-article-197566.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197566.json"
+    },
+    {
+      "id": "eaton-article-197196",
+      "name": "DB1-342D2FN-N2CC — Variable frequency drive, 480 V AC, 3-phase, 3.5 A, NEMA Other, IP20, FS1, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197196",
+      "recordPath": "equipment/eaton-article-197196.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197196.json"
+    },
+    {
+      "id": "eaton-article-197193",
+      "name": "DB1-122D3FN-N2CC — Variable frequency drive, 240 V AC, 1-phase, 4.5 A, NEMA Other, IP20, FS1, Radio interference",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197193",
+      "recordPath": "equipment/eaton-article-197193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197193.json"
+    },
+    {
+      "id": "eaton-article-185814",
+      "name": "DC1-127D0FB-A6SCE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, Brake chopper, Local controls, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185814",
+      "recordPath": "equipment/eaton-article-185814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185814.json"
+    },
+    {
+      "id": "eaton-article-197564",
+      "name": "DB1-344D1FB-N2CC — Variable frequency drive, 400 V AC, 3-phase, 4.1 A, 1.5 kW, IP20/NEMA 0, Radio interference suppression filter, FS2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-197564",
+      "recordPath": "equipment/eaton-article-197564.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-197564.json"
+    },
+    {
+      "id": "eaton-article-185811",
+      "name": "DC1-127D0FN-A6SCE1 — Variable frequency drive, 230 V AC, 1-phase, 7 A, 1.5 kW, IP66/NEMA 4X, Radio interference suppression filter, Local controls, FS1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-185811",
+      "recordPath": "equipment/eaton-article-185811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-185811.json"
+    }
+  ]
+}

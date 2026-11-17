@@ -27,6 +27,7 @@ Manufacturer reference ksu-3d-pdf.pdf; ksu-3d-step-file.stp; susk-3d-pdf.pdf ide
 - Manufacturer lifecycle: Active
 - Model envelope: ksu-3d-step-file.stp: 127 × 93.5 × 87 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Model envelope: susk-3d-step-file.stp: 159.4 × 137 × 92 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 61869
 - Listed file formats: PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

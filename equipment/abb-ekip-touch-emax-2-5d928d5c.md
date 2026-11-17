@@ -9,7 +9,7 @@ EKIP TOUCH EMAX 2: ABB manufacturer STEP resource, document 1SDH001252R0309, rev
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0309
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for EKIP TOUCH EMAX 2; ABB document 1SDH001252R0309
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0309
 - Model extents (X × Y × Z, mm): 115.4 × 72.6 × 25.1
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0309&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 3080457 bytes
 - Delivery SHA-256: b8e43e136f332d281ca5a15b49a9cc707b525d3b282517e0c9a58769c153130b
+
+### 1SDH001252R0309\_1PA\_001\_00\_EKIP\_TOUCH\_EMAX\_2.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0309\_1PA\_001\_00\_EKIP\_TOUCH\_EMAX\_2.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0309&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ekip-touch-emax-2-5d928d5c/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: b8e43e136f332d281ca5a15b49a9cc707b525d3b282517e0c9a58769c153130b
+- Original bytes: 3080457
+- Revision: A
+- Retrieved: 2026-11-03T01:31:10.273743+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0309&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0309&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 177585 bytes
+- Delivery SHA-256: 3c920d5db454df87ed900a13e4111858905854313f2cc4cd5f24de4cd6e27695
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

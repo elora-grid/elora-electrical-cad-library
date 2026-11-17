@@ -9,7 +9,7 @@ XT5 PLL Fixed lock with padlocks in open-closed position: ABB manufacturer STEP 
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1561
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT5 PLL Fixed lock with padlocks in open-closed po
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1561
 - Model extents (X × Y × Z, mm): 99.8 × 39.0 × 138.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1561&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 503930 bytes
 - Delivery SHA-256: 82f8381c6a74b34fe5102595d3134fcbd3698dcf4f6a7ec21ba2eb5115e267b1
+
+### 1SDH002065A1561.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1561.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1561&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-pll-fixed-lock-with-padlocks-in-open-closed-position-647b1986/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 82f8381c6a74b34fe5102595d3134fcbd3698dcf4f6a7ec21ba2eb5115e267b1
+- Original bytes: 503930
+- Revision: A
+- Retrieved: 2026-11-03T01:32:42.996165+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1561&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1561&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 206285 bytes
+- Delivery SHA-256: 1606c67ef6e7f9f9d7b457de415d6e270c191ba898f69e9f02cff99b9c875ccf
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

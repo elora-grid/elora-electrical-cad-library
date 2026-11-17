@@ -25,6 +25,7 @@ Manufacturer reference tas-321dg-installation-instructions-4189300014-uk.pdf ide
 - Manufacturer drawing: tas-321dg-installation-instructions-4189300014-uk.pdf
 - Manufacturer reference: tas-321dg-installation-instructions-4189300014-uk.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

@@ -1,0 +1,2757 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 30,
+  "entries": [
+    {
+      "id": "lovato-order-2235c0a8c33e7615aee15d68",
+      "name": "31PS31 — Three pole electrode",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2235c0a8c33e7615aee15d68",
+      "recordPath": "equipment/lovato-order-2235c0a8c33e7615aee15d68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2235c0a8c33e7615aee15d68.json"
+    },
+    {
+      "id": "lovato-order-560cc59c216c47e125a7bc4b",
+      "name": "31PS3S — Electrode holder (for 3 rod probes)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-560cc59c216c47e125a7bc4b",
+      "recordPath": "equipment/lovato-order-560cc59c216c47e125a7bc4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-560cc59c216c47e125a7bc4b.json"
+    },
+    {
+      "id": "lovato-order-44f22a46ed07f10ce9041d1a",
+      "name": "31ASTA460MM4 — Rod probe, for SCM electrode, 460mm, O4mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-44f22a46ed07f10ce9041d1a",
+      "recordPath": "equipment/lovato-order-44f22a46ed07f10ce9041d1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-44f22a46ed07f10ce9041d1a.json"
+    },
+    {
+      "id": "lovato-order-4f2f55d645cbf4e1647acc9f",
+      "name": "31ASTA960MM4 — Rod probe, for SCM electrode, 960mm, O4mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4f2f55d645cbf4e1647acc9f",
+      "recordPath": "equipment/lovato-order-4f2f55d645cbf4e1647acc9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4f2f55d645cbf4e1647acc9f.json"
+    },
+    {
+      "id": "lovato-order-62336c51a2286e0dc6ce3681",
+      "name": "31ASTA460MM6 — Rod probe, for PS3S electrode holder, 460mm, O6mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-62336c51a2286e0dc6ce3681",
+      "recordPath": "equipment/lovato-order-62336c51a2286e0dc6ce3681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-62336c51a2286e0dc6ce3681.json"
+    },
+    {
+      "id": "lovato-order-cc5d0b18d93ff389000daf8a",
+      "name": "31ASTA960MM6 — Rod probe, for PS3S electrode holder, 960mm, O6mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cc5d0b18d93ff389000daf8a",
+      "recordPath": "equipment/lovato-order-cc5d0b18d93ff389000daf8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cc5d0b18d93ff389000daf8a.json"
+    },
+    {
+      "id": "lovato-order-2a68f477f848b618287331fe",
+      "name": "LVFSP1W03 — Float switch for grey water, PVC cable, 3mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2a68f477f848b618287331fe",
+      "recordPath": "equipment/lovato-order-2a68f477f848b618287331fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2a68f477f848b618287331fe.json"
+    },
+    {
+      "id": "lovato-order-fa5963716e32d5fe3f10cfed",
+      "name": "LVFSP1W05 — Float switch for grey water, PVC cable, 5mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fa5963716e32d5fe3f10cfed",
+      "recordPath": "equipment/lovato-order-fa5963716e32d5fe3f10cfed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fa5963716e32d5fe3f10cfed.json"
+    },
+    {
+      "id": "lovato-order-f427d6530ff577c038243ffa",
+      "name": "LVFSP1W10 — Float switch for grey water, PVC cable, 10mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f427d6530ff577c038243ffa",
+      "recordPath": "equipment/lovato-order-f427d6530ff577c038243ffa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f427d6530ff577c038243ffa.json"
+    },
+    {
+      "id": "lovato-order-e211e28971d1c567fd908e4f",
+      "name": "LVFSP1W15 — Float switch for grey water, PVC cable, 15mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e211e28971d1c567fd908e4f",
+      "recordPath": "equipment/lovato-order-e211e28971d1c567fd908e4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e211e28971d1c567fd908e4f.json"
+    },
+    {
+      "id": "lovato-order-ede93f3f5d517d050f2717f4",
+      "name": "LVFSP1W20 — Float switch for grey water, PVC cable, 20mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ede93f3f5d517d050f2717f4",
+      "recordPath": "equipment/lovato-order-ede93f3f5d517d050f2717f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ede93f3f5d517d050f2717f4.json"
+    },
+    {
+      "id": "lovato-order-29a744a3d690d703e8e772de",
+      "name": "LVFSN1W03 — Float switch for grey water, Neoprene cable, 3mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-29a744a3d690d703e8e772de",
+      "recordPath": "equipment/lovato-order-29a744a3d690d703e8e772de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-29a744a3d690d703e8e772de.json"
+    },
+    {
+      "id": "lovato-order-8c968b8d6dec621234945366",
+      "name": "LVFSN1W05 — Float switch for grey water, Neoprene cable, 5mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8c968b8d6dec621234945366",
+      "recordPath": "equipment/lovato-order-8c968b8d6dec621234945366.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8c968b8d6dec621234945366.json"
+    },
+    {
+      "id": "lovato-order-0aa7aaf35ef1545a136a08e2",
+      "name": "LVFSN1W10 — Float switch for grey water, Neoprene cable, 10mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0aa7aaf35ef1545a136a08e2",
+      "recordPath": "equipment/lovato-order-0aa7aaf35ef1545a136a08e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0aa7aaf35ef1545a136a08e2.json"
+    },
+    {
+      "id": "lovato-order-9fc2b24123085db1ff8dcb7b",
+      "name": "LVFSN1W15 — Float switch for grey water, Neoprene cable, 15mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9fc2b24123085db1ff8dcb7b",
+      "recordPath": "equipment/lovato-order-9fc2b24123085db1ff8dcb7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9fc2b24123085db1ff8dcb7b.json"
+    },
+    {
+      "id": "lovato-order-caa3a1487d50e828841ccee4",
+      "name": "LVFSN1W20 — Float switch for grey water, Neoprene cable, 20mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-caa3a1487d50e828841ccee4",
+      "recordPath": "equipment/lovato-order-caa3a1487d50e828841ccee4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-caa3a1487d50e828841ccee4.json"
+    },
+    {
+      "id": "lovato-order-2d3ef3bc44aff1d09f068223",
+      "name": "LVFSN1B05 — Float switch for dirty water, Neoprene cable, 5mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2d3ef3bc44aff1d09f068223",
+      "recordPath": "equipment/lovato-order-2d3ef3bc44aff1d09f068223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2d3ef3bc44aff1d09f068223.json"
+    },
+    {
+      "id": "lovato-order-1002d10e03028dfeaab46eb7",
+      "name": "LVFSN1B10 — Float switch for dirty water, Neoprene cable, 10mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1002d10e03028dfeaab46eb7",
+      "recordPath": "equipment/lovato-order-1002d10e03028dfeaab46eb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1002d10e03028dfeaab46eb7.json"
+    },
+    {
+      "id": "lovato-order-7dc48191004e15e52e0023a6",
+      "name": "LVFSN1B15 — Float switch for dirty water, Neoprene cable, 15mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7dc48191004e15e52e0023a6",
+      "recordPath": "equipment/lovato-order-7dc48191004e15e52e0023a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7dc48191004e15e52e0023a6.json"
+    },
+    {
+      "id": "lovato-order-72159f1b6b82dc88d143e492",
+      "name": "LVFSN1B20 — Float switch for dirty water, Neoprene cable, 20mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-72159f1b6b82dc88d143e492",
+      "recordPath": "equipment/lovato-order-72159f1b6b82dc88d143e492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-72159f1b6b82dc88d143e492.json"
+    },
+    {
+      "id": "lovato-order-0c1746745873e876491bddf2",
+      "name": "LVFSA1D03 — Float switch for drinking water, PVC ACS+AD8 certificated cable, 3mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0c1746745873e876491bddf2",
+      "recordPath": "equipment/lovato-order-0c1746745873e876491bddf2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0c1746745873e876491bddf2.json"
+    },
+    {
+      "id": "lovato-order-c2265a65e1aca9f99b008732",
+      "name": "LVFSA1D05 — Float switch for drinking water, PVC ACS+AD8 certificated cable, 5mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c2265a65e1aca9f99b008732",
+      "recordPath": "equipment/lovato-order-c2265a65e1aca9f99b008732.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c2265a65e1aca9f99b008732.json"
+    },
+    {
+      "id": "lovato-order-9691cc3298495fe130928c41",
+      "name": "LVFSA1D10 — Float switch for drinking water, PVC ACS+AD8 certificated cable, 10mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9691cc3298495fe130928c41",
+      "recordPath": "equipment/lovato-order-9691cc3298495fe130928c41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9691cc3298495fe130928c41.json"
+    },
+    {
+      "id": "lovato-order-cc1a742b143b02729818f65b",
+      "name": "LVFSA1D15 — Float switch for drinking water, PVC ACS+AD8 certificated cable, 15mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cc1a742b143b02729818f65b",
+      "recordPath": "equipment/lovato-order-cc1a742b143b02729818f65b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cc1a742b143b02729818f65b.json"
+    },
+    {
+      "id": "lovato-order-d713a2c27f74a2f38297f87e",
+      "name": "LVFSA1D20 — Float switch for drinking water, PVC ACS+AD8 certificated cable, 20mt long",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d713a2c27f74a2f38297f87e",
+      "recordPath": "equipment/lovato-order-d713a2c27f74a2f38297f87e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d713a2c27f74a2f38297f87e.json"
+    },
+    {
+      "id": "lovato-order-672bc7560bc8aae8497857ae",
+      "name": "LVMP05 — 24-48VDC {@ ROZ_045 @}24-240VAC, 1 {@ PRZE_POZ_019",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-672bc7560bc8aae8497857ae",
+      "recordPath": "equipment/lovato-order-672bc7560bc8aae8497857ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-672bc7560bc8aae8497857ae.json"
+    },
+    {
+      "id": "lovato-order-a0328c8f06a96640eb1efced",
+      "name": "LVMP10A127 — 110-127VAC, 2 {@ PRZE_POZ_011",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a0328c8f06a96640eb1efced",
+      "recordPath": "equipment/lovato-order-a0328c8f06a96640eb1efced.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a0328c8f06a96640eb1efced.json"
+    },
+    {
+      "id": "lovato-order-c736cde7a1e1bb7802a60a7d",
+      "name": "LVMP10A240 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c736cde7a1e1bb7802a60a7d",
+      "recordPath": "equipment/lovato-order-c736cde7a1e1bb7802a60a7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c736cde7a1e1bb7802a60a7d.json"
+    },
+    {
+      "id": "lovato-order-a650b29719832dd75d119697",
+      "name": "LVMP10A415 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a650b29719832dd75d119697",
+      "recordPath": "equipment/lovato-order-a650b29719832dd75d119697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a650b29719832dd75d119697.json"
+    },
+    {
+      "id": "lovato-order-12f0ff08043c5f0c27c38b33",
+      "name": "31RE213 — Coupler unit for extensions rod probe ASTA...MM4",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-12f0ff08043c5f0c27c38b33",
+      "recordPath": "equipment/lovato-order-12f0ff08043c5f0c27c38b33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-12f0ff08043c5f0c27c38b33.json"
+    },
+    {
+      "id": "lovato-order-7cbc7a46ad09bb0820c8058e",
+      "name": "HR1X30 — Marker tags",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7cbc7a46ad09bb0820c8058e",
+      "recordPath": "equipment/lovato-order-7cbc7a46ad09bb0820c8058e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7cbc7a46ad09bb0820c8058e.json"
+    },
+    {
+      "id": "lovato-order-2114a20f93f33813218346ca",
+      "name": "HR1X3016 — Marker tags - strip with 16 plates",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2114a20f93f33813218346ca",
+      "recordPath": "equipment/lovato-order-2114a20f93f33813218346ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2114a20f93f33813218346ca.json"
+    },
+    {
+      "id": "lovato-order-d2cb87a68503fbdcbc0720cb",
+      "name": "HR6X77024 — Plug-in noise filters. 6...24VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d2cb87a68503fbdcbc0720cb",
+      "recordPath": "equipment/lovato-order-d2cb87a68503fbdcbc0720cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d2cb87a68503fbdcbc0720cb.json"
+    },
+    {
+      "id": "lovato-order-d4bb5dd7a5ad0131322a3206",
+      "name": "HR5X30 — Marker tags",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d4bb5dd7a5ad0131322a3206",
+      "recordPath": "equipment/lovato-order-d4bb5dd7a5ad0131322a3206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d4bb5dd7a5ad0131322a3206.json"
+    },
+    {
+      "id": "lovato-order-077f8138d0a7317630e2f269",
+      "name": "HR3X88 — Retain/release clip",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-077f8138d0a7317630e2f269",
+      "recordPath": "equipment/lovato-order-077f8138d0a7317630e2f269.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-077f8138d0a7317630e2f269.json"
+    },
+    {
+      "id": "lovato-order-37474e33494217f525fed601",
+      "name": "HR5X88 — Retain/release clip",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-37474e33494217f525fed601",
+      "recordPath": "equipment/lovato-order-37474e33494217f525fed601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-37474e33494217f525fed601.json"
+    },
+    {
+      "id": "lovato-order-bb46cf245b40fca5d81e137e",
+      "name": "HR6X88 — Retain/release clip",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bb46cf245b40fca5d81e137e",
+      "recordPath": "equipment/lovato-order-bb46cf245b40fca5d81e137e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bb46cf245b40fca5d81e137e.json"
+    },
+    {
+      "id": "lovato-order-26f4c2fed6392ef6acdc8a7d",
+      "name": "HR6X30 — Marker tags",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-26f4c2fed6392ef6acdc8a7d",
+      "recordPath": "equipment/lovato-order-26f4c2fed6392ef6acdc8a7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-26f4c2fed6392ef6acdc8a7d.json"
+    },
+    {
+      "id": "lovato-order-afeff840ebc06d14a466549e",
+      "name": "HR7X87 — Metal retaining clip",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-afeff840ebc06d14a466549e",
+      "recordPath": "equipment/lovato-order-afeff840ebc06d14a466549e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-afeff840ebc06d14a466549e.json"
+    },
+    {
+      "id": "lovato-order-61a7c630f9ee57e0aa91a7b3",
+      "name": "LRE02AD024 — Expansion module, 2 analog outputs 0/4...20mA, 0...10VDC, supply 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-61a7c630f9ee57e0aa91a7b3",
+      "recordPath": "equipment/lovato-order-61a7c630f9ee57e0aa91a7b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-61a7c630f9ee57e0aa91a7b3.json"
+    },
+    {
+      "id": "lovato-order-36db24f2cca440f33c009f39",
+      "name": "LRE04AD024 — Expansion module, 4 analog inputs 0/4...20mA, 0...10VDC, supply 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-36db24f2cca440f33c009f39",
+      "recordPath": "equipment/lovato-order-36db24f2cca440f33c009f39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-36db24f2cca440f33c009f39.json"
+    },
+    {
+      "id": "lovato-order-850f8f7d3bbe4d49499409f1",
+      "name": "LRE04PD024 — Expansion module, 4 inputs for temperature sensors PT100, supply 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-850f8f7d3bbe4d49499409f1",
+      "recordPath": "equipment/lovato-order-850f8f7d3bbe4d49499409f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-850f8f7d3bbe4d49499409f1.json"
+    },
+    {
+      "id": "lovato-order-91bfcd9648ec2e13f3cdbd4c",
+      "name": "LRE08TD024 — Expansion module, 4 digital inputs, 4 digital transistor outputs, supply 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-91bfcd9648ec2e13f3cdbd4c",
+      "recordPath": "equipment/lovato-order-91bfcd9648ec2e13f3cdbd4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-91bfcd9648ec2e13f3cdbd4c.json"
+    },
+    {
+      "id": "lovato-order-52176f783d0b8f154f2ec132",
+      "name": "LRE08RA240 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-52176f783d0b8f154f2ec132",
+      "recordPath": "equipment/lovato-order-52176f783d0b8f154f2ec132.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-52176f783d0b8f154f2ec132.json"
+    },
+    {
+      "id": "lovato-order-04ca1327db3acc00328c27da",
+      "name": "LREP00 — Expansion module, communication module, Modbus protocols",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-04ca1327db3acc00328c27da",
+      "recordPath": "equipment/lovato-order-04ca1327db3acc00328c27da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-04ca1327db3acc00328c27da.json"
+    },
+    {
+      "id": "lovato-order-4abe21260fb40677255cfd75",
+      "name": "LRX1V3D024 — Alimentatore 100-240VAC/24VDC, 1,3A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4abe21260fb40677255cfd75",
+      "recordPath": "equipment/lovato-order-4abe21260fb40677255cfd75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4abe21260fb40677255cfd75.json"
+    },
+    {
+      "id": "lovato-order-8a5e1ea8ad665de707ed1b60",
+      "name": "11RFA9015 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8a5e1ea8ad665de707ed1b60",
+      "recordPath": "equipment/lovato-order-8a5e1ea8ad665de707ed1b60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8a5e1ea8ad665de707ed1b60.json"
+    },
+    {
+      "id": "lovato-order-d494339ca2861ce78ead3439",
+      "name": "11RFA9023 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d494339ca2861ce78ead3439",
+      "recordPath": "equipment/lovato-order-d494339ca2861ce78ead3439.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d494339ca2861ce78ead3439.json"
+    },
+    {
+      "id": "lovato-order-3e0da1f289fe51bb247a67da",
+      "name": "11RFA9033 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3e0da1f289fe51bb247a67da",
+      "recordPath": "equipment/lovato-order-3e0da1f289fe51bb247a67da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3e0da1f289fe51bb247a67da.json"
+    },
+    {
+      "id": "lovato-order-05bfc1755acafa20a7bbdf63",
+      "name": "11RFA905 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-05bfc1755acafa20a7bbdf63",
+      "recordPath": "equipment/lovato-order-05bfc1755acafa20a7bbdf63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-05bfc1755acafa20a7bbdf63.json"
+    },
+    {
+      "id": "lovato-order-8c72a581da2d0c1029fd24dd",
+      "name": "11RFA9075 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8c72a581da2d0c1029fd24dd",
+      "recordPath": "equipment/lovato-order-8c72a581da2d0c1029fd24dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8c72a581da2d0c1029fd24dd.json"
+    },
+    {
+      "id": "lovato-order-ecd33c8046c1128109da05f7",
+      "name": "11RFA91 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ecd33c8046c1128109da05f7",
+      "recordPath": "equipment/lovato-order-ecd33c8046c1128109da05f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ecd33c8046c1128109da05f7.json"
+    },
+    {
+      "id": "lovato-order-e19e9d68ad964253ce4a44e2",
+      "name": "11RFA91V5 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e19e9d68ad964253ce4a44e2",
+      "recordPath": "equipment/lovato-order-e19e9d68ad964253ce4a44e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e19e9d68ad964253ce4a44e2.json"
+    },
+    {
+      "id": "lovato-order-41080f6330d2be79a347ae8c",
+      "name": "11RFA92V3 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-41080f6330d2be79a347ae8c",
+      "recordPath": "equipment/lovato-order-41080f6330d2be79a347ae8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-41080f6330d2be79a347ae8c.json"
+    },
+    {
+      "id": "lovato-order-8cac42c56944179c3e8539d8",
+      "name": "11RFA933 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8cac42c56944179c3e8539d8",
+      "recordPath": "equipment/lovato-order-8cac42c56944179c3e8539d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8cac42c56944179c3e8539d8.json"
+    },
+    {
+      "id": "lovato-order-6aebd2bd8616e8ab738c1108",
+      "name": "11RFA95 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6aebd2bd8616e8ab738c1108",
+      "recordPath": "equipment/lovato-order-6aebd2bd8616e8ab738c1108.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6aebd2bd8616e8ab738c1108.json"
+    },
+    {
+      "id": "lovato-order-9a369eb4496b3e95af4393c8",
+      "name": "11RFA975 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9a369eb4496b3e95af4393c8",
+      "recordPath": "equipment/lovato-order-9a369eb4496b3e95af4393c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9a369eb4496b3e95af4393c8.json"
+    },
+    {
+      "id": "lovato-order-031d97f6c8043a121ff9cb9f",
+      "name": "11RFA910 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-031d97f6c8043a121ff9cb9f",
+      "recordPath": "equipment/lovato-order-031d97f6c8043a121ff9cb9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-031d97f6c8043a121ff9cb9f.json"
+    },
+    {
+      "id": "lovato-order-1078ebc62a4ebd22cefbdfa6",
+      "name": "11RFA915 — RFA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1078ebc62a4ebd22cefbdfa6",
+      "recordPath": "equipment/lovato-order-1078ebc62a4ebd22cefbdfa6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1078ebc62a4ebd22cefbdfa6.json"
+    },
+    {
+      "id": "lovato-order-2af2e9c031a6a52a83f17de8",
+      "name": "11RFN9015 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2af2e9c031a6a52a83f17de8",
+      "recordPath": "equipment/lovato-order-2af2e9c031a6a52a83f17de8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2af2e9c031a6a52a83f17de8.json"
+    },
+    {
+      "id": "lovato-order-c9a6c489ebfce09c6134dcf1",
+      "name": "11RFN9023 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c9a6c489ebfce09c6134dcf1",
+      "recordPath": "equipment/lovato-order-c9a6c489ebfce09c6134dcf1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c9a6c489ebfce09c6134dcf1.json"
+    },
+    {
+      "id": "lovato-order-024665f7ff5fb5ffdba47a15",
+      "name": "11RFN9033 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-024665f7ff5fb5ffdba47a15",
+      "recordPath": "equipment/lovato-order-024665f7ff5fb5ffdba47a15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-024665f7ff5fb5ffdba47a15.json"
+    },
+    {
+      "id": "lovato-order-a29d2545156caef0a3273f78",
+      "name": "11RFN905 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a29d2545156caef0a3273f78",
+      "recordPath": "equipment/lovato-order-a29d2545156caef0a3273f78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a29d2545156caef0a3273f78.json"
+    },
+    {
+      "id": "lovato-order-50e68ec290a57655564cf28d",
+      "name": "11RFN9075 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-50e68ec290a57655564cf28d",
+      "recordPath": "equipment/lovato-order-50e68ec290a57655564cf28d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-50e68ec290a57655564cf28d.json"
+    },
+    {
+      "id": "lovato-order-c51e5a7e664bb18b4a024881",
+      "name": "11RFN91 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c51e5a7e664bb18b4a024881",
+      "recordPath": "equipment/lovato-order-c51e5a7e664bb18b4a024881.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c51e5a7e664bb18b4a024881.json"
+    },
+    {
+      "id": "lovato-order-624db83d279303754f7e22ba",
+      "name": "11RFN91V5 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-624db83d279303754f7e22ba",
+      "recordPath": "equipment/lovato-order-624db83d279303754f7e22ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-624db83d279303754f7e22ba.json"
+    },
+    {
+      "id": "lovato-order-8c91dba46eff6b861c541850",
+      "name": "11RFN92V3 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8c91dba46eff6b861c541850",
+      "recordPath": "equipment/lovato-order-8c91dba46eff6b861c541850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8c91dba46eff6b861c541850.json"
+    },
+    {
+      "id": "lovato-order-0342ab2470e730434fca500d",
+      "name": "11RFN933 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0342ab2470e730434fca500d",
+      "recordPath": "equipment/lovato-order-0342ab2470e730434fca500d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0342ab2470e730434fca500d.json"
+    },
+    {
+      "id": "lovato-order-29bd292d2e217fa8e333e5b8",
+      "name": "11RFN95 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-29bd292d2e217fa8e333e5b8",
+      "recordPath": "equipment/lovato-order-29bd292d2e217fa8e333e5b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-29bd292d2e217fa8e333e5b8.json"
+    },
+    {
+      "id": "lovato-order-9a7506edf89c1717b1c78ffe",
+      "name": "11RFN975 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9a7506edf89c1717b1c78ffe",
+      "recordPath": "equipment/lovato-order-9a7506edf89c1717b1c78ffe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9a7506edf89c1717b1c78ffe.json"
+    },
+    {
+      "id": "lovato-order-7f6ffc9771ee9c764c201f1a",
+      "name": "11RFN910 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7f6ffc9771ee9c764c201f1a",
+      "recordPath": "equipment/lovato-order-7f6ffc9771ee9c764c201f1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7f6ffc9771ee9c764c201f1a.json"
+    },
+    {
+      "id": "lovato-order-92314779f64c5edd368dc3ab",
+      "name": "11RFN915 — RFN9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-92314779f64c5edd368dc3ab",
+      "recordPath": "equipment/lovato-order-92314779f64c5edd368dc3ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-92314779f64c5edd368dc3ab.json"
+    },
+    {
+      "id": "lovato-order-9d4f8122dbea4ccf94d5dc92",
+      "name": "11RFNA9015 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9d4f8122dbea4ccf94d5dc92",
+      "recordPath": "equipment/lovato-order-9d4f8122dbea4ccf94d5dc92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9d4f8122dbea4ccf94d5dc92.json"
+    },
+    {
+      "id": "lovato-order-38b64577fe7aa41e84c442f6",
+      "name": "11RFNA9023 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-38b64577fe7aa41e84c442f6",
+      "recordPath": "equipment/lovato-order-38b64577fe7aa41e84c442f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-38b64577fe7aa41e84c442f6.json"
+    },
+    {
+      "id": "lovato-order-35a6883bebd75d9bf79a8cf0",
+      "name": "11RFNA9033 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-35a6883bebd75d9bf79a8cf0",
+      "recordPath": "equipment/lovato-order-35a6883bebd75d9bf79a8cf0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-35a6883bebd75d9bf79a8cf0.json"
+    },
+    {
+      "id": "lovato-order-feccdd5247a3fdcebc2af065",
+      "name": "11RFNA905 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-feccdd5247a3fdcebc2af065",
+      "recordPath": "equipment/lovato-order-feccdd5247a3fdcebc2af065.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-feccdd5247a3fdcebc2af065.json"
+    },
+    {
+      "id": "lovato-order-85acf65400cbdc8234b02d70",
+      "name": "11RFNA9075 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-85acf65400cbdc8234b02d70",
+      "recordPath": "equipment/lovato-order-85acf65400cbdc8234b02d70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-85acf65400cbdc8234b02d70.json"
+    },
+    {
+      "id": "lovato-order-7378b604236bd92ca93a281b",
+      "name": "11RFNA91 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7378b604236bd92ca93a281b",
+      "recordPath": "equipment/lovato-order-7378b604236bd92ca93a281b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7378b604236bd92ca93a281b.json"
+    },
+    {
+      "id": "lovato-order-9de2b094e3d91bbe260e15df",
+      "name": "11RFNA91V5 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9de2b094e3d91bbe260e15df",
+      "recordPath": "equipment/lovato-order-9de2b094e3d91bbe260e15df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9de2b094e3d91bbe260e15df.json"
+    },
+    {
+      "id": "lovato-order-04223c97165ceb372bde6126",
+      "name": "11RFNA92V3 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-04223c97165ceb372bde6126",
+      "recordPath": "equipment/lovato-order-04223c97165ceb372bde6126.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-04223c97165ceb372bde6126.json"
+    },
+    {
+      "id": "lovato-order-99faf17cb698d3183dfb525d",
+      "name": "11RFNA933 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-99faf17cb698d3183dfb525d",
+      "recordPath": "equipment/lovato-order-99faf17cb698d3183dfb525d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-99faf17cb698d3183dfb525d.json"
+    },
+    {
+      "id": "lovato-order-3f838a4ec0cfd32c08dd76c7",
+      "name": "11RFNA95 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3f838a4ec0cfd32c08dd76c7",
+      "recordPath": "equipment/lovato-order-3f838a4ec0cfd32c08dd76c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3f838a4ec0cfd32c08dd76c7.json"
+    },
+    {
+      "id": "lovato-order-6207b1cac983854c10b7de49",
+      "name": "11RFNA975 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6207b1cac983854c10b7de49",
+      "recordPath": "equipment/lovato-order-6207b1cac983854c10b7de49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6207b1cac983854c10b7de49.json"
+    },
+    {
+      "id": "lovato-order-5f381714bae5735d06defcbc",
+      "name": "11RFNA910 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5f381714bae5735d06defcbc",
+      "recordPath": "equipment/lovato-order-5f381714bae5735d06defcbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5f381714bae5735d06defcbc.json"
+    },
+    {
+      "id": "lovato-order-6106ba58fe9f5fa88f877e3c",
+      "name": "11RFNA915 — RFNA9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6106ba58fe9f5fa88f877e3c",
+      "recordPath": "equipment/lovato-order-6106ba58fe9f5fa88f877e3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6106ba58fe9f5fa88f877e3c.json"
+    },
+    {
+      "id": "lovato-order-a2f0787922aec6f1d021980c",
+      "name": "RFN380016 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a2f0787922aec6f1d021980c",
+      "recordPath": "equipment/lovato-order-a2f0787922aec6f1d021980c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a2f0787922aec6f1d021980c.json"
+    },
+    {
+      "id": "lovato-order-f94181a08ea521a74896e669",
+      "name": "RFN380025 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f94181a08ea521a74896e669",
+      "recordPath": "equipment/lovato-order-f94181a08ea521a74896e669.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f94181a08ea521a74896e669.json"
+    },
+    {
+      "id": "lovato-order-0274e12b97196bb602815df5",
+      "name": "RFN380040 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0274e12b97196bb602815df5",
+      "recordPath": "equipment/lovato-order-0274e12b97196bb602815df5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0274e12b97196bb602815df5.json"
+    },
+    {
+      "id": "lovato-order-1d7ea1eb8855bc86ff17bb07",
+      "name": "RFN380063 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1d7ea1eb8855bc86ff17bb07",
+      "recordPath": "equipment/lovato-order-1d7ea1eb8855bc86ff17bb07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1d7ea1eb8855bc86ff17bb07.json"
+    },
+    {
+      "id": "lovato-order-4910567cf380b07dfebc9371",
+      "name": "RFN380100 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4910567cf380b07dfebc9371",
+      "recordPath": "equipment/lovato-order-4910567cf380b07dfebc9371.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4910567cf380b07dfebc9371.json"
+    },
+    {
+      "id": "lovato-order-a81d4d53a002647d3020dd1e",
+      "name": "RFN380160 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a81d4d53a002647d3020dd1e",
+      "recordPath": "equipment/lovato-order-a81d4d53a002647d3020dd1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a81d4d53a002647d3020dd1e.json"
+    },
+    {
+      "id": "lovato-order-9ef67159bdca35ac6281a360",
+      "name": "RFN380250 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9ef67159bdca35ac6281a360",
+      "recordPath": "equipment/lovato-order-9ef67159bdca35ac6281a360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9ef67159bdca35ac6281a360.json"
+    },
+    {
+      "id": "lovato-order-f97705c1977d117c5204b859",
+      "name": "RFN380400 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f97705c1977d117c5204b859",
+      "recordPath": "equipment/lovato-order-f97705c1977d117c5204b859.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f97705c1977d117c5204b859.json"
+    },
+    {
+      "id": "lovato-order-2c2448b032aa78d94d32d402",
+      "name": "RFN380650 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2c2448b032aa78d94d32d402",
+      "recordPath": "equipment/lovato-order-2c2448b032aa78d94d32d402.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2c2448b032aa78d94d32d402.json"
+    },
+    {
+      "id": "lovato-order-f89e5e97f5e3454f9eb5d4c0",
+      "name": "RFN381000 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f89e5e97f5e3454f9eb5d4c0",
+      "recordPath": "equipment/lovato-order-f89e5e97f5e3454f9eb5d4c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f89e5e97f5e3454f9eb5d4c0.json"
+    },
+    {
+      "id": "lovato-order-4dee8bebd18d89fcce7424e6",
+      "name": "RFN381400 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4dee8bebd18d89fcce7424e6",
+      "recordPath": "equipment/lovato-order-4dee8bebd18d89fcce7424e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4dee8bebd18d89fcce7424e6.json"
+    },
+    {
+      "id": "lovato-order-515bb423a8a7052f546a6790",
+      "name": "RFN381800 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-515bb423a8a7052f546a6790",
+      "recordPath": "equipment/lovato-order-515bb423a8a7052f546a6790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-515bb423a8a7052f546a6790.json"
+    },
+    {
+      "id": "lovato-order-6743b3d0cb1c8507d923003e",
+      "name": "RFN382300 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6743b3d0cb1c8507d923003e",
+      "recordPath": "equipment/lovato-order-6743b3d0cb1c8507d923003e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6743b3d0cb1c8507d923003e.json"
+    },
+    {
+      "id": "lovato-order-cdf35e818f59c9362a7ad94e",
+      "name": "RFN382500 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cdf35e818f59c9362a7ad94e",
+      "recordPath": "equipment/lovato-order-cdf35e818f59c9362a7ad94e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cdf35e818f59c9362a7ad94e.json"
+    },
+    {
+      "id": "lovato-order-75c463d2780804278198e908",
+      "name": "RFN383200 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-75c463d2780804278198e908",
+      "recordPath": "equipment/lovato-order-75c463d2780804278198e908.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-75c463d2780804278198e908.json"
+    },
+    {
+      "id": "lovato-order-7df6ff69e60038462f2cee3a",
+      "name": "RFN383800 — RFN38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7df6ff69e60038462f2cee3a",
+      "recordPath": "equipment/lovato-order-7df6ff69e60038462f2cee3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7df6ff69e60038462f2cee3a.json"
+    },
+    {
+      "id": "lovato-order-83986785f27add475b9c4e75",
+      "name": "11RF95333 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-83986785f27add475b9c4e75",
+      "recordPath": "equipment/lovato-order-83986785f27add475b9c4e75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-83986785f27add475b9c4e75.json"
+    },
+    {
+      "id": "lovato-order-3643b29882224c2227c753a8",
+      "name": "11RF95342 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3643b29882224c2227c753a8",
+      "recordPath": "equipment/lovato-order-3643b29882224c2227c753a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3643b29882224c2227c753a8.json"
+    },
+    {
+      "id": "lovato-order-a021fc44c8bb17f2b0870dee",
+      "name": "11RF95350 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a021fc44c8bb17f2b0870dee",
+      "recordPath": "equipment/lovato-order-a021fc44c8bb17f2b0870dee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a021fc44c8bb17f2b0870dee.json"
+    },
+    {
+      "id": "lovato-order-bbfa3383564087a0d11f1271",
+      "name": "11RF95365 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bbfa3383564087a0d11f1271",
+      "recordPath": "equipment/lovato-order-bbfa3383564087a0d11f1271.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bbfa3383564087a0d11f1271.json"
+    },
+    {
+      "id": "lovato-order-48d31962c29653b3e9819ff0",
+      "name": "11RF95382 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-48d31962c29653b3e9819ff0",
+      "recordPath": "equipment/lovato-order-48d31962c29653b3e9819ff0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-48d31962c29653b3e9819ff0.json"
+    },
+    {
+      "id": "lovato-order-fda78c42f4fb97d4852ffd7d",
+      "name": "11RF95395 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fda78c42f4fb97d4852ffd7d",
+      "recordPath": "equipment/lovato-order-fda78c42f4fb97d4852ffd7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fda78c42f4fb97d4852ffd7d.json"
+    },
+    {
+      "id": "lovato-order-a8aa912c93dfe08af8601b1e",
+      "name": "11RF953110 — RF95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a8aa912c93dfe08af8601b1e",
+      "recordPath": "equipment/lovato-order-a8aa912c93dfe08af8601b1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a8aa912c93dfe08af8601b1e.json"
+    },
+    {
+      "id": "lovato-order-89616b3cd9af55e9d95316d0",
+      "name": "RFA823300 — RFA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-89616b3cd9af55e9d95316d0",
+      "recordPath": "equipment/lovato-order-89616b3cd9af55e9d95316d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-89616b3cd9af55e9d95316d0.json"
+    },
+    {
+      "id": "lovato-order-4385cab29f566fe4f7b81d97",
+      "name": "RFA824200 — RFA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4385cab29f566fe4f7b81d97",
+      "recordPath": "equipment/lovato-order-4385cab29f566fe4f7b81d97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4385cab29f566fe4f7b81d97.json"
+    },
+    {
+      "id": "lovato-order-cc54980d5dcd7415d7588dbc",
+      "name": "RFA825000 — RFA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cc54980d5dcd7415d7588dbc",
+      "recordPath": "equipment/lovato-order-cc54980d5dcd7415d7588dbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cc54980d5dcd7415d7588dbc.json"
+    },
+    {
+      "id": "lovato-order-f30b1b61ff3c8e043a3307c9",
+      "name": "RFA826500 — RFA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f30b1b61ff3c8e043a3307c9",
+      "recordPath": "equipment/lovato-order-f30b1b61ff3c8e043a3307c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f30b1b61ff3c8e043a3307c9.json"
+    },
+    {
+      "id": "lovato-order-28e9c68f792f842a65602a08",
+      "name": "RFA828200 — RFA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-28e9c68f792f842a65602a08",
+      "recordPath": "equipment/lovato-order-28e9c68f792f842a65602a08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-28e9c68f792f842a65602a08.json"
+    },
+    {
+      "id": "lovato-order-7c7544e60de3a72b2918d5d8",
+      "name": "11RFA95333 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7c7544e60de3a72b2918d5d8",
+      "recordPath": "equipment/lovato-order-7c7544e60de3a72b2918d5d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7c7544e60de3a72b2918d5d8.json"
+    },
+    {
+      "id": "lovato-order-e39fd0c634cb287f87b18607",
+      "name": "11RFA95342 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e39fd0c634cb287f87b18607",
+      "recordPath": "equipment/lovato-order-e39fd0c634cb287f87b18607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e39fd0c634cb287f87b18607.json"
+    },
+    {
+      "id": "lovato-order-ebde3624b35bc0c9123e50c1",
+      "name": "11RFA95350 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ebde3624b35bc0c9123e50c1",
+      "recordPath": "equipment/lovato-order-ebde3624b35bc0c9123e50c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ebde3624b35bc0c9123e50c1.json"
+    },
+    {
+      "id": "lovato-order-56fe7f5fdaae7e5975dfaa8b",
+      "name": "11RFA95365 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-56fe7f5fdaae7e5975dfaa8b",
+      "recordPath": "equipment/lovato-order-56fe7f5fdaae7e5975dfaa8b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-56fe7f5fdaae7e5975dfaa8b.json"
+    },
+    {
+      "id": "lovato-order-0556dc0876d4d85f0595c104",
+      "name": "11RFA95382 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0556dc0876d4d85f0595c104",
+      "recordPath": "equipment/lovato-order-0556dc0876d4d85f0595c104.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0556dc0876d4d85f0595c104.json"
+    },
+    {
+      "id": "lovato-order-249f5381a35b3420a781112c",
+      "name": "11RFA95395 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-249f5381a35b3420a781112c",
+      "recordPath": "equipment/lovato-order-249f5381a35b3420a781112c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-249f5381a35b3420a781112c.json"
+    },
+    {
+      "id": "lovato-order-07a8dd4e39c46db5f6407051",
+      "name": "11RFA953110 — RFA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-07a8dd4e39c46db5f6407051",
+      "recordPath": "equipment/lovato-order-07a8dd4e39c46db5f6407051.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-07a8dd4e39c46db5f6407051.json"
+    },
+    {
+      "id": "lovato-order-e784cbe33f8fbcfbea1bb37f",
+      "name": "RFN824200 — RFN82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e784cbe33f8fbcfbea1bb37f",
+      "recordPath": "equipment/lovato-order-e784cbe33f8fbcfbea1bb37f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e784cbe33f8fbcfbea1bb37f.json"
+    },
+    {
+      "id": "lovato-order-d4c6fd8c119601f9ffd9ce98",
+      "name": "RFN825000 — RFN82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d4c6fd8c119601f9ffd9ce98",
+      "recordPath": "equipment/lovato-order-d4c6fd8c119601f9ffd9ce98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d4c6fd8c119601f9ffd9ce98.json"
+    },
+    {
+      "id": "lovato-order-b33410a542bdcb47e79894f3",
+      "name": "RFN826500 — RFN82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b33410a542bdcb47e79894f3",
+      "recordPath": "equipment/lovato-order-b33410a542bdcb47e79894f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b33410a542bdcb47e79894f3.json"
+    },
+    {
+      "id": "lovato-order-1757365d941baec1a97787ee",
+      "name": "RFN828200 — RFN82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1757365d941baec1a97787ee",
+      "recordPath": "equipment/lovato-order-1757365d941baec1a97787ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1757365d941baec1a97787ee.json"
+    },
+    {
+      "id": "lovato-order-5066ba465fa5eb1b54670df0",
+      "name": "11RFN95342 — RFN95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5066ba465fa5eb1b54670df0",
+      "recordPath": "equipment/lovato-order-5066ba465fa5eb1b54670df0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5066ba465fa5eb1b54670df0.json"
+    },
+    {
+      "id": "lovato-order-e50b75952e856f2dd5387c6c",
+      "name": "11RFN95350 — RFN95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e50b75952e856f2dd5387c6c",
+      "recordPath": "equipment/lovato-order-e50b75952e856f2dd5387c6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e50b75952e856f2dd5387c6c.json"
+    },
+    {
+      "id": "lovato-order-fb7f8f6d0f91dc5835628342",
+      "name": "11RFN95365 — RFN95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fb7f8f6d0f91dc5835628342",
+      "recordPath": "equipment/lovato-order-fb7f8f6d0f91dc5835628342.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fb7f8f6d0f91dc5835628342.json"
+    },
+    {
+      "id": "lovato-order-ff337cfe79aa620ced71e820",
+      "name": "11RFN95382 — RFN95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ff337cfe79aa620ced71e820",
+      "recordPath": "equipment/lovato-order-ff337cfe79aa620ced71e820.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ff337cfe79aa620ced71e820.json"
+    },
+    {
+      "id": "lovato-order-49de4302997a385f334d3546",
+      "name": "11RFN95395 — RFN95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-49de4302997a385f334d3546",
+      "recordPath": "equipment/lovato-order-49de4302997a385f334d3546.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-49de4302997a385f334d3546.json"
+    },
+    {
+      "id": "lovato-order-4a7a14faf5a4c7f6263dbd88",
+      "name": "11RFN953110 — RFN95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4a7a14faf5a4c7f6263dbd88",
+      "recordPath": "equipment/lovato-order-4a7a14faf5a4c7f6263dbd88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4a7a14faf5a4c7f6263dbd88.json"
+    },
+    {
+      "id": "lovato-order-96b3f49035120b1cf4c85884",
+      "name": "RFNA824200 — RFNA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-96b3f49035120b1cf4c85884",
+      "recordPath": "equipment/lovato-order-96b3f49035120b1cf4c85884.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-96b3f49035120b1cf4c85884.json"
+    },
+    {
+      "id": "lovato-order-6f2858f6af811e28156a6c80",
+      "name": "RFNA825000 — RFNA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6f2858f6af811e28156a6c80",
+      "recordPath": "equipment/lovato-order-6f2858f6af811e28156a6c80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6f2858f6af811e28156a6c80.json"
+    },
+    {
+      "id": "lovato-order-5a0cd846a8f421b0776e3196",
+      "name": "RFNA826500 — RFNA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5a0cd846a8f421b0776e3196",
+      "recordPath": "equipment/lovato-order-5a0cd846a8f421b0776e3196.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5a0cd846a8f421b0776e3196.json"
+    },
+    {
+      "id": "lovato-order-9c9cd633a42718c72e7b98e0",
+      "name": "RFNA828200 — RFNA82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9c9cd633a42718c72e7b98e0",
+      "recordPath": "equipment/lovato-order-9c9cd633a42718c72e7b98e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9c9cd633a42718c72e7b98e0.json"
+    },
+    {
+      "id": "lovato-order-4750073f1af86585ea567be8",
+      "name": "11RFNA95342 — RFNA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4750073f1af86585ea567be8",
+      "recordPath": "equipment/lovato-order-4750073f1af86585ea567be8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4750073f1af86585ea567be8.json"
+    },
+    {
+      "id": "lovato-order-d3e68356d85286ca3ebf1fc6",
+      "name": "11RFNA95350 — RFNA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d3e68356d85286ca3ebf1fc6",
+      "recordPath": "equipment/lovato-order-d3e68356d85286ca3ebf1fc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d3e68356d85286ca3ebf1fc6.json"
+    },
+    {
+      "id": "lovato-order-9dd0ce79a5e3730d04704e5b",
+      "name": "11RFNA95365 — RFNA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9dd0ce79a5e3730d04704e5b",
+      "recordPath": "equipment/lovato-order-9dd0ce79a5e3730d04704e5b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9dd0ce79a5e3730d04704e5b.json"
+    },
+    {
+      "id": "lovato-order-23156c8f39c139a43fcb4ab8",
+      "name": "11RFNA95382 — RFNA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-23156c8f39c139a43fcb4ab8",
+      "recordPath": "equipment/lovato-order-23156c8f39c139a43fcb4ab8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-23156c8f39c139a43fcb4ab8.json"
+    },
+    {
+      "id": "lovato-order-8f1f8c5fc253170435e0252e",
+      "name": "11RFNA95395 — RFNA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8f1f8c5fc253170435e0252e",
+      "recordPath": "equipment/lovato-order-8f1f8c5fc253170435e0252e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8f1f8c5fc253170435e0252e.json"
+    },
+    {
+      "id": "lovato-order-8fa082e868cab861aad96811",
+      "name": "11RFNA953110 — RFNA95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8fa082e868cab861aad96811",
+      "recordPath": "equipment/lovato-order-8fa082e868cab861aad96811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8fa082e868cab861aad96811.json"
+    },
+    {
+      "id": "lovato-order-fb89ba2ded52e7502379b832",
+      "name": "RFN200100 — RFN200",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fb89ba2ded52e7502379b832",
+      "recordPath": "equipment/lovato-order-fb89ba2ded52e7502379b832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fb89ba2ded52e7502379b832.json"
+    },
+    {
+      "id": "lovato-order-91ca15c1160ba12b111daff9",
+      "name": "RFN200125 — RFN200",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-91ca15c1160ba12b111daff9",
+      "recordPath": "equipment/lovato-order-91ca15c1160ba12b111daff9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-91ca15c1160ba12b111daff9.json"
+    },
+    {
+      "id": "lovato-order-c1738cd2398775b761fde6b0",
+      "name": "RFN200150 — RFN200",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c1738cd2398775b761fde6b0",
+      "recordPath": "equipment/lovato-order-c1738cd2398775b761fde6b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c1738cd2398775b761fde6b0.json"
+    },
+    {
+      "id": "lovato-order-a35fa333068abae3442f4567",
+      "name": "RFN200200 — RFN200",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a35fa333068abae3442f4567",
+      "recordPath": "equipment/lovato-order-a35fa333068abae3442f4567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a35fa333068abae3442f4567.json"
+    },
+    {
+      "id": "lovato-order-772e047b8627a9953e24718e",
+      "name": "RFN420250 — RFN420",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-772e047b8627a9953e24718e",
+      "recordPath": "equipment/lovato-order-772e047b8627a9953e24718e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-772e047b8627a9953e24718e.json"
+    },
+    {
+      "id": "lovato-order-fbe9dd7201e4f8c2fd209bd8",
+      "name": "RFN420300 — RFN420",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fbe9dd7201e4f8c2fd209bd8",
+      "recordPath": "equipment/lovato-order-fbe9dd7201e4f8c2fd209bd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fbe9dd7201e4f8c2fd209bd8.json"
+    },
+    {
+      "id": "lovato-order-f07aa7abbe77eebf137b1b51",
+      "name": "RFN420420 — RFN420",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f07aa7abbe77eebf137b1b51",
+      "recordPath": "equipment/lovato-order-f07aa7abbe77eebf137b1b51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f07aa7abbe77eebf137b1b51.json"
+    },
+    {
+      "id": "lovato-order-790b016b0e8f61b0e3c38e47",
+      "name": "11G372 — G372 {@ 11G372",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-790b016b0e8f61b0e3c38e47",
+      "recordPath": "equipment/lovato-order-790b016b0e8f61b0e3c38e47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-790b016b0e8f61b0e3c38e47.json"
+    },
+    {
+      "id": "lovato-order-72d68fc5e5b811bbdffb0457",
+      "name": "11G373 — G373 {@ 11G373",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-72d68fc5e5b811bbdffb0457",
+      "recordPath": "equipment/lovato-order-72d68fc5e5b811bbdffb0457.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-72d68fc5e5b811bbdffb0457.json"
+    },
+    {
+      "id": "lovato-order-d7118a46cedfd1fe9c03b9eb",
+      "name": "11G376 — G376 {@ 11G376",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d7118a46cedfd1fe9c03b9eb",
+      "recordPath": "equipment/lovato-order-d7118a46cedfd1fe9c03b9eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d7118a46cedfd1fe9c03b9eb.json"
+    },
+    {
+      "id": "lovato-order-acd57b5fc69b513e271d4fb5",
+      "name": "RFX3804 — Adapter for independend mounting for RF...38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-acd57b5fc69b513e271d4fb5",
+      "recordPath": "equipment/lovato-order-acd57b5fc69b513e271d4fb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-acd57b5fc69b513e271d4fb5.json"
+    },
+    {
+      "id": "lovato-order-646e974a4049303416feba76",
+      "name": "11G270 — Adapter for independend mounting for RF...95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-646e974a4049303416feba76",
+      "recordPath": "equipment/lovato-order-646e974a4049303416feba76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-646e974a4049303416feba76.json"
+    },
+    {
+      "id": "lovato-order-94a07ef16ced0d777a0649fe",
+      "name": "11G22824 — Electrical reset 24VAC 50/60Hz for RF...9 - RF...95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-94a07ef16ced0d777a0649fe",
+      "recordPath": "equipment/lovato-order-94a07ef16ced0d777a0649fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-94a07ef16ced0d777a0649fe.json"
+    },
+    {
+      "id": "lovato-order-e678e78f628c4d27f991a658",
+      "name": "11G22848 — Electrical reset 48VAC 50/60Hz for RF...9- RF...95",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e678e78f628c4d27f991a658",
+      "recordPath": "equipment/lovato-order-e678e78f628c4d27f991a658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e678e78f628c4d27f991a658.json"
+    },
+    {
+      "id": "lovato-order-3c8f4fd03660d12a85c0487b",
+      "name": "11G228110 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3c8f4fd03660d12a85c0487b",
+      "recordPath": "equipment/lovato-order-3c8f4fd03660d12a85c0487b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3c8f4fd03660d12a85c0487b.json"
+    },
+    {
+      "id": "lovato-order-5e1f72a95643c147afdd3de7",
+      "name": "11G228220 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5e1f72a95643c147afdd3de7",
+      "recordPath": "equipment/lovato-order-5e1f72a95643c147afdd3de7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5e1f72a95643c147afdd3de7.json"
+    },
+    {
+      "id": "lovato-order-0f53d52c513521b1ff83da4e",
+      "name": "11G228380 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0f53d52c513521b1ff83da4e",
+      "recordPath": "equipment/lovato-order-0f53d52c513521b1ff83da4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0f53d52c513521b1ff83da4e.json"
+    },
+    {
+      "id": "lovato-order-8da93f68ccb37b6b5153fd4f",
+      "name": "31DRPT220 — DRPT",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8da93f68ccb37b6b5153fd4f",
+      "recordPath": "equipment/lovato-order-8da93f68ccb37b6b5153fd4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8da93f68ccb37b6b5153fd4f.json"
+    },
+    {
+      "id": "lovato-order-564ea590523d05eed39c0448",
+      "name": "31RX10 — Multiplier x10",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-564ea590523d05eed39c0448",
+      "recordPath": "equipment/lovato-order-564ea590523d05eed39c0448.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-564ea590523d05eed39c0448.json"
+    },
+    {
+      "id": "lovato-order-01b08ce6536d7017cdb32e65",
+      "name": "DCRM2 — DCRM",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-01b08ce6536d7017cdb32e65",
+      "recordPath": "equipment/lovato-order-01b08ce6536d7017cdb32e65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-01b08ce6536d7017cdb32e65.json"
+    },
+    {
+      "id": "lovato-order-42a1cee4c084f48955bb475c",
+      "name": "DCRL3 — DCRL3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-42a1cee4c084f48955bb475c",
+      "recordPath": "equipment/lovato-order-42a1cee4c084f48955bb475c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-42a1cee4c084f48955bb475c.json"
+    },
+    {
+      "id": "lovato-order-33838e6a6646087e5cf97800",
+      "name": "DCRL5 — DCRL5",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-33838e6a6646087e5cf97800",
+      "recordPath": "equipment/lovato-order-33838e6a6646087e5cf97800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-33838e6a6646087e5cf97800.json"
+    },
+    {
+      "id": "lovato-order-9f2a00edae82d2a8d87792d3",
+      "name": "DCRL8 — DCRL8",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9f2a00edae82d2a8d87792d3",
+      "recordPath": "equipment/lovato-order-9f2a00edae82d2a8d87792d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9f2a00edae82d2a8d87792d3.json"
+    },
+    {
+      "id": "lovato-order-dc7a2f31ed8de80b8f2ac6cd",
+      "name": "DCRK3 — DCRK",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dc7a2f31ed8de80b8f2ac6cd",
+      "recordPath": "equipment/lovato-order-dc7a2f31ed8de80b8f2ac6cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dc7a2f31ed8de80b8f2ac6cd.json"
+    },
+    {
+      "id": "lovato-order-9dcabcc55d562c2e64aa6656",
+      "name": "DCRK5 — DCRK",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9dcabcc55d562c2e64aa6656",
+      "recordPath": "equipment/lovato-order-9dcabcc55d562c2e64aa6656.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9dcabcc55d562c2e64aa6656.json"
+    },
+    {
+      "id": "lovato-order-9483193deeee76c3b4bc8ae5",
+      "name": "DCRK7 — DCRK",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9483193deeee76c3b4bc8ae5",
+      "recordPath": "equipment/lovato-order-9483193deeee76c3b4bc8ae5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9483193deeee76c3b4bc8ae5.json"
+    },
+    {
+      "id": "lovato-order-f4013999ea824d251ee860a6",
+      "name": "DCRK8 — DCRK",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f4013999ea824d251ee860a6",
+      "recordPath": "equipment/lovato-order-f4013999ea824d251ee860a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f4013999ea824d251ee860a6.json"
+    },
+    {
+      "id": "lovato-order-699e340e4585f4aa5c459617",
+      "name": "DCRK12 — DCRK",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-699e340e4585f4aa5c459617",
+      "recordPath": "equipment/lovato-order-699e340e4585f4aa5c459617.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-699e340e4585f4aa5c459617.json"
+    },
+    {
+      "id": "lovato-order-a12c372c57dbf88d8e146876",
+      "name": "DCRJ8 — DCRJ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a12c372c57dbf88d8e146876",
+      "recordPath": "equipment/lovato-order-a12c372c57dbf88d8e146876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a12c372c57dbf88d8e146876.json"
+    },
+    {
+      "id": "lovato-order-b4f0f7ce838ce6e9ec7fe7bb",
+      "name": "DCRJ12 — DCRJ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b4f0f7ce838ce6e9ec7fe7bb",
+      "recordPath": "equipment/lovato-order-b4f0f7ce838ce6e9ec7fe7bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b4f0f7ce838ce6e9ec7fe7bb.json"
+    },
+    {
+      "id": "lovato-order-88bf3d4b12b3725b2e37a520",
+      "name": "DCRJ12F — DCRJ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-88bf3d4b12b3725b2e37a520",
+      "recordPath": "equipment/lovato-order-88bf3d4b12b3725b2e37a520.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-88bf3d4b12b3725b2e37a520.json"
+    },
+    {
+      "id": "lovato-order-e7fbad997769e967a5f0feca",
+      "name": "DCTM3400030 — Thyristor modules",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e7fbad997769e967a5f0feca",
+      "recordPath": "equipment/lovato-order-e7fbad997769e967a5f0feca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e7fbad997769e967a5f0feca.json"
+    },
+    {
+      "id": "lovato-order-105047e3657ad1c83762be2c",
+      "name": "DCTM3400050 — Thyristor modules",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-105047e3657ad1c83762be2c",
+      "recordPath": "equipment/lovato-order-105047e3657ad1c83762be2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-105047e3657ad1c83762be2c.json"
+    },
+    {
+      "id": "lovato-order-a88f0bb3438063b36f58257a",
+      "name": "DCTM3400100 — Thyristor modules",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a88f0bb3438063b36f58257a",
+      "recordPath": "equipment/lovato-order-a88f0bb3438063b36f58257a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a88f0bb3438063b36f58257a.json"
+    },
+    {
+      "id": "lovato-order-174fd50b09fe725e6a1382ab",
+      "name": "PA96X48 — Protective cover, IP65 for DMK0... and DMK1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-174fd50b09fe725e6a1382ab",
+      "recordPath": "equipment/lovato-order-174fd50b09fe725e6a1382ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-174fd50b09fe725e6a1382ab.json"
+    },
+    {
+      "id": "lovato-order-8fcd19b80486957a4cd52baa",
+      "name": "31PA96X96 — Protective cover, IP54 (96x96mm) for DMK2..., DMK3..., DMK 40, ADX TAST, DCRK 5, DCRK 7, ATL 10",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8fcd19b80486957a4cd52baa",
+      "recordPath": "equipment/lovato-order-8fcd19b80486957a4cd52baa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8fcd19b80486957a4cd52baa.json"
+    },
+    {
+      "id": "lovato-order-a153745bf2b1d36167df0c8d",
+      "name": "GAX41040A — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a153745bf2b1d36167df0c8d",
+      "recordPath": "equipment/lovato-order-a153745bf2b1d36167df0c8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a153745bf2b1d36167df0c8d.json"
+    },
+    {
+      "id": "lovato-order-a29065e351520e030bbc6283",
+      "name": "GAX41063SA — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a29065e351520e030bbc6283",
+      "recordPath": "equipment/lovato-order-a29065e351520e030bbc6283.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a29065e351520e030bbc6283.json"
+    },
+    {
+      "id": "lovato-order-226f2e782abf4854544749c0",
+      "name": "GAX41125A — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-226f2e782abf4854544749c0",
+      "recordPath": "equipment/lovato-order-226f2e782abf4854544749c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-226f2e782abf4854544749c0.json"
+    },
+    {
+      "id": "lovato-order-5e0ae5a4b08c4c6eba68999b",
+      "name": "GAX41040C — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5e0ae5a4b08c4c6eba68999b",
+      "recordPath": "equipment/lovato-order-5e0ae5a4b08c4c6eba68999b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5e0ae5a4b08c4c6eba68999b.json"
+    },
+    {
+      "id": "lovato-order-81404f8f7994e2d0d8f61b7e",
+      "name": "GAX41125C — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-81404f8f7994e2d0d8f61b7e",
+      "recordPath": "equipment/lovato-order-81404f8f7994e2d0d8f61b7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-81404f8f7994e2d0d8f61b7e.json"
+    },
+    {
+      "id": "lovato-order-fb1b985c6460ba682d792011",
+      "name": "GAX1011C — Auxiliary contacts, 1NO+1NC for GA...C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fb1b985c6460ba682d792011",
+      "recordPath": "equipment/lovato-order-fb1b985c6460ba682d792011.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fb1b985c6460ba682d792011.json"
+    },
+    {
+      "id": "lovato-order-093eec3760719edd57f95ed8",
+      "name": "GAX1110EA — GAX11 10EA 1NOO {@ ROZ_041 @} GA016A-GA040A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-093eec3760719edd57f95ed8",
+      "recordPath": "equipment/lovato-order-093eec3760719edd57f95ed8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-093eec3760719edd57f95ed8.json"
+    },
+    {
+      "id": "lovato-order-2ef745d92e7c9b4ea3c9d1cf",
+      "name": "GAX1210EA — GAX12 10EA 1NOO {@ ROZ_041 @} GA063A-GA125A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2ef745d92e7c9b4ea3c9d1cf",
+      "recordPath": "equipment/lovato-order-2ef745d92e7c9b4ea3c9d1cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2ef745d92e7c9b4ea3c9d1cf.json"
+    },
+    {
+      "id": "lovato-order-d75e04f2e85a6833c5d4436c",
+      "name": "GAX31A — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d75e04f2e85a6833c5d4436c",
+      "recordPath": "equipment/lovato-order-d75e04f2e85a6833c5d4436c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d75e04f2e85a6833c5d4436c.json"
+    },
+    {
+      "id": "lovato-order-36f0daedd66e8fbf56f14e40",
+      "name": "GAX32A — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-36f0daedd66e8fbf56f14e40",
+      "recordPath": "equipment/lovato-order-36f0daedd66e8fbf56f14e40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-36f0daedd66e8fbf56f14e40.json"
+    },
+    {
+      "id": "lovato-order-004e896cae8a0e2b3d1bec3f",
+      "name": "GAX31C — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-004e896cae8a0e2b3d1bec3f",
+      "recordPath": "equipment/lovato-order-004e896cae8a0e2b3d1bec3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-004e896cae8a0e2b3d1bec3f.json"
+    },
+    {
+      "id": "lovato-order-0f10c83ba867e27272550d71",
+      "name": "GAX32C — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0f10c83ba867e27272550d71",
+      "recordPath": "equipment/lovato-order-0f10c83ba867e27272550d71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0f10c83ba867e27272550d71.json"
+    },
+    {
+      "id": "lovato-order-4393505bed278862ffa0f8ef",
+      "name": "GAX66 — GAX66 {@ ROZ_046 @} {@ ROZ_041 @} GA...A {@ ROZ_045 @} GA...D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4393505bed278862ffa0f8ef",
+      "recordPath": "equipment/lovato-order-4393505bed278862ffa0f8ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4393505bed278862ffa0f8ef.json"
+    },
+    {
+      "id": "lovato-order-ef2cfe8b02358b600eea2433",
+      "name": "GAX631B — GAX63 1B {@ ROZ_045",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ef2cfe8b02358b600eea2433",
+      "recordPath": "equipment/lovato-order-ef2cfe8b02358b600eea2433.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ef2cfe8b02358b600eea2433.json"
+    },
+    {
+      "id": "lovato-order-e642f359b6dac273d59f6fd1",
+      "name": "GAX66B — GAX66 B {@ ROZ_046 @} {@ ROZ_041 @} GA...A, GA...C {@ ROZ_045 @} GA...D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e642f359b6dac273d59f6fd1",
+      "recordPath": "equipment/lovato-order-e642f359b6dac273d59f6fd1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e642f359b6dac273d59f6fd1.json"
+    },
+    {
+      "id": "lovato-order-8a148dae4b7f92d4b72eef00",
+      "name": "GAX5000 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8a148dae4b7f92d4b72eef00",
+      "recordPath": "equipment/lovato-order-8a148dae4b7f92d4b72eef00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8a148dae4b7f92d4b72eef00.json"
+    },
+    {
+      "id": "lovato-order-dbd90ed46de7629666517075",
+      "name": "GAX5001 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dbd90ed46de7629666517075",
+      "recordPath": "equipment/lovato-order-dbd90ed46de7629666517075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dbd90ed46de7629666517075.json"
+    },
+    {
+      "id": "lovato-order-8e8e234ef50044085a592205",
+      "name": "GAX6000 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8e8e234ef50044085a592205",
+      "recordPath": "equipment/lovato-order-8e8e234ef50044085a592205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8e8e234ef50044085a592205.json"
+    },
+    {
+      "id": "lovato-order-dae196c346f594a45ad1a0a8",
+      "name": "GAX6001 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dae196c346f594a45ad1a0a8",
+      "recordPath": "equipment/lovato-order-dae196c346f594a45ad1a0a8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dae196c346f594a45ad1a0a8.json"
+    },
+    {
+      "id": "lovato-order-ed22d041e1613acc13bda149",
+      "name": "GAX82 — GAX82 {@ ROZ_043 @} GAX42 063A - GAX42 125A, GAX41 125A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ed22d041e1613acc13bda149",
+      "recordPath": "equipment/lovato-order-ed22d041e1613acc13bda149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ed22d041e1613acc13bda149.json"
+    },
+    {
+      "id": "lovato-order-00a876e615647e7c4d909915",
+      "name": "GAZ1 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-00a876e615647e7c4d909915",
+      "recordPath": "equipment/lovato-order-00a876e615647e7c4d909915.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-00a876e615647e7c4d909915.json"
+    },
+    {
+      "id": "lovato-order-a1ea2a6411117700c7d7359f",
+      "name": "GAZ2 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a1ea2a6411117700c7d7359f",
+      "recordPath": "equipment/lovato-order-a1ea2a6411117700c7d7359f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a1ea2a6411117700c7d7359f.json"
+    },
+    {
+      "id": "lovato-order-154a7f673fa618d7573876bb",
+      "name": "GAZ3 — GAZ3 {@ GLOW_050 @} IP65, {@ ROZ_041 @} GA125 A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-154a7f673fa618d7573876bb",
+      "recordPath": "equipment/lovato-order-154a7f673fa618d7573876bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-154a7f673fa618d7573876bb.json"
+    },
+    {
+      "id": "lovato-order-f44428a5f264b8572a616009",
+      "name": "GAZ1B — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f44428a5f264b8572a616009",
+      "recordPath": "equipment/lovato-order-f44428a5f264b8572a616009.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f44428a5f264b8572a616009.json"
+    },
+    {
+      "id": "lovato-order-159cc1630fd0f14c5b50ce28",
+      "name": "GAZ2B — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-159cc1630fd0f14c5b50ce28",
+      "recordPath": "equipment/lovato-order-159cc1630fd0f14c5b50ce28.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-159cc1630fd0f14c5b50ce28.json"
+    },
+    {
+      "id": "lovato-order-c4230eaabe6449eb23f528ba",
+      "name": "GAZ3B — GAZ3 B {@ GLOW_050 @} IP65, {@ ROZ_041 @} GA125 A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c4230eaabe6449eb23f528ba",
+      "recordPath": "equipment/lovato-order-c4230eaabe6449eb23f528ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c4230eaabe6449eb23f528ba.json"
+    },
+    {
+      "id": "lovato-order-25ac3a4514e56f2bd99166ec",
+      "name": "GAX391UL — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-25ac3a4514e56f2bd99166ec",
+      "recordPath": "equipment/lovato-order-25ac3a4514e56f2bd99166ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-25ac3a4514e56f2bd99166ec.json"
+    },
+    {
+      "id": "lovato-order-9e013f0c23b335424495408e",
+      "name": "GLX61DB — Direct operating handle for GL0100...GL0315 and GLC0100...GLC0315. Black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9e013f0c23b335424495408e",
+      "recordPath": "equipment/lovato-order-9e013f0c23b335424495408e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9e013f0c23b335424495408e.json"
+    },
+    {
+      "id": "lovato-order-6f67832a3bf6ba1f00abae14",
+      "name": "GLX61D — Direct operating handle for GL0100...GL0315. Red/yellow",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6f67832a3bf6ba1f00abae14",
+      "recordPath": "equipment/lovato-order-6f67832a3bf6ba1f00abae14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6f67832a3bf6ba1f00abae14.json"
+    },
+    {
+      "id": "lovato-order-63a077dc1d9dd132a8ac32ab",
+      "name": "GLX62DB — Direct operating handle for GL0320...GL0630. Black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-63a077dc1d9dd132a8ac32ab",
+      "recordPath": "equipment/lovato-order-63a077dc1d9dd132a8ac32ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-63a077dc1d9dd132a8ac32ab.json"
+    },
+    {
+      "id": "lovato-order-a8cb65f53ccbed6b4b3e3b17",
+      "name": "GLX62D — Direct operating handle for GL0320...GL0630. Red/yellow",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a8cb65f53ccbed6b4b3e3b17",
+      "recordPath": "equipment/lovato-order-a8cb65f53ccbed6b4b3e3b17.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a8cb65f53ccbed6b4b3e3b17.json"
+    },
+    {
+      "id": "lovato-order-931d050f263c5e2c32a52034",
+      "name": "GLX900 — One-pole phase barrier (needed for voltages >500V). 6-piece set, each covers 1 pole for GL0160...GL0315 and GLC0160...GLC0315",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-931d050f263c5e2c32a52034",
+      "recordPath": "equipment/lovato-order-931d050f263c5e2c32a52034.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-931d050f263c5e2c32a52034.json"
+    },
+    {
+      "id": "lovato-order-0a38f623abbf3b9122088d0e",
+      "name": "GLX901 — One-pole phase barrier (needed for voltages >500V). 8-piece set, each covers 1 pole for GL0160...GL0315 and GLC0160...GLC0315",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0a38f623abbf3b9122088d0e",
+      "recordPath": "equipment/lovato-order-0a38f623abbf3b9122088d0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0a38f623abbf3b9122088d0e.json"
+    },
+    {
+      "id": "lovato-order-008c08af6951790ff630ec43",
+      "name": "GLX902 — One-pole phase barrier (needed for voltages >500V). 6-piece set, each covers 1 pole for GL0320...GL0500",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-008c08af6951790ff630ec43",
+      "recordPath": "equipment/lovato-order-008c08af6951790ff630ec43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-008c08af6951790ff630ec43.json"
+    },
+    {
+      "id": "lovato-order-80ebc47811e23f2c6857a97e",
+      "name": "GLX903 — One-pole phase barrier (needed for voltages >500V). 8-piece set, each covers 1 pole for GL0320...GL0500",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-80ebc47811e23f2c6857a97e",
+      "recordPath": "equipment/lovato-order-80ebc47811e23f2c6857a97e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-80ebc47811e23f2c6857a97e.json"
+    },
+    {
+      "id": "lovato-order-2df74e7a872e13be84399940",
+      "name": "GEX1011 — Auxiliary contacts, 1NO+1NC (without GE0160 N-NT4-E-ET4, GE0200 E-ET4)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2df74e7a872e13be84399940",
+      "recordPath": "equipment/lovato-order-2df74e7a872e13be84399940.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2df74e7a872e13be84399940.json"
+    },
+    {
+      "id": "lovato-order-d44d86708c51a3781ec22c89",
+      "name": "GEX1011N — Auxiliary contacts, 1NO+1NC for GE0160 N-NT4, GE0050 F-FT4 and GE0125 F-FT4",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d44d86708c51a3781ec22c89",
+      "recordPath": "equipment/lovato-order-d44d86708c51a3781ec22c89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d44d86708c51a3781ec22c89.json"
+    },
+    {
+      "id": "lovato-order-854c1905c27c12bccf53d4b1",
+      "name": "GEX1011M — Auxiliary contacts, 1NO+1NC for GE0160 E-ET4, GE0200 E-ET4",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-854c1905c27c12bccf53d4b1",
+      "recordPath": "equipment/lovato-order-854c1905c27c12bccf53d4b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-854c1905c27c12bccf53d4b1.json"
+    },
+    {
+      "id": "lovato-order-b04c161fb97a4e9ccf5087ed",
+      "name": "GEX691 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b04c161fb97a4e9ccf5087ed",
+      "recordPath": "equipment/lovato-order-b04c161fb97a4e9ccf5087ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b04c161fb97a4e9ccf5087ed.json"
+    },
+    {
+      "id": "lovato-order-7c0931d26c26d2bfede0c393",
+      "name": "GEX692 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7c0931d26c26d2bfede0c393",
+      "recordPath": "equipment/lovato-order-7c0931d26c26d2bfede0c393.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7c0931d26c26d2bfede0c393.json"
+    },
+    {
+      "id": "lovato-order-94713c5dc4f15687442d7d11",
+      "name": "GEX693 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-94713c5dc4f15687442d7d11",
+      "recordPath": "equipment/lovato-order-94713c5dc4f15687442d7d11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-94713c5dc4f15687442d7d11.json"
+    },
+    {
+      "id": "lovato-order-0aa7e01d6899f5d51cf5a2a9",
+      "name": "GEX61D — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0aa7e01d6899f5d51cf5a2a9",
+      "recordPath": "equipment/lovato-order-0aa7e01d6899f5d51cf5a2a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0aa7e01d6899f5d51cf5a2a9.json"
+    },
+    {
+      "id": "lovato-order-872be697700cea8fcbbda9fd",
+      "name": "GEX61E — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-872be697700cea8fcbbda9fd",
+      "recordPath": "equipment/lovato-order-872be697700cea8fcbbda9fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-872be697700cea8fcbbda9fd.json"
+    },
+    {
+      "id": "lovato-order-13747e6dc65a2727893946ec",
+      "name": "GEX62D — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-13747e6dc65a2727893946ec",
+      "recordPath": "equipment/lovato-order-13747e6dc65a2727893946ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-13747e6dc65a2727893946ec.json"
+    },
+    {
+      "id": "lovato-order-953bcc72b57a4427995ac6bb",
+      "name": "GEX62NE — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-953bcc72b57a4427995ac6bb",
+      "recordPath": "equipment/lovato-order-953bcc72b57a4427995ac6bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-953bcc72b57a4427995ac6bb.json"
+    },
+    {
+      "id": "lovato-order-4abce1c909e78981ea2ec11a",
+      "name": "GEX63D — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4abce1c909e78981ea2ec11a",
+      "recordPath": "equipment/lovato-order-4abce1c909e78981ea2ec11a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4abce1c909e78981ea2ec11a.json"
+    },
+    {
+      "id": "lovato-order-6495843363d69c0010c494c9",
+      "name": "GEX63NE — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6495843363d69c0010c494c9",
+      "recordPath": "equipment/lovato-order-6495843363d69c0010c494c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6495843363d69c0010c494c9.json"
+    },
+    {
+      "id": "lovato-order-057e640d11f8b7aefb99714f",
+      "name": "GEX64D — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-057e640d11f8b7aefb99714f",
+      "recordPath": "equipment/lovato-order-057e640d11f8b7aefb99714f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-057e640d11f8b7aefb99714f.json"
+    },
+    {
+      "id": "lovato-order-c17f69c0f1ac15ede73c0d3c",
+      "name": "GEX64NE — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c17f69c0f1ac15ede73c0d3c",
+      "recordPath": "equipment/lovato-order-c17f69c0f1ac15ede73c0d3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c17f69c0f1ac15ede73c0d3c.json"
+    },
+    {
+      "id": "lovato-order-bad2f75be5f18ae14c0065ab",
+      "name": "GEX65D — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bad2f75be5f18ae14c0065ab",
+      "recordPath": "equipment/lovato-order-bad2f75be5f18ae14c0065ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bad2f75be5f18ae14c0065ab.json"
+    },
+    {
+      "id": "lovato-order-50238283b60961410c3408b1",
+      "name": "GEX66ND — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-50238283b60961410c3408b1",
+      "recordPath": "equipment/lovato-order-50238283b60961410c3408b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-50238283b60961410c3408b1.json"
+    },
+    {
+      "id": "lovato-order-aa5bdbb3f8cb02d54c631b52",
+      "name": "GEX67ND — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-aa5bdbb3f8cb02d54c631b52",
+      "recordPath": "equipment/lovato-order-aa5bdbb3f8cb02d54c631b52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-aa5bdbb3f8cb02d54c631b52.json"
+    },
+    {
+      "id": "lovato-order-f6f50ba0ffe1509eab164bf7",
+      "name": "GEX68ND — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f6f50ba0ffe1509eab164bf7",
+      "recordPath": "equipment/lovato-order-f6f50ba0ffe1509eab164bf7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f6f50ba0ffe1509eab164bf7.json"
+    },
+    {
+      "id": "lovato-order-d8fd241b0010464f1f166487",
+      "name": "GEX69D — Direct control handle, padlockable, IP65, black",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d8fd241b0010464f1f166487",
+      "recordPath": "equipment/lovato-order-d8fd241b0010464f1f166487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d8fd241b0010464f1f166487.json"
+    },
+    {
+      "id": "lovato-order-238ca1bfc1106da7a42253a9",
+      "name": "GMFC030C12 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-238ca1bfc1106da7a42253a9",
+      "recordPath": "equipment/lovato-order-238ca1bfc1106da7a42253a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-238ca1bfc1106da7a42253a9.json"
+    },
+    {
+      "id": "lovato-order-215e4363344d99149635d031",
+      "name": "GMFJ030C12 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-215e4363344d99149635d031",
+      "recordPath": "equipment/lovato-order-215e4363344d99149635d031.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-215e4363344d99149635d031.json"
+    },
+    {
+      "id": "lovato-order-f6f23b44d00486b5aaaf9984",
+      "name": "GMFJ060C12 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f6f23b44d00486b5aaaf9984",
+      "recordPath": "equipment/lovato-order-f6f23b44d00486b5aaaf9984.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f6f23b44d00486b5aaaf9984.json"
+    },
+    {
+      "id": "lovato-order-76b88fe1db11783b4372f003",
+      "name": "GMFJ060C03 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-76b88fe1db11783b4372f003",
+      "recordPath": "equipment/lovato-order-76b88fe1db11783b4372f003.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-76b88fe1db11783b4372f003.json"
+    },
+    {
+      "id": "lovato-order-502577cccf293c54e60cc646",
+      "name": "GMFJ100C03 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-502577cccf293c54e60cc646",
+      "recordPath": "equipment/lovato-order-502577cccf293c54e60cc646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-502577cccf293c54e60cc646.json"
+    },
+    {
+      "id": "lovato-order-5f154374d31903cbac64ff32",
+      "name": "GMFJ200C03 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5f154374d31903cbac64ff32",
+      "recordPath": "equipment/lovato-order-5f154374d31903cbac64ff32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5f154374d31903cbac64ff32.json"
+    },
+    {
+      "id": "lovato-order-b23422dddfad63ef16c72a08",
+      "name": "GMFJ400C03 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b23422dddfad63ef16c72a08",
+      "recordPath": "equipment/lovato-order-b23422dddfad63ef16c72a08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b23422dddfad63ef16c72a08.json"
+    },
+    {
+      "id": "lovato-order-28a51d11ea5588198775b726",
+      "name": "GMFJ600C03 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-28a51d11ea5588198775b726",
+      "recordPath": "equipment/lovato-order-28a51d11ea5588198775b726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-28a51d11ea5588198775b726.json"
+    },
+    {
+      "id": "lovato-order-34f1aff3adc92c0aafa951dd",
+      "name": "GMFL800C03 — Three-pole disconnect switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-34f1aff3adc92c0aafa951dd",
+      "recordPath": "equipment/lovato-order-34f1aff3adc92c0aafa951dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-34f1aff3adc92c0aafa951dd.json"
+    },
+    {
+      "id": "lovato-order-be34da534a6e062453458ceb",
+      "name": "BFA00970024 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-be34da534a6e062453458ceb",
+      "recordPath": "equipment/lovato-order-be34da534a6e062453458ceb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-be34da534a6e062453458ceb.json"
+    },
+    {
+      "id": "lovato-order-94afd219d9b429b1d4199678",
+      "name": "BFA00970048 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-94afd219d9b429b1d4199678",
+      "recordPath": "equipment/lovato-order-94afd219d9b429b1d4199678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-94afd219d9b429b1d4199678.json"
+    },
+    {
+      "id": "lovato-order-de922c3b20cdbce00eb783b1",
+      "name": "BFA00970110 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-de922c3b20cdbce00eb783b1",
+      "recordPath": "equipment/lovato-order-de922c3b20cdbce00eb783b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-de922c3b20cdbce00eb783b1.json"
+    },
+    {
+      "id": "lovato-order-66cc9a39b0f7aa70cc14b2f4",
+      "name": "BFA00970230 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-66cc9a39b0f7aa70cc14b2f4",
+      "recordPath": "equipment/lovato-order-66cc9a39b0f7aa70cc14b2f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-66cc9a39b0f7aa70cc14b2f4.json"
+    },
+    {
+      "id": "lovato-order-a41ab9c8ebb2988759414dc7",
+      "name": "BFA00970400 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a41ab9c8ebb2988759414dc7",
+      "recordPath": "equipment/lovato-order-a41ab9c8ebb2988759414dc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a41ab9c8ebb2988759414dc7.json"
+    },
+    {
+      "id": "lovato-order-59fc82be0394a5baf3926e73",
+      "name": "BFA0097002460 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-59fc82be0394a5baf3926e73",
+      "recordPath": "equipment/lovato-order-59fc82be0394a5baf3926e73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-59fc82be0394a5baf3926e73.json"
+    },
+    {
+      "id": "lovato-order-ba8fcb08760582b6847857f3",
+      "name": "BFA0097004860 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ba8fcb08760582b6847857f3",
+      "recordPath": "equipment/lovato-order-ba8fcb08760582b6847857f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ba8fcb08760582b6847857f3.json"
+    },
+    {
+      "id": "lovato-order-ce9940fbbb3eb19e67789b0d",
+      "name": "BFA0097012060 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ce9940fbbb3eb19e67789b0d",
+      "recordPath": "equipment/lovato-order-ce9940fbbb3eb19e67789b0d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ce9940fbbb3eb19e67789b0d.json"
+    },
+    {
+      "id": "lovato-order-4367c5d92b4d18c5f689693b",
+      "name": "BFA0097022060 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4367c5d92b4d18c5f689693b",
+      "recordPath": "equipment/lovato-order-4367c5d92b4d18c5f689693b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4367c5d92b4d18c5f689693b.json"
+    },
+    {
+      "id": "lovato-order-3120c44cfede5c27330879d1",
+      "name": "BFA0097023060 — Star-delta starter, open frame, for motors max 16A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3120c44cfede5c27330879d1",
+      "recordPath": "equipment/lovato-order-3120c44cfede5c27330879d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3120c44cfede5c27330879d1.json"
+    },
+    {
+      "id": "lovato-order-6e418af64036dbd752a13d45",
+      "name": "BFA01270024 — Star-delta starter, open frame, for motors max 22A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6e418af64036dbd752a13d45",
+      "recordPath": "equipment/lovato-order-6e418af64036dbd752a13d45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6e418af64036dbd752a13d45.json"
+    }
+  ]
+}

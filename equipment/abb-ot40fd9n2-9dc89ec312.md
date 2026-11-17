@@ -8,7 +8,7 @@ ABB OT40FD9N2: switching-equipment reference for switch installation and operati
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307715F0001; OT40FD9N2.STP
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “OT40FD9N2”. Keep those frame, mounting and ac
 - Manufacturer drawing: 1SCC307715F0001; OT40FD9N2.STP
 - Manufacturer reference: 1SCC307715F0001; OT40FD9N2.STP
 - Document revision: A
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Standards: IEC 60947-3
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,6 +98,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307715F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 6358803 bytes
 - Delivery SHA-256: d903ce19f4585967637ec7d0a98b565627c4522864c8703cff6635e19a0552e5
+
+### OT40FD9N2\_1SCC307715F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (OT40FD9N2\_1SCC307715F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307715F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot40fd9n2-9dc89ec312/d903ce19f4585967637e-dxf)
+- Redistribution: unknown
+- Original SHA-256: d903ce19f4585967637ec7d0a98b565627c4522864c8703cff6635e19a0552e5
+- Original bytes: 6358803
+- Revision: A
+- Retrieved: 2026-11-04T01:09:07Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307715F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307715F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 42266675 bytes
+- Delivery SHA-256: e7ccd0b3c27f986273f740ec247a71b49963652b1c86e5415d563b65b40c0c4e
 
 ### OT40FD9N2.stp
 

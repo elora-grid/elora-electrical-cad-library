@@ -8,7 +8,7 @@ ABB E1.3 1600A 4p W IEC: breaker or breaker-accessory reference for breaker comp
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002443A1006
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “E1.3 1600A 4p W IEC”. Keep those frame, mount
 - Manufacturer drawing: 1SDH002443A1006
 - Manufacturer reference: 1SDH002443A1006
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Standards: IEC 60947, IEC 61000
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -90,5 +91,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002443A1006&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 35031303 bytes
 - Delivery SHA-256: 01a5c33495a5197b56de5459a6fd816321b0a2ccfd9116cb3a561c63e53cdbb0
+
+### 1SDH002443A1006.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002443A1006.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002443A1006&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-3-1600a-4p-w-iec-c2aad53cf6/01a5c33495a5197b56de-dxf)
+- Redistribution: unknown
+- Original SHA-256: 01a5c33495a5197b56de5459a6fd816321b0a2ccfd9116cb3a561c63e53cdbb0
+- Original bytes: 35031303
+- Revision: A
+- Retrieved: 2026-11-04T04:03:16Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002443A1006&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002443A1006&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1667323 bytes
+- Delivery SHA-256: c462799ad91f62f9c1bf70f45463ad1c5d9a3df086f77dd60173014c9202b685
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

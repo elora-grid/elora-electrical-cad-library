@@ -8,7 +8,7 @@ ABB OTP\_80FP: switching-equipment reference for switch installation and operati
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC340168F0201
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “OTP\_80FP”. Keep those frame, mounting and ac
 - Manufacturer drawing: 1SCC340168F0201
 - Manufacturer reference: 1SCC340168F0201
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC340168F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 142590 bytes
 - Delivery SHA-256: ebf4b1ede3587e392004160ede544d890be497fe730a560d24b68b8e0f4f00de
+
+### 1SCC340168F0201.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SCC340168F0201.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC340168F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otp-80fp-c1ec9c8f01/ebf4b1ede3587e392004-dxf)
+- Redistribution: unknown
+- Original SHA-256: ebf4b1ede3587e392004160ede544d890be497fe730a560d24b68b8e0f4f00de
+- Original bytes: 142590
+- Revision: A
+- Retrieved: 2026-11-04T00:57:30Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC340168F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC340168F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 704701 bytes
+- Delivery SHA-256: 2ba83eacd2a71ac8642f28a04a20eb4c2a2609cb114b108b974f2d13885d2a59
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

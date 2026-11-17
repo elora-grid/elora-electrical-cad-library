@@ -27,6 +27,7 @@ The supplied configuration is “OT600ES30”. Keep those frame, mounting and ac
 - Manufacturer reference: OT600ES30.IGS
 - Document revision: A
 - Manufacturer reference: OT600ES30K.IGS
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -9,7 +9,7 @@ XT2 3p Withdrawable Side connector for Ekip Touch/Hi-Touch: ABB manufacturer STE
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0900
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT2 3p Withdrawable Side connector for Ekip Touch/
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0900
 - Model extents (X × Y × Z, mm): 15.0 × 125.5 × 56.8
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -102,5 +102,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0900&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 163215 bytes
 - Delivery SHA-256: 3bfebb2cd0874829cae4babba5821978e90bb9bbbcd48bef4dc61177f8ddbc75
+
+### 1SDH001295R0900\_XT2\_3P\_W\_PLUG\_KIT\_\_Rev01.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0900\_XT2\_3P\_W\_PLUG\_KIT\_\_Rev01.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0900&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-3p-withdrawable-side-connector-for-ekip-touch-hi-touch-8b6f4871/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3bfebb2cd0874829cae4babba5821978e90bb9bbbcd48bef4dc61177f8ddbc75
+- Original bytes: 163215
+- Revision: B
+- Retrieved: 2026-11-03T01:48:02.712236+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0900&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0900&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 99754 bytes
+- Delivery SHA-256: a90e188f8d2f9de28aeb3e21d4c2866ad6b9b9c746cec5b743698d3a59c22565
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

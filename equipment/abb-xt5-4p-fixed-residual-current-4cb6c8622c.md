@@ -8,7 +8,7 @@ ABB XT5 4p Fixed Residual Current: breaker or breaker-accessory reference for br
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1230
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 4p Fixed Residual Current”. Keep those fr
 - Manufacturer reference: 1SDH002065A1230
 - Document revision: A
 - Model envelope: 1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.stp: 123.8 × 116.8 × 187 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1230&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 3570343 bytes
 - Delivery SHA-256: 35e0b6f5445a7055aeba3e6e94e6dea40ec61143a1da3022ac123c187cb99fad
+
+### 1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1230\_XT5\_4p\_Fixed\_Residual\_Current.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1230&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-fixed-residual-current-4cb6c8622c/35e0b6f5445a7055aeba-dxf)
+- Redistribution: unknown
+- Original SHA-256: 35e0b6f5445a7055aeba3e6e94e6dea40ec61143a1da3022ac123c187cb99fad
+- Original bytes: 3570343
+- Revision: A
+- Retrieved: 2026-11-03T02:00:21.585186Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1230&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1230&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 377649 bytes
+- Delivery SHA-256: a671dbb544392a6151afef681093dc01aa44e7cf8992f4eecdc0ebcaba199c1d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

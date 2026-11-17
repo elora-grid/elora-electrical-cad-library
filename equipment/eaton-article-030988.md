@@ -1,0 +1,124 @@
+# Eaton — T3-4-15682/Z — On-Off switch, T3, 32 A, rear mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate
+
+Eaton T3-4-15682/Z — On-Off switch, T3, 32 A, rear mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-030988) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-030988.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-030988.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/77c6ef8d-4e09-421f-9640-1ea876c22013/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 030988
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: T3-4-15682/Z — On-Off switch, T3, 32 A, rear mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 030988
+- Manufacturer reference: 030988
+- Manufacturer type: T3-4-15682/Z
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 030988 ([source](https://ecat.eaton.com/downloads/77c6ef8d-4e09-421f-9640-1ea876c22013/cad_files_001.zip))
+- Manufacturer type: T3-4-15682/Z ([source](https://ecat.eaton.com/downloads/77c6ef8d-4e09-421f-9640-1ea876c22013/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/77c6ef8d-4e09-421f-9640-1ea876c22013/cad_files_001.zip))
+
+## What the equipment does
+
+A switch changes an electrical connection when a person or mechanism operates it. Its contacts determine which control paths are made or broken.
+
+Use t3\_z\_4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified t3\_z\_4.stp.
+
+Use t3\_z\_4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified t3\_z\_4.stp. Use eaton-cam-switches-mcad-drawings-t3-z-4.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cam-switches-mcad-drawings-t3-z-4.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 030988 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for T3-4-15682/Z — On-Off switch, T3, 32 A, rear mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate?
+
+2 inspected originals for Eaton T3-4-15682/Z — On-Off switch, T3, 32 A, rear mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate: t3\_z\_4.stp (STEP); eaton-cam-switches-mcad-drawings-t3-z-4.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/77c6ef8d-4e09-421f-9640-1ea876c22013/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/77c6ef8d-4e09-421f-9640-1ea876c22013/cad_files_001.zip)
+
+## Choosing a file
+
+Use t3\_z\_4.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified t3\_z\_4.stp. Use eaton-cam-switches-mcad-drawings-t3-z-4.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cam-switches-mcad-drawings-t3-z-4.dwg.
+
+## Preview
+
+![Eaton T3-4-15682/Z — On-Off switch, T3, 32 A, rear mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-030988/native-517e5b0bcaa1c4d0b4e1e652-dwg?asset=517e5b0bcaa1c4d0b4e1e652af6a67f8fd6f5f797f8f3cbdeaa3a14ca640de76)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-030988). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### t3\_z\_4.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/t3_z_4.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-030988/native-0c0500d4874fa3552633a7bd-step)
+- Redistribution: unknown
+- Original SHA-256: 0c0500d4874fa3552633a7bd58948a421521bce055fcf65ae2d90b7d8e265095
+- Original bytes: 4129652
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/t3_z_4.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/t3_z_4.stp)
+- Delivery: source-bundle; ZIP; 536698 bytes
+- Delivery SHA-256: ae20ed6d6d8d721c04af4f1b269c4f285320ca227b71fa6dac0442a73bd447ac
+
+### eaton-cam-switches-mcad-drawings-t3-z-4.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-t3-z-4.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-030988/native-517e5b0bcaa1c4d0b4e1e652-dwg)
+- Redistribution: unknown
+- Original SHA-256: 517e5b0bcaa1c4d0b4e1e652af6a67f8fd6f5f797f8f3cbdeaa3a14ca640de76
+- Original bytes: 284416
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-t3-z-4.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-t3-z-4.dwg)
+- Delivery: source-bundle; ZIP; 210931 bytes
+- Delivery SHA-256: 4c6c9c476facc92e42af901eaf2eadccc860bbc57923316a146d93d1bbde9499
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

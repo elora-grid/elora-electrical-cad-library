@@ -25,9 +25,10 @@ The supplied configuration is “OT63-80F3”. Keep those frame, mounting and ac
 - Manufacturer drawing: 1SCC301449F0001
 - Manufacturer reference: 1SCC301449F0001
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: -
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +65,7 @@ Use Z14\_OT80F3\_1SCC301449F0001.dxf revision - for editable DXF drawing geometr
 
 ## Preview
 
-![ABB OT63-80F3: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot63-80f3-421bcdd0f4/95d5df66a3dd5561b0f3?asset=95d5df66a3dd5561b0f320ea3104dfcb85e881884568959cfb4fa09da5ec17a9)
+![ABB OT63-80F3: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot63-80f3-421bcdd0f4/95d5df66a3dd5561b0f3?asset=95d5df66a3dd5561b0f320ea3104dfcb85e881884568959cfb4fa09da5ec17a9&view=thumb&v=8ebfc8a9737a4d9d)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot63-80f3-421bcdd0f4). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

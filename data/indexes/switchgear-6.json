@@ -219,7 +219,8 @@
       "drawingNumber": "1SCC307691F0001; OT200-250E12K.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200-ot250e12k-c65fe59122",
       "recordPath": "equipment/abb-ot200-ot250e12k-c65fe59122.md",
@@ -244,7 +245,8 @@
       "drawingNumber": "1SCC307693F0001; OT200-250E21.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200-ot250e21-fe6d2f7aab",
       "recordPath": "equipment/abb-ot200-ot250e21-fe6d2f7aab.md",
@@ -309,7 +311,8 @@
       "drawingNumber": "1SCC301396F0001; OT160EVS30K.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200-ot250es30k-8efa811a12",
       "recordPath": "equipment/abb-ot200-ot250es30k-8efa811a12.md",
@@ -322,7 +325,8 @@
       "drawingNumber": "1SCC307645F0001; OT200-250U12-121.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200-ot250u12-121-ddebd85a24",
       "recordPath": "equipment/abb-ot200-ot250u12-121-ddebd85a24.md",
@@ -335,7 +339,8 @@
       "drawingNumber": "1SCC307627F0001; OT200-250U21.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200-ot250u21-5c6d3aff38",
       "recordPath": "equipment/abb-ot200-ot250u21-5c6d3aff38.md",
@@ -577,7 +582,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC301739F0002",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot2000-2500e12k-0debe65343",
       "recordPath": "equipment/abb-ot2000-2500e12k-0debe65343.md",
@@ -649,7 +655,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC301743F0002",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot2000-2500e22k-5993ab347e",
       "recordPath": "equipment/abb-ot2000-2500e22k-5993ab347e.md",
@@ -794,7 +801,8 @@
       "drawingNumber": "1SCC307655F0001; OT200UDS33.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200uds33-061eaf3ede",
       "recordPath": "equipment/abb-ot200uds33-061eaf3ede.md",
@@ -806,7 +814,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC307550F0201",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200us02-1c8593bab0",
       "recordPath": "equipment/abb-ot200us02-1c8593bab0.md",
@@ -866,7 +875,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC307552F0201",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200us20-60d180e6b3",
       "recordPath": "equipment/abb-ot200us20-60d180e6b3.md",
@@ -878,7 +888,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC307556F0201",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200us30-54f69f4ed2",
       "recordPath": "equipment/abb-ot200us30-54f69f4ed2.md",
@@ -890,7 +901,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC307560F0201",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot200us40-bb770770d4",
       "recordPath": "equipment/abb-ot200us40-bb770770d4.md",
@@ -1351,7 +1363,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC301280F0001",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot315-ot400e04-686c4a96ab",
       "recordPath": "equipment/abb-ot315-ot400e04-686c4a96ab.md",
@@ -1790,7 +1803,8 @@
       "drawingNumber": "1SCC307018F0001; OT320UDS33.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot320uds33-02b1eb94f1",
       "recordPath": "equipment/abb-ot320uds33-02b1eb94f1.md",
@@ -2153,7 +2167,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC307564F0201",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot400u22d-0c0dd9b800",
       "recordPath": "equipment/abb-ot400u22d-0c0dd9b800.md",
@@ -2227,7 +2242,8 @@
       "drawingNumber": "1SCC307715F0001; OT40FD9N2.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot40fd9n2-9dc89ec312",
       "recordPath": "equipment/abb-ot40fd9n2-9dc89ec312.md",
@@ -2240,7 +2256,8 @@
       "drawingNumber": "1SCC307745F0001; OT45-80ML3.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot45-ot80ml3-1c98e02b85",
       "recordPath": "equipment/abb-ot45-ot80ml3-1c98e02b85.md",
@@ -2377,7 +2394,8 @@
       "drawingNumber": "1SCC307733F0001; OT600U13.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot600u13-0b8cd9be9d",
       "recordPath": "equipment/abb-ot600u13-0b8cd9be9d.md",
@@ -2440,7 +2458,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "1SCC307566F0201",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot600u22d-d3407216f3",
       "recordPath": "equipment/abb-ot600u22d-d3407216f3.md",
@@ -2766,7 +2785,8 @@
       "drawingNumber": "1SCC307721F0001; OT63-80F3U.STP",
       "formats": [
         "DWG",
-        "STEP"
+        "STEP",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ot63-ot80f3u-3cdb756c1d",
       "recordPath": "equipment/abb-ot63-ot80f3u-3cdb756c1d.md",

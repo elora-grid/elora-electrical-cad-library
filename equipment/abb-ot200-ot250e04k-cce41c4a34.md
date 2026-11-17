@@ -26,6 +26,7 @@ The supplied configuration is “OT200...OT250E04K”. Keep those frame, mountin
 - Manufacturer reference: OT200-250E04K.STP
 - Document revision: A
 - Model envelope: OT200\_250E04K.stp: 150 × 202 × 106.9 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

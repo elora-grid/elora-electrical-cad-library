@@ -25,6 +25,7 @@ The supplied configuration is “T7 III F - T7 3 poles Fixed”. Keep those fram
 - Manufacturer drawing: 1SDH001291R0135
 - Manufacturer reference: 1SDH001291R0135
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -25,6 +25,7 @@ Manufacturer reference rmf-112d-data-sheet-4921240223-uk.pdf; rmf-112d-fiche-tec
 - Manufacturer drawing: rmf-112d-data-sheet-4921240223-uk.pdf; rmf-112d-fiche-technique-4921240223-fr.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer reference: rmf-112d-data-sheet-4921240223-uk.pdf; rmf-112d-fiche-technique-4921240223-fr.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip; rmf-112d-选型手册-4921240223-中文.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

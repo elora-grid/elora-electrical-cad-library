@@ -28,6 +28,7 @@ Use the row for PSP-287P on PDF page 14. The download is the complete catalogue,
 - Voltage rating (kV): 115
 - BIL (kV): 550
 - Cantilever strength (lb): 2600
+- Standards: ANSI C29.19
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

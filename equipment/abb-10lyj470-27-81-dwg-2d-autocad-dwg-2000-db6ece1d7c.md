@@ -8,7 +8,7 @@ ABB 10LYJ470\_27.81: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYJ470\_27.81; 10LYJ470
-- Formats: DWG, IGS, PDF, SAT, SLDPRT
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “10LYJ470\_27.81”. Keep those frame, mounting 
 - Document revision: D
 - Motor drawing designation (10LYJ470): HORZ TEFC 284-6T W/ABB INT SH GND
 - Manufacturer reference: 10LYJ470
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 1038719 bytes
 - Delivery SHA-256: ceb7abff6d304874b0c2887f5d55d7f4197478f42ef7f24291e050c9ef0c5a5f
+
+### 10LYJ470\_27.81.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYJ470\_27.81.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyj470-27-81-dwg-2d-autocad-dwg-2000-db6ece1d7c/ceb7abff6d304874b0c2-dxf)
+- Redistribution: unknown
+- Original SHA-256: ceb7abff6d304874b0c2887f5d55d7f4197478f42ef7f24291e050c9ef0c5a5f
+- Original bytes: 1038719
+- Revision: D
+- Retrieved: 2026-11-04T00:25:16Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ470_27.81&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 2634223 bytes
+- Delivery SHA-256: cce3fdcace08e97bcf5c4d6a80e4c7ce2de7f4ff60bb65e09011a0bc2fd38534
 
 ### 10LYJ470.pdf
 

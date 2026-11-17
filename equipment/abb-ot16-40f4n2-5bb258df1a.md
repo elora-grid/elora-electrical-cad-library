@@ -27,6 +27,7 @@ The supplied configuration is “OT16...40F4N2”. Keep those frame, mounting an
 - Manufacturer reference: OT16...40F4N2.STP
 - Document revision: A
 - Model envelope: OT16...40F4N2.stp: 48 × 57 × 68 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3, UL 508, CSA C22.2 No. 14
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

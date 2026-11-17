@@ -25,6 +25,7 @@ The supplied configuration is “OT1000-1250E22W4”. Keep those frame, mounting
 - Manufacturer drawing: OT1250E22W4
 - Manufacturer reference: OT1250E22W4
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

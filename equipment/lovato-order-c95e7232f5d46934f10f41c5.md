@@ -1,0 +1,102 @@
+# LOVATO Electric — 8LM2TJ210 — Joystick, with mechanical interlock, 2 directions, instable
+
+LOVATO Electric 8LM2TJ210 — Joystick, with mechanical interlock, 2 directions, instable. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c95e7232f5d46934f10f41c5) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-c95e7232f5d46934f10f41c5.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-c95e7232f5d46934f10f41c5.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 8LM2TJ210
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: 8LM2TJ210 — Joystick, with mechanical interlock, 2 directions, instable
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: 8LM2TJ210
+- Manufacturer reference: 8LM2TJ210
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 8LM2TJ210 ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+Automation equipment gathers information, follows control rules and passes commands between the equipment and the people operating it.
+
+Use 2D\_APST\_020.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_APST\_020.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_APST\_020.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_APST\_020.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric 8LM2TJ210 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 8LM2TJ210 — Joystick, with mechanical interlock, 2 directions, instable?
+
+1 inspected original for LOVATO Electric 8LM2TJ210 — Joystick, with mechanical interlock, 2 directions, instable: 2D\_APST\_020.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_APST\_020.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_APST\_020.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric 8LM2TJ210 — Joystick, with mechanical interlock, 2 directions, instable: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-c95e7232f5d46934f10f41c5/native-23c0e41e22d6f8595b662e5e-dxf?asset=23c0e41e22d6f8595b662e5e82df1b9ddf2c7a244117fd1774cbd190514fc1fa)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c95e7232f5d46934f10f41c5). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_APST\_020.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-c95e7232f5d46934f10f41c5/native-23c0e41e22d6f8595b662e5e-dxf)
+- Redistribution: unknown
+- Original SHA-256: 23c0e41e22d6f8595b662e5e82df1b9ddf2c7a244117fd1774cbd190514fc1fa
+- Original bytes: 232608
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 27571 bytes
+- Delivery SHA-256: 2c49b6c16ea0ac7e094a818a476a228563f5101863135b2ae1fa0a8db57f7ce8
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

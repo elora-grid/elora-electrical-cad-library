@@ -26,6 +26,7 @@ The supplied configuration is “OT30-160G3-6BS”. Keep those frame, mounting a
 - Manufacturer drawing: OT30\_160G3\_6B\_SR.STP
 - Manufacturer reference: OT30\_160G3\_6B\_SR.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

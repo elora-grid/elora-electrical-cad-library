@@ -8,7 +8,7 @@ ABB DDA203 up to 40A\_2D: breaker or breaker-accessory reference for breaker com
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK106930A3987
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “DDA203 up to 40A\_2D”. Keep those frame, moun
 - Manufacturer drawing: 9AKK106930A3987
 - Manufacturer reference: 9AKK106930A3987
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A3987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 404854 bytes
 - Delivery SHA-256: 96ff76557877f53fa5bfb6e2a146bc92ce618edcf0a2a2b4f2cfc62aee04afc4
+
+### 04160646\_\_\_\_\_\_000\_A0\_DDA200\_3P2M\_\_2D\_DIMENSIONI\_INGOMBRO\_.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (04160646\_\_\_\_\_\_000\_A0\_DDA200\_3P2M\_\_2D\_DIMENSIONI\_INGOMBRO\_.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A3987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-dda203-up-to-40a-2d-e7d1a5cc73/96ff76557877f53fa5bf-dxf)
+- Redistribution: unknown
+- Original SHA-256: 96ff76557877f53fa5bfb6e2a146bc92ce618edcf0a2a2b4f2cfc62aee04afc4
+- Original bytes: 404854
+- Revision: A
+- Retrieved: 2026-11-04T00:58:37Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A3987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A3987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1209465 bytes
+- Delivery SHA-256: c5416fb2d823d262e6059ec65a61418badab66d25cf62fb5844042dbf187a5fd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

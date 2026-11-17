@@ -7,7 +7,7 @@ Exact-order-code manufacturer CAD with published 2D DWG and 3D STEP routes. Acce
 - Category: Communications
 - Entry type: product
 - Part number: EXCCON02
-- Formats: DWG, STP
+- Formats: DWG, STP, DXF
 - Discovery markets: UK, Europe, Global
 - Access: direct
 - Checked: 2026-10-14T01:07:25.812525+00:00
@@ -22,8 +22,8 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Manufacturer: LOVATO Electric
 - Resource type: Product
 - Part number: EXCCON02
-- Listed file formats: DWG, STP
-- Listed files: 2
+- Listed file formats: DWG, STP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with EXCCON02. The files above belong to LOVATO Electric's EXCCON02 RS485/Ethernet Modbus converter resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, STP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, STP. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -83,6 +83,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://catalogue.lovatoelectric.com/)
 - Delivery: original; DWG; 252172 bytes
 - Delivery SHA-256: 11398c47323d171d1f07ae5bf71d632c1d8704496921f1c57d5018e24609b4d2
+
+### 2d\_EXCCON02.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (2d\_EXCCON02.dwg).
+- [Official source](https://catalogue.lovatoelectric.com/de_de/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_EXCCON02.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-exccon02/europe-lovato-exccon02-260161752896-dxf)
+- Redistribution: unknown
+- Original SHA-256: 11398c47323d171d1f07ae5bf71d632c1d8704496921f1c57d5018e24609b4d2
+- Original bytes: 252172
+- Revision: Not recorded
+- Retrieved: 2026-10-14T01:07:25.812525+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/de_de/Erweiterungsmodul-Konverter-MODBUS-RS485-Ethernet-mit-Montageset-fur-die-DIN-Schiene/EXCCON02/snp)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gb_en/Stand-alone-gen-set-controller-12-24VDC-USB-optical-and-Wi-Fi-point-programming-port-on-front-W-Pick-up-speed-input-IP54/RGK600SA/snp)
+- [Rights evidence](https://catalogue.lovatoelectric.com/)
+- Delivery: converted; DXF; 1532084 bytes
+- Delivery SHA-256: 60df8fb406e62f1567e0c47ef15508050b77511726e1ec7d14f479ce457b627a
 
 ### 3d\_EXCCON02.stp
 

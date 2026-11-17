@@ -25,6 +25,7 @@ Manufacturer reference rmc-142d-data-sheet-4921240148-uk.pdf; rmc-142d-fiche-tec
 - Manufacturer drawing: rmc-142d-data-sheet-4921240148-uk.pdf; rmc-142d-fiche-technique-4921240148-fr.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer reference: rmc-142d-data-sheet-4921240148-uk.pdf; rmc-142d-fiche-technique-4921240148-fr.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip; rmc-142d-选型手册-4921240494-中文.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

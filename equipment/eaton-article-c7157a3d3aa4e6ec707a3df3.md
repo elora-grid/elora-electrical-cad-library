@@ -1,0 +1,99 @@
+# Eaton — FUSE 315A 690V 00BTN/60 AR — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator
+
+Eaton FUSE 315A 690V 00BTN/60 AR — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c7157a3d3aa4e6ec707a3df3) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-c7157a3d3aa4e6ec707a3df3.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-c7157a3d3aa4e6ec707a3df3.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/873486f6-1f22-41a8-af5a-b751951d2bb3/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 170M2769
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: FUSE 315A 690V 00BTN/60 AR — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 170M2769
+- Manufacturer reference: 170M2769
+- Manufacturer type: FUSE 315A 690V 00BTN/60 AR
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 170M2769 ([source](https://ecat.eaton.com/downloads/873486f6-1f22-41a8-af5a-b751951d2bb3/cad_files_001.zip))
+- Manufacturer type: FUSE 315A 690V 00BTN/60 AR ([source](https://ecat.eaton.com/downloads/873486f6-1f22-41a8-af5a-b751951d2bb3/cad_files_001.zip))
+- Available native formats: STEP ([source](https://ecat.eaton.com/downloads/873486f6-1f22-41a8-af5a-b751951d2bb3/cad_files_001.zip))
+
+## What the equipment does
+
+A fuse contains a small element that melts and breaks the circuit when excessive current meets its operating characteristic.
+
+Use eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp.
+
+Use eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 170M2769 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for FUSE 315A 690V 00BTN/60 AR — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator?
+
+1 inspected original for Eaton FUSE 315A 690V 00BTN/60 AR — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator: eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp (STEP).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/873486f6-1f22-41a8-af5a-b751951d2bb3/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/873486f6-1f22-41a8-af5a-b751951d2bb3/cad_files_001.zip)
+
+## Choosing a file
+
+Use eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-c7157a3d3aa4e6ec707a3df3/native-f3192b855f5ab928eb8cf61a-step)
+- Redistribution: unknown
+- Original SHA-256: f3192b855f5ab928eb8cf61af3ebacda5c6f3c416890f525e6fe38c937c22d0c
+- Original bytes: 648395
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-hs-square-body-fuses-mcad-3d-models-u0715r.stp)
+- Delivery: source-bundle; ZIP; 101720 bytes
+- Delivery SHA-256: 55f8560bf06ee743826b9b728c26f1e9ecec339808040492cfc661b58fe4a4ba
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

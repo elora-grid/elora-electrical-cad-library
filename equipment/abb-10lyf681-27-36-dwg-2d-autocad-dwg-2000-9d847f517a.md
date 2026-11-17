@@ -8,7 +8,7 @@ ABB 10LYF681\_27.36: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYF681\_27.36; 10LYF681
-- Formats: DWG, PDF, SLDPRT
+- Formats: DWG, PDF, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “10LYF681\_27.36”. Keep those frame, mounting 
 - Document revision: E
 - Motor drawing designation (10LYF681): HORZ TENV 284-6T INV W/THRU SH ENCODER DESIGN & COVER
 - Manufacturer reference: 10LYF681
-- Listed file formats: DWG, PDF, SLDPRT
-- Listed files: 3
+- Listed file formats: DWG, PDF, SLDPRT, DXF
+- Listed files: 4
 - Available previews: 2 drawing previews
 - Recorded revisions: E
 - Source checked: 2026-11-04
@@ -108,6 +108,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; DWG; 3485921 bytes
 - Delivery SHA-256: fd7f79fa096927ccf1d03921f0db4378597bc1839afd7edef096e3e19b4ed60e
+
+### 10LYF681\_27.36.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYF681\_27.36.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyf681-27-36-dwg-2d-autocad-dwg-2000-9d847f517a/fd7f79fa096927ccf1d0-dxf)
+- Redistribution: unknown
+- Original SHA-256: fd7f79fa096927ccf1d03921f0db4378597bc1839afd7edef096e3e19b4ed60e
+- Original bytes: 3485921
+- Revision: E
+- Retrieved: 2026-11-04T00:25:01Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Delivery: converted; DXF; 10600749 bytes
+- Delivery SHA-256: a95df9502c6ff31f320a1cbe5876a1b2a94bcbd35276bd17275750a07389997d
 
 ### 10LYF681.pdf
 

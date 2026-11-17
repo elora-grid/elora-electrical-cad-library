@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: SBS
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: SBS
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with SBS. The files above belong to Greenheck's SBS fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -113,6 +113,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 559322 bytes
 - Delivery SHA-256: bba24f589f75e46685015e651b6a94961b8db56ed0a46daf54839d37bbca3a97
 
+### SBS-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SBS-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SBS-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sbs-fans/greenheck-sbs-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: bba24f589f75e46685015e651b6a94961b8db56ed0a46daf54839d37bbca3a97
+- Original bytes: 559322
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 1620771 bytes
+- Delivery SHA-256: 338c479e28192217f815deaa5f86cc2af92e1b07cf6a2894c006bb65187f7f37
+
 ### SBS-1-20.dwg
 
 - Format: DWG
@@ -132,5 +152,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 419402 bytes
 - Delivery SHA-256: e00a2bdbac85588fd39220042f1487ed6358fe2e5b3329e277e153e11427bae6
+
+### SBS-1-20.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SBS-1-20.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SBS-1-20.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sbs-fans/greenheck-sbs-1-20-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: e00a2bdbac85588fd39220042f1487ed6358fe2e5b3329e277e153e11427bae6
+- Original bytes: 419402
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 314870 bytes
+- Delivery SHA-256: 61e3f9821c83e0b4f683b60bc09ba33448c017be1c56299cab9a5de3a7a7d1df
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,140 @@
+# LOVATO Electric — GAX68B — Black door coupling handle. Padlockable, IP65, pistol grip for GA016A...GA063SA, GA040D, GA016C...GA040C and GD...., screw fixing. Lowered selector. 5MM/0.2
+
+LOVATO Electric GAX68B — Black door coupling handle. Padlockable, IP65, pistol grip for GA016A...GA063SA, GA040D, GA016C...GA040C and GD...., screw fixing. Lowered selector. 5MM/0.2. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2776ec0a1ba75c4eddda02bb) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-2776ec0a1ba75c4eddda02bb.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-2776ec0a1ba75c4eddda02bb.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/GAX68B/GAX68B/snp)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: GAX68B
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: GAX68B — Black door coupling handle. Padlockable, IP65, pistol grip for GA016A...GA063SA, GA040D, GA016C...GA040C and GD...., screw fixing. Lowered selector. 5MM/0.2
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: GAX68B
+- Manufacturer reference: GAX68B
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: GAX68B ([source](https://catalogue.lovatoelectric.com/gl_en/GAX68B/GAX68B/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/GAX68B/GAX68B/snp))
+
+## What the equipment does
+
+A selector lets a person choose an operating mode or control position. Its contact arrangement determines which circuits are connected in each position.
+
+Use 2d\_GAX68B.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GAX68B.dwg.
+
+Use 2d\_GAX68B.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GAX68B.dwg. Use 3d\_GAX68B.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_GAX68B.stp. Use 2D\_ROZI\_078.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_078.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric GAX68B and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for GAX68B — Black door coupling handle. Padlockable, IP65, pistol grip for GA016A...GA063SA, GA040D, GA016C...GA040C and GD...., screw fixing. Lowered selector. 5MM/0.2?
+
+3 inspected originals for LOVATO Electric GAX68B — Black door coupling handle. Padlockable, IP65, pistol grip for GA016A...GA063SA, GA040D, GA016C...GA040C and GD...., screw fixing. Lowered selector. 5MM/0.2: 2d\_GAX68B.dwg (DWG); 3d\_GAX68B.stp (STEP); 2D\_ROZI\_078.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/GAX68B/GAX68B/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/GAX68B/GAX68B/snp)
+
+## Choosing a file
+
+Use 2d\_GAX68B.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GAX68B.dwg. Use 3d\_GAX68B.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_GAX68B.stp. Use 2D\_ROZI\_078.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_078.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric GAX68B — Black door coupling handle. Padlockable, IP65, pistol grip for GA016A...GA063SA, GA040D, GA016C...GA040C and GD...., screw fixing. Lowered selector. 5MM/0.2: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-2776ec0a1ba75c4eddda02bb/native-a07d997dff9a38971b93637d-dxf?asset=a07d997dff9a38971b93637dce7b663fa9e656985d2b6e8932713b5cb2b5e9e6)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2776ec0a1ba75c4eddda02bb). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_GAX68B.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GAX68B.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-2776ec0a1ba75c4eddda02bb/native-a395b79d91503d2e93f03d7e-dwg)
+- Redistribution: unknown
+- Original SHA-256: a395b79d91503d2e93f03d7e59bc79e223fba8b730f4bada7904a9376f751a75
+- Original bytes: 84339
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GAX68B.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GAX68B.dwg)
+- Delivery: source-bundle; ZIP; 23104 bytes
+- Delivery SHA-256: 4c53ce64671450da2d2d17db9f5c2778e0e98af784ce20ede308f746577e21c9
+
+### 3d\_GAX68B.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GAX68B.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-2776ec0a1ba75c4eddda02bb/native-f07612fd7abdc8ae39ed3542-step)
+- Redistribution: unknown
+- Original SHA-256: f07612fd7abdc8ae39ed3542df1f759ac3832456e492c6ffb2b47a865981ee05
+- Original bytes: 68850
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GAX68B.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GAX68B.stp)
+- Delivery: source-bundle; ZIP; 13707 bytes
+- Delivery SHA-256: 519ffd624f4a6a694e7731fa45991456f5dce41619e41bbf87dc7669178041f0
+
+### 2D\_ROZI\_078.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-2776ec0a1ba75c4eddda02bb/native-a07d997dff9a38971b93637d-dxf)
+- Redistribution: unknown
+- Original SHA-256: a07d997dff9a38971b93637dce7b663fa9e656985d2b6e8932713b5cb2b5e9e6
+- Original bytes: 336672
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 33644 bytes
+- Delivery SHA-256: f690a54ddd25e324b546eac69fa2068c5ef1536d1507ad82f314349bdc6d4189
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

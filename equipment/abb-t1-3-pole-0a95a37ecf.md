@@ -8,7 +8,7 @@ ABB T1, 3 Pole.: breaker or breaker-accessory reference for breaker compartment 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK106103A4760; 9AKK106103A4762
-- Formats: DWG, PDF
+- Formats: DWG, PDF, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “T1, 3 Pole”. Keep those frame, mounting and a
 - Manufacturer drawing: 9AKK106103A4760; 9AKK106103A4762
 - Manufacturer reference: 9AKK106103A4760; 9AKK106103A4762
 - Document revision: -
-- Listed file formats: DWG, PDF
-- Listed files: 2
+- Standards: IEC 60947-2
+- Listed file formats: DWG, PDF, DXF
+- Listed files: 3
 - Available previews: 2 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
@@ -96,6 +97,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4760&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 186171 bytes
 - Delivery SHA-256: 99a04b33577f63f34cdb7a1b731f0591f368ee73245789e9022622dae651b63c
+
+### T1\_3Pole.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (T1\_3Pole.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4760&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-t1-3-pole-0a95a37ecf/99a04b33577f63f34cdb-dxf)
+- Redistribution: unknown
+- Original SHA-256: 99a04b33577f63f34cdb7a1b731f0591f368ee73245789e9022622dae651b63c
+- Original bytes: 186171
+- Revision: -
+- Retrieved: 2026-11-04T00:57:40Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4760&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4760&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 489662 bytes
+- Delivery SHA-256: df64eede2939b0d539a43f40e2c48bbee828d494c95a58635df63ee08b5dbd96
 
 ### 9AKK106103A4762.pdf
 

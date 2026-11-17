@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN PS 200mm LOW: breaker or breaker-accessory reference for brea
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0348
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT2 4p PLUG-IN PS 200mm LOW”. Keep those fram
 - Model envelope: 1SDH001295R0348\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_200mm\_INF.stp: 88.4 × 80.5 × 203.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0391
 - Model envelope: 1SDH001295R0391\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_200mm\_INF.stp: 88.4 × 80.5 × 203.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 94240 bytes
 - Delivery SHA-256: ca62b84e4fdbf48d3c5439a9bbf5305a607b2abe640584c77f47301e39781c32
 
+### 1SDH001295R0348\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_200mm\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0348\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_200mm\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0348&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-ps-200mm-low-698f54f697/ca62b84e4fdbf48d3c54-dxf)
+- Redistribution: unknown
+- Original SHA-256: ca62b84e4fdbf48d3c5439a9bbf5305a607b2abe640584c77f47301e39781c32
+- Original bytes: 94240
+- Revision: A
+- Retrieved: 2026-11-03T01:46:22.500438Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0348&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0348&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 48734 bytes
+- Delivery SHA-256: bfe129359aae7b61503f3cbb41942b05e1c273f54d7c956a663165a320eb484c
+
 ### 1SDH001295R0391\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_200mm\_INF.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0391&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 94250 bytes
 - Delivery SHA-256: 772777e8bc4d027cb17acd448a036118397d7f5b027bc0c72996e8c372b878a7
+
+### 1SDH001295R0391\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_200mm\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0391\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_200mm\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0391&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-ps-200mm-low-698f54f697/772777e8bc4d027cb17a-dxf)
+- Redistribution: unknown
+- Original SHA-256: 772777e8bc4d027cb17acd448a036118397d7f5b027bc0c72996e8c372b878a7
+- Original bytes: 94250
+- Revision: A
+- Retrieved: 2026-11-03T01:46:24.981143Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0391&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0391&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 48734 bytes
+- Delivery SHA-256: d31c35dcdfa7eddd42f7dff402e05b22b0e0ed14143e0b218ed3a33591a6f0ca
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

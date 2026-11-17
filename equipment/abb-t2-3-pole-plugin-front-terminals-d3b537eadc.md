@@ -8,7 +8,7 @@ ABB T2, 3 Pole plugin front terminals.: breaker connection or accessory referenc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK106103A4773
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This reference covers the connection or accessory named in “T2, 3 Pole plugin 
 - Manufacturer drawing: 9AKK106103A4773
 - Manufacturer reference: 9AKK106103A4773
 - Document revision: -
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4773&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 144559 bytes
 - Delivery SHA-256: cb0ec6839bdad777d42c600ac4bbd1af361454054f6b670c7e7d42b7af0f9b79
+
+### T2\_3Pole\_plugin\_front\_terminals.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (T2\_3Pole\_plugin\_front\_terminals.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4773&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-t2-3-pole-plugin-front-terminals-d3b537eadc/cb0ec6839bdad777d42c-dxf)
+- Redistribution: unknown
+- Original SHA-256: cb0ec6839bdad777d42c600ac4bbd1af361454054f6b670c7e7d42b7af0f9b79
+- Original bytes: 144559
+- Revision: -
+- Retrieved: 2026-11-04T00:57:31Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4773&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4773&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 402196 bytes
+- Delivery SHA-256: 84862515acd6a07c672e36ec062f2d3a3c4f87991218ec3bfc5d21efdc6c7b56
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

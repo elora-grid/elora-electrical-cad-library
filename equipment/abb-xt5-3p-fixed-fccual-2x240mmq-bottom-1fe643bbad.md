@@ -8,7 +8,7 @@ ABB XT5 3p Fixed FCCuAl 2x240mmq bottom: breaker or breaker-accessory reference 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1132
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 3p Fixed FCCuAl 2x240mmq bottom”. Keep th
 - Manufacturer reference: 1SDH002065A1132
 - Document revision: C
 - Model envelope: 1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.stp: 125.2 × 102.3 × 139 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1132&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; STEP; 6370147 bytes
 - Delivery SHA-256: 37fc2478d01cc38d6d76b7dcafd2b48d0bcc8f93bec732be472d7adb1c3f0999
+
+### 1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1132\_XT5\_3p\_Fixed\_FCCuAl\_2x240mmq\_bottom\_Rev\_C.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1132&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-fixed-fccual-2x240mmq-bottom-1fe643bbad/37fc2478d01cc38d6d76-dxf)
+- Redistribution: unknown
+- Original SHA-256: 37fc2478d01cc38d6d76b7dcafd2b48d0bcc8f93bec732be472d7adb1c3f0999
+- Original bytes: 6370147
+- Revision: C
+- Retrieved: 2026-11-03T02:10:52.136839Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1132&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1132&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 455730 bytes
+- Delivery SHA-256: c97ce7e6d662384eb7d8a37fa72585f6f0eb3d050bfb3d262b8204dd1f2ab744
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

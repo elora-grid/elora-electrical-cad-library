@@ -1,0 +1,128 @@
+# Schneider Electric — Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe
+
+Schneider Electric Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe: original DXF / STEP for enclosure temperature-control equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/CCT15843_3D-CAD/)
+
+- Category: Thermal management
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe.
+
+## Equipment and file summary
+
+- Equipment / resource: Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Manufacturer drawing identity: Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe
+- Source document: CCT15843\_3D-CAD; revision 1.0
+- Source-model envelope: 35.6 × 88 × 67.2 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe ([source](https://www.se.com/us/en/download/document/CCT15843_3D-CAD/))
+- Source document: CCT15843\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=CCT15843_2D-front.dxf&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD))
+- Source document: CCT15843\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=CCT15843_3D-simplified.stp&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD))
+- Source-model envelope: 35.6 × 88 × 67.2 mm ([source](https://download.se.com/files?p_File_Name=CCT15843_3D-simplified.stp&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.se.com/us/en/download/document/CCT15843_3D-CAD/))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use CCT15843\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout.
+
+Use CCT15843\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. Use CCT15843\_3D-simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified CCT15843\_3D-simplified.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 35.6 × 88 × 67.2 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: CCT15843\_2D-front.dxf — 1.0; CCT15843\_3D-simplified.stp — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe?
+
+2 inspected originals for Schneider Electric Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe: CCT15843\_2D-front.dxf (DXF); CCT15843\_3D-simplified.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/CCT15843\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/CCT15843_3D-CAD/)
+
+## Choosing a file
+
+Use CCT15843\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. Use CCT15843\_3D-simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified CCT15843\_3D-simplified.stp.
+
+## Preview
+
+![Schneider Electric Thermostat, Acti9 TH4, 1 zone, temperature monitoring from 8 °C to 26 °C, supplied without probe: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3/se-5980a98110968ecfeff8?asset=9ddd13b6d8fa626445ae7f159f5d256785cb07df65b707a7bcc595d0ad430ff9&view=thumb&v=80e663ba8e1993dd)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Enclosure filter fan](https://eloragrid.ai/objects/ga-enclosure-filter-fan)
+- [Enclosure air conditioner](https://eloragrid.ai/objects/ga-enclosure-air-conditioner)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### CCT15843\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://download.se.com/files?p_File_Name=CCT15843_2D-front.dxf&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3/se-c9628c9540f38e62c8e8)
+- Redistribution: unknown
+- Original SHA-256: 869cf5406984342fadeea36a262cf0e013b438ea80c3328763ae3abb2fb52d9c
+- Original bytes: 78877
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:43:36.061022+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/CCT15843_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=CCT15843_2D-front.dxf&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD)
+- Delivery: original; DXF; 78877 bytes
+- Delivery SHA-256: 869cf5406984342fadeea36a262cf0e013b438ea80c3328763ae3abb2fb52d9c
+
+### CCT15843\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://download.se.com/files?p_File_Name=CCT15843_3D-simplified.stp&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-thermostat-acti9-th4-1-zone-temperature-monitoring-from-8-c-to-26-c-supplied-without-p-28daf3b0e3/se-5980a98110968ecfeff8)
+- Redistribution: unknown
+- Original SHA-256: 9ddd13b6d8fa626445ae7f159f5d256785cb07df65b707a7bcc595d0ad430ff9
+- Original bytes: 2165722
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:25:06.171193+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/CCT15843_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=CCT15843_3D-simplified.stp&p_Doc_Ref=CCT15843_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 440545 bytes
+- Delivery SHA-256: fe1c00243a03cfbade26a672a7fbbce6449df016fd3fbbc91cb288c7bb470f32
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

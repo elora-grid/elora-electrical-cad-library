@@ -26,6 +26,7 @@ Drawing 3GZF500020-609 covers the full manufacturer configuration listed in the 
 - Manufacturer reference: 3GZF500020-609
 - Document revision: C
 - Manufacturer configuration: M3BP200 2-12 (G-gen) MLA 2,MLA 4,MLA 6,MLA 8,MLB 2,MLB 4,MLB 6,MLB 8,MLC 4;(K-gen) MLA 2,MLA 4,MLA 6,MLA 8,MLB 2,MLB 4,MLB 6,MLC 2;(L-gen) MLA 2,MLA 4,MLA 6,MLB 2,MLB 4,MLB 6,MLC 2,MLC 4;(M-gen) MLA 2,MLB 2,MLA 4,MLA 6,MLB 6;IMB35/IM2001;IMV15/IM2011;IMV35/IM2031;RIGHT 160;180 Terminal ...
+- Standards: IEC 60034-1, IEC 60034-5, IEC 60072
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 drawing previews

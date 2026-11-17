@@ -23,6 +23,7 @@ The supplied configuration is “SEL-651R Advanced Recloser Control”. Keep tho
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-651R Advanced Recloser Control
+- Standards: IEEE 1547
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

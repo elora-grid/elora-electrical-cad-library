@@ -29,6 +29,7 @@ Manufacturer reference dq72-3d-pdf.pdf; dq72-3d-step-file.stp; dq96-vdq96-3d-pdf
 - Model envelope: dq72-3d-step-file.stp: 88.8 × 71.1 × 76.4 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Model envelope: dq96-vdq96-3d-step-file.stp: 96 × 68.5 × 96 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: dq96-vdq96-3d-pdf.pdf; dq96-vdq96-3d-step-file.stp
+- Standards: IEC 60051, IEC 61000-6-3, IEC 61000-6-4, IEC 61000-6-1, IEC 61000-6-2, IEC 61010-1, IEC 60529
 - Listed file formats: PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

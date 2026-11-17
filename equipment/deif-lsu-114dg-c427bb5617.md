@@ -25,6 +25,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Manufacturer drawing: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; fas-has-lsu-2d-pdf.pdf; fas-has-lsu-3d-step-file.zip
 - Manufacturer reference: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; fas-has-lsu-2d-pdf.pdf; fas-has-lsu-3d-step-file.zip; fas-has-lsu-3d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

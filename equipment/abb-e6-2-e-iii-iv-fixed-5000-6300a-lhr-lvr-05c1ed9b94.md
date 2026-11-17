@@ -25,6 +25,7 @@ The supplied configuration is “E6.2 /E III-IV Fixed 5000/6300A LHR/LVR”. Kee
 - Manufacturer drawing: 1SDH001060R0406
 - Manufacturer reference: 1SDH001060R0406
 - Document revision: B
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: DXF, PDF
 - Listed files: 2
 - Available previews: 2 drawing previews

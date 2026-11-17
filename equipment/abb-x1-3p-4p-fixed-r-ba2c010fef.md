@@ -25,6 +25,7 @@ The supplied configuration is “X1 3p 4p Fixed R”. Keep those frame, mounting
 - Manufacturer drawing: 1SDH000530R0110
 - Manufacturer reference: 1SDH000530R0110
 - Document revision: E
+- Standards: IEC 60947-2, IEC 61000
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

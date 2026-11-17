@@ -8,7 +8,7 @@ ABB 05LYE532\_14.65: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 05LYE532\_14.65; 05LYE532
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “05LYE532\_14.65”. Keep those frame, mounting 
 - Model envelope: 05LYE532\_14.65.step: 372.2 × 190.1 × 263.6 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Motor drawing designation (05LYE532): STD HORZ 143-5TC TENV VECTOR W/STD "BA" (THRU-SHAFT ENCODER)
 - Manufacturer reference: 05LYE532
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -115,6 +115,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYE532_14.65&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 963641 bytes
 - Delivery SHA-256: 1508aa2f07a1e4c79d0411e3b7053b3ff121ad332e6f9072d495e89843e30029
+
+### 05LYE532\_14.65.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (05LYE532\_14.65.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=05LYE532_14.65&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-05lye532-14-65-dwg-2d-autocad-dwg-2000-4e54fc6eff/1508aa2f07a1e4c79d04-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1508aa2f07a1e4c79d0411e3b7053b3ff121ad332e6f9072d495e89843e30029
+- Original bytes: 963641
+- Revision: C
+- Retrieved: 2026-11-04T00:22:54Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYE532_14.65&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYE532_14.65&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 2339409 bytes
+- Delivery SHA-256: ec1b064f885ae7d7f727cce5a46da0a8c804898e6cbfd7fb46dcfb4bbca11a9e
 
 ### 05LYE532.pdf
 

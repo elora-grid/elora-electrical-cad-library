@@ -9,7 +9,7 @@ E2.2 III F IP30 PROTECTION FOR SWITCHGEA: ABB manufacturer STEP resource, docume
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0167
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,9 @@ Original STEP 3D geometry for E2.2 III F IP30 PROTECTION FOR SWITCHGEA; ABB docu
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0167
 - Model extents (X × Y × Z, mm): 334.0 × 20.0 × 382.0
-- Listed file formats: STEP
-- Listed files: 1
+- Standards: IEC 60947, IEC 61000
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +102,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0167&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 126727 bytes
 - Delivery SHA-256: 657a9ffc26a27331e1f92afcc9a82071570d195cf44f7c97bc2c54cf608c892b
+
+### 1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGEA.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGEA.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0167&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-iii-f-ip30-protection-for-switchgea-450b7d79/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 657a9ffc26a27331e1f92afcc9a82071570d195cf44f7c97bc2c54cf608c892b
+- Original bytes: 126727
+- Revision: A
+- Retrieved: 2026-11-03T01:35:14.583237+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0167&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0167&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 42771 bytes
+- Delivery SHA-256: 8933d08b0c6736e255bf7996c253098a87acb138e4ba11a5edfd40a6a24ff467
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

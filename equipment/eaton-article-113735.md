@@ -1,0 +1,123 @@
+# Eaton — N2-250-SVE — Switch-disconnector 3p 250A +pull out
+
+Eaton N2-250-SVE — Switch-disconnector 3p 250A +pull out. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-113735) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-113735.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-113735.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/91ff069a-a2ca-4006-9941-b868b73ecce4/cad_files_001.zip)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 113735
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: N2-250-SVE — Switch-disconnector 3p 250A +pull out
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 113735
+- Manufacturer reference: 113735
+- Manufacturer type: N2-250-SVE
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 113735 ([source](https://ecat.eaton.com/downloads/91ff069a-a2ca-4006-9941-b868b73ecce4/cad_files_001.zip))
+- Manufacturer type: N2-250-SVE ([source](https://ecat.eaton.com/downloads/91ff069a-a2ca-4006-9941-b868b73ecce4/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/91ff069a-a2ca-4006-9941-b868b73ecce4/cad_files_001.zip))
+
+## What the equipment does
+
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
+
+Use nzm2\_xsve.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xsve.stp.
+
+Use nzm2\_xsve.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xsve.stp. Use eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 113735 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for N2-250-SVE — Switch-disconnector 3p 250A +pull out?
+
+2 inspected originals for Eaton N2-250-SVE — Switch-disconnector 3p 250A +pull out: nzm2\_xsve.stp (STEP); eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/91ff069a-a2ca-4006-9941-b868b73ecce4/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/91ff069a-a2ca-4006-9941-b868b73ecce4/cad_files_001.zip)
+
+## Choosing a file
+
+Use nzm2\_xsve.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm2\_xsve.stp. Use eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg.
+
+## Preview
+
+![Eaton N2-250-SVE — Switch-disconnector 3p 250A +pull out: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-113735/native-09698e370c7a1786a4ea1adc-dwg?asset=09698e370c7a1786a4ea1adc9a614c9fcc79d025ba709a4f7eeb2816a8055626)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-113735). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### nzm2\_xsve.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xsve.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-113735/native-500a312a455d942bb1af6956-step)
+- Redistribution: unknown
+- Original SHA-256: 500a312a455d942bb1af6956c46ba84acc51317798adff9ba7ca44a0d4262c48
+- Original bytes: 178818
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xsve.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm2_xsve.stp)
+- Delivery: source-bundle; ZIP; 24097 bytes
+- Delivery SHA-256: 0e6a1fdc8474d3dc7cceee9ac8b828664e2a45ddedf46440ee360b3d376bc730
+
+### eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-113735/native-09698e370c7a1786a4ea1adc-dwg)
+- Redistribution: unknown
+- Original SHA-256: 09698e370c7a1786a4ea1adc9a614c9fcc79d025ba709a4f7eeb2816a8055626
+- Original bytes: 779776
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-molded-case-switches-mcad-drawings-nzm2-xsve.dwg)
+- Delivery: source-bundle; ZIP; 638086 bytes
+- Delivery SHA-256: ef1dab7fe0c836fa74c68346610bf95ce5589381a684fa6ddfc548440be4bdcb
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

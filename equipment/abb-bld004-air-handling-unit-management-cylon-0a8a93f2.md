@@ -9,7 +9,7 @@ BLD004\_Air Handling Unit Management (Cylon): ABB manufacturer DWG resource, doc
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK108471A3654
 - Installation applications: switchrooms
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,8 +24,8 @@ Original DWG drawing for BLD004\_Air Handling Unit Management (Cylon); ABB docum
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 9AKK108471A3654
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -96,5 +96,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3654&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1697610 bytes
 - Delivery SHA-256: 4f3e7895169d6687a5fb28274231d38f12ead8c2f7fd9704bf206a4d037f0270
+
+### BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3654&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-bld004-air-handling-unit-management-cylon-0a8a93f2/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4f3e7895169d6687a5fb28274231d38f12ead8c2f7fd9704bf206a4d037f0270
+- Original bytes: 1697610
+- Revision: A
+- Retrieved: 2026-11-03T02:29:09.646153+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3654&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3654&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 4400101 bytes
+- Delivery SHA-256: 014be4ac414bc3ef6c2a8186a558070ff522706a388dbf75208d8ec302abaaec
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

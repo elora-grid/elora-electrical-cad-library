@@ -8,7 +8,7 @@ ABB 39LYE531\_23.19: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 39LYE531\_23.19; 39LYE531
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -27,8 +27,8 @@ The supplied configuration is “39LYE531\_23.19”. Keep those frame, mounting 
 - Manufacturer reference: 39LYE531\_23.19; 39LYE531
 - Document revision: C
 - Manufacturer reference: 39LYE531
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 6
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -109,6 +109,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE531_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 871686 bytes
 - Delivery SHA-256: 6d7a6392c40f8687a6a7211b9ccabd88f417a5c4ea8d80789f9730c560063cd0
+
+### 39LYE531\_23.19.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (39LYE531\_23.19.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=39LYE531_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-39lye531-23-19-dwg-2d-autocad-dwg-2000-20f36e4a74/6d7a6392c40f8687a6a7-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6d7a6392c40f8687a6a7211b9ccabd88f417a5c4ea8d80789f9730c560063cd0
+- Original bytes: 871686
+- Revision: C
+- Retrieved: 2026-11-04T01:00:20Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE531_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE531_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 1966966 bytes
+- Delivery SHA-256: 810ffad1ae0d6ecf0839d2b5c4bdedbb28fb04e82860a846c73b05530443d225
 
 ### 39LYE531.pdf
 

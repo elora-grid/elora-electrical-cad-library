@@ -8,7 +8,7 @@ ABB 39LYE734\_21.69: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 39LYE734\_21.69; 39LYE734
-- Formats: DWG, IGS, PDF
+- Formats: DWG, IGS, PDF, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -27,8 +27,8 @@ The supplied configuration is “39LYE734\_21.69”. Keep those frame, mounting 
 - Manufacturer reference: 39LYE734\_21.69; 39LYE734
 - Document revision: C
 - Manufacturer reference: 39LYE734
-- Listed file formats: DWG, IGS, PDF
-- Listed files: 3
+- Listed file formats: DWG, IGS, PDF, DXF
+- Listed files: 4
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -105,6 +105,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE734_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1485322 bytes
 - Delivery SHA-256: f6a8fc2192590221c5febeeccad27801d6e408a457929e2a02f496d90c3b91b0
+
+### 39LYE734\_21.69.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (39LYE734\_21.69.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=39LYE734_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-39lye734-21-69-dwg-2d-autocad-dwg-2000-4b236f576f/f6a8fc2192590221c5fe-dxf)
+- Redistribution: unknown
+- Original SHA-256: f6a8fc2192590221c5febeeccad27801d6e408a457929e2a02f496d90c3b91b0
+- Original bytes: 1485322
+- Revision: C
+- Retrieved: 2026-11-04T01:01:54Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE734_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE734_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 3999290 bytes
+- Delivery SHA-256: 005be6d82ffbb21ea4abc316e9f7c2a367b4b260beb7816b994318f68e0c68e1
 
 ### 39LYE734.pdf
 

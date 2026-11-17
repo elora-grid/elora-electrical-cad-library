@@ -8,7 +8,7 @@ ABB XT2 4p FIXED PS 100mm UP: breaker or breaker-accessory reference for breaker
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0304
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p FIXED PS 100mm UP”. Keep those frame, 
 - Manufacturer reference: 1SDH001295R0304
 - Document revision: A
 - Model envelope: 1SDH001295R0304\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_100mm\_SUP.stp: 68 × 80.5 × 104 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0304&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 74493 bytes
 - Delivery SHA-256: 11d37af0c03073cb380dff76a5c12cecaa4df397ac26ed060f5cadf886e414f7
+
+### 1SDH001295R0304\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_100mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0304\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_100mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0304&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-ps-100mm-up-5c40e704d2/11d37af0c03073cb380d-dxf)
+- Redistribution: unknown
+- Original SHA-256: 11d37af0c03073cb380dff76a5c12cecaa4df397ac26ed060f5cadf886e414f7
+- Original bytes: 74493
+- Revision: A
+- Retrieved: 2026-11-03T01:45:41.547935Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0304&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0304&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 47109 bytes
+- Delivery SHA-256: 5eb62fd82787a6eef5590f0fa1836e1ccddcc584d578412bac970261092af65b
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

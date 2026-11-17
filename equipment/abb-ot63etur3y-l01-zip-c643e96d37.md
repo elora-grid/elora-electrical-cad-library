@@ -26,6 +26,7 @@ The supplied configuration is “OT63ETUR3Y-L01.zip”. Keep those frame, mounti
 - Manufacturer drawing: OT63ETUR3Y-L01.ZIP
 - Manufacturer reference: OT63ETUR3Y-L01.ZIP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -23,6 +23,7 @@ Manufacturer reference SEL-421 Protection, Automation, and Control System identi
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-421 Protection, Automation, and Control System
+- Standards: IEC 60255-149
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

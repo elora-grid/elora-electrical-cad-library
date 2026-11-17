@@ -8,7 +8,7 @@ ABB XT7M 3p Fixed Circuit Breaker: breaker or breaker-accessory reference for br
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1337
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT7M 3p Fixed Circuit Breaker”. Keep those fr
 - Manufacturer drawing: 1SDH002065A1337
 - Manufacturer reference: 1SDH002065A1337
 - Document revision: B
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -90,5 +90,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1337&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 36562111 bytes
 - Delivery SHA-256: d8bad0a3dd1b2b86dc8abc3d2b73d2ac77e8d062e9a93ca15e6a932ec3a904dd
+
+### 1SDH002065A1337.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1337.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1337&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7m-3p-fixed-circuit-breaker-144ea8d706/d8bad0a3dd1b2b86dc8a-dxf)
+- Redistribution: unknown
+- Original SHA-256: d8bad0a3dd1b2b86dc8abc3d2b73d2ac77e8d062e9a93ca15e6a932ec3a904dd
+- Original bytes: 36562111
+- Revision: B
+- Retrieved: 2026-11-04T04:03:36Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1337&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1337&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 1901926 bytes
+- Delivery SHA-256: e9a216b5fc52f9e6a5ce7594a818fe5750240a17f9bc822bfef5d8a55cb209bb
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

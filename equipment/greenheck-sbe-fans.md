@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: SBE
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: SBE
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with SBE. The files above belong to Greenheck's SBE fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -113,6 +113,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 555190 bytes
 - Delivery SHA-256: 02b8ce8f3dd036c6f33191667e8a6e5efd449356a15039cac18fcc50e981a285
 
+### SBE-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SBE-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SBE-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sbe-fans/greenheck-sbe-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 02b8ce8f3dd036c6f33191667e8a6e5efd449356a15039cac18fcc50e981a285
+- Original bytes: 555190
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 1616083 bytes
+- Delivery SHA-256: 3368ff8b0c8c3b288c0e6c5ba6b1d3ace19984d439daa03ad5d419d64aabce11
+
 ### SBE-1-20.dwg
 
 - Format: DWG
@@ -132,5 +152,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 425343 bytes
 - Delivery SHA-256: de4e1a2346fdbf73c57da524f5c06d5174e0c5c9201e7041019e9acc690fa726
+
+### SBE-1-20.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (SBE-1-20.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/SBE-1-20.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sbe-fans/greenheck-sbe-1-20-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: de4e1a2346fdbf73c57da524f5c06d5174e0c5c9201e7041019e9acc690fa726
+- Original bytes: 425343
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 332568 bytes
+- Delivery SHA-256: e9be40d2e9bb0b25bb1e3fcda8944385191cda45b2f664505f830f121c3503ed
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

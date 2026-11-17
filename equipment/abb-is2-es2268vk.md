@@ -1,0 +1,129 @@
+# ABB — IS2 component ES2268VK
+
+ABB IS2 component ES2268VK. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-es2268vk) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-is2-es2268vk.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-is2-es2268vk.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: ES2268VK
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: IS2 component ES2268VK
+- Manufacturer: ABB
+- Resource type: Product
+- Part number: ES2268VK
+- Manufacturer reference: ES2268VK
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: ES2268VK ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+- Available native formats: DWG / STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+ES2268VK.zip is the original ABB archive. Open ES2268VK.stp inside it to place the original solid geometry in your 3D assembly.
+
+ES2268VK.zip is the original ABB archive. Open ES2268VK.stp inside it to place the original solid geometry in your 3D assembly. Use ES2268VK.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ES2268VK.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB ES2268VK and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for IS2 component ES2268VK?
+
+2 inspected originals for ABB IS2 component ES2268VK: ES2268VK.zip (ZIP); ES2268VK.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+## Choosing a file
+
+ES2268VK.zip is the original ABB archive. Open ES2268VK.stp inside it to place the original solid geometry in your 3D assembly. Use ES2268VK.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ES2268VK.dwg.
+
+## Preview
+
+![ABB IS2 component ES2268VK: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-is2-es2268vk/native-ea3751eaf570aadcf7943fa8-dwg?asset=ea3751eaf570aadcf7943fa806f80b71ab8b69c08499b86879e2011c24c56906)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-es2268vk). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### ES2268VK.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-es2268vk/native-245764fc29b2e4f76d5f9b0b-zip)
+- Redistribution: unknown
+- Original SHA-256: 245764fc29b2e4f76d5f9b0bf7ca1ce9e9ef780d2fd95e870ea9948e1a036539
+- Original bytes: 2530813
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Delivery: original; ZIP; 2530813 bytes
+- Delivery SHA-256: 245764fc29b2e4f76d5f9b0bf7ca1ce9e9ef780d2fd95e870ea9948e1a036539
+
+<details>
+<summary>Archive members</summary>
+
+- ES2268VK.stp
+
+</details>
+
+### ES2268VK.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-es2268vk/native-ea3751eaf570aadcf7943fa8-dwg)
+- Redistribution: unknown
+- Original SHA-256: ea3751eaf570aadcf7943fa806f80b71ab8b69c08499b86879e2011c24c56906
+- Original bytes: 2969360
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Delivery: source-bundle; ZIP; 872866 bytes
+- Delivery SHA-256: ec47ed47a8b9c1e1d003671ff8c15f112d29dbca7d72f5609e5f6c4d1c042c95
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

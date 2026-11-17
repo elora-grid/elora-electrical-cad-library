@@ -1,0 +1,117 @@
+# Eaton — SPCT2-385/3 — Plug-in surge arresters, 3p, 385VAC, 3x20kA
+
+Eaton SPCT2-385/3 — Plug-in surge arresters, 3p, 385VAC, 3x20kA. Retained manufacturer CAD files and drawings for transformers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-167605) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-167605.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-167605.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip)
+
+- Category: Transformers & earthing
+- Entry type: product
+- Part number: 167605
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: SPCT2-385/3 — Plug-in surge arresters, 3p, 385VAC, 3x20kA
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 167605
+- Manufacturer reference: 167605
+- Manufacturer type: SPCT2-385/3
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 167605 ([source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip))
+- Manufacturer type: SPCT2-385/3 ([source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip))
+
+## What the equipment does
+
+A surge protective device limits brief voltage spikes by providing a path for surge current under its designed conditions.
+
+Use eaton-combined-arrestor-mcad-3d-models-sp-3p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-combined-arrestor-mcad-3d-models-sp-3p.stp.
+
+Use eaton-combined-arrestor-mcad-3d-models-sp-3p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-combined-arrestor-mcad-3d-models-sp-3p.stp. Use eaton-combined-arrestor-mcad-drawings-sp-3p.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-combined-arrestor-mcad-drawings-sp-3p.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 167605 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for SPCT2-385/3 — Plug-in surge arresters, 3p, 385VAC, 3x20kA?
+
+2 inspected originals for Eaton SPCT2-385/3 — Plug-in surge arresters, 3p, 385VAC, 3x20kA: eaton-combined-arrestor-mcad-3d-models-sp-3p.stp (STEP); eaton-combined-arrestor-mcad-drawings-sp-3p.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip)
+
+## Choosing a file
+
+Use eaton-combined-arrestor-mcad-3d-models-sp-3p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-combined-arrestor-mcad-3d-models-sp-3p.stp. Use eaton-combined-arrestor-mcad-drawings-sp-3p.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-combined-arrestor-mcad-drawings-sp-3p.dwg.
+
+## Equipment references and drawing guides
+
+- [Transformer envelope](https://eloragrid.ai/objects/transformer-envelope)
+- [Control transformer](https://eloragrid.ai/objects/ga-control-transformer)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### eaton-combined-arrestor-mcad-3d-models-sp-3p.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-combined-arrestor-mcad-3d-models-sp-3p.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-167605/native-e46cf95c9c2f8d67d1e6ecf4-step)
+- Redistribution: unknown
+- Original SHA-256: e46cf95c9c2f8d67d1e6ecf4eb6ab7df0d970d827f273a2e4baa1cde4be2fee3
+- Original bytes: 501374
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-combined-arrestor-mcad-3d-models-sp-3p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-combined-arrestor-mcad-3d-models-sp-3p.stp)
+- Delivery: source-bundle; ZIP; 85478 bytes
+- Delivery SHA-256: 1ad06e2515fd667a51b91b0a5784fb422bf906c4386fa43a4ddd3e9067c66038
+
+### eaton-combined-arrestor-mcad-drawings-sp-3p.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-combined-arrestor-mcad-drawings-sp-3p.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-167605/native-5e48e14740a1c22ae9a5f21c-dwg)
+- Redistribution: unknown
+- Original SHA-256: 5e48e14740a1c22ae9a5f21c6c1c0c3ed366ea10c9a3e0ee1f8801eb24c29835
+- Original bytes: 512832
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-combined-arrestor-mcad-drawings-sp-3p.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-combined-arrestor-mcad-drawings-sp-3p.dwg)
+- Delivery: source-bundle; ZIP; 447418 bytes
+- Delivery SHA-256: 66e35bddc49414c2b24ba2e93ba2b4608c383cfce6baa2657535884d1e54a57e
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

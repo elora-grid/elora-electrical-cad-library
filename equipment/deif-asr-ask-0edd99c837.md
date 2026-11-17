@@ -25,6 +25,7 @@ Manufacturer reference asr-3d-pdfs.zip; asr-3d-step-files.zip identifies this co
 - Manufacturer drawing: asr-3d-pdfs.zip; asr-3d-step-files.zip
 - Manufacturer reference: asr-3d-pdfs.zip; asr-3d-step-files.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61869
 - Listed file formats: ZIP
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

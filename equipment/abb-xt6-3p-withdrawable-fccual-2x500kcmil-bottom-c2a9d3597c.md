@@ -8,7 +8,7 @@ ABB XT6 3p Withdrawable FCCuAl 2x500kcmil bottom: breaker or breaker-accessory r
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1571
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p Withdrawable FCCuAl 2x500kcmil bottom”
 - Manufacturer reference: 1SDH002065A1571
 - Document revision: A
 - Model envelope: 1SDH002065A1571XT6\_3p\_Withdrawable\_FCCuAl\_2x500kcmil\_bottom.stp: 103.6 × 209 × 100.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1571&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 4847619 bytes
 - Delivery SHA-256: 2a9761f59872396ed7a33a5dc382bab2661daf2f4b96228e7c84a585f53f3e96
+
+### 1SDH002065A1571XT6\_3p\_Withdrawable\_FCCuAl\_2x500kcmil\_bottom.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1571XT6\_3p\_Withdrawable\_FCCuAl\_2x500kcmil\_bottom.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1571&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-withdrawable-fccual-2x500kcmil-bottom-c2a9d3597c/2a9761f59872396ed7a3-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2a9761f59872396ed7a33a5dc382bab2661daf2f4b96228e7c84a585f53f3e96
+- Original bytes: 4847619
+- Revision: A
+- Retrieved: 2026-11-03T02:08:20.071134Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1571&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1571&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 806310 bytes
+- Delivery SHA-256: cb0242a93dea15f425f4bb30af12da303935bb51c289aa87d9efdeebb1891dfd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

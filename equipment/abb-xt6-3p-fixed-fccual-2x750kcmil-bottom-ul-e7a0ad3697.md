@@ -8,7 +8,7 @@ ABB XT6 3p Fixed FCCuAl 2x750kcmil bottom UL: breaker or breaker-accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1982
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p Fixed FCCuAl 2x750kcmil bottom UL”. Ke
 - Manufacturer reference: 1SDH002065A1982
 - Document revision: A
 - Model envelope: 1SDH002065A1982.stp: 103.6 × 209 × 100.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1982&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 5025168 bytes
 - Delivery SHA-256: d7ad675d91e5e06384e7a7563b7051816a6aa17d9f21ec5ba170da89141381b3
+
+### 1SDH002065A1982.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1982.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1982&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-fixed-fccual-2x750kcmil-bottom-ul-e7a0ad3697/d7ad675d91e5e06384e7-dxf)
+- Redistribution: unknown
+- Original SHA-256: d7ad675d91e5e06384e7a7563b7051816a6aa17d9f21ec5ba170da89141381b3
+- Original bytes: 5025168
+- Revision: A
+- Retrieved: 2026-11-03T02:08:47.616786Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1982&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1982&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 874613 bytes
+- Delivery SHA-256: 360323cd1a86eefc2ce77a0dc39a7a399b1e7a60d5715306e83d5f4a9c89d9e4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

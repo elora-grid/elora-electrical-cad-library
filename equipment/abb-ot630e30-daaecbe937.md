@@ -25,9 +25,10 @@ The supplied configuration is “OT630E30”. Keep those frame, mounting and acc
 - Manufacturer drawing: 1SCC301313F0001
 - Manufacturer reference: 1SCC301313F0001
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: -
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +65,7 @@ Use 14OT630E30\_1SCC301313F0001.dxf revision - for editable DXF drawing geometry
 
 ## Preview
 
-![ABB OT630E30: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot630e30-daaecbe937/986e27f0fde1fca60152?asset=986e27f0fde1fca601527414f0bb97d1d1d4ce9642cb42e3e08ef739ae11e791)
+![ABB OT630E30: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot630e30-daaecbe937/986e27f0fde1fca60152?asset=986e27f0fde1fca601527414f0bb97d1d1d4ce9642cb42e3e08ef739ae11e791&view=thumb&v=386e2706cdbdabcf)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot630e30-daaecbe937). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

@@ -1,0 +1,130 @@
+# Schneider Electric — PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door
+
+Schneider Electric PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door: original DXF / STEP for switchboard enclosure or mounting hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/NSYS3D3215_3D-CAD/)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door.
+
+## Equipment and file summary
+
+- Equipment / resource: PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Manufacturer drawing identity: PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door
+- Source document: NSYS3D3215\_3D-CAD; revision 1.0
+- Source-model envelope: 200 × 300.5 × 159 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Standards: IEC 62208
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door ([source](https://www.se.com/us/en/download/document/NSYS3D3215_3D-CAD/))
+- Source document: NSYS3D3215\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=NSYS3D3215_2D-front.dxf&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD))
+- Source document: NSYS3D3215\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=NSYS3D3215_3D-Simplified.stp&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD))
+- Source-model envelope: 200 × 300.5 × 159 mm ([source](https://download.se.com/files?p_File_Name=NSYS3D3215_3D-Simplified.stp&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.se.com/us/en/download/document/NSYS3D3215_3D-CAD/))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use NSYS3D3215\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NSYS3D3215\_2D-front.dxf.
+
+Use NSYS3D3215\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NSYS3D3215\_2D-front.dxf. Use NSYS3D3215\_3D-Simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NSYS3D3215\_3D-Simplified.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 200 × 300.5 × 159 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: NSYS3D3215\_2D-front.dxf — 1.0; NSYS3D3215\_3D-Simplified.stp — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door?
+
+2 inspected originals for Schneider Electric PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door: NSYS3D3215\_2D-front.dxf (DXF); NSYS3D3215\_3D-Simplified.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/NSYS3D3215\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/NSYS3D3215_3D-CAD/)
+
+## Choosing a file
+
+Use NSYS3D3215\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NSYS3D3215\_2D-front.dxf. Use NSYS3D3215\_3D-Simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NSYS3D3215\_3D-Simplified.stp.
+
+## Preview
+
+![Schneider Electric PanelSeT S3D - NSYS3D3215 - S3D H300xW200xD150 one plain door: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df/se-e27b508059288bc1e52d?asset=5a753dbfca3e409e8e0bc7e43f98bf1f702b146384cb7ff619533a81887dd510&view=thumb&v=1c4f32601041e4ba)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NSYS3D3215\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://download.se.com/files?p_File_Name=NSYS3D3215_2D-front.dxf&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df/se-0871bc8e61f22a781466)
+- Redistribution: unknown
+- Original SHA-256: 6d4bbcfa7250a6f050d2e73302f8d74bdd3ed9a2cf27d1d1aecddd78b6895afd
+- Original bytes: 195230
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:45:35.647598+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/NSYS3D3215_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=NSYS3D3215_2D-front.dxf&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 34154 bytes
+- Delivery SHA-256: 99e7091470fdad9e884e60df48bb09a1c315279e7b0528bb5000508c7e78dfe4
+
+### NSYS3D3215\_3D-Simplified.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://download.se.com/files?p_File_Name=NSYS3D3215_3D-Simplified.stp&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-panelset-s3d-nsys3d3215-s3d-h300xw200xd150-one-plain-door-83234742df/se-e27b508059288bc1e52d)
+- Redistribution: unknown
+- Original SHA-256: 5a753dbfca3e409e8e0bc7e43f98bf1f702b146384cb7ff619533a81887dd510
+- Original bytes: 3640116
+- Revision: 1.0
+- Retrieved: 2026-11-11T08:15:58.944609+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/NSYS3D3215_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=NSYS3D3215_3D-Simplified.stp&p_Doc_Ref=NSYS3D3215_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 770759 bytes
+- Delivery SHA-256: 571a719352e80ffb12f9ed2a931898c056b31afd8b50a949c2cac3b990101c07
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

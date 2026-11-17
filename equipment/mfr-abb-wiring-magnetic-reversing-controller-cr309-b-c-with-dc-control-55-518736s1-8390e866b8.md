@@ -1,0 +1,102 @@
+# ABB — WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1)
+
+ABB WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1): original PDF for control-panel equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-wiring-magnetic-reversing-controller-cr309-b-c-with-dc-control-55-518736s1-8390e866b8) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-wiring-magnetic-reversing-controller-cr309-b-c-with-dc-control-55-518736s1-8390e866b8.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-wiring-magnetic-reversing-controller-cr309-b-c-with-dc-control-55-518736s1-8390e866b8.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1).
+
+## Equipment and file summary
+
+- Equipment / resource: WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1)
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1)
+- Source document: 1SQC913622D0201; revision F
+- Listed file formats: PDF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: F
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1) ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch))
+- Source document: 1SQC913622D0201; revision F ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=F))
+
+## What the equipment does
+
+A programmable controller reads equipment signals, follows its program and sends commands to other devices. Input and output modules connect it to the equipment.
+
+Use 1SQC913622D0201.pdf (revision F) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+Use 1SQC913622D0201.pdf (revision F) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1) and the exact source filename shown above.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC913622D0201.pdf — F. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1)?
+
+1 inspected original for ABB WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1): 1SQC913622D0201.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch)
+
+## Choosing a file
+
+Use 1SQC913622D0201.pdf (revision F) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB WIRING MAGNETIC REVERSING CONTROLLER CR309 B& C WITH DC CONTROL(55-518736S1): drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-wiring-magnetic-reversing-controller-cr309-b-c-with-dc-control-55-518736s1-8390e866b8/abb-2626a8e7c39fcfb3fe93?asset=578a2dc06f869cc8af402ddaff8b232515a8b7d07d502efc1b158de0867f38f9)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-wiring-magnetic-reversing-controller-cr309-b-c-with-dc-control-55-518736s1-8390e866b8). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC913622D0201.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-magnetic-reversing-controller-cr309-b-c-with-dc-control-55-518736s1-8390e866b8/abb-2626a8e7c39fcfb3fe93)
+- Redistribution: unknown
+- Original SHA-256: 53cba1d0f31382d8383cfeae362a5bc875c661c4ffc8cd9e10f17ce8fad78ca3
+- Original bytes: 1238876
+- Revision: F
+- Retrieved: 2026-11-11T06:11:09.253301+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913622D0201&LanguageCode=en&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=F)
+- Delivery: original; PDF; 1238876 bytes
+- Delivery SHA-256: 53cba1d0f31382d8383cfeae362a5bc875c661c4ffc8cd9e10f17ce8fad78ca3
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

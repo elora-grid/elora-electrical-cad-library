@@ -23,6 +23,7 @@ Manufacturer reference SEL-3400 IRIG-B Distribution Module identifies this commu
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-3400 IRIG-B Distribution Module
+- Standards: IEEE C37.90, IEC 60255
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: VAD
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: VAD
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with VAD. The files above belong to Greenheck's VAD fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -115,6 +115,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 538716 bytes
 - Delivery SHA-256: 5bc16a7a1753f89e9ec6be8cdf1d24a625d2db4c79d75575222775d2266aa8d4
 
+### VAD-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (VAD-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/VAD-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-vad-fans/greenheck-vad-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 5bc16a7a1753f89e9ec6be8cdf1d24a625d2db4c79d75575222775d2266aa8d4
+- Original bytes: 538716
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 1752829 bytes
+- Delivery SHA-256: 2476edf810d86576207af5eb6e06d82d97ca937a6edeee95db16b67d0b0a16ff
+
 ### VAD-18.dwg
 
 - Format: DWG
@@ -134,5 +154,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 484339 bytes
 - Delivery SHA-256: d3dc8f171b6b6e1ea3937ddd6b65f8f75823af40f63e8b76b864a21ee312cd5a
+
+### VAD-18.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (VAD-18.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/VAD-18.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-vad-fans/greenheck-vad-18-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: d3dc8f171b6b6e1ea3937ddd6b65f8f75823af40f63e8b76b864a21ee312cd5a
+- Original bytes: 484339
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 428682 bytes
+- Delivery SHA-256: 6a55a1d3225f3f7a9db2461825b674d771f0b8e94536873fcd8953c18d6c385f
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

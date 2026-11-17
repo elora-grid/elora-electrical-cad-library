@@ -8,7 +8,7 @@ ABB E4.2-E IV F 1600-2500A IEC 4PS UP TERM V: breaker or breaker-accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0539
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “E4.2-E IV F 1600-2500A IEC 4PS UP TERM V”. Ke
 - Manufacturer drawing: 1SDH001252R0539
 - Manufacturer reference: 1SDH001252R0539
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0539&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 9371384 bytes
 - Delivery SHA-256: 2fc7d2ff881d8a082ddbb8bb7eb0be9fff99cc2fab9fee6f724ef29faf2b1188
+
+### 1SDH001252R0539.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0539.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0539&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e-iv-f-1600-2500a-iec-4ps-up-term-v-310e88569d/2fc7d2ff881d8a082ddb-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2fc7d2ff881d8a082ddbb8bb7eb0be9fff99cc2fab9fee6f724ef29faf2b1188
+- Original bytes: 9371384
+- Revision: A
+- Retrieved: 2026-11-04T01:10:48Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0539&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0539&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1013743 bytes
+- Delivery SHA-256: 7313c97b8c486b540fdced3d19f1f270be868834b5b925180f9a2c6e5b85b686
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

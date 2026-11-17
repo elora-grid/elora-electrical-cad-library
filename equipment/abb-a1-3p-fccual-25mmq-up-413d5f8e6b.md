@@ -8,7 +8,7 @@ ABB A1 3p FCCuAl 25mmq UP: breaker or breaker-accessory reference for breaker co
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001294R0032
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “A1 3p FCCuAl 25mmq UP”. Keep those frame, mou
 - Manufacturer reference: 1SDH001294R0032
 - Document revision: A
 - Model envelope: 1SDH001294R0032\_1PA\_001\_00\_A1\_3p\_FCCuAl\_25mmq\_sup.stp: 65.4 × 28 × 14.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0032&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 87942 bytes
 - Delivery SHA-256: 9ccda5f507ccc02efb98b25f3182cf83a29c20ab18b4c44b66ae81194140c4d5
+
+### 1SDH001294R0032\_1PA\_001\_00\_A1\_3p\_FCCuAl\_25mmq\_sup.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0032\_1PA\_001\_00\_A1\_3p\_FCCuAl\_25mmq\_sup.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0032&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a1-3p-fccual-25mmq-up-413d5f8e6b/9ccda5f507ccc02efb98-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9ccda5f507ccc02efb98b25f3182cf83a29c20ab18b4c44b66ae81194140c4d5
+- Original bytes: 87942
+- Revision: A
+- Retrieved: 2026-11-04T00:57:04Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0032&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0032&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 66965 bytes
+- Delivery SHA-256: 142a86c274ab6d6f59375e15137961ca9026d7b7af83da597c6858c66daca84f
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -24,6 +24,7 @@ Manufacturer reference Series 300 modules identifies this control-equipment refe
 - Resource type: Product
 - Manufacturer drawing: Series 300 modules
 - Manufacturer lifecycle: Active
+- Standards: IEC 60529, IEC 60751
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

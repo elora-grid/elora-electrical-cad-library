@@ -8,7 +8,7 @@ ABB XT1 4p PLUG-IN FCCuAl LOW: breaker or breaker-accessory reference for breake
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0120
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT1 4p PLUG-IN FCCuAl LOW”. Keep those frame,
 - Model envelope: 1SDH001295R0120\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_INF.stp: 90.5 × 28.2 × 15 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0121
 - Model envelope: 1SDH001295R0121\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_SUP.stp: 90.5 × 28.2 × 15 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 187383 bytes
 - Delivery SHA-256: d5258d88cb25591039fafaa5955b91de720855f2eb1c6828f4eb1f771d6f7a3b
 
+### 1SDH001295R0120\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0120\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0120&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-4p-plug-in-fccual-low-21a147ab7b/d5258d88cb25591039fa-dxf)
+- Redistribution: unknown
+- Original SHA-256: d5258d88cb25591039fafaa5955b91de720855f2eb1c6828f4eb1f771d6f7a3b
+- Original bytes: 187383
+- Revision: A
+- Retrieved: 2026-11-03T01:48:29.107404Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0120&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0120&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 73137 bytes
+- Delivery SHA-256: 45ace2449b476b469c1558235b06dee42cb78c0623ff28e7c00f39736cef564d
+
 ### 1SDH001295R0121\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_SUP.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0121&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 226987 bytes
 - Delivery SHA-256: 4bf23b20cdceb6be7f04c505eae61986fe7f92d7422daf5677c1f450a8422bc9
+
+### 1SDH001295R0121\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0121\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_FCCuAl\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0121&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-4p-plug-in-fccual-low-21a147ab7b/4bf23b20cdceb6be7f04-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4bf23b20cdceb6be7f04c505eae61986fe7f92d7422daf5677c1f450a8422bc9
+- Original bytes: 226987
+- Revision: A
+- Retrieved: 2026-11-03T01:49:16.344985Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0121&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0121&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 71269 bytes
+- Delivery SHA-256: d9c320622e600746ec4fe660b546af5f5bfeb45f5d85d292ac69403186179700
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

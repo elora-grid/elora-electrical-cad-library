@@ -8,7 +8,7 @@ ABB CS EXT NEUTRAL CONDUCTOR E6.2 100% UL: breaker connection or accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0428
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This reference covers the connection or accessory named in “CS EXT NEUTRAL CON
 - Manufacturer drawing: 1SDH001252R0428
 - Manufacturer reference: 1SDH001252R0428
 - Document revision: -
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0428&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 9172449 bytes
 - Delivery SHA-256: 06c1cf8c74f6f8f60c6adb41cddcaef66d6a5ae86a0d3cbd9aad65f642e68a50
+
+### 1SDH001252R0428.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0428.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0428&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-cs-ext-neutral-conductor-e6-2-100-ul-465746625e/06c1cf8c74f6f8f60c6a-dxf)
+- Redistribution: unknown
+- Original SHA-256: 06c1cf8c74f6f8f60c6adb41cddcaef66d6a5ae86a0d3cbd9aad65f642e68a50
+- Original bytes: 9172449
+- Revision: -
+- Retrieved: 2026-11-04T01:10:38Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0428&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0428&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 962823 bytes
+- Delivery SHA-256: 8651d3454a60027da74d6ecaad4a3c027c65584e17175bc76dabce2d5772592e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

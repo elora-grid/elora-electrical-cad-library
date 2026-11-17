@@ -1,0 +1,2888 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 19,
+  "entries": [
+    {
+      "id": "mfr-mersen-mbb000100a3p-3016b61912",
+      "name": "MBB000100A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbb000100a3p-3016b61912",
+      "recordPath": "equipment/mfr-mersen-mbb000100a3p-3016b61912.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbb000100a3p-3016b61912.json"
+    },
+    {
+      "id": "mfr-nhp-iso-bb9xx-e38bd29791",
+      "name": "BB9xx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-bb9xx-e38bd29791",
+      "recordPath": "equipment/mfr-nhp-iso-bb9xx-e38bd29791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-bb9xx-e38bd29791.json"
+    },
+    {
+      "id": "mfr-socomec-iso-enclosed-isolator-pce3-1b1b468b98",
+      "name": "ISO Enclosed Isolator PCE3",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-iso-enclosed-isolator-pce3-1b1b468b98",
+      "recordPath": "equipment/mfr-socomec-iso-enclosed-isolator-pce3-1b1b468b98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-iso-enclosed-isolator-pce3-1b1b468b98.json"
+    },
+    {
+      "id": "mfr-mersen-mbb00160a3p-4a4d0fe764",
+      "name": "MBB00160A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbb00160a3p-4a4d0fe764",
+      "recordPath": "equipment/mfr-mersen-mbb00160a3p-4a4d0fe764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbb00160a3p-4a4d0fe764.json"
+    },
+    {
+      "id": "mfr-nhp-iso-c-10-15a-fp-c021a627f3",
+      "name": "C 10 15A FP",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-c-10-15a-fp-c021a627f3",
+      "recordPath": "equipment/mfr-nhp-iso-c-10-15a-fp-c021a627f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-c-10-15a-fp-c021a627f3.json"
+    },
+    {
+      "id": "mfr-socomec-iso-enclosed-isolator-pee3-7947b6ef3d",
+      "name": "ISO Enclosed Isolator PEE3",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-iso-enclosed-isolator-pee3-7947b6ef3d",
+      "recordPath": "equipment/mfr-socomec-iso-enclosed-isolator-pee3-7947b6ef3d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-iso-enclosed-isolator-pee3-7947b6ef3d.json"
+    },
+    {
+      "id": "mfr-mersen-mbb1250a3p-ffd35db0ef",
+      "name": "MBB1250A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbb1250a3p-ffd35db0ef",
+      "recordPath": "equipment/mfr-mersen-mbb1250a3p-ffd35db0ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbb1250a3p-ffd35db0ef.json"
+    },
+    {
+      "id": "mfr-socomec-iso-enclosed-isolator-pee5-e1ffb8297e",
+      "name": "ISO Enclosed Isolator PEE5",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-iso-enclosed-isolator-pee5-e1ffb8297e",
+      "recordPath": "equipment/mfr-socomec-iso-enclosed-isolator-pee5-e1ffb8297e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-iso-enclosed-isolator-pee5-e1ffb8297e.json"
+    },
+    {
+      "id": "mfr-mersen-mbp00100a3p-28814a79ef",
+      "name": "MBP00100A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbp00100a3p-28814a79ef",
+      "recordPath": "equipment/mfr-mersen-mbp00100a3p-28814a79ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbp00100a3p-28814a79ef.json"
+    },
+    {
+      "id": "mfr-socomec-iso-enclosed-isolator-sse1-db22e57e7c",
+      "name": "ISO Enclosed Isolator SSE1",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-iso-enclosed-isolator-sse1-db22e57e7c",
+      "recordPath": "equipment/mfr-socomec-iso-enclosed-isolator-sse1-db22e57e7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-iso-enclosed-isolator-sse1-db22e57e7c.json"
+    },
+    {
+      "id": "mfr-mersen-mbp00160a3p-42f15cf0de",
+      "name": "MBP00160A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbp00160a3p-42f15cf0de",
+      "recordPath": "equipment/mfr-mersen-mbp00160a3p-42f15cf0de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbp00160a3p-42f15cf0de.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ex310xx-3858953882",
+      "name": "EX310xx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ex310xx-3858953882",
+      "recordPath": "equipment/mfr-nhp-iso-ex310xx-3858953882.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ex310xx-3858953882.json"
+    },
+    {
+      "id": "mfr-socomec-iso-enclosed-isolator-sse3-123dd2d722",
+      "name": "ISO Enclosed Isolator SSE3",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-iso-enclosed-isolator-sse3-123dd2d722",
+      "recordPath": "equipment/mfr-socomec-iso-enclosed-isolator-sse3-123dd2d722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-iso-enclosed-isolator-sse3-123dd2d722.json"
+    },
+    {
+      "id": "mfr-mersen-mbp1250a3p-95e2b0a35a",
+      "name": "MBP1250A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbp1250a3p-95e2b0a35a",
+      "recordPath": "equipment/mfr-mersen-mbp1250a3p-95e2b0a35a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbp1250a3p-95e2b0a35a.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ex315xx-afb70e7555",
+      "name": "EX315xx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ex315xx-afb70e7555",
+      "recordPath": "equipment/mfr-nhp-iso-ex315xx-afb70e7555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ex315xx-afb70e7555.json"
+    },
+    {
+      "id": "mfr-socomec-iso-enclosed-isolator-sse5-7c69a8cde9",
+      "name": "ISO Enclosed Isolator SSE5",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-iso-enclosed-isolator-sse5-7c69a8cde9",
+      "recordPath": "equipment/mfr-socomec-iso-enclosed-isolator-sse5-7c69a8cde9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-iso-enclosed-isolator-sse5-7c69a8cde9.json"
+    },
+    {
+      "id": "mfr-mersen-mbp2400a3p-269ec5ad61",
+      "name": "MBP2400A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbp2400a3p-269ec5ad61",
+      "recordPath": "equipment/mfr-mersen-mbp2400a3p-269ec5ad61.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbp2400a3p-269ec5ad61.json"
+    },
+    {
+      "id": "mfr-nhp-iso-k1-2-sw-10-15a-38mm-2cbb85b857",
+      "name": "K1 2 SW 10 15A 38mm",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-k1-2-sw-10-15a-38mm-2cbb85b857",
+      "recordPath": "equipment/mfr-nhp-iso-k1-2-sw-10-15a-38mm-2cbb85b857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-k1-2-sw-10-15a-38mm-2cbb85b857.json"
+    },
+    {
+      "id": "mfr-socomec-atys-m-2p-and-4p-transfer-swicthes-76aa848067",
+      "name": "ATYS M 2P and 4P Transfer Swicthes",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-m-2p-and-4p-transfer-swicthes-76aa848067",
+      "recordPath": "equipment/mfr-socomec-atys-m-2p-and-4p-transfer-swicthes-76aa848067.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-m-2p-and-4p-transfer-swicthes-76aa848067.json"
+    },
+    {
+      "id": "mfr-mersen-mbp3630a3p-a9ac3d5944",
+      "name": "MBP3630A3P",
+      "manufacturer": "Mersen",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-mersen-mbp3630a3p-a9ac3d5944",
+      "recordPath": "equipment/mfr-mersen-mbp3630a3p-a9ac3d5944.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-mersen-mbp3630a3p-a9ac3d5944.json"
+    },
+    {
+      "id": "mfr-nhp-iso-k1-2-sw-10-32a-2p-lb-408b2b4a41",
+      "name": "K1 2 SW 10 32A 2P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-k1-2-sw-10-32a-2p-lb-408b2b4a41",
+      "recordPath": "equipment/mfr-nhp-iso-k1-2-sw-10-32a-2p-lb-408b2b4a41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-k1-2-sw-10-32a-2p-lb-408b2b4a41.json"
+    },
+    {
+      "id": "mfr-socomec-atys-m-2p-and-4p-transfer-switches-e571122f62",
+      "name": "ATYS M 2P and 4P Transfer Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-m-2p-and-4p-transfer-switches-e571122f62",
+      "recordPath": "equipment/mfr-socomec-atys-m-2p-and-4p-transfer-switches-e571122f62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-m-2p-and-4p-transfer-switches-e571122f62.json"
+    },
+    {
+      "id": "mfr-nhp-iso-k1-2-sw-10-32a-3p-lb-831df7de31",
+      "name": "K1 2 SW 10 32A 3P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-k1-2-sw-10-32a-3p-lb-831df7de31",
+      "recordPath": "equipment/mfr-nhp-iso-k1-2-sw-10-32a-3p-lb-831df7de31.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-k1-2-sw-10-32a-3p-lb-831df7de31.json"
+    },
+    {
+      "id": "mfr-socomec-atys-p-3p-and-4p-transfer-swicthes-117c23c9c3",
+      "name": "ATYS p 3P and 4P Transfer Swicthes",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-p-3p-and-4p-transfer-swicthes-117c23c9c3",
+      "recordPath": "equipment/mfr-socomec-atys-p-3p-and-4p-transfer-swicthes-117c23c9c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-p-3p-and-4p-transfer-swicthes-117c23c9c3.json"
+    },
+    {
+      "id": "mfr-nhp-iso-k1-2-sw-20-40a-4p-lb-6c97973696",
+      "name": "K1 2 SW 20 40A 4P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-k1-2-sw-20-40a-4p-lb-6c97973696",
+      "recordPath": "equipment/mfr-nhp-iso-k1-2-sw-20-40a-4p-lb-6c97973696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-k1-2-sw-20-40a-4p-lb-6c97973696.json"
+    },
+    {
+      "id": "mfr-socomec-atys-p-3p-and-4p-transfer-switches-e40ec30d71",
+      "name": "ATYS p 3P and 4P Transfer Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-p-3p-and-4p-transfer-switches-e40ec30d71",
+      "recordPath": "equipment/mfr-socomec-atys-p-3p-and-4p-transfer-switches-e40ec30d71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-p-3p-and-4p-transfer-switches-e40ec30d71.json"
+    },
+    {
+      "id": "mfr-nhp-iso-kxsw1102pxxlb-b1652a226f",
+      "name": "KxSW1102PxxLB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-kxsw1102pxxlb-b1652a226f",
+      "recordPath": "equipment/mfr-nhp-iso-kxsw1102pxxlb-b1652a226f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-kxsw1102pxxlb-b1652a226f.json"
+    },
+    {
+      "id": "mfr-socomec-atys-p-g-3-4-pole-automatic-transfer-switches-7e1c72ebed",
+      "name": "ATyS p g 3 4 Pole Automatic Transfer Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-p-g-3-4-pole-automatic-transfer-switches-7e1c72ebed",
+      "recordPath": "equipment/mfr-socomec-atys-p-g-3-4-pole-automatic-transfer-switches-7e1c72ebed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-p-g-3-4-pole-automatic-transfer-switches-7e1c72ebed.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa320pxx-948e6d76f2",
+      "name": "PA320Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa320pxx-948e6d76f2",
+      "recordPath": "equipment/mfr-nhp-iso-pa320pxx-948e6d76f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa320pxx-948e6d76f2.json"
+    },
+    {
+      "id": "mfr-socomec-atys-p-g-3-and-4-pole-automatic-transfer-switches-22152b46b1",
+      "name": "ATyS p g 3 and 4 Pole Automatic Transfer Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-p-g-3-and-4-pole-automatic-transfer-switches-22152b46b1",
+      "recordPath": "equipment/mfr-socomec-atys-p-g-3-and-4-pole-automatic-transfer-switches-22152b46b1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-p-g-3-and-4-pole-automatic-transfer-switches-22152b46b1.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa332pxx-5f99d735eb",
+      "name": "PA332Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa332pxx-5f99d735eb",
+      "recordPath": "equipment/mfr-nhp-iso-pa332pxx-5f99d735eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa332pxx-5f99d735eb.json"
+    },
+    {
+      "id": "mfr-socomec-atys-r-3p-and-4p-transfer-swicthes-317cfc4cec",
+      "name": "ATyS r 3P and 4P Transfer Swicthes",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-r-3p-and-4p-transfer-swicthes-317cfc4cec",
+      "recordPath": "equipment/mfr-socomec-atys-r-3p-and-4p-transfer-swicthes-317cfc4cec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-r-3p-and-4p-transfer-swicthes-317cfc4cec.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa410pxx-6264594856",
+      "name": "PA410Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa410pxx-6264594856",
+      "recordPath": "equipment/mfr-nhp-iso-pa410pxx-6264594856.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa410pxx-6264594856.json"
+    },
+    {
+      "id": "mfr-socomec-atys-r-3p-and-4p-transfer-switches-910890a685",
+      "name": "ATyS r 3P and 4P Transfer Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-r-3p-and-4p-transfer-switches-910890a685",
+      "recordPath": "equipment/mfr-socomec-atys-r-3p-and-4p-transfer-switches-910890a685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-r-3p-and-4p-transfer-switches-910890a685.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa420pxx-6bf0677970",
+      "name": "PA420Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa420pxx-6bf0677970",
+      "recordPath": "equipment/mfr-nhp-iso-pa420pxx-6bf0677970.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa420pxx-6bf0677970.json"
+    },
+    {
+      "id": "mfr-socomec-bco-bypass-switches-87a99bdc42",
+      "name": "BCO Bypass Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-bco-bypass-switches-87a99bdc42",
+      "recordPath": "equipment/mfr-socomec-bco-bypass-switches-87a99bdc42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-bco-bypass-switches-87a99bdc42.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa432pxx-69335f1304",
+      "name": "PA432Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa432pxx-69335f1304",
+      "recordPath": "equipment/mfr-nhp-iso-pa432pxx-69335f1304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa432pxx-69335f1304.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa440pxx-0ed5ffcfdf",
+      "name": "PA440Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa440pxx-0ed5ffcfdf",
+      "recordPath": "equipment/mfr-nhp-iso-pa440pxx-0ed5ffcfdf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa440pxx-0ed5ffcfdf.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa450pxx-e3509212d1",
+      "name": "PA450Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa450pxx-e3509212d1",
+      "recordPath": "equipment/mfr-nhp-iso-pa450pxx-e3509212d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa450pxx-e3509212d1.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa510pxx-bd6c49ab04",
+      "name": "PA510Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa510pxx-bd6c49ab04",
+      "recordPath": "equipment/mfr-nhp-iso-pa510pxx-bd6c49ab04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa510pxx-bd6c49ab04.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa520pxx-338330bf2c",
+      "name": "PA520Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa520pxx-338330bf2c",
+      "recordPath": "equipment/mfr-nhp-iso-pa520pxx-338330bf2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa520pxx-338330bf2c.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa532pxx-a90bffa61b",
+      "name": "PA532Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa532pxx-a90bffa61b",
+      "recordPath": "equipment/mfr-nhp-iso-pa532pxx-a90bffa61b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa532pxx-a90bffa61b.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa540pxx-f037e2d032",
+      "name": "PA540Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa540pxx-f037e2d032",
+      "recordPath": "equipment/mfr-nhp-iso-pa540pxx-f037e2d032.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa540pxx-f037e2d032.json"
+    },
+    {
+      "id": "mfr-socomec-fuse-switches-din-and-bs-3-and-4-pole-36129d8042",
+      "name": "Fuse Switches DIN and BS 3 and 4 pole",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-fuse-switches-din-and-bs-3-and-4-pole-36129d8042",
+      "recordPath": "equipment/mfr-socomec-fuse-switches-din-and-bs-3-and-4-pole-36129d8042.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-fuse-switches-din-and-bs-3-and-4-pole-36129d8042.json"
+    },
+    {
+      "id": "mfr-nhp-iso-pa550pxx-cc0aa36d92",
+      "name": "PA550Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-pa550pxx-cc0aa36d92",
+      "recordPath": "equipment/mfr-nhp-iso-pa550pxx-cc0aa36d92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-pa550pxx-cc0aa36d92.json"
+    },
+    {
+      "id": "mfr-socomec-sco-3-and-4-pole-manual-transfer-switches-2d6a441434",
+      "name": "SCO 3 and 4 Pole Manual Transfer Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-sco-3-and-4-pole-manual-transfer-switches-2d6a441434",
+      "recordPath": "equipment/mfr-socomec-sco-3-and-4-pole-manual-transfer-switches-2d6a441434.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-sco-3-and-4-pole-manual-transfer-switches-2d6a441434.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps310pxx-8a506cbf4f",
+      "name": "PS310Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps310pxx-8a506cbf4f",
+      "recordPath": "equipment/mfr-nhp-iso-ps310pxx-8a506cbf4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps310pxx-8a506cbf4f.json"
+    },
+    {
+      "id": "mfr-socomec-sco-change-over-switches-3p-and-4p-44bd7373f5",
+      "name": "SCO Change Over Switches 3P and 4P",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-sco-change-over-switches-3p-and-4p-44bd7373f5",
+      "recordPath": "equipment/mfr-socomec-sco-change-over-switches-3p-and-4p-44bd7373f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-sco-change-over-switches-3p-and-4p-44bd7373f5.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps315pxx-10be86c5d3",
+      "name": "PS315Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps315pxx-10be86c5d3",
+      "recordPath": "equipment/mfr-nhp-iso-ps315pxx-10be86c5d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps315pxx-10be86c5d3.json"
+    },
+    {
+      "id": "mfr-socomec-slb-sirco-load-break-switches-3p-4p-341a37ff42",
+      "name": "SLB Sirco Load Break Switches 3P 4P",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-slb-sirco-load-break-switches-3p-4p-341a37ff42",
+      "recordPath": "equipment/mfr-socomec-slb-sirco-load-break-switches-3p-4p-341a37ff42.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-slb-sirco-load-break-switches-3p-4p-341a37ff42.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps320fpxx-fbcad47601",
+      "name": "PS320FPxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps320fpxx-fbcad47601",
+      "recordPath": "equipment/mfr-nhp-iso-ps320fpxx-fbcad47601.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps320fpxx-fbcad47601.json"
+    },
+    {
+      "id": "mfr-socomec-slb-switches-6e17506c8c",
+      "name": "SLB Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-slb-switches-6e17506c8c",
+      "recordPath": "equipment/mfr-socomec-slb-switches-6e17506c8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-slb-switches-6e17506c8c.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps320pxx-41a12f4a20",
+      "name": "PS320Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps320pxx-41a12f4a20",
+      "recordPath": "equipment/mfr-nhp-iso-ps320pxx-41a12f4a20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps320pxx-41a12f4a20.json"
+    },
+    {
+      "id": "mfr-socomec-slb-switches-cadblock-05e2fe0331",
+      "name": "SLB Switches CADBlock",
+      "manufacturer": "Socomec",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-slb-switches-cadblock-05e2fe0331",
+      "recordPath": "equipment/mfr-socomec-slb-switches-cadblock-05e2fe0331.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-slb-switches-cadblock-05e2fe0331.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps332pxx-89ccae24f4",
+      "name": "PS332Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps332pxx-89ccae24f4",
+      "recordPath": "equipment/mfr-nhp-iso-ps332pxx-89ccae24f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps332pxx-89ccae24f4.json"
+    },
+    {
+      "id": "mfr-socomec-slbm-switches-8ebe8704d4",
+      "name": "SLBM Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-slbm-switches-8ebe8704d4",
+      "recordPath": "equipment/mfr-socomec-slbm-switches-8ebe8704d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-slbm-switches-8ebe8704d4.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps410pxx-be49f0efba",
+      "name": "PS410Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps410pxx-be49f0efba",
+      "recordPath": "equipment/mfr-nhp-iso-ps410pxx-be49f0efba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps410pxx-be49f0efba.json"
+    },
+    {
+      "id": "mfr-socomec-slbm-vlbm-scom-switches-7133f61f4c",
+      "name": "SLBM VLBM SCOM Switches",
+      "manufacturer": "Socomec",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-slbm-vlbm-scom-switches-7133f61f4c",
+      "recordPath": "equipment/mfr-socomec-slbm-vlbm-scom-switches-7133f61f4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-slbm-vlbm-scom-switches-7133f61f4c.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps420pxx-ffec717db7",
+      "name": "PS420Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps420pxx-ffec717db7",
+      "recordPath": "equipment/mfr-nhp-iso-ps420pxx-ffec717db7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps420pxx-ffec717db7.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps432pxx-d15d3c2e2a",
+      "name": "PS432Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps432pxx-d15d3c2e2a",
+      "recordPath": "equipment/mfr-nhp-iso-ps432pxx-d15d3c2e2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps432pxx-d15d3c2e2a.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps440pxx-13fe7517f0",
+      "name": "PS440Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps440pxx-13fe7517f0",
+      "recordPath": "equipment/mfr-nhp-iso-ps440pxx-13fe7517f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps440pxx-13fe7517f0.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps450pxx-a70e3289af",
+      "name": "PS450Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps450pxx-a70e3289af",
+      "recordPath": "equipment/mfr-nhp-iso-ps450pxx-a70e3289af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps450pxx-a70e3289af.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps510pxx-5ac33619af",
+      "name": "PS510Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps510pxx-5ac33619af",
+      "recordPath": "equipment/mfr-nhp-iso-ps510pxx-5ac33619af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps510pxx-5ac33619af.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps520pxx-45a6ca62d1",
+      "name": "PS520Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps520pxx-45a6ca62d1",
+      "recordPath": "equipment/mfr-nhp-iso-ps520pxx-45a6ca62d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps520pxx-45a6ca62d1.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps532pxx-5ff4691e7a",
+      "name": "PS532Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps532pxx-5ff4691e7a",
+      "recordPath": "equipment/mfr-nhp-iso-ps532pxx-5ff4691e7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps532pxx-5ff4691e7a.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps540pxx-2cd0915d72",
+      "name": "PS540Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps540pxx-2cd0915d72",
+      "recordPath": "equipment/mfr-nhp-iso-ps540pxx-2cd0915d72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps540pxx-2cd0915d72.json"
+    },
+    {
+      "id": "mfr-nhp-iso-ps550pxx-97da27451a",
+      "name": "PS550Pxx",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-ps550pxx-97da27451a",
+      "recordPath": "equipment/mfr-nhp-iso-ps550pxx-97da27451a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-ps550pxx-97da27451a.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so-10-15a-fp-2b58ed13aa",
+      "name": "SO 10 15A FP",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so-10-15a-fp-2b58ed13aa",
+      "recordPath": "equipment/mfr-nhp-iso-so-10-15a-fp-2b58ed13aa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so-10-15a-fp-2b58ed13aa.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so-10-20a-fp-lb-c5a389bf7f",
+      "name": "SO 10 20A FP LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so-10-20a-fp-lb-c5a389bf7f",
+      "recordPath": "equipment/mfr-nhp-iso-so-10-20a-fp-lb-c5a389bf7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so-10-20a-fp-lb-c5a389bf7f.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so-10-20a-rp-lb-411f575566",
+      "name": "SO 10 20A RP LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so-10-20a-rp-lb-411f575566",
+      "recordPath": "equipment/mfr-nhp-iso-so-10-20a-rp-lb-411f575566.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so-10-20a-rp-lb-411f575566.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so-10-50a-rp-2f160138a3",
+      "name": "SO 10 50A RP",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so-10-50a-rp-2f160138a3",
+      "recordPath": "equipment/mfr-nhp-iso-so-10-50a-rp-2f160138a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so-10-50a-rp-2f160138a3.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so-32-50a-rp-lb-c4bfad1a2c",
+      "name": "SO 32 50A RP LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so-32-50a-rp-lb-c4bfad1a2c",
+      "recordPath": "equipment/mfr-nhp-iso-so-32-50a-rp-lb-c4bfad1a2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so-32-50a-rp-lb-c4bfad1a2c.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so320pxxlb-d7bffc9d52",
+      "name": "SO320PxxLB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so320pxxlb-d7bffc9d52",
+      "recordPath": "equipment/mfr-nhp-iso-so320pxxlb-d7bffc9d52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so320pxxlb-d7bffc9d52.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so332pxxlb-06c7c6ad01",
+      "name": "SO332PxxLB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so332pxxlb-06c7c6ad01",
+      "recordPath": "equipment/mfr-nhp-iso-so332pxxlb-06c7c6ad01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so332pxxlb-06c7c6ad01.json"
+    },
+    {
+      "id": "mfr-nhp-iso-sw-10-32a-2p-lb-de5a3fa492",
+      "name": "SW 10 32A 2P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-sw-10-32a-2p-lb-de5a3fa492",
+      "recordPath": "equipment/mfr-nhp-iso-sw-10-32a-2p-lb-de5a3fa492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-sw-10-32a-2p-lb-de5a3fa492.json"
+    },
+    {
+      "id": "mfr-nhp-iso-sw-10-32a-3p-lb-d16652e500",
+      "name": "SW 10 32A 3P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-sw-10-32a-3p-lb-d16652e500",
+      "recordPath": "equipment/mfr-nhp-iso-sw-10-32a-3p-lb-d16652e500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-sw-10-32a-3p-lb-d16652e500.json"
+    },
+    {
+      "id": "mfr-nhp-iso-sw-20-40a-4p-lb-d82e6b9dcb",
+      "name": "SW 20 40A 4P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-sw-20-40a-4p-lb-d82e6b9dcb",
+      "recordPath": "equipment/mfr-nhp-iso-sw-20-40a-4p-lb-d82e6b9dcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-sw-20-40a-4p-lb-d82e6b9dcb.json"
+    },
+    {
+      "id": "mfr-nhp-iso-sw-40-50a-3p-lb-8a7ebc7ad6",
+      "name": "SW 40 50A 3P LB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-sw-40-50a-3p-lb-8a7ebc7ad6",
+      "recordPath": "equipment/mfr-nhp-iso-sw-40-50a-3p-lb-8a7ebc7ad6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-sw-40-50a-3p-lb-8a7ebc7ad6.json"
+    },
+    {
+      "id": "mfr-nhp-iso-sw1102pxxlb-552aba1604",
+      "name": "SW1102PxxLB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-sw1102pxxlb-552aba1604",
+      "recordPath": "equipment/mfr-nhp-iso-sw1102pxxlb-552aba1604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-sw1102pxxlb-552aba1604.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-1-row-13-mod-flush-ddd94eea65",
+      "name": "MAX9 Switchboard 1 row 13 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-1-row-13-mod-flush-ddd94eea65",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-1-row-13-mod-flush-ddd94eea65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-1-row-13-mod-flush-ddd94eea65.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-1-row-13-mod-surface-ecf3cc181a",
+      "name": "MAX9 Switchboard 1 row 13 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-1-row-13-mod-surface-ecf3cc181a",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-1-row-13-mod-surface-ecf3cc181a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-1-row-13-mod-surface-ecf3cc181a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-1-row-18-mod-flush-250cbe80ed",
+      "name": "MAX9 Switchboard 1 row 18 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-1-row-18-mod-flush-250cbe80ed",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-1-row-18-mod-flush-250cbe80ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-1-row-18-mod-flush-250cbe80ed.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-2-row-26-mod-flush-d7fb12c456",
+      "name": "MAX9 Switchboard 2 row 26 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-2-row-26-mod-flush-d7fb12c456",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-2-row-26-mod-flush-d7fb12c456.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-2-row-26-mod-flush-d7fb12c456.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-2-row-26-mod-surface-94698339e1",
+      "name": "MAX9 Switchboard 2 row 26 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-2-row-26-mod-surface-94698339e1",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-2-row-26-mod-surface-94698339e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-2-row-26-mod-surface-94698339e1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-2-row-36-mod-flush-97947930fc",
+      "name": "MAX9 Switchboard 2 row 36 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-2-row-36-mod-flush-97947930fc",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-2-row-36-mod-flush-97947930fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-2-row-36-mod-flush-97947930fc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-2-row-36-mod-surface-2edfff034d",
+      "name": "MAX9 Switchboard 2 row 36 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-2-row-36-mod-surface-2edfff034d",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-2-row-36-mod-surface-2edfff034d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-2-row-36-mod-surface-2edfff034d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-2-row-48-mod-flush-66f10f36eb",
+      "name": "MAX9 Switchboard 2 row 48 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-2-row-48-mod-flush-66f10f36eb",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-2-row-48-mod-flush-66f10f36eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-2-row-48-mod-flush-66f10f36eb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-2-row-48-mod-surface-60954cf50d",
+      "name": "MAX9 Switchboard 2 row 48 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-2-row-48-mod-surface-60954cf50d",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-2-row-48-mod-surface-60954cf50d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-2-row-48-mod-surface-60954cf50d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-3-row-39-mod-flush-78b8f74185",
+      "name": "MAX9 Switchboard 3 row 39 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-3-row-39-mod-flush-78b8f74185",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-3-row-39-mod-flush-78b8f74185.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-3-row-39-mod-flush-78b8f74185.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-3-row-39-mod-surface-369c7cd3c6",
+      "name": "MAX9 Switchboard 3 row 39 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-3-row-39-mod-surface-369c7cd3c6",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-3-row-39-mod-surface-369c7cd3c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-3-row-39-mod-surface-369c7cd3c6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-3-row-54-mod-flush-ce457a5980",
+      "name": "MAX9 Switchboard 3 row 54 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-3-row-54-mod-flush-ce457a5980",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-3-row-54-mod-flush-ce457a5980.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-3-row-54-mod-flush-ce457a5980.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-3-row-54-mod-surface-74712b4c5b",
+      "name": "MAX9 Switchboard 3 row 54 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-3-row-54-mod-surface-74712b4c5b",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-3-row-54-mod-surface-74712b4c5b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-3-row-54-mod-surface-74712b4c5b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-4-row-52-mod-flush-f183687e3c",
+      "name": "MAX9 Switchboard 4 row 52 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-4-row-52-mod-flush-f183687e3c",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-4-row-52-mod-flush-f183687e3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-4-row-52-mod-flush-f183687e3c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-4-row-52-mod-surface-67e2ab2c38",
+      "name": "MAX9 Switchboard 4 row 52 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-4-row-52-mod-surface-67e2ab2c38",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-4-row-52-mod-surface-67e2ab2c38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-4-row-52-mod-surface-67e2ab2c38.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-4-row-72-mod-flush-5199e6b5ac",
+      "name": "MAX9 Switchboard 4 row 72 Mod Flush",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-4-row-72-mod-flush-5199e6b5ac",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-4-row-72-mod-flush-5199e6b5ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-4-row-72-mod-flush-5199e6b5ac.json"
+    },
+    {
+      "id": "mfr-schneider-electric-max9-switchboard-4-row-72-mod-surface-219a9191a5",
+      "name": "MAX9 Switchboard 4 row 72 Mod Surface",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-max9-switchboard-4-row-72-mod-surface-219a9191a5",
+      "recordPath": "equipment/mfr-schneider-electric-max9-switchboard-4-row-72-mod-surface-219a9191a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-max9-switchboard-4-row-72-mod-surface-219a9191a5.json"
+    },
+    {
+      "id": "mfr-abb-enclosed-rotary-disconnect-switch-plastic-n3r-12-4x-20a-30a-40a-60a-nonfused-3p-6p-3c-379b49569d",
+      "name": "Enclosed Rotary Disconnect Switch , Plastic, N3R/12/4X, 20A/30A/40A/60A NonFused 3P/6P/3C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-enclosed-rotary-disconnect-switch-plastic-n3r-12-4x-20a-30a-40a-60a-nonfused-3p-6p-3c-379b49569d",
+      "recordPath": "equipment/mfr-abb-enclosed-rotary-disconnect-switch-plastic-n3r-12-4x-20a-30a-40a-60a-nonfused-3p-6p-3c-379b49569d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-enclosed-rotary-disconnect-switch-plastic-n3r-12-4x-20a-30a-40a-60a-nonfused-3p-6p-3c-379b49569d.json"
+    },
+    {
+      "id": "mfr-abb-os100gj30-5537b7f2a5",
+      "name": "OS100GJ30",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100gj30-5537b7f2a5",
+      "recordPath": "equipment/mfr-abb-os100gj30-5537b7f2a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100gj30-5537b7f2a5.json"
+    },
+    {
+      "id": "mfr-abb-os1200l02-8ad68f5cd8",
+      "name": "OS1200L02",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1200l02-8ad68f5cd8",
+      "recordPath": "equipment/mfr-abb-os1200l02-8ad68f5cd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1200l02-8ad68f5cd8.json"
+    },
+    {
+      "id": "mfr-abb-os1200l03-f3d9ed7b4f",
+      "name": "OS1200L03",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1200l03-f3d9ed7b4f",
+      "recordPath": "equipment/mfr-abb-os1200l03-f3d9ed7b4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1200l03-f3d9ed7b4f.json"
+    },
+    {
+      "id": "mfr-abb-os1200l12-40b46ea5ab",
+      "name": "OS1200L12",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1200l12-40b46ea5ab",
+      "recordPath": "equipment/mfr-abb-os1200l12-40b46ea5ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1200l12-40b46ea5ab.json"
+    },
+    {
+      "id": "mfr-abb-os1200l30-dccb0256d9",
+      "name": "OS1200L30",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1200l30-dccb0256d9",
+      "recordPath": "equipment/mfr-abb-os1200l30-dccb0256d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1200l30-dccb0256d9.json"
+    },
+    {
+      "id": "mfr-abb-os125-160gd21-os125gf21-439d986c7d",
+      "name": "OS125...160GD21, OS125GF21",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125-160gd21-os125gf21-439d986c7d",
+      "recordPath": "equipment/mfr-abb-os125-160gd21-os125gf21-439d986c7d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125-160gd21-os125gf21-439d986c7d.json"
+    },
+    {
+      "id": "mfr-abb-os1250-01-68dc9b55d4",
+      "name": "OS1250 01",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-01-68dc9b55d4",
+      "recordPath": "equipment/mfr-abb-os1250-01-68dc9b55d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-01-68dc9b55d4.json"
+    },
+    {
+      "id": "mfr-abb-os1250-02-9e9e5546c6",
+      "name": "OS1250 02",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-02-9e9e5546c6",
+      "recordPath": "equipment/mfr-abb-os1250-02-9e9e5546c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-02-9e9e5546c6.json"
+    },
+    {
+      "id": "mfr-abb-os1250-03-1b4790e046",
+      "name": "OS1250 03",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-03-1b4790e046",
+      "recordPath": "equipment/mfr-abb-os1250-03-1b4790e046.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-03-1b4790e046.json"
+    },
+    {
+      "id": "mfr-abb-os1250-03n3-02288fde88",
+      "name": "OS1250 03N3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-03n3-02288fde88",
+      "recordPath": "equipment/mfr-abb-os1250-03n3-02288fde88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-03n3-02288fde88.json"
+    },
+    {
+      "id": "mfr-abb-os1250-04-15c07a7d79",
+      "name": "OS1250 04",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-04-15c07a7d79",
+      "recordPath": "equipment/mfr-abb-os1250-04-15c07a7d79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-04-15c07a7d79.json"
+    },
+    {
+      "id": "mfr-abb-os1250-11-5d1d75ba15",
+      "name": "OS1250 11",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-11-5d1d75ba15",
+      "recordPath": "equipment/mfr-abb-os1250-11-5d1d75ba15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-11-5d1d75ba15.json"
+    },
+    {
+      "id": "mfr-abb-os1250-12-27303d2a69",
+      "name": "OS1250 12",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-12-27303d2a69",
+      "recordPath": "equipment/mfr-abb-os1250-12-27303d2a69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-12-27303d2a69.json"
+    },
+    {
+      "id": "mfr-abb-os1250-30-c854e90327",
+      "name": "OS1250 30",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250-30-c854e90327",
+      "recordPath": "equipment/mfr-abb-os1250-30-c854e90327.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250-30-c854e90327.json"
+    },
+    {
+      "id": "mfr-abb-os1250b13n1-e4c936c0e9",
+      "name": "OS1250B13N1",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250b13n1-e4c936c0e9",
+      "recordPath": "equipment/mfr-abb-os1250b13n1-e4c936c0e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250b13n1-e4c936c0e9.json"
+    },
+    {
+      "id": "mfr-abb-os1250da21-f1839e3fbd",
+      "name": "OS1250DA21",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250da21-f1839e3fbd",
+      "recordPath": "equipment/mfr-abb-os1250da21-f1839e3fbd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250da21-f1839e3fbd.json"
+    },
+    {
+      "id": "mfr-abb-os160gb03n3-cae11eb137",
+      "name": "OS160GB03N3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gb03n3-cae11eb137",
+      "recordPath": "equipment/mfr-abb-os160gb03n3-cae11eb137.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gb03n3-cae11eb137.json"
+    },
+    {
+      "id": "mfr-abb-os200b02-8afe3a6b83",
+      "name": "OS200B02",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200b02-8afe3a6b83",
+      "recordPath": "equipment/mfr-abb-os200b02-8afe3a6b83.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200b02-8afe3a6b83.json"
+    },
+    {
+      "id": "mfr-abb-os200b03n3-ca59abfee6",
+      "name": "OS200B03N3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200b03n3-ca59abfee6",
+      "recordPath": "equipment/mfr-abb-os200b03n3-ca59abfee6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200b03n3-ca59abfee6.json"
+    },
+    {
+      "id": "mfr-abb-os200b12-3fafc89c65",
+      "name": "OS200B12",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200b12-3fafc89c65",
+      "recordPath": "equipment/mfr-abb-os200b12-3fafc89c65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200b12-3fafc89c65.json"
+    },
+    {
+      "id": "mfr-abb-os200b22-04f675e37c",
+      "name": "OS200B22",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200b22-04f675e37c",
+      "recordPath": "equipment/mfr-abb-os200b22-04f675e37c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200b22-04f675e37c.json"
+    },
+    {
+      "id": "mfr-abb-os200d01-646fa567c4",
+      "name": "OS200D01",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d01-646fa567c4",
+      "recordPath": "equipment/mfr-abb-os200d01-646fa567c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d01-646fa567c4.json"
+    },
+    {
+      "id": "mfr-abb-os200d03k-3675c61d2e",
+      "name": "OS200D03K",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d03k-3675c61d2e",
+      "recordPath": "equipment/mfr-abb-os200d03k-3675c61d2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d03k-3675c61d2e.json"
+    },
+    {
+      "id": "mfr-abb-os200d11-47bca1fac9",
+      "name": "OS200D11",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d11-47bca1fac9",
+      "recordPath": "equipment/mfr-abb-os200d11-47bca1fac9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d11-47bca1fac9.json"
+    },
+    {
+      "id": "mfr-abb-os200j03-c144b13569",
+      "name": "OS200J03",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200j03-c144b13569",
+      "recordPath": "equipment/mfr-abb-os200j03-c144b13569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200j03-c144b13569.json"
+    },
+    {
+      "id": "mfr-abb-os200j12-1ff4da2ce2",
+      "name": "OS200J12",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200j12-1ff4da2ce2",
+      "recordPath": "equipment/mfr-abb-os200j12-1ff4da2ce2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200j12-1ff4da2ce2.json"
+    },
+    {
+      "id": "mfr-abb-os250d01-6a28237cf6",
+      "name": "OS250D01",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d01-6a28237cf6",
+      "recordPath": "equipment/mfr-abb-os250d01-6a28237cf6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d01-6a28237cf6.json"
+    },
+    {
+      "id": "mfr-abb-os30facc12-z14-caf2da74f9",
+      "name": "OS30FACC12, Z14",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os30facc12-z14-caf2da74f9",
+      "recordPath": "equipment/mfr-abb-os30facc12-z14-caf2da74f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30facc12-z14-caf2da74f9.json"
+    },
+    {
+      "id": "mfr-abb-os30facc22f-67897d9c89",
+      "name": "OS30FACC22F",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os30facc22f-67897d9c89",
+      "recordPath": "equipment/mfr-abb-os30facc22f-67897d9c89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30facc22f-67897d9c89.json"
+    },
+    {
+      "id": "mfr-abb-os400b12pr5-139a769661",
+      "name": "OS400B12PR5",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400b12pr5-139a769661",
+      "recordPath": "equipment/mfr-abb-os400b12pr5-139a769661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400b12pr5-139a769661.json"
+    },
+    {
+      "id": "mfr-abb-os400d12lr-5088ed9795",
+      "name": "OS400D12LR",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d12lr-5088ed9795",
+      "recordPath": "equipment/mfr-abb-os400d12lr-5088ed9795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d12lr-5088ed9795.json"
+    },
+    {
+      "id": "mfr-abb-os400d22pln2-4d2de5cec8",
+      "name": "OS400D22PLN2",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d22pln2-4d2de5cec8",
+      "recordPath": "equipment/mfr-abb-os400d22pln2-4d2de5cec8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d22pln2-4d2de5cec8.json"
+    },
+    {
+      "id": "mfr-abb-os600-800d-j-l30-a77d509fd5",
+      "name": "OS600-800D J L30",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os600-800d-j-l30-a77d509fd5",
+      "recordPath": "equipment/mfr-abb-os600-800d-j-l30-a77d509fd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os600-800d-j-l30-a77d509fd5.json"
+    },
+    {
+      "id": "mfr-abb-os60gj12-71a8e51798",
+      "name": "OS60GJ12",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os60gj12-71a8e51798",
+      "recordPath": "equipment/mfr-abb-os60gj12-71a8e51798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os60gj12-71a8e51798.json"
+    },
+    {
+      "id": "mfr-abb-os60gj30-007cb03b81",
+      "name": "OS60GJ30",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os60gj30-007cb03b81",
+      "recordPath": "equipment/mfr-abb-os60gj30-007cb03b81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os60gj30-007cb03b81.json"
+    },
+    {
+      "id": "mfr-abb-osm1250-3m-f44ce9fd06",
+      "name": "OSM1250 3M",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm1250-3m-f44ce9fd06",
+      "recordPath": "equipment/mfr-abb-osm1250-3m-f44ce9fd06.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm1250-3m-f44ce9fd06.json"
+    },
+    {
+      "id": "mfr-abb-osm1250-3n3m-0482aadd2a",
+      "name": "OSM1250 3N3M",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm1250-3n3m-0482aadd2a",
+      "recordPath": "equipment/mfr-abb-osm1250-3n3m-0482aadd2a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm1250-3n3m-0482aadd2a.json"
+    },
+    {
+      "id": "mfr-abb-osm1250-4m-b0cfc01aba",
+      "name": "OSM1250 4M",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm1250-4m-b0cfc01aba",
+      "recordPath": "equipment/mfr-abb-osm1250-4m-b0cfc01aba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm1250-4m-b0cfc01aba.json"
+    },
+    {
+      "id": "mfr-abb-ot1000-1250e04c-256048df7b",
+      "name": "OT1000 1250E04C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot1000-1250e04c-256048df7b",
+      "recordPath": "equipment/mfr-abb-ot1000-1250e04c-256048df7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot1000-1250e04c-256048df7b.json"
+    },
+    {
+      "id": "mfr-abb-ot16-40f3c-1e3d11ed52",
+      "name": "OT16-40F3C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot16-40f3c-1e3d11ed52",
+      "recordPath": "equipment/mfr-abb-ot16-40f3c-1e3d11ed52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot16-40f3c-1e3d11ed52.json"
+    },
+    {
+      "id": "mfr-abb-ot16-40f4c-6ae78f0614",
+      "name": "OT16-40F4C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot16-40f4c-6ae78f0614",
+      "recordPath": "equipment/mfr-abb-ot16-40f4c-6ae78f0614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot16-40f4c-6ae78f0614.json"
+    },
+    {
+      "id": "mfr-abb-ot1600e12w8-ot800u12w8-ot1200u12w8-8372e8b20a",
+      "name": "OT1600E12W8 OT800U12W8 OT1200U12W8",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot1600e12w8-ot800u12w8-ot1200u12w8-8372e8b20a",
+      "recordPath": "equipment/mfr-abb-ot1600e12w8-ot800u12w8-ot1200u12w8-8372e8b20a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot1600e12w8-ot800u12w8-ot1200u12w8-8372e8b20a.json"
+    },
+    {
+      "id": "mfr-abb-ot63-80f3c-58e2f36b97",
+      "name": "OT63-80F3C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot63-80f3c-58e2f36b97",
+      "recordPath": "equipment/mfr-abb-ot63-80f3c-58e2f36b97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot63-80f3c-58e2f36b97.json"
+    },
+    {
+      "id": "mfr-abb-ot63-80f4c-2578fa804e",
+      "name": "OT63-80F4C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot63-80f4c-2578fa804e",
+      "recordPath": "equipment/mfr-abb-ot63-80f4c-2578fa804e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot63-80f4c-2578fa804e.json"
+    },
+    {
+      "id": "mfr-abb-ot630-ot800e33c-fe2b56b895",
+      "name": "OT630...OT800E33C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ot630-ot800e33c-fe2b56b895",
+      "recordPath": "equipment/mfr-abb-ot630-ot800e33c-fe2b56b895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ot630-ot800e33c-fe2b56b895.json"
+    },
+    {
+      "id": "mfr-abb-otm1000-1250e3-3b37ae84fd",
+      "name": "OTM1000-1250E3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1000-1250e3-3b37ae84fd",
+      "recordPath": "equipment/mfr-abb-otm1000-1250e3-3b37ae84fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1000-1250e3-3b37ae84fd.json"
+    },
+    {
+      "id": "mfr-abb-otm1000-1250e3c8d-e3d1d2433d",
+      "name": "OTM1000-1250E3C8D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1000-1250e3c8d-e3d1d2433d",
+      "recordPath": "equipment/mfr-abb-otm1000-1250e3c8d-e3d1d2433d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1000-1250e3c8d-e3d1d2433d.json"
+    },
+    {
+      "id": "mfr-abb-otm1000-1250e3cm-63054bdf7c",
+      "name": "OTM1000-1250E3CM",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1000-1250e3cm-63054bdf7c",
+      "recordPath": "equipment/mfr-abb-otm1000-1250e3cm-63054bdf7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1000-1250e3cm-63054bdf7c.json"
+    },
+    {
+      "id": "mfr-abb-otm1000-1250e4c2d-c5027b4b9a",
+      "name": "OTM1000-1250E4C2D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1000-1250e4c2d-c5027b4b9a",
+      "recordPath": "equipment/mfr-abb-otm1000-1250e4c2d-c5027b4b9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1000-1250e4c2d-c5027b4b9a.json"
+    },
+    {
+      "id": "mfr-abb-otm1000-1250e4c8d-a6e0048aff",
+      "name": "OTM1000-1250E4C8D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1000-1250e4c8d-a6e0048aff",
+      "recordPath": "equipment/mfr-abb-otm1000-1250e4c8d-a6e0048aff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1000-1250e4c8d-a6e0048aff.json"
+    },
+    {
+      "id": "mfr-abb-otm1000-1250e4cm-7c7407af3a",
+      "name": "OTM1000-1250E4CM",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1000-1250e4cm-7c7407af3a",
+      "recordPath": "equipment/mfr-abb-otm1000-1250e4cm-7c7407af3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1000-1250e4cm-7c7407af3a.json"
+    },
+    {
+      "id": "mfr-abb-otm160-250e3w-b877c15805",
+      "name": "OTM160-250E3W",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm160-250e3w-b877c15805",
+      "recordPath": "equipment/mfr-abb-otm160-250e3w-b877c15805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm160-250e3w-b877c15805.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e2-7c116d3677",
+      "name": "OTM1600E2",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e2-7c116d3677",
+      "recordPath": "equipment/mfr-abb-otm1600e2-7c116d3677.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e2-7c116d3677.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e3-74267f05e9",
+      "name": "OTM1600E3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e3-74267f05e9",
+      "recordPath": "equipment/mfr-abb-otm1600e3-74267f05e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e3-74267f05e9.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e3c2d-a0d22cd0e8",
+      "name": "OTM1600E3C2D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e3c2d-a0d22cd0e8",
+      "recordPath": "equipment/mfr-abb-otm1600e3c2d-a0d22cd0e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e3c2d-a0d22cd0e8.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e3c8d-488ce00bbf",
+      "name": "OTM1600E3C8D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e3c8d-488ce00bbf",
+      "recordPath": "equipment/mfr-abb-otm1600e3c8d-488ce00bbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e3c8d-488ce00bbf.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e3cm-a5f99603f5",
+      "name": "OTM1600E3CM",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e3cm-a5f99603f5",
+      "recordPath": "equipment/mfr-abb-otm1600e3cm-a5f99603f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e3cm-a5f99603f5.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e4c2d-c925ae3182",
+      "name": "OTM1600E4C2D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e4c2d-c925ae3182",
+      "recordPath": "equipment/mfr-abb-otm1600e4c2d-c925ae3182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e4c2d-c925ae3182.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e4c8d-b7de13ff24",
+      "name": "OTM1600E4C8D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e4c8d-b7de13ff24",
+      "recordPath": "equipment/mfr-abb-otm1600e4c8d-b7de13ff24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e4c8d-b7de13ff24.json"
+    },
+    {
+      "id": "mfr-abb-otm1600e4cm-1ca2f4516b",
+      "name": "OTM1600E4CM",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm1600e4cm-1ca2f4516b",
+      "recordPath": "equipment/mfr-abb-otm1600e4cm-1ca2f4516b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm1600e4cm-1ca2f4516b.json"
+    },
+    {
+      "id": "mfr-abb-otm2000-2500e3-495bc143f2",
+      "name": "OTM2000-2500E3",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm2000-2500e3-495bc143f2",
+      "recordPath": "equipment/mfr-abb-otm2000-2500e3-495bc143f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm2000-2500e3-495bc143f2.json"
+    },
+    {
+      "id": "mfr-abb-otm2000-2500e3cm-b8c92e121a",
+      "name": "OTM2000-2500E3CM",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm2000-2500e3cm-b8c92e121a",
+      "recordPath": "equipment/mfr-abb-otm2000-2500e3cm-b8c92e121a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm2000-2500e3cm-b8c92e121a.json"
+    },
+    {
+      "id": "mfr-abb-otm2000-2500e4-d5e36a4f10",
+      "name": "OTM2000-2500E4",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm2000-2500e4-d5e36a4f10",
+      "recordPath": "equipment/mfr-abb-otm2000-2500e4-d5e36a4f10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm2000-2500e4-d5e36a4f10.json"
+    },
+    {
+      "id": "mfr-abb-otm2000-2500e4cm-9a8f21a260",
+      "name": "OTM2000-2500E4CM",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm2000-2500e4cm-9a8f21a260",
+      "recordPath": "equipment/mfr-abb-otm2000-2500e4cm-9a8f21a260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm2000-2500e4cm-9a8f21a260.json"
+    },
+    {
+      "id": "mfr-abb-otm2000-2500e2-1scc308342f0201-24dc1ddc07",
+      "name": "OTM2000...2500e2 1SCC308342F0201",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm2000-2500e2-1scc308342f0201-24dc1ddc07",
+      "recordPath": "equipment/mfr-abb-otm2000-2500e2-1scc308342f0201-24dc1ddc07.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm2000-2500e2-1scc308342f0201-24dc1ddc07.json"
+    },
+    {
+      "id": "mfr-abb-otm3200e3c-a0b59dc01d",
+      "name": "OTM3200E3C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm3200e3c-a0b59dc01d",
+      "recordPath": "equipment/mfr-abb-otm3200e3c-a0b59dc01d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm3200e3c-a0b59dc01d.json"
+    },
+    {
+      "id": "mfr-abb-otm3200e4c-2241deb716",
+      "name": "OTM3200E4C",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otm3200e4c-2241deb716",
+      "recordPath": "equipment/mfr-abb-otm3200e4c-2241deb716.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otm3200e4c-2241deb716.json"
+    },
+    {
+      "id": "mfr-abb-otzw26-z14-458739d063",
+      "name": "OTZW26, Z14",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-otzw26-z14-458739d063",
+      "recordPath": "equipment/mfr-abb-otzw26-z14-458739d063.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-otzw26-z14-458739d063.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-fuse-disconnect-switch-gs2qu3n-3-poles-front-external-handle-ul-csa-standard-4cb93c0946",
+      "name": "TeSys GS - Fuse disconnect switch GS2QU3N, 3 poles, front external handle, UL & CSA standard",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-fuse-disconnect-switch-gs2qu3n-3-poles-front-external-handle-ul-csa-standard-4cb93c0946",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-fuse-disconnect-switch-gs2qu3n-3-poles-front-external-handle-ul-csa-standard-4cb93c0946.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-fuse-disconnect-switch-gs2qu3n-3-poles-front-external-handle-ul-csa-standard-4cb93c0946.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flexset-switchboard-1600a-and-2000a-main-bus-6ecbd6a1ca",
+      "name": ": Flexset Switchboard 1600A and 2000A Main Bus",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flexset-switchboard-1600a-and-2000a-main-bus-6ecbd6a1ca",
+      "recordPath": "equipment/mfr-schneider-electric-flexset-switchboard-1600a-and-2000a-main-bus-6ecbd6a1ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flexset-switchboard-1600a-and-2000a-main-bus-6ecbd6a1ca.json"
+    },
+    {
+      "id": "mfr-abb-oezxpe28r-c8e6ce10a5",
+      "name": "OEZXPE28R",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oezxpe28r-c8e6ce10a5",
+      "recordPath": "equipment/mfr-abb-oezxpe28r-c8e6ce10a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oezxpe28r-c8e6ce10a5.json"
+    },
+    {
+      "id": "mfr-abb-oezxre020-752181ef8a",
+      "name": "OEZXRE020",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oezxre020-752181ef8a",
+      "recordPath": "equipment/mfr-abb-oezxre020-752181ef8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oezxre020-752181ef8a.json"
+    },
+    {
+      "id": "mfr-abb-oezxre023-6a8424c10b",
+      "name": "OEZXRE023",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oezxre023-6a8424c10b",
+      "recordPath": "equipment/mfr-abb-oezxre023-6a8424c10b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oezxre023-6a8424c10b.json"
+    },
+    {
+      "id": "mfr-abb-oezxre025-4a6d0b626b",
+      "name": "OEZXRE025",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oezxre025-4a6d0b626b",
+      "recordPath": "equipment/mfr-abb-oezxre025-4a6d0b626b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oezxre025-4a6d0b626b.json"
+    },
+    {
+      "id": "mfr-abb-oezxre037-b5b2f74707",
+      "name": "OEZXRE037",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oezxre037-b5b2f74707",
+      "recordPath": "equipment/mfr-abb-oezxre037-b5b2f74707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oezxre037-b5b2f74707.json"
+    },
+    {
+      "id": "mfr-abb-os100-160gb04k-524dca6fc5",
+      "name": "OS100-160GB04K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100-160gb04k-524dca6fc5",
+      "recordPath": "equipment/mfr-abb-os100-160gb04k-524dca6fc5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100-160gb04k-524dca6fc5.json"
+    },
+    {
+      "id": "mfr-abb-os100-160gb04n1p-907b22e087",
+      "name": "OS100-160GB04N1P",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100-160gb04n1p-907b22e087",
+      "recordPath": "equipment/mfr-abb-os100-160gb04n1p-907b22e087.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100-160gb04n1p-907b22e087.json"
+    },
+    {
+      "id": "mfr-abb-os100-160gbs40n1-cc0f198a77",
+      "name": "OS100-160GBS40N1",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100-160gbs40n1-cc0f198a77",
+      "recordPath": "equipment/mfr-abb-os100-160gbs40n1-cc0f198a77.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100-160gbs40n1-cc0f198a77.json"
+    },
+    {
+      "id": "mfr-abb-os100gj30-143-50473e1522",
+      "name": "OS100GJ30-143",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100gj30-143-50473e1522",
+      "recordPath": "equipment/mfr-abb-os100gj30-143-50473e1522.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100gj30-143-50473e1522.json"
+    },
+    {
+      "id": "mfr-abb-os100gjs30k-f4dc9333e1",
+      "name": "OS100GJS30K",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100gjs30k-f4dc9333e1",
+      "recordPath": "equipment/mfr-abb-os100gjs30k-f4dc9333e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100gjs30k-f4dc9333e1.json"
+    },
+    {
+      "id": "mfr-abb-os100gjs40k-15ccfe696c",
+      "name": "OS100GJS40K",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100gjs40k-15ccfe696c",
+      "recordPath": "equipment/mfr-abb-os100gjs40k-15ccfe696c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100gjs40k-15ccfe696c.json"
+    },
+    {
+      "id": "mfr-abb-os125-160gb04f-e9c4465336",
+      "name": "OS125-160GB04F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125-160gb04f-e9c4465336",
+      "recordPath": "equipment/mfr-abb-os125-160gb04f-e9c4465336.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125-160gb04f-e9c4465336.json"
+    },
+    {
+      "id": "mfr-abb-os125-160gbs40k-4c83c76aba",
+      "name": "OS125-160GBS40K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125-160gbs40k-4c83c76aba",
+      "recordPath": "equipment/mfr-abb-os125-160gbs40k-4c83c76aba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125-160gbs40k-4c83c76aba.json"
+    },
+    {
+      "id": "mfr-abb-os125-160gd02k-bc3b6b501e",
+      "name": "OS125-160GD02K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125-160gd02k-bc3b6b501e",
+      "recordPath": "equipment/mfr-abb-os125-160gd02k-bc3b6b501e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125-160gd02k-bc3b6b501e.json"
+    },
+    {
+      "id": "mfr-abb-os1250d03k-os1250b03k-os1250da03k-6eb24b6bfd",
+      "name": "OS1250D03K, OS1250B03K, OS1250DA03K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os1250d03k-os1250b03k-os1250da03k-6eb24b6bfd",
+      "recordPath": "equipment/mfr-abb-os1250d03k-os1250b03k-os1250da03k-6eb24b6bfd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os1250d03k-os1250b03k-os1250da03k-6eb24b6bfd.json"
+    },
+    {
+      "id": "mfr-abb-os125gd21lr-mns-0fee3ccaef",
+      "name": "OS125GD21LR-MNS",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125gd21lr-mns-0fee3ccaef",
+      "recordPath": "equipment/mfr-abb-os125gd21lr-mns-0fee3ccaef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125gd21lr-mns-0fee3ccaef.json"
+    },
+    {
+      "id": "mfr-abb-os125gd40f-5711ab9798",
+      "name": "OS125GD40F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125gd40f-5711ab9798",
+      "recordPath": "equipment/mfr-abb-os125gd40f-5711ab9798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125gd40f-5711ab9798.json"
+    },
+    {
+      "id": "mfr-abb-os160gb03n3-42-9ab0cde0e0",
+      "name": "OS160GB03N3-42",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gb03n3-42-9ab0cde0e0",
+      "recordPath": "equipment/mfr-abb-os160gb03n3-42-9ab0cde0e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gb03n3-42-9ab0cde0e0.json"
+    },
+    {
+      "id": "mfr-abb-os160gd03bb-kd-875557ea63",
+      "name": "OS160GD03BB-KD",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gd03bb-kd-875557ea63",
+      "recordPath": "equipment/mfr-abb-os160gd03bb-kd-875557ea63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gd03bb-kd-875557ea63.json"
+    },
+    {
+      "id": "mfr-abb-os160gd22lr-mns-d3c787f71a",
+      "name": "OS160GD22LR-MNS",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gd22lr-mns-d3c787f71a",
+      "recordPath": "equipment/mfr-abb-os160gd22lr-mns-d3c787f71a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gd22lr-mns-d3c787f71a.json"
+    },
+    {
+      "id": "mfr-abb-os160gd30-236292d369",
+      "name": "OS160GD30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os160gd30-236292d369",
+      "recordPath": "equipment/mfr-abb-os160gd30-236292d369.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os160gd30-236292d369.json"
+    },
+    {
+      "id": "mfr-abb-os200b04f-b1eec36e6b",
+      "name": "OS200B04F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200b04f-b1eec36e6b",
+      "recordPath": "equipment/mfr-abb-os200b04f-b1eec36e6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200b04f-b1eec36e6b.json"
+    },
+    {
+      "id": "mfr-abb-os200b04n2k-bf57b88353",
+      "name": "OS200B04N2K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200b04n2k-bf57b88353",
+      "recordPath": "equipment/mfr-abb-os200b04n2k-bf57b88353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200b04n2k-bf57b88353.json"
+    },
+    {
+      "id": "mfr-abb-os200bs03-7cade45850",
+      "name": "OS200BS03",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200bs03-7cade45850",
+      "recordPath": "equipment/mfr-abb-os200bs03-7cade45850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200bs03-7cade45850.json"
+    },
+    {
+      "id": "mfr-abb-os200bs04n2-46adb7b2b2",
+      "name": "OS200BS04N2",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200bs04n2-46adb7b2b2",
+      "recordPath": "equipment/mfr-abb-os200bs04n2-46adb7b2b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200bs04n2-46adb7b2b2.json"
+    },
+    {
+      "id": "mfr-abb-os200bs30-4be24f4c49",
+      "name": "OS200BS30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200bs30-4be24f4c49",
+      "recordPath": "equipment/mfr-abb-os200bs30-4be24f4c49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200bs30-4be24f4c49.json"
+    },
+    {
+      "id": "mfr-abb-os200bs40n2-f532e5efa5",
+      "name": "OS200BS40N2",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200bs40n2-f532e5efa5",
+      "recordPath": "equipment/mfr-abb-os200bs40n2-f532e5efa5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200bs40n2-f532e5efa5.json"
+    },
+    {
+      "id": "mfr-abb-os200d04fk-a05bca6e14",
+      "name": "OS200D04FK",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d04fk-a05bca6e14",
+      "recordPath": "equipment/mfr-abb-os200d04fk-a05bca6e14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d04fk-a05bca6e14.json"
+    },
+    {
+      "id": "mfr-abb-os200d10-98d2527417",
+      "name": "OS200D10",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d10-98d2527417",
+      "recordPath": "equipment/mfr-abb-os200d10-98d2527417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d10-98d2527417.json"
+    },
+    {
+      "id": "mfr-abb-os200d20-17032693b7",
+      "name": "OS200D20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d20-17032693b7",
+      "recordPath": "equipment/mfr-abb-os200d20-17032693b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d20-17032693b7.json"
+    },
+    {
+      "id": "mfr-abb-os200d30-fe5601ab53",
+      "name": "OS200D30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d30-fe5601ab53",
+      "recordPath": "equipment/mfr-abb-os200d30-fe5601ab53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d30-fe5601ab53.json"
+    },
+    {
+      "id": "mfr-abb-os200d40f-28ac0166d5",
+      "name": "OS200D40F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200d40f-28ac0166d5",
+      "recordPath": "equipment/mfr-abb-os200d40f-28ac0166d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200d40f-28ac0166d5.json"
+    },
+    {
+      "id": "mfr-abb-os200j04f-44e78f42d5",
+      "name": "OS200J04F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200j04f-44e78f42d5",
+      "recordPath": "equipment/mfr-abb-os200j04f-44e78f42d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200j04f-44e78f42d5.json"
+    },
+    {
+      "id": "mfr-abb-os200j30-5a039a244d",
+      "name": "OS200J30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200j30-5a039a244d",
+      "recordPath": "equipment/mfr-abb-os200j30-5a039a244d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200j30-5a039a244d.json"
+    },
+    {
+      "id": "mfr-abb-os200js03-adfffbcff6",
+      "name": "OS200JS03",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os200js03-adfffbcff6",
+      "recordPath": "equipment/mfr-abb-os200js03-adfffbcff6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os200js03-adfffbcff6.json"
+    },
+    {
+      "id": "mfr-abb-os250b21lr-os250d21lr-17a626e58b",
+      "name": "OS250B21LR, OS250D21LR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250b21lr-os250d21lr-17a626e58b",
+      "recordPath": "equipment/mfr-abb-os250b21lr-os250d21lr-17a626e58b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250b21lr-os250d21lr-17a626e58b.json"
+    },
+    {
+      "id": "mfr-abb-os250b22-ef59948600",
+      "name": "OS250B22",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250b22-ef59948600",
+      "recordPath": "equipment/mfr-abb-os250b22-ef59948600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250b22-ef59948600.json"
+    },
+    {
+      "id": "mfr-abb-os250d02-os250b02-17b5db22f2",
+      "name": "OS250D02, OS250B02",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d02-os250b02-17b5db22f2",
+      "recordPath": "equipment/mfr-abb-os250d02-os250b02-17b5db22f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d02-os250b02-17b5db22f2.json"
+    },
+    {
+      "id": "mfr-abb-os250d02k-os250b02k-ea38019551",
+      "name": "OS250D02K, OS250B02K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d02k-os250b02k-ea38019551",
+      "recordPath": "equipment/mfr-abb-os250d02k-os250b02k-ea38019551.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d02k-os250b02k-ea38019551.json"
+    },
+    {
+      "id": "mfr-abb-os250d03bb-d83fe62384",
+      "name": "OS250D03BB",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d03bb-d83fe62384",
+      "recordPath": "equipment/mfr-abb-os250d03bb-d83fe62384.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d03bb-d83fe62384.json"
+    },
+    {
+      "id": "mfr-abb-os250d03bb-kd-a369d2ed3b",
+      "name": "OS250D03BB-KD",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d03bb-kd-a369d2ed3b",
+      "recordPath": "equipment/mfr-abb-os250d03bb-kd-a369d2ed3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d03bb-kd-a369d2ed3b.json"
+    },
+    {
+      "id": "mfr-abb-os250d03k-os250b03k-b09833b892",
+      "name": "OS250D03K, OS250B03K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d03k-os250b03k-b09833b892",
+      "recordPath": "equipment/mfr-abb-os250d03k-os250b03k-b09833b892.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d03k-os250b03k-b09833b892.json"
+    },
+    {
+      "id": "mfr-abb-os250d03p-42-9653d830c2",
+      "name": "OS250D03P-42",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d03p-42-9653d830c2",
+      "recordPath": "equipment/mfr-abb-os250d03p-42-9653d830c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d03p-42-9653d830c2.json"
+    },
+    {
+      "id": "mfr-abb-os250d04n2k-os250b04n2k-4335024421",
+      "name": "OS250D04N2K, OS250B04N2K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d04n2k-os250b04n2k-4335024421",
+      "recordPath": "equipment/mfr-abb-os250d04n2k-os250b04n2k-4335024421.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d04n2k-os250b04n2k-4335024421.json"
+    },
+    {
+      "id": "mfr-abb-os250d10-b1a24414c0",
+      "name": "OS250D10",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d10-b1a24414c0",
+      "recordPath": "equipment/mfr-abb-os250d10-b1a24414c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d10-b1a24414c0.json"
+    },
+    {
+      "id": "mfr-abb-os250d12bb-bdc02ac29c",
+      "name": "OS250D12BB",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d12bb-bdc02ac29c",
+      "recordPath": "equipment/mfr-abb-os250d12bb-bdc02ac29c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d12bb-bdc02ac29c.json"
+    },
+    {
+      "id": "mfr-abb-os250d12lr-df27e43330",
+      "name": "OS250D12LR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d12lr-df27e43330",
+      "recordPath": "equipment/mfr-abb-os250d12lr-df27e43330.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d12lr-df27e43330.json"
+    },
+    {
+      "id": "mfr-abb-os250d20-83ab6d6830",
+      "name": "OS250D20",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d20-83ab6d6830",
+      "recordPath": "equipment/mfr-abb-os250d20-83ab6d6830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d20-83ab6d6830.json"
+    },
+    {
+      "id": "mfr-abb-os250d30-os250b30-0da8a15143",
+      "name": "OS250D30, OS250B30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250d30-os250b30-0da8a15143",
+      "recordPath": "equipment/mfr-abb-os250d30-os250b30-0da8a15143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250d30-os250b30-0da8a15143.json"
+    },
+    {
+      "id": "mfr-abb-os250ds03-os250bs03-734faace6b",
+      "name": "OS250DS03, OS250BS03",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os250ds03-os250bs03-734faace6b",
+      "recordPath": "equipment/mfr-abb-os250ds03-os250bs03-734faace6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os250ds03-os250bs03-734faace6b.json"
+    },
+    {
+      "id": "mfr-abb-os30faj12-24777b0a4a",
+      "name": "OS30FAJ12",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os30faj12-24777b0a4a",
+      "recordPath": "equipment/mfr-abb-os30faj12-24777b0a4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30faj12-24777b0a4a.json"
+    },
+    {
+      "id": "mfr-abb-os30faj22f-d94f8e7ac4",
+      "name": "OS30FAJ22F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os30faj22f-d94f8e7ac4",
+      "recordPath": "equipment/mfr-abb-os30faj22f-d94f8e7ac4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30faj22f-d94f8e7ac4.json"
+    },
+    {
+      "id": "mfr-abb-os30fajs30-2d73f166bd",
+      "name": "OS30FAJS30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os30fajs30-2d73f166bd",
+      "recordPath": "equipment/mfr-abb-os30fajs30-2d73f166bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os30fajs30-2d73f166bd.json"
+    },
+    {
+      "id": "mfr-abb-os315-400b02-516ed4642d",
+      "name": "OS315-400B02",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os315-400b02-516ed4642d",
+      "recordPath": "equipment/mfr-abb-os315-400b02-516ed4642d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os315-400b02-516ed4642d.json"
+    },
+    {
+      "id": "mfr-abb-os315-400b03-d9170452f7",
+      "name": "OS315-400B03",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os315-400b03-d9170452f7",
+      "recordPath": "equipment/mfr-abb-os315-400b03-d9170452f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os315-400b03-d9170452f7.json"
+    },
+    {
+      "id": "mfr-abb-os315-400b04f-865eb74e96",
+      "name": "OS315-400B04F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os315-400b04f-865eb74e96",
+      "recordPath": "equipment/mfr-abb-os315-400b04f-865eb74e96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os315-400b04f-865eb74e96.json"
+    },
+    {
+      "id": "mfr-abb-os315-400j-b21-c5620fb979",
+      "name": "OS315-400J B21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os315-400j-b21-c5620fb979",
+      "recordPath": "equipment/mfr-abb-os315-400j-b21-c5620fb979.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os315-400j-b21-c5620fb979.json"
+    },
+    {
+      "id": "mfr-abb-os32-63gb22n1-df819e3955",
+      "name": "OS32-63GB22N1",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os32-63gb22n1-df819e3955",
+      "recordPath": "equipment/mfr-abb-os32-63gb22n1-df819e3955.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os32-63gb22n1-df819e3955.json"
+    },
+    {
+      "id": "mfr-abb-os32-63gd04fk-646e8749e0",
+      "name": "OS32-63GD04FK",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os32-63gd04fk-646e8749e0",
+      "recordPath": "equipment/mfr-abb-os32-63gd04fk-646e8749e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os32-63gd04fk-646e8749e0.json"
+    },
+    {
+      "id": "mfr-abb-os32-63gd21-os32-63gb21-os50gf21-d1b11c0202",
+      "name": "OS32-63GD21, OS32-63GB21, OS50GF21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os32-63gd21-os32-63gb21-os50gf21-d1b11c0202",
+      "recordPath": "equipment/mfr-abb-os32-63gd21-os32-63gb21-os50gf21-d1b11c0202.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os32-63gd21-os32-63gb21-os50gf21-d1b11c0202.json"
+    },
+    {
+      "id": "mfr-abb-os400d03bb-a5bdbc3095",
+      "name": "OS400D03BB",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d03bb-a5bdbc3095",
+      "recordPath": "equipment/mfr-abb-os400d03bb-a5bdbc3095.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d03bb-a5bdbc3095.json"
+    },
+    {
+      "id": "mfr-abb-os400d03bb-kd-da66dd41db",
+      "name": "OS400D03BB-KD",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d03bb-kd-da66dd41db",
+      "recordPath": "equipment/mfr-abb-os400d03bb-kd-da66dd41db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d03bb-kd-da66dd41db.json"
+    },
+    {
+      "id": "mfr-abb-os400d12bbp-508d233bc9",
+      "name": "OS400D12BBP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d12bbp-508d233bc9",
+      "recordPath": "equipment/mfr-abb-os400d12bbp-508d233bc9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d12bbp-508d233bc9.json"
+    },
+    {
+      "id": "mfr-abb-os400d21-62985312fc",
+      "name": "OS400D21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d21-62985312fc",
+      "recordPath": "equipment/mfr-abb-os400d21-62985312fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d21-62985312fc.json"
+    },
+    {
+      "id": "mfr-abb-os400d21lr-os400b21lr-da16147c8f",
+      "name": "OS400D21LR, OS400B21LR",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d21lr-os400b21lr-da16147c8f",
+      "recordPath": "equipment/mfr-abb-os400d21lr-os400b21lr-da16147c8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d21lr-os400b21lr-da16147c8f.json"
+    },
+    {
+      "id": "mfr-abb-os400d30-cf59cc424b",
+      "name": "OS400D30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d30-cf59cc424b",
+      "recordPath": "equipment/mfr-abb-os400d30-cf59cc424b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d30-cf59cc424b.json"
+    },
+    {
+      "id": "mfr-abb-os400d31n2-524eac8368",
+      "name": "OS400D31N2",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d31n2-524eac8368",
+      "recordPath": "equipment/mfr-abb-os400d31n2-524eac8368.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d31n2-524eac8368.json"
+    },
+    {
+      "id": "mfr-abb-os400d40f-cf41b9ed0c",
+      "name": "OS400D40F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400d40f-cf41b9ed0c",
+      "recordPath": "equipment/mfr-abb-os400d40f-cf41b9ed0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400d40f-cf41b9ed0c.json"
+    },
+    {
+      "id": "mfr-abb-os400ds04f-3937dee35d",
+      "name": "OS400DS04F",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400ds04f-3937dee35d",
+      "recordPath": "equipment/mfr-abb-os400ds04f-3937dee35d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400ds04f-3937dee35d.json"
+    },
+    {
+      "id": "mfr-abb-os400ds40k-ea3775fcec",
+      "name": "OS400DS40K",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400ds40k-ea3775fcec",
+      "recordPath": "equipment/mfr-abb-os400ds40k-ea3775fcec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400ds40k-ea3775fcec.json"
+    },
+    {
+      "id": "mfr-abb-os400j30-d1175e674e",
+      "name": "OS400J30",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os400j30-d1175e674e",
+      "recordPath": "equipment/mfr-abb-os400j30-d1175e674e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os400j30-d1175e674e.json"
+    },
+    {
+      "id": "mfr-abb-os40fd12000-b4f5ecb59a",
+      "name": "OS40FD12000",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os40fd12000-b4f5ecb59a",
+      "recordPath": "equipment/mfr-abb-os40fd12000-b4f5ecb59a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os40fd12000-b4f5ecb59a.json"
+    },
+    {
+      "id": "mfr-abb-os40fd22000n1-2-2765c8cb55",
+      "name": "OS40FD22000N1-2",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os40fd22000n1-2-2765c8cb55",
+      "recordPath": "equipment/mfr-abb-os40fd22000n1-2-2765c8cb55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os40fd22000n1-2-2765c8cb55.json"
+    },
+    {
+      "id": "mfr-abb-os600j02-os630-800d02-os630-800b02-e1a55bd38e",
+      "name": "OS600J02, OS630-800D02, OS630-800B02",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os600j02-os630-800d02-os630-800b02-e1a55bd38e",
+      "recordPath": "equipment/mfr-abb-os600j02-os630-800d02-os630-800b02-e1a55bd38e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os600j02-os630-800d02-os630-800b02-e1a55bd38e.json"
+    },
+    {
+      "id": "mfr-abb-os600j04-os630-800d04-os800l04-87787ef41a",
+      "name": "OS600J04, OS630-800D04, OS800L04",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os600j04-os630-800d04-os800l04-87787ef41a",
+      "recordPath": "equipment/mfr-abb-os600j04-os630-800d04-os800l04-87787ef41a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os600j04-os630-800d04-os800l04-87787ef41a.json"
+    },
+    {
+      "id": "mfr-abb-os600j21-os630-800d21-os630-800b21-3a3e17e5a5",
+      "name": "OS600J21, OS630-800D21, OS630-800B21",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os600j21-os630-800d21-os630-800b21-3a3e17e5a5",
+      "recordPath": "equipment/mfr-abb-os600j21-os630-800d21-os630-800b21-3a3e17e5a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os600j21-os630-800d21-os630-800b21-3a3e17e5a5.json"
+    },
+    {
+      "id": "mfr-abb-os600j22-os630-800d22-os800l22-11e1af4877",
+      "name": "OS600J22, OS630-800D22, OS800L22",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os600j22-os630-800d22-os800l22-11e1af4877",
+      "recordPath": "equipment/mfr-abb-os600j22-os630-800d22-os800l22-11e1af4877.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os600j22-os630-800d22-os800l22-11e1af4877.json"
+    },
+    {
+      "id": "mfr-abb-os60gj30k-f5d6be94f6",
+      "name": "OS60GJ30K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os60gj30k-f5d6be94f6",
+      "recordPath": "equipment/mfr-abb-os60gj30k-f5d6be94f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os60gj30k-f5d6be94f6.json"
+    },
+    {
+      "id": "mfr-abb-os630-800b04n1-382cfb19c8",
+      "name": "OS630-800B04N1",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os630-800b04n1-382cfb19c8",
+      "recordPath": "equipment/mfr-abb-os630-800b04n1-382cfb19c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os630-800b04n1-382cfb19c8.json"
+    },
+    {
+      "id": "mfr-abb-os630-800b12-68cd0158ab",
+      "name": "OS630-800B12",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os630-800b12-68cd0158ab",
+      "recordPath": "equipment/mfr-abb-os630-800b12-68cd0158ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os630-800b12-68cd0158ab.json"
+    },
+    {
+      "id": "mfr-abb-os630-800d03-390f4f75c8",
+      "name": "OS630-800D03",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os630-800d03-390f4f75c8",
+      "recordPath": "equipment/mfr-abb-os630-800d03-390f4f75c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os630-800d03-390f4f75c8.json"
+    },
+    {
+      "id": "mfr-abb-os630-800d03k-os630-800b03k-os600j03k-80dd00cd9b",
+      "name": "OS630-800D03K, OS630-800B03K, OS600J03K",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os630-800d03k-os630-800b03k-os600j03k-80dd00cd9b",
+      "recordPath": "equipment/mfr-abb-os630-800d03k-os630-800b03k-os600j03k-80dd00cd9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os630-800d03k-os630-800b03k-os600j03k-80dd00cd9b.json"
+    },
+    {
+      "id": "mfr-abb-os630-800d04-12676cde68",
+      "name": "OS630-800D04",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os630-800d04-12676cde68",
+      "recordPath": "equipment/mfr-abb-os630-800d04-12676cde68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os630-800d04-12676cde68.json"
+    }
+  ]
+}

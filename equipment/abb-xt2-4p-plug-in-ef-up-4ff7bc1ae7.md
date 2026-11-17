@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN EF UP: breaker or breaker-accessory reference for breaker com
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0320
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT2 4p PLUG-IN EF UP”. Keep those frame, moun
 - Model envelope: 1SDH001295R0320\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_EF\_SUP.stp: 102 × 5.9 × 41.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0362
 - Model envelope: 1SDH001295R0362\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_EF\_SUP.stp: 102 × 5.9 × 41.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 112909 bytes
 - Delivery SHA-256: f19074e3c5ac0178a54f69d65d97c8aa7db83d96f0585bd7ec994d0989b57d7a
 
+### 1SDH001295R0320\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_EF\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0320\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_EF\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0320&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-ef-up-4ff7bc1ae7/f19074e3c5ac0178a54f-dxf)
+- Redistribution: unknown
+- Original SHA-256: f19074e3c5ac0178a54f69d65d97c8aa7db83d96f0585bd7ec994d0989b57d7a
+- Original bytes: 112909
+- Revision: A
+- Retrieved: 2026-11-03T01:46:53.508463Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0320&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0320&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 71266 bytes
+- Delivery SHA-256: 68c7a7b051a201ce4fcb7e0d3d1e0b87703c3468dda3a3a32759696c437cef51
+
 ### 1SDH001295R0362\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_EF\_SUP.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0362&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 112919 bytes
 - Delivery SHA-256: da41b71e93e232d851e691d99523246c2f7486d425c5e6deb9b731149ac88027
+
+### 1SDH001295R0362\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_EF\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0362\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_EF\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0362&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-ef-up-4ff7bc1ae7/da41b71e93e232d851e6-dxf)
+- Redistribution: unknown
+- Original SHA-256: da41b71e93e232d851e691d99523246c2f7486d425c5e6deb9b731149ac88027
+- Original bytes: 112919
+- Revision: A
+- Retrieved: 2026-11-03T01:46:53.946058Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0362&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0362&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 71266 bytes
+- Delivery SHA-256: f9a7afa43dc667faaa26f935e6b24d7beeb58061a94cdece804113e682c33de2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

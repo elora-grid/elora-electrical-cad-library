@@ -25,6 +25,7 @@ Manufacturer reference sgc-120-mk-ii-data-sheet-4921240652-uk.pdf; sgc-120-mk-ii
 - Manufacturer drawing: sgc-120-mk-ii-data-sheet-4921240652-uk.pdf; sgc-120-mk-ii-user-manual-4189341364-uk.pdf; sgc-120-mk-ii-3d-step-file.stp
 - Manufacturer reference: sgc-120-mk-ii-data-sheet-4921240652-uk.pdf; sgc-120-mk-ii-user-manual-4189341364-uk.pdf; sgc-120-mk-ii-3d-step-file.stp; sgc-120-mk-ii-2d-cad-drawing.dwg
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-2
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

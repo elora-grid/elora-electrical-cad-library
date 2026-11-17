@@ -8,7 +8,7 @@ ABB 35LYE5351\_17.71: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYE5351\_17.71; 35LYE5351
-- Formats: DWG, IGS, PDF, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “35LYE5351\_17.71”. Keep those frame, mounting
 - Document revision: D
 - Motor drawing designation (35LYE5351): HOR 143-5TC TEFC 35B ECS, ODE MOUNT DRV, BALDOR INT SH GND
 - Manufacturer reference: 35LYE5351
-- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5351_17.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 502455 bytes
 - Delivery SHA-256: 34d482c4b0ab2c0c15630b15cc88459af3fabcd61455b647a999cf0792399088
+
+### 35LYE5351\_17.71.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE5351\_17.71.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5351_17.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye5351-17-71-dwg-2d-autocad-dwg-2000-4cc8c57c4d/34d482c4b0ab2c0c1563-dxf)
+- Redistribution: unknown
+- Original SHA-256: 34d482c4b0ab2c0c15630b15cc88459af3fabcd61455b647a999cf0792399088
+- Original bytes: 502455
+- Revision: D
+- Retrieved: 2026-11-04T00:59:09Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5351_17.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5351_17.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 1677753 bytes
+- Delivery SHA-256: c1b6600c7c5715eccaa8b88581bb18d95bd601736af54d84dfc466afda872a75
 
 ### 35LYE5351.pdf
 

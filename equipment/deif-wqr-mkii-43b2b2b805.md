@@ -24,6 +24,7 @@ Manufacturer reference WQR MKII identifies this control-equipment reference.
 - Resource type: Product
 - Manufacturer drawing: WQR MKII
 - Manufacturer lifecycle: Active
+- Standards: IEC 62053-21, IEC 62052-11, IEC 62053-23, IEC 61010-1, IEC 60533, IEC 60529
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

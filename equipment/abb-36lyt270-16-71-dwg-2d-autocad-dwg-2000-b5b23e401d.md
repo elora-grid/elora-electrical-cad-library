@@ -8,7 +8,7 @@ ABB 36LYT270\_16.71: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 36LYT270\_16.71; 36LYT270
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “36LYT270\_16.71”. Keep those frame, mounting 
 - Motor drawing designation (36LYT270): VERT 182-4TC TEFC 36B, TOP MOUNT DRV, BALDOR INT SH GND, ECS
 - Manufacturer reference: 36LYT270\_18.21; 36LYT270
 - Manufacturer reference: 36LYT270
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 9
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 11
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
@@ -123,6 +123,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 1029526 bytes
 - Delivery SHA-256: 84ea660c50a77c127e4f9898e196af505b88e7ba378b3215bc1021c539a1cf42
 
+### 36LYT270\_16.71.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (36LYT270\_16.71.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_16.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyt270-16-71-dwg-2d-autocad-dwg-2000-b5b23e401d/84ea660c50a77c127e4f-dxf)
+- Redistribution: unknown
+- Original SHA-256: 84ea660c50a77c127e4f9898e196af505b88e7ba378b3215bc1021c539a1cf42
+- Original bytes: 1029526
+- Revision: E
+- Retrieved: 2026-11-04T01:00:48Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_16.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_16.71&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Delivery: converted; DXF; 2591359 bytes
+- Delivery SHA-256: ad4a783b8fdee38dc39cb2cc1c743258fcd7da592c86cb429a944486f9faed3d
+
 ### 36LYT270.pdf
 
 - Format: PDF
@@ -179,6 +198,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_18.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; DWG; 1027691 bytes
 - Delivery SHA-256: 8776f6292a07f6a9e12c2152dd3f5acdfc43d93d4f182929b435d3a24c859c6d
+
+### 36LYT270\_18.21.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (36LYT270\_18.21.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_18.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyt270-16-71-dwg-2d-autocad-dwg-2000-b5b23e401d/8776f6292a07f6a9e12c-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8776f6292a07f6a9e12c2152dd3f5acdfc43d93d4f182929b435d3a24c859c6d
+- Original bytes: 1027691
+- Revision: E
+- Retrieved: 2026-11-04T01:00:48Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_18.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYT270_18.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Delivery: converted; DXF; 2583596 bytes
+- Delivery SHA-256: dee756a22d5cb14e3797c82316d5c4d5399942eed3eeeb8ec500a3271d3b54f6
 
 ### 36LYT270\_16.71.sat
 

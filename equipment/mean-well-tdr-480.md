@@ -22,6 +22,7 @@ The native product identifies TDR-480-3D. Use the model with its own manufacture
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: TDR-480-24, TDR-480-48
+- Standards: IEC 62368-1, AS/NZS 62368.1, UL 508, UL 62368-1, EN 55032, IEC 61204-3, IEC 61000-3-2, IEC 61000-3-3, EN 55035
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

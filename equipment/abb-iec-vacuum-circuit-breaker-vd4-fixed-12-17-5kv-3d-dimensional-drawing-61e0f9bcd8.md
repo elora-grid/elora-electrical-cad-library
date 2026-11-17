@@ -25,6 +25,7 @@ The supplied configuration is “IEC Vacuum Circuit Breaker VD4 fixed 12/17,5kV 
 - Manufacturer drawing: TN7407.R0005\_3D; 3XAA024447\_2D
 - Manufacturer reference: TN7407.R0005\_3D; 3XAA024447\_2D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: PDF, STEP
 - Listed files: 2
 - Available previews: No browser preview; original files are downloadable

@@ -8,7 +8,7 @@ ABB E4.2/E4.3 IV W TERMINALS VR LOWER 2500A - UL: breaker connection or accessor
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0219
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ This reference covers the connection or accessory named in “E4.2/E4.3 IV W TER
 - Manufacturer reference: 1SDH001336R0219
 - Document revision: A
 - Model envelope: 1SDH001336R0219\_1PA\_001\_00\_E4.2\_W\_IV\_TERMINALS\_VR\_UL\_LOWER\_2500A.stp: 458 × 116.5 × 80 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -100,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0219&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1595493 bytes
 - Delivery SHA-256: 8dc5890d599d69563dac01e8320f6d66b68277b6c7d935fd2b7892dce21b29bd
+
+### 1SDH001336R0219\_1PA\_001\_00\_E4.2\_W\_IV\_TERMINALS\_VR\_UL\_LOWER\_2500A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0219\_1PA\_001\_00\_E4.2\_W\_IV\_TERMINALS\_VR\_UL\_LOWER\_2500A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0219&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-w-terminals-vr-lower-2500a-ul-d0b84753c2/8dc5890d599d69563dac-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8dc5890d599d69563dac01e8320f6d66b68277b6c7d935fd2b7892dce21b29bd
+- Original bytes: 1595493
+- Revision: A
+- Retrieved: 2026-11-03T01:56:10.878196Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0219&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0219&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 259782 bytes
+- Delivery SHA-256: 63ea57cb2819f7101a0fcb498847e04e662b2649503189f9d98760c1572e7abd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

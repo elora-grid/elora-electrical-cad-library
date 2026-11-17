@@ -1,0 +1,124 @@
+# Eaton — NZM1-4-XRAV — Propulsion;on rear;4p;lockable
+
+Eaton NZM1-4-XRAV — Propulsion;on rear;4p;lockable. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107246) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-107246.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-107246.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/96b76b34-6961-4d6b-bd1c-393c42f29e44/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 107246
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NZM1-4-XRAV — Propulsion;on rear;4p;lockable
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 107246
+- Manufacturer reference: 107246
+- Manufacturer type: NZM1-4-XRAV
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 107246 ([source](https://ecat.eaton.com/downloads/96b76b34-6961-4d6b-bd1c-393c42f29e44/cad_files_001.zip))
+- Manufacturer type: NZM1-4-XRAV ([source](https://ecat.eaton.com/downloads/96b76b34-6961-4d6b-bd1c-393c42f29e44/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/96b76b34-6961-4d6b-bd1c-393c42f29e44/cad_files_001.zip))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use nzm1\_4\_xrav.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm1\_4\_xrav.stp.
+
+Use nzm1\_4\_xrav.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm1\_4\_xrav.stp. Use eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 107246 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NZM1-4-XRAV — Propulsion;on rear;4p;lockable?
+
+2 inspected originals for Eaton NZM1-4-XRAV — Propulsion;on rear;4p;lockable: nzm1\_4\_xrav.stp (STEP); eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/96b76b34-6961-4d6b-bd1c-393c42f29e44/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/96b76b34-6961-4d6b-bd1c-393c42f29e44/cad_files_001.zip)
+
+## Choosing a file
+
+Use nzm1\_4\_xrav.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm1\_4\_xrav.stp. Use eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg.
+
+## Preview
+
+![Eaton NZM1-4-XRAV — Propulsion;on rear;4p;lockable: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-107246/native-d0ddafddba381f60a34c9193-dwg?asset=d0ddafddba381f60a34c91938dde3d61b858af314efbc6c1cf31c7d063d8161a)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-107246). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### nzm1\_4\_xrav.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_4_xrav.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-107246/native-a58b95ac0e4fb615556129cd-step)
+- Redistribution: unknown
+- Original SHA-256: a58b95ac0e4fb615556129cdfb26c7fdfff988e699b6db8f679e0888f665cd14
+- Original bytes: 387746
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_4_xrav.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm1_4_xrav.stp)
+- Delivery: source-bundle; ZIP; 62082 bytes
+- Delivery SHA-256: f4e690725fac6d5c79b04ff5236ae886fdd2c9908fa462cba995a4cc50385b42
+
+### eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-107246/native-d0ddafddba381f60a34c9193-dwg)
+- Redistribution: unknown
+- Original SHA-256: d0ddafddba381f60a34c91938dde3d61b858af314efbc6c1cf31c7d063d8161a
+- Original bytes: 493677
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg03/eaton-handle-mechanisms-mcad-drawings-nzm1-4-xrav.dwg)
+- Delivery: source-bundle; ZIP; 347417 bytes
+- Delivery SHA-256: 6d0addb5b84b7b7ca4ba34d7a7685470ce66b446b0b07f444b72269b65a232ca
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

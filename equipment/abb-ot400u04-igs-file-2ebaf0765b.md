@@ -26,6 +26,7 @@ The supplied configuration is “OT400U04”. Keep those frame, mounting and acc
 - Manufacturer drawing: OT400U04.IGS
 - Manufacturer reference: OT400U04.IGS
 - Document revision: A
+- Standards: IEC 60947-3, UL 98, CSA C22.2 No. 4
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

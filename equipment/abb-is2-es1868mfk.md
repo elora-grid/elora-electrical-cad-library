@@ -1,0 +1,129 @@
+# ABB — IS2 component ES1868MFK
+
+ABB IS2 component ES1868MFK. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-es1868mfk) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/abb-is2-es1868mfk.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/abb-is2-es1868mfk.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: ES1868MFK
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: IS2 component ES1868MFK
+- Manufacturer: ABB
+- Resource type: Product
+- Part number: ES1868MFK
+- Manufacturer reference: ES1868MFK
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: ES1868MFK ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+- Available native formats: DWG / STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+ES1868MFK.zip is the original ABB archive. Open ES1868MFK.stp inside it to place the original solid geometry in your 3D assembly.
+
+ES1868MFK.zip is the original ABB archive. Open ES1868MFK.stp inside it to place the original solid geometry in your 3D assembly. Use ES1868MFK.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ES1868MFK.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB ES1868MFK and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for IS2 component ES1868MFK?
+
+2 inspected originals for ABB IS2 component ES1868MFK: ES1868MFK.zip (ZIP); ES1868MFK.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+
+## Choosing a file
+
+ES1868MFK.zip is the original ABB archive. Open ES1868MFK.stp inside it to place the original solid geometry in your 3D assembly. Use ES1868MFK.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified ES1868MFK.dwg.
+
+## Preview
+
+![ABB IS2 component ES1868MFK: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-is2-es1868mfk/native-3de20aa349dc04054fcf4fce-dwg?asset=3de20aa349dc04054fcf4fce3416c35240e67fce9c0f5b915d0f46adbd3d2f22)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-is2-es1868mfk). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### ES1868MFK.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-es1868mfk/native-1689225e92aee9cb9a0b279c-zip)
+- Redistribution: unknown
+- Original SHA-256: 1689225e92aee9cb9a0b279c1c6ca115971b5ca63810164cd3fa5502280c16ff
+- Original bytes: 1640750
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106713A1191&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=D)
+- Delivery: original; ZIP; 1640750 bytes
+- Delivery SHA-256: 1689225e92aee9cb9a0b279c1c6ca115971b5ca63810164cd3fa5502280c16ff
+
+<details>
+<summary>Archive members</summary>
+
+- ES1868MFK.stp
+
+</details>
+
+### ES1868MFK.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-is2-es1868mfk/native-3de20aa349dc04054fcf4fce-dwg)
+- Redistribution: unknown
+- Original SHA-256: 3de20aa349dc04054fcf4fce3416c35240e67fce9c0f5b915d0f46adbd3d2f22
+- Original bytes: 2727460
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108469A4155&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=E)
+- Delivery: source-bundle; ZIP; 813950 bytes
+- Delivery SHA-256: 525ce71c79b21bcd58f82201ac0d17f7d5102d6c1396c0257efc581a92f0f035
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

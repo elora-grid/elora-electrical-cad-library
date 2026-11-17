@@ -1,0 +1,160 @@
+# Weidmüller — ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange
+
+Weidmüller ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1791070000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1791070000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1791070000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zaptw-zdk2-5-2-or/p/1791070000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1791070000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1791070000
+- Manufacturer reference: 1791070000
+- Manufacturer type: ZAP/TW ZDK2.5-2 OR
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1791070000 ([source](https://eshop.weidmueller.com.cn/en/zaptw-zdk2-5-2-or/p/1791070000/downloads#engineering-support))
+- Manufacturer type: ZAP/TW ZDK2.5-2 OR ([source](https://eshop.weidmueller.com.cn/en/zaptw-zdk2-5-2-or/p/1791070000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zaptw-zdk2-5-2-or/p/1791070000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1791070000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1791070000\_back.DWG, 1791070000\_bottom.DWG, 1791070000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange before placing it.
+
+1791070000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1791070000\_back.DWG, 1791070000\_bottom.DWG, 1791070000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange before placing it. 1791070000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1791070000\_back.DXF, 1791070000\_bottom.DXF, 1791070000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange before placing it. Use 1791070000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1791070000.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1791070000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange?
+
+3 inspected originals for Weidmüller ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange: 1791070000\_DWG.zip (ZIP); 1791070000\_DXF.zip (ZIP); 1791070000.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zaptw-zdk2-5-2-or/p/1791070000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zaptw-zdk2-5-2-or/p/1791070000/downloads#engineering-support)
+
+## Choosing a file
+
+1791070000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1791070000\_back.DWG, 1791070000\_bottom.DWG, 1791070000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange before placing it. 1791070000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1791070000\_back.DXF, 1791070000\_bottom.DXF, 1791070000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZAP/TW ZDK2.5-2 OR — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 72 mm x 56 mm, orange before placing it. Use 1791070000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1791070000.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1791070000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/3830ee41-bfd8-4779-9ef0-8002a9246c24/original/1791070000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1791070000/native-58c9df29bfe56d7b15d5b9ec-zip)
+- Redistribution: unknown
+- Original SHA-256: 58c9df29bfe56d7b15d5b9ec3da3651b1806ab2a3048220cb87e62e78cceb2cd
+- Original bytes: 44343
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/3830ee41-bfd8-4779-9ef0-8002a9246c24/original/1791070000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/3830ee41-bfd8-4779-9ef0-8002a9246c24/original/1791070000_DWG.zip)
+- Delivery: original; ZIP; 44343 bytes
+- Delivery SHA-256: 58c9df29bfe56d7b15d5b9ec3da3651b1806ab2a3048220cb87e62e78cceb2cd
+
+<details>
+<summary>Archive members</summary>
+
+- 1791070000\_back.DWG
+- 1791070000\_bottom.DWG
+- 1791070000\_front.DWG
+- 1791070000\_left.DWG
+- 1791070000\_right.DWG
+- 1791070000\_top.DWG
+
+</details>
+
+### 1791070000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a7ddfaf3-5444-4e23-8ff7-6fdc6a430325/original/1791070000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1791070000/native-b4cd724e330bc10e3edf10a4-zip)
+- Redistribution: unknown
+- Original SHA-256: b4cd724e330bc10e3edf10a45cd5340b413d916d27357a099d80c474802f557a
+- Original bytes: 29169
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/a7ddfaf3-5444-4e23-8ff7-6fdc6a430325/original/1791070000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a7ddfaf3-5444-4e23-8ff7-6fdc6a430325/original/1791070000_DXF.zip)
+- Delivery: original; ZIP; 29169 bytes
+- Delivery SHA-256: b4cd724e330bc10e3edf10a45cd5340b413d916d27357a099d80c474802f557a
+
+<details>
+<summary>Archive members</summary>
+
+- 1791070000\_back.DXF
+- 1791070000\_bottom.DXF
+- 1791070000\_front.DXF
+- 1791070000\_left.DXF
+- 1791070000\_right.DXF
+- 1791070000\_top.DXF
+
+</details>
+
+### 1791070000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/f0e9b9d0-b54a-43dd-8ae5-9dabbbd29b7f/original/1791070000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1791070000/native-e1a725249f8fbd96e52f8064-step)
+- Redistribution: unknown
+- Original SHA-256: e1a725249f8fbd96e52f8064f49d49b71af6a0b37c6b9c4236e8436138cad4c5
+- Original bytes: 141264
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/f0e9b9d0-b54a-43dd-8ae5-9dabbbd29b7f/original/1791070000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/f0e9b9d0-b54a-43dd-8ae5-9dabbbd29b7f/original/1791070000.stp)
+- Delivery: source-bundle; ZIP; 28013 bytes
+- Delivery SHA-256: a1d905c28a1881ea08c2d1fee0f8e00f428e585e37d6837f09a62b6144a5e395
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

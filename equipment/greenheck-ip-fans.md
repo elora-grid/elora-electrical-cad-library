@@ -7,7 +7,7 @@ Manufacturer ventilation fans drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: IP
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: IP
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with IP. The files above belong to Greenheck's IP fans resource; match any model or option suffix in the filename to your selected unit.
-Available here: ZIP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: ZIP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -113,6 +113,26 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 637408 bytes
 - Delivery SHA-256: 207acbd775c41fed2236e7275a9ee6137600e876010933c4b9d6bed9c48c2444
 
+### IP-10-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (IP-10-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/IP-10-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-ip-fans/greenheck-ip-10-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 207acbd775c41fed2236e7275a9ee6137600e876010933c4b9d6bed9c48c2444
+- Original bytes: 637408
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 2112593 bytes
+- Delivery SHA-256: 22ce5605c8a05ab044715a6d91c50cef219691705bf1dc067617db0127598de5
+
 ### IP-11-1.dwg
 
 - Format: DWG
@@ -132,5 +152,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 472447 bytes
 - Delivery SHA-256: 7218933d11ac451545cc4689c538b9bc8e780c3e14283dfc3ffad1f93810b4e0
+
+### IP-11-1.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (IP-11-1.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/IP-11-1.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-ip-fans/greenheck-ip-11-1-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7218933d11ac451545cc4689c538b9bc8e780c3e14283dfc3ffad1f93810b4e0
+- Original bytes: 472447
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/fans)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 362200 bytes
+- Delivery SHA-256: 4fcb37870b6a689701b14eebea91b8b1b3408d9c7e3455a3d5f5761b34461621
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -8,7 +8,7 @@ ABB Tmax XT Ekip Cartridge 4 slots: breaker or breaker-accessory reference for b
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1530
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “Tmax XT Ekip Cartridge 4 slots”. Keep those f
 - Manufacturer drawing: 1SDH002065A1530
 - Manufacturer reference: 1SDH002065A1530
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1530&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 8604803 bytes
 - Delivery SHA-256: 6ac40876ecab1c29cc059cfbc7b5699d37487751e67167927885ba72a19a077d
+
+### 1SDH002065A1530\_Ekip\_Cartridge\_4\_slots.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1530\_Ekip\_Cartridge\_4\_slots.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1530&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-tmax-xt-ekip-cartridge-4-slots-be66b611f2/6ac40876ecab1c29cc05-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6ac40876ecab1c29cc059cfbc7b5699d37487751e67167927885ba72a19a077d
+- Original bytes: 8604803
+- Revision: A
+- Retrieved: 2026-11-04T01:10:05Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1530&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1530&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 308422 bytes
+- Delivery SHA-256: ee7a5c3d4728af42a481be1b1ffed924bae2c5ca3eba777efcbd3dffc0c50dcd
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

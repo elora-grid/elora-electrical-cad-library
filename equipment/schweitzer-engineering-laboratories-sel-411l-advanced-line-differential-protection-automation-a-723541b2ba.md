@@ -23,6 +23,7 @@ Manufacturer reference SEL-411L Advanced Line Differential Protection, Automatio
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-411L Advanced Line Differential Protection, Automation, and Control System
+- Standards: IEC 60255-149, IEEE C37.111
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

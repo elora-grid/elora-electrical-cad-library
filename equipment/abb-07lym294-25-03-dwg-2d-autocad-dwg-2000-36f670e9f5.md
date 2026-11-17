@@ -8,7 +8,7 @@ ABB 07LYM294\_25.03: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 07LYM294\_25.03; 07LYM294
-- Formats: DWG, PDF, SLDPRT
+- Formats: DWG, PDF, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “07LYM294\_25.03”. Keep those frame, mounting 
 - Document revision: B
 - Motor drawing designation (07LYM294): STD HORZ 213-5TC TEFC CP V\*S MASTER VECTOR W/ DYNAPAR HSD38
 - Manufacturer reference: 07LYM294
-- Listed file formats: DWG, PDF, SLDPRT
-- Listed files: 3
+- Listed file formats: DWG, PDF, SLDPRT, DXF
+- Listed files: 4
 - Available previews: 2 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -108,6 +108,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 3036143 bytes
 - Delivery SHA-256: f34947870e1b0472f06893e0a30074c0ef0a5053d76b2edd9d1ad20e42439a61
+
+### 07LYM294\_25.03.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (07LYM294\_25.03.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lym294-25-03-dwg-2d-autocad-dwg-2000-36f670e9f5/f34947870e1b0472f068-dxf)
+- Redistribution: unknown
+- Original SHA-256: f34947870e1b0472f06893e0a30074c0ef0a5053d76b2edd9d1ad20e42439a61
+- Original bytes: 3036143
+- Revision: B
+- Retrieved: 2026-11-04T00:24:30Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM294_25.03&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 9145936 bytes
+- Delivery SHA-256: 07c94783956f79bb8c438a7e5a3fe9367e9c42fd31a2318ae9cd4e6e363f5347
 
 ### 07LYM294.pdf
 

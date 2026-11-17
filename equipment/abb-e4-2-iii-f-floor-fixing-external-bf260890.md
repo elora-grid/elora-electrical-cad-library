@@ -9,7 +9,7 @@ E4.2 III F FLOOR FIXING EXTERNAL: ABB manufacturer STEP resource, document 1SDH0
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0173
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E4.2 III F FLOOR FIXING EXTERNAL; ABB document 1SD
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0173
 - Model extents (X × Y × Z, mm): 500.0 × 200.0 × 10.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 21276 bytes
 - Delivery SHA-256: 4b30a022875635e3f8792a8e181269eda37326ca5194a43a0f2148f40caadfc8
+
+### 1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0173\_1PA\_001\_00\_E4.2\_III\_F\_FLOOR\_FIXING\_EXTERNAL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-iii-f-floor-fixing-external-bf260890/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4b30a022875635e3f8792a8e181269eda37326ca5194a43a0f2148f40caadfc8
+- Original bytes: 21276
+- Revision: A
+- Retrieved: 2026-11-03T01:30:57.369167+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0173&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 29939 bytes
+- Delivery SHA-256: 80e8ca75adeae9d980e615e49065b3ae242f6ad5c85663281ee70adddd401a1e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

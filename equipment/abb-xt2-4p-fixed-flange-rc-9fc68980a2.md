@@ -8,7 +8,7 @@ ABB XT2 4p FIXED FLANGE RC: breaker or breaker-accessory reference for breaker c
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0298
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ The supplied configuration is “XT2 4p FIXED FLANGE RC”. Keep those frame, mo
 - Model envelope: 1SDH001295R0298\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_DIFFERENZIAL.stp: 130 × 4.5 × 184.8 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0338
 - Model envelope: 1SDH001295R0338\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_DIFFERENZI.stp: 130 × 4.5 × 184.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 29922 bytes
 - Delivery SHA-256: f58b2e9afbc61aa99cf6bfe47c3042df24dde341cfe34d583828cd596badc2dc
 
+### 1SDH001295R0298\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_DIFFERENZIAL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0298\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_DIFFERENZIAL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0298&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-flange-rc-9fc68980a2/f58b2e9afbc61aa99cf6-dxf)
+- Redistribution: unknown
+- Original SHA-256: f58b2e9afbc61aa99cf6bfe47c3042df24dde341cfe34d583828cd596badc2dc
+- Original bytes: 29922
+- Revision: A
+- Retrieved: 2026-11-03T01:35:46.379337Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0298&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0298&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 32235 bytes
+- Delivery SHA-256: c93b755273046033966fd9ce5d28569d0a7c27df82bf9f0ef1ff6bfc5dbc7153
+
 ### 1SDH001295R0338\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_DIFFERENZI.stp
 
 - Format: STEP
@@ -128,5 +147,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0338&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 30023 bytes
 - Delivery SHA-256: ddfc691ace6d542404f0b91a63351a558deadc1fdac3c41d0007652b7275c25e
+
+### 1SDH001295R0338\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_DIFFERENZI.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0338\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MOSTRINA\_DIFFERENZI.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0338&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-flange-rc-9fc68980a2/ddfc691ace6d542404f0-dxf)
+- Redistribution: unknown
+- Original SHA-256: ddfc691ace6d542404f0b91a63351a558deadc1fdac3c41d0007652b7275c25e
+- Original bytes: 30023
+- Revision: A
+- Retrieved: 2026-11-03T01:36:02.561723Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0338&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0338&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 32235 bytes
+- Delivery SHA-256: b5ca7939f744e03799cbcf7446fd2eaf3e3c35c6571819a4c81caf5b7c77feec
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

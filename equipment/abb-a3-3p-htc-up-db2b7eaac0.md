@@ -8,7 +8,7 @@ ABB A3 3p HTC UP: breaker or breaker-accessory reference for breaker compartment
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001294R0144
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “A3 3p HTC UP”. Keep those frame, mounting and
 - Manufacturer reference: 1SDH001294R0144
 - Document revision: A
 - Model envelope: 1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.stp: 139.5 × 103.5 × 84.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0144&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 253126 bytes
 - Delivery SHA-256: 37d69ddb8e6c6f1a14fed06f218a86faad5ad8a232660a2848abd2e2e41faa2e
+
+### 1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0144&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a3-3p-htc-up-db2b7eaac0/37d69ddb8e6c6f1a14fe-dxf)
+- Redistribution: unknown
+- Original SHA-256: 37d69ddb8e6c6f1a14fed06f218a86faad5ad8a232660a2848abd2e2e41faa2e
+- Original bytes: 253126
+- Revision: A
+- Retrieved: 2026-11-04T00:57:57Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0144&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0144&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 68076 bytes
+- Delivery SHA-256: 7cf009ffa7f4516b74dd1921f4e98daa875ad3524d913bdba6f8bcc2b5ce8e28
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

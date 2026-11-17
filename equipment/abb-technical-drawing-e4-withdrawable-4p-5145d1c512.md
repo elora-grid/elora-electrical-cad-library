@@ -25,6 +25,7 @@ The supplied configuration is “Technical drawing - E4 Withdrawable 4p”. Keep
 - Manufacturer drawing: ITSCE-601933816
 - Manufacturer reference: ITSCE-601933816
 - Document revision: E
+- Standards: IEC 60947-2, IEC 61000
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

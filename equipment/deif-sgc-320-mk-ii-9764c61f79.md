@@ -24,6 +24,7 @@ Manufacturer reference SGC 320 Mk II identifies this control-equipment reference
 - Resource type: Product
 - Manufacturer drawing: SGC 320 Mk II
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-2
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -8,7 +8,7 @@ ABB OT160GT04\_, OT160GT40: switching-equipment reference for switch installatio
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307514F0201
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “OT160GT04\_, OT160GT40”. Keep those frame, mo
 - Manufacturer drawing: 1SCC307514F0201
 - Manufacturer reference: 1SCC307514F0201
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Standards: IEC 60947-3
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,5 +98,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307514F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 283552 bytes
 - Delivery SHA-256: 0c3da12a024c784c31c69f5de60cc543a95cfe7f2c06e0d1e1933bfb64fda999
+
+### Z14\_OT160GT4\_A\_1SCC307514F0201.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (Z14\_OT160GT4\_A\_1SCC307514F0201.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307514F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot160gt04-ot160gt40-216b3a9ddf/0c3da12a024c784c31c6-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0c3da12a024c784c31c69f5de60cc543a95cfe7f2c06e0d1e1933bfb64fda999
+- Original bytes: 283552
+- Revision: A
+- Retrieved: 2026-11-04T00:58:07Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307514F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307514F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 1404813 bytes
+- Delivery SHA-256: a26be6bed2603d2fb952162b37dd19fe3410eb5f293ca27a63c65c155d2ece19
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

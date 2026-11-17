@@ -32,6 +32,7 @@ Use the 1300 HTP column on PDF page 12. The download is the complete catalogue, 
 - Diameter Db (in): 8.7
 - Cantilever Strength, Upright, Pounds: 1450
 - Impulse Withstand, kV: 1300
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

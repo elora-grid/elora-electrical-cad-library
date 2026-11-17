@@ -1,0 +1,93 @@
+# ABB — 1SEP620013R3001 ZLBM3-3P-M12-EFM
+
+ABB 1SEP620013R3001 ZLBM3-3P-M12-EFM. Retained manufacturer CAD files and drawings for busbar design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep620013r3001-zlbm3-3p-m12-efm-afe712f744) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep620013r3001-zlbm3-3p-m12-efm-afe712f744.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep620013r3001-zlbm3-3p-m12-efm-afe712f744.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Busbar & distribution
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: 1SEP620013R3001 ZLBM3-3P-M12-EFM
+- Manufacturer: ABB
+- Resource type: Product family
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: STEP ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
+
+Use 9AKK108466A1564.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 9AKK108466A1564.stp.
+
+Use 9AKK108466A1564.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 9AKK108466A1564.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB 1SEP620013R3001 ZLBM3-3P-M12-EFM and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 1SEP620013R3001 ZLBM3-3P-M12-EFM?
+
+1 inspected original for ABB 1SEP620013R3001 ZLBM3-3P-M12-EFM: 9AKK108466A1564.stp (STEP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 9AKK108466A1564.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 9AKK108466A1564.stp.
+
+## Equipment references and drawing guides
+
+- [Busbar trunking](https://eloragrid.ai/objects/busbar-trunking)
+- [Rigid busbar assembly](https://eloragrid.ai/objects/ga-rigid-busbar-assembly)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 9AKK108466A1564.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-1sep620013r3001-zlbm3-3p-m12-efm-afe712f744/native-6b0251bd68fe23932187e5c7-step)
+- Redistribution: unknown
+- Original SHA-256: 6b0251bd68fe23932187e5c733937b8d1462e696392b6856ac20e0109583abb9
+- Original bytes: 62242181
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108466A1564&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 14262462 bytes
+- Delivery SHA-256: 9a5d88662cd1d0627c644fea862fc7c2db6643586d03c2a37fd51c06aa184a23
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

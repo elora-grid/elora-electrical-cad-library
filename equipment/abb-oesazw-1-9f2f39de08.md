@@ -27,7 +27,7 @@ The supplied configuration is “OESAZW 1”. Keep those frame, mounting and acc
 - Document revision: -
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: -
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC390002F0001.dxf revision - for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OESAZW 1: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-oesazw-1-9f2f39de08/f19cf54603b4328fc90e?asset=f19cf54603b4328fc90e7b7e22e11b34f0e797d2483b72c61577b7623c39befc)
+![ABB OESAZW 1: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-oesazw-1-9f2f39de08/f19cf54603b4328fc90e?asset=f19cf54603b4328fc90e7b7e22e11b34f0e797d2483b72c61577b7623c39befc&view=thumb&v=c29dfcc3a5bb4b02)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-oesazw-1-9f2f39de08). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

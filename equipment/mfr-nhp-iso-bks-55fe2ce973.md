@@ -1,0 +1,145 @@
+# NHP — ISO BKS
+
+NHP ISO BKS: original DWG / STEP for switching or transfer equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-bks-55fe2ce973) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-bks-55fe2ce973.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-bks-55fe2ce973.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: DWG, STEP, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named BKS.
+
+## Equipment and file summary
+
+- Equipment / resource: ISO BKS
+- Manufacturer: NHP
+- Resource type: Product
+- Manufacturer drawing identity: BKS
+- Source-model envelope: 58.5 × 66.2 × 39.5 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: BKS ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 58.5 × 66.2 × 39.5 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-3D-CAD-Block.step))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+An input/output assembly connects field devices to a controller. Inputs report measurements or status; outputs pass the controller's commands to equipment.
+
+Use NHP-ISO-BKS-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+Use NHP-ISO-BKS-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. Use NHP-ISO-BKS-3D-CAD-Block.step to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match NHP ISO BKS and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 58.5 × 66.2 × 39.5 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ISO BKS?
+
+2 inspected originals for NHP ISO BKS: NHP-ISO-BKS-2D-CAD-Block.dwg (DWG); NHP-ISO-BKS-3D-CAD-Block.step (STEP).
+
+### Where did these NHP files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [NHP official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use NHP-ISO-BKS-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. Use NHP-ISO-BKS-3D-CAD-Block.step to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![NHP ISO BKS: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-nhp-iso-bks-55fe2ce973/nhp-201849?asset=0619ee2c90f9d25b99e47a96a227f5264f681efcaf6ac8c2ae74a662c2ff8a01&view=thumb&v=f930449f5090ba9e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-bks-55fe2ce973). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NHP-ISO-BKS-2D-CAD-Block.dwg
+
+- Format: DWG
+- Purpose: Original manufacturer DWG geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-iso-bks-55fe2ce973/nhp-201811)
+- Redistribution: unknown
+- Original SHA-256: 3c0c207a0f9953266afa0f3c5fc7b66dd2ec41a62e840a882e070a372af01963
+- Original bytes: 26569
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:30:17.119703+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-2D-CAD-Block.dwg)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-2D-CAD-Block.dwg)
+- Delivery: original; DWG; 26569 bytes
+- Delivery SHA-256: 3c0c207a0f9953266afa0f3c5fc7b66dd2ec41a62e840a882e070a372af01963
+
+### NHP-ISO-BKS-2D-CAD-Block.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (NHP-ISO-BKS-2D-CAD-Block.dwg).
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-iso-bks-55fe2ce973/nhp-201811-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3c0c207a0f9953266afa0f3c5fc7b66dd2ec41a62e840a882e070a372af01963
+- Original bytes: 26569
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:30:17.119703+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-2D-CAD-Block.dwg)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-2D-CAD-Block.dwg)
+- Delivery: converted; DXF; 117558 bytes
+- Delivery SHA-256: 7119d9ffac86616e3c95bed697416d60be619c118d729ff4d7c39493d8d232bc
+
+### NHP-ISO-BKS-3D-CAD-Block.step
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-3D-CAD-Block.step)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-iso-bks-55fe2ce973/nhp-201849)
+- Redistribution: unknown
+- Original SHA-256: 0619ee2c90f9d25b99e47a96a227f5264f681efcaf6ac8c2ae74a662c2ff8a01
+- Original bytes: 77698
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:35:50.995832+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-3D-CAD-Block.step)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10056/NHP-ISO-BKS-3D-CAD-Block.step)
+- Delivery: original; STEP; 77698 bytes
+- Delivery SHA-256: 0619ee2c90f9d25b99e47a96a227f5264f681efcaf6ac8c2ae74a662c2ff8a01
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

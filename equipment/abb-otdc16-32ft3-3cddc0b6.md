@@ -26,7 +26,7 @@ Original DXF drawing for OTDC16-32FT3; ABB document 1SCC307021F0003
 - Manufacturer drawing: 1SCC307021F0003
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307021F0003.dxf for OTDC16-32FT3. DXF is the supplied drawing format; th
 
 ## Preview
 
-![ABB OTDC16-32FT3: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc16-32ft3-3cddc0b6/original?asset=01e4332043f60586996aa1755756d4529839ffa3dd49aa9537e882c94f89bc6f)
+![ABB OTDC16-32FT3: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc16-32ft3-3cddc0b6/original?asset=01e4332043f60586996aa1755756d4529839ffa3dd49aa9537e882c94f89bc6f&view=thumb&v=3e97309823658380)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc16-32ft3-3cddc0b6). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

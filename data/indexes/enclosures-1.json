@@ -423,7 +423,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK105713A7744",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-enclosures-3fd8f4b8",
       "recordPath": "equipment/abb-enclosures-3fd8f4b8.md",
@@ -435,7 +436,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK105713A7745",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-enclosures-for-automation-ip65-53e614f1",
       "recordPath": "equipment/abb-enclosures-for-automation-ip65-53e614f1.md",
@@ -447,7 +449,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK105713A7749",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-external-enclosures-843c7a66",
       "recordPath": "equipment/abb-external-enclosures-843c7a66.md",
@@ -459,7 +462,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK105713A7746",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-internal-enclosures-72ccebca",
       "recordPath": "equipment/abb-internal-enclosures-72ccebca.md",
@@ -471,7 +475,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "9AKK105713A7747",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-multimedia-enclosures-5faf73d8",
       "recordPath": "equipment/abb-multimedia-enclosures-5faf73d8.md",
@@ -2395,6 +2400,507 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-u050nnp-outline-drawing-d9cf2a2ce4",
       "recordPath": "equipment/abb-u050nnp-outline-drawing-d9cf2a2ce4.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-u050nnp-outline-drawing-d9cf2a2ce4.json"
+    },
+    {
+      "id": "mfr-nhp-concept-celextlk1-external-lighting-kit-8506accfba",
+      "name": "Concept CELEXTLK1 External lighting kit",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-celextlk1-external-lighting-kit-8506accfba",
+      "recordPath": "equipment/mfr-nhp-concept-celextlk1-external-lighting-kit-8506accfba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-celextlk1-external-lighting-kit-8506accfba.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24g-ffb3ca5ad3",
+      "name": "Concept Premier IP66 Panelboard CPR24G",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24g-ffb3ca5ad3",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24g-ffb3ca5ad3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24g-ffb3ca5ad3.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtaaxal-auxillary-2d7030cc27",
+      "name": "DIN-T DTAAXAL Auxillary",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtaaxal-auxillary-2d7030cc27",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtaaxal-auxillary-2d7030cc27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtaaxal-auxillary-2d7030cc27.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-cde-chassis-8dfb9d0274",
+      "name": "MOD6 CDE Chassis",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-cde-chassis-8dfb9d0274",
+      "recordPath": "equipment/mfr-nhp-mod6-cde-chassis-8dfb9d0274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-cde-chassis-8dfb9d0274.json"
+    },
+    {
+      "id": "mfr-nhp-nline-nl320l-surface-switch-ip66-3p-20a-ebf4bbe0ca",
+      "name": "NLINE NL320L Surface Switch IP66 3P 20A",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "PDF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-nline-nl320l-surface-switch-ip66-3p-20a-ebf4bbe0ca",
+      "recordPath": "equipment/mfr-nhp-nline-nl320l-surface-switch-ip66-3p-20a-ebf4bbe0ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-nline-nl320l-surface-switch-ip66-3p-20a-ebf4bbe0ca.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-ccbs02-2d2f1cac70",
+      "name": "CCBS02",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-ccbs02-2d2f1cac70",
+      "recordPath": "equipment/mfr-nvent-hoffman-ccbs02-2d2f1cac70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-ccbs02-2d2f1cac70.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24m160g-b6b2570004",
+      "name": "Concept Premier IP66 Panelboard CPR24M160G",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m160g-b6b2570004",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m160g-b6b2570004.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24m160g-b6b2570004.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtadm-polefiller-0453581105",
+      "name": "DIN-T DTADM Polefiller",
+      "manufacturer": "NHP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtadm-polefiller-0453581105",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtadm-polefiller-0453581105.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtadm-polefiller-0453581105.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-dnmks01-28e38d986b",
+      "name": "DNMKS01",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-dnmks01-28e38d986b",
+      "recordPath": "equipment/mfr-nvent-hoffman-dnmks01-28e38d986b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-dnmks01-28e38d986b.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24m160o-651d3e7182",
+      "name": "Concept Premier IP66 Panelboard CPR24M160O",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m160o-651d3e7182",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m160o-651d3e7182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24m160o-651d3e7182.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtasaux-auxillary-7d2ad4b0ba",
+      "name": "DIN-T DTASAUX Auxillary",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtasaux-auxillary-7d2ad4b0ba",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtasaux-auxillary-7d2ad4b0ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtasaux-auxillary-7d2ad4b0ba.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6m-mcbs-024dfa88ca",
+      "name": "MOD6+ MD6M MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6m-mcbs-024dfa88ca",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6m-mcbs-024dfa88ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6m-mcbs-024dfa88ca.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-efcs20316-21a3e99eb6",
+      "name": "EFCS20316",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-efcs20316-21a3e99eb6",
+      "recordPath": "equipment/mfr-nvent-hoffman-efcs20316-21a3e99eb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-efcs20316-21a3e99eb6.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24m250g-3802e99e61",
+      "name": "Concept Premier IP66 Panelboard CPR24M250G",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m250g-3802e99e61",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m250g-3802e99e61.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24m250g-3802e99e61.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtasht-shunt-trip-5a184e453a",
+      "name": "DIN-T DTASHT Shunt Trip",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtasht-shunt-trip-5a184e453a",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtasht-shunt-trip-5a184e453a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtasht-shunt-trip-5a184e453a.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6md11-mcbs-1efea0e552",
+      "name": "MOD6+ MD6MD11 MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6md11-mcbs-1efea0e552",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6md11-mcbs-1efea0e552.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6md11-mcbs-1efea0e552.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-efcs2530316-cf31271178",
+      "name": "EFCS2530316",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-efcs2530316-cf31271178",
+      "recordPath": "equipment/mfr-nvent-hoffman-efcs2530316-cf31271178.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-efcs2530316-cf31271178.json"
+    },
+    {
+      "id": "mfr-abb-1sep304395r0001-pb-zubm123-112176e560",
+      "name": "1SEP304395R0001 PB-ZUBM123",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep304395r0001-pb-zubm123-112176e560",
+      "recordPath": "equipment/mfr-abb-1sep304395r0001-pb-zubm123-112176e560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep304395r0001-pb-zubm123-112176e560.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24m250o-affc0811e0",
+      "name": "Concept Premier IP66 Panelboard CPR24M250O",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m250o-affc0811e0",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24m250o-affc0811e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24m250o-affc0811e0.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6mh-mcbs-8025f4aa5e",
+      "name": "MOD6+ MD6MH MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6mh-mcbs-8025f4aa5e",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6mh-mcbs-8025f4aa5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6mh-mcbs-8025f4aa5e.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-efcs5060316-aaf93a0ea7",
+      "name": "EFCS5060316",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-efcs5060316-aaf93a0ea7",
+      "recordPath": "equipment/mfr-nvent-hoffman-efcs5060316-aaf93a0ea7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-efcs5060316-aaf93a0ea7.json"
+    },
+    {
+      "id": "mfr-abb-1sep304442r0001-pb-zubm00-c500521a01",
+      "name": "1SEP304442R0001 PB-ZUBM00",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep304442r0001-pb-zubm00-c500521a01",
+      "recordPath": "equipment/mfr-abb-1sep304442r0001-pb-zubm00-c500521a01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep304442r0001-pb-zubm00-c500521a01.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160g-c8bcf5cfde",
+      "name": "Concept Premier IP66 Panelboard CPR24MCCB160G",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160g-c8bcf5cfde",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160g-c8bcf5cfde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160g-c8bcf5cfde.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtauvt-undervoltage-trip-e18fc6e964",
+      "name": "DIN-T DTAUVT Undervoltage Trip",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtauvt-undervoltage-trip-e18fc6e964",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtauvt-undervoltage-trip-e18fc6e964.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtauvt-undervoltage-trip-e18fc6e964.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6ms-mainswitch-761cdde45a",
+      "name": "MOD6+ MD6MS Mainswitch",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6ms-mainswitch-761cdde45a",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6ms-mainswitch-761cdde45a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6ms-mainswitch-761cdde45a.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-ekss20084316-645feb72ae",
+      "name": "EKSS20084316",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-ekss20084316-645feb72ae",
+      "recordPath": "equipment/mfr-nvent-hoffman-ekss20084316-645feb72ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-ekss20084316-645feb72ae.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160o-08357cd03c",
+      "name": "Concept Premier IP66 Panelboard CPR24MCCB160O",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160o-08357cd03c",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160o-08357cd03c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb160o-08357cd03c.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtm10-mcbs-7aa0090847",
+      "name": "DIN-T DTM10 MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtm10-mcbs-7aa0090847",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtm10-mcbs-7aa0090847.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtm10-mcbs-7aa0090847.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-llhs501n-1ffa64e559",
+      "name": "LLHS501N",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-llhs501n-1ffa64e559",
+      "recordPath": "equipment/mfr-nvent-hoffman-llhs501n-1ffa64e559.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-llhs501n-1ffa64e559.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200g-a72603328c",
+      "name": "Concept Premier IP66 Panelboard CPR24MCCB200G",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200g-a72603328c",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200g-a72603328c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200g-a72603328c.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtm6-mcbs-dedbd5c9a3",
+      "name": "DIN-T DTM6 MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtm6-mcbs-dedbd5c9a3",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtm6-mcbs-dedbd5c9a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtm6-mcbs-dedbd5c9a3.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6rc-rccb-ba69bdb304",
+      "name": "MOD6+ MD6RC RCCB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6rc-rccb-ba69bdb304",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6rc-rccb-ba69bdb304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6rc-rccb-ba69bdb304.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-llhs502n-7cbac89634",
+      "name": "LLHS502N",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-llhs502n-7cbac89634",
+      "recordPath": "equipment/mfr-nvent-hoffman-llhs502n-7cbac89634.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-llhs502n-7cbac89634.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200o-35602df3c5",
+      "name": "Concept Premier IP66 Panelboard CPR24MCCB200O",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200o-35602df3c5",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200o-35602df3c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24mccb200o-35602df3c5.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtmd6-mcbs-fc559bf093",
+      "name": "DIN-T DTMD6 MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtmd6-mcbs-fc559bf093",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtmd6-mcbs-fc559bf093.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtmd6-mcbs-fc559bf093.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-mpgs06-e5bab33274",
+      "name": "MPGS06",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-mpgs06-e5bab33274",
+      "recordPath": "equipment/mfr-nvent-hoffman-mpgs06-e5bab33274.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-mpgs06-e5bab33274.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24o-ae88937a6f",
+      "name": "Concept Premier IP66 Panelboard CPR24O",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24o-ae88937a6f",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24o-ae88937a6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24o-ae88937a6f.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtmdc-mcbs-4757382f09",
+      "name": "DIN-T DTMDC MCBs",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtmdc-mcbs-4757382f09",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtmdc-mcbs-4757382f09.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtmdc-mcbs-4757382f09.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-mpgs12-d14f203e91",
+      "name": "MPGS12",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-mpgs12-d14f203e91",
+      "recordPath": "equipment/mfr-nvent-hoffman-mpgs12-d14f203e91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-mpgs12-d14f203e91.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24ss-948d58805c",
+      "name": "Concept Premier IP66 Panelboard CPR24SS",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24ss-948d58805c",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24ss-948d58805c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24ss-948d58805c.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtmsw-mainswitch-cfaf7e9bb5",
+      "name": "DIN-T DTMSW Mainswitch",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtmsw-mainswitch-cfaf7e9bb5",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtmsw-mainswitch-cfaf7e9bb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtmsw-mainswitch-cfaf7e9bb5.json"
+    },
+    {
+      "id": "mfr-nvent-hoffman-mpgs12316-50e93e2d7c",
+      "name": "MPGS12316",
+      "manufacturer": "nVent HOFFMAN",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-mpgs12316-50e93e2d7c",
+      "recordPath": "equipment/mfr-nvent-hoffman-mpgs12316-50e93e2d7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-mpgs12316-50e93e2d7c.json"
+    },
+    {
+      "id": "mfr-nhp-concept-premier-ip66-panelboard-cpr24sso-db882cbe50",
+      "name": "Concept Premier IP66 Panelboard CPR24SSO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24sso-db882cbe50",
+      "recordPath": "equipment/mfr-nhp-concept-premier-ip66-panelboard-cpr24sso-db882cbe50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-concept-premier-ip66-panelboard-cpr24sso-db882cbe50.json"
     }
   ]
 }

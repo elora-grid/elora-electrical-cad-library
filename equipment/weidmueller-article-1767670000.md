@@ -1,0 +1,160 @@
+# Weidmüller — ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow
+
+Weidmüller ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1767670000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1767670000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1767670000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zpe-103an/p/1767670000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1767670000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1767670000
+- Manufacturer reference: 1767670000
+- Manufacturer type: ZPE 10/3AN
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1767670000 ([source](https://eshop.weidmueller.com.cn/en/zpe-103an/p/1767670000/downloads#engineering-support))
+- Manufacturer type: ZPE 10/3AN ([source](https://eshop.weidmueller.com.cn/en/zpe-103an/p/1767670000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zpe-103an/p/1767670000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use 1767670000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1767670000.stp.
+
+Use 1767670000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1767670000.stp. 1767670000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1767670000\_back.DXF, 1767670000\_bottom.DXF, 1767670000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow before placing it. 1767670000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1767670000\_back.DWG, 1767670000\_bottom.DWG, 1767670000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1767670000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow?
+
+3 inspected originals for Weidmüller ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow: 1767670000.stp (STEP); 1767670000\_DXF.zip (ZIP); 1767670000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zpe-103an/p/1767670000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zpe-103an/p/1767670000/downloads#engineering-support)
+
+## Choosing a file
+
+Use 1767670000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1767670000.stp. 1767670000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1767670000\_back.DXF, 1767670000\_bottom.DXF, 1767670000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow before placing it. 1767670000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1767670000\_back.DWG, 1767670000\_bottom.DWG, 1767670000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZPE 10/3AN — Ground terminal block / PE terminal, Tension-clamp connection, 10 mm², 800 V, Number of connections: 3, Number of levels: 1, Green/yellow before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1767670000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/e966bbdb-d76b-4bd8-942a-6bd40f19c4cf/original/1767670000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1767670000/native-e2651e2f4ed11185d373b4cf-step)
+- Redistribution: unknown
+- Original SHA-256: e2651e2f4ed11185d373b4cfbab92ae2d7ff893d9d39301aaac4c9c54f939001
+- Original bytes: 1165424
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/e966bbdb-d76b-4bd8-942a-6bd40f19c4cf/original/1767670000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/e966bbdb-d76b-4bd8-942a-6bd40f19c4cf/original/1767670000.stp)
+- Delivery: source-bundle; ZIP; 205246 bytes
+- Delivery SHA-256: 10cc998d608abd631cbc9fd57fedd1e43c539d3286b4070f9b8af2730c243454
+
+### 1767670000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b017aa3c-9283-43e2-9bda-7f30ff95e080/original/1767670000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1767670000/native-20369964ea57686db1d28245-zip)
+- Redistribution: unknown
+- Original SHA-256: 20369964ea57686db1d28245c6f7778f22046334280be196fd93be7a2b55212e
+- Original bytes: 44940
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b017aa3c-9283-43e2-9bda-7f30ff95e080/original/1767670000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b017aa3c-9283-43e2-9bda-7f30ff95e080/original/1767670000_DXF.zip)
+- Delivery: original; ZIP; 44940 bytes
+- Delivery SHA-256: 20369964ea57686db1d28245c6f7778f22046334280be196fd93be7a2b55212e
+
+<details>
+<summary>Archive members</summary>
+
+- 1767670000\_back.DXF
+- 1767670000\_bottom.DXF
+- 1767670000\_front.DXF
+- 1767670000\_left.DXF
+- 1767670000\_right.DXF
+- 1767670000\_top.DXF
+
+</details>
+
+### 1767670000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/6293e4e9-59e1-46a9-a10f-06d447dec764/original/1767670000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1767670000/native-f056fb6b3b9e348d2d7035da-zip)
+- Redistribution: unknown
+- Original SHA-256: f056fb6b3b9e348d2d7035da25958aeb6ca559760e0635e7c52b1d32c8f90895
+- Original bytes: 54335
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/6293e4e9-59e1-46a9-a10f-06d447dec764/original/1767670000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/6293e4e9-59e1-46a9-a10f-06d447dec764/original/1767670000_DWG.zip)
+- Delivery: original; ZIP; 54335 bytes
+- Delivery SHA-256: f056fb6b3b9e348d2d7035da25958aeb6ca559760e0635e7c52b1d32c8f90895
+
+<details>
+<summary>Archive members</summary>
+
+- 1767670000\_back.DWG
+- 1767670000\_bottom.DWG
+- 1767670000\_front.DWG
+- 1767670000\_left.DWG
+- 1767670000\_right.DWG
+- 1767670000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

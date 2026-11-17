@@ -29,6 +29,7 @@ Use the row for 1754 on PDF page 8. The download is the complete catalogue, not 
 - BIL (kV): 250
 - Cantilever strength (lb): 2000 1500
 - Import alternative: 1754I
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

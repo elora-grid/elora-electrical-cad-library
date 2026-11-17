@@ -8,7 +8,7 @@ ABB 44LYE228\_33.72: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 44LYE228\_33.72; 44LYE228
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “44LYE228\_33.72”. Keep those frame, mounting 
 - Document revision: C
 - Drawing views (44LYE228.pdf, page 1): drive end detail
 - Manufacturer reference: 44LYE228
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=44LYE228_33.72&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1244638 bytes
 - Delivery SHA-256: 1c10c3807618670b4e2b884d54bfc7add09e244e273ea72518e1d55831a1a4f9
+
+### 44LYE228\_33.72.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (44LYE228\_33.72.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=44LYE228_33.72&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-44lye228-33-72-dwg-2d-autocad-dwg-2000-b98b4671eb/1c10c3807618670b4e2b-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1c10c3807618670b4e2b884d54bfc7add09e244e273ea72518e1d55831a1a4f9
+- Original bytes: 1244638
+- Revision: C
+- Retrieved: 2026-11-04T01:01:22Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=44LYE228_33.72&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=44LYE228_33.72&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 4027005 bytes
+- Delivery SHA-256: 724bfc0b520bef577ba57637069d74e104a4809f73f1591496ecb7968a70259c
 
 ### 44LYE228.pdf
 

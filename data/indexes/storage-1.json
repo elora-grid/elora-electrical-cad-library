@@ -253,6 +253,217 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0",
       "recordPath": "equipment/abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-abb-aski-load-management-for-battery-storage-pv-and-ev-charging-drawing-6-pdf-6694411ac0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-battery-table-charger-5v-f068eb0346",
+      "name": "BATTERY TABLE CHARGER 5V",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-battery-table-charger-5v-f068eb0346",
+      "recordPath": "equipment/mfr-schneider-electric-battery-table-charger-5v-f068eb0346.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-battery-table-charger-5v-f068eb0346.json"
+    },
+    {
+      "id": "mfr-abb-dpa-ul-vrla-uvr-battery-top-hat-c70c760f0f",
+      "name": "DPA UL VRLA UVR Battery Top Hat",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-dpa-ul-vrla-uvr-battery-top-hat-c70c760f0f",
+      "recordPath": "equipment/mfr-abb-dpa-ul-vrla-uvr-battery-top-hat-c70c760f0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-dpa-ul-vrla-uvr-battery-top-hat-c70c760f0f.json"
+    },
+    {
+      "id": "mfr-abb-sld-arc-flash-mitigation-for-battery-systems-in-data-centers-45bf848c93",
+      "name": "SLD - Arc Flash Mitigation for battery systems in Data Centers",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "PDF",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sld-arc-flash-mitigation-for-battery-systems-in-data-centers-45bf848c93",
+      "recordPath": "equipment/mfr-abb-sld-arc-flash-mitigation-for-battery-systems-in-data-centers-45bf848c93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sld-arc-flash-mitigation-for-battery-systems-in-data-centers-45bf848c93.json"
+    },
+    {
+      "id": "lovato-order-376e453ec666b5cd84b2ebc0",
+      "name": "31BCE0312 — Linear automatic battery charger, for lead-acid batteries, 1 charging level, 3A 12VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-376e453ec666b5cd84b2ebc0",
+      "recordPath": "equipment/lovato-order-376e453ec666b5cd84b2ebc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-376e453ec666b5cd84b2ebc0.json"
+    },
+    {
+      "id": "lovato-order-fd03862cb8ae30cc56eb6c8d",
+      "name": "31BCE0612 — Linear automatic battery charger, for lead-acid batteries, 1 charging level, 6A 12VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fd03862cb8ae30cc56eb6c8d",
+      "recordPath": "equipment/lovato-order-fd03862cb8ae30cc56eb6c8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fd03862cb8ae30cc56eb6c8d.json"
+    },
+    {
+      "id": "lovato-order-f148993be147750ff912a511",
+      "name": "31BCE1212 — Linear automatic battery charger, for lead-acid batteries, 1 charging level, 12A 12VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f148993be147750ff912a511",
+      "recordPath": "equipment/lovato-order-f148993be147750ff912a511.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f148993be147750ff912a511.json"
+    },
+    {
+      "id": "lovato-order-db6e6aff39405a5f87958d6f",
+      "name": "31BCE2V524 — Linear automatic battery charger, for lead-acid batteries, 1 charging level, 2,5A 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-db6e6aff39405a5f87958d6f",
+      "recordPath": "equipment/lovato-order-db6e6aff39405a5f87958d6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-db6e6aff39405a5f87958d6f.json"
+    },
+    {
+      "id": "lovato-order-5ace6e50e8f7ce5113166179",
+      "name": "31BCE0524 — Linear automatic battery charger, for lead-acid batteries, 1 charging level, 5A 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5ace6e50e8f7ce5113166179",
+      "recordPath": "equipment/lovato-order-5ace6e50e8f7ce5113166179.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5ace6e50e8f7ce5113166179.json"
+    },
+    {
+      "id": "lovato-order-15129b3339746879ff434b0a",
+      "name": "31BCE1024 — Linear automatic battery charger, for lead-acid batteries, 1 charging level, 10A 24VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-15129b3339746879ff434b0a",
+      "recordPath": "equipment/lovato-order-15129b3339746879ff434b0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-15129b3339746879ff434b0a.json"
+    },
+    {
+      "id": "lovato-order-0eb436d59455356199eefde0",
+      "name": "BCF025012 — Switching automatic battery charger, for lead-acid batteries, 1 charging level, 2,5A 12VDC, housing 5U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0eb436d59455356199eefde0",
+      "recordPath": "equipment/lovato-order-0eb436d59455356199eefde0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0eb436d59455356199eefde0.json"
+    },
+    {
+      "id": "lovato-order-893b280859fe06336160dfaa",
+      "name": "BCF050012 — Switching automatic battery charger, for lead-acid batteries, 1 charging level, 5A 12VDC, housing 5U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-893b280859fe06336160dfaa",
+      "recordPath": "equipment/lovato-order-893b280859fe06336160dfaa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-893b280859fe06336160dfaa.json"
+    },
+    {
+      "id": "lovato-order-16f010bfd401018eeca33fa8",
+      "name": "BCF012524 — Switching automatic battery charger, for lead-acid batteries, 1 charging level, 1,25A 24VDC, housing 5U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-16f010bfd401018eeca33fa8",
+      "recordPath": "equipment/lovato-order-16f010bfd401018eeca33fa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-16f010bfd401018eeca33fa8.json"
+    },
+    {
+      "id": "lovato-order-c043a699d69661e41d3c5af3",
+      "name": "BCF025024 — Switching automatic battery charger, for lead-acid batteries, 1 charging level, 2,5A 24VDC, housing 5U",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c043a699d69661e41d3c5af3",
+      "recordPath": "equipment/lovato-order-c043a699d69661e41d3c5af3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c043a699d69661e41d3c5af3.json"
+    },
+    {
+      "id": "lovato-order-724e717c3e72c86c0f94a099",
+      "name": "BCG1212 — Battery charger switching 12A 12V",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-724e717c3e72c86c0f94a099",
+      "recordPath": "equipment/lovato-order-724e717c3e72c86c0f94a099.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-724e717c3e72c86c0f94a099.json"
+    },
+    {
+      "id": "lovato-order-5607d86dc99dcf81e35abcc4",
+      "name": "BCG0524 — Battery charger switching 5A 24V",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5607d86dc99dcf81e35abcc4",
+      "recordPath": "equipment/lovato-order-5607d86dc99dcf81e35abcc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5607d86dc99dcf81e35abcc4.json"
+    },
+    {
+      "id": "lovato-order-375d6af191cb009c58e0d8f1",
+      "name": "BCG1024 — Battery charger switching 10A 24V",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-375d6af191cb009c58e0d8f1",
+      "recordPath": "equipment/lovato-order-375d6af191cb009c58e0d8f1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-375d6af191cb009c58e0d8f1.json"
+    },
+    {
+      "id": "lovato-order-b16072aa4e855bea989facf5",
+      "name": "EXP1030 — Expansion module EXP... type, data memory, real time clock and calendar, with battery, for DMG 800, DMG 900... and DMG 900 T...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b16072aa4e855bea989facf5",
+      "recordPath": "equipment/lovato-order-b16072aa4e855bea989facf5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b16072aa4e855bea989facf5.json"
+    },
+    {
+      "id": "lovato-order-54fa680909fc4e566686ab4e",
+      "name": "EXP1031 — Expansion module EXP... type, data memory with Energy Quality (EN50160), real time clock and calendar, with battery, for DMG 800, DMG 900... and DMG 900 T...",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-54fa680909fc4e566686ab4e",
+      "recordPath": "equipment/lovato-order-54fa680909fc4e566686ab4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-54fa680909fc4e566686ab4e.json"
+    },
+    {
+      "id": "lovato-order-5ed7ed3f4eb697ca656abdd3",
+      "name": "EXM1030 — Expansion module EXM... type, data memory, real time clock and calendar, with battery, for DMG 300",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5ed7ed3f4eb697ca656abdd3",
+      "recordPath": "equipment/lovato-order-5ed7ed3f4eb697ca656abdd3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5ed7ed3f4eb697ca656abdd3.json"
     }
   ]
 }

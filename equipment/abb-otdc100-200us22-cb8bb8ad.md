@@ -26,7 +26,7 @@ Original DXF drawing for OTDC100...200US22; ABB document 1SCC307107F0201
 - Manufacturer drawing: 1SCC307107F0201
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: B
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307107F0201.dxf for OTDC100...200US22. DXF is the supplied drawing forma
 
 ## Preview
 
-![ABB OTDC100...200US22: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc100-200us22-cb8bb8ad/original?asset=a09d86e70b2378d382e59f9073dc780d98b6cf034f43a8d1cc03f187bb57b07d)
+![ABB OTDC100...200US22: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc100-200us22-cb8bb8ad/original?asset=a09d86e70b2378d382e59f9073dc780d98b6cf034f43a8d1cc03f187bb57b07d&view=thumb&v=6c67c77dd0f9180f)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc100-200us22-cb8bb8ad). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

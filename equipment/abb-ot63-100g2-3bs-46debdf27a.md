@@ -26,6 +26,7 @@ The supplied configuration is “OT63...100G2-3BS”. Keep those frame, mounting
 - Manufacturer drawing: OT63\_100G2\_3BS.STP
 - Manufacturer reference: OT63\_100G2\_3BS.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

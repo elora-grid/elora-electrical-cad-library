@@ -25,6 +25,7 @@ Original PDF drawing for VD4/R - Overall dimensions, VD4/R p.230; ABB document 1
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1VCD000100
 - VD4 variant designation: VD4/R p.230
+- Standards: IEC 62271-100
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

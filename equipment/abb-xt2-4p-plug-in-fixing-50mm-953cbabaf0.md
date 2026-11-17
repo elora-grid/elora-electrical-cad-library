@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN FIXING 50mm: breaker or breaker-accessory reference for break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0327
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p PLUG-IN FIXING 50mm”. Keep those frame
 - Manufacturer reference: 1SDH001295R0327
 - Document revision: A
 - Model envelope: 1SDH001295R0327\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FIXING\_50MM.stp: 120 × 185.5 × 153 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0327&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 366602 bytes
 - Delivery SHA-256: 1e7bd13e169c81370737f6db2bbd528afe92c69836d5047029fe0c69053b0bf1
+
+### 1SDH001295R0327\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FIXING\_50MM.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0327\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FIXING\_50MM.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0327&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-fixing-50mm-953cbabaf0/1e7bd13e169c81370737-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1e7bd13e169c81370737f6db2bbd528afe92c69836d5047029fe0c69053b0bf1
+- Original bytes: 366602
+- Revision: A
+- Retrieved: 2026-11-03T01:50:26.764919Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0327&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0327&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 84766 bytes
+- Delivery SHA-256: 6bbafc3db2a42a00cfa13710b720f4bfb36af293a6571dbaedf1f1509db6275e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

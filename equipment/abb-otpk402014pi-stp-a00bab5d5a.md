@@ -27,6 +27,7 @@ The supplied configuration is “OTPK402014PI”. Keep those frame, mounting and
 - Manufacturer reference: OTPK402014PI.STP
 - Document revision: A
 - Model envelope: OTPK402014PI.stp: 200 × 406.5 × 185.9 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-1, IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

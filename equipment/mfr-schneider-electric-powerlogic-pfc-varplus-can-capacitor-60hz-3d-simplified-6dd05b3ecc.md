@@ -1,0 +1,107 @@
+# Schneider Electric — PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified
+
+Schneider Electric PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified: original STEP for drive or power-quality equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-pfc-varplus-can-capacitor-60hz-3d-simplified-6dd05b3ecc) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-pfc-varplus-can-capacitor-60hz-3d-simplified-6dd05b3ecc.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-powerlogic-pfc-varplus-can-capacitor-60hz-3d-simplified-6dd05b3ecc.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/XC_3D-CAD/)
+
+- Category: Power quality & drives
+- Entry type: product
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified.
+
+## Equipment and file summary
+
+- Equipment / resource: PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Manufacturer drawing identity: PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified
+- Source document: XC\_3D-CAD; revision 1.0
+- Source-model envelope: 116.1 × 336.4 × 115.5 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified ([source](https://www.se.com/us/en/download/document/XC_3D-CAD/))
+- Source document: XC\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_Doc_Ref=XC_3D-CAD&p_enDocType=CAD))
+- Source-model envelope: 116.1 × 336.4 × 115.5 mm ([source](https://download.se.com/files?p_Doc_Ref=XC_3D-CAD&p_enDocType=CAD))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.se.com/us/en/download/document/XC_3D-CAD/))
+
+## What the equipment does
+
+A power-quality meter measures the electrical supply and records characteristics such as voltage, current and disturbances, according to the selected device's functions.
+
+Use XC.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified XC.stp.
+
+Use XC.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified XC.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 116.1 × 336.4 × 115.5 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: XC.stp — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified?
+
+1 inspected original for Schneider Electric PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified: XC.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/XC\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/XC_3D-CAD/)
+
+## Choosing a file
+
+Use XC.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified XC.stp.
+
+## Preview
+
+![Schneider Electric PowerLogic PFC - VarPlus Can Capacitor 60Hz - 3D-simplified: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-schneider-electric-powerlogic-pfc-varplus-can-capacitor-60hz-3d-simplified-6dd05b3ecc/se-acb77d17150b80a15920?asset=279dc2470fb2bd0412dd17f2223104d45e6e2c64a340ce3268ce97b354f4ca83&view=thumb&v=140c1598389d86cf)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-powerlogic-pfc-varplus-can-capacitor-60hz-3d-simplified-6dd05b3ecc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Variable-frequency drive](https://eloragrid.ai/objects/ga-variable-frequency-drive)
+- [AC line reactor](https://eloragrid.ai/objects/ga-ac-line-reactor)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### XC.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://download.se.com/files?p_Doc_Ref=XC_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-powerlogic-pfc-varplus-can-capacitor-60hz-3d-simplified-6dd05b3ecc/se-acb77d17150b80a15920)
+- Redistribution: unknown
+- Original SHA-256: 279dc2470fb2bd0412dd17f2223104d45e6e2c64a340ce3268ce97b354f4ca83
+- Original bytes: 227639
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:01:14.804524+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/XC_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_Doc_Ref=XC_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 46669 bytes
+- Delivery SHA-256: 7c903c2892b07b8e043e0527df4b05de8706c21f2e6dd694c8626408d8e56014
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

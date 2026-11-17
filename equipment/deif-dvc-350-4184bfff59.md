@@ -25,6 +25,7 @@ Manufacturer reference dvc-350-3d-pdf.pdf; dvc-350-3d-step-file.stp; 4921240615 
 - Manufacturer drawing: dvc-350-3d-pdf.pdf; dvc-350-3d-step-file.stp; 4921240615
 - Published dimensions: 140 mm length × 125 mm width × 52.9 mm height; data sheet 4921240615-F, page 7.
 - Fixing pattern and weight: 115 × 100 mm fixing centres shown on the dimension view; nominal weight 0.45 kg.
+- Standards: IEC 60529, IEC 61000-6-2, IEC 61000-6-4
 - Listed file formats: PDF, STEP
 - Listed files: 3
 - Available previews: Manufacturer source / drawing request

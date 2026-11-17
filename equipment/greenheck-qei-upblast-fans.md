@@ -7,7 +7,7 @@ Upblast roof arrangement of the QEI mixed-flow fan. Use the dedicated upblast ho
 - Category: Switchroom services
 - Entry type: family
 - Part number: QEI-UPBLAST
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-10-29
@@ -22,8 +22,8 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: QEI-UPBLAST
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with QEI-UPBLAST. The files above belong to Greenheck's QEI-UPBLAST belt-drive mixed-flow fan resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, ZIP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, ZIP. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -83,6 +83,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 1607951 bytes
 - Delivery SHA-256: 8f0d8b2a0ad3c104050967b22548ff6487570aa110ae588a7bdf71460199e848
 
+### QEI-UB-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEI-UB-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10003/QEI-UB-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qei-upblast-fans/greenheck-qei-ub-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8f0d8b2a0ad3c104050967b22548ff6487570aa110ae588a7bdf71460199e848
+- Original bytes: 1607951
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10003/QEI-UB-3D.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10003/QEI-UB-3D.dwg)
+- Delivery: converted; DXF; 7848921 bytes
+- Delivery SHA-256: df0a68ccbabfd953bc53ea21cd6b159e9f46be8a2f4eededd86cfa8da7bd01a6
+
 ### QEI-UB-30-II.dwg
 
 - Format: DWG
@@ -101,6 +120,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10006/QEI-UB-30-II.dwg)
 - Delivery: original; DWG; 392838 bytes
 - Delivery SHA-256: 7a7cf8deb01926005d880a02e087d6a60bd985e7ff561977cf921157ef105f81
+
+### QEI-UB-30-II.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEI-UB-30-II.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10006/QEI-UB-30-II.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qei-upblast-fans/greenheck-qei-ub-30-ii-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7a7cf8deb01926005d880a02e087d6a60bd985e7ff561977cf921157ef105f81
+- Original bytes: 392838
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10006/QEI-UB-30-II.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10006/QEI-UB-30-II.dwg)
+- Delivery: converted; DXF; 211146 bytes
+- Delivery SHA-256: 7b240a5ec10b43723a994d9c8556f00d83c7e15bba9a05b9b3624db80c740dac
 
 ### QEI\_UB\_LOD200\_AllSizes.zip
 

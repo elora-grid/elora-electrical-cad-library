@@ -8,7 +8,7 @@ ABB E2.2/E2.3 III W TERMINALS SHR LOWER 2500A: breaker connection or accessory r
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0112
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ This reference covers the connection or accessory named in “E2.2/E2.3 III W TE
 - Model envelope: 1SDH001252R0112\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_LOWER\_2500A.stp: 320 × 78.4 × 60 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001252R0114
 - Model envelope: 1SDH001252R0114\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_UPPER\_2500A.stp: 320 × 78.4 × 60 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 593732 bytes
 - Delivery SHA-256: da735ad7aba79ff27776974d54cbd1712b687fe4e21125fa49b52280c10d26b4
 
+### 1SDH001252R0112\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_LOWER\_2500A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0112\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_LOWER\_2500A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0112&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-w-terminals-shr-lower-2500a-f46288822e/da735ad7aba79ff27776-dxf)
+- Redistribution: unknown
+- Original SHA-256: da735ad7aba79ff27776974d54cbd1712b687fe4e21125fa49b52280c10d26b4
+- Original bytes: 593732
+- Revision: A
+- Retrieved: 2026-11-03T01:52:49.915088Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0112&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0112&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 148098 bytes
+- Delivery SHA-256: c394cd6e24ceab717b8cdc69791874325cc9ee7382debbcda03386b1bf186aed
+
 ### 1SDH001252R0114\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_UPPER\_2500A.stp
 
 - Format: STEP
@@ -130,5 +149,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0114&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 593778 bytes
 - Delivery SHA-256: e6a625fbfd4b8744c24a0ec4dbc9b3e3838bcf05242832c6402bc6bb2ebbc7c9
+
+### 1SDH001252R0114\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_UPPER\_2500A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0114\_1PA\_001\_00\_E2.2\_III\_W\_TERMINALS\_SHR\_UPPER\_2500A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0114&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-w-terminals-shr-lower-2500a-f46288822e/e6a625fbfd4b8744c24a-dxf)
+- Redistribution: unknown
+- Original SHA-256: e6a625fbfd4b8744c24a0ec4dbc9b3e3838bcf05242832c6402bc6bb2ebbc7c9
+- Original bytes: 593778
+- Revision: A
+- Retrieved: 2026-11-03T01:52:50.183064Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0114&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0114&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 148064 bytes
+- Delivery SHA-256: fcec89dd1e36adbff5705f2690eb730ea06b108f1be01d5b0924b9557e4847fa
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

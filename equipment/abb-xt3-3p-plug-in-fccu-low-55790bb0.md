@@ -9,7 +9,7 @@ XT3 3p PLUG-IN FCCu LOW: ABB manufacturer STEP resource, document 1SDH001295R045
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0454
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT3 3p PLUG-IN FCCu LOW; ABB document 1SDH001295R0
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0454
 - Model extents (X × Y × Z, mm): 93.0 × 50.0 × 19.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0454&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 167100 bytes
 - Delivery SHA-256: fccea30d3d38afd6cc4d336a0e926d31dc43dfc622afd2f3cc76338e45f3c8db
+
+### 1SDH001295R0454\_1PA\_001\_00\_XT3\_3P\_PLUG\_IN\_FCCu\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0454\_1PA\_001\_00\_XT3\_3P\_PLUG\_IN\_FCCu\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0454&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-3p-plug-in-fccu-low-55790bb0/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: fccea30d3d38afd6cc4d336a0e926d31dc43dfc622afd2f3cc76338e45f3c8db
+- Original bytes: 167100
+- Revision: A
+- Retrieved: 2026-11-03T01:48:08.069455+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0454&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0454&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 67677 bytes
+- Delivery SHA-256: f3bcaf28af61c83c8c5a04009adfe6d6e03c7ff1935e50e3e5e99303b2d8abfa
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

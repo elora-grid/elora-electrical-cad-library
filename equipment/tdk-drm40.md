@@ -22,6 +22,7 @@ Use only for the model/configuration stated in each original drawing.
 - Manufacturer: TDK-Lambda
 - Resource type: Product
 - Part number: DRM40
+- Standards: IEC 62368-1, UL 62368-1, IEC 60950-1, UL 60950-1, UL 508
 - Listed file formats: IGES
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

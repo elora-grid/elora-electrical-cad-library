@@ -1,0 +1,141 @@
+# LOVATO Electric — VLB30110A480 — VLB3
+
+LOVATO Electric VLB30110A480 — VLB3. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-954b5cbd8a4a0bbe103cfbb4) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-954b5cbd8a4a0bbe103cfbb4.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-954b5cbd8a4a0bbe103cfbb4.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/VLB30110A480/VLB30110A480/snp)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: VLB30110A480
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: VLB30110A480 — VLB3
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: VLB30110A480
+- Manufacturer reference: VLB30110A480
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: VLB30110A480 ([source](https://catalogue.lovatoelectric.com/gl_en/VLB30110A480/VLB30110A480/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/VLB30110A480/VLB30110A480/snp))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 2d\_VLB30110A480.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_VLB30110A480.dwg.
+
+Use 2d\_VLB30110A480.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_VLB30110A480.dwg. Use 3d\_VLB30110A480.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_VLB30110A480.stp. Use 2D\_FALO\_042.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_FALO\_042.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric VLB30110A480 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for VLB30110A480 — VLB3?
+
+3 inspected originals for LOVATO Electric VLB30110A480 — VLB3: 2d\_VLB30110A480.dwg (DWG); 3d\_VLB30110A480.stp (STEP); 2D\_FALO\_042.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/VLB30110A480/VLB30110A480/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/VLB30110A480/VLB30110A480/snp)
+
+## Choosing a file
+
+Use 2d\_VLB30110A480.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_VLB30110A480.dwg. Use 3d\_VLB30110A480.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_VLB30110A480.stp. Use 2D\_FALO\_042.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_FALO\_042.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric VLB30110A480 — VLB3: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-954b5cbd8a4a0bbe103cfbb4/native-5f2233fe0bd009ad4ff4b7bb-dxf?asset=5f2233fe0bd009ad4ff4b7bb3e89ef41634c1bfe0473408e05fea5c9461c81ef)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-954b5cbd8a4a0bbe103cfbb4). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_VLB30110A480.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_VLB30110A480.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-954b5cbd8a4a0bbe103cfbb4/native-9e348e0c83d857af584b9fb8-dwg)
+- Redistribution: unknown
+- Original SHA-256: 9e348e0c83d857af584b9fb822cb3e312367b22e6ddd17807938bffff36e2854
+- Original bytes: 108225
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_VLB30110A480.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_VLB30110A480.dwg)
+- Delivery: source-bundle; ZIP; 33890 bytes
+- Delivery SHA-256: 104dac243746a08288ca1085b9ca291d3ecdf007a3ff48b0b0fabf3b55414ba9
+
+### 3d\_VLB30110A480.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_VLB30110A480.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-954b5cbd8a4a0bbe103cfbb4/native-080b19f4c69ca9a15b72452e-step)
+- Redistribution: unknown
+- Original SHA-256: 080b19f4c69ca9a15b72452ecdf6b1cdeebb6a58a48455f6fcb86568bbfacbd2
+- Original bytes: 613315
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_VLB30110A480.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_VLB30110A480.stp)
+- Delivery: source-bundle; ZIP; 98916 bytes
+- Delivery SHA-256: c8d44d6a12350eff66dd8a902daf3e12fca11af2ed11091277c74c1584e5ec7d
+
+### 2D\_FALO\_042.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-954b5cbd8a4a0bbe103cfbb4/native-5f2233fe0bd009ad4ff4b7bb-dxf)
+- Redistribution: unknown
+- Original SHA-256: 5f2233fe0bd009ad4ff4b7bb3e89ef41634c1bfe0473408e05fea5c9461c81ef
+- Original bytes: 457167
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 46037 bytes
+- Delivery SHA-256: 13d524be96ab3eba1cdc07786c5ed3764ebc2a72a84892a62108cd43d3a56a60
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

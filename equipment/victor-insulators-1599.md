@@ -30,6 +30,7 @@ Use the row for 1599 on PDF page 11. The download is the complete catalogue, not
 - Application voltage (kV): 15
 - BIL (kV): 110
 - Base design: Pedestal
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

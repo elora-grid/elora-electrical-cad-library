@@ -24,6 +24,7 @@ Manufacturer reference HC 48 identifies this control-equipment reference.
 - Resource type: Product
 - Manufacturer drawing: HC 48
 - Manufacturer lifecycle: Active
+- Standards: EN 50081-1, EN 50082-2
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

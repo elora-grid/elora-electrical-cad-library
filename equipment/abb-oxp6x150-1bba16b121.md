@@ -8,7 +8,7 @@ ABB OXP6X150: switching-equipment reference for switch installation and operatin
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC390265F0201
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,9 +25,9 @@ The supplied configuration is “OXP6X150”. Keep those frame, mounting and acc
 - Manufacturer drawing: 1SCC390265F0201
 - Manufacturer reference: 1SCC390265F0201
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
-- Available previews: 1 drawing previews
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC390265F0201.dwg revision A for editable DWG drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OXP6X150: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-oxp6x150-1bba16b121/ed22e17ab43069fd0944?asset=ed22e17ab43069fd0944c88a9a909abbf09f9024da51b2176297631073412120)
+![ABB OXP6X150: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-oxp6x150-1bba16b121/ed22e17ab43069fd0944?asset=ed22e17ab43069fd0944c88a9a909abbf09f9024da51b2176297631073412120&view=thumb&v=64a6a7aff75e80e8)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-oxp6x150-1bba16b121). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC390265F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 92978 bytes
 - Delivery SHA-256: ed22e17ab43069fd0944c88a9a909abbf09f9024da51b2176297631073412120
+
+### 1SCC390265F0201.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SCC390265F0201.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC390265F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-oxp6x150-1bba16b121/ed22e17ab43069fd0944-dxf)
+- Redistribution: unknown
+- Original SHA-256: ed22e17ab43069fd0944c88a9a909abbf09f9024da51b2176297631073412120
+- Original bytes: 92978
+- Revision: A
+- Retrieved: 2026-11-04T00:57:17Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC390265F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC390265F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 452765 bytes
+- Delivery SHA-256: 8f14e3a88e96e0cf7d0c05b94b1f68f0311e816df137cc8ededb87c8d2b01fed
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

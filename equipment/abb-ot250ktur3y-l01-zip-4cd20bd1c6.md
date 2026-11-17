@@ -26,6 +26,7 @@ The supplied configuration is “OT250KTUR3Y-L01.zip”. Keep those frame, mount
 - Manufacturer drawing: OT250KTUR3Y-L01.ZIP
 - Manufacturer reference: OT250KTUR3Y-L01.ZIP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

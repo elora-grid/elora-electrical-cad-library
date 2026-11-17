@@ -8,7 +8,7 @@ ABB XT3 4p FIXED RC221-RC222: breaker or breaker-accessory reference for breaker
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0510
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT3 4p FIXED RC221-RC222”. Keep those frame, 
 - Manufacturer reference: 1SDH001295R0510
 - Document revision: A
 - Model envelope: 1SDH001295R0510\_1PA\_001\_00\_XT3\_4P\_FIXED\_RC221\_RC222.stp: 170 × 114.2 × 223.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0510&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1634808 bytes
 - Delivery SHA-256: 7a66314d82ac3c042b67539df7ccba7300f4085415f6da09c296796f4cdf73b0
+
+### 1SDH001295R0510\_1PA\_001\_00\_XT3\_4P\_FIXED\_RC221\_RC222.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0510\_1PA\_001\_00\_XT3\_4P\_FIXED\_RC221\_RC222.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0510&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-fixed-rc221-rc222-7bb1ef3e12/7a66314d82ac3c042b67-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7a66314d82ac3c042b67539df7ccba7300f4085415f6da09c296796f4cdf73b0
+- Original bytes: 1634808
+- Revision: A
+- Retrieved: 2026-11-03T01:56:14.671811Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0510&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0510&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 122206 bytes
+- Delivery SHA-256: c379d0414c675a604e94b0f694869a17e43fc74e68be5a82b66bd99a8c8ec5f1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,160 @@
+# Weidmüller — ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue
+
+Weidmüller ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1315880000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1315880000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1315880000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zsi-2-5ld-120ac-bl/p/1315880000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1315880000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1315880000
+- Manufacturer reference: 1315880000
+- Manufacturer type: ZSI 2.5/LD 120AC BL
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1315880000 ([source](https://eshop.weidmueller.com.cn/en/zsi-2-5ld-120ac-bl/p/1315880000/downloads#engineering-support))
+- Manufacturer type: ZSI 2.5/LD 120AC BL ([source](https://eshop.weidmueller.com.cn/en/zsi-2-5ld-120ac-bl/p/1315880000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zsi-2-5ld-120ac-bl/p/1315880000/downloads#engineering-support))
+
+## What the equipment does
+
+A fused terminal combines a wire connection point with a fuse holder so a branch circuit can be connected and protected in one assembly.
+
+1315880000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1315880000\_back.DWG, 1315880000\_bottom.DWG, 1315880000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue before placing it.
+
+1315880000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1315880000\_back.DWG, 1315880000\_bottom.DWG, 1315880000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue before placing it. Use 1315880000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1315880000.stp. 1315880000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1315880000\_back.DXF, 1315880000\_bottom.DXF, 1315880000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1315880000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue?
+
+3 inspected originals for Weidmüller ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue: 1315880000\_DWG.zip (ZIP); 1315880000.stp (STEP); 1315880000\_DXF.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zsi-2-5ld-120ac-bl/p/1315880000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zsi-2-5ld-120ac-bl/p/1315880000/downloads#engineering-support)
+
+## Choosing a file
+
+1315880000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1315880000\_back.DWG, 1315880000\_bottom.DWG, 1315880000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue before placing it. Use 1315880000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1315880000.stp. 1315880000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1315880000\_back.DXF, 1315880000\_bottom.DXF, 1315880000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZSI 2.5/LD 120AC BL — Fuse terminal block / Fuse terminal, Tension-clamp connection, Fuse cartridge, with LED, for plug-in cross-connector, One end without connector, Tension-clamp connection, 2.5 mm², 120 V, 6.3 A, G-Si. 5 x 20, blue before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1315880000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/2c45f0d6-57b1-4035-bba9-930f92ae13d6/original/1315880000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1315880000/native-d42710286ffd016282320f13-zip)
+- Redistribution: unknown
+- Original SHA-256: d42710286ffd016282320f138e858c577f23a8870ab8804efbf0efc815be9a55
+- Original bytes: 84646
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/2c45f0d6-57b1-4035-bba9-930f92ae13d6/original/1315880000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/2c45f0d6-57b1-4035-bba9-930f92ae13d6/original/1315880000_DWG.zip)
+- Delivery: original; ZIP; 84646 bytes
+- Delivery SHA-256: d42710286ffd016282320f138e858c577f23a8870ab8804efbf0efc815be9a55
+
+<details>
+<summary>Archive members</summary>
+
+- 1315880000\_back.DWG
+- 1315880000\_bottom.DWG
+- 1315880000\_front.DWG
+- 1315880000\_left.DWG
+- 1315880000\_right.DWG
+- 1315880000\_top.DWG
+
+</details>
+
+### 1315880000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/c343d18b-f75b-4dd3-a662-a378e3111da4/original/1315880000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1315880000/native-44e97a75b098bc401e917aa5-step)
+- Redistribution: unknown
+- Original SHA-256: 44e97a75b098bc401e917aa5aaa2034a4861f66a1e89c8114fc5e712560798b3
+- Original bytes: 1207253
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/c343d18b-f75b-4dd3-a662-a378e3111da4/original/1315880000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/c343d18b-f75b-4dd3-a662-a378e3111da4/original/1315880000.stp)
+- Delivery: source-bundle; ZIP; 221633 bytes
+- Delivery SHA-256: 9d2151d27dbfdadc7998a3abbdf40df7086e2709cbbe3244f9a165afca7b7c19
+
+### 1315880000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b13336c0-7333-44b3-b379-83e0da66c1f2/original/1315880000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1315880000/native-fb91a28000d642ca4aff17c1-zip)
+- Redistribution: unknown
+- Original SHA-256: fb91a28000d642ca4aff17c15dd4fa3e6e4029a75523679a38823f74b4877af9
+- Original bytes: 77225
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b13336c0-7333-44b3-b379-83e0da66c1f2/original/1315880000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b13336c0-7333-44b3-b379-83e0da66c1f2/original/1315880000_DXF.zip)
+- Delivery: original; ZIP; 77225 bytes
+- Delivery SHA-256: fb91a28000d642ca4aff17c15dd4fa3e6e4029a75523679a38823f74b4877af9
+
+<details>
+<summary>Archive members</summary>
+
+- 1315880000\_back.DXF
+- 1315880000\_bottom.DXF
+- 1315880000\_front.DXF
+- 1315880000\_left.DXF
+- 1315880000\_right.DXF
+- 1315880000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

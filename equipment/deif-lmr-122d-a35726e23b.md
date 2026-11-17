@@ -25,6 +25,7 @@ Manufacturer reference lmr-122d-data-sheet-4921240220-uk.pdf; lmr-122d-datenblat
 - Manufacturer drawing: lmr-122d-data-sheet-4921240220-uk.pdf; lmr-122d-datenblatt-4921240221-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer reference: lmr-122d-data-sheet-4921240220-uk.pdf; lmr-122d-datenblatt-4921240221-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip; lmr-122d-fiche-technique-4921240222-fr.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

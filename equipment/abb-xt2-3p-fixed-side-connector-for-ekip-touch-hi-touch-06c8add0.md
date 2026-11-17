@@ -9,7 +9,7 @@ XT2 3p Fixed Side connector for Ekip Touch/Hi-Touch: ABB manufacturer STEP resou
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0904
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT2 3p Fixed Side connector for Ekip Touch/Hi-Touc
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0904
 - Model extents (X × Y × Z, mm): 10.0 × 37.5 × 14.9
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0904&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; STEP; 157549 bytes
 - Delivery SHA-256: 4536222a9e03409aa2e59d24bd0d181219bb88ede8a802d5b1919344f91d315d
+
+### 1SDH001295R0904.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0904.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0904&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-3p-fixed-side-connector-for-ekip-touch-hi-touch-06c8add0/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4536222a9e03409aa2e59d24bd0d181219bb88ede8a802d5b1919344f91d315d
+- Original bytes: 157549
+- Revision: C
+- Retrieved: 2026-11-03T01:47:44.912508+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0904&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0904&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 76338 bytes
+- Delivery SHA-256: 8afe4777190c184de69a272865023a241fcbf254168e1431cd90c5bf2cf07501
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

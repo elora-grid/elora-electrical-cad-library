@@ -1,0 +1,2769 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 53,
+  "entries": [
+    {
+      "id": "eaton-article-2fdf1c0917a333c6878f6694",
+      "name": "170M1562D — Fuse-link, high speed, 32 A, AC 690 V, DIN 000, gR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2fdf1c0917a333c6878f6694",
+      "recordPath": "equipment/eaton-article-2fdf1c0917a333c6878f6694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2fdf1c0917a333c6878f6694.json"
+    },
+    {
+      "id": "eaton-article-5d521a2f4828444d95ca5788",
+      "name": "FUSE 100A 690V 000/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 100 A, Fuse size: 000, Top fuse status indicator, DIN 43653, /80 Visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5d521a2f4828444d95ca5788",
+      "recordPath": "equipment/eaton-article-5d521a2f4828444d95ca5788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5d521a2f4828444d95ca5788.json"
+    },
+    {
+      "id": "eaton-article-c868b2988292190b9557b083",
+      "name": "NH FUSE 160A 500V GG SIZE 1 DUAL IND — Fuse-link, low voltage, 160 A, AC 500 V, NH1, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c868b2988292190b9557b083",
+      "recordPath": "equipment/eaton-article-c868b2988292190b9557b083.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c868b2988292190b9557b083.json"
+    },
+    {
+      "id": "eaton-article-2b3700842221616ac8c0dd74",
+      "name": "160 A, AC 400V NH02 Fuse with Insul lugs — Fuse-link, LV, 160 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2b3700842221616ac8c0dd74",
+      "recordPath": "equipment/eaton-article-2b3700842221616ac8c0dd74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2b3700842221616ac8c0dd74.json"
+    },
+    {
+      "id": "eaton-article-9dfd31cae26e670078577496",
+      "name": "160 A, AC 400 V NH02 Fuse Link Live lugs — Fuse-link, LV, 160 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9dfd31cae26e670078577496",
+      "recordPath": "equipment/eaton-article-9dfd31cae26e670078577496.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9dfd31cae26e670078577496.json"
+    },
+    {
+      "id": "eaton-article-f3cd1ece2fd097b97c58a0e2",
+      "name": "NH FUSE 160A 500V GL/GG SIZE 02 — Fuse-link, LV, 160 A, AC 500 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f3cd1ece2fd097b97c58a0e2",
+      "recordPath": "equipment/eaton-article-f3cd1ece2fd097b97c58a0e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f3cd1ece2fd097b97c58a0e2.json"
+    },
+    {
+      "id": "eaton-article-2402fef39b220282e3591386",
+      "name": "16NHFF000BI-400 — Fuse-link, low voltage, 16 A, AC 400 V, NH000, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2402fef39b220282e3591386",
+      "recordPath": "equipment/eaton-article-2402fef39b220282e3591386.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2402fef39b220282e3591386.json"
+    },
+    {
+      "id": "eaton-article-e2f8a9c5c2370d80c1758bee",
+      "name": "NH FUSE 16A 400V GG SIZE 000 — Fuse-link, LV, 16 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e2f8a9c5c2370d80c1758bee",
+      "recordPath": "equipment/eaton-article-e2f8a9c5c2370d80c1758bee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e2f8a9c5c2370d80c1758bee.json"
+    },
+    {
+      "id": "eaton-article-e58699affbba1d8271cb3270",
+      "name": "NH FUSE 16A 500V SIZE 000 GG IMGL — Fuse-link, LV, 16 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e58699affbba1d8271cb3270",
+      "recordPath": "equipment/eaton-article-e58699affbba1d8271cb3270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e58699affbba1d8271cb3270.json"
+    },
+    {
+      "id": "eaton-article-8ba42975f0b8bad99813962b",
+      "name": "NH FUSE 16A 500V GL/GG SIZE 01 — Fuse-link, LV, 16 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8ba42975f0b8bad99813962b",
+      "recordPath": "equipment/eaton-article-8ba42975f0b8bad99813962b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8ba42975f0b8bad99813962b.json"
+    },
+    {
+      "id": "eaton-article-bd1a35ccd65d941dadc74207",
+      "name": "NH FUSE 16A 500V aM SIZE 000 DUAL IND — Fuse-link, low voltage, 16 A, AC 500 V, NH000, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bd1a35ccd65d941dadc74207",
+      "recordPath": "equipment/eaton-article-bd1a35ccd65d941dadc74207.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bd1a35ccd65d941dadc74207.json"
+    },
+    {
+      "id": "eaton-article-d4adbe169f815723afb9a876",
+      "name": "NH FUSE 16A 400V GG/GL SIZE 000 — Fuse-link, LV, 16 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d4adbe169f815723afb9a876",
+      "recordPath": "equipment/eaton-article-d4adbe169f815723afb9a876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d4adbe169f815723afb9a876.json"
+    },
+    {
+      "id": "eaton-article-5813aacd3ea1e4303f5df476",
+      "name": "NH FUSE 160A 500V AC GG 1 DUAL IND — Fuse-link, low voltage, 160 A, AC 500 V, NH1, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5813aacd3ea1e4303f5df476",
+      "recordPath": "equipment/eaton-article-5813aacd3ea1e4303f5df476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5813aacd3ea1e4303f5df476.json"
+    },
+    {
+      "id": "eaton-article-0195197a74b5b7d92886a7ee",
+      "name": "NH FUSE 160A 690V AC GG 1 DUAL IND — Fuse-link, low voltage, 160 A, AC 690 V, NH1, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0195197a74b5b7d92886a7ee",
+      "recordPath": "equipment/eaton-article-0195197a74b5b7d92886a7ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0195197a74b5b7d92886a7ee.json"
+    },
+    {
+      "id": "eaton-article-9106c47c4d9c7040bdd4b76a",
+      "name": "NH FUSE 160A 500V AM SIZE 2 DUAL IND — Fuse-link, low voltage, 160 A, AC 500 V, NH2, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9106c47c4d9c7040bdd4b76a",
+      "recordPath": "equipment/eaton-article-9106c47c4d9c7040bdd4b76a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9106c47c4d9c7040bdd4b76a.json"
+    },
+    {
+      "id": "eaton-article-5217ec4533ad900bdb0b4f58",
+      "name": "170M1738 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5217ec4533ad900bdb0b4f58",
+      "recordPath": "equipment/eaton-article-5217ec4533ad900bdb0b4f58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5217ec4533ad900bdb0b4f58.json"
+    },
+    {
+      "id": "eaton-article-4a9ef6cd7247e552fa227f0c",
+      "name": "170M1740 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4a9ef6cd7247e552fa227f0c",
+      "recordPath": "equipment/eaton-article-4a9ef6cd7247e552fa227f0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4a9ef6cd7247e552fa227f0c.json"
+    },
+    {
+      "id": "eaton-article-f8e83868eb87d99224696c04",
+      "name": "FUSE 32A 750V DC 000FN/70 AR CU — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f8e83868eb87d99224696c04",
+      "recordPath": "equipment/eaton-article-f8e83868eb87d99224696c04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f8e83868eb87d99224696c04.json"
+    },
+    {
+      "id": "eaton-article-f26b47531672fb01a2f237fa",
+      "name": "170M1741 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f26b47531672fb01a2f237fa",
+      "recordPath": "equipment/eaton-article-f26b47531672fb01a2f237fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f26b47531672fb01a2f237fa.json"
+    },
+    {
+      "id": "eaton-article-5446b108cf11a558865329c7",
+      "name": "170M1730 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5446b108cf11a558865329c7",
+      "recordPath": "equipment/eaton-article-5446b108cf11a558865329c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5446b108cf11a558865329c7.json"
+    },
+    {
+      "id": "eaton-article-d9efc3035c9c0b75bce51d54",
+      "name": "170M1732 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d9efc3035c9c0b75bce51d54",
+      "recordPath": "equipment/eaton-article-d9efc3035c9c0b75bce51d54.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d9efc3035c9c0b75bce51d54.json"
+    },
+    {
+      "id": "eaton-article-115b9c1135d9ea321f66c1a4",
+      "name": "170M1735 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-115b9c1135d9ea321f66c1a4",
+      "recordPath": "equipment/eaton-article-115b9c1135d9ea321f66c1a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-115b9c1135d9ea321f66c1a4.json"
+    },
+    {
+      "id": "eaton-article-7ce0a0e61dc2e922de2d083b",
+      "name": "170M1733 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7ce0a0e61dc2e922de2d083b",
+      "recordPath": "equipment/eaton-article-7ce0a0e61dc2e922de2d083b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7ce0a0e61dc2e922de2d083b.json"
+    },
+    {
+      "id": "eaton-article-a11f4af2b49f990a96463d2c",
+      "name": "170M1734 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a11f4af2b49f990a96463d2c",
+      "recordPath": "equipment/eaton-article-a11f4af2b49f990a96463d2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a11f4af2b49f990a96463d2c.json"
+    },
+    {
+      "id": "eaton-article-9468f38fef194a35c44fb7a4",
+      "name": "170M1737 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9468f38fef194a35c44fb7a4",
+      "recordPath": "equipment/eaton-article-9468f38fef194a35c44fb7a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9468f38fef194a35c44fb7a4.json"
+    },
+    {
+      "id": "eaton-article-1fff824c1b1b79b540e93935",
+      "name": "170M1736 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1fff824c1b1b79b540e93935",
+      "recordPath": "equipment/eaton-article-1fff824c1b1b79b540e93935.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1fff824c1b1b79b540e93935.json"
+    },
+    {
+      "id": "eaton-article-d94709d643a7251eb4b81b2b",
+      "name": "170M1739 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d94709d643a7251eb4b81b2b",
+      "recordPath": "equipment/eaton-article-d94709d643a7251eb4b81b2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d94709d643a7251eb4b81b2b.json"
+    },
+    {
+      "id": "eaton-article-f86abc061c826176a14e467d",
+      "name": "160NHG2BWP — Fuse-link, LV, 160 A, AC 500 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f86abc061c826176a14e467d",
+      "recordPath": "equipment/eaton-article-f86abc061c826176a14e467d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f86abc061c826176a14e467d.json"
+    },
+    {
+      "id": "eaton-article-dcaf97e5a7e0dfb782adb6ae",
+      "name": "FUSE 10A 690V 000TN/80 GR UC — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dcaf97e5a7e0dfb782adb6ae",
+      "recordPath": "equipment/eaton-article-dcaf97e5a7e0dfb782adb6ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dcaf97e5a7e0dfb782adb6ae.json"
+    },
+    {
+      "id": "eaton-article-c197cbf54ab7f07bef63532d",
+      "name": "FUSE 50A 690V 000/80 GR UC — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c197cbf54ab7f07bef63532d",
+      "recordPath": "equipment/eaton-article-c197cbf54ab7f07bef63532d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c197cbf54ab7f07bef63532d.json"
+    },
+    {
+      "id": "eaton-article-e98989d89a8bd86456149908",
+      "name": "FUSE 125A 690V 000/80 AR UC — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e98989d89a8bd86456149908",
+      "recordPath": "equipment/eaton-article-e98989d89a8bd86456149908.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e98989d89a8bd86456149908.json"
+    },
+    {
+      "id": "eaton-article-7040275c56c83b888c3487c0",
+      "name": "FUSE 80A 690V 000/80 AR UC — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7040275c56c83b888c3487c0",
+      "recordPath": "equipment/eaton-article-7040275c56c83b888c3487c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7040275c56c83b888c3487c0.json"
+    },
+    {
+      "id": "eaton-article-e6fc567c6fdbe8ca373f46f4",
+      "name": "NH FUSE 160A 500V GG/GL SIZE 0 — Fuse-link, low voltage, 160 A, AC 500 V, NH0, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e6fc567c6fdbe8ca373f46f4",
+      "recordPath": "equipment/eaton-article-e6fc567c6fdbe8ca373f46f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e6fc567c6fdbe8ca373f46f4.json"
+    },
+    {
+      "id": "eaton-article-c31e85aa68409ceed05b0b04",
+      "name": "NH FUSE 160A 500V GG/GL SIZE 02 — Fuse-link, low voltage, 160 A, AC 500 V, NH02, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c31e85aa68409ceed05b0b04",
+      "recordPath": "equipment/eaton-article-c31e85aa68409ceed05b0b04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c31e85aa68409ceed05b0b04.json"
+    },
+    {
+      "id": "eaton-article-9af43d9e79ef8ed942321d5e",
+      "name": "NH FUSE 16A 500V GG/GL SIZE 01 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9af43d9e79ef8ed942321d5e",
+      "recordPath": "equipment/eaton-article-9af43d9e79ef8ed942321d5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9af43d9e79ef8ed942321d5e.json"
+    },
+    {
+      "id": "eaton-article-84006a51f187395ec2f334c1",
+      "name": "NH FUSE 16A 500V GG/GL SIZE 0 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-84006a51f187395ec2f334c1",
+      "recordPath": "equipment/eaton-article-84006a51f187395ec2f334c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-84006a51f187395ec2f334c1.json"
+    },
+    {
+      "id": "eaton-article-57ae18abbd6c551a3904d04d",
+      "name": "NH FUSE 16A 500V SIZE 000 GG MGL — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-57ae18abbd6c551a3904d04d",
+      "recordPath": "equipment/eaton-article-57ae18abbd6c551a3904d04d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-57ae18abbd6c551a3904d04d.json"
+    },
+    {
+      "id": "eaton-article-53165a880a5605aa3d1fe638",
+      "name": "NH FUSE 160A 690V GG SIZE 1 — Fuse-link, low voltage, 160 A, AC 690 V, NH1, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-53165a880a5605aa3d1fe638",
+      "recordPath": "equipment/eaton-article-53165a880a5605aa3d1fe638.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-53165a880a5605aa3d1fe638.json"
+    },
+    {
+      "id": "eaton-article-aea4627277b2994f7203a51d",
+      "name": "NH FUSE 160AMP 800V gG SIZE 1 — Fuse-link, LV, 160 A, 800 V AC, NH1, Class gG/gL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aea4627277b2994f7203a51d",
+      "recordPath": "equipment/eaton-article-aea4627277b2994f7203a51d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aea4627277b2994f7203a51d.json"
+    },
+    {
+      "id": "eaton-article-01e1a62e8b19a24ed903c63a",
+      "name": "NH FUSE 160AMP 800V gG SIZE 2 — Fuse-link, LV, 160 A, 800 V AC, NH2, Class gG/gL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-01e1a62e8b19a24ed903c63a",
+      "recordPath": "equipment/eaton-article-01e1a62e8b19a24ed903c63a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-01e1a62e8b19a24ed903c63a.json"
+    },
+    {
+      "id": "eaton-article-15990b7be6711ff36326f3a7",
+      "name": "170M3810D — Fuse-link, high speed, 63 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-15990b7be6711ff36326f3a7",
+      "recordPath": "equipment/eaton-article-15990b7be6711ff36326f3a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-15990b7be6711ff36326f3a7.json"
+    },
+    {
+      "id": "eaton-article-50348685cdfd3c41939e1b9b",
+      "name": "170M3742 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-50348685cdfd3c41939e1b9b",
+      "recordPath": "equipment/eaton-article-50348685cdfd3c41939e1b9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-50348685cdfd3c41939e1b9b.json"
+    },
+    {
+      "id": "eaton-article-71003842723098bc98870aae",
+      "name": "170M3814D — Fuse-link, high speed, 160 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-71003842723098bc98870aae",
+      "recordPath": "equipment/eaton-article-71003842723098bc98870aae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-71003842723098bc98870aae.json"
+    },
+    {
+      "id": "eaton-article-df115b9237de104e64650c84",
+      "name": "170M3813D — Fuse-link, high speed, 125 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-df115b9237de104e64650c84",
+      "recordPath": "equipment/eaton-article-df115b9237de104e64650c84.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-df115b9237de104e64650c84.json"
+    },
+    {
+      "id": "eaton-article-eed99072f7367ed159eb75be",
+      "name": "170M3623 — High speed square body fuse, 690 V, 630 A, Fuse size: 1*, US Style, FU/Without indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-eed99072f7367ed159eb75be",
+      "recordPath": "equipment/eaton-article-eed99072f7367ed159eb75be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-eed99072f7367ed159eb75be.json"
+    },
+    {
+      "id": "eaton-article-450d7cc255dc982f9620d3ec",
+      "name": "170M3808D — Fuse-link, high speed, 40 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-450d7cc255dc982f9620d3ec",
+      "recordPath": "equipment/eaton-article-450d7cc255dc982f9620d3ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-450d7cc255dc982f9620d3ec.json"
+    },
+    {
+      "id": "eaton-article-eedecd9d0fa540c02674f70c",
+      "name": "170M3671 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-eedecd9d0fa540c02674f70c",
+      "recordPath": "equipment/eaton-article-eedecd9d0fa540c02674f70c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-eedecd9d0fa540c02674f70c.json"
+    },
+    {
+      "id": "eaton-article-c7b291f0066abf3cc3209b17",
+      "name": "170M3811D — Fuse-link, high speed, 80 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c7b291f0066abf3cc3209b17",
+      "recordPath": "equipment/eaton-article-c7b291f0066abf3cc3209b17.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c7b291f0066abf3cc3209b17.json"
+    },
+    {
+      "id": "eaton-article-f87fc5a646b25b9228193abd",
+      "name": "FUSE 500A 690V 1*FU/78 AR UC — High speed square body fuse, 690 V, 500 A, Fuse size: 1*, US Style, FU/Without indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f87fc5a646b25b9228193abd",
+      "recordPath": "equipment/eaton-article-f87fc5a646b25b9228193abd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f87fc5a646b25b9228193abd.json"
+    },
+    {
+      "id": "eaton-article-a5274a4ec0bfc62fe18bcddb",
+      "name": "170M3809D — Fuse-link, high speed, 50 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a5274a4ec0bfc62fe18bcddb",
+      "recordPath": "equipment/eaton-article-a5274a4ec0bfc62fe18bcddb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a5274a4ec0bfc62fe18bcddb.json"
+    },
+    {
+      "id": "eaton-article-31334a9caebd4b4decbaa0a0",
+      "name": "170M3816D — Fuse-link, high speed, 250 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-31334a9caebd4b4decbaa0a0",
+      "recordPath": "equipment/eaton-article-31334a9caebd4b4decbaa0a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-31334a9caebd4b4decbaa0a0.json"
+    },
+    {
+      "id": "eaton-article-bbf55a543c868d02c66059a1",
+      "name": "170M3708 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bbf55a543c868d02c66059a1",
+      "recordPath": "equipment/eaton-article-bbf55a543c868d02c66059a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bbf55a543c868d02c66059a1.json"
+    },
+    {
+      "id": "eaton-article-c2e369920943a45548d9cfe2",
+      "name": "170M3770 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c2e369920943a45548d9cfe2",
+      "recordPath": "equipment/eaton-article-c2e369920943a45548d9cfe2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c2e369920943a45548d9cfe2.json"
+    },
+    {
+      "id": "eaton-article-ce3fbb0d9c9835fad335c313",
+      "name": "170M3692 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ce3fbb0d9c9835fad335c313",
+      "recordPath": "equipment/eaton-article-ce3fbb0d9c9835fad335c313.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ce3fbb0d9c9835fad335c313.json"
+    },
+    {
+      "id": "eaton-article-8adc19924d229f75aadb00a7",
+      "name": "170M3709 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8adc19924d229f75aadb00a7",
+      "recordPath": "equipment/eaton-article-8adc19924d229f75aadb00a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8adc19924d229f75aadb00a7.json"
+    },
+    {
+      "id": "eaton-article-f195d1dd0f4beb75c20fbd73",
+      "name": "170M3761 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f195d1dd0f4beb75c20fbd73",
+      "recordPath": "equipment/eaton-article-f195d1dd0f4beb75c20fbd73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f195d1dd0f4beb75c20fbd73.json"
+    },
+    {
+      "id": "eaton-article-85f04f8b977c3957f483d823",
+      "name": "170M3741 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-85f04f8b977c3957f483d823",
+      "recordPath": "equipment/eaton-article-85f04f8b977c3957f483d823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-85f04f8b977c3957f483d823.json"
+    },
+    {
+      "id": "eaton-article-cf5a2963c35081af4d899d26",
+      "name": "170M3760 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cf5a2963c35081af4d899d26",
+      "recordPath": "equipment/eaton-article-cf5a2963c35081af4d899d26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cf5a2963c35081af4d899d26.json"
+    },
+    {
+      "id": "eaton-article-474dacf5d01c6281d12444bb",
+      "name": "170M3573 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-474dacf5d01c6281d12444bb",
+      "recordPath": "equipment/eaton-article-474dacf5d01c6281d12444bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-474dacf5d01c6281d12444bb.json"
+    },
+    {
+      "id": "eaton-article-d4aef898524779e7f11df568",
+      "name": "170M3570 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d4aef898524779e7f11df568",
+      "recordPath": "equipment/eaton-article-d4aef898524779e7f11df568.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d4aef898524779e7f11df568.json"
+    },
+    {
+      "id": "eaton-article-bf67756b961000a7738ba15c",
+      "name": "170M3673 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bf67756b961000a7738ba15c",
+      "recordPath": "equipment/eaton-article-bf67756b961000a7738ba15c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bf67756b961000a7738ba15c.json"
+    },
+    {
+      "id": "eaton-article-e8fa437a7c00c6e8f151a5ca",
+      "name": "FUSE 160A 1250V 1*FU/115 AR CU — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e8fa437a7c00c6e8f151a5ca",
+      "recordPath": "equipment/eaton-article-e8fa437a7c00c6e8f151a5ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e8fa437a7c00c6e8f151a5ca.json"
+    },
+    {
+      "id": "eaton-article-d9482cdec5f32a9f5c288e0c",
+      "name": "170M3710 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d9482cdec5f32a9f5c288e0c",
+      "recordPath": "equipment/eaton-article-d9482cdec5f32a9f5c288e0c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d9482cdec5f32a9f5c288e0c.json"
+    },
+    {
+      "id": "eaton-article-e0b65dad865b367ecd56ec60",
+      "name": "170M3812D — Fuse-link, high speed, 100 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e0b65dad865b367ecd56ec60",
+      "recordPath": "equipment/eaton-article-e0b65dad865b367ecd56ec60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e0b65dad865b367ecd56ec60.json"
+    },
+    {
+      "id": "eaton-article-8a887be2baaea0834e359661",
+      "name": "170M3723 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8a887be2baaea0834e359661",
+      "recordPath": "equipment/eaton-article-8a887be2baaea0834e359661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8a887be2baaea0834e359661.json"
+    },
+    {
+      "id": "eaton-article-706ce51ede8c84a9d719c2a7",
+      "name": "170M3815D — Fuse-link, high speed, 200 A, AC 690 V, DIN 1, aR, DIN, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-706ce51ede8c84a9d719c2a7",
+      "recordPath": "equipment/eaton-article-706ce51ede8c84a9d719c2a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-706ce51ede8c84a9d719c2a7.json"
+    },
+    {
+      "id": "eaton-article-06676b8a692820ae414b00ff",
+      "name": "630FMM — Fuse-link, high speed, 630 A, AC 690 V, DC 450 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-06676b8a692820ae414b00ff",
+      "recordPath": "equipment/eaton-article-06676b8a692820ae414b00ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-06676b8a692820ae414b00ff.json"
+    },
+    {
+      "id": "eaton-article-1a5bace8e0cd0ec5a070592d",
+      "name": "630A, AC 400V, NH3 fuse with insul lugs — Fuse-link, LV, 630 A, AC 400 V, NH3, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1a5bace8e0cd0ec5a070592d",
+      "recordPath": "equipment/eaton-article-1a5bace8e0cd0ec5a070592d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1a5bace8e0cd0ec5a070592d.json"
+    },
+    {
+      "id": "eaton-article-aeda75d0c634cd32ea5129d0",
+      "name": "800LMMT — Fuse-link, high speed, 800 A, AC 240 V, DC 150 V, BS88, 83 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aeda75d0c634cd32ea5129d0",
+      "recordPath": "equipment/eaton-article-aeda75d0c634cd32ea5129d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aeda75d0c634cd32ea5129d0.json"
+    },
+    {
+      "id": "eaton-article-06e71839ae33de187b1f0c0b",
+      "name": "550FMM — Fuse-link, high speed, 550 A, AC 690 V, DC 450 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-06e71839ae33de187b1f0c0b",
+      "recordPath": "equipment/eaton-article-06e71839ae33de187b1f0c0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-06e71839ae33de187b1f0c0b.json"
+    },
+    {
+      "id": "eaton-article-d486927e1175a2a2753e83c1",
+      "name": "710LMMT — Fuse-link, high speed, 710 A, AC 240 V, DC 150 V, BS88, 83 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d486927e1175a2a2753e83c1",
+      "recordPath": "equipment/eaton-article-d486927e1175a2a2753e83c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d486927e1175a2a2753e83c1.json"
+    },
+    {
+      "id": "eaton-article-c8e758d26af5c7be391efd7f",
+      "name": "63A 550V FUSE HOLDER — Fuse-holder, LV, 63 A, AC 550 V, BS88/F2, 1P, BS, front connected",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c8e758d26af5c7be391efd7f",
+      "recordPath": "equipment/eaton-article-c8e758d26af5c7be391efd7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c8e758d26af5c7be391efd7f.json"
+    },
+    {
+      "id": "eaton-article-b95a1cf6aa391dc33d29cb5c",
+      "name": "50A, AC 400V, NH01 Fuse with insul lugs — Fuse-link, LV, 50 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b95a1cf6aa391dc33d29cb5c",
+      "recordPath": "equipment/eaton-article-b95a1cf6aa391dc33d29cb5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b95a1cf6aa391dc33d29cb5c.json"
+    },
+    {
+      "id": "eaton-article-e7372e6a940bdb3d2bc2deeb",
+      "name": "NH FUSE 6A 690V SIZE 000 GG MGL — Fuse-link, LV, 6 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e7372e6a940bdb3d2bc2deeb",
+      "recordPath": "equipment/eaton-article-e7372e6a940bdb3d2bc2deeb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e7372e6a940bdb3d2bc2deeb.json"
+    },
+    {
+      "id": "eaton-article-049d65386cd17d92d1fde4a9",
+      "name": "NH FUSE 6A 500V SIZE 000 GG MGL — Fuse-link, LV, 6 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-049d65386cd17d92d1fde4a9",
+      "recordPath": "equipment/eaton-article-049d65386cd17d92d1fde4a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-049d65386cd17d92d1fde4a9.json"
+    },
+    {
+      "id": "eaton-article-4ed769cbde0c6c3b1bc74fbf",
+      "name": "63ET — Fuse-link, high speed, 63 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4ed769cbde0c6c3b1bc74fbf",
+      "recordPath": "equipment/eaton-article-4ed769cbde0c6c3b1bc74fbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4ed769cbde0c6c3b1bc74fbf.json"
+    },
+    {
+      "id": "eaton-article-ee4bc023b1456ca2f6cbf4ad",
+      "name": "63LET — Fuse-link, high speed, 63 A, AC 240 V, DC 150 V, BS88, 18 x 56 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ee4bc023b1456ca2f6cbf4ad",
+      "recordPath": "equipment/eaton-article-ee4bc023b1456ca2f6cbf4ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ee4bc023b1456ca2f6cbf4ad.json"
+    },
+    {
+      "id": "eaton-article-50ad5b8bcdb3bd2642f63bbe",
+      "name": "710MMT — Fuse-link, high speed, 710 A, AC 690 V, DC 350 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-50ad5b8bcdb3bd2642f63bbe",
+      "recordPath": "equipment/eaton-article-50ad5b8bcdb3bd2642f63bbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-50ad5b8bcdb3bd2642f63bbe.json"
+    },
+    {
+      "id": "eaton-article-ad140677612db01f81b58290",
+      "name": "71FE — Fuse-link, high speed, 71 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ad140677612db01f81b58290",
+      "recordPath": "equipment/eaton-article-ad140677612db01f81b58290.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ad140677612db01f81b58290.json"
+    },
+    {
+      "id": "eaton-article-941119a51fab21e084fb90ba",
+      "name": "56ET — Fuse-link, high speed, 56 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-941119a51fab21e084fb90ba",
+      "recordPath": "equipment/eaton-article-941119a51fab21e084fb90ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-941119a51fab21e084fb90ba.json"
+    },
+    {
+      "id": "eaton-article-454f57d6396ded268dc83ed5",
+      "name": "630MMT — Fuse-link, high speed, 630 A, AC 690 V, DC 350 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-454f57d6396ded268dc83ed5",
+      "recordPath": "equipment/eaton-article-454f57d6396ded268dc83ed5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-454f57d6396ded268dc83ed5.json"
+    },
+    {
+      "id": "eaton-article-555277eb9d3bfdf9aceccfcd",
+      "name": "6 A, AC 400 V, NH000 Fuse with live lugs — Fuse-link, LV, 6 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-555277eb9d3bfdf9aceccfcd",
+      "recordPath": "equipment/eaton-article-555277eb9d3bfdf9aceccfcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-555277eb9d3bfdf9aceccfcd.json"
+    },
+    {
+      "id": "eaton-article-d53dfe348997506b9989814c",
+      "name": "6A 690V AC BS88 FUSE — Fuse-link, high speed, 6 A, AC 690 V, DC 500 V, BS88, 9 x 75 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d53dfe348997506b9989814c",
+      "recordPath": "equipment/eaton-article-d53dfe348997506b9989814c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d53dfe348997506b9989814c.json"
+    },
+    {
+      "id": "eaton-article-c6c421fe49b540e7928fb159",
+      "name": "63NHG000BI-400 — Fuse-link, LV, 63 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c6c421fe49b540e7928fb159",
+      "recordPath": "equipment/eaton-article-c6c421fe49b540e7928fb159.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c6c421fe49b540e7928fb159.json"
+    },
+    {
+      "id": "eaton-article-cb79803a37aaccd860ecb200",
+      "name": "630LMMT — Fuse-link, high speed, 630 A, AC 240 V, DC 150 V, BS88, 83 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cb79803a37aaccd860ecb200",
+      "recordPath": "equipment/eaton-article-cb79803a37aaccd860ecb200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cb79803a37aaccd860ecb200.json"
+    },
+    {
+      "id": "eaton-article-620678badf493ba75616cc43",
+      "name": "80LET — Fuse-link, high speed, 80 A, AC 240 V, DC 150 V, BS88, 18 x 56 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-620678badf493ba75616cc43",
+      "recordPath": "equipment/eaton-article-620678badf493ba75616cc43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-620678badf493ba75616cc43.json"
+    },
+    {
+      "id": "eaton-article-529d62daadedae72d2ab52a0",
+      "name": "560MMT — Fuse-link, high speed, 560 A, AC 690 V, DC 350 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-529d62daadedae72d2ab52a0",
+      "recordPath": "equipment/eaton-article-529d62daadedae72d2ab52a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-529d62daadedae72d2ab52a0.json"
+    },
+    {
+      "id": "eaton-article-4db200f1e74e8b80ab81c4d3",
+      "name": "80A 690V AC BS88 FUSE — Fuse-link, high speed, 80 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4db200f1e74e8b80ab81c4d3",
+      "recordPath": "equipment/eaton-article-4db200f1e74e8b80ab81c4d3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4db200f1e74e8b80ab81c4d3.json"
+    },
+    {
+      "id": "eaton-article-f902a7527c0889a4e88311f3",
+      "name": "63A, AC 400V, NH01 Fuse with insul lugs — Fuse-link, LV, 63 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f902a7527c0889a4e88311f3",
+      "recordPath": "equipment/eaton-article-f902a7527c0889a4e88311f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f902a7527c0889a4e88311f3.json"
+    },
+    {
+      "id": "eaton-article-5a5d5402e79d2c723bfb4689",
+      "name": "NH FUSE 63AMP 690V gG SIZE 1 — Fuse-link, LV, 63 A, AC 690 V, NH1, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5a5d5402e79d2c723bfb4689",
+      "recordPath": "equipment/eaton-article-5a5d5402e79d2c723bfb4689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5a5d5402e79d2c723bfb4689.json"
+    },
+    {
+      "id": "eaton-article-7efdcd6c07d15d3a4b9a9b2b",
+      "name": "80FE — Fuse-link, high speed, 80 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7efdcd6c07d15d3a4b9a9b2b",
+      "recordPath": "equipment/eaton-article-7efdcd6c07d15d3a4b9a9b2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7efdcd6c07d15d3a4b9a9b2b.json"
+    },
+    {
+      "id": "eaton-article-988e84ef416bab149ece4a6a",
+      "name": "700FMM — Fuse-link, high speed, 700 A, AC 690 V, DC 450 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-988e84ef416bab149ece4a6a",
+      "recordPath": "equipment/eaton-article-988e84ef416bab149ece4a6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-988e84ef416bab149ece4a6a.json"
+    },
+    {
+      "id": "eaton-article-96bdae89bc408cdf12899444",
+      "name": "6LCT — Fuse-link, high speed, 6 A, AC 240 V, DC 150 V, BS88, 9 x 47 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-96bdae89bc408cdf12899444",
+      "recordPath": "equipment/eaton-article-96bdae89bc408cdf12899444.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-96bdae89bc408cdf12899444.json"
+    },
+    {
+      "id": "eaton-article-2396f59c7dcb43e0ccf7c39f",
+      "name": "63A F/HOLDER (5)1.4KG — Fuse-holder, low voltage, 63 A, AC 550 V, BS88/F2, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2396f59c7dcb43e0ccf7c39f",
+      "recordPath": "equipment/eaton-article-2396f59c7dcb43e0ccf7c39f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2396f59c7dcb43e0ccf7c39f.json"
+    },
+    {
+      "id": "eaton-article-6f778962cc9218bac53bb297",
+      "name": "63A 550V FUSEHOLDER 1.2KG — Fuse-holder, low voltage, 63 A, AC 550 V, BS88/F2, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6f778962cc9218bac53bb297",
+      "recordPath": "equipment/eaton-article-6f778962cc9218bac53bb297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6f778962cc9218bac53bb297.json"
+    },
+    {
+      "id": "eaton-article-0f722916f93716fd3359b217",
+      "name": "63A 550V F/HOLDER (5)1.2KG — Fuse-holder, LV, 63 A, AC 550 V, BS88/F2, 1P, BS, front connected, back stud connected",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0f722916f93716fd3359b217",
+      "recordPath": "equipment/eaton-article-0f722916f93716fd3359b217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0f722916f93716fd3359b217.json"
+    },
+    {
+      "id": "eaton-article-1671c269ab3dfc86831c6764",
+      "name": "63A 550V FUSE HOLDER WHITE — Fuse-holder, low voltage, 63 A, AC 550 V, BS88/F2, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1671c269ab3dfc86831c6764",
+      "recordPath": "equipment/eaton-article-1671c269ab3dfc86831c6764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1671c269ab3dfc86831c6764.json"
+    },
+    {
+      "id": "eaton-article-676e8fcbeadd990c7e1bf93e",
+      "name": "63A 550V F/HOLDER 1.4KG — Fuse-holder, low voltage, 63 A, AC 550 V, BS88/F2, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-676e8fcbeadd990c7e1bf93e",
+      "recordPath": "equipment/eaton-article-676e8fcbeadd990c7e1bf93e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-676e8fcbeadd990c7e1bf93e.json"
+    },
+    {
+      "id": "eaton-article-3caa5898e0f5fdd147525068",
+      "name": "NH FUSE 50A 690V GG SIZE 00 — Fuse-link, LV, 50 A, AC 690 V, NH00, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3caa5898e0f5fdd147525068",
+      "recordPath": "equipment/eaton-article-3caa5898e0f5fdd147525068.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3caa5898e0f5fdd147525068.json"
+    },
+    {
+      "id": "eaton-article-82397114d947560f80b1b517",
+      "name": "50 A, AC 400 V, NH02 Fuse with insul lugs — Fuse-link, LV, 50 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-82397114d947560f80b1b517",
+      "recordPath": "equipment/eaton-article-82397114d947560f80b1b517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-82397114d947560f80b1b517.json"
+    },
+    {
+      "id": "eaton-article-28aea0a1ef293f9341629b56",
+      "name": "50 A, AC 400 V, NH01 Fuse with live lugs — Fuse-link, LV, 50 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-28aea0a1ef293f9341629b56",
+      "recordPath": "equipment/eaton-article-28aea0a1ef293f9341629b56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-28aea0a1ef293f9341629b56.json"
+    },
+    {
+      "id": "eaton-article-d58aef417b9d947363ae2645",
+      "name": "NH FUSE 50AMP 690V aM SIZE 000 — Fuse-link, LV, 50 A, AC 690 V, NH000, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d58aef417b9d947363ae2645",
+      "recordPath": "equipment/eaton-article-d58aef417b9d947363ae2645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d58aef417b9d947363ae2645.json"
+    },
+    {
+      "id": "eaton-article-c8c81d866e40996e4cc235c3",
+      "name": "NH FUSE 50A 690V gG SIZE 1 — Fuse-link, LV, 50 A, AC 690 V, NH1, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c8c81d866e40996e4cc235c3",
+      "recordPath": "equipment/eaton-article-c8c81d866e40996e4cc235c3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c8c81d866e40996e4cc235c3.json"
+    },
+    {
+      "id": "eaton-article-1e4ed260de1e0830c17cf62f",
+      "name": "NH FUSE 50A 690V aM SIZE1 — Fuse-link, LV, 50 A, AC 690 V, NH1, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1e4ed260de1e0830c17cf62f",
+      "recordPath": "equipment/eaton-article-1e4ed260de1e0830c17cf62f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1e4ed260de1e0830c17cf62f.json"
+    },
+    {
+      "id": "eaton-article-31fa04a54e4596a6ddc72427",
+      "name": "50NHG1BI — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-31fa04a54e4596a6ddc72427",
+      "recordPath": "equipment/eaton-article-31fa04a54e4596a6ddc72427.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-31fa04a54e4596a6ddc72427.json"
+    },
+    {
+      "id": "eaton-article-84ddf52242136d32050f00c0",
+      "name": "50NHM1B — Fuse-link, low voltage, 50 A, AC 500 V, NH1, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-84ddf52242136d32050f00c0",
+      "recordPath": "equipment/eaton-article-84ddf52242136d32050f00c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-84ddf52242136d32050f00c0.json"
+    },
+    {
+      "id": "eaton-article-23cadeb34b3b383e16e30b03",
+      "name": "50NHM000B — Fuse-link, low voltage, 50 A, AC 500 V, NH000, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-23cadeb34b3b383e16e30b03",
+      "recordPath": "equipment/eaton-article-23cadeb34b3b383e16e30b03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-23cadeb34b3b383e16e30b03.json"
+    },
+    {
+      "id": "eaton-article-563ec529aaba71bbf162dc60",
+      "name": "50NHG1BI-690 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-563ec529aaba71bbf162dc60",
+      "recordPath": "equipment/eaton-article-563ec529aaba71bbf162dc60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-563ec529aaba71bbf162dc60.json"
+    },
+    {
+      "id": "eaton-article-8bffca5bfeccce448fb524df",
+      "name": "NH FUSE 50A 500V GL/GG SIZE 02 — Fuse-link, LV, 50 A, AC 500 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8bffca5bfeccce448fb524df",
+      "recordPath": "equipment/eaton-article-8bffca5bfeccce448fb524df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8bffca5bfeccce448fb524df.json"
+    },
+    {
+      "id": "eaton-article-69df62a334b598ae9dbfeba7",
+      "name": "NH FUSE 50A 500V GL/GG SIZE 01 — Fuse-link, LV, 50 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-69df62a334b598ae9dbfeba7",
+      "recordPath": "equipment/eaton-article-69df62a334b598ae9dbfeba7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-69df62a334b598ae9dbfeba7.json"
+    },
+    {
+      "id": "eaton-article-82f59b558ed4fc8bed4c98fd",
+      "name": "NH FUSE 50A 500V gG SIZE 1 DUAL IND — Fuse-link, low voltage, 50 A, AC 500 V, NH1, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-82f59b558ed4fc8bed4c98fd",
+      "recordPath": "equipment/eaton-article-82f59b558ed4fc8bed4c98fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-82f59b558ed4fc8bed4c98fd.json"
+    },
+    {
+      "id": "eaton-article-ec6dddbf7b4dd848d3896e87",
+      "name": "50 A, AC 400 V, NH02 Fuse with live lugs — Fuse-link, LV, 50 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ec6dddbf7b4dd848d3896e87",
+      "recordPath": "equipment/eaton-article-ec6dddbf7b4dd848d3896e87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ec6dddbf7b4dd848d3896e87.json"
+    },
+    {
+      "id": "eaton-article-4afa1c0a7c4d190506b07f87",
+      "name": "500V 630A NH4 FUSE gG — Fuse-link, LV, 630 A, AC 500 V, NH4, gL/gG, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4afa1c0a7c4d190506b07f87",
+      "recordPath": "equipment/eaton-article-4afa1c0a7c4d190506b07f87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4afa1c0a7c4d190506b07f87.json"
+    },
+    {
+      "id": "eaton-article-8bb59cd95c2627245915afc2",
+      "name": "630 A, AC 400 V, NH3 Fuse with live lugs — Fuse-link, LV, 630 A, AC 400 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8bb59cd95c2627245915afc2",
+      "recordPath": "equipment/eaton-article-8bb59cd95c2627245915afc2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8bb59cd95c2627245915afc2.json"
+    },
+    {
+      "id": "eaton-article-c9309a9125f8953afd0f1b2c",
+      "name": "NH FUSE 630A 690V GG SIZE 4 — Fuse-link, LV, 630 A, AC 690 V, NH4, gL/gG, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c9309a9125f8953afd0f1b2c",
+      "recordPath": "equipment/eaton-article-c9309a9125f8953afd0f1b2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c9309a9125f8953afd0f1b2c.json"
+    },
+    {
+      "id": "eaton-article-1ade92fa04a98ebbb174a506",
+      "name": "NH FUSE 630A 400V GG/GL SIZE 2 — Fuse-link, LV, 630 A, AC 400 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1ade92fa04a98ebbb174a506",
+      "recordPath": "equipment/eaton-article-1ade92fa04a98ebbb174a506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1ade92fa04a98ebbb174a506.json"
+    },
+    {
+      "id": "eaton-article-6543f1291feb6b964e7ebc8f",
+      "name": "630NHFF3BI-400 — Fuse-link, low voltage, 630 A, AC 400 V, NH3, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6543f1291feb6b964e7ebc8f",
+      "recordPath": "equipment/eaton-article-6543f1291feb6b964e7ebc8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6543f1291feb6b964e7ebc8f.json"
+    },
+    {
+      "id": "eaton-article-9dd0d2afc972c63d9b841506",
+      "name": "6NHG01BI — Fuse-link, low voltage, 6 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9dd0d2afc972c63d9b841506",
+      "recordPath": "equipment/eaton-article-9dd0d2afc972c63d9b841506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9dd0d2afc972c63d9b841506.json"
+    },
+    {
+      "id": "eaton-article-1c39af1a4e0424006d9d0b0a",
+      "name": "NH FUSE 63A 500V GL/GG SIZE 01 — Fuse-link, LV, 63 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1c39af1a4e0424006d9d0b0a",
+      "recordPath": "equipment/eaton-article-1c39af1a4e0424006d9d0b0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1c39af1a4e0424006d9d0b0a.json"
+    },
+    {
+      "id": "eaton-article-0d07b575155bd4e1534e93b5",
+      "name": "NH FUSE 6A 500V GG/GL SIZE 01 — Fuse-link, LV, 6 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0d07b575155bd4e1534e93b5",
+      "recordPath": "equipment/eaton-article-0d07b575155bd4e1534e93b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0d07b575155bd4e1534e93b5.json"
+    },
+    {
+      "id": "eaton-article-2a41cf4e12f9e2da4c98f1e7",
+      "name": "63 A, AC 400 V, NH01 Fuse with live lugs — Fuse-link, LV, 63 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2a41cf4e12f9e2da4c98f1e7",
+      "recordPath": "equipment/eaton-article-2a41cf4e12f9e2da4c98f1e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2a41cf4e12f9e2da4c98f1e7.json"
+    },
+    {
+      "id": "eaton-article-b83ec3957b132d9f46100140",
+      "name": "NH FUSE 63A 500V SIZE 000 GG IMGL — Fuse-link, LV, 63 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b83ec3957b132d9f46100140",
+      "recordPath": "equipment/eaton-article-b83ec3957b132d9f46100140.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b83ec3957b132d9f46100140.json"
+    },
+    {
+      "id": "eaton-article-832d267b723db3ac23c2d6e1",
+      "name": "NH FUSE 63A 500V GG SIZE — Fuse-link, low voltage, 63 A, AC 500 V, NH00, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-832d267b723db3ac23c2d6e1",
+      "recordPath": "equipment/eaton-article-832d267b723db3ac23c2d6e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-832d267b723db3ac23c2d6e1.json"
+    },
+    {
+      "id": "eaton-article-08ae99b43b5e9f0f3a4e3550",
+      "name": "NH FUSE 63A 690V SIZE 000 GG IMGL — Fuse-link, low voltage, 63 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-08ae99b43b5e9f0f3a4e3550",
+      "recordPath": "equipment/eaton-article-08ae99b43b5e9f0f3a4e3550.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-08ae99b43b5e9f0f3a4e3550.json"
+    },
+    {
+      "id": "eaton-article-fcc1369a788cf0e0c4dd2966",
+      "name": "63NHFF00BI-400 — Fuse-link, low voltage, 63 A, AC 400 V, NH000, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fcc1369a788cf0e0c4dd2966",
+      "recordPath": "equipment/eaton-article-fcc1369a788cf0e0c4dd2966.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fcc1369a788cf0e0c4dd2966.json"
+    },
+    {
+      "id": "eaton-article-c5e0ba7db34f674e236ad3ad",
+      "name": "NH FUSE 63AMP 690V SIZE 000 GG MGL — Fuse-link, LV, 63 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c5e0ba7db34f674e236ad3ad",
+      "recordPath": "equipment/eaton-article-c5e0ba7db34f674e236ad3ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c5e0ba7db34f674e236ad3ad.json"
+    },
+    {
+      "id": "eaton-article-cc75b1dc1184d29e4bc28d7b",
+      "name": "63NHG000B-400 — Fuse-link, LV, 63 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cc75b1dc1184d29e4bc28d7b",
+      "recordPath": "equipment/eaton-article-cc75b1dc1184d29e4bc28d7b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cc75b1dc1184d29e4bc28d7b.json"
+    },
+    {
+      "id": "eaton-article-edf81c79bd984ac0825ca1e3",
+      "name": "63NHFF1BI-400 — Fuse-link, low voltage, 63 A, AC 400 V, NH1, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-edf81c79bd984ac0825ca1e3",
+      "recordPath": "equipment/eaton-article-edf81c79bd984ac0825ca1e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-edf81c79bd984ac0825ca1e3.json"
+    },
+    {
+      "id": "eaton-article-7d47996111c92c3af0faabfb",
+      "name": "63A, AC 400V, NH02 Fuse with insul lugs — Fuse-link, LV, 63 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7d47996111c92c3af0faabfb",
+      "recordPath": "equipment/eaton-article-7d47996111c92c3af0faabfb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7d47996111c92c3af0faabfb.json"
+    },
+    {
+      "id": "eaton-article-699e862770e67ae530c1a3f6",
+      "name": "63NHG1BI-690 — Fuse-link, low voltage, 63 A, AC 690 V, NH1, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-699e862770e67ae530c1a3f6",
+      "recordPath": "equipment/eaton-article-699e862770e67ae530c1a3f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-699e862770e67ae530c1a3f6.json"
+    },
+    {
+      "id": "eaton-article-44c0f69515479bad40813ef2",
+      "name": "NH FUSE 63AMP 500V AM SIZE 1 — Fuse-link, LV, 63 A, AC 500 V, NH1, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-44c0f69515479bad40813ef2",
+      "recordPath": "equipment/eaton-article-44c0f69515479bad40813ef2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-44c0f69515479bad40813ef2.json"
+    },
+    {
+      "id": "eaton-article-63be4fe0f1b8ff298b3a02cb",
+      "name": "FUSE NH SIZE 00 AM 63A 500V — Fuse-link, LV, 63 A, AC 500 V, NH00, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-63be4fe0f1b8ff298b3a02cb",
+      "recordPath": "equipment/eaton-article-63be4fe0f1b8ff298b3a02cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-63be4fe0f1b8ff298b3a02cb.json"
+    },
+    {
+      "id": "eaton-article-0f8be23a61098bc4bd9df3b4",
+      "name": "NH FUSE 63AMP 690V aM SIZE1 — Fuse-link, LV, 63 A, AC 690 V, NH1, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0f8be23a61098bc4bd9df3b4",
+      "recordPath": "equipment/eaton-article-0f8be23a61098bc4bd9df3b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0f8be23a61098bc4bd9df3b4.json"
+    },
+    {
+      "id": "eaton-article-719af0e5f65609e20891fdea",
+      "name": "NH FUSE 63A 690V aM SIZE 00 — Fuse-link, LV, 63 A, AC 690 V, NH00, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-719af0e5f65609e20891fdea",
+      "recordPath": "equipment/eaton-article-719af0e5f65609e20891fdea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-719af0e5f65609e20891fdea.json"
+    },
+    {
+      "id": "eaton-article-ed701779fcb970927a885c88",
+      "name": "63 A, AC 400 V, NH02 Fuse with live lugs — Fuse-link, LV, 63 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ed701779fcb970927a885c88",
+      "recordPath": "equipment/eaton-article-ed701779fcb970927a885c88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ed701779fcb970927a885c88.json"
+    },
+    {
+      "id": "eaton-article-32d49141b6b87825db3a51ff",
+      "name": "NH FUSE 63A 690V gG SIZE 00 — Fuse-link, LV, 63 A, AC 690 V, NH00, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-32d49141b6b87825db3a51ff",
+      "recordPath": "equipment/eaton-article-32d49141b6b87825db3a51ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-32d49141b6b87825db3a51ff.json"
+    },
+    {
+      "id": "eaton-article-fc76fc2ac6667199601eea60",
+      "name": "NH FUSE 63A 500V GL/GG SIZE 02 — Fuse-link, LV, 63 A, AC 500 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fc76fc2ac6667199601eea60",
+      "recordPath": "equipment/eaton-article-fc76fc2ac6667199601eea60.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fc76fc2ac6667199601eea60.json"
+    },
+    {
+      "id": "eaton-article-77c401e3c998ccce64a12037",
+      "name": "63NHG1BI — Fuse-link, low voltage, 63 A, AC 500 V, NH1, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-77c401e3c998ccce64a12037",
+      "recordPath": "equipment/eaton-article-77c401e3c998ccce64a12037.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-77c401e3c998ccce64a12037.json"
+    },
+    {
+      "id": "eaton-article-f4b6373fb3891a7867b8c253",
+      "name": "63NHG1B — Fuse-link, low voltage, 63 A, AC 500 V, NH1, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f4b6373fb3891a7867b8c253",
+      "recordPath": "equipment/eaton-article-f4b6373fb3891a7867b8c253.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f4b6373fb3891a7867b8c253.json"
+    },
+    {
+      "id": "eaton-article-1c181a92e64ec29a0a13b6c2",
+      "name": "NH FUSE 6A 690V gG SIZE 0 — Fuse-link, LV, 6 A, AC 690 V, NH0, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1c181a92e64ec29a0a13b6c2",
+      "recordPath": "equipment/eaton-article-1c181a92e64ec29a0a13b6c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1c181a92e64ec29a0a13b6c2.json"
+    },
+    {
+      "id": "eaton-article-b6e13695f6863b997ce76e55",
+      "name": "NH FUSE 6A 500V GG/GL SIZE 0 — Fuse-link, LV, 6 A, AC 500 V, NH0, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b6e13695f6863b997ce76e55",
+      "recordPath": "equipment/eaton-article-b6e13695f6863b997ce76e55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b6e13695f6863b997ce76e55.json"
+    },
+    {
+      "id": "eaton-article-a2e9ec94a243a13546dbe7fb",
+      "name": "NH FUSE 6A 500V SIZE 000 GG IMGL — Fuse-link, LV, 6 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a2e9ec94a243a13546dbe7fb",
+      "recordPath": "equipment/eaton-article-a2e9ec94a243a13546dbe7fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a2e9ec94a243a13546dbe7fb.json"
+    },
+    {
+      "id": "eaton-article-6408d0a5a1b0313aed392572",
+      "name": "NH FUSE 800A 690V GG/GL SIZE 4 — Fuse-link, LV, 800 A, AC 690 V, NH4, gL/gG, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6408d0a5a1b0313aed392572",
+      "recordPath": "equipment/eaton-article-6408d0a5a1b0313aed392572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6408d0a5a1b0313aed392572.json"
+    },
+    {
+      "id": "eaton-article-f703420494fa1bc8c23634f8",
+      "name": "NH FUSE 800A 440V GG/GL SIZE 3 — Fuse-link, LV, 800 A, AC 440 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f703420494fa1bc8c23634f8",
+      "recordPath": "equipment/eaton-article-f703420494fa1bc8c23634f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f703420494fa1bc8c23634f8.json"
+    },
+    {
+      "id": "eaton-article-7651690c8e4d131ff869dc97",
+      "name": "6NHM000B — Fuse-link, low voltage, 6 A, AC 500 V, NH000, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7651690c8e4d131ff869dc97",
+      "recordPath": "equipment/eaton-article-7651690c8e4d131ff869dc97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7651690c8e4d131ff869dc97.json"
+    },
+    {
+      "id": "eaton-article-ffe24429468a5f7e3fae13c6",
+      "name": "NH4 FUSE 500V 800A AG — Fuse-link, LV, 800 A, AC 500 V, NH4, gL/gG, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ffe24429468a5f7e3fae13c6",
+      "recordPath": "equipment/eaton-article-ffe24429468a5f7e3fae13c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ffe24429468a5f7e3fae13c6.json"
+    },
+    {
+      "id": "eaton-article-3ffed64800145dc9b69b4f2d",
+      "name": "NH FUSE 6AMP 690V aM SIZE 000 — Fuse-link, LV, 6 A, AC 690 V, NH000, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3ffed64800145dc9b69b4f2d",
+      "recordPath": "equipment/eaton-article-3ffed64800145dc9b69b4f2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3ffed64800145dc9b69b4f2d.json"
+    },
+    {
+      "id": "eaton-article-23fae3cc6a0241cc2e005eaf",
+      "name": "6A, AC 400V, NH000 Fuse with insul lugs — Fuse-link, LV, 6 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-23fae3cc6a0241cc2e005eaf",
+      "recordPath": "equipment/eaton-article-23fae3cc6a0241cc2e005eaf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-23fae3cc6a0241cc2e005eaf.json"
+    },
+    {
+      "id": "eaton-article-7972da6dd6c107692faa8332",
+      "name": "63NHFF000BI-400 — Fuse-link, low voltage, 63 A, AC 400 V, NH000, gFF, IEC, dual indicator, insulated gripping lugs.",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7972da6dd6c107692faa8332",
+      "recordPath": "equipment/eaton-article-7972da6dd6c107692faa8332.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7972da6dd6c107692faa8332.json"
+    },
+    {
+      "id": "eaton-article-70f8dae49b6e821e5af3dbf4",
+      "name": "80NHFF000BI-400 — Fuse-link, low voltage, 80 A, AC 400 V, NH000, gFF, IEC, dual indicator, insulated gripping lugs .",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-70f8dae49b6e821e5af3dbf4",
+      "recordPath": "equipment/eaton-article-70f8dae49b6e821e5af3dbf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-70f8dae49b6e821e5af3dbf4.json"
+    },
+    {
+      "id": "eaton-article-882a66bef61a1996e65e3286",
+      "name": "50NHG00BWP — Fuse-link, LV, 50 A, AC 500 V, NH00, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-882a66bef61a1996e65e3286",
+      "recordPath": "equipment/eaton-article-882a66bef61a1996e65e3286.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-882a66bef61a1996e65e3286.json"
+    },
+    {
+      "id": "eaton-article-11ee8d0e5d106654bbbec006",
+      "name": "63NHG00BWP — Fuse-link, LV, 63 A, AC 500 V, NH00, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-11ee8d0e5d106654bbbec006",
+      "recordPath": "equipment/eaton-article-11ee8d0e5d106654bbbec006.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-11ee8d0e5d106654bbbec006.json"
+    },
+    {
+      "id": "eaton-article-66380fb651dc39c31f98b346",
+      "name": "63NHG2BWP — Fuse-link, LV, 63 A, AC 500 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-66380fb651dc39c31f98b346",
+      "recordPath": "equipment/eaton-article-66380fb651dc39c31f98b346.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-66380fb651dc39c31f98b346.json"
+    },
+    {
+      "id": "eaton-article-cdfbd7e1e90e9e509e0f6676",
+      "name": "NH FUSE 63AMP 500V SIZE 000 GG MGL — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cdfbd7e1e90e9e509e0f6676",
+      "recordPath": "equipment/eaton-article-cdfbd7e1e90e9e509e0f6676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cdfbd7e1e90e9e509e0f6676.json"
+    },
+    {
+      "id": "eaton-article-ca109e17f3fb7c5923986a65",
+      "name": "NH FUSE 50A 500V GG/GL SIZE 02 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ca109e17f3fb7c5923986a65",
+      "recordPath": "equipment/eaton-article-ca109e17f3fb7c5923986a65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ca109e17f3fb7c5923986a65.json"
+    },
+    {
+      "id": "eaton-article-07b2c672bb41f7c3898232dc",
+      "name": "NH FUSE 50A 500V GG/GL SIZE 0 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-07b2c672bb41f7c3898232dc",
+      "recordPath": "equipment/eaton-article-07b2c672bb41f7c3898232dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-07b2c672bb41f7c3898232dc.json"
+    },
+    {
+      "id": "eaton-article-1f57a019ffabec5ddf6124ea",
+      "name": "NH FUSE 63A 690V gG SIZE 00 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1f57a019ffabec5ddf6124ea",
+      "recordPath": "equipment/eaton-article-1f57a019ffabec5ddf6124ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1f57a019ffabec5ddf6124ea.json"
+    },
+    {
+      "id": "eaton-article-a28b16a45fc3cdd056e0569f",
+      "name": "NH FUSE 63A 500V GG/GL SIZE 01 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a28b16a45fc3cdd056e0569f",
+      "recordPath": "equipment/eaton-article-a28b16a45fc3cdd056e0569f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a28b16a45fc3cdd056e0569f.json"
+    },
+    {
+      "id": "eaton-article-479d27b96e0623d356d585af",
+      "name": "NH FUSE 50A 500V GG/GL SIZE 01 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-479d27b96e0623d356d585af",
+      "recordPath": "equipment/eaton-article-479d27b96e0623d356d585af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-479d27b96e0623d356d585af.json"
+    },
+    {
+      "id": "eaton-article-1354f534c25ba9721ea0c8c1",
+      "name": "NH FUSE 630A 500V GG/GL SIZE 3 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1354f534c25ba9721ea0c8c1",
+      "recordPath": "equipment/eaton-article-1354f534c25ba9721ea0c8c1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1354f534c25ba9721ea0c8c1.json"
+    },
+    {
+      "id": "eaton-article-79ad91e039805a7a979f37bc",
+      "name": "NH FUSE 63A 500V GG/GL SIZE 02 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-79ad91e039805a7a979f37bc",
+      "recordPath": "equipment/eaton-article-79ad91e039805a7a979f37bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-79ad91e039805a7a979f37bc.json"
+    },
+    {
+      "id": "eaton-article-9b9be8df6add68673c1fc1cc",
+      "name": "NH FUSE 63A 500V GG/GL SIZE 0 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9b9be8df6add68673c1fc1cc",
+      "recordPath": "equipment/eaton-article-9b9be8df6add68673c1fc1cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9b9be8df6add68673c1fc1cc.json"
+    },
+    {
+      "id": "eaton-article-7093bc6d3416669409a7ebe8",
+      "name": "NH FUSE 50AMP 800V gG SIZE 1 — Fuse-link, LV, 50 A, 800 V AC, NH1, Class gG/gL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7093bc6d3416669409a7ebe8",
+      "recordPath": "equipment/eaton-article-7093bc6d3416669409a7ebe8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7093bc6d3416669409a7ebe8.json"
+    },
+    {
+      "id": "eaton-article-fd20f906bef9a2869dd9d2f9",
+      "name": "NH FUSE 63AMP 800V gG SIZE 1 — Fuse-link, LV, 63 A, 800 V AC, NH1, Class gG/gL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fd20f906bef9a2869dd9d2f9",
+      "recordPath": "equipment/eaton-article-fd20f906bef9a2869dd9d2f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fd20f906bef9a2869dd9d2f9.json"
+    },
+    {
+      "id": "eaton-article-9afe2717f6f8cac79f7953c2",
+      "name": "35A, AC 400 V, NH01 Fuse with insul lugs — Fuse-link, LV, 35 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9afe2717f6f8cac79f7953c2",
+      "recordPath": "equipment/eaton-article-9afe2717f6f8cac79f7953c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9afe2717f6f8cac79f7953c2.json"
+    },
+    {
+      "id": "eaton-article-7b53fedf9dc0243313bebe43",
+      "name": "400FMM — Fuse-link, high speed, 400 A, AC 690 V, DC 450 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7b53fedf9dc0243313bebe43",
+      "recordPath": "equipment/eaton-article-7b53fedf9dc0243313bebe43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7b53fedf9dc0243313bebe43.json"
+    },
+    {
+      "id": "eaton-article-e07f1e8bd7266865b5b5bc49",
+      "name": "50FE — Fuse-link, high speed, 50 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e07f1e8bd7266865b5b5bc49",
+      "recordPath": "equipment/eaton-article-e07f1e8bd7266865b5b5bc49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e07f1e8bd7266865b5b5bc49.json"
+    },
+    {
+      "id": "eaton-article-aa43b0d9843cd84c428fa4fc",
+      "name": "500A, AC 400V, NH3 Fuse with insul lugs — Fuse-link, LV, 500 A, AC 400 V, NH3, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aa43b0d9843cd84c428fa4fc",
+      "recordPath": "equipment/eaton-article-aa43b0d9843cd84c428fa4fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aa43b0d9843cd84c428fa4fc.json"
+    },
+    {
+      "id": "eaton-article-3bdee1b83f042d854283d055",
+      "name": "50NHG000B-400 — Fuse-link, LV, 50 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3bdee1b83f042d854283d055",
+      "recordPath": "equipment/eaton-article-3bdee1b83f042d854283d055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3bdee1b83f042d854283d055.json"
+    },
+    {
+      "id": "eaton-article-c59d38e063844225119bf37f",
+      "name": "NH FUSE 500A 690V gG SIZE 3 — Fuse-link, LV, 500 A, AC 690 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c59d38e063844225119bf37f",
+      "recordPath": "equipment/eaton-article-c59d38e063844225119bf37f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c59d38e063844225119bf37f.json"
+    },
+    {
+      "id": "eaton-article-e35b840c9bb4d402d02ea08f",
+      "name": "NH FUSE 4A 690V SIZE 000 GG MGL — Fuse-link, LV, 4 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e35b840c9bb4d402d02ea08f",
+      "recordPath": "equipment/eaton-article-e35b840c9bb4d402d02ea08f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e35b840c9bb4d402d02ea08f.json"
+    },
+    {
+      "id": "eaton-article-a5e5a88d3cc1081977261ebf",
+      "name": "NH FUSE 50A 690V gG SIZE 00 — Fuse-link, LV, 50 A, AC 690 V, NH00, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a5e5a88d3cc1081977261ebf",
+      "recordPath": "equipment/eaton-article-a5e5a88d3cc1081977261ebf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a5e5a88d3cc1081977261ebf.json"
+    },
+    {
+      "id": "eaton-article-de07ae02bd77003cf938b1c4",
+      "name": "450MMT — Fuse-link, high speed, 450 A, AC 690 V, DC 350 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-de07ae02bd77003cf938b1c4",
+      "recordPath": "equipment/eaton-article-de07ae02bd77003cf938b1c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-de07ae02bd77003cf938b1c4.json"
+    },
+    {
+      "id": "eaton-article-64b7a3890878a609232c7f4a",
+      "name": "4 A, AC 400 V, NH000 Fuse with live lugs — Fuse-link, LV, 4 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-64b7a3890878a609232c7f4a",
+      "recordPath": "equipment/eaton-article-64b7a3890878a609232c7f4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-64b7a3890878a609232c7f4a.json"
+    },
+    {
+      "id": "eaton-article-af69c558b3169d108d5233bb",
+      "name": "500MMT — Fuse-link, high speed, 500 A, AC 690 V, DC 350 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-af69c558b3169d108d5233bb",
+      "recordPath": "equipment/eaton-article-af69c558b3169d108d5233bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-af69c558b3169d108d5233bb.json"
+    },
+    {
+      "id": "eaton-article-e46cd2f7a9dada0e53247a51",
+      "name": "NH FUSE 40A 690V SIZE 000 GG MGL — Fuse-link, LV, 40 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e46cd2f7a9dada0e53247a51",
+      "recordPath": "equipment/eaton-article-e46cd2f7a9dada0e53247a51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e46cd2f7a9dada0e53247a51.json"
+    },
+    {
+      "id": "eaton-article-34e8ced32583f81f7580e41a",
+      "name": "NH FUSE 400A 690V gG SIZE 3 — Fuse-link, LV, 400 A, AC 690 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-34e8ced32583f81f7580e41a",
+      "recordPath": "equipment/eaton-article-34e8ced32583f81f7580e41a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-34e8ced32583f81f7580e41a.json"
+    },
+    {
+      "id": "eaton-article-2cba0b43493c373865e1b9cc",
+      "name": "35LET — Fuse-link, high speed, 35 A, AC 240 V, DC 150 V, BS88, 18 x 56 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2cba0b43493c373865e1b9cc",
+      "recordPath": "equipment/eaton-article-2cba0b43493c373865e1b9cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2cba0b43493c373865e1b9cc.json"
+    },
+    {
+      "id": "eaton-article-01c7353002db5f460d6fd669",
+      "name": "400LMT — Fuse-link, high speed, 400 A, AC 240 V, DC 150 V, BS88, 38 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-01c7353002db5f460d6fd669",
+      "recordPath": "equipment/eaton-article-01c7353002db5f460d6fd669.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-01c7353002db5f460d6fd669.json"
+    },
+    {
+      "id": "eaton-article-8ab11916ed4b141cc1155aec",
+      "name": "50NHG000BI-400 — Fuse-link, LV, 50 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8ab11916ed4b141cc1155aec",
+      "recordPath": "equipment/eaton-article-8ab11916ed4b141cc1155aec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8ab11916ed4b141cc1155aec.json"
+    },
+    {
+      "id": "eaton-article-0544c0b74a94e13b9bab8288",
+      "name": "450LMT — Fuse-link, high speed, 450 A, AC 240 V, DC 150 V, BS88, 38 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0544c0b74a94e13b9bab8288",
+      "recordPath": "equipment/eaton-article-0544c0b74a94e13b9bab8288.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0544c0b74a94e13b9bab8288.json"
+    },
+    {
+      "id": "eaton-article-a821f68a8cc114809cd0689b",
+      "name": "450FMM — Fuse-link, high speed, 450 A, AC 690 V, DC 450 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a821f68a8cc114809cd0689b",
+      "recordPath": "equipment/eaton-article-a821f68a8cc114809cd0689b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a821f68a8cc114809cd0689b.json"
+    },
+    {
+      "id": "eaton-article-986ed7c63eb40387edf727c9",
+      "name": "50LET — Fuse-link, high speed, 50 A, AC 240 V, DC 150 V, BS88, 18 x 56 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-986ed7c63eb40387edf727c9",
+      "recordPath": "equipment/eaton-article-986ed7c63eb40387edf727c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-986ed7c63eb40387edf727c9.json"
+    },
+    {
+      "id": "eaton-article-746891b3c32266fe031b7350",
+      "name": "500LMMT — Fuse-link, high speed, 500 A, AC 240 V, DC 150 V, BS88, 83 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-746891b3c32266fe031b7350",
+      "recordPath": "equipment/eaton-article-746891b3c32266fe031b7350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-746891b3c32266fe031b7350.json"
+    },
+    {
+      "id": "eaton-article-5039c2038d47b61cb87d91e5",
+      "name": "45FE — Fuse-link, high speed, 45 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5039c2038d47b61cb87d91e5",
+      "recordPath": "equipment/eaton-article-5039c2038d47b61cb87d91e5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5039c2038d47b61cb87d91e5.json"
+    },
+    {
+      "id": "eaton-article-58bde315952b7e8f19f12e3b",
+      "name": "400MMT — Fuse-link, high speed, 400 A, AC 690 V, DC 350 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-58bde315952b7e8f19f12e3b",
+      "recordPath": "equipment/eaton-article-58bde315952b7e8f19f12e3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-58bde315952b7e8f19f12e3b.json"
+    },
+    {
+      "id": "eaton-article-b875aa330401b8032606ca64",
+      "name": "NH FUSE 4A 500V SIZE 000 GG MGL — Fuse-link, LV, 4 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b875aa330401b8032606ca64",
+      "recordPath": "equipment/eaton-article-b875aa330401b8032606ca64.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b875aa330401b8032606ca64.json"
+    },
+    {
+      "id": "eaton-article-2df04d01674bd08ff13a5522",
+      "name": "35FE — Fuse-link, high speed, 35 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2df04d01674bd08ff13a5522",
+      "recordPath": "equipment/eaton-article-2df04d01674bd08ff13a5522.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2df04d01674bd08ff13a5522.json"
+    },
+    {
+      "id": "eaton-article-87dce4c83725c45aa2043d78",
+      "name": "NH FUSE 35A 690V SIZE 000 GG MGL — Fuse-link, LV, 35 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-87dce4c83725c45aa2043d78",
+      "recordPath": "equipment/eaton-article-87dce4c83725c45aa2043d78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-87dce4c83725c45aa2043d78.json"
+    },
+    {
+      "id": "eaton-article-f1b0136a9f3b757eb418d70c",
+      "name": "45ET — Fuse-link, high speed, 45 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f1b0136a9f3b757eb418d70c",
+      "recordPath": "equipment/eaton-article-f1b0136a9f3b757eb418d70c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f1b0136a9f3b757eb418d70c.json"
+    },
+    {
+      "id": "eaton-article-b343de39805655e4f2a06110",
+      "name": "400 A, AC 400 V, NH2 Fuse with insul lugs — Fuse-link, low voltage, 400 A, AC 400 V, NH2, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b343de39805655e4f2a06110",
+      "recordPath": "equipment/eaton-article-b343de39805655e4f2a06110.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b343de39805655e4f2a06110.json"
+    },
+    {
+      "id": "eaton-article-907023e4ca17e6fd8ae302b6",
+      "name": "40FE — Fuse-link, high speed, 40 A, AC 690 V, DC 500 V, BS88, 19 x 77 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-907023e4ca17e6fd8ae302b6",
+      "recordPath": "equipment/eaton-article-907023e4ca17e6fd8ae302b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-907023e4ca17e6fd8ae302b6.json"
+    },
+    {
+      "id": "eaton-article-7b0589bfe74987b50ffbafd4",
+      "name": "NH FUSE 500A 500V GG/GL SIZE 2 — Fuse-link, LV, 500 A, AC 440 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7b0589bfe74987b50ffbafd4",
+      "recordPath": "equipment/eaton-article-7b0589bfe74987b50ffbafd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7b0589bfe74987b50ffbafd4.json"
+    },
+    {
+      "id": "eaton-article-577c80384117ef9f5f3d4614",
+      "name": "400LMMT — Fuse-link, high speed, 400 A, AC 240 V, DC 150 V, BS88, 83 x 84 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-577c80384117ef9f5f3d4614",
+      "recordPath": "equipment/eaton-article-577c80384117ef9f5f3d4614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-577c80384117ef9f5f3d4614.json"
+    },
+    {
+      "id": "eaton-article-dbef1239562e5b73f3061486",
+      "name": "500FMM — Fuse-link, high speed, 500 A, AC 690 V, DC 450 V, BS88, 83 x 113 mm, aR, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dbef1239562e5b73f3061486",
+      "recordPath": "equipment/eaton-article-dbef1239562e5b73f3061486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dbef1239562e5b73f3061486.json"
+    },
+    {
+      "id": "eaton-article-9fc41ea388a25b550b2c8f65",
+      "name": "450NHFF3BI-400 — Fuse-link, low voltage, 450 A, AC 400 V, NH3, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9fc41ea388a25b550b2c8f65",
+      "recordPath": "equipment/eaton-article-9fc41ea388a25b550b2c8f65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9fc41ea388a25b550b2c8f65.json"
+    },
+    {
+      "id": "eaton-article-7ab3ff0a4e3d3debb2258deb",
+      "name": "NH FUSE 40A 690V aM SIZE 000 — Fuse-link, LV, 40 A, AC 690 V, NH000, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7ab3ff0a4e3d3debb2258deb",
+      "recordPath": "equipment/eaton-article-7ab3ff0a4e3d3debb2258deb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7ab3ff0a4e3d3debb2258deb.json"
+    },
+    {
+      "id": "eaton-article-b14b67cf9a2b8139b3513190",
+      "name": "500NHM3B — Fuse-link, low voltage, 500 A, AC 500 V, NH3, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b14b67cf9a2b8139b3513190",
+      "recordPath": "equipment/eaton-article-b14b67cf9a2b8139b3513190.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b14b67cf9a2b8139b3513190.json"
+    },
+    {
+      "id": "eaton-article-0833fbe46544bb8d545fd02c",
+      "name": "NH FUSE 4A 500V SIZE 000 GG IMGL — Fuse-link, LV, 4 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0833fbe46544bb8d545fd02c",
+      "recordPath": "equipment/eaton-article-0833fbe46544bb8d545fd02c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0833fbe46544bb8d545fd02c.json"
+    },
+    {
+      "id": "eaton-article-96ea3ff2f78a3523093ced7f",
+      "name": "NH FUSE 500A 690V AM SIZE 3 — Fuse-link, LV, 500 A, AC 690 V, NH3, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-96ea3ff2f78a3523093ced7f",
+      "recordPath": "equipment/eaton-article-96ea3ff2f78a3523093ced7f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-96ea3ff2f78a3523093ced7f.json"
+    },
+    {
+      "id": "eaton-article-1ea24bc3a6231355069fbbde",
+      "name": "4A, AC 400 V, NH000 Fuse with insul lugs — Fuse-link, LV, 4 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1ea24bc3a6231355069fbbde",
+      "recordPath": "equipment/eaton-article-1ea24bc3a6231355069fbbde.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1ea24bc3a6231355069fbbde.json"
+    },
+    {
+      "id": "eaton-article-1c08074af7ac8915e6a8fc1b",
+      "name": "500NHFF3BI-400 — Fuse-link, low voltage, 500 A, AC 400 V, NH3, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1c08074af7ac8915e6a8fc1b",
+      "recordPath": "equipment/eaton-article-1c08074af7ac8915e6a8fc1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1c08074af7ac8915e6a8fc1b.json"
+    },
+    {
+      "id": "eaton-article-cb601864aba9d937298e1dd2",
+      "name": "500 A, AC 400 V, NH3 Fuse with live lugs — Fuse-link, LV, 500 A, AC 400 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cb601864aba9d937298e1dd2",
+      "recordPath": "equipment/eaton-article-cb601864aba9d937298e1dd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cb601864aba9d937298e1dd2.json"
+    },
+    {
+      "id": "eaton-article-d4da082a3d51cf0e8c5fa7cf",
+      "name": "50NHFF1BI-400 — Fuse-link, low voltage, 50 A, AC 400 V, NH1, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d4da082a3d51cf0e8c5fa7cf",
+      "recordPath": "equipment/eaton-article-d4da082a3d51cf0e8c5fa7cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d4da082a3d51cf0e8c5fa7cf.json"
+    },
+    {
+      "id": "eaton-article-56c577f5d8638d2f6af4fd68",
+      "name": "NH FUSE 425A 500V 3 GG/GL SIZE 3 — Fuse-link, LV, 425 A, AC 500 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-56c577f5d8638d2f6af4fd68",
+      "recordPath": "equipment/eaton-article-56c577f5d8638d2f6af4fd68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-56c577f5d8638d2f6af4fd68.json"
+    },
+    {
+      "id": "eaton-article-ff62ae7081103dc9286d0776",
+      "name": "NH FUSE 450A 500V GG SIZE 2 — Fuse-link, low voltage, 450 A, AC 500 V, NH2, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ff62ae7081103dc9286d0776",
+      "recordPath": "equipment/eaton-article-ff62ae7081103dc9286d0776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ff62ae7081103dc9286d0776.json"
+    },
+    {
+      "id": "eaton-article-74e4b6f1809cd3f6cb218dfe",
+      "name": "50NHFF000BI-400 — Fuse-link, low voltage, 50 A, AC 400 V, NH000, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-74e4b6f1809cd3f6cb218dfe",
+      "recordPath": "equipment/eaton-article-74e4b6f1809cd3f6cb218dfe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-74e4b6f1809cd3f6cb218dfe.json"
+    },
+    {
+      "id": "eaton-article-2712f520fd2544e02f83dbae",
+      "name": "NH FUSE 450A 500V 3 GG/GL SIZE 3 — Fuse-link, LV, 450 A, AC 500 V, NH3, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2712f520fd2544e02f83dbae",
+      "recordPath": "equipment/eaton-article-2712f520fd2544e02f83dbae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2712f520fd2544e02f83dbae.json"
+    },
+    {
+      "id": "eaton-article-30d1a81d10d24bb2b5dc341c",
+      "name": "NH FUSE 425A 500V GG/GL SIZE 2 — Fuse-link, low voltage, 425 A, AC 500 V, NH2, gL/gG, IEC, dual (combination) indicator system",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-30d1a81d10d24bb2b5dc341c",
+      "recordPath": "equipment/eaton-article-30d1a81d10d24bb2b5dc341c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-30d1a81d10d24bb2b5dc341c.json"
+    },
+    {
+      "id": "eaton-article-68fa8b14bbd7f7e6d5d06164",
+      "name": "NH FUSE 50A 500V SIZE 000 GG IMGL — Fuse-link, LV, 50 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-68fa8b14bbd7f7e6d5d06164",
+      "recordPath": "equipment/eaton-article-68fa8b14bbd7f7e6d5d06164.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-68fa8b14bbd7f7e6d5d06164.json"
+    },
+    {
+      "id": "eaton-article-8a640ee88bcf8fed4d953a63",
+      "name": "NH FUSE 50A 690V SIZE 000 GG MGL — Fuse-link, LV, 50 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8a640ee88bcf8fed4d953a63",
+      "recordPath": "equipment/eaton-article-8a640ee88bcf8fed4d953a63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8a640ee88bcf8fed4d953a63.json"
+    },
+    {
+      "id": "eaton-article-df65cb0998d3b3023fd4ece9",
+      "name": "NH FUSE 50A 690V SIZE 000 GG IMGL — Fuse-link, low voltage, 50 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-df65cb0998d3b3023fd4ece9",
+      "recordPath": "equipment/eaton-article-df65cb0998d3b3023fd4ece9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-df65cb0998d3b3023fd4ece9.json"
+    },
+    {
+      "id": "eaton-article-90eba0aaf888d75cc7d2e8ee",
+      "name": "NH FUSE 50A 500V GG SIZE 00 — Fuse-link, low voltage, 50 A, AC 500 V, NH00, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-90eba0aaf888d75cc7d2e8ee",
+      "recordPath": "equipment/eaton-article-90eba0aaf888d75cc7d2e8ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-90eba0aaf888d75cc7d2e8ee.json"
+    },
+    {
+      "id": "eaton-article-1e20a59fdb031fe23c17cad5",
+      "name": "35A, AC 400V, NH000 Fuse with insul lugs — Fuse-link, LV, 35 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1e20a59fdb031fe23c17cad5",
+      "recordPath": "equipment/eaton-article-1e20a59fdb031fe23c17cad5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1e20a59fdb031fe23c17cad5.json"
+    },
+    {
+      "id": "eaton-article-883cd73025965a114673a6a6",
+      "name": "35NHFF000BI-400 — Fuse-link, low voltage, 35 A, AC 400 V, NH000, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-883cd73025965a114673a6a6",
+      "recordPath": "equipment/eaton-article-883cd73025965a114673a6a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-883cd73025965a114673a6a6.json"
+    },
+    {
+      "id": "eaton-article-281f1f63a2735ca6d448c6e7",
+      "name": "35NHFF1BI-400 — Fuse-link, low voltage, 35 A, AC 400 V, NH1, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-281f1f63a2735ca6d448c6e7",
+      "recordPath": "equipment/eaton-article-281f1f63a2735ca6d448c6e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-281f1f63a2735ca6d448c6e7.json"
+    },
+    {
+      "id": "eaton-article-6326c96b8d8e85dcb77e0f13",
+      "name": "35NHG000BI-690 — Fuse-link, low voltage, 35 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6326c96b8d8e85dcb77e0f13",
+      "recordPath": "equipment/eaton-article-6326c96b8d8e85dcb77e0f13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6326c96b8d8e85dcb77e0f13.json"
+    },
+    {
+      "id": "eaton-article-d5730a5d6e4259bb3204e465",
+      "name": "35 A, AC 400 V, NH01 Fuse with live lugs — Fuse-link, LV, 35 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d5730a5d6e4259bb3204e465",
+      "recordPath": "equipment/eaton-article-d5730a5d6e4259bb3204e465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d5730a5d6e4259bb3204e465.json"
+    },
+    {
+      "id": "eaton-article-17da680502e937fe2e5e32f6",
+      "name": " 35A, AC 400V, NH000 Fuse with live lugs — Fuse-link, LV, 35 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-17da680502e937fe2e5e32f6",
+      "recordPath": "equipment/eaton-article-17da680502e937fe2e5e32f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-17da680502e937fe2e5e32f6.json"
+    },
+    {
+      "id": "eaton-article-a05911a04f08007b404c2abe",
+      "name": "NH FUSE 35A 500V SIZE 000 GG IMGL — Fuse-link, LV, 35 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a05911a04f08007b404c2abe",
+      "recordPath": "equipment/eaton-article-a05911a04f08007b404c2abe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a05911a04f08007b404c2abe.json"
+    },
+    {
+      "id": "eaton-article-c970a054018cd2532f940a80",
+      "name": "400 A, AC 400 V, NH2 Fuse with live lugs — Fuse-link, low voltage, 400 A, AC 400 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c970a054018cd2532f940a80",
+      "recordPath": "equipment/eaton-article-c970a054018cd2532f940a80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c970a054018cd2532f940a80.json"
+    },
+    {
+      "id": "eaton-article-8080d4a7c78598f1f1278612",
+      "name": "NH FUSE 400A 500V gG SIZE 3 DUAL IND — Fuse-link, low voltage, 400 A, AC 500 V, NH3, gL/gG, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8080d4a7c78598f1f1278612",
+      "recordPath": "equipment/eaton-article-8080d4a7c78598f1f1278612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8080d4a7c78598f1f1278612.json"
+    },
+    {
+      "id": "eaton-article-c55118d63db1ca009492b3a3",
+      "name": "NH FUSE 400A 500V GL/GG SIZE 2 — Fuse-link, LV, 400 A, AC 500 V, NH2, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c55118d63db1ca009492b3a3",
+      "recordPath": "equipment/eaton-article-c55118d63db1ca009492b3a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c55118d63db1ca009492b3a3.json"
+    },
+    {
+      "id": "eaton-article-77e8b9f235181eafe51278d2",
+      "name": "NH FUSE 35A 500V aM SIZE 000 DUAL IND — Fuse-link, low voltage, 35 A, AC 500 V, NH000, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-77e8b9f235181eafe51278d2",
+      "recordPath": "equipment/eaton-article-77e8b9f235181eafe51278d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-77e8b9f235181eafe51278d2.json"
+    },
+    {
+      "id": "eaton-article-c748d5c2dda233a95b1b239a",
+      "name": "NH FUSE 35A 500V GL/GG SIZE 01 — Fuse-link, LV, 35 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c748d5c2dda233a95b1b239a",
+      "recordPath": "equipment/eaton-article-c748d5c2dda233a95b1b239a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c748d5c2dda233a95b1b239a.json"
+    },
+    {
+      "id": "eaton-article-c364831e12a2d32b6f364c37",
+      "name": "NH FUSE 35A 500V GL/GG SIZE 02 — Fuse-link, LV, 35 A, AC 500 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c364831e12a2d32b6f364c37",
+      "recordPath": "equipment/eaton-article-c364831e12a2d32b6f364c37.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c364831e12a2d32b6f364c37.json"
+    },
+    {
+      "id": "eaton-article-e33fd3263a40bce74fabcfb0",
+      "name": "400A, AC 400V, NH03 Fuse with insul lugs — Fuse-link, low voltage, 400 A, AC 400 V, NH03, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e33fd3263a40bce74fabcfb0",
+      "recordPath": "equipment/eaton-article-e33fd3263a40bce74fabcfb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e33fd3263a40bce74fabcfb0.json"
+    },
+    {
+      "id": "eaton-article-091ae518cf3164076b024af6",
+      "name": "35A, AC 400 V, NH02 Fuse with insul lugs — Fuse-link, LV, 35 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-091ae518cf3164076b024af6",
+      "recordPath": "equipment/eaton-article-091ae518cf3164076b024af6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-091ae518cf3164076b024af6.json"
+    },
+    {
+      "id": "eaton-article-4cb92f97beb8eb8deb975bcf",
+      "name": "35 A, AC 400 V, NH02 Fuse with live lugs — Fuse-link, LV, 35 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4cb92f97beb8eb8deb975bcf",
+      "recordPath": "equipment/eaton-article-4cb92f97beb8eb8deb975bcf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4cb92f97beb8eb8deb975bcf.json"
+    },
+    {
+      "id": "eaton-article-ee32f983627fc1b4f11fde67",
+      "name": "NH FUSE 400A 500V GL/GG SIZE 03 — Fuse-link, LV, 400 A, AC 500 V, NH03, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ee32f983627fc1b4f11fde67",
+      "recordPath": "equipment/eaton-article-ee32f983627fc1b4f11fde67.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ee32f983627fc1b4f11fde67.json"
+    },
+    {
+      "id": "eaton-article-40482cb636be953d5c44db1e",
+      "name": "400NHFF2BI-400 — Fuse-link, low voltage, 400 A, AC 400 V, NH2, gFF, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-40482cb636be953d5c44db1e",
+      "recordPath": "equipment/eaton-article-40482cb636be953d5c44db1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-40482cb636be953d5c44db1e.json"
+    },
+    {
+      "id": "eaton-article-7d7225b1a7a869c23c3348ae",
+      "name": "NH FUSE 40A 500V aM SIZE 000 DUAL IND — Fuse-link, low voltage, 40 A, AC 500 V, NH000, aM, IEC, dual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7d7225b1a7a869c23c3348ae",
+      "recordPath": "equipment/eaton-article-7d7225b1a7a869c23c3348ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7d7225b1a7a869c23c3348ae.json"
+    },
+    {
+      "id": "eaton-article-c324bf3cc8b22c6c3c8a4842",
+      "name": "400 A, AC 400 V, NH03 Fuse with live lugs — Fuse-link, LV, 400 A, AC 400 V, NH03, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c324bf3cc8b22c6c3c8a4842",
+      "recordPath": "equipment/eaton-article-c324bf3cc8b22c6c3c8a4842.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c324bf3cc8b22c6c3c8a4842.json"
+    },
+    {
+      "id": "eaton-article-efa4c740bf9e650e6ba0267a",
+      "name": "NH FUSE 35A 690V aM SIZE 000 — Fuse-link, LV, 35 A, AC 690 V, NH000, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-efa4c740bf9e650e6ba0267a",
+      "recordPath": "equipment/eaton-article-efa4c740bf9e650e6ba0267a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-efa4c740bf9e650e6ba0267a.json"
+    },
+    {
+      "id": "eaton-article-9bb60622a40f99e21d78bafb",
+      "name": "NH FUSE 40A 500V SIZE 000 GG IMGL — Fuse-link, LV, 40 A, AC 500 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9bb60622a40f99e21d78bafb",
+      "recordPath": "equipment/eaton-article-9bb60622a40f99e21d78bafb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9bb60622a40f99e21d78bafb.json"
+    },
+    {
+      "id": "eaton-article-bcaca8e397fe9dd25fa78a79",
+      "name": "NH FUSE 40A 400V GG/GL SIZE 000 — Fuse-link, LV, 40 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bcaca8e397fe9dd25fa78a79",
+      "recordPath": "equipment/eaton-article-bcaca8e397fe9dd25fa78a79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bcaca8e397fe9dd25fa78a79.json"
+    },
+    {
+      "id": "eaton-article-c14e333b96503b96667ecffd",
+      "name": "40NHG000BI-690 — Fuse-link, low voltage, 40 A, AC 690 V, NH000, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c14e333b96503b96667ecffd",
+      "recordPath": "equipment/eaton-article-c14e333b96503b96667ecffd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c14e333b96503b96667ecffd.json"
+    },
+    {
+      "id": "eaton-article-7fdae69c17c010c2ac07f84b",
+      "name": "40NHG000B-400 — Fuse-link, LV, 40 A, AC 400 V, NH000, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7fdae69c17c010c2ac07f84b",
+      "recordPath": "equipment/eaton-article-7fdae69c17c010c2ac07f84b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7fdae69c17c010c2ac07f84b.json"
+    },
+    {
+      "id": "eaton-article-2944b077acb25a5c1007e9e7",
+      "name": "NH FUSE 400A 690V AM SIZE 3 — Fuse-link, LV, 400 A, AC 690 V, NH3, aM, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2944b077acb25a5c1007e9e7",
+      "recordPath": "equipment/eaton-article-2944b077acb25a5c1007e9e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2944b077acb25a5c1007e9e7.json"
+    },
+    {
+      "id": "eaton-article-7df85f2d30f8b4436bff3dac",
+      "name": "40 A, AC 400 V, NH01 Fuse with live lugs — Fuse-link, LV, 40 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7df85f2d30f8b4436bff3dac",
+      "recordPath": "equipment/eaton-article-7df85f2d30f8b4436bff3dac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7df85f2d30f8b4436bff3dac.json"
+    },
+    {
+      "id": "eaton-article-cf43f3140a9c23636c48556e",
+      "name": "NH FUSE 40A 500V GL/GG SIZE 01 — Fuse-link, LV, 40 A, AC 500 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cf43f3140a9c23636c48556e",
+      "recordPath": "equipment/eaton-article-cf43f3140a9c23636c48556e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cf43f3140a9c23636c48556e.json"
+    },
+    {
+      "id": "eaton-article-d70dd903214bc8b47027d9eb",
+      "name": "40A, AC 400V, NH02 Fuse with insul lugs — Fuse-link, LV, 40 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d70dd903214bc8b47027d9eb",
+      "recordPath": "equipment/eaton-article-d70dd903214bc8b47027d9eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d70dd903214bc8b47027d9eb.json"
+    },
+    {
+      "id": "eaton-article-030e0355ed7a13def0e5f3e4",
+      "name": "40A, AC 400V, NH01, Fuse with insul lugs — Fuse-link, LV, 40 A, AC 400 V, NH01, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-030e0355ed7a13def0e5f3e4",
+      "recordPath": "equipment/eaton-article-030e0355ed7a13def0e5f3e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-030e0355ed7a13def0e5f3e4.json"
+    },
+    {
+      "id": "eaton-article-cacae7b5860989ffc9caa584",
+      "name": "40 A, AC 400 V, NH02 Fuse with live lugs — Fuse-link, LV, 40 A, AC 400 V, NH02, gL/gG, IEC, dual indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cacae7b5860989ffc9caa584",
+      "recordPath": "equipment/eaton-article-cacae7b5860989ffc9caa584.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cacae7b5860989ffc9caa584.json"
+    },
+    {
+      "id": "eaton-article-af7fa14cb44d00e999aba7dd",
+      "name": "NH FUSE 40A 500V GL/GG SIZE 02 — Fuse-link, LV, 40 A, AC 500 V, NH02, gL/gG, IEC, dual indicator, insulated gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-af7fa14cb44d00e999aba7dd",
+      "recordPath": "equipment/eaton-article-af7fa14cb44d00e999aba7dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-af7fa14cb44d00e999aba7dd.json"
+    },
+    {
+      "id": "eaton-article-713593c47d1afa214221cfa6",
+      "name": "400NHG2BWP — Fuse-link, LV, 400 A, AC 500 V, NH2, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-713593c47d1afa214221cfa6",
+      "recordPath": "equipment/eaton-article-713593c47d1afa214221cfa6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-713593c47d1afa214221cfa6.json"
+    },
+    {
+      "id": "eaton-article-8242d2550490923cbf36db8b",
+      "name": "35NHG00BWP — Fuse-link, LV, 35 A, AC 500 V, NH00, gL/gG, IEC, dual indicator, live gripping lugs, weather resistant",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8242d2550490923cbf36db8b",
+      "recordPath": "equipment/eaton-article-8242d2550490923cbf36db8b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8242d2550490923cbf36db8b.json"
+    },
+    {
+      "id": "eaton-article-f8aef069e0588cfeac14a39c",
+      "name": "40ET — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f8aef069e0588cfeac14a39c",
+      "recordPath": "equipment/eaton-article-f8aef069e0588cfeac14a39c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f8aef069e0588cfeac14a39c.json"
+    },
+    {
+      "id": "eaton-article-b88e54dd978b1479e7cda4c7",
+      "name": "NH FUSE 40A 500V GG/GL SIZE 02 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b88e54dd978b1479e7cda4c7",
+      "recordPath": "equipment/eaton-article-b88e54dd978b1479e7cda4c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b88e54dd978b1479e7cda4c7.json"
+    },
+    {
+      "id": "eaton-article-d4149e0524d10c289ead1614",
+      "name": "NH FUSE 40A 500V GG/GL SIZE 0 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d4149e0524d10c289ead1614",
+      "recordPath": "equipment/eaton-article-d4149e0524d10c289ead1614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d4149e0524d10c289ead1614.json"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+# Schneider Electric — Linergy BW 4P IPXXB insulated busbar 250A W1400
+
+Schneider Electric Linergy BW 4P IPXXB insulated busbar 250A W1400. Retained manufacturer CAD files and drawings for busbar design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/MCADPE0010643_3D-CAD/)
+
+- Category: Busbar & distribution
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: Linergy BW 4P IPXXB insulated busbar 250A W1400
+- Manufacturer: Schneider Electric
+- Resource type: Product family
+- Available native formats: DXF / STEP
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DXF / STEP ([source](https://www.se.com/us/en/download/document/MCADPE0010643_3D-CAD/))
+
+## What the equipment does
+
+A busbar is a common electrical connection that distributes power to several circuits. Its supports and enclosure keep the conductors in their intended positions.
+
+Use MCADPE0010643\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified MCADPE0010643\_2D-front.dxf.
+
+Use MCADPE0010643\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified MCADPE0010643\_2D-front.dxf. Use MCADPE0010637\_3D-simplified.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified MCADPE0010637\_3D-simplified.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric Linergy BW 4P IPXXB insulated busbar 250A W1400 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Linergy BW 4P IPXXB insulated busbar 250A W1400?
+
+2 inspected originals for Schneider Electric Linergy BW 4P IPXXB insulated busbar 250A W1400: MCADPE0010643\_2D-front.dxf (DXF); MCADPE0010637\_3D-simplified.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/MCADPE0010643\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/MCADPE0010643_3D-CAD/)
+
+## Choosing a file
+
+Use MCADPE0010643\_2D-front.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified MCADPE0010643\_2D-front.dxf. Use MCADPE0010637\_3D-simplified.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified MCADPE0010637\_3D-simplified.stp.
+
+## Preview
+
+![Schneider Electric Linergy BW 4P IPXXB insulated busbar 250A W1400: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7/native-449f7c42d6c2a9b3303a807e-dxf?asset=449f7c42d6c2a9b3303a807e14182a93019eae7c8f9b48ef3102531762c9eeb8)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Busbar trunking](https://eloragrid.ai/objects/busbar-trunking)
+- [Rigid busbar assembly](https://eloragrid.ai/objects/ga-rigid-busbar-assembly)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### MCADPE0010643\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Manufacturer DXF CAD file
+- [Official source](https://download.se.com/files?p_File_Name=MCADPE0010643_2D-front.dxf&p_Doc_Ref=MCADPE0010643_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7/native-449f7c42d6c2a9b3303a807e-dxf)
+- Redistribution: unknown
+- Original SHA-256: 449f7c42d6c2a9b3303a807e14182a93019eae7c8f9b48ef3102531762c9eeb8
+- Original bytes: 231218
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://download.se.com/files?p_File_Name=MCADPE0010643_2D-front.dxf&p_Doc_Ref=MCADPE0010643_3D-CAD&p_enDocType=CAD)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.se.com/files?p_File_Name=MCADPE0010643_2D-front.dxf&p_Doc_Ref=MCADPE0010643_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 23934 bytes
+- Delivery SHA-256: bc874ab2c1a89ddd34cbf91115ba922b61fe89464c655702ba957aae2a2869e1
+
+### MCADPE0010637\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://download.se.com/files?p_File_Name=MCADPE0010643_3D-simplified.stp&p_Doc_Ref=MCADPE0010643_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-linergy-bw-4p-ipxxb-insulated-busbar-250a-w1400-03b988c1a7/native-16f52a9b2d6f2c46d017146a-step)
+- Redistribution: unknown
+- Original SHA-256: 16f52a9b2d6f2c46d017146abb1a6ef4f9b4e6139dba699ee3f6df0ab06f821f
+- Original bytes: 8013666
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://download.se.com/files?p_File_Name=MCADPE0010643_3D-simplified.stp&p_Doc_Ref=MCADPE0010643_3D-CAD&p_enDocType=CAD)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.se.com/files?p_File_Name=MCADPE0010643_3D-simplified.stp&p_Doc_Ref=MCADPE0010643_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 1565704 bytes
+- Delivery SHA-256: b06adb1c874300e3a4415b41f35ef2ed13b2cbf3a183b13761371a7ea6b2d0ba
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

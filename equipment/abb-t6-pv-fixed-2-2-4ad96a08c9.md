@@ -25,6 +25,7 @@ The supplied configuration is “T6 PV Fixed 2+2”. Keep those frame, mounting 
 - Manufacturer drawing: 1SDH000781R0101
 - Manufacturer reference: 1SDH000781R0101
 - Document revision: A
+- Standards: IEC 60947-2
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

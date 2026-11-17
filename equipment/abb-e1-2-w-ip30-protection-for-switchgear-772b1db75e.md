@@ -26,6 +26,7 @@ Manufacturer reference 1SDH001252R0164 identifies this switchboard or switchgear
 - Manufacturer reference: 1SDH001252R0164
 - Document revision: A
 - Model envelope: RB3563001\_1PA\_001\_06\_MOSTRINA\_W\_E1\_2.stp: 303.5 × 12 × 300.5 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

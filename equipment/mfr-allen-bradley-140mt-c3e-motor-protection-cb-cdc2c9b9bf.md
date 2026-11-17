@@ -1,0 +1,120 @@
+# Allen-Bradley — 140MT-C3E Motor Protection CB
+
+Allen-Bradley 140MT-C3E Motor Protection CB: original DWG for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 140MT-C3E
+- Installation applications: switchgear, substations, microgrids
+- Formats: DWG, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named 140MT-C3E Motor Protection CB.
+
+## Equipment and file summary
+
+- Equipment / resource: 140MT-C3E Motor Protection CB
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: 140MT-C3E
+- Manufacturer drawing identity: 140MT-C3E Motor Protection CB
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: 140MT-C3E Motor Protection CB ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+Overload protection responds when a motor is carrying excessive current for too long or heating beyond its configured limit. It can request that the motor is stopped.
+
+Use Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+Use Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley 140MT-C3E and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 140MT-C3E Motor Protection CB?
+
+1 inspected original for Allen-Bradley 140MT-C3E Motor Protection CB: Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg (DWG).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout.
+
+## Preview
+
+![Allen-Bradley 140MT-C3E Motor Protection CB: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf/nhp-207212?asset=0e305c9f52c508ccf8f1d7bc24cbaf1fb72f79c0e017c2c2f1251ba275892738)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg
+
+- Format: DWG
+- Purpose: Original manufacturer DWG geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf/nhp-207212)
+- Redistribution: unknown
+- Original SHA-256: 0e305c9f52c508ccf8f1d7bc24cbaf1fb72f79c0e017c2c2f1251ba275892738
+- Original bytes: 2142023
+- Revision: Not recorded
+- Retrieved: 2026-11-11T08:07:49.981908+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg)
+- Delivery: original; DWG; 2142023 bytes
+- Delivery SHA-256: 0e305c9f52c508ccf8f1d7bc24cbaf1fb72f79c0e017c2c2f1251ba275892738
+
+### Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg).
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-140mt-c3e-motor-protection-cb-cdc2c9b9bf/nhp-207212-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0e305c9f52c508ccf8f1d7bc24cbaf1fb72f79c0e017c2c2f1251ba275892738
+- Original bytes: 2142023
+- Revision: Not recorded
+- Retrieved: 2026-11-11T08:07:49.981908+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-140MT-C3E-Motor-Protection-CB-DWG-2D-CAD-Block.dwg)
+- Delivery: converted; DXF; 9092954 bytes
+- Delivery SHA-256: a488db3211c8ece09a771a65b93ad3cb80a9dc977a68a0b4f74dc6ff03929133
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

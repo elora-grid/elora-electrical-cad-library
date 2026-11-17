@@ -27,6 +27,7 @@ The supplied configuration is “OTM3200E4M”. Keep those frame, mounting and a
 - Manufacturer reference: OTM3200E4M.STP
 - Document revision: A
 - Model envelope: OTM3200E4M.stp: 230 × 410 × 839.7 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

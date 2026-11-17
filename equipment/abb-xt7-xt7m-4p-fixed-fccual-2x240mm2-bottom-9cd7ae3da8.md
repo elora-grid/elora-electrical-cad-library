@@ -8,7 +8,7 @@ ABB XT7-XT7M 4p Fixed FCCuAl 2x240mm2 bottom: breaker or breaker-accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1419
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT7-XT7M 4p Fixed FCCuAl 2x240mm2 bottom”. Ke
 - Manufacturer reference: 1SDH002065A1419
 - Document revision: A
 - Model envelope: 1SDH002065A1419\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_bottom.stp: 263 × 58.3 × 28 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1419&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1075716 bytes
 - Delivery SHA-256: b3a8c0b7dbe3cab135139c28e2d9d794071b535ad64dafba3942679a176d1359
+
+### 1SDH002065A1419\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_bottom.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1419\_XT7\_XT7M\_4p\_Fixed\_FCCuAl\_2x240mm2\_bottom.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1419&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-4p-fixed-fccual-2x240mm2-bottom-9cd7ae3da8/b3a8c0b7dbe3cab13513-dxf)
+- Redistribution: unknown
+- Original SHA-256: b3a8c0b7dbe3cab135139c28e2d9d794071b535ad64dafba3942679a176d1359
+- Original bytes: 1075716
+- Revision: A
+- Retrieved: 2026-11-03T01:54:29.459646Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1419&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1419&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 220991 bytes
+- Delivery SHA-256: 773c29fc893942b56f6649781ba7e9bc140d0f8338f956eb38350dfea4eb6469
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

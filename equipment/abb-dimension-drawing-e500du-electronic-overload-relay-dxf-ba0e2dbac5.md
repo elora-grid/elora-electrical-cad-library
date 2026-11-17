@@ -25,6 +25,7 @@ Manufacturer reference 1SAX711001R0001; 1SAX711001F1101 identifies this protecti
 - Manufacturer drawing: 1SAX711001R0001; 1SAX711001F1101
 - Manufacturer reference: 1SAX711001R0001; 1SAX711001F1101
 - Document revision: -
+- Standards: CSA C22.2 No. 14, IEC 60947-1, IEC 60947-4-1, UL 508
 - Listed file formats: DXF, PDF
 - Listed files: 2
 - Available previews: 2 drawing previews

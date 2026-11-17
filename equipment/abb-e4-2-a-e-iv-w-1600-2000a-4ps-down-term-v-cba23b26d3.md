@@ -8,7 +8,7 @@ ABB E4.2-A-E IV W 1600-2000A 4PS DOWN TERM V: breaker or breaker-accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0528
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “E4.2-A-E IV W 1600-2000A 4PS DOWN TERM V”. Ke
 - Manufacturer reference: 1SDH001252R0528
 - Document revision: A
 - Model envelope: 1SDH001252R0528.stp: 559 × 504 × 425 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 8003543 bytes
 - Delivery SHA-256: df735b62d5efe6febd5489c212e25db6081fc4177231a8cef0e8b5f199ffd7a6
+
+### 1SDH001252R0528.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0528.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-a-e-iv-w-1600-2000a-4ps-down-term-v-cba23b26d3/df735b62d5efe6febd54-dxf)
+- Redistribution: unknown
+- Original SHA-256: df735b62d5efe6febd5489c212e25db6081fc4177231a8cef0e8b5f199ffd7a6
+- Original bytes: 8003543
+- Revision: A
+- Retrieved: 2026-11-03T02:12:48.253234Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 715392 bytes
+- Delivery SHA-256: e1f2c66f53a0e0b2bdfc87741019ae58f630de888c7e0404daecad0db233b9bb
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,160 @@
+# Weidmüller — BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige
+
+Weidmüller BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1833100000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1833100000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1833100000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/best/p/1833100000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1833100000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1833100000
+- Manufacturer reference: 1833100000
+- Manufacturer type: BEST
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1833100000 ([source](https://eshop.weidmueller.com.cn/en/best/p/1833100000/downloads#engineering-support))
+- Manufacturer type: BEST ([source](https://eshop.weidmueller.com.cn/en/best/p/1833100000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/best/p/1833100000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1833100000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1833100000\_back.DXF, 1833100000\_bottom.DXF, 1833100000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige before placing it.
+
+1833100000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1833100000\_back.DXF, 1833100000\_bottom.DXF, 1833100000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige before placing it. 1833100000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1833100000\_back.DWG, 1833100000\_bottom.DWG, 1833100000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige before placing it. Use 1833100000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1833100000.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1833100000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige?
+
+3 inspected originals for Weidmüller BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige: 1833100000\_DXF.zip (ZIP); 1833100000\_DWG.zip (ZIP); 1833100000.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/best/p/1833100000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/best/p/1833100000/downloads#engineering-support)
+
+## Choosing a file
+
+1833100000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1833100000\_back.DXF, 1833100000\_bottom.DXF, 1833100000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige before placing it. 1833100000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1833100000\_back.DWG, 1833100000\_bottom.DWG, 1833100000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to BEST — Component plug terminal block / Component plug (terminal) Miscellaneous, Plugged, beige before placing it. Use 1833100000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1833100000.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1833100000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/73f5435d-d7b2-4c97-ace0-4486f6cf5e47/original/1833100000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1833100000/native-07bc3113a3fac0c03fed9e55-zip)
+- Redistribution: unknown
+- Original SHA-256: 07bc3113a3fac0c03fed9e5585a65f5ff46750a5692adb47694363593e7a72c3
+- Original bytes: 34259
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/73f5435d-d7b2-4c97-ace0-4486f6cf5e47/original/1833100000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/73f5435d-d7b2-4c97-ace0-4486f6cf5e47/original/1833100000_DXF.zip)
+- Delivery: original; ZIP; 34259 bytes
+- Delivery SHA-256: 07bc3113a3fac0c03fed9e5585a65f5ff46750a5692adb47694363593e7a72c3
+
+<details>
+<summary>Archive members</summary>
+
+- 1833100000\_back.DXF
+- 1833100000\_bottom.DXF
+- 1833100000\_front.DXF
+- 1833100000\_left.DXF
+- 1833100000\_right.DXF
+- 1833100000\_top.DXF
+
+</details>
+
+### 1833100000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/c95605d8-4b7d-4cd9-8390-3f251e031067/original/1833100000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1833100000/native-73f8867ff9700eb784b5925a-zip)
+- Redistribution: unknown
+- Original SHA-256: 73f8867ff9700eb784b5925a72e18d9f26e9d764bfb6360acaf94dab4701c3b1
+- Original bytes: 53213
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/c95605d8-4b7d-4cd9-8390-3f251e031067/original/1833100000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/c95605d8-4b7d-4cd9-8390-3f251e031067/original/1833100000_DWG.zip)
+- Delivery: original; ZIP; 53213 bytes
+- Delivery SHA-256: 73f8867ff9700eb784b5925a72e18d9f26e9d764bfb6360acaf94dab4701c3b1
+
+<details>
+<summary>Archive members</summary>
+
+- 1833100000\_back.DWG
+- 1833100000\_bottom.DWG
+- 1833100000\_front.DWG
+- 1833100000\_left.DWG
+- 1833100000\_right.DWG
+- 1833100000\_top.DWG
+
+</details>
+
+### 1833100000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/ec0a18a6-9663-4419-a5bd-e1a313242c57/original/1833100000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1833100000/native-04095b9e3ab9072c6d3df93f-step)
+- Redistribution: unknown
+- Original SHA-256: 04095b9e3ab9072c6d3df93f26b04b2b494847ff9c1e8902443b6244c6a66663
+- Original bytes: 293570
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/ec0a18a6-9663-4419-a5bd-e1a313242c57/original/1833100000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/ec0a18a6-9663-4419-a5bd-e1a313242c57/original/1833100000.stp)
+- Delivery: source-bundle; ZIP; 51701 bytes
+- Delivery SHA-256: 1a320907724022625122b35708f172902e5d735ba284fe3c8d1c935317196c8e
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

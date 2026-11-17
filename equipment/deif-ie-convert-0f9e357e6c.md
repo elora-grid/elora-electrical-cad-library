@@ -25,6 +25,7 @@ Manufacturer reference cu8-2d-pdf.pdf identifies this control-equipment referenc
 - Manufacturer drawing: cu8-2d-pdf.pdf
 - Manufacturer reference: cu8-2d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: UL 1741, IEEE 1547, EN 50549-2, AS/NZS 4777.2, IEC 62477-1, IEC 62443-4-2
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

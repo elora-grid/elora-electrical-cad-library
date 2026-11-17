@@ -24,6 +24,7 @@ Manufacturer reference gtc 1.0.2 en.pdf identifies this control-equipment refere
 - Resource type: Product
 - Manufacturer drawing: gtc 1.0.2 en.pdf
 - Manufacturer reference: gtc 1.0.2 en.pdf
+- Standards: IEC 61000-6-2, NFPA 110
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

@@ -25,12 +25,13 @@ The supplied configuration is “IEC Vacuum Circuit Breaker VD4/W 12/17,5kV - 3D
 - Manufacturer drawing: 1VCD003596\_3D; N07420\_3D; 1VCD000152\_3D; 1VCD601243\_3D
 - Manufacturer reference: 1VCD003596\_3D; N07420\_3D; 1VCD000152\_3D; 1VCD601243\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
-- Listed files: 1
-- Available previews: Manufacturer source / drawing request
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## Source-linked technical facts
 
@@ -85,5 +86,24 @@ Related GA references provide equipment context; a related category does not est
 - Retrieved: Not acquired
 - Rights review: Acquire and checksum-verify the original before website delivery.
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1VCD003596_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+
+### 1VCD003596.step
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1VCD003596_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-iec-vacuum-circuit-breaker-vd4-w-12-17-5kv-3d-dimensional-drawing-e7fd736543/native-67e88326e297b89d37549609-step)
+- Redistribution: unknown
+- Original SHA-256: 67e88326e297b89d375496095f0408d21996847c919c19c72a4fe63bc2c283e0
+- Original bytes: 226196518
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1VCD003596_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1VCD003596_3D&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 63185888 bytes
+- Delivery SHA-256: ad65aced9807df373868a3920450e06eb47aca24059fe63ff6e631fb9fc91f07
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -26,7 +26,7 @@ Original DXF drawing for OTDC250...400US11; ABB document 1SCC307289F0201
 - Manufacturer drawing: 1SCC307289F0201
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: B
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use OTDC400US11.dxf for OTDC250...400US11. DXF is the supplied drawing format; t
 
 ## Preview
 
-![ABB OTDC250...400US11: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc250-400us11-1b0c7df7/original?asset=efe8e87334bc413ef847922fed77f25b28dd7b2a39c11bde266c180099b75f02)
+![ABB OTDC250...400US11: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc250-400us11-1b0c7df7/original?asset=efe8e87334bc413ef847922fed77f25b28dd7b2a39c11bde266c180099b75f02&view=thumb&v=f165572b92f43269)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc250-400us11-1b0c7df7). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

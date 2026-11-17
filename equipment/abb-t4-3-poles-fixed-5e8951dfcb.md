@@ -25,6 +25,7 @@ The supplied configuration is “T4 3 poles Fixed”. Keep those frame, mounting
 - Manufacturer drawing: 1SDH001291R0013
 - Manufacturer reference: 1SDH001291R0013
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

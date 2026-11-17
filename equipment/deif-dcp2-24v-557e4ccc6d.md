@@ -26,6 +26,7 @@ Manufacturer reference dcp2-3d-step-file.stp identifies this auxiliary-power ref
 - Manufacturer reference: dcp2-3d-step-file.stp
 - Manufacturer lifecycle: Active
 - Model envelope: dcp2-3d-step-file.stp: 202 × 136.2 × 150.8 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 61000-6-3, IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-5, EN 55011, IEC 60950, IEC 61010-1
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

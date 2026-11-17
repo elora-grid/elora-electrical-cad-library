@@ -8,7 +8,7 @@ ABB 07LYM293\_20.86: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 07LYM293\_20.86; 07LYM293
-- Formats: DWG, PDF, SLDPRT, STEP
+- Formats: DWG, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “07LYM293\_20.86”. Keep those frame, mounting 
 - Model envelope: 07LYM293\_20.86.step: 529.7 × 327.7 × 384.2 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Motor drawing designation (07LYM293): STD HORZ 213-5TC TENV V\*S MASTER VECTOR W/ BEI HS35
 - Manufacturer reference: 07LYM293
-- Listed file formats: DWG, PDF, SLDPRT, STEP
-- Listed files: 4
+- Listed file formats: DWG, PDF, SLDPRT, STEP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -113,6 +113,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM293_20.86&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 1219282 bytes
 - Delivery SHA-256: 2f519b9f249ff217dc5ec47cc5c257a40c392af48412d0439622ba7e3ff88c27
+
+### 07LYM293\_20.86.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (07LYM293\_20.86.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYM293_20.86&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lym293-20-86-dwg-2d-autocad-dwg-2000-c651b09df2/2f519b9f249ff217dc5e-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2f519b9f249ff217dc5ec47cc5c257a40c392af48412d0439622ba7e3ff88c27
+- Original bytes: 1219282
+- Revision: B
+- Retrieved: 2026-11-04T00:24:28Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM293_20.86&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM293_20.86&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 3197193 bytes
+- Delivery SHA-256: 47d26640a938a6affc653955961cc64988fe0bdb3e41e174e7fcf609d69e0b3d
 
 ### 07LYM293.pdf
 

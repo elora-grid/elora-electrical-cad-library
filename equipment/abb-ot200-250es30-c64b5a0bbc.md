@@ -25,9 +25,10 @@ The supplied configuration is “OT200-250ES30”. Keep those frame, mounting an
 - Manufacturer drawing: 1SCC301655F0001
 - Manufacturer reference: 1SCC301655F0001
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +65,7 @@ Use 1SCC301655F0001\_OT200\_\_OT250ES30.dxf revision A for editable DXF drawing 
 
 ## Preview
 
-![ABB OT200-250ES30: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot200-250es30-c64b5a0bbc/9f35467c5c0a700f1b4f?asset=9f35467c5c0a700f1b4f2fc817249b1d9f1679e23b1022c09735f51159accadc)
+![ABB OT200-250ES30: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot200-250es30-c64b5a0bbc/9f35467c5c0a700f1b4f?asset=9f35467c5c0a700f1b4f2fc817249b1d9f1679e23b1022c09735f51159accadc&view=thumb&v=440c7752ee07bb63)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot200-250es30-c64b5a0bbc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

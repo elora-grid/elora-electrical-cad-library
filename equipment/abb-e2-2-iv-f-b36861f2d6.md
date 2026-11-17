@@ -8,7 +8,7 @@ ABB E2.2 IV F: breaker or breaker-accessory reference for breaker compartment an
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0123
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,9 @@ The supplied configuration is “E2.2 IV F”. Keep those frame, mounting and ac
 - Model envelope: 1SDH001252R0123\_1PA\_001\_01\_E2.2\_IV\_F.stp: 422 × 270 × 371 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001336R0123
 - Model envelope: 1SDH001336R0123\_1PA\_001\_00\_E2.2\_IV\_F\_UL.stp: 422 × 270 × 371 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Standards: IEC 60947, IEC 61000
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -110,6 +111,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 1325441 bytes
 - Delivery SHA-256: 2d5c58c235fe746470564271e0c786b8bcc0f5153b13bf7ff4a48800dddc2aef
 
+### 1SDH001252R0123\_1PA\_001\_01\_E2.2\_IV\_F.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0123\_1PA\_001\_01\_E2.2\_IV\_F.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-iv-f-b36861f2d6/2d5c58c235fe74647056-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2d5c58c235fe746470564271e0c786b8bcc0f5153b13bf7ff4a48800dddc2aef
+- Original bytes: 1325441
+- Revision: A
+- Retrieved: 2026-11-03T01:55:30.336666Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 170500 bytes
+- Delivery SHA-256: 5c06d90b339b5b09811a1d1a15beea39474cd7d9495b7038c880df062c892ad2
+
 ### 1SDH001336R0123\_1PA\_001\_00\_E2.2\_IV\_F\_UL.stp
 
 - Format: STEP
@@ -128,5 +148,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1325446 bytes
 - Delivery SHA-256: fa9baf9e10429534fe08d48a77ad0276d72e988e0ad18ca9e9dfbb10efb25217
+
+### 1SDH001336R0123\_1PA\_001\_00\_E2.2\_IV\_F\_UL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0123\_1PA\_001\_00\_E2.2\_IV\_F\_UL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-iv-f-b36861f2d6/fa9baf9e10429534fe08-dxf)
+- Redistribution: unknown
+- Original SHA-256: fa9baf9e10429534fe08d48a77ad0276d72e988e0ad18ca9e9dfbb10efb25217
+- Original bytes: 1325446
+- Revision: A
+- Retrieved: 2026-11-03T01:55:32.646015Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0123&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 170500 bytes
+- Delivery SHA-256: d403bdfa0e1f70b0c7f7400099f77c97f35b1a8e3f6035d959fc4d3348c2f2e0
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,102 @@
+# Schrack — Switch Disconnector,4-pole,160A for remote operation+plug-in
+
+Schrack Switch Disconnector,4-pole,160A for remote operation+plug-in. Retained manufacturer CAD files and drawings for protection design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698860) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698860.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698860.json) · [Official manufacturer source](https://www.schrack.at/)
+
+- Category: Protection & metering
+- Entry type: product
+- Part number: MC216045S-
+- Formats: DWG
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: Switch Disconnector,4-pole,160A for remote operation+plug-in
+- Manufacturer: Schrack
+- Resource type: Product
+- Part number: MC216045S-
+- Manufacturer reference: MC216045S-
+- Available native formats: DWG
+- Listed file formats: DWG
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: MC216045S- ([source](https://www.schrack.at/))
+- Available native formats: DWG ([source](https://www.schrack.at/))
+
+## What the equipment does
+
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
+
+Use c\_mc216045s-\_e.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified c\_mc216045s-\_e.dwg.
+
+Use c\_mc216045s-\_e.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified c\_mc216045s-\_e.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schrack MC216045S- and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Switch Disconnector,4-pole,160A for remote operation+plug-in?
+
+1 inspected original for Schrack Switch Disconnector,4-pole,160A for remote operation+plug-in: c\_mc216045s-\_e.dwg (DWG).
+
+### Where did these Schrack files come from?
+
+Schrack supplied the original files through https://www.schrack.at/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schrack official source](https://www.schrack.at/)
+
+## Choosing a file
+
+Use c\_mc216045s-\_e.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified c\_mc216045s-\_e.dwg.
+
+## Preview
+
+![Schrack Switch Disconnector,4-pole,160A for remote operation+plug-in: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eplan-oem-698860/native-ede9bdbd9f33215345e59152-dwg?asset=ede9bdbd9f33215345e591529f97a9e2be5f42f08ded79c5e9f7f958e2cfe1c7)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698860). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### c\_mc216045s-\_e.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://image.schrack.com/caddrawing_expanded/c_mc216045s-_e.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eplan-oem-698860/native-ede9bdbd9f33215345e59152-dwg)
+- Redistribution: unknown
+- Original SHA-256: ede9bdbd9f33215345e591529f97a9e2be5f42f08ded79c5e9f7f958e2cfe1c7
+- Original bytes: 22321
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schrack
+- [Hosting evidence](https://image.schrack.com/caddrawing_expanded/c_mc216045s-_e.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://image.schrack.com/caddrawing_expanded/c_mc216045s-_e.dwg)
+- Delivery: source-bundle; ZIP; 18394 bytes
+- Delivery SHA-256: d63d3498b3f6d63c7c94786c06d7fa4d6cdaafb1e2e16347be6cefd99c63d660
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

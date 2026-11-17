@@ -32,6 +32,7 @@ Use the 1050 HTP column on PDF page 11. The download is the complete catalogue, 
 - Diameter Db (in): 6.3
 - Cantilever Strength, Upright, Pounds: 1250
 - Impulse Withstand, kV: 1050
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

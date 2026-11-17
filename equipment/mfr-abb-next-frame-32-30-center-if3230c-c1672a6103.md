@@ -1,0 +1,118 @@
+# ABB — NEXT FRAME 32 30 CENTER - IF3230C
+
+ABB NEXT FRAME 32 30 CENTER - IF3230C: original STEP for switchboard enclosure or mounting hardware layouts. CAD model.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-frame-32-30-center-if3230c-c1672a6103) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-frame-32-30-center-if3230c-c1672a6103.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-frame-32-30-center-if3230c-c1672a6103.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+CAD model
+
+## Equipment and file summary
+
+- Equipment / resource: NEXT FRAME 32 30 CENTER - IF3230C
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: CAD model
+- Manufacturer drawing identity: NEXT FRAME 32 30 CENTER - IF3230C
+- Source document: 1SQC900453D0201; revision A
+- Source-model envelope: 685.8 × 1241.4 × 29.8 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: CAD model ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: NEXT FRAME 32 30 CENTER - IF3230C ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SQC900453D0201; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 685.8 × 1241.4 × 29.8 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+1SQC900453D0201.zip (revision A) is the original ABB archive. Open neXT\_Frame\_32\_30\_Center.stp inside it to place the original solid geometry in your 3D assembly.
+
+1SQC900453D0201.zip (revision A) is the original ABB archive. Open neXT\_Frame\_32\_30\_Center.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: CAD model
+- The supplied model has approximate X × Y × Z bounds of 685.8 × 1241.4 × 29.8 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC900453D0201.zip — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NEXT FRAME 32 30 CENTER - IF3230C?
+
+1 inspected original for ABB NEXT FRAME 32 30 CENTER - IF3230C: 1SQC900453D0201.zip (ZIP). The manufacturer describes this configuration as CAD model.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+1SQC900453D0201.zip (revision A) is the original ABB archive. Open neXT\_Frame\_32\_30\_Center.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB NEXT FRAME 32 30 CENTER - IF3230C: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-next-frame-32-30-center-if3230c-c1672a6103/abb-f3a0044c18ba4abd5b4b?asset=a33848e3e074f8fa2582096447d287ad76b2e84596141752aee7a19b49327265&view=thumb&v=0314981e7e2d29f8)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-frame-32-30-center-if3230c-c1672a6103). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC900453D0201.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-next-frame-32-30-center-if3230c-c1672a6103/abb-f3a0044c18ba4abd5b4b)
+- Redistribution: unknown
+- Original SHA-256: e1e7bedbb9a91302c5f194e94ee73389a7e69de9f74b9be115316e36cba43f30
+- Original bytes: 791838
+- Revision: A
+- Retrieved: 2026-11-11T06:02:09.930242+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900453D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; ZIP; 791838 bytes
+- Delivery SHA-256: e1e7bedbb9a91302c5f194e94ee73389a7e69de9f74b9be115316e36cba43f30
+
+<details>
+<summary>Archive members</summary>
+
+- neXT\_Frame\_32\_30\_Center.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,106 @@
+# ABB — OS125...160GD30BB
+
+ABB OS125...160GD30BB: original DXF for switching or transfer equipment layouts. OS125GD30BB, OS125GD30BBP, OS160GD30BB, OS160GD30BBP, dxf-file, 1SCC318229F0001.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125-160gd30bb-3ad1d84f03) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125-160gd30bb-3ad1d84f03.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os125-160gd30bb-3ad1d84f03.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+OS125GD30BB, OS125GD30BBP, OS160GD30BB, OS160GD30BBP, dxf-file, 1SCC318229F0001
+
+## Equipment and file summary
+
+- Equipment / resource: OS125...160GD30BB
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: OS125GD30BB, OS125GD30BBP, OS160GD30BB, OS160GD30BBP, dxf-file, 1SCC318229F0001
+- Manufacturer drawing identity: OS125...160GD30BB
+- Source document: 1SCC318229F0001; revision A
+- Standards: IEC 60947-3
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: OS125GD30BB, OS125GD30BBP, OS160GD30BB, OS160GD30BBP, dxf-file, 1SCC318229F0001 ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OS125...160GD30BB ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SCC318229F0001; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 1SCC318229F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC318229F0001.dxf.
+
+Use 1SCC318229F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC318229F0001.dxf.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: OS125GD30BB, OS125GD30BBP, OS160GD30BB, OS160GD30BBP, dxf-file, 1SCC318229F0001
+- The source was checked on 2026-11-11; recorded file revisions: 1SCC318229F0001.dxf — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OS125...160GD30BB?
+
+1 inspected original for ABB OS125...160GD30BB: 1SCC318229F0001.dxf (DXF). The manufacturer describes this configuration as OS125GD30BB, OS125GD30BBP, OS160GD30BB, OS160GD30BBP, dxf-file, 1SCC318229F0001.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SCC318229F0001.dxf (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 1SCC318229F0001.dxf.
+
+## Preview
+
+![ABB OS125...160GD30BB: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-os125-160gd30bb-3ad1d84f03/abb-1e8f610474c4beb6bca9?asset=730f27c160d6ad4a705b087d5b368f63f6832fccc45dc20c8b1d047ce582542b&view=thumb&v=71f2fbbf9cdbc43d)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os125-160gd30bb-3ad1d84f03). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SCC318229F0001.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os125-160gd30bb-3ad1d84f03/abb-1e8f610474c4beb6bca9)
+- Redistribution: unknown
+- Original SHA-256: 730f27c160d6ad4a705b087d5b368f63f6832fccc45dc20c8b1d047ce582542b
+- Original bytes: 1588072
+- Revision: A
+- Retrieved: 2026-11-11T06:14:35.976723+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318229F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 188953 bytes
+- Delivery SHA-256: 1618d767b0d51d4ec3002064cb61b44529f13791701db0bd435133b39e43fba5
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

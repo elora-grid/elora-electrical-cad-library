@@ -23,6 +23,7 @@ Manufacturer reference SEL-3505/3505-3 Real-Time Automation Controller (RTAC) id
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-3505/3505-3 Real-Time Automation Controller (RTAC)
+- Standards: IEEE 1613
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -25,6 +25,7 @@ The supplied configuration is “T2, 3 Pole”. Keep those frame, mounting and a
 - Manufacturer drawing: 9AKK106103A4769; 9AKK106103A4770
 - Manufacturer reference: 9AKK106103A4769; 9AKK106103A4770
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: DXF, PDF
 - Listed files: 2
 - Available previews: 2 drawing previews

@@ -1,0 +1,94 @@
+# Terasaki — DB Concept Isolator CEL3xxxM 3P file
+
+Terasaki DB Concept Isolator CEL3xxxM 3P file. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-db-concept-isolator-cel3xxxm-3p-file-7d6d09b34a) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-db-concept-isolator-cel3xxxm-3p-file-7d6d09b34a.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-db-concept-isolator-cel3xxxm-3p-file-7d6d09b34a.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Switchboards & switchgear
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: DB Concept Isolator CEL3xxxM 3P file
+- Manufacturer: Terasaki
+- Resource type: Product family
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: STEP ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp.
+
+Use Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Terasaki DB Concept Isolator CEL3xxxM 3P file and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for DB Concept Isolator CEL3xxxM 3P file?
+
+1 inspected original for Terasaki DB Concept Isolator CEL3xxxM 3P file: Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp (STEP).
+
+### Where did these Terasaki files come from?
+
+Terasaki supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Terasaki official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10048/Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-terasaki-db-concept-isolator-cel3xxxm-3p-file-7d6d09b34a/native-14a525af5ce8b6325e2f606e-step)
+- Redistribution: unknown
+- Original SHA-256: 14a525af5ce8b6325e2f606e6a27192bbf3e3e900ce61c4e5352b2c1160dce74
+- Original bytes: 31928455
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Terasaki
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10048/Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10048/Terasaki-Concept-Isolator-CEL3xxxM-3P-3D-CAD-Block.stp)
+- Delivery: source-bundle; ZIP; 6528267 bytes
+- Delivery SHA-256: be6e1446eb6c476468cbed55a5563c5f7782b73e08245d625ac4b1d332cf13cb
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

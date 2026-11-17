@@ -8,7 +8,7 @@ ABB XT7 3p 4p RHD: breaker or breaker-accessory reference for breaker compartmen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1475
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT7 3p 4p RHD”. Keep those frame, mounting an
 - Manufacturer reference: 1SDH002065A1475
 - Document revision: A
 - Model envelope: 1SDH002065A1475\_XT7\_3p\_4p\_RHD.stp: 191.1 × 84.7 × 172.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1475&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 2989340 bytes
 - Delivery SHA-256: 4ef460c788a07eb314f89d1bebcf9dd215984043705b2d5a69805e76dfe2b5f3
+
+### 1SDH002065A1475\_XT7\_3p\_4p\_RHD.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1475\_XT7\_3p\_4p\_RHD.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1475&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-3p-4p-rhd-678ce91393/4ef460c788a07eb314f8-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4ef460c788a07eb314f89d1bebcf9dd215984043705b2d5a69805e76dfe2b5f3
+- Original bytes: 2989340
+- Revision: A
+- Retrieved: 2026-11-03T01:58:10.753557Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1475&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1475&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 460347 bytes
+- Delivery SHA-256: 53169d8f451c062bc953ecd187536eff6cc5ccf52c477b3a53fd76b079e6ebe9
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

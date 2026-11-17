@@ -21,6 +21,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Equipment / resource: Leroy-Somer LSA 40
 - Manufacturer: Nidec Leroy-Somer
 - Resource type: Product family
+- Standards: IEC 60034-1, IEC 60034-5, IEC 60034-22, ISO 8528-3
 - Listed file formats: DWG, DXF
 - Listed files: 63
 - Available previews: Manufacturer source / drawing request

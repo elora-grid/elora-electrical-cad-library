@@ -25,6 +25,7 @@ The supplied configuration is “OT160G04\_, OT160G40”. Keep those frame, moun
 - Manufacturer drawing: OT160G4\_MODEL.IGS
 - Manufacturer reference: OT160G4\_MODEL.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

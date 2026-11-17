@@ -26,6 +26,7 @@ The supplied configuration is “OT400DTUR3Y-L01.zip”. Keep those frame, mount
 - Manufacturer drawing: OT400DTUR3Y-L01.ZIP
 - Manufacturer reference: OT400DTUR3Y-L01.ZIP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -26,7 +26,7 @@ Original DXF drawing for OTDC630...800EPP22, OTDC600UPP22; ABB document 1SCC3074
 - Manufacturer drawing: 1SCC307453F0001
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -62,7 +62,7 @@ Use 1SCC307453F0001.dxf for OTDC630...800EPP22, OTDC600UPP22. DXF is the supplie
 
 ## Preview
 
-![ABB OTDC630...800EPP22, OTDC600UPP22: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-otdc630-800epp22-otdc600upp22-e988dca3/original?asset=cdd5b6cbc80bdd36141b8f82db3349686466bc05d574af54da1d9d4e072d203f)
+![ABB OTDC630...800EPP22, OTDC600UPP22: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-otdc630-800epp22-otdc600upp22-e988dca3/original?asset=cdd5b6cbc80bdd36141b8f82db3349686466bc05d574af54da1d9d4e072d203f&view=thumb&v=9d18da79e073e70b)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-otdc630-800epp22-otdc600upp22-e988dca3). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

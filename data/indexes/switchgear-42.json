@@ -1,0 +1,2952 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 42,
+  "entries": [
+    {
+      "id": "eaton-article-022263",
+      "name": "P3-100/EA/SVB-SW/N — Main switch, P3, 100 A, flush mounting, 3 pole + N, STOP function, With black rotary handle and locking ring, Lockable in the 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-022263",
+      "recordPath": "equipment/eaton-article-022263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-022263.json"
+    },
+    {
+      "id": "eaton-article-022265",
+      "name": "T0-4-15682/EA/SVB-SW — Main switch, T0, 20 A, flush mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-022265",
+      "recordPath": "equipment/eaton-article-022265.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-022265.json"
+    },
+    {
+      "id": "eaton-article-026240",
+      "name": "T3-3-15681/EA/SVB — Main switch, T3, 32 A, flush mounting, 3 contact unit(s), 3 pole + N, 1 N/O, 1 N/C, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-026240",
+      "recordPath": "equipment/eaton-article-026240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-026240.json"
+    },
+    {
+      "id": "eaton-article-026985",
+      "name": "T0-3-8451/IVS — Changeover switch, 20 A, service distr. board mounting, 3 contact units, Contacts: 6, 60 °, maintained, 0 (Off) position, 0-1-2, Design no. 8451",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-026985",
+      "recordPath": "equipment/eaton-article-026985.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-026985.json"
+    },
+    {
+      "id": "eaton-article-023895",
+      "name": "T3-6-15877/E — Reversing star-delta switch, 32 A, flush mounting, 6 contact units, Contacts: 12, 60 °, maintained, 0 (Off) position, D-Y-0-Y-D, Design no. 15877",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-023895",
+      "recordPath": "equipment/eaton-article-023895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-023895.json"
+    },
+    {
+      "id": "eaton-article-024609",
+      "name": "T0-3-8216/E — Changeover switch, 20 A, flush mounting, 3 contact units, Contacts: 6, 45 °, momentary, 0 (Off) position, spring-return to 0, 2>0<1, Design no. 8216",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-024609",
+      "recordPath": "equipment/eaton-article-024609.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-024609.json"
+    },
+    {
+      "id": "eaton-article-020053",
+      "name": "T3-4-131/Z — Reversing switch, 32 A, rear mounting, 4 contact units, Contacts: 7, 45 °, maintained, 0 (Off) position, 2-0-1, Design number 131",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020053",
+      "recordPath": "equipment/eaton-article-020053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020053.json"
+    },
+    {
+      "id": "eaton-article-020044",
+      "name": "T3-4-11/E — Multi-speed switch, 32 A, flush mounting, 4 contact units, Contacts: 8, 90 °, maintained, 1-2, Design number 11",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020044",
+      "recordPath": "equipment/eaton-article-020044.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020044.json"
+    },
+    {
+      "id": "eaton-article-020016",
+      "name": "T3-3-8314/EZ — Step switch, 32 A, center mounting, 3 contact units, Contacts: 6, 45 °, maintained, 0 (Off) position, 0-2, Design number 8314",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020016",
+      "recordPath": "equipment/eaton-article-020016.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020016.json"
+    },
+    {
+      "id": "eaton-article-019891",
+      "name": "P3-63/EA/SVB/HI11 — Main switch, P3, 63 A, flush mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019891",
+      "recordPath": "equipment/eaton-article-019891.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019891.json"
+    },
+    {
+      "id": "eaton-article-024623",
+      "name": "T0-3-15115/E — Step switches, T0, 20 A, flush mounting, 3 contact unit(s), Contacts: 6, 90 °, maintained, With 0 (Off) position, 0-1-1+2-2, Design number 15115",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-024623",
+      "recordPath": "equipment/eaton-article-024623.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-024623.json"
+    },
+    {
+      "id": "eaton-article-024620",
+      "name": "T0-2-15323/E — On switch, 20 A, Flush mounting, 2 contact unit(s), Contacts: 3, Momentary, I<1, Design: 15323",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-024620",
+      "recordPath": "equipment/eaton-article-024620.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-024620.json"
+    },
+    {
+      "id": "eaton-article-020202",
+      "name": "T3-4-15602/E — Coding switch, 32 A, Flush mounting, 4 contact unit(s), Contacts: 8, Maintained, 0-9, Design: 15602",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020202",
+      "recordPath": "equipment/eaton-article-020202.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020202.json"
+    },
+    {
+      "id": "eaton-article-020734",
+      "name": "T3-5-8531/Z — Changeover switch, 32 A, Rear mounting, 5 contact unit(s), Contacts: 10, Maintained, Phase-0-Erde, Design: 8531",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020734",
+      "recordPath": "equipment/eaton-article-020734.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020734.json"
+    },
+    {
+      "id": "eaton-article-022246",
+      "name": "T0-3-15453/IVS — Changeover switch, 20 A, Service distribution board mounting, 3 contact unit(s), Contacts: 6, Maintained, HAND-AUTO, Design: 15453",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-022246",
+      "recordPath": "equipment/eaton-article-022246.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-022246.json"
+    },
+    {
+      "id": "eaton-article-020300",
+      "name": "TM-2-8550/E — Coding switch, 10 A, Flush mounting, 2 contact unit(s), Contacts: 4, Maintained, 0-9, Design: 8550",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020300",
+      "recordPath": "equipment/eaton-article-020300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020300.json"
+    },
+    {
+      "id": "eaton-article-026994",
+      "name": "T0-1-15511/IVS — ON-OFF button, 20 A, Service distribution board mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-1<START, Design: 15511",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-026994",
+      "recordPath": "equipment/eaton-article-026994.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-026994.json"
+    },
+    {
+      "id": "eaton-article-019894",
+      "name": "P3-63/E/N — On-Off switch, P3, 63 A, flush mounting, 3 pole + N, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019894",
+      "recordPath": "equipment/eaton-article-019894.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019894.json"
+    },
+    {
+      "id": "eaton-article-019890",
+      "name": "P3-100/EA/SVB/N — Main switch, P3, 100 A, flush mounting, 3 pole + N, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019890",
+      "recordPath": "equipment/eaton-article-019890.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019890.json"
+    },
+    {
+      "id": "eaton-article-027009",
+      "name": "P3-100/V/SVB-SW/N — Main switch, P3, 100 A, rear mounting, 3 pole + N, STOP function, With black rotary handle and locking ring, Lockable in the 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-027009",
+      "recordPath": "equipment/eaton-article-027009.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-027009.json"
+    },
+    {
+      "id": "eaton-article-024636",
+      "name": "P3-100/V/SVB/N — Main switch, P3, 100 A, rear mounting, 3 pole + N, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-024636",
+      "recordPath": "equipment/eaton-article-024636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-024636.json"
+    },
+    {
+      "id": "eaton-article-023870",
+      "name": "T3-3-8216/E — Changeover switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 45 °, momentary, 0 (Off) position, spring-return to 0, 2>0<1, Design no. 8216",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-023870",
+      "recordPath": "equipment/eaton-article-023870.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-023870.json"
+    },
+    {
+      "id": "eaton-article-020705",
+      "name": "T3-5-8315/EZ — Step switch, 32 A, center mounting, 5 contact units, Contacts: 9, 45 °, maintained, 0 (Off) position, 0-3, Design number 8315",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020705",
+      "recordPath": "equipment/eaton-article-020705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020705.json"
+    },
+    {
+      "id": "eaton-article-022672",
+      "name": "TM-4-8294/E — Changeover switch, 10 A, flush mounting, 4 contact units, Contacts: 8, 90 °, maintained, 0 (Off) position, 1-0-2, Design number 8294",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-022672",
+      "recordPath": "equipment/eaton-article-022672.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-022672.json"
+    },
+    {
+      "id": "eaton-article-020454",
+      "name": "T3-4-24/E — Star-delta switch, 32 A, flush mounting, 4 contact units, Contacts: 7, 60 °, maintained, 0 (Off) position, 0-Y-D, Design no. 24",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020454",
+      "recordPath": "equipment/eaton-article-020454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020454.json"
+    },
+    {
+      "id": "eaton-article-019989",
+      "name": "T3-3-8313/Z — Step switch, 32 A, rear mounting, 3 contact units, Contacts: 6, 45 °, maintained, 0 (Off) position, 0-3, Design number 8313",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019989",
+      "recordPath": "equipment/eaton-article-019989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019989.json"
+    },
+    {
+      "id": "eaton-article-020621",
+      "name": "T3-4-8419/Z — Star-delta switch, 32 A, rear mounting, 4 contact units, Contacts: 7, 90 °, maintained, 0 (Off) position, 0-Y-D, Design no. 8419",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020621",
+      "recordPath": "equipment/eaton-article-020621.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020621.json"
+    },
+    {
+      "id": "eaton-article-024637",
+      "name": "P3-63/V/SVB/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-024637",
+      "recordPath": "equipment/eaton-article-024637.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-024637.json"
+    },
+    {
+      "id": "eaton-article-020648",
+      "name": "T3-4-88/E — Changeover switch, 32 A, flush mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 2-0-1, Design number 88",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020648",
+      "recordPath": "equipment/eaton-article-020648.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020648.json"
+    },
+    {
+      "id": "eaton-article-020653",
+      "name": "T3-4-90/E — Changeover switch, 32 A, flush mounting, 4 contact units, Contacts: 8, 90 °, maintained, 1-2, Design number 90",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020653",
+      "recordPath": "equipment/eaton-article-020653.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020653.json"
+    },
+    {
+      "id": "eaton-article-026996",
+      "name": "T0-3-15115/EZ — Step switch, 20 A, center mounting, 3 contact units, Contacts: 6, 90 °, maintained, 0 (Off) position, 0-1-1+2-2, Design number 15115",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-026996",
+      "recordPath": "equipment/eaton-article-026996.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-026996.json"
+    },
+    {
+      "id": "eaton-article-020459",
+      "name": "T3-4-3/E — Star-delta switch, 32 A, flush mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 0-Y-D, Design number 3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-020459",
+      "recordPath": "equipment/eaton-article-020459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-020459.json"
+    },
+    {
+      "id": "eaton-article-026243",
+      "name": "T3-3-8216/Z — Changeover switch, 32 A, rear mounting, 3 contact units, Contacts: 6, 45 °, momentary, 0 (Off) position, spring-return to 0, 2>0<1, Design no. 8216",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-026243",
+      "recordPath": "equipment/eaton-article-026243.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-026243.json"
+    },
+    {
+      "id": "eaton-article-023869",
+      "name": "T3-4-15682/E — On-Off switch, T3, 32 A, flush mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-023869",
+      "recordPath": "equipment/eaton-article-023869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-023869.json"
+    },
+    {
+      "id": "eaton-article-178568",
+      "name": "M22-WJS4 — Joystick, with one operating point per operating direction, with metal shaft, 4 positions, Bezel: titanium, momentary, in every position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178568",
+      "recordPath": "equipment/eaton-article-178568.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178568.json"
+    },
+    {
+      "id": "eaton-article-178577",
+      "name": "M22S-WRJS2V — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: black, maintained, Vertical",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178577",
+      "recordPath": "equipment/eaton-article-178577.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178577.json"
+    },
+    {
+      "id": "eaton-article-178570",
+      "name": "M22-WJS2H — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: titanium, momentary, Horizontal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178570",
+      "recordPath": "equipment/eaton-article-178570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178570.json"
+    },
+    {
+      "id": "eaton-article-178575",
+      "name": "M22-WRJS2V — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: titanium, maintained, Vertical",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178575",
+      "recordPath": "equipment/eaton-article-178575.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178575.json"
+    },
+    {
+      "id": "eaton-article-178565",
+      "name": "M22-WJS2H-2P — Joystick, with 2 operating points per operating direction, with metal shaft, 2 positions, Bezel: titanium, momentary, Horizontal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178565",
+      "recordPath": "equipment/eaton-article-178565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178565.json"
+    },
+    {
+      "id": "eaton-article-178573",
+      "name": "M22S-WJS2V — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: black, momentary, Vertical",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178573",
+      "recordPath": "equipment/eaton-article-178573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178573.json"
+    },
+    {
+      "id": "eaton-article-178569",
+      "name": "M22S-WJS4 — Joystick, with one operating point per operating direction, with metal shaft, 4 positions, Bezel: black, momentary, in every position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178569",
+      "recordPath": "equipment/eaton-article-178569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178569.json"
+    },
+    {
+      "id": "eaton-article-178572",
+      "name": "M22S-WJS2H — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: black, momentary, Horizontal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178572",
+      "recordPath": "equipment/eaton-article-178572.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178572.json"
+    },
+    {
+      "id": "eaton-article-178564",
+      "name": "M22-WJS2V-2P — Joystick, with 2 operating points per operating direction, with metal shaft, 2 positions, Bezel: titanium, momentary, Vertical",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178564",
+      "recordPath": "equipment/eaton-article-178564.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178564.json"
+    },
+    {
+      "id": "eaton-article-178563",
+      "name": "M22-WJS4-2P — Joystick, with 2 operating points per operating direction, with metal shaft, 4 positions, Bezel: titanium, momentary",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178563",
+      "recordPath": "equipment/eaton-article-178563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178563.json"
+    },
+    {
+      "id": "eaton-article-178566",
+      "name": "M22-WRJS4 — Joystick, with one operating point per operating direction, with metal shaft, 4 positions, Bezel: titanium, maintained, in every position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178566",
+      "recordPath": "equipment/eaton-article-178566.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178566.json"
+    },
+    {
+      "id": "eaton-article-178567",
+      "name": "M22S-WRJS4 — Joystick, with one operating point per operating direction, with metal shaft, 4 positions, Bezel: black, maintained, in every position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178567",
+      "recordPath": "equipment/eaton-article-178567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178567.json"
+    },
+    {
+      "id": "eaton-article-178574",
+      "name": "M22-WRJS2H — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: titanium, maintained, Horizontal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178574",
+      "recordPath": "equipment/eaton-article-178574.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178574.json"
+    },
+    {
+      "id": "eaton-article-182422",
+      "name": "P3-63/I4/MBS/SVB-SW — Main switch, P3, 63 A, surface mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182422",
+      "recordPath": "equipment/eaton-article-182422.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182422.json"
+    },
+    {
+      "id": "eaton-article-182423",
+      "name": "P3-63/I4/MBS/SVB/HI11 — Main switch, P3, 63 A, surface mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182423",
+      "recordPath": "equipment/eaton-article-182423.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182423.json"
+    },
+    {
+      "id": "eaton-article-182416",
+      "name": "P1-25/I2H/MBS/SVB-SW/HI11 — Main switch, P1, 25 A, surface mounting, 3 pole, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182416",
+      "recordPath": "equipment/eaton-article-182416.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182416.json"
+    },
+    {
+      "id": "eaton-article-182414",
+      "name": "P1-25/I2H/MBS/SVB-SW — Main switch, P1, 25 A, surface mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182414",
+      "recordPath": "equipment/eaton-article-182414.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182414.json"
+    },
+    {
+      "id": "eaton-article-182420",
+      "name": "P1-32/I2H/MBS/SVB-SW/HI11 — Main switch, P1, 32 A, surface mounting, 3 pole, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182420",
+      "recordPath": "equipment/eaton-article-182420.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182420.json"
+    },
+    {
+      "id": "eaton-article-182421",
+      "name": "P3-63/I4/MBS/SVB — Main switch, P3, 63 A, surface mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182421",
+      "recordPath": "equipment/eaton-article-182421.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182421.json"
+    },
+    {
+      "id": "eaton-article-182418",
+      "name": "P1-32/I2H/MBS/SVB-SW — Main switch, P1, 32 A, surface mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182418",
+      "recordPath": "equipment/eaton-article-182418.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182418.json"
+    },
+    {
+      "id": "eaton-article-182415",
+      "name": "P1-25/I2H/MBS/SVB/HI11 — Main switch, P1, 25 A, surface mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position, hard knockout version",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182415",
+      "recordPath": "equipment/eaton-article-182415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182415.json"
+    },
+    {
+      "id": "eaton-article-182424",
+      "name": "P3-63/I4/MBS/SVB-SW/HI11 — Main switch, P3, 63 A, surface mounting, 3 pole, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182424",
+      "recordPath": "equipment/eaton-article-182424.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182424.json"
+    },
+    {
+      "id": "eaton-article-178571",
+      "name": "M22-WJS2V — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: titanium, momentary, Vertical",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178571",
+      "recordPath": "equipment/eaton-article-178571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178571.json"
+    },
+    {
+      "id": "eaton-article-178576",
+      "name": "M22S-WRJS2H — Joystick, with one operating point per operating direction, with metal shaft, 2 positions, Bezel: black, maintained, Horizontal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-178576",
+      "recordPath": "equipment/eaton-article-178576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-178576.json"
+    },
+    {
+      "id": "eaton-article-182419",
+      "name": "P1-32/I2H/MBS/SVB/HI11 — Main switch, P1, 32 A, surface mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position, hard knockout version",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182419",
+      "recordPath": "equipment/eaton-article-182419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182419.json"
+    },
+    {
+      "id": "eaton-article-179982",
+      "name": "M22-SWD-INC — Function element, Encoder, Front fixing",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179982",
+      "recordPath": "equipment/eaton-article-179982.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179982.json"
+    },
+    {
+      "id": "eaton-article-179293",
+      "name": "M22-SWD-R — Function element, Potentiometer, Front fixing",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179293",
+      "recordPath": "equipment/eaton-article-179293.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179293.json"
+    },
+    {
+      "id": "eaton-article-182417",
+      "name": "P1-32/I2H/MBS/SVB — Main switch, P1, 32 A, surface mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182417",
+      "recordPath": "equipment/eaton-article-182417.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182417.json"
+    },
+    {
+      "id": "eaton-article-182413",
+      "name": "P1-25/I2H/MBS/SVB — Main switch, P1, 25 A, surface mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-182413",
+      "recordPath": "equipment/eaton-article-182413.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-182413.json"
+    },
+    {
+      "id": "eaton-article-179328",
+      "name": "N4-4-800-S15-PV-NA — Molded Case Switch 4p 800A 1500VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179328",
+      "recordPath": "equipment/eaton-article-179328.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179328.json"
+    },
+    {
+      "id": "eaton-article-179326",
+      "name": "N4-4-1000-S1-PV-NA — Molded Case Switch 4p 1000A 1000VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179326",
+      "recordPath": "equipment/eaton-article-179326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179326.json"
+    },
+    {
+      "id": "eaton-article-179592",
+      "name": "N4-4-1100-S15-PV-NA — Molded Case Switch 4p 1100A 1500VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179592",
+      "recordPath": "equipment/eaton-article-179592.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179592.json"
+    },
+    {
+      "id": "eaton-article-179591",
+      "name": "N4-4-1100-S1-PV-NA — Molded Case Switch 4p 1100A 1000VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179591",
+      "recordPath": "equipment/eaton-article-179591.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179591.json"
+    },
+    {
+      "id": "eaton-article-179330",
+      "name": "N4-4-1200-S15-PV-NA — Molded Case Switch 4p 1200A 1500VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179330",
+      "recordPath": "equipment/eaton-article-179330.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179330.json"
+    },
+    {
+      "id": "eaton-article-179327",
+      "name": "N4-4-1200-S1-PV-NA — Molded Case Switch 4p 1200A 1000VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179327",
+      "recordPath": "equipment/eaton-article-179327.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179327.json"
+    },
+    {
+      "id": "eaton-article-179329",
+      "name": "N4-4-1000-S15-PV-NA — Molded Case Switch 4p 1000A 1500VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179329",
+      "recordPath": "equipment/eaton-article-179329.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179329.json"
+    },
+    {
+      "id": "eaton-article-179325",
+      "name": "N4-4-800-S1-PV-NA — Molded Case Switch 4p 800A 1000VDC UL",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-179325",
+      "recordPath": "equipment/eaton-article-179325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-179325.json"
+    },
+    {
+      "id": "eaton-article-271842",
+      "name": "NZM4-XHBR — Main switch assembly kit, red",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271842",
+      "recordPath": "equipment/eaton-article-271842.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-271842.json"
+    },
+    {
+      "id": "eaton-article-271779",
+      "name": "NZM4-XHB — Main switch assembly kit, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271779",
+      "recordPath": "equipment/eaton-article-271779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-271779.json"
+    },
+    {
+      "id": "eaton-article-271455",
+      "name": "NZM1-XDTVR-NA — Rotary handle, red, lockable on the handle, NA type",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271455",
+      "recordPath": "equipment/eaton-article-271455.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-271455.json"
+    },
+    {
+      "id": "eaton-article-271454",
+      "name": "NZM2-XDTV-NA — Rotary handle, black, lockable on the handle, NA type",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271454",
+      "recordPath": "equipment/eaton-article-271454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-271454.json"
+    },
+    {
+      "id": "eaton-article-271453",
+      "name": "NZM1-XDTV-NA — Rotary handle, black, lockable on the handle, NA type",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271453",
+      "recordPath": "equipment/eaton-article-271453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-271453.json"
+    },
+    {
+      "id": "eaton-article-271456",
+      "name": "NZM2-XDTVR-NA — Rotary handle, red, lockable on the handle, NA type",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-271456",
+      "recordPath": "equipment/eaton-article-271456.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-271456.json"
+    },
+    {
+      "id": "eaton-article-270587",
+      "name": "Z-SC/GP — Diode group block, 1HP",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-270587",
+      "recordPath": "equipment/eaton-article-270587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-270587.json"
+    },
+    {
+      "id": "eaton-article-172784",
+      "name": "P3-63/M4/SVB — Main switch, P3, 63 A, rear mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172784",
+      "recordPath": "equipment/eaton-article-172784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172784.json"
+    },
+    {
+      "id": "eaton-article-172875",
+      "name": "P1-25/M4/SVB — Main switch, P1, 25 A, rear mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172875",
+      "recordPath": "equipment/eaton-article-172875.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172875.json"
+    },
+    {
+      "id": "eaton-article-172865",
+      "name": "P1-32/M4/SVB — Main switch, P1, 32 A, rear mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172865",
+      "recordPath": "equipment/eaton-article-172865.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172865.json"
+    },
+    {
+      "id": "eaton-article-172818",
+      "name": "P3-100/M4/SVB — Main switch, P3, 100 A, rear mounting, 3 pole, Emergency switching off, red rotary handle, yellow locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172818",
+      "recordPath": "equipment/eaton-article-172818.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172818.json"
+    },
+    {
+      "id": "eaton-article-172779",
+      "name": "P1-32/M4/K1-PG/N — Main switch, P1, 32 A, rear mounting, 3 pole + N, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172779",
+      "recordPath": "equipment/eaton-article-172779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172779.json"
+    },
+    {
+      "id": "eaton-article-172827",
+      "name": "P3-100/M4/K2-PG — Main switch, P3, 100 A, rear mounting, 3 pole, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172827",
+      "recordPath": "equipment/eaton-article-172827.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172827.json"
+    },
+    {
+      "id": "eaton-article-172868",
+      "name": "P1-32/M4/SVB-SW/N — Main switch, P1, 32 A, rear mounting, 3 pole + N, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172868",
+      "recordPath": "equipment/eaton-article-172868.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172868.json"
+    },
+    {
+      "id": "eaton-article-172829",
+      "name": "P3-100/M4/K2-PG/N — Main switch, P3, 100 A, rear mounting, 3 pole + N, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172829",
+      "recordPath": "equipment/eaton-article-172829.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172829.json"
+    },
+    {
+      "id": "eaton-article-172778",
+      "name": "P1-32/M4/K1-PR/N — Main switch, P1, 32 A, rear mounting, 3 pole + N, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172778",
+      "recordPath": "equipment/eaton-article-172778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172778.json"
+    },
+    {
+      "id": "eaton-article-172819",
+      "name": "P3-100/M4/SVB-SW — Main switch, P3, 100 A, rear mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172819",
+      "recordPath": "equipment/eaton-article-172819.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172819.json"
+    },
+    {
+      "id": "eaton-article-172867",
+      "name": "P1-32/M4/SVB/N — Main switch, P1, 32 A, rear mounting, 3 pole + N, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172867",
+      "recordPath": "equipment/eaton-article-172867.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172867.json"
+    },
+    {
+      "id": "eaton-article-172866",
+      "name": "P1-32/M4/SVB-SW — Main switch, P1, 32 A, rear mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172866",
+      "recordPath": "equipment/eaton-article-172866.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172866.json"
+    },
+    {
+      "id": "eaton-article-172785",
+      "name": "P3-63/M4/SVB-SW — Main switch, P3, 63 A, rear mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172785",
+      "recordPath": "equipment/eaton-article-172785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172785.json"
+    },
+    {
+      "id": "eaton-article-172873",
+      "name": "P1-32/M4/K1-PR — Main switch, P1, 32 A, rear mounting, 3 pole, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172873",
+      "recordPath": "equipment/eaton-article-172873.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172873.json"
+    },
+    {
+      "id": "eaton-article-172814",
+      "name": "P3-63/M4/K2-PR/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172814",
+      "recordPath": "equipment/eaton-article-172814.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172814.json"
+    },
+    {
+      "id": "eaton-article-172831",
+      "name": "P3-100/M4/K2-PG/HI11 — Main switch, P3, 100 A, rear mounting, 3 pole, 1 N/O, 1 N/C, STOP function, with black rotary handle and lock ring (K series)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172831",
+      "recordPath": "equipment/eaton-article-172831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172831.json"
+    },
+    {
+      "id": "eaton-article-172812",
+      "name": "P3-63/M4/K2-PR/N — Main switch, P3, 63 A, rear mounting, 3 pole + N, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172812",
+      "recordPath": "equipment/eaton-article-172812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172812.json"
+    },
+    {
+      "id": "eaton-article-172833",
+      "name": "P3-100/M4/K2-PG/N/HI11 — Main switch, P3, 100 A, rear mounting, 3 pole + N, 1 N/O, 1 N/C, STOP function, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172833",
+      "recordPath": "equipment/eaton-article-172833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172833.json"
+    },
+    {
+      "id": "eaton-article-172771",
+      "name": "P1-25/M4/K1-PR — Main switch, P1, 25 A, rear mounting, 3 pole, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172771",
+      "recordPath": "equipment/eaton-article-172771.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172771.json"
+    },
+    {
+      "id": "eaton-article-172813",
+      "name": "P3-63/M4/K2-PG/N — Main switch, P3, 63 A, rear mounting, 3 pole + N, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172813",
+      "recordPath": "equipment/eaton-article-172813.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172813.json"
+    },
+    {
+      "id": "eaton-article-172773",
+      "name": "P1-25/M4/K1-PR/N — Main switch, P1, 25 A, rear mounting, 3 pole + N, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172773",
+      "recordPath": "equipment/eaton-article-172773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172773.json"
+    },
+    {
+      "id": "eaton-article-172822",
+      "name": "P3-100/M4/SVB/HI11 — Main switch, P3, 100 A, rear mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172822",
+      "recordPath": "equipment/eaton-article-172822.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172822.json"
+    },
+    {
+      "id": "eaton-article-172816",
+      "name": "P3-63/M4/K2-PR/N/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole + N, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172816",
+      "recordPath": "equipment/eaton-article-172816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172816.json"
+    },
+    {
+      "id": "eaton-article-168774",
+      "name": "M22-2KC10-2KC01-BVP — 4 contact elements, base fixing, Blister pack for hanging",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-168774",
+      "recordPath": "equipment/eaton-article-168774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-168774.json"
+    },
+    {
+      "id": "eaton-article-172811",
+      "name": "P3-63/M4/K2-PG — Main switch, P3, 63 A, rear mounting, 3 pole, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172811",
+      "recordPath": "equipment/eaton-article-172811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172811.json"
+    },
+    {
+      "id": "eaton-article-172877",
+      "name": "P1-25/M4/SVB/N — Main switch, P1, 25 A, rear mounting, 3 pole + N, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172877",
+      "recordPath": "equipment/eaton-article-172877.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172877.json"
+    },
+    {
+      "id": "eaton-article-172810",
+      "name": "P3-63/M4/K2-PR — Main switch, P3, 63 A, rear mounting, 3 pole, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172810",
+      "recordPath": "equipment/eaton-article-172810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172810.json"
+    },
+    {
+      "id": "eaton-article-172836",
+      "name": "P3-63/XM — Main switch, P3, 63 A, rear mounting, 3 pole",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172836",
+      "recordPath": "equipment/eaton-article-172836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172836.json"
+    },
+    {
+      "id": "eaton-article-172832",
+      "name": "P3-100/M4/K2-PR/N/HI11 — Main switch, P3, 100 A, rear mounting, 3 pole + N, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172832",
+      "recordPath": "equipment/eaton-article-172832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172832.json"
+    },
+    {
+      "id": "eaton-article-172772",
+      "name": "P1-25/M4/K1-PG — Main switch, P1, 25 A, rear mounting, 3 pole, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172772",
+      "recordPath": "equipment/eaton-article-172772.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172772.json"
+    },
+    {
+      "id": "eaton-article-172807",
+      "name": "P3-63/M4/SVB-SW/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172807",
+      "recordPath": "equipment/eaton-article-172807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172807.json"
+    },
+    {
+      "id": "eaton-article-172774",
+      "name": "P1-25/M4/K1-PG/N — Main switch, P1, 25 A, rear mounting, 3 pole + N, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172774",
+      "recordPath": "equipment/eaton-article-172774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172774.json"
+    },
+    {
+      "id": "eaton-article-172788",
+      "name": "P3-63/M4/SVB/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172788",
+      "recordPath": "equipment/eaton-article-172788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172788.json"
+    },
+    {
+      "id": "eaton-article-168773",
+      "name": "M22-2K10-2K01-BVP — 4 contact elements, front mount, Blister pack for hanging",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-168773",
+      "recordPath": "equipment/eaton-article-168773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-168773.json"
+    },
+    {
+      "id": "eaton-article-172876",
+      "name": "P1-25/M4/SVB-SW — Main switch, P1, 25 A, rear mounting, 3 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172876",
+      "recordPath": "equipment/eaton-article-172876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172876.json"
+    },
+    {
+      "id": "eaton-article-172878",
+      "name": "P1-25/M4/SVB-SW/N — Main switch, P1, 25 A, rear mounting, 3 pole + N, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172878",
+      "recordPath": "equipment/eaton-article-172878.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172878.json"
+    },
+    {
+      "id": "eaton-article-172826",
+      "name": "P3-100/M4/K2-PR — Main switch, P3, 100 A, rear mounting, 3 pole, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172826",
+      "recordPath": "equipment/eaton-article-172826.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172826.json"
+    },
+    {
+      "id": "eaton-article-172828",
+      "name": "P3-100/M4/K2-PR/N — Main switch, P3, 100 A, rear mounting, 3 pole + N, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172828",
+      "recordPath": "equipment/eaton-article-172828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172828.json"
+    },
+    {
+      "id": "eaton-article-172817",
+      "name": "P3-63/M4/K2-PG/N/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole + N, 1 N/O, 1 N/C, STOP function, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172817",
+      "recordPath": "equipment/eaton-article-172817.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172817.json"
+    },
+    {
+      "id": "eaton-article-172835",
+      "name": "P1-32/XM — Main switch, P1, 32 A, rear mounting, 3 pole",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172835",
+      "recordPath": "equipment/eaton-article-172835.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172835.json"
+    },
+    {
+      "id": "eaton-article-172815",
+      "name": "P3-63/M4/K2-PG/HI11 — Main switch, P3, 63 A, rear mounting, 3 pole, 1 N/O, 1 N/C, STOP function, with black rotary handle and lock ring (K series)",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172815",
+      "recordPath": "equipment/eaton-article-172815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172815.json"
+    },
+    {
+      "id": "eaton-article-172837",
+      "name": "P3-100/XM — Main switch, P3, 100 A, rear mounting, 3 pole",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172837",
+      "recordPath": "equipment/eaton-article-172837.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172837.json"
+    },
+    {
+      "id": "eaton-article-168795",
+      "name": "PKE-XTUACP-36 — Trip block, 15 - 36 A, System protection, Connection to SmartWire-DT: yes, For use with: PKE32 basic device",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-168795",
+      "recordPath": "equipment/eaton-article-168795.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-168795.json"
+    },
+    {
+      "id": "eaton-article-171497",
+      "name": "PKE-XTU-36 — Trip block, Motor protection, Connection to SmartWire-DT: no, For use with: PKE32 basic device",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171497",
+      "recordPath": "equipment/eaton-article-171497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171497.json"
+    },
+    {
+      "id": "eaton-article-172834",
+      "name": "P1-25/XM — Main switch, P1, 25 A, rear mounting, 3 pole",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172834",
+      "recordPath": "equipment/eaton-article-172834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172834.json"
+    },
+    {
+      "id": "eaton-article-172874",
+      "name": "P1-32/M4/K1-PG — Main switch, P1, 32 A, rear mounting, 3 pole, STOP function, with black rotary handle and lock ring (K series), Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172874",
+      "recordPath": "equipment/eaton-article-172874.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172874.json"
+    },
+    {
+      "id": "eaton-article-172823",
+      "name": "P3-100/M4/SVB-SW/HI11 — Main switch, P3, 100 A, rear mounting, 3 pole, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172823",
+      "recordPath": "equipment/eaton-article-172823.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172823.json"
+    },
+    {
+      "id": "eaton-article-172830",
+      "name": "P3-100/M4/K2-PR/HI11 — Main switch, P3, 100 A, rear mounting, 3 pole, 1 N/O, 1 N/C, Emergency switching off, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172830",
+      "recordPath": "equipment/eaton-article-172830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172830.json"
+    },
+    {
+      "id": "eaton-article-172537",
+      "name": "NZM2-XDKL — Rotary handle, + key lock, size 2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172537",
+      "recordPath": "equipment/eaton-article-172537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172537.json"
+    },
+    {
+      "id": "eaton-article-172539",
+      "name": "NZM4-XDKL — Rotary handle, + key lock, size 4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172539",
+      "recordPath": "equipment/eaton-article-172539.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172539.json"
+    },
+    {
+      "id": "eaton-article-172538",
+      "name": "NZM3-XDKL — Rotary handle, + key lock, size 3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172538",
+      "recordPath": "equipment/eaton-article-172538.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172538.json"
+    },
+    {
+      "id": "eaton-article-172536",
+      "name": "NZM1-XDKL — Rotary handle, + key lock, size 1",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172536",
+      "recordPath": "equipment/eaton-article-172536.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172536.json"
+    },
+    {
+      "id": "eaton-article-016318",
+      "name": "T3-1-102/E-RT — On-Off switch, T3, 32 A, flush mounting, 1 contact unit(s), 2 pole, Emergency switching off function, with red thumb grip and yellow front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016318",
+      "recordPath": "equipment/eaton-article-016318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016318.json"
+    },
+    {
+      "id": "eaton-article-016926",
+      "name": "T3-1-8/Z — ON-OFF button, 32 A, Rear mounting, 1 contact unit(s), Contacts: 2, Momentary, 0><1, Design: 8",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016926",
+      "recordPath": "equipment/eaton-article-016926.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016926.json"
+    },
+    {
+      "id": "eaton-article-017323",
+      "name": "T3-1-8310/E — Step switch, 32 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-2, Design: 8310",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017323",
+      "recordPath": "equipment/eaton-article-017323.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017323.json"
+    },
+    {
+      "id": "eaton-article-017327",
+      "name": "T3-1-8310/Z — Step switch, 32 A, Rear mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-2, Design: 8310",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017327",
+      "recordPath": "equipment/eaton-article-017327.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017327.json"
+    },
+    {
+      "id": "eaton-article-018898",
+      "name": "T3-3-174/E — Step switch, 32 A, Flush mounting, 3 contact unit(s), Contacts: 6, Maintained, 0-6, Design: 174",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018898",
+      "recordPath": "equipment/eaton-article-018898.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018898.json"
+    },
+    {
+      "id": "eaton-article-017500",
+      "name": "T0-3-15453/EZ — Changeover switch, 20 A, Center mounting, 3 contact unit(s), Contacts: 6, Maintained, HAND-AUTO, Design: 15453",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017500",
+      "recordPath": "equipment/eaton-article-017500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017500.json"
+    },
+    {
+      "id": "eaton-article-017810",
+      "name": "T3-2-15125/Z — Auxiliary winding switch, 32 A, Rear mounting, 2 contact unit(s), Contacts: 4, Maintained/momentary, 0<Start-1, Design: 15125",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017810",
+      "recordPath": "equipment/eaton-article-017810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017810.json"
+    },
+    {
+      "id": "eaton-article-018116",
+      "name": "T3-2-15442/E — Changeover switch, 32 A, Flush mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-2, Design: 15442",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018116",
+      "recordPath": "equipment/eaton-article-018116.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018116.json"
+    },
+    {
+      "id": "eaton-article-018449",
+      "name": "T3-2-8231/EZ — Step switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018449",
+      "recordPath": "equipment/eaton-article-018449.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018449.json"
+    },
+    {
+      "id": "eaton-article-016912",
+      "name": "T3-1-8/E — ON-OFF button, 32 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, 0><1, Design: 8",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016912",
+      "recordPath": "equipment/eaton-article-016912.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016912.json"
+    },
+    {
+      "id": "eaton-article-016480",
+      "name": "T3-1-15341/E — On switch, 32 A, Flush mounting, 1 contact unit(s), Contacts: 1, Momentary, START<STOP, Design: 15341",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016480",
+      "recordPath": "equipment/eaton-article-016480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016480.json"
+    },
+    {
+      "id": "eaton-article-017815",
+      "name": "T3-2-15130/Z — Step switch, 32 A, Rear mounting, 2 contact unit(s), Contacts: 4, Maintained, 0-2, Design: 15130",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017815",
+      "recordPath": "equipment/eaton-article-017815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017815.json"
+    },
+    {
+      "id": "eaton-article-016714",
+      "name": "TM-1-8176/EZ — ON-OFF button, 10 A, Center mounting, 1 contact unit(s), Contacts: 2, Momentary, STOP>I<START, Design: 8176",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016714",
+      "recordPath": "equipment/eaton-article-016714.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016714.json"
+    },
+    {
+      "id": "eaton-article-019868",
+      "name": "T0-4-8245/E — Step switch, 20 A, Flush mounting, 4 contact unit(s), Contacts: 7, Maintained, 0-7, Design: 8245",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019868",
+      "recordPath": "equipment/eaton-article-019868.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019868.json"
+    },
+    {
+      "id": "eaton-article-016729",
+      "name": "T3-1-79/E — Universal control switch, 32 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-1, Design: 79",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016729",
+      "recordPath": "equipment/eaton-article-016729.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016729.json"
+    },
+    {
+      "id": "eaton-article-018832",
+      "name": "T3-3-15443/E — Changeover switch, 32 A, Flush mounting, 3 contact unit(s), Contacts: 6, Maintained, 1-2, Design: 15443",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018832",
+      "recordPath": "equipment/eaton-article-018832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018832.json"
+    },
+    {
+      "id": "eaton-article-016776",
+      "name": "T3-5-15876/E — Reversing star-delta switch, 32 A, flush mounting, 5 contact units, Contacts: 10, 60 °, maintained, 0 (Off) position, D-Y-0-Y-D, Design no. 15876",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016776",
+      "recordPath": "equipment/eaton-article-016776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016776.json"
+    },
+    {
+      "id": "eaton-article-016673",
+      "name": "TM-1-8214/EZ — Changeover switch, 10 A, center mounting, 1 contact unit, Contacts: 2, 30 °, momentary, 0 (Off) position, spring-return, 2>0<1, Design no. 8214",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016673",
+      "recordPath": "equipment/eaton-article-016673.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016673.json"
+    },
+    {
+      "id": "eaton-article-018614",
+      "name": "T3-3-123/E — Reversing switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 60 °, maintained, 0 (Off) position, 2-0-1, Design no. 123",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018614",
+      "recordPath": "equipment/eaton-article-018614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018614.json"
+    },
+    {
+      "id": "eaton-article-016619",
+      "name": "T0-3-15683/E — On-Off switch, T0, 20 A, flush mounting, 3 contact unit(s), 3 pole, 2 N/O, 1 N/C, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016619",
+      "recordPath": "equipment/eaton-article-016619.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016619.json"
+    },
+    {
+      "id": "eaton-article-018255",
+      "name": "T3-2-18/E — Reversing switches, T3, 32 A, flush mounting, 2 contact unit(s), Contacts: 4, 45 °, maintained, With 0 (Off) position, 2-0-1, SOND 29, Design number 18",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018255",
+      "recordPath": "equipment/eaton-article-018255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018255.json"
+    },
+    {
+      "id": "eaton-article-018952",
+      "name": "T3-3-20/E — Reversing switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 45 °, maintained, 0 (Off) position, 2-0-1, Design no. 20",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018952",
+      "recordPath": "equipment/eaton-article-018952.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018952.json"
+    },
+    {
+      "id": "eaton-article-016751",
+      "name": "T3-2-8215/E — Changeoverswitches, T3, 32 A, flush mounting, 2 contact unit(s), Contacts: 4, 45 °, momentary, With 0 (Off) position, with spring-return from both directions to 0, 2>0<1, Design number 8215",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016751",
+      "recordPath": "equipment/eaton-article-016751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016751.json"
+    },
+    {
+      "id": "eaton-article-018586",
+      "name": "T3-2-96/EZ — step switch for heating, T3, 32 A, centre mounting, 2 contact unit(s), Contacts: 3, 60 °, maintained, With 0 (Off) position, 0-3, Design number 96",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018586",
+      "recordPath": "equipment/eaton-article-018586.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018586.json"
+    },
+    {
+      "id": "eaton-article-017926",
+      "name": "TM-2-8219/E — Changeoverswitches, TM, 10 A, flush mounting, 2 contact unit(s), Contacts: 4, 90 °, maintained, With 0 (Off) position, 1-0-2, Design number 8219",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017926",
+      "recordPath": "equipment/eaton-article-017926.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017926.json"
+    },
+    {
+      "id": "eaton-article-016722",
+      "name": "T0-3-15683/IVS — On-Off switch, T0, 20 A, service distribution board mounting, 3 contact unit(s), 3 pole, 2 N/O, 1 N/C, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016722",
+      "recordPath": "equipment/eaton-article-016722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016722.json"
+    },
+    {
+      "id": "eaton-article-018492",
+      "name": "T3-2-8324/E — On-Off switch, T3, 32 A, flush mounting, 2 contact unit(s), 4 pole, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018492",
+      "recordPath": "equipment/eaton-article-018492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018492.json"
+    },
+    {
+      "id": "eaton-article-019149",
+      "name": "T3-5-15876/Z — Reversing star-delta switch, 32 A, rear mounting, 5 contact units, Contacts: 10, 60 °, maintained, 0 (Off) position, D-Y-0-Y-D, Design no. 15876",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019149",
+      "recordPath": "equipment/eaton-article-019149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019149.json"
+    },
+    {
+      "id": "eaton-article-016925",
+      "name": "TM-1-8220/EZ+FS288 — Changeover switch, 10 A, center mounting, 1 contact unit, Contacts: 2, 60 °, maintained, HAND-AUTOMATIK, Design no. 8220",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016925",
+      "recordPath": "equipment/eaton-article-016925.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016925.json"
+    },
+    {
+      "id": "eaton-article-018959",
+      "name": "T3-3-21/EZ — Reversing switch, 32 A, center mounting, 3 contact units, Contacts: 6, 45 °, maintained, 1-2, Design number 21",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018959",
+      "recordPath": "equipment/eaton-article-018959.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018959.json"
+    },
+    {
+      "id": "eaton-article-018958",
+      "name": "T3-3-21/E — Reversing switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 45 °, maintained, 1-2, Design no. 21",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018958",
+      "recordPath": "equipment/eaton-article-018958.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018958.json"
+    },
+    {
+      "id": "eaton-article-018796",
+      "name": "T3-3-15190/E — Reversing switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 90 °, maintained, 0 (Off) position, 2-0-1, Design number 15190",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018796",
+      "recordPath": "equipment/eaton-article-018796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018796.json"
+    },
+    {
+      "id": "eaton-article-018730",
+      "name": "T3-3-15069/Z — Step switch, 32 A, rear mounting, 3 contact units, Contacts: 6, 45 °, maintained, 0 (Off) position, 0-2, Design number 15069",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018730",
+      "recordPath": "equipment/eaton-article-018730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018730.json"
+    },
+    {
+      "id": "eaton-article-019359",
+      "name": "T3-3-7/E — Multi-speed switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 60 °, maintained, 0 (Off) position, 2-0-1, Design number 7",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019359",
+      "recordPath": "equipment/eaton-article-019359.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019359.json"
+    },
+    {
+      "id": "eaton-article-018957",
+      "name": "T3-3-20/Z — Reversing switch, 32 A, rear mounting, 3 contact units, Contacts: 6, 45 °, maintained, 0 (Off) position, 2-0-1, Design number 20",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018957",
+      "recordPath": "equipment/eaton-article-018957.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018957.json"
+    },
+    {
+      "id": "eaton-article-016748",
+      "name": "T3-3-15680/V/SVB — Main switch, T3, 32 A, rear mounting, 3 contact unit(s), 3 pole + N, 1 N/O, 1 N/C, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016748",
+      "recordPath": "equipment/eaton-article-016748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016748.json"
+    },
+    {
+      "id": "eaton-article-017665",
+      "name": "T3-2-10/E — On-Off switch, T3, 32 A, flush mounting, 2 contact unit(s), 3 pole + N, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017665",
+      "recordPath": "equipment/eaton-article-017665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017665.json"
+    },
+    {
+      "id": "eaton-article-017518",
+      "name": "P1-32/V/SVB-SW/HI11 — Main switch, P1, 32 A, rear mounting, 3 pole, 1 N/O, 1 N/C, STOP function, With black rotary handle and locking ring, Lockable in the 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017518",
+      "recordPath": "equipment/eaton-article-017518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017518.json"
+    },
+    {
+      "id": "eaton-article-018643",
+      "name": "T3-3-145/E — Step switch, 32 A, Flush mounting, 3 contact unit(s), Contacts: 6, Maintained, 0-6, Design: 145",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018643",
+      "recordPath": "equipment/eaton-article-018643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018643.json"
+    },
+    {
+      "id": "eaton-article-017816",
+      "name": "T3-2-15136/E — Step switch, 32 A, Flush mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-2, Design: 15136",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017816",
+      "recordPath": "equipment/eaton-article-017816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017816.json"
+    },
+    {
+      "id": "eaton-article-018096",
+      "name": "T3-2-15403/EZ — ON-OFF switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 3, Maintained, 0-1, Design: 15403",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018096",
+      "recordPath": "equipment/eaton-article-018096.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018096.json"
+    },
+    {
+      "id": "eaton-article-018773",
+      "name": "T3-3-15131/Z — Step switch, 32 A, Rear mounting, 3 contact unit(s), Contacts: 6, Maintained, 0-3, Design: 15131",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018773",
+      "recordPath": "equipment/eaton-article-018773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018773.json"
+    },
+    {
+      "id": "eaton-article-018828",
+      "name": "T3-3-15423/EZ — Changeover switch, 32 A, center mounting, 3 contact units, Contacts: 6, 45 °, maintained, 0 (Off) position, 2-0-1, Design number 15423",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018828",
+      "recordPath": "equipment/eaton-article-018828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018828.json"
+    },
+    {
+      "id": "eaton-article-017676",
+      "name": "T3-2-113/E — On-Off switch, T3, 32 A, flush mounting, 2 contact unit(s), 3 pole, 1 N/C, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017676",
+      "recordPath": "equipment/eaton-article-017676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017676.json"
+    },
+    {
+      "id": "eaton-article-018279",
+      "name": "T3-2-39/E — Multi-speed switch, 32 A, flush mounting, 2 contact units, Contacts: 4, 90 °, maintained, 1-2, Design number 39",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018279",
+      "recordPath": "equipment/eaton-article-018279.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018279.json"
+    },
+    {
+      "id": "eaton-article-018922",
+      "name": "T3-3-190/E — Reversing switch, 32 A, flush mounting, 3 contact units, Contacts: 5, 45 °, momentary, 0 (Off) position, spring-return to 0, 2>0<1, Design no. 190",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018922",
+      "recordPath": "equipment/eaton-article-018922.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018922.json"
+    },
+    {
+      "id": "eaton-article-018453",
+      "name": "T3-2-8242/EZ — Step switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 4, Maintained, 0-4, Design: 8242",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018453",
+      "recordPath": "equipment/eaton-article-018453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018453.json"
+    },
+    {
+      "id": "eaton-article-016989",
+      "name": "T3-1-8172/Z — On switch, 32 A, Rear mounting, 1 contact unit(s), Contacts: 4, Momentary, STOP>0, Design: 8172",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016989",
+      "recordPath": "equipment/eaton-article-016989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016989.json"
+    },
+    {
+      "id": "eaton-article-018476",
+      "name": "T3-2-8296/Z — Changeover switch, 32 A, Rear mounting, 2 contact unit(s), Contacts: 4, Momentary, 1<2, Design: 8296",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018476",
+      "recordPath": "equipment/eaton-article-018476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018476.json"
+    },
+    {
+      "id": "eaton-article-016570",
+      "name": "T3-1-15501/E — Changeover switch, 32 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 1-0-2, Design: 15501",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016570",
+      "recordPath": "equipment/eaton-article-016570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016570.json"
+    },
+    {
+      "id": "eaton-article-018053",
+      "name": "T0-1-15434/EZ — Changeover switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 2, Maintained/momentary, HAND>0-AUTO, Design: 15434",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018053",
+      "recordPath": "equipment/eaton-article-018053.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018053.json"
+    },
+    {
+      "id": "eaton-article-019869",
+      "name": "T0-2-8231/IVS — Step switch, 20 A, Service distribution board mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019869",
+      "recordPath": "equipment/eaton-article-019869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019869.json"
+    },
+    {
+      "id": "eaton-article-018528",
+      "name": "T3-2-8515/EZ — Universal control switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 4, Momentary, AUSL>Aus<EIN, Design: 8515",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018528",
+      "recordPath": "equipment/eaton-article-018528.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018528.json"
+    },
+    {
+      "id": "eaton-article-017644",
+      "name": "T3-1-93/E — step switch for heating, 32 A, flush mounting, 1 contact unit, Contacts: 2, 60 °, maintained, 0 (Off) position, 0-3, Design number 93",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017644",
+      "recordPath": "equipment/eaton-article-017644.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017644.json"
+    },
+    {
+      "id": "eaton-article-019121",
+      "name": "T3-3-15680/V/SVB-SW — Main switch, T3, 32 A, rear mounting, 3 contact unit(s), 3 pole + N, 1 N/O, 1 N/C, STOP function, black rotary handle and locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019121",
+      "recordPath": "equipment/eaton-article-019121.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019121.json"
+    },
+    {
+      "id": "eaton-article-017524",
+      "name": "T0-4-15682/IVS — On-Off switch, T0, 20 A, service distribution board mounting, 4 contact unit(s), 6 pole, 1 N/O, 1 N/C, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017524",
+      "recordPath": "equipment/eaton-article-017524.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017524.json"
+    },
+    {
+      "id": "eaton-article-017025",
+      "name": "T3-1-8200/E-RT — On-Off switch, T3, 32 A, flush mounting, 1 contact unit(s), 1 pole, Emergency switching off function, with red thumb grip and yellow front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017025",
+      "recordPath": "equipment/eaton-article-017025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017025.json"
+    },
+    {
+      "id": "eaton-article-017675",
+      "name": "T3-2-10/Z — On-Off switch, T3, 32 A, rear mounting, 2 contact unit(s), 3 pole + N, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017675",
+      "recordPath": "equipment/eaton-article-017675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017675.json"
+    },
+    {
+      "id": "eaton-article-018947",
+      "name": "T3-3-2/EZ — Reversing switch, 32 A, center mounting, 3 contact units, Contacts: 5, 45 °, maintained, 0 (Off) position, 2-0-1, Design number 2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018947",
+      "recordPath": "equipment/eaton-article-018947.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018947.json"
+    },
+    {
+      "id": "eaton-article-019353",
+      "name": "T3-3-6/E — Multi-speed switch, 32 A, flush mounting, 3 contact units, Contacts: 6, 60 °, maintained, 0 (Off) position, 0-2, Design number 6",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019353",
+      "recordPath": "equipment/eaton-article-019353.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019353.json"
+    },
+    {
+      "id": "eaton-article-016658",
+      "name": "T0-3-15683/EZ — On-Off switch, T0, 20 A, centre mounting, 3 contact unit(s), 3 pole, 2 N/O, 1 N/C, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016658",
+      "recordPath": "equipment/eaton-article-016658.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016658.json"
+    },
+    {
+      "id": "eaton-article-016747",
+      "name": "T3-1-102/EA/SVB-SW — Main switch, T3, 32 A, flush mounting, 1 contact unit(s), 2 pole, STOP function, black rotary handle and locking ring, Lockable in 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016747",
+      "recordPath": "equipment/eaton-article-016747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016747.json"
+    },
+    {
+      "id": "eaton-article-018478",
+      "name": "T3-2-8311/EZ — Step switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 3, Maintained, 0-3, Design: 8311",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018478",
+      "recordPath": "equipment/eaton-article-018478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018478.json"
+    },
+    {
+      "id": "eaton-article-018682",
+      "name": "T3-3-15026/EZ — Step switch, 32 A, Center mounting, 3 contact unit(s), Contacts: 5, Maintained, 0-5, Design: 15026",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018682",
+      "recordPath": "equipment/eaton-article-018682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018682.json"
+    },
+    {
+      "id": "eaton-article-017579",
+      "name": "T3-1-9/E — Changeover switch, 32 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, 2>0<1, Design: 9",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017579",
+      "recordPath": "equipment/eaton-article-017579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017579.json"
+    },
+    {
+      "id": "eaton-article-016878",
+      "name": "TM-2-15432/EZ — Changeover switch, 10 A, Center mounting, 2 contact unit(s), Contacts: 4, Maintained, HAND-0-AUTO, Design: 15432",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016878",
+      "recordPath": "equipment/eaton-article-016878.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016878.json"
+    },
+    {
+      "id": "eaton-article-017503",
+      "name": "T0-2-8177/EZ — Spring-return switch, 20 A, Center mounting, 2 contact unit(s), Contacts: 4, Maintained/momentary, START>1-0-2<START, Design: 8177",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017503",
+      "recordPath": "equipment/eaton-article-017503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017503.json"
+    },
+    {
+      "id": "eaton-article-016374",
+      "name": "T3-1-15059/E — Operation mode switch, 32 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, Aus-Betrieb-Prüfen, Design: 15059",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016374",
+      "recordPath": "equipment/eaton-article-016374.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016374.json"
+    },
+    {
+      "id": "eaton-article-017497",
+      "name": "T0-6-8271/EZ — Step switch, 20 A, Center mounting, 6 contact unit(s), Contacts: 12, Maintained, 1-4, Design: 8271",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017497",
+      "recordPath": "equipment/eaton-article-017497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017497.json"
+    },
+    {
+      "id": "eaton-article-016786",
+      "name": "TM-1-8178/EZ — ON-OFF button, 10 A, Center mounting, 1 contact unit(s), Contacts: 2, Momentary, 0-I<START, Design: 8178",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016786",
+      "recordPath": "equipment/eaton-article-016786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016786.json"
+    },
+    {
+      "id": "eaton-article-019433",
+      "name": "T3-3-8244/EZ — Step switch, 32 A, Center mounting, 3 contact unit(s), Contacts: 6, Maintained, 0-6, Design: 8244",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019433",
+      "recordPath": "equipment/eaton-article-019433.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019433.json"
+    },
+    {
+      "id": "eaton-article-018736",
+      "name": "T3-3-15098/E — Changeover switch, 32 A, Flush mounting, 3 contact unit(s), Contacts: 6, Maintained, 1-0-2, Design: 15098",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018736",
+      "recordPath": "equipment/eaton-article-018736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018736.json"
+    },
+    {
+      "id": "eaton-article-018438",
+      "name": "T3-2-8224/EZ — ON-OFF switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 3, Maintained, 1-0, Design: 8224",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018438",
+      "recordPath": "equipment/eaton-article-018438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018438.json"
+    },
+    {
+      "id": "eaton-article-016527",
+      "name": "T3-1-15431/EZ — Changeover switch, 32 A, Center mounting, 1 contact unit(s), Contacts: 2, Maintained, HAND-0-AUTO, Design: 15431",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016527",
+      "recordPath": "equipment/eaton-article-016527.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016527.json"
+    },
+    {
+      "id": "eaton-article-018106",
+      "name": "T3-2-15414/EZ — ON-OFF switch, 32 A, Center mounting, 2 contact unit(s), Contacts: 4, Maintained, STOP-START, Design: 15414",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018106",
+      "recordPath": "equipment/eaton-article-018106.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018106.json"
+    },
+    {
+      "id": "eaton-article-017501",
+      "name": "T0-1-15322/IVS — On switch, 20 A, Service distribution board mounting, 1 contact unit(s), Contacts: 2, Momentary, I<1, Design: 15322",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017501",
+      "recordPath": "equipment/eaton-article-017501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017501.json"
+    },
+    {
+      "id": "eaton-article-016569",
+      "name": "T3-1-15500/Z — ON-OFF switch, 32 A, Rear mounting, 1 contact unit(s), Contacts: 1, Maintained, 0-1, Design: 15500",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-016569",
+      "recordPath": "equipment/eaton-article-016569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-016569.json"
+    },
+    {
+      "id": "eaton-article-017517",
+      "name": "P3-63/V/SVB-SW/N — Main switch, P3, 63 A, rear mounting, 3 pole + N, STOP function, With black rotary handle and locking ring, Lockable in the 0 (Off) position",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017517",
+      "recordPath": "equipment/eaton-article-017517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017517.json"
+    },
+    {
+      "id": "eaton-article-018231",
+      "name": "T3-2-171/E — Step switches, T3, 32 A, flush mounting, 2 contact unit(s), Contacts: 3, 45 °, maintained, With 0 (Off) position, 0-3, Design number 171",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018231",
+      "recordPath": "equipment/eaton-article-018231.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018231.json"
+    },
+    {
+      "id": "eaton-article-018486",
+      "name": "T3-2-8312/Z — Step switch, 32 A, rear mounting, 2 contact units, Contacts: 4, 45 °, maintained, 0 (Off) position, 0-2, Design number 8312",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018486",
+      "recordPath": "equipment/eaton-article-018486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018486.json"
+    },
+    {
+      "id": "eaton-article-019360",
+      "name": "T3-3-7/EZ — Multi-speed switch, 32 A, center mounting, 3 contact units, Contacts: 6, 60 °, maintained, 0 (Off) position, 2-0-1, Design number 7",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019360",
+      "recordPath": "equipment/eaton-article-019360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019360.json"
+    },
+    {
+      "id": "eaton-article-019399",
+      "name": "T3-3-8151/EZ — Reversing switch, 32 A, center mounting, 3 contact units, Contacts: 5, 45 °, maintained, 0 (Off) position, spring-return, Höher>0<Tiefer",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019399",
+      "recordPath": "equipment/eaton-article-019399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019399.json"
+    },
+    {
+      "id": "eaton-article-018946",
+      "name": "T3-3-2/E — Reversing switch, 32 A, flush mounting, 3 contact units, Contacts: 5, 45 °, maintained, 0 (Off) position, 2-0-1, Design number 2",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018946",
+      "recordPath": "equipment/eaton-article-018946.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018946.json"
+    },
+    {
+      "id": "eaton-article-018367",
+      "name": "T3-2-8150/E — Reversing switch, 32 A, flush mounting, 2 contact units, Contacts: 3, 45 °, maintained, 0 (Off) position, spring-return, Höher>0<Tiefer",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018367",
+      "recordPath": "equipment/eaton-article-018367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018367.json"
+    },
+    {
+      "id": "eaton-article-018619",
+      "name": "T3-3-123/Z — Reversing switch, 32 A, rear mounting, 3 contact units, Contacts: 6, 60 °, maintained, 0 (Off) position, 2-0-1, Design no. 123",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018619",
+      "recordPath": "equipment/eaton-article-018619.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018619.json"
+    },
+    {
+      "id": "eaton-article-019864",
+      "name": "T0-4-8223/EZ — Changeover switch, 20 A, center mounting, 4 contact units, Contacts: 8, 90 °, maintained, 1-2, Design number 8223",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019864",
+      "recordPath": "equipment/eaton-article-019864.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019864.json"
+    },
+    {
+      "id": "eaton-article-017504",
+      "name": "T0-2-15114/IVS — Step switch, 20 A, service distr. board mounting, 2 contact units, Contacts: 4, 90 °, maintained, 0 (Off) position, 0-1-1+2-2, Design no. 15114",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017504",
+      "recordPath": "equipment/eaton-article-017504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017504.json"
+    },
+    {
+      "id": "eaton-article-018273",
+      "name": "T3-2-37/E — Multi-speed switch, 32 A, flush mounting, 2 contact units, Contacts: 4, 60 °, maintained, 0 (Off) position, 2-0-1, Design no. 37",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018273",
+      "recordPath": "equipment/eaton-article-018273.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018273.json"
+    },
+    {
+      "id": "eaton-article-018284",
+      "name": "T3-2-39/Z — Multi-speed switch, 32 A, rear mounting, 2 contact units, Contacts: 4, 90 °, maintained, 1-2, Design no. 39",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018284",
+      "recordPath": "equipment/eaton-article-018284.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018284.json"
+    },
+    {
+      "id": "eaton-article-019863",
+      "name": "T0-1-8214/E — Changeover switch, 20 A, flush mounting, 1 contact unit, Contacts: 2, 45 °, momentary, 0 (Off) position, spring-return to 0, 2>0<1, Design no. 8214",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019863",
+      "recordPath": "equipment/eaton-article-019863.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019863.json"
+    },
+    {
+      "id": "eaton-article-017886",
+      "name": "P1-25/IVS-RT/N — On-Off switch, P1, 25 A, service distribution board mounting, 3 pole + N, Emergency switching off function, with red thumb grip and yellow front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-017886",
+      "recordPath": "equipment/eaton-article-017886.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-017886.json"
+    },
+    {
+      "id": "eaton-article-019120",
+      "name": "T3-1-102/V/SVB — Main switch, T3, 32 A, rear mounting, 1 contact unit(s), 2 pole, Emergency switching off, red rotary handle, yellow locking ring",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-019120",
+      "recordPath": "equipment/eaton-article-019120.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-019120.json"
+    },
+    {
+      "id": "eaton-article-018500",
+      "name": "T3-2-8324/Z — On-Off switch, T3, 32 A, rear mounting, 2 contact unit(s), 4 pole, with black thumb grip and front plate",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-018500",
+      "recordPath": "equipment/eaton-article-018500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-018500.json"
+    },
+    {
+      "id": "eaton-article-005650",
+      "name": "T3-8-15152/E — Step switch, 32 A, Flush mounting, 8 contact unit(s), Contacts: 15, Maintained, 1-5, Design: 15152",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-005650",
+      "recordPath": "equipment/eaton-article-005650.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-005650.json"
+    },
+    {
+      "id": "eaton-article-005651",
+      "name": "T3-8-15152/EZ — Step switch, 32 A, Center mounting, 8 contact unit(s), Contacts: 15, Maintained, 1-5, Design: 15152",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-005651",
+      "recordPath": "equipment/eaton-article-005651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-005651.json"
+    },
+    {
+      "id": "eaton-article-005646",
+      "name": "T3-8-15146/E — Step switch, 32 A, Flush mounting, 8 contact unit(s), Contacts: 15, Maintained, 0-5, Design: 15146",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-005646",
+      "recordPath": "equipment/eaton-article-005646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-005646.json"
+    },
+    {
+      "id": "eaton-article-009302",
+      "name": "T0-1-15472/E — ON-OFF switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-1, Design: 15472",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009302",
+      "recordPath": "equipment/eaton-article-009302.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009302.json"
+    },
+    {
+      "id": "eaton-article-005828",
+      "name": "T3-9-15153/E — Step switch, 32 A, Flush mounting, 9 contact unit(s), Contacts: 18, Maintained, 1-6, Design: 15153",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-005828",
+      "recordPath": "equipment/eaton-article-005828.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-005828.json"
+    },
+    {
+      "id": "eaton-article-009194",
+      "name": "T0-1-15301/E — On switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 1, Momentary, 0<1, Design: 15301",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009194",
+      "recordPath": "equipment/eaton-article-009194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009194.json"
+    },
+    {
+      "id": "eaton-article-009270",
+      "name": "T0-1-15411/IVS — ON-OFF switch, 20 A, Service distribution board mounting, 1 contact unit(s), Contacts: 1, Maintained, STOP-START, Design: 15411",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009270",
+      "recordPath": "equipment/eaton-article-009270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009270.json"
+    },
+    {
+      "id": "eaton-article-009055",
+      "name": "T0-1-141/EZ — Step switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-2, Design: 141",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009055",
+      "recordPath": "equipment/eaton-article-009055.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009055.json"
+    },
+    {
+      "id": "eaton-article-009054",
+      "name": "T0-1-141/E — Step switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-2, Design: 141",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009054",
+      "recordPath": "equipment/eaton-article-009054.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009054.json"
+    },
+    {
+      "id": "eaton-article-009122",
+      "name": "T0-1-15061/E — ON-OFF button, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, AUS>I<EIN, Design: 15061",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009122",
+      "recordPath": "equipment/eaton-article-009122.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009122.json"
+    },
+    {
+      "id": "eaton-article-009286",
+      "name": "T0-1-15441/IVS — Changeover switch, 20 A, Service distribution board mounting, 1 contact unit(s), Contacts: 2, Maintained, 1-2, Design: 15441",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009286",
+      "recordPath": "equipment/eaton-article-009286.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009286.json"
+    },
+    {
+      "id": "eaton-article-009080",
+      "name": "T0-1-15041/E — ON-OFF switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-1-0-1, Design: 15041",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009080",
+      "recordPath": "equipment/eaton-article-009080.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009080.json"
+    },
+    {
+      "id": "eaton-article-009259",
+      "name": "T0-1-15371/E — Changeover switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, 2>0<1, Design: 15371",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009259",
+      "recordPath": "equipment/eaton-article-009259.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009259.json"
+    },
+    {
+      "id": "eaton-article-009314",
+      "name": "T0-1-15482/E — ON-OFF switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-1, Design: 15482",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009314",
+      "recordPath": "equipment/eaton-article-009314.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009314.json"
+    },
+    {
+      "id": "eaton-article-009047",
+      "name": "T0-1-140/E — Step switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 1, Maintained, 0-1, Design: 140",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009047",
+      "recordPath": "equipment/eaton-article-009047.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009047.json"
+    },
+    {
+      "id": "eaton-article-009134",
+      "name": "T0-1-15072/E — On switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 1, Momentary, 0<1, Design: 15072",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009134",
+      "recordPath": "equipment/eaton-article-009134.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009134.json"
+    },
+    {
+      "id": "eaton-article-009260",
+      "name": "T0-1-15371/EZ — Changeover switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 2, Momentary, 2>0<1, Design: 15371",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009260",
+      "recordPath": "equipment/eaton-article-009260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009260.json"
+    },
+    {
+      "id": "eaton-article-009146",
+      "name": "T0-1-15074/E — Revolving contact, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, 1>0<2, Design: 15074",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009146",
+      "recordPath": "equipment/eaton-article-009146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009146.json"
+    },
+    {
+      "id": "eaton-article-009212",
+      "name": "T0-1-15312/E — On switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, STOP<START, Design: 15312",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009212",
+      "recordPath": "equipment/eaton-article-009212.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009212.json"
+    },
+    {
+      "id": "eaton-article-009221",
+      "name": "T0-1-15331/EZ — On switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 1, Momentary, 1<0, Design: 15331",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009221",
+      "recordPath": "equipment/eaton-article-009221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009221.json"
+    },
+    {
+      "id": "eaton-article-009075",
+      "name": "T0-1-15023/EZ — Step switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-2, Design: 15023",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009075",
+      "recordPath": "equipment/eaton-article-009075.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009075.json"
+    },
+    {
+      "id": "eaton-article-009315",
+      "name": "T0-1-15482/EZ — ON-OFF switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 2, Maintained, 0-1, Design: 15482",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009315",
+      "recordPath": "equipment/eaton-article-009315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009315.json"
+    },
+    {
+      "id": "eaton-article-009268",
+      "name": "T0-1-15411/EZ — ON-OFF switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 1, Maintained, STOP-START, Design: 15411",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009268",
+      "recordPath": "equipment/eaton-article-009268.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009268.json"
+    },
+    {
+      "id": "eaton-article-009297",
+      "name": "T0-1-15471/EZ — ON-OFF switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 1, Maintained, 0-1, Design: 15471",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009297",
+      "recordPath": "equipment/eaton-article-009297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009297.json"
+    },
+    {
+      "id": "eaton-article-009226",
+      "name": "T0-1-15332/E — On switch, 20 A, Flush mounting, 1 contact unit(s), Contacts: 2, Momentary, 1<0, Design: 15332",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009226",
+      "recordPath": "equipment/eaton-article-009226.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009226.json"
+    },
+    {
+      "id": "eaton-article-009048",
+      "name": "T0-1-140/EZ — Step switch, 20 A, Center mounting, 1 contact unit(s), Contacts: 1, Maintained, 0-1, Design: 140",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009048",
+      "recordPath": "equipment/eaton-article-009048.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009048.json"
+    },
+    {
+      "id": "eaton-article-009123",
+      "name": "T0-1-15061/EZ — ON-OFF button, 20 A, Center mounting, 1 contact unit(s), Contacts: 2, Momentary, AUS>I<EIN, Design: 15061",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-009123",
+      "recordPath": "equipment/eaton-article-009123.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-009123.json"
+    }
+  ]
+}

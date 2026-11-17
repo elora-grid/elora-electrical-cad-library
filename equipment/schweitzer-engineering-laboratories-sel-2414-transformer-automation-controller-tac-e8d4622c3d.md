@@ -23,6 +23,7 @@ Manufacturer reference SEL-2414 Transformer Automation Controller (TAC) identifi
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-2414 Transformer Automation Controller (TAC)
+- Standards: IEEE C57.91, IEC 60076-7
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

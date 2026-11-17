@@ -8,7 +8,7 @@ ABB XT6 3p 4p W Flange for FLD/RHD: breaker or breaker-accessory reference for b
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1589
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p 4p W Flange for FLD/RHD”. Keep those f
 - Manufacturer reference: 1SDH002065A1589
 - Document revision: A
 - Model envelope: 1SDH002065A1589\_XT6\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.stp: 11.2 × 269 × 188.2 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1589&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 3525319 bytes
 - Delivery SHA-256: e608ef9cc2d28e04b5aae5ad8b46c7ea7816dba276b909391c1378e441e04c93
+
+### 1SDH002065A1589\_XT6\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1589\_XT6\_3p\_4p\_W\_Flange\_for\_FLD\_RHD.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1589&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-w-flange-for-fld-rhd-14f3c895a7/e608ef9cc2d28e04b5aa-dxf)
+- Redistribution: unknown
+- Original SHA-256: e608ef9cc2d28e04b5aae5ad8b46c7ea7816dba276b909391c1378e441e04c93
+- Original bytes: 3525319
+- Revision: A
+- Retrieved: 2026-11-03T02:00:13.179217Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1589&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1589&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 907885 bytes
+- Delivery SHA-256: 5f7b0f9ff4a1945f2bf722954fce8dd1d7660b70ae1af8e97e4b0cd486d78aad
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

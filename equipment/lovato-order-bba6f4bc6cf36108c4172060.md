@@ -1,0 +1,140 @@
+# LOVATO Electric — 11B6304SL00220 — Four-pole contactor, 11B630 4SL 00 220, 880A AC1, coil AC/DC, predisposed for mechanical latch
+
+LOVATO Electric 11B6304SL00220 — Four-pole contactor, 11B630 4SL 00 220, 880A AC1, coil AC/DC, predisposed for mechanical latch. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bba6f4bc6cf36108c4172060) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-bba6f4bc6cf36108c4172060.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-bba6f4bc6cf36108c4172060.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/11B6304SL00220/11B6304SL00220/snp)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 11B6304SL00220
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: 11B6304SL00220 — Four-pole contactor, 11B630 4SL 00 220, 880A AC1, coil AC/DC, predisposed for mechanical latch
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: 11B6304SL00220
+- Manufacturer reference: 11B6304SL00220
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 11B6304SL00220 ([source](https://catalogue.lovatoelectric.com/gl_en/11B6304SL00220/11B6304SL00220/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/11B6304SL00220/11B6304SL00220/snp))
+
+## What the equipment does
+
+A memory function retains a state or value after the input that established it has changed. Its clock, set and reset inputs determine when the stored value changes.
+
+Use 2d\_11B6304SL00220.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11B6304SL00220.dwg.
+
+Use 2d\_11B6304SL00220.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11B6304SL00220.dwg. Use 3d\_11B6304SL00220.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_11B6304SL00220.stp. Use 2D\_STY\_063.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_063.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric 11B6304SL00220 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 11B6304SL00220 — Four-pole contactor, 11B630 4SL 00 220, 880A AC1, coil AC/DC, predisposed for mechanical latch?
+
+3 inspected originals for LOVATO Electric 11B6304SL00220 — Four-pole contactor, 11B630 4SL 00 220, 880A AC1, coil AC/DC, predisposed for mechanical latch: 2d\_11B6304SL00220.dwg (DWG); 3d\_11B6304SL00220.stp (STEP); 2D\_STY\_063.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/11B6304SL00220/11B6304SL00220/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/11B6304SL00220/11B6304SL00220/snp)
+
+## Choosing a file
+
+Use 2d\_11B6304SL00220.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11B6304SL00220.dwg. Use 3d\_11B6304SL00220.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_11B6304SL00220.stp. Use 2D\_STY\_063.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_063.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric 11B6304SL00220 — Four-pole contactor, 11B630 4SL 00 220, 880A AC1, coil AC/DC, predisposed for mechanical latch: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-bba6f4bc6cf36108c4172060/native-9ec01c6dfbd879339e613b88-dxf?asset=9ec01c6dfbd879339e613b884e26f2e673460f749204bf14156870246f925582)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bba6f4bc6cf36108c4172060). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_11B6304SL00220.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11B6304SL00220.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-bba6f4bc6cf36108c4172060/native-6463ebafc511718baca867f1-dwg)
+- Redistribution: unknown
+- Original SHA-256: 6463ebafc511718baca867f13f5b9276a20d08619fa033db66a11999b4ddbfc8
+- Original bytes: 76794
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11B6304SL00220.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11B6304SL00220.dwg)
+- Delivery: source-bundle; ZIP; 23774 bytes
+- Delivery SHA-256: 9ad012ba0d658649404e61e8c9f3983c106c279280f9732306fc225aa6b71f66
+
+### 3d\_11B6304SL00220.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_11B6304SL00220.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-bba6f4bc6cf36108c4172060/native-50f54eafb43236395ac08b03-step)
+- Redistribution: unknown
+- Original SHA-256: 50f54eafb43236395ac08b032bfc8e9a65a22dbe914002db2848d4bb587efca2
+- Original bytes: 786983
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_11B6304SL00220.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_11B6304SL00220.stp)
+- Delivery: source-bundle; ZIP; 129739 bytes
+- Delivery SHA-256: 00b642260b245d41997cf3523ea2a3cc431b721be0693f594388a743f1928ab0
+
+### 2D\_STY\_063.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-bba6f4bc6cf36108c4172060/native-9ec01c6dfbd879339e613b88-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9ec01c6dfbd879339e613b884e26f2e673460f749204bf14156870246f925582
+- Original bytes: 268702
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 33279 bytes
+- Delivery SHA-256: ee02b6b7a6d8f1028bca4c1bdce6a935910d76c5194ac66858b6ed083edf325c
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -22,6 +22,7 @@ The native assembly identifies TDR-240. Confirm the selected supply input and ou
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: TDR-240-24, TDR-240-48
+- Standards: UL 61010-1, UL 61010-2-201, IEC 61558-1, IEC 61558-2-16, AS/NZS 61558.1, IEC 61558, EN 50178, IEC 60664-1, IEC 62477-1, IEC 60204-1, EN 55032, IEC 61204-3, IEC 61000-3-2, IEC 61000-3-3, EN 55035
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

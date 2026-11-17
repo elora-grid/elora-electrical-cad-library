@@ -22,6 +22,7 @@ The archive identifies SDR-75-3D; use its current manufacturer specification to 
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: SDR-75-12, SDR-75-24, SDR-75-48
+- Standards: UL 508, IEC 62368-1, AS/NZS 62368.1, EN 55032, IEC 61204-3, IEC 61000-3-2, EN 55035, IEC 61000-6-2, EN 50082-2, IEC 60204-1
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -23,6 +23,7 @@ Manufacturer reference SEL-735 Power Quality and Revenue Meter identifies this p
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-735 Power Quality and Revenue Meter
+- Standards: ANSI C12.20, IEC 62053-22, IEC 60529
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

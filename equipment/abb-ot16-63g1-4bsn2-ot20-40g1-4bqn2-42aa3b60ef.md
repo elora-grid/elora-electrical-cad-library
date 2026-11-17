@@ -26,6 +26,7 @@ The supplied configuration is “OT16-63G1-4BSN2 / OT20-40G1-4BQN2”. Keep thos
 - Manufacturer drawing: OT16\_63G1\_4B\_N2\_SR.STP
 - Manufacturer reference: OT16\_63G1\_4B\_N2\_SR.STP
 - Document revision: B
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

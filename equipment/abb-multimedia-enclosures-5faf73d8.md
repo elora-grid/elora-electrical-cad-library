@@ -9,7 +9,7 @@ Multimedia Enclosures: ABB manufacturer DWG resource, document 9AKK105713A7747, 
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK105713A7747
 - Installation applications: switchrooms
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,8 +24,8 @@ Original DWG drawing for Multimedia Enclosures; ABB document 9AKK105713A7747
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 9AKK105713A7747
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -97,5 +97,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7747&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 359804 bytes
 - Delivery SHA-256: 43d606943beb6c21d93900b5721b5a6092b3155234007f0136cb854888ed2bfe
+
+### ABB\_Obudowy\_Teletechniczne\_v2013.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (ABB\_Obudowy\_Teletechniczne\_v2013.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7747&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-multimedia-enclosures-5faf73d8/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 43d606943beb6c21d93900b5721b5a6092b3155234007f0136cb854888ed2bfe
+- Original bytes: 359804
+- Revision: -
+- Retrieved: 2026-11-03T01:37:08.111919+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7747&LanguageCode=pl&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7747&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 620978 bytes
+- Delivery SHA-256: bc5e4f981337be30e07dfae3c1ae6e7c0de2545abef6e951b644223d0fcd4cb6
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

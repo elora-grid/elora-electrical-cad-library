@@ -1,0 +1,117 @@
+# ABB — NEXT XT4 Accessory Blank Filler - SR01AF
+
+ABB NEXT XT4 Accessory Blank Filler - SR01AF: original STEP for circuit-breaker equipment layouts. CAD model.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt4-accessory-blank-filler-sr01af-9dfd1a392e) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt4-accessory-blank-filler-sr01af-9dfd1a392e.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt4-accessory-blank-filler-sr01af-9dfd1a392e.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Breakers & accessories
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+CAD model
+
+## Equipment and file summary
+
+- Equipment / resource: NEXT XT4 Accessory Blank Filler - SR01AF
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: CAD model
+- Manufacturer drawing identity: NEXT XT4 Accessory Blank Filler - SR01AF
+- Source document: 1SQC900783D0201; revision A
+- Source-model envelope: 395.7 × 176.3 × 34.7 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: CAD model ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: NEXT XT4 Accessory Blank Filler - SR01AF ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SQC900783D0201; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 395.7 × 176.3 × 34.7 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+1SQC900783D0201.zip (revision A) is the original ABB archive. Open SR01AF.stp inside it to place the original solid geometry in your 3D assembly.
+
+1SQC900783D0201.zip (revision A) is the original ABB archive. Open SR01AF.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: CAD model
+- The supplied model has approximate X × Y × Z bounds of 395.7 × 176.3 × 34.7 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SQC900783D0201.zip — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NEXT XT4 Accessory Blank Filler - SR01AF?
+
+1 inspected original for ABB NEXT XT4 Accessory Blank Filler - SR01AF: 1SQC900783D0201.zip (ZIP). The manufacturer describes this configuration as CAD model.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+1SQC900783D0201.zip (revision A) is the original ABB archive. Open SR01AF.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB NEXT XT4 Accessory Blank Filler - SR01AF: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-next-xt4-accessory-blank-filler-sr01af-9dfd1a392e/abb-1102deb42687a6323e6f?asset=d9b52726f3b0b6a6913a01d28e14768b1ef52af34108af0427ef81f71055d293&view=thumb&v=6b7e582aeac35524)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt4-accessory-blank-filler-sr01af-9dfd1a392e). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SQC900783D0201.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-next-xt4-accessory-blank-filler-sr01af-9dfd1a392e/abb-1102deb42687a6323e6f)
+- Redistribution: unknown
+- Original SHA-256: 176e3bb09a86f9ac7dab0245f44b006ea720ddfed71428ea6f6b78133f3a5a49
+- Original bytes: 235030
+- Revision: A
+- Retrieved: 2026-11-11T05:46:03.906254+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC900783D0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; ZIP; 235030 bytes
+- Delivery SHA-256: 176e3bb09a86f9ac7dab0245f44b006ea720ddfed71428ea6f6b78133f3a5a49
+
+<details>
+<summary>Archive members</summary>
+
+- SR01AF.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

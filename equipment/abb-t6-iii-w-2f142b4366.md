@@ -25,6 +25,7 @@ The supplied configuration is “T6 III W”. Keep those frame, mounting and acc
 - Manufacturer drawing: 1SDH001291R0077
 - Manufacturer reference: 1SDH001291R0077
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -8,7 +8,7 @@ ABB 07LYJ134\_20.40: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 07LYJ134\_20.40; 07LYJ134
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “07LYJ134\_20.40”. Keep those frame, mounting 
 - Document revision: C
 - Motor drawing designation (07LYJ134): STD HORZ 213-5TC TENV 307M VECTOR (THRU-SHAFT ENCODER)
 - Manufacturer reference: 07LYJ134
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 6
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYJ134_20.40&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1109631 bytes
 - Delivery SHA-256: b87c26c3a20e938915e48bfa161dc5cc6223d679c91ab4ce9de59183d42b08ec
+
+### 07LYJ134\_20.40.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (07LYJ134\_20.40.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYJ134_20.40&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lyj134-20-40-dwg-2d-autocad-dwg-2000-b0b1e8a632/b87c26c3a20e938915e4-dxf)
+- Redistribution: unknown
+- Original SHA-256: b87c26c3a20e938915e48bfa161dc5cc6223d679c91ab4ce9de59183d42b08ec
+- Original bytes: 1109631
+- Revision: C
+- Retrieved: 2026-11-04T00:23:51Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYJ134_20.40&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYJ134_20.40&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 2826612 bytes
+- Delivery SHA-256: e9109718dc1b1fe89f1e323583e657e46e9f26a35e417819f64935bc7d1facb1
 
 ### 07LYJ134.pdf
 

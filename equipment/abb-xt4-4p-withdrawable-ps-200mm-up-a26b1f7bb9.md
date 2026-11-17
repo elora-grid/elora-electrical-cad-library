@@ -8,7 +8,7 @@ ABB XT4 4p WITHDRAWABLE PS 200mm UP: breaker or breaker-accessory reference for 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0786
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT4 4p WITHDRAWABLE PS 200mm UP”. Keep those 
 - Manufacturer reference: 1SDH001295R0786
 - Document revision: A
 - Model envelope: 1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.stp: 92.3 × 80.5 × 203.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0786&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 94069 bytes
 - Delivery SHA-256: cdf1f522154f1e641f47eefa60ede4f9bf081ec16719c495c918b985cb5e88e8
+
+### 1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0786&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9/cdf1f522154f1e641f47-dxf)
+- Redistribution: unknown
+- Original SHA-256: cdf1f522154f1e641f47eefa60ede4f9bf081ec16719c495c918b985cb5e88e8
+- Original bytes: 94069
+- Revision: A
+- Retrieved: 2026-11-03T01:46:37.069687Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0786&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0786&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 53858 bytes
+- Delivery SHA-256: 412c1c7345a25d47b07127c53d9e62dab1f0823389ac75f2006a2e80083563d1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

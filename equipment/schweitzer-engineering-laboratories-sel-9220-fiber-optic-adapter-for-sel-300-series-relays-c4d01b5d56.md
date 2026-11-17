@@ -23,6 +23,7 @@ Manufacturer reference SEL-9220 Fiber-Optic Adapter for SEL-300 Series Relays id
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-9220 Fiber-Optic Adapter for SEL-300 Series Relays
+- Standards: IEC 60825-1
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

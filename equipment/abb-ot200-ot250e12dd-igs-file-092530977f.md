@@ -25,6 +25,7 @@ The supplied configuration is “OT200...OT250E12DD”. Keep those frame, mounti
 - Manufacturer drawing: OT200-250E12DD.IGS; OT200-250E12DD.STP
 - Manufacturer reference: OT200-250E12DD.IGS; OT200-250E12DD.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

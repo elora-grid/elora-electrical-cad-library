@@ -9,7 +9,7 @@ YO E1.2...E6.2: ABB manufacturer STEP resource, document 1SDH001252R0313, revisi
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0313
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for YO E1.2...E6.2; ABB document 1SDH001252R0313
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0313
 - Model extents (X × Y × Z, mm): 30.1 × 64.2 × 36.8
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0313&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 172260 bytes
 - Delivery SHA-256: 59c916c6bcf1d56d35bbda6439e969298bbb9cbe157b1fb5b441af087c121821
+
+### 1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0313\_1PA\_001\_00\_YO\_E1.2...E6.2.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0313&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-yo-e1-2-e6-2-d6a75deb/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 59c916c6bcf1d56d35bbda6439e969298bbb9cbe157b1fb5b441af087c121821
+- Original bytes: 172260
+- Revision: A
+- Retrieved: 2026-11-03T01:36:10.463009+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0313&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0313&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 74257 bytes
+- Delivery SHA-256: 1fccaaec09337b797f3c880c9ac68c7889d04f7224f1b2e963e2c1fa4f446fd5
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

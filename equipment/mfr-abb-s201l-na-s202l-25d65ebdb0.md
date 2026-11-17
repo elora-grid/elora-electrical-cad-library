@@ -1,0 +1,99 @@
+# ABB — S201L Na - S202L
+
+ABB S201L Na - S202L. Retained manufacturer CAD files and drawings for breakers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s201l-na-s202l-25d65ebdb0) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s201l-na-s202l-25d65ebdb0.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s201l-na-s202l-25d65ebdb0.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Breakers & accessories
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: S201L Na - S202L
+- Manufacturer: ABB
+- Resource type: Product family
+- Available native formats: DWG
+- Listed file formats: DWG
+- Listed files: 1
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DWG ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use 9AKK106930A4851.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 9AKK106930A4851.dwg.
+
+Use 9AKK106930A4851.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 9AKK106930A4851.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB S201L Na - S202L and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for S201L Na - S202L?
+
+1 inspected original for ABB S201L Na - S202L: 9AKK106930A4851.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 9AKK106930A4851.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 9AKK106930A4851.dwg.
+
+## Preview
+
+![ABB S201L Na - S202L: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-s201l-na-s202l-25d65ebdb0/native-719d9f27fbfb9d4022044444-dwg?asset=719d9f27fbfb9d4022044444950150ec1c02813d344d8fb6af0e791544f65492&view=thumb&v=e31a34de52c73866)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s201l-na-s202l-25d65ebdb0). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 9AKK106930A4851.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-s201l-na-s202l-25d65ebdb0/native-719d9f27fbfb9d4022044444-dwg)
+- Redistribution: unknown
+- Original SHA-256: 719d9f27fbfb9d4022044444950150ec1c02813d344d8fb6af0e791544f65492
+- Original bytes: 389184
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A4851&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: source-bundle; ZIP; 362069 bytes
+- Delivery SHA-256: c9b40b9e498a0f7da9be45d2880e8f75d73bac8da5c8ce5755b6b41523ad1d0e
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

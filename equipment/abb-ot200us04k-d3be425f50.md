@@ -26,6 +26,7 @@ The supplied configuration is “OT200US04K”. Keep those frame, mounting and a
 - Manufacturer drawing: OT200US04K.STP
 - Manufacturer reference: OT200US04K.STP
 - Document revision: A
+- Standards: IEC 60947-3, UL 98, CSA C22.2 No. 4
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

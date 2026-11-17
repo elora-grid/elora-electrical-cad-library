@@ -8,7 +8,7 @@ ABB E6.2 withdrawable Three-poles terminals VR 6000A UL: breaker connection or a
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0300
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This reference covers the connection or accessory named in “E6.2 withdrawable 
 - Manufacturer drawing: 1SDH001336R0300
 - Manufacturer reference: 1SDH001336R0300
 - Document revision: B
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0300&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 28447332 bytes
 - Delivery SHA-256: d387de5c1d597cc03668b837716dbd3ce3f85f47c8e1bdf8f5a9c78975c893ca
+
+### 1SDH001336R0300.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0300.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0300&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-withdrawable-three-poles-terminals-vr-6000a-ul-ab37a30870/d387de5c1d597cc03668-dxf)
+- Redistribution: unknown
+- Original SHA-256: d387de5c1d597cc03668b837716dbd3ce3f85f47c8e1bdf8f5a9c78975c893ca
+- Original bytes: 28447332
+- Revision: B
+- Retrieved: 2026-11-04T01:32:37Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0300&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0300&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 2241519 bytes
+- Delivery SHA-256: 2154f07049d3568bb49359491afbbd8bd8f363d88c5605c5e3b23415f73b7641
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

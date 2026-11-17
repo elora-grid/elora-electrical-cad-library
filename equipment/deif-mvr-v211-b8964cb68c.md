@@ -25,6 +25,7 @@ Manufacturer reference mvr-200-series-autocad-dimensions-and-faceplates.zip; mvr
 - Manufacturer drawing: mvr-200-series-autocad-dimensions-and-faceplates.zip; mvr-21x-2d-cad-drawing.dwg; mvr-21x-3d-step-file.stp
 - Manufacturer reference: mvr-200-series-autocad-dimensions-and-faceplates.zip; mvr-21x-2d-cad-drawing.dwg; mvr-21x-3d-step-file.stp; mvr-21x-2d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-26, IEC 61000-6-4, IEC 60255-27, IEC 60255-1, IEC 60529, IEC 60104
 - Listed file formats: DWG, PDF, STEP, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

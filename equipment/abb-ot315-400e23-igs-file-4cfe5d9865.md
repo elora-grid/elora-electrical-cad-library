@@ -25,6 +25,7 @@ The supplied configuration is “OT315-400E23”. Keep those frame, mounting and
 - Manufacturer drawing: OT315E23.IGS
 - Manufacturer reference: OT315E23.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

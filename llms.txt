@@ -2,6 +2,13 @@
 
 > Open catalogue of official manufacturer CAD/BIM sources for switchboards, switchgear, switchrooms, generators and microgrids. USA, Australia, UK and Europe have equal research priority. CAD download rights are recorded per file.
 
+## API and MCP discovery
+
+- [Live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json): versioned API, capabilities, skills and configured public MCP endpoint. Use catalogue HTTP access while the separate agent rollout is unavailable.
+- [API guide](docs/api.md): v1 workflows, existing catalogue routes, access policies and version recovery.
+- [MCP guide](docs/mcp.md): six public tools and separate scoped exclusive-download access.
+- [Snapshot format](docs/snapshot-format.md): complete lossless gzip JSON and checksum validation.
+
 ## Canonical website
 
 - [Search and download](https://eloragrid.ai/tools/cad-library): free engineering tool.
@@ -18,7 +25,7 @@
 
 - [Agent guide](docs/agents.md): field interpretation, rights and checksum handling.
 - [Compact discovery index](data/index.json): category shards of at most 250 records, with exact Markdown and live JSON paths. Start here.
-- [Catalogue JSON](data/catalogue.json): complete bulk snapshot; large, intended for local processing.
+- [Catalogue JSON (gzip)](data/catalogue.json.gz): complete bulk snapshot; large, intended for local processing.
 - [Equipment CSV](data/catalogue.csv): one row per source.
 - [Files CSV](data/files.csv): one row per listed file, original and delivery checksums.
 - [Equipment directory](equipment/README.md): readable entry pages with equipment facts, file-selection guidance, preview-image links, GA references and provenance.

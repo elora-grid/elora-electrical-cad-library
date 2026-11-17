@@ -22,6 +22,7 @@ Reserve space for both terminal wiring and access to the rail latch rather than 
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: NDR-75-12, NDR-75-24, NDR-75-48
+- Standards: IEC 62368-1, UL 508, IEC 60204-1, EN 55032, IEC 61204-3, IEC 61000-3-2, EN 55035, IEC 61000-6-2, EN 50082-2
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

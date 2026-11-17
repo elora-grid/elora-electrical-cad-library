@@ -1,0 +1,1287 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 29,
+  "entries": [
+    {
+      "id": "eaton-article-171245",
+      "name": "PLI-B3/3N — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 3p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171245",
+      "recordPath": "equipment/eaton-article-171245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171245.json"
+    },
+    {
+      "id": "eaton-article-171253",
+      "name": "PLI-C1/1N — Miniature circuit breaker (MCB) with plug-in terminal, 1 A, 1p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171253",
+      "recordPath": "equipment/eaton-article-171253.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171253.json"
+    },
+    {
+      "id": "eaton-article-171263",
+      "name": "PLI-C3/3N — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171263",
+      "recordPath": "equipment/eaton-article-171263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171263.json"
+    },
+    {
+      "id": "eaton-article-171239",
+      "name": "PLI-B3/2 — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171239",
+      "recordPath": "equipment/eaton-article-171239.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171239.json"
+    },
+    {
+      "id": "eaton-article-171254",
+      "name": "PLI-C3/1N — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 1p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171254",
+      "recordPath": "equipment/eaton-article-171254.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171254.json"
+    },
+    {
+      "id": "eaton-article-171251",
+      "name": "PLI-C3/1 — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 1p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171251",
+      "recordPath": "equipment/eaton-article-171251.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171251.json"
+    },
+    {
+      "id": "eaton-article-171260",
+      "name": "PLI-C3/3 — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171260",
+      "recordPath": "equipment/eaton-article-171260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171260.json"
+    },
+    {
+      "id": "eaton-article-171255",
+      "name": "PLI-C0,5/2 — Miniature circuit breaker (MCB) with plug-in terminal, 0.5 A, 2p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171255",
+      "recordPath": "equipment/eaton-article-171255.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171255.json"
+    },
+    {
+      "id": "eaton-article-171264",
+      "name": "PLI-C0,5/4 — Miniature circuit breaker (MCB) with plug-in terminal, 0.5 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171264",
+      "recordPath": "equipment/eaton-article-171264.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171264.json"
+    },
+    {
+      "id": "eaton-article-171252",
+      "name": "PLI-C0,5/1N — Miniature circuit breaker (MCB) with plug-in terminal, 0.5 A, 1p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171252",
+      "recordPath": "equipment/eaton-article-171252.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171252.json"
+    },
+    {
+      "id": "eaton-article-171259",
+      "name": "PLI-C1/3 — Miniature circuit breaker (MCB) with plug-in terminal, 1 A, 3p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171259",
+      "recordPath": "equipment/eaton-article-171259.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171259.json"
+    },
+    {
+      "id": "eaton-article-171233",
+      "name": "PLI-B3/1 — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 1p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171233",
+      "recordPath": "equipment/eaton-article-171233.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171233.json"
+    },
+    {
+      "id": "eaton-article-171262",
+      "name": "PLI-C1/3N — Miniature circuit breaker (MCB) with plug-in terminal, 1 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171262",
+      "recordPath": "equipment/eaton-article-171262.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171262.json"
+    },
+    {
+      "id": "eaton-article-171248",
+      "name": "PLI-B3/4 — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 4p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171248",
+      "recordPath": "equipment/eaton-article-171248.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171248.json"
+    },
+    {
+      "id": "eaton-article-171241",
+      "name": "PLI-B1/3 — Miniature circuit breaker (MCB) with plug-in terminal, 1 A, 3p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171241",
+      "recordPath": "equipment/eaton-article-171241.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171241.json"
+    },
+    {
+      "id": "eaton-article-171236",
+      "name": "PLI-B3/1N — Miniature circuit breaker (MCB) with plug-in terminal, 3 A, 1p+N, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171236",
+      "recordPath": "equipment/eaton-article-171236.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171236.json"
+    },
+    {
+      "id": "eaton-article-171265",
+      "name": "PLI-C1/4 — Miniature circuit breaker (MCB) with plug-in terminal, 1 A, 4p, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171265",
+      "recordPath": "equipment/eaton-article-171265.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171265.json"
+    },
+    {
+      "id": "eaton-article-171238",
+      "name": "PLI-B1/2 — Miniature circuit breaker (MCB) with plug-in terminal, 1 A, 2p, characteristic: B",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171238",
+      "recordPath": "equipment/eaton-article-171238.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171238.json"
+    },
+    {
+      "id": "eaton-article-171261",
+      "name": "PLI-C0,5/3N — Miniature circuit breaker (MCB) with plug-in terminal, 0.5 A, 3p+N, characteristic: C",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171261",
+      "recordPath": "equipment/eaton-article-171261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171261.json"
+    },
+    {
+      "id": "eaton-article-189870",
+      "name": "PKZM0-32-EA — Motor-protective circuit-breaker (-EA), 15 kW, 25 - 32 A, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189870",
+      "recordPath": "equipment/eaton-article-189870.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189870.json"
+    },
+    {
+      "id": "eaton-article-189869",
+      "name": "PKZM0-25-EA — Motor-protective circuit-breaker (-EA), 12.5 kW, 20 - 25 A, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189869",
+      "recordPath": "equipment/eaton-article-189869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189869.json"
+    },
+    {
+      "id": "eaton-article-189774",
+      "name": "NZM2/3-XUHIV24AC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 24AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189774",
+      "recordPath": "equipment/eaton-article-189774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189774.json"
+    },
+    {
+      "id": "eaton-article-189778",
+      "name": "NZM2/3-XUHIV208-240AC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 208-240AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189778",
+      "recordPath": "equipment/eaton-article-189778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189778.json"
+    },
+    {
+      "id": "eaton-article-189772",
+      "name": "NZM4-XU110-130DC-PI — Undervoltage release for NZM4, 110-130DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189772",
+      "recordPath": "equipment/eaton-article-189772.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189772.json"
+    },
+    {
+      "id": "eaton-article-189804",
+      "name": "NZM4-XA12AC/DC-PI — Shunt release for NZM4, 12AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189804",
+      "recordPath": "equipment/eaton-article-189804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189804.json"
+    },
+    {
+      "id": "eaton-article-189764",
+      "name": "NZM4-XU60AC-PI — Undervoltage release for NZM4, 60AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189764",
+      "recordPath": "equipment/eaton-article-189764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189764.json"
+    },
+    {
+      "id": "eaton-article-189809",
+      "name": "NZM4-XA208-250AC/DC-PI — Shunt release for NZM4, 208-250AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189809",
+      "recordPath": "equipment/eaton-article-189809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189809.json"
+    },
+    {
+      "id": "eaton-article-189757",
+      "name": "NZM2/3-XU24DC-PI — Undervoltage release for NZM2/3, 24DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189757",
+      "recordPath": "equipment/eaton-article-189757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189757.json"
+    },
+    {
+      "id": "eaton-article-189751",
+      "name": "NZM2/3-XU48AC-PI — Undervoltage release for NZM2/3, 48AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189751",
+      "recordPath": "equipment/eaton-article-189751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189751.json"
+    },
+    {
+      "id": "eaton-article-189765",
+      "name": "NZM4-XU110-130AC-PI — Undervoltage release for NZM4, 110-130AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189765",
+      "recordPath": "equipment/eaton-article-189765.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189765.json"
+    },
+    {
+      "id": "eaton-article-189762",
+      "name": "NZM4-XU24AC-PI — Undervoltage release for NZM4, 24AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189762",
+      "recordPath": "equipment/eaton-article-189762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189762.json"
+    },
+    {
+      "id": "eaton-article-189756",
+      "name": "NZM2/3-XU18DC-PI — Undervoltage release for NZM2/3, 18DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189756",
+      "recordPath": "equipment/eaton-article-189756.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189756.json"
+    },
+    {
+      "id": "eaton-article-189775",
+      "name": "NZM2/3-XUHIV48AC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 48AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189775",
+      "recordPath": "equipment/eaton-article-189775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189775.json"
+    },
+    {
+      "id": "eaton-article-189755",
+      "name": "NZM2/3-XU12DC-PI — Undervoltage release for NZM2/3, 12DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189755",
+      "recordPath": "equipment/eaton-article-189755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189755.json"
+    },
+    {
+      "id": "eaton-article-189768",
+      "name": "NZM4-XU18DC-PI — Undervoltage release for NZM4, 18DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189768",
+      "recordPath": "equipment/eaton-article-189768.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189768.json"
+    },
+    {
+      "id": "eaton-article-189803",
+      "name": "NZM2/3-XA208-250AC/DC-PI — Shunt release for NZM2/3, 208-250AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189803",
+      "recordPath": "equipment/eaton-article-189803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189803.json"
+    },
+    {
+      "id": "eaton-article-189782",
+      "name": "NZM2/3-XUHIV48DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 48DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189782",
+      "recordPath": "equipment/eaton-article-189782.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189782.json"
+    },
+    {
+      "id": "eaton-article-189767",
+      "name": "NZM4-XU12DC-PI — Undervoltage release for NZM4, 12DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189767",
+      "recordPath": "equipment/eaton-article-189767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189767.json"
+    },
+    {
+      "id": "eaton-article-189754",
+      "name": "NZM2/3-XU208-240AC-PI — Undervoltage release for NZM2/3, 208-240AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189754",
+      "recordPath": "equipment/eaton-article-189754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189754.json"
+    },
+    {
+      "id": "eaton-article-189770",
+      "name": "NZM4-XU48DC-PI — Undervoltage release for NZM4, 48DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189770",
+      "recordPath": "equipment/eaton-article-189770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189770.json"
+    },
+    {
+      "id": "eaton-article-189800",
+      "name": "NZM2/3-XA48AC/DC-PI — Shunt release for NZM2/3, 48AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189800",
+      "recordPath": "equipment/eaton-article-189800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189800.json"
+    },
+    {
+      "id": "eaton-article-189810",
+      "name": "NZM2/3-XAHIV12AC/DC-PI — Shunt release for NZM2/3, 1 early-make auxiliary contact, 2NO, 12AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189810",
+      "recordPath": "equipment/eaton-article-189810.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189810.json"
+    },
+    {
+      "id": "eaton-article-189799",
+      "name": "NZM2/3-XA24AC/DC-PI — Shunt release for NZM2/3, 24AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189799",
+      "recordPath": "equipment/eaton-article-189799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189799.json"
+    },
+    {
+      "id": "eaton-article-189781",
+      "name": "NZM2/3-XUHIV24DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 24DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189781",
+      "recordPath": "equipment/eaton-article-189781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189781.json"
+    },
+    {
+      "id": "eaton-article-189773",
+      "name": "NZM4-XU220-250DC-PI — Undervoltage release for NZM4, 208-250DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189773",
+      "recordPath": "equipment/eaton-article-189773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189773.json"
+    },
+    {
+      "id": "eaton-article-189780",
+      "name": "NZM2/3-XUHIV18DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 18DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189780",
+      "recordPath": "equipment/eaton-article-189780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189780.json"
+    },
+    {
+      "id": "eaton-article-189766",
+      "name": "NZM4-XU208-240AC-PI — Undervoltage release for NZM4, 208-240AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189766",
+      "recordPath": "equipment/eaton-article-189766.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189766.json"
+    },
+    {
+      "id": "eaton-article-189771",
+      "name": "NZM4-XU60DC-PI — Undervoltage release for NZM4, 60DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189771",
+      "recordPath": "equipment/eaton-article-189771.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189771.json"
+    },
+    {
+      "id": "eaton-article-189808",
+      "name": "NZM4-XA110-130AC/DC-PI — Shunt release for NZM4, 110-130AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189808",
+      "recordPath": "equipment/eaton-article-189808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189808.json"
+    },
+    {
+      "id": "eaton-article-189759",
+      "name": "NZM2/3-XU60DC-PI — Undervoltage release for NZM2/3, 60DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189759",
+      "recordPath": "equipment/eaton-article-189759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189759.json"
+    },
+    {
+      "id": "eaton-article-189785",
+      "name": "NZM2/3-XUHIV220-250DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 208-250DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189785",
+      "recordPath": "equipment/eaton-article-189785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189785.json"
+    },
+    {
+      "id": "eaton-article-189805",
+      "name": "NZM4-XA24AC/DC-PI — Shunt release for NZM4, 24AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189805",
+      "recordPath": "equipment/eaton-article-189805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189805.json"
+    },
+    {
+      "id": "eaton-article-189769",
+      "name": "NZM4-XU24DC-PI — Undervoltage release for NZM4, 24DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189769",
+      "recordPath": "equipment/eaton-article-189769.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189769.json"
+    },
+    {
+      "id": "eaton-article-189798",
+      "name": "NZM2/3-XA12AC/DC-PI — Shunt release for NZM2/3, 12AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189798",
+      "recordPath": "equipment/eaton-article-189798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189798.json"
+    },
+    {
+      "id": "eaton-article-189784",
+      "name": "NZM2/3-XUHIV110-130DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 110-130DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189784",
+      "recordPath": "equipment/eaton-article-189784.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189784.json"
+    },
+    {
+      "id": "eaton-article-189815",
+      "name": "NZM2/3-XAHIV208-250AC/DC-PI — Shunt release for NZM2/3, 1 early-make auxiliary contact, 2NO, 208-250AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189815",
+      "recordPath": "equipment/eaton-article-189815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189815.json"
+    },
+    {
+      "id": "eaton-article-189750",
+      "name": "NZM2/3-XU24AC-PI — Undervoltage release for NZM2/3, 24AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189750",
+      "recordPath": "equipment/eaton-article-189750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189750.json"
+    },
+    {
+      "id": "eaton-article-189758",
+      "name": "NZM2/3-XU48DC-PI — Undervoltage release for NZM2/3, 48DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189758",
+      "recordPath": "equipment/eaton-article-189758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189758.json"
+    },
+    {
+      "id": "eaton-article-189760",
+      "name": "NZM2/3-XU110-130DC-PI — Undervoltage release for NZM2/3, 110-130DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189760",
+      "recordPath": "equipment/eaton-article-189760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189760.json"
+    },
+    {
+      "id": "eaton-article-189812",
+      "name": "NZM2/3-XAHIV48AC/DC-PI — Shunt release for NZM2/3, 1 early-make auxiliary contact, 2NO, 48AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189812",
+      "recordPath": "equipment/eaton-article-189812.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189812.json"
+    },
+    {
+      "id": "eaton-article-189806",
+      "name": "NZM4-XA48AC/DC-PI — Shunt release for NZM4, 48AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189806",
+      "recordPath": "equipment/eaton-article-189806.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189806.json"
+    },
+    {
+      "id": "eaton-article-189811",
+      "name": "NZM2/3-XAHIV24AC/DC-PI — Shunt release for NZM2/3, 1 early-make auxiliary contact, 2NO, 24AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189811",
+      "recordPath": "equipment/eaton-article-189811.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189811.json"
+    },
+    {
+      "id": "eaton-article-189807",
+      "name": "NZM4-XA60AC/DC-PI — Shunt release for NZM4, 60AC/DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189807",
+      "recordPath": "equipment/eaton-article-189807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189807.json"
+    },
+    {
+      "id": "eaton-article-189783",
+      "name": "NZM2/3-XUHIV60DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 60DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189783",
+      "recordPath": "equipment/eaton-article-189783.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189783.json"
+    },
+    {
+      "id": "eaton-article-189779",
+      "name": "NZM2/3-XUHIV12DC-PI — Undervoltage release for NZM2/3, 1 early-make auxiliary contact, 2NO, 12DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189779",
+      "recordPath": "equipment/eaton-article-189779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189779.json"
+    },
+    {
+      "id": "eaton-article-189761",
+      "name": "NZM2/3-XU220-250DC-PI — Undervoltage release for NZM2/3, 208-250DC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189761",
+      "recordPath": "equipment/eaton-article-189761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189761.json"
+    },
+    {
+      "id": "eaton-article-189763",
+      "name": "NZM4-XU48AC-PI — Undervoltage release for NZM4, 48AC, Push-in terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189763",
+      "recordPath": "equipment/eaton-article-189763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189763.json"
+    },
+    {
+      "id": "eaton-article-189682",
+      "name": "NZMN4-PMX875 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 875A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189682",
+      "recordPath": "equipment/eaton-article-189682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189682.json"
+    },
+    {
+      "id": "eaton-article-189684",
+      "name": "NZMH4-PMX550 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 550A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189684",
+      "recordPath": "equipment/eaton-article-189684.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189684.json"
+    },
+    {
+      "id": "eaton-article-189681",
+      "name": "NZMN4-PMX550 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 550A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189681",
+      "recordPath": "equipment/eaton-article-189681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189681.json"
+    },
+    {
+      "id": "eaton-article-189686",
+      "name": "NZMH4-PMX1400 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1400A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189686",
+      "recordPath": "equipment/eaton-article-189686.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189686.json"
+    },
+    {
+      "id": "eaton-article-189683",
+      "name": "NZMN4-PMX1400 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 1400A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189683",
+      "recordPath": "equipment/eaton-article-189683.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189683.json"
+    },
+    {
+      "id": "eaton-article-189685",
+      "name": "NZMH4-PMX875 — NZM4 PXR25 circuit breaker - integrated energy measurement class 1, 875A, 3p, Screw terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-189685",
+      "recordPath": "equipment/eaton-article-189685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-189685.json"
+    },
+    {
+      "id": "eaton-article-172269",
+      "name": "A-PKZ0(24V60HZ) — Shunt release (for power circuit breaker), 24 V 60 Hz, Standard voltage, AC, Screw terminals, For use with: Shunt release PKZ0(4), PKE",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-172269",
+      "recordPath": "equipment/eaton-article-172269.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-172269.json"
+    },
+    {
+      "id": "eaton-article-121721",
+      "name": "PKE12 — Circuit-breaker, Basic device with standard knob, 12 A, Without overload releases, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121721",
+      "recordPath": "equipment/eaton-article-121721.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121721.json"
+    },
+    {
+      "id": "eaton-article-121731",
+      "name": "PKE12/XTU-1,2 — Motor-protective circuit-breaker, Complete device with standard knob, Electronic, 0.3 - 1.2 A, 1.2 A, With overload release, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121731",
+      "recordPath": "equipment/eaton-article-121731.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121731.json"
+    },
+    {
+      "id": "eaton-article-121734",
+      "name": "PKE32/XTU-32 — Motor-protective circuit-breaker, Complete device with standard knob, Electronic, 8 - 32 A, 32 A, With overload release, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121734",
+      "recordPath": "equipment/eaton-article-121734.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121734.json"
+    },
+    {
+      "id": "eaton-article-121722",
+      "name": "PKE32 — Circuit-breaker, Basic device with standard knob, 32 A, Without overload releases, Screw terminals",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-121722",
+      "recordPath": "equipment/eaton-article-121722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-121722.json"
+    },
+    {
+      "id": "eaton-article-b7fe6699dfd2ba9bf9ed2e6f",
+      "name": "DDC-1000/2/M4/P-G — DC switch disconnector, 1000 A, 2 pole, 1 N/O, 1 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b7fe6699dfd2ba9bf9ed2e6f",
+      "recordPath": "equipment/eaton-article-b7fe6699dfd2ba9bf9ed2e6f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b7fe6699dfd2ba9bf9ed2e6f.json"
+    },
+    {
+      "id": "eaton-article-6cb8af4a80df6b8fd4de95ec",
+      "name": "DDC-1250/2/M4/P-G — DC switch disconnector, 1250 A, 2 pole, 1 N/O, 1 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6cb8af4a80df6b8fd4de95ec",
+      "recordPath": "equipment/eaton-article-6cb8af4a80df6b8fd4de95ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6cb8af4a80df6b8fd4de95ec.json"
+    },
+    {
+      "id": "eaton-article-6b541bb56aeeee9c5f87fcff",
+      "name": "DDC-125/2-SK — DC switch disconnector, 125 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6b541bb56aeeee9c5f87fcff",
+      "recordPath": "equipment/eaton-article-6b541bb56aeeee9c5f87fcff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6b541bb56aeeee9c5f87fcff.json"
+    },
+    {
+      "id": "eaton-article-e9f4547516d6b7b3bf9926be",
+      "name": "DDC-1250/2-SK — DC switch disconnector, 1250 A, 2 pole, 1 N/O, 1 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e9f4547516d6b7b3bf9926be",
+      "recordPath": "equipment/eaton-article-e9f4547516d6b7b3bf9926be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e9f4547516d6b7b3bf9926be.json"
+    },
+    {
+      "id": "eaton-article-bce2eaadc304785e3c8b8746",
+      "name": "DDC-630/2-SK — DC switch disconnector, 630 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bce2eaadc304785e3c8b8746",
+      "recordPath": "equipment/eaton-article-bce2eaadc304785e3c8b8746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bce2eaadc304785e3c8b8746.json"
+    },
+    {
+      "id": "eaton-article-1cd7c4240e2a0d2def83dca9",
+      "name": "DDC-1000/2-SK — DC switch disconnector, 1000 A, 2 pole, 1 N/O, 1 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1cd7c4240e2a0d2def83dca9",
+      "recordPath": "equipment/eaton-article-1cd7c4240e2a0d2def83dca9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1cd7c4240e2a0d2def83dca9.json"
+    },
+    {
+      "id": "eaton-article-3717d72ba478a4f3ca7a750b",
+      "name": "DDC-400/2-SK — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3717d72ba478a4f3ca7a750b",
+      "recordPath": "equipment/eaton-article-3717d72ba478a4f3ca7a750b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3717d72ba478a4f3ca7a750b.json"
+    },
+    {
+      "id": "eaton-article-26f42f3c720c3e8258fe4bc0",
+      "name": "DDC-125/2/M4/P-G — DC switch disconnector, 125 A, 2 pole, 2 N/O, 2 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-26f42f3c720c3e8258fe4bc0",
+      "recordPath": "equipment/eaton-article-26f42f3c720c3e8258fe4bc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-26f42f3c720c3e8258fe4bc0.json"
+    },
+    {
+      "id": "eaton-article-cbdffe50b12b36c9c5b55848",
+      "name": "DDC-400/2/M4/P-G — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cbdffe50b12b36c9c5b55848",
+      "recordPath": "equipment/eaton-article-cbdffe50b12b36c9c5b55848.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cbdffe50b12b36c9c5b55848.json"
+    },
+    {
+      "id": "eaton-article-d6201da7b077f4557fb2ba39",
+      "name": "DDC-630/2 — DC switch disconnector, 630 A, 2 pole, 2 N/O, 2 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d6201da7b077f4557fb2ba39",
+      "recordPath": "equipment/eaton-article-d6201da7b077f4557fb2ba39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d6201da7b077f4557fb2ba39.json"
+    },
+    {
+      "id": "eaton-article-41762b991509f304fd24871f",
+      "name": "DDC-250/2/M4/P-G — DC switch disconnector, 250 A, 2 pole, 2 N/O, 2 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-41762b991509f304fd24871f",
+      "recordPath": "equipment/eaton-article-41762b991509f304fd24871f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-41762b991509f304fd24871f.json"
+    },
+    {
+      "id": "eaton-article-7b7df26a3c7f7f38b145fdbf",
+      "name": "DDC-250/2 — DC switch disconnector, 250 A, 2 pole, 2 N/O, 2 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7b7df26a3c7f7f38b145fdbf",
+      "recordPath": "equipment/eaton-article-7b7df26a3c7f7f38b145fdbf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7b7df26a3c7f7f38b145fdbf.json"
+    },
+    {
+      "id": "eaton-article-2c0d8e759426980d5e3644b5",
+      "name": "DDC-200/2/M4/P-G — DC switch disconnector, 200 A, 2 pole, 2 N/O, 2 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2c0d8e759426980d5e3644b5",
+      "recordPath": "equipment/eaton-article-2c0d8e759426980d5e3644b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2c0d8e759426980d5e3644b5.json"
+    },
+    {
+      "id": "eaton-article-a7c5a42b2952bc9a11a568ab",
+      "name": "DDC-400/2 — DC switch disconnector, 400 A, 2 pole, 2 N/O, 2 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a7c5a42b2952bc9a11a568ab",
+      "recordPath": "equipment/eaton-article-a7c5a42b2952bc9a11a568ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a7c5a42b2952bc9a11a568ab.json"
+    },
+    {
+      "id": "eaton-article-6272a522ecfac8606e313c2f",
+      "name": "DDC-160/2 — DC switch disconnector, 160 A, 2 pole, 2 N/O, 2 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6272a522ecfac8606e313c2f",
+      "recordPath": "equipment/eaton-article-6272a522ecfac8606e313c2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6272a522ecfac8606e313c2f.json"
+    },
+    {
+      "id": "eaton-article-042e73a15a3ce28632023358",
+      "name": "DDC-250/2-SK — DC switch disconnector, 250 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-042e73a15a3ce28632023358",
+      "recordPath": "equipment/eaton-article-042e73a15a3ce28632023358.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-042e73a15a3ce28632023358.json"
+    },
+    {
+      "id": "eaton-article-ca262ac96dc7b9e1fa3c2efd",
+      "name": "DDC-1000/2 — DC switch disconnector, 1000 A, 2 pole, 1 N/O, 1 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ca262ac96dc7b9e1fa3c2efd",
+      "recordPath": "equipment/eaton-article-ca262ac96dc7b9e1fa3c2efd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ca262ac96dc7b9e1fa3c2efd.json"
+    },
+    {
+      "id": "eaton-article-8c2b40afc643939a84141d27",
+      "name": "DDC-160/2/M4/P-G — DC switch disconnector, 160 A, 2 pole, 2 N/O, 2 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8c2b40afc643939a84141d27",
+      "recordPath": "equipment/eaton-article-8c2b40afc643939a84141d27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8c2b40afc643939a84141d27.json"
+    },
+    {
+      "id": "eaton-article-aaf25fa8854279779f70e11b",
+      "name": "DDC-1250/2 — DC switch disconnector, 1250 A, 2 pole, 1 N/O, 1 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aaf25fa8854279779f70e11b",
+      "recordPath": "equipment/eaton-article-aaf25fa8854279779f70e11b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aaf25fa8854279779f70e11b.json"
+    },
+    {
+      "id": "eaton-article-219762e71e41d0bcbafea29f",
+      "name": "DDC-160/2-SK — DC switch disconnector, 160 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-219762e71e41d0bcbafea29f",
+      "recordPath": "equipment/eaton-article-219762e71e41d0bcbafea29f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-219762e71e41d0bcbafea29f.json"
+    },
+    {
+      "id": "eaton-article-30aabbeac6de7b709ba51094",
+      "name": "DDC-125/2 — DC switch disconnector, 125 A, 2 pole, 2 N/O, 2 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-30aabbeac6de7b709ba51094",
+      "recordPath": "equipment/eaton-article-30aabbeac6de7b709ba51094.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-30aabbeac6de7b709ba51094.json"
+    },
+    {
+      "id": "eaton-article-a5bab1f208a7b2c5f12bd96d",
+      "name": "DDC-630/2/M4/P-G — DC switch disconnector, 630 A, 2 pole, 2 N/O, 2 N/C, with grey knob, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a5bab1f208a7b2c5f12bd96d",
+      "recordPath": "equipment/eaton-article-a5bab1f208a7b2c5f12bd96d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a5bab1f208a7b2c5f12bd96d.json"
+    },
+    {
+      "id": "eaton-article-6f5423991f67f847e335fefc",
+      "name": "DDC-200/2-SK — DC switch disconnector, 200 A, 2 pole, 2 N/O, 2 N/C, Without rotary handle and drive shaft, rear mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6f5423991f67f847e335fefc",
+      "recordPath": "equipment/eaton-article-6f5423991f67f847e335fefc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6f5423991f67f847e335fefc.json"
+    },
+    {
+      "id": "eaton-article-7c7bb8d5e611f5f3a9a5df1c",
+      "name": "DDC-200/2 — DC switch disconnector, 200 A, 2 pole, 2 N/O, 2 N/C, with grey knob, service distribution board mounting",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7c7bb8d5e611f5f3a9a5df1c",
+      "recordPath": "equipment/eaton-article-7c7bb8d5e611f5f3a9a5df1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7c7bb8d5e611f5f3a9a5df1c.json"
+    },
+    {
+      "id": "eaton-article-166261",
+      "name": "BZME1-1-A25-BT — Circuit-breaker, 1p, 25A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166261",
+      "recordPath": "equipment/eaton-article-166261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166261.json"
+    },
+    {
+      "id": "eaton-article-166265",
+      "name": "BZME1-1-A63-BT — Circuit-breaker, 1p, 63A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166265",
+      "recordPath": "equipment/eaton-article-166265.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166265.json"
+    },
+    {
+      "id": "eaton-article-166260",
+      "name": "BZME1-1-A20-BT — Circuit-breaker, 1p, 20A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166260",
+      "recordPath": "equipment/eaton-article-166260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166260.json"
+    },
+    {
+      "id": "eaton-article-166267",
+      "name": "BZME1-1-A100-BT — Circuit-breaker, 1p, 100A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166267",
+      "recordPath": "equipment/eaton-article-166267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166267.json"
+    },
+    {
+      "id": "eaton-article-166263",
+      "name": "BZME1-1-A40-BT — Circuit-breaker, 1p, 40A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166263",
+      "recordPath": "equipment/eaton-article-166263.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166263.json"
+    },
+    {
+      "id": "eaton-article-166264",
+      "name": "BZME1-1-A50-BT — Circuit-breaker, 1p, 50A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166264",
+      "recordPath": "equipment/eaton-article-166264.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166264.json"
+    },
+    {
+      "id": "eaton-article-166266",
+      "name": "BZME1-1-A80-BT — Circuit-breaker, 1p, 80A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166266",
+      "recordPath": "equipment/eaton-article-166266.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166266.json"
+    },
+    {
+      "id": "eaton-article-166262",
+      "name": "BZME1-1-A32-BT — Circuit-breaker, 1p, 32A, box terminal",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-166262",
+      "recordPath": "equipment/eaton-article-166262.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-166262.json"
+    }
+  ]
+}

@@ -223,8 +223,81 @@
                   "enum": [
                     "source-url",
                     "response-header",
-                    "document-reference"
+                    "document-reference",
+                    "manufacturer-metadata"
                   ]
+                },
+                "previewGroup": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9_-]+$"
+                },
+                "conversion": {
+                  "type": "object",
+                  "properties": {
+                    "fromFileId": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9_-]+$"
+                    },
+                    "fromFormat": {
+                      "type": "string"
+                    },
+                    "tool": {
+                      "type": "string"
+                    },
+                    "convertedAt": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "fromFileId",
+                    "fromFormat",
+                    "tool",
+                    "convertedAt"
+                  ],
+                  "additionalProperties": false
+                },
+                "sourceArchive": {
+                  "type": "object",
+                  "properties": {
+                    "url": {
+                      "type": "string",
+                      "pattern": "^https://[^\\s]+$"
+                    },
+                    "sha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "member": {
+                      "type": "string"
+                    },
+                    "publisherMemberChecksumVerified": {
+                      "type": "boolean"
+                    }
+                  },
+                  "required": [
+                    "url",
+                    "sha256",
+                    "member",
+                    "publisherMemberChecksumVerified"
+                  ],
+                  "additionalProperties": false
+                },
+                "publisherChecksum": {
+                  "type": "object",
+                  "properties": {
+                    "algorithm": {
+                      "const": "md5"
+                    },
+                    "value": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{32}$"
+                    }
+                  },
+                  "required": [
+                    "algorithm",
+                    "value"
+                  ],
+                  "additionalProperties": false
                 },
                 "documentNumber": {
                   "type": "string"
@@ -382,7 +455,8 @@
                       "enum": [
                         "licensed-bundle",
                         "source-bundle",
-                        "original"
+                        "original",
+                        "converted"
                       ]
                     },
                     "name": {

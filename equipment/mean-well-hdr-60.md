@@ -22,6 +22,7 @@ This series-level housing model does not distinguish output-voltage ratings. Che
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: HDR-60-12, HDR-60-15, HDR-60-24, HDR-60-48, HDR-60-5
+- Standards: UL 508, IEC 61558, IEC 62368-1, AS/NZS 60950.1, UL 62368-1, IEC 61558-2-16, IEC 61558-1, IEC 60950-1, EN 55035, IEC 61000-6-2, IEC 61204-3, EN 55032, IEC 61000-3-2, IEC 61000-3-3, EN 50178, IEC 60664-1, IEC 62477-1
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

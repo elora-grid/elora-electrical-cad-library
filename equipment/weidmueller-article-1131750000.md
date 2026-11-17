@@ -1,0 +1,160 @@
+# Weidmüller — ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige
+
+Weidmüller ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1131750000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1131750000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1131750000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zdld-2-5-2npell/p/1131750000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1131750000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1131750000
+- Manufacturer reference: 1131750000
+- Manufacturer type: ZDLD 2.5-2N/PE/L/L
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1131750000 ([source](https://eshop.weidmueller.com.cn/en/zdld-2-5-2npell/p/1131750000/downloads#engineering-support))
+- Manufacturer type: ZDLD 2.5-2N/PE/L/L ([source](https://eshop.weidmueller.com.cn/en/zdld-2-5-2npell/p/1131750000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zdld-2-5-2npell/p/1131750000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1131750000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1131750000\_back.DXF, 1131750000\_bottom.DXF, 1131750000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige before placing it.
+
+1131750000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1131750000\_back.DXF, 1131750000\_bottom.DXF, 1131750000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige before placing it. 1131750000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1131750000\_back.DWG, 1131750000\_bottom.DWG, 1131750000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige before placing it. Use 1131750000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1131750000.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1131750000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige?
+
+3 inspected originals for Weidmüller ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige: 1131750000\_DXF.zip (ZIP); 1131750000\_DWG.zip (ZIP); 1131750000.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zdld-2-5-2npell/p/1131750000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zdld-2-5-2npell/p/1131750000/downloads#engineering-support)
+
+## Choosing a file
+
+1131750000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1131750000\_back.DXF, 1131750000\_bottom.DXF, 1131750000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige before placing it. 1131750000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1131750000\_back.DWG, 1131750000\_bottom.DWG, 1131750000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZDLD 2.5-2N/PE/L/L — Feed-through terminal block / Multi-tier modular terminal, Tension-clamp connection, 2.5 mm², 500 V, 20 A, Number of levels: 3, dark beige before placing it. Use 1131750000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1131750000.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1131750000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/25d33473-b3f2-451e-9c1d-b9ed83de60c2/original/1131750000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1131750000/native-a4024e9979f1b01ad8c5050d-zip)
+- Redistribution: unknown
+- Original SHA-256: a4024e9979f1b01ad8c5050d31e96be2ad00529250db81b99f2cf5464e09496f
+- Original bytes: 60677
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/25d33473-b3f2-451e-9c1d-b9ed83de60c2/original/1131750000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/25d33473-b3f2-451e-9c1d-b9ed83de60c2/original/1131750000_DXF.zip)
+- Delivery: original; ZIP; 60677 bytes
+- Delivery SHA-256: a4024e9979f1b01ad8c5050d31e96be2ad00529250db81b99f2cf5464e09496f
+
+<details>
+<summary>Archive members</summary>
+
+- 1131750000\_back.DXF
+- 1131750000\_bottom.DXF
+- 1131750000\_front.DXF
+- 1131750000\_left.DXF
+- 1131750000\_right.DXF
+- 1131750000\_top.DXF
+
+</details>
+
+### 1131750000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/fb32726e-5922-4237-b9b8-3ce29ee12eb0/original/1131750000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1131750000/native-d85125488c4738e5c4964621-zip)
+- Redistribution: unknown
+- Original SHA-256: d85125488c4738e5c49646217332f8b3eaf6db1364edff93ddbf9536e2cd43ab
+- Original bytes: 72282
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/fb32726e-5922-4237-b9b8-3ce29ee12eb0/original/1131750000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/fb32726e-5922-4237-b9b8-3ce29ee12eb0/original/1131750000_DWG.zip)
+- Delivery: original; ZIP; 72282 bytes
+- Delivery SHA-256: d85125488c4738e5c49646217332f8b3eaf6db1364edff93ddbf9536e2cd43ab
+
+<details>
+<summary>Archive members</summary>
+
+- 1131750000\_back.DWG
+- 1131750000\_bottom.DWG
+- 1131750000\_front.DWG
+- 1131750000\_left.DWG
+- 1131750000\_right.DWG
+- 1131750000\_top.DWG
+
+</details>
+
+### 1131750000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/8f447862-1285-487b-bd43-97b0cb22967d/original/1131750000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1131750000/native-ff77d905234caeafeb16ef01-step)
+- Redistribution: unknown
+- Original SHA-256: ff77d905234caeafeb16ef0193a0ab35c58d21558351e51dcfc124f9d3b241dd
+- Original bytes: 1238500
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/8f447862-1285-487b-bd43-97b0cb22967d/original/1131750000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/8f447862-1285-487b-bd43-97b0cb22967d/original/1131750000.stp)
+- Delivery: source-bundle; ZIP; 221033 bytes
+- Delivery SHA-256: 65f88e90205f929d412b7737de20ce06aa65d7c22e40fd8b25c509bf33266a42
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

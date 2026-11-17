@@ -8,7 +8,7 @@ ABB 10LYJ281\_26.43: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYJ281\_26.43; 10LYJ281
-- Formats: DWG, IGS, PDF, SAT, SLDPRT
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “10LYJ281\_26.43”. Keep those frame, mounting 
 - Motor drawing designation (10LYJ281): HORZ TEFC 284-6TSC W/STEEL FAN COVER & INT SH GND
 - Drawing views (10LYJ281.pdf, page 1): drive end detail
 - Manufacturer reference: 10LYJ281
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -115,6 +115,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 1933961 bytes
 - Delivery SHA-256: 2a00e05901dc3cf6ff4654139ceba62101d6a53e051f9ba5392ba81cc3baecca
+
+### 10LYJ281\_26.43.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYJ281\_26.43.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyj281-26-43-dwg-2d-autocad-dwg-2000-d800269ebf/2a00e05901dc3cf6ff46-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2a00e05901dc3cf6ff4654139ceba62101d6a53e051f9ba5392ba81cc3baecca
+- Original bytes: 1933961
+- Revision: C
+- Retrieved: 2026-11-04T00:25:13Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYJ281_26.43&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 5528736 bytes
+- Delivery SHA-256: 7e624478b3fa6338f8ed7e89b1fb0bc16e7673ed9e05f84ab91d30c709b630b2
 
 ### 10LYJ281.pdf
 

@@ -8,7 +8,7 @@ ABB XT7 3p Fixed Flange Handle - Circuit breaker mechanism: breaker or breaker-a
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A2078
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT7 3p Fixed Flange Handle - Circuit breaker me
 - Manufacturer reference: 1SDH002065A2078
 - Document revision: A
 - Model envelope: 1SDH002065A2078.stp: 287 × 229.3 × 320 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2078&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 5058270 bytes
 - Delivery SHA-256: 1ef96644dcde6e7ef895187b2cbaa86e81daddbf90bedcf9f9c60e024d8c8080
+
+### 1SDH002065A2078.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A2078.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2078&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-3p-fixed-flange-handle-circuit-breaker-mechanism-58acabb3b3/1ef96644dcde6e7ef895-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1ef96644dcde6e7ef895187b2cbaa86e81daddbf90bedcf9f9c60e024d8c8080
+- Original bytes: 5058270
+- Revision: A
+- Retrieved: 2026-11-03T02:08:49.968882Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2078&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2078&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 802348 bytes
+- Delivery SHA-256: d6543672d12b86dd52e04efc1ebb36730bc23e3a14446c9aa5ecdeba499fa6c1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -25,6 +25,7 @@ The supplied configuration is “IEC Vacuum Circuit Breaker VD4/W 36kV - 3D Dime
 - Manufacturer drawing: 2RDA040565\_3D
 - Manufacturer reference: 2RDA040565\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

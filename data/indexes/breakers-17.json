@@ -1,0 +1,2754 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 17,
+  "entries": [
+    {
+      "id": "mfr-abb-next-fb-1p-b-phase-breaker-2f3085991d",
+      "name": "neXT FB 1p B phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-fb-1p-b-phase-breaker-2f3085991d",
+      "recordPath": "equipment/mfr-abb-next-fb-1p-b-phase-breaker-2f3085991d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-fb-1p-b-phase-breaker-2f3085991d.json"
+    },
+    {
+      "id": "mfr-abb-next-fb-1p-c-phase-breaker-198e4d100e",
+      "name": "neXT FB 1p C phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-fb-1p-c-phase-breaker-198e4d100e",
+      "recordPath": "equipment/mfr-abb-next-fb-1p-c-phase-breaker-198e4d100e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-fb-1p-c-phase-breaker-198e4d100e.json"
+    },
+    {
+      "id": "mfr-abb-next-fb-2p-ab-phase-breaker-12977fd2b4",
+      "name": "neXT FB 2p AB phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-fb-2p-ab-phase-breaker-12977fd2b4",
+      "recordPath": "equipment/mfr-abb-next-fb-2p-ab-phase-breaker-12977fd2b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-fb-2p-ab-phase-breaker-12977fd2b4.json"
+    },
+    {
+      "id": "mfr-abb-next-fb-2p-ac-phase-breaker-b1922dd711",
+      "name": "neXT FB 2p AC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-fb-2p-ac-phase-breaker-b1922dd711",
+      "recordPath": "equipment/mfr-abb-next-fb-2p-ac-phase-breaker-b1922dd711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-fb-2p-ac-phase-breaker-b1922dd711.json"
+    },
+    {
+      "id": "mfr-abb-next-fb-2p-bc-phase-breaker-6dda3d17a7",
+      "name": "neXT FB 2p BC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-fb-2p-bc-phase-breaker-6dda3d17a7",
+      "recordPath": "equipment/mfr-abb-next-fb-2p-bc-phase-breaker-6dda3d17a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-fb-2p-bc-phase-breaker-6dda3d17a7.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-1200a-xt7-750mcm-bot-12in-std-nl12i0g7x7ba7-347e47ca4f",
+      "name": "neXT NEUT 1200A XT7 750MCM BOT 12IN STD - NL12I0G7X7BA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-1200a-xt7-750mcm-bot-12in-std-nl12i0g7x7ba7-347e47ca4f",
+      "recordPath": "equipment/mfr-abb-next-neut-1200a-xt7-750mcm-bot-12in-std-nl12i0g7x7ba7-347e47ca4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-1200a-xt7-750mcm-bot-12in-std-nl12i0g7x7ba7-347e47ca4f.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-1200a-xt7-750mcm-top-12in-std-nl12i0g7x7ta7-34e5f66445",
+      "name": "neXT NEUT 1200A XT7 750MCM TOP 12IN STD - NL12I0G7X7TA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-1200a-xt7-750mcm-top-12in-std-nl12i0g7x7ta7-34e5f66445",
+      "recordPath": "equipment/mfr-abb-next-neut-1200a-xt7-750mcm-top-12in-std-nl12i0g7x7ta7-34e5f66445.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-1200a-xt7-750mcm-top-12in-std-nl12i0g7x7ta7-34e5f66445.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-1200a-xt7-bot-12in-std-nl12i0g5x7ba7-79f65711b7",
+      "name": "neXT NEUT 1200A XT7 BOT 12IN STD - NL12I0G5X7BA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-1200a-xt7-bot-12in-std-nl12i0g5x7ba7-79f65711b7",
+      "recordPath": "equipment/mfr-abb-next-neut-1200a-xt7-bot-12in-std-nl12i0g5x7ba7-79f65711b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-1200a-xt7-bot-12in-std-nl12i0g5x7ba7-79f65711b7.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-1200a-xt7-top-12in-std-nl12i0g5x7ta7-6c0c5d2cd6",
+      "name": "neXT NEUT 1200A XT7 TOP 12IN STD - NL12I0G5X7TA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-1200a-xt7-top-12in-std-nl12i0g5x7ta7-6c0c5d2cd6",
+      "recordPath": "equipment/mfr-abb-next-neut-1200a-xt7-top-12in-std-nl12i0g5x7ta7-6c0c5d2cd6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-1200a-xt7-top-12in-std-nl12i0g5x7ta7-6c0c5d2cd6.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-250a-xt4-bot-12in-std-nl02i0gxt4ba7-fa4cee0779",
+      "name": "neXT NEUT 250A XT4 BOT 12IN STD - NL02I0GXT4BA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-250a-xt4-bot-12in-std-nl02i0gxt4ba7-fa4cee0779",
+      "recordPath": "equipment/mfr-abb-next-neut-250a-xt4-bot-12in-std-nl02i0gxt4ba7-fa4cee0779.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-250a-xt4-bot-12in-std-nl02i0gxt4ba7-fa4cee0779.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-250a-xt4-top-12in-std-nl02i0gxt4ta7-078287c507",
+      "name": "neXT NEUT 250A XT4 TOP 12IN STD - NL02I0GXT4TA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-250a-xt4-top-12in-std-nl02i0gxt4ta7-078287c507",
+      "recordPath": "equipment/mfr-abb-next-neut-250a-xt4-top-12in-std-nl02i0gxt4ta7-078287c507.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-250a-xt4-top-12in-std-nl02i0gxt4ta7-078287c507.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-400a-xt5-bot-12in-std-nl04i0gxt5ba7-c8198d748c",
+      "name": "neXT NEUT 400A XT5 BOT 12IN STD - NL04I0GXT5BA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-400a-xt5-bot-12in-std-nl04i0gxt5ba7-c8198d748c",
+      "recordPath": "equipment/mfr-abb-next-neut-400a-xt5-bot-12in-std-nl04i0gxt5ba7-c8198d748c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-400a-xt5-bot-12in-std-nl04i0gxt5ba7-c8198d748c.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-400a-xt5-top-12in-std-nl04i0gxt5ta7-be7337e59d",
+      "name": "neXT NEUT 400A XT5 TOP 12IN STD - NL04I0GXT5TA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-400a-xt5-top-12in-std-nl04i0gxt5ta7-be7337e59d",
+      "recordPath": "equipment/mfr-abb-next-neut-400a-xt5-top-12in-std-nl04i0gxt5ta7-be7337e59d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-400a-xt5-top-12in-std-nl04i0gxt5ta7-be7337e59d.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-600a-xt5-bot-12in-std-nl06i0gxt5ba7-5822357ec9",
+      "name": "neXT NEUT 600A XT5 BOT 12IN STD - NL06I0GXT5BA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-600a-xt5-bot-12in-std-nl06i0gxt5ba7-5822357ec9",
+      "recordPath": "equipment/mfr-abb-next-neut-600a-xt5-bot-12in-std-nl06i0gxt5ba7-5822357ec9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-600a-xt5-bot-12in-std-nl06i0gxt5ba7-5822357ec9.json"
+    },
+    {
+      "id": "mfr-abb-next-neut-600a-xt5-top-12in-std-nl06i0gxt5ta7-a59949bb99",
+      "name": "neXT NEUT 600A XT5 TOP 12IN STD - NL06I0GXT5TA7",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-neut-600a-xt5-top-12in-std-nl06i0gxt5ta7-a59949bb99",
+      "recordPath": "equipment/mfr-abb-next-neut-600a-xt5-top-12in-std-nl06i0gxt5ta7-a59949bb99.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-neut-600a-xt5-top-12in-std-nl06i0gxt5ta7-a59949bb99.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-2p-ab-phase-breaker-f7933516b2",
+      "name": "neXT XT1 2p AB phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-2p-ab-phase-breaker-f7933516b2",
+      "recordPath": "equipment/mfr-abb-next-xt1-2p-ab-phase-breaker-f7933516b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-2p-ab-phase-breaker-f7933516b2.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-2p-ac-phase-breaker-a727792308",
+      "name": "neXT XT1 2p AC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-2p-ac-phase-breaker-a727792308",
+      "recordPath": "equipment/mfr-abb-next-xt1-2p-ac-phase-breaker-a727792308.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-2p-ac-phase-breaker-a727792308.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-2p-bc-phase-breaker-fd61338ade",
+      "name": "neXT XT1 2p BC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-2p-bc-phase-breaker-fd61338ade",
+      "recordPath": "equipment/mfr-abb-next-xt1-2p-bc-phase-breaker-fd61338ade.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-2p-bc-phase-breaker-fd61338ade.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-3p-breaker-db66562e10",
+      "name": "neXT XT1 3p breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-3p-breaker-db66562e10",
+      "recordPath": "equipment/mfr-abb-next-xt1-3p-breaker-db66562e10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-3p-breaker-db66562e10.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-3p-breaker-1mount-7acd13044b",
+      "name": "neXT XT1 3p breaker 1mount",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-3p-breaker-1mount-7acd13044b",
+      "recordPath": "equipment/mfr-abb-next-xt1-3p-breaker-1mount-7acd13044b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-3p-breaker-1mount-7acd13044b.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-3p-breaker-2mount-149945dbae",
+      "name": "neXT XT1 3p breaker 2mount",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-3p-breaker-2mount-149945dbae",
+      "recordPath": "equipment/mfr-abb-next-xt1-3p-breaker-2mount-149945dbae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-3p-breaker-2mount-149945dbae.json"
+    },
+    {
+      "id": "mfr-abb-next-xt1-3p-breaker-5mount-ee067f1565",
+      "name": "neXT XT1 3p breaker 5mount",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt1-3p-breaker-5mount-ee067f1565",
+      "recordPath": "equipment/mfr-abb-next-xt1-3p-breaker-5mount-ee067f1565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt1-3p-breaker-5mount-ee067f1565.json"
+    },
+    {
+      "id": "mfr-abb-next-xt2-2p-ab-phase-breaker-b59f7c8645",
+      "name": "neXT XT2 2p AB phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt2-2p-ab-phase-breaker-b59f7c8645",
+      "recordPath": "equipment/mfr-abb-next-xt2-2p-ab-phase-breaker-b59f7c8645.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt2-2p-ab-phase-breaker-b59f7c8645.json"
+    },
+    {
+      "id": "mfr-abb-next-xt2-2p-ac-phase-breaker-aba96ecdc4",
+      "name": "neXT XT2 2p AC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt2-2p-ac-phase-breaker-aba96ecdc4",
+      "recordPath": "equipment/mfr-abb-next-xt2-2p-ac-phase-breaker-aba96ecdc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt2-2p-ac-phase-breaker-aba96ecdc4.json"
+    },
+    {
+      "id": "mfr-abb-next-xt2-2p-bc-phase-breaker-3ab3b722bd",
+      "name": "neXT XT2 2p BC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt2-2p-bc-phase-breaker-3ab3b722bd",
+      "recordPath": "equipment/mfr-abb-next-xt2-2p-bc-phase-breaker-3ab3b722bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt2-2p-bc-phase-breaker-3ab3b722bd.json"
+    },
+    {
+      "id": "mfr-abb-next-xt2-3p-phase-breaker-67f76dcd17",
+      "name": "neXT XT2 3p phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt2-3p-phase-breaker-67f76dcd17",
+      "recordPath": "equipment/mfr-abb-next-xt2-3p-phase-breaker-67f76dcd17.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt2-3p-phase-breaker-67f76dcd17.json"
+    },
+    {
+      "id": "mfr-abb-next-xt4-2p-ab-phase-breaker-714a8a8519",
+      "name": "neXT XT4 2p AB phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt4-2p-ab-phase-breaker-714a8a8519",
+      "recordPath": "equipment/mfr-abb-next-xt4-2p-ab-phase-breaker-714a8a8519.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt4-2p-ab-phase-breaker-714a8a8519.json"
+    },
+    {
+      "id": "mfr-abb-next-xt4-2p-ac-phase-breaker-f12fc8f245",
+      "name": "neXT XT4 2p AC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt4-2p-ac-phase-breaker-f12fc8f245",
+      "recordPath": "equipment/mfr-abb-next-xt4-2p-ac-phase-breaker-f12fc8f245.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt4-2p-ac-phase-breaker-f12fc8f245.json"
+    },
+    {
+      "id": "mfr-abb-next-xt4-2p-bc-phase-breaker-d4f3a484ab",
+      "name": "neXT XT4 2p BC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt4-2p-bc-phase-breaker-d4f3a484ab",
+      "recordPath": "equipment/mfr-abb-next-xt4-2p-bc-phase-breaker-d4f3a484ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt4-2p-bc-phase-breaker-d4f3a484ab.json"
+    },
+    {
+      "id": "mfr-abb-next-xt4-3p-breaker-7e96863b46",
+      "name": "neXT XT4 3p breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt4-3p-breaker-7e96863b46",
+      "recordPath": "equipment/mfr-abb-next-xt4-3p-breaker-7e96863b46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt4-3p-breaker-7e96863b46.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-2p-ab-fullrow-phase-breaker-551f5b445e",
+      "name": "neXT XT5 2p AB FULLROW phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-2p-ab-fullrow-phase-breaker-551f5b445e",
+      "recordPath": "equipment/mfr-abb-next-xt5-2p-ab-fullrow-phase-breaker-551f5b445e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-2p-ab-fullrow-phase-breaker-551f5b445e.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-2p-ab-phase-breaker-3351eb9ea2",
+      "name": "neXT XT5 2p AB phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-2p-ab-phase-breaker-3351eb9ea2",
+      "recordPath": "equipment/mfr-abb-next-xt5-2p-ab-phase-breaker-3351eb9ea2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-2p-ab-phase-breaker-3351eb9ea2.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-2p-ac-fullrow-phase-breaker-3463c72ff8",
+      "name": "neXT XT5 2p AC FULLROW phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-2p-ac-fullrow-phase-breaker-3463c72ff8",
+      "recordPath": "equipment/mfr-abb-next-xt5-2p-ac-fullrow-phase-breaker-3463c72ff8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-2p-ac-fullrow-phase-breaker-3463c72ff8.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-2p-ac-phase-breaker-f62443c719",
+      "name": "neXT XT5 2p AC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-2p-ac-phase-breaker-f62443c719",
+      "recordPath": "equipment/mfr-abb-next-xt5-2p-ac-phase-breaker-f62443c719.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-2p-ac-phase-breaker-f62443c719.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-2p-bc-fullrow-phase-breaker-a1e0c450bd",
+      "name": "neXT XT5 2p BC FULLROW phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-2p-bc-fullrow-phase-breaker-a1e0c450bd",
+      "recordPath": "equipment/mfr-abb-next-xt5-2p-bc-fullrow-phase-breaker-a1e0c450bd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-2p-bc-fullrow-phase-breaker-a1e0c450bd.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-2p-bc-phase-breaker-1dad6b0379",
+      "name": "neXT XT5 2p BC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-2p-bc-phase-breaker-1dad6b0379",
+      "recordPath": "equipment/mfr-abb-next-xt5-2p-bc-phase-breaker-1dad6b0379.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-2p-bc-phase-breaker-1dad6b0379.json"
+    },
+    {
+      "id": "mfr-abb-next-xt5-3p-breaker-75933926b9",
+      "name": "neXT XT5 3p breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt5-3p-breaker-75933926b9",
+      "recordPath": "equipment/mfr-abb-next-xt5-3p-breaker-75933926b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt5-3p-breaker-75933926b9.json"
+    },
+    {
+      "id": "mfr-abb-next-xt6-2p-ab-phase-breaker-bfbde02373",
+      "name": "neXT XT6 2p AB phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt6-2p-ab-phase-breaker-bfbde02373",
+      "recordPath": "equipment/mfr-abb-next-xt6-2p-ab-phase-breaker-bfbde02373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt6-2p-ab-phase-breaker-bfbde02373.json"
+    },
+    {
+      "id": "mfr-abb-next-xt6-2p-ac-phase-breaker-23dc72ebc0",
+      "name": "neXT XT6 2p AC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt6-2p-ac-phase-breaker-23dc72ebc0",
+      "recordPath": "equipment/mfr-abb-next-xt6-2p-ac-phase-breaker-23dc72ebc0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt6-2p-ac-phase-breaker-23dc72ebc0.json"
+    },
+    {
+      "id": "mfr-abb-next-xt6-2p-bc-phase-breaker-75d5385b20",
+      "name": "neXT XT6 2p BC phase breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt6-2p-bc-phase-breaker-75d5385b20",
+      "recordPath": "equipment/mfr-abb-next-xt6-2p-bc-phase-breaker-75d5385b20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt6-2p-bc-phase-breaker-75d5385b20.json"
+    },
+    {
+      "id": "mfr-abb-next-xt6-3p-breaker-d388c9f83f",
+      "name": "neXT XT6 3p breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt6-3p-breaker-d388c9f83f",
+      "recordPath": "equipment/mfr-abb-next-xt6-3p-breaker-d388c9f83f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt6-3p-breaker-d388c9f83f.json"
+    },
+    {
+      "id": "mfr-abb-next-xt7-3p-breaker-57ec0dbb7a",
+      "name": "neXT XT7 3p breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-next-xt7-3p-breaker-57ec0dbb7a",
+      "recordPath": "equipment/mfr-abb-next-xt7-3p-breaker-57ec0dbb7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-next-xt7-3p-breaker-57ec0dbb7a.json"
+    },
+    {
+      "id": "mfr-abb-svg-ps-e2-2-2c11f26a24",
+      "name": "(.SVG) PS/E2.2",
+      "manufacturer": "ABB",
+      "formats": [
+        "SVG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-svg-ps-e2-2-2c11f26a24",
+      "recordPath": "equipment/mfr-abb-svg-ps-e2-2-2c11f26a24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-svg-ps-e2-2-2c11f26a24.json"
+    },
+    {
+      "id": "mfr-abb-irc5-compact-2nd-gen-rev00-919b9082de",
+      "name": "/ , IRC5 Compact, 2nd gen, rev00",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irc5-compact-2nd-gen-rev00-919b9082de",
+      "recordPath": "equipment/mfr-abb-irc5-compact-2nd-gen-rev00-919b9082de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irc5-compact-2nd-gen-rev00-919b9082de.json"
+    },
+    {
+      "id": "mfr-abb-1p-to-4p-formula-mcb-and-sd-05de5bde43",
+      "name": "1P to 4P (Formula MCB and SD)",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1p-to-4p-formula-mcb-and-sd-05de5bde43",
+      "recordPath": "equipment/mfr-abb-1p-to-4p-formula-mcb-and-sd-05de5bde43.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1p-to-4p-formula-mcb-and-sd-05de5bde43.json"
+    },
+    {
+      "id": "mfr-abb-270a7240p1-combination-starter-size-0-2-type-1-30a-switch-125a-breaker-d8a5ae0ddf",
+      "name": "270A7240P1 - COMBINATION STARTER SIZE 0-2 TYPE 1, 30A SWITCH & 125A BREAKER",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "PDF",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-270a7240p1-combination-starter-size-0-2-type-1-30a-switch-125a-breaker-d8a5ae0ddf",
+      "recordPath": "equipment/mfr-abb-270a7240p1-combination-starter-size-0-2-type-1-30a-switch-125a-breaker-d8a5ae0ddf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-270a7240p1-combination-starter-size-0-2-type-1-30a-switch-125a-breaker-d8a5ae0ddf.json"
+    },
+    {
+      "id": "mfr-abb-270a7255p1-pump-panel-cr340-341-std-width-nema-size-5-fusible-breaker-c0bbd4a846",
+      "name": "270A7255P1-PUMP PANEL (CR340, 341), STD WIDTH, NEMA SIZE 5, FUSIBLE/BREAKER",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-270a7255p1-pump-panel-cr340-341-std-width-nema-size-5-fusible-breaker-c0bbd4a846",
+      "recordPath": "equipment/mfr-abb-270a7255p1-pump-panel-cr340-341-std-width-nema-size-5-fusible-breaker-c0bbd4a846.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-270a7255p1-pump-panel-cr340-341-std-width-nema-size-5-fusible-breaker-c0bbd4a846.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-abdeckung-xt5-3pol-nacharbeit-538f44cf50",
+      "name": "3-polig Abdeckung XT5 3pol Nacharbeit",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-abdeckung-xt5-3pol-nacharbeit-538f44cf50",
+      "recordPath": "equipment/mfr-abb-3-polig-abdeckung-xt5-3pol-nacharbeit-538f44cf50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-abdeckung-xt5-3pol-nacharbeit-538f44cf50.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-abdeckung-xt5-3pol-original-f9ab694037",
+      "name": "3-polig Abdeckung XT5 3pol Original",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-abdeckung-xt5-3pol-original-f9ab694037",
+      "recordPath": "equipment/mfr-abb-3-polig-abdeckung-xt5-3pol-original-f9ab694037.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-abdeckung-xt5-3pol-original-f9ab694037.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-abdeckung-xt6-3pol-nacharbeit-62626784e1",
+      "name": "3-polig Abdeckung XT6 3pol Nacharbeit",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-abdeckung-xt6-3pol-nacharbeit-62626784e1",
+      "recordPath": "equipment/mfr-abb-3-polig-abdeckung-xt6-3pol-nacharbeit-62626784e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-abdeckung-xt6-3pol-nacharbeit-62626784e1.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-abdeckung-xt6-3pol-original-583e78e6d8",
+      "name": "3-polig Abdeckung XT6 3pol Original",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-abdeckung-xt6-3pol-original-583e78e6d8",
+      "recordPath": "equipment/mfr-abb-3-polig-abdeckung-xt6-3pol-original-583e78e6d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-abdeckung-xt6-3pol-original-583e78e6d8.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-xt2-3pol-abdeckung-nacharbeit-e961a91521",
+      "name": "3-polig XT2 3pol Abdeckung Nacharbeit",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-xt2-3pol-abdeckung-nacharbeit-e961a91521",
+      "recordPath": "equipment/mfr-abb-3-polig-xt2-3pol-abdeckung-nacharbeit-e961a91521.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-xt2-3pol-abdeckung-nacharbeit-e961a91521.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-xt2-montageplatte-schalter-9fc5c238b4",
+      "name": "3-polig XT2 Montageplatte Schalter",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-xt2-montageplatte-schalter-9fc5c238b4",
+      "recordPath": "equipment/mfr-abb-3-polig-xt2-montageplatte-schalter-9fc5c238b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-xt2-montageplatte-schalter-9fc5c238b4.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-xt4-3-pol-nacharbeit-grundplatte-d24f9ee4a5",
+      "name": "3-polig XT4 3-pol Nacharbeit Grundplatte",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-xt4-3-pol-nacharbeit-grundplatte-d24f9ee4a5",
+      "recordPath": "equipment/mfr-abb-3-polig-xt4-3-pol-nacharbeit-grundplatte-d24f9ee4a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-xt4-3-pol-nacharbeit-grundplatte-d24f9ee4a5.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-xt4-3pol-nacharbeit-abdeckung-d36318103d",
+      "name": "3-polig XT4 3pol Nacharbeit Abdeckung",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-xt4-3pol-nacharbeit-abdeckung-d36318103d",
+      "recordPath": "equipment/mfr-abb-3-polig-xt4-3pol-nacharbeit-abdeckung-d36318103d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-xt4-3pol-nacharbeit-abdeckung-d36318103d.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-xt6-3-pol-nacharbeit-grundplatte-c88fee9e95",
+      "name": "3-polig XT6 3-pol Nacharbeit Grundplatte",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-xt6-3-pol-nacharbeit-grundplatte-c88fee9e95",
+      "recordPath": "equipment/mfr-abb-3-polig-xt6-3-pol-nacharbeit-grundplatte-c88fee9e95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-xt6-3-pol-nacharbeit-grundplatte-c88fee9e95.json"
+    },
+    {
+      "id": "mfr-abb-3-polig-xt6-stehbolzen-f-r-abdeckung-88b466e3b5",
+      "name": "3-polig XT6 Stehbolzen für Abdeckung",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-polig-xt6-stehbolzen-f-r-abdeckung-88b466e3b5",
+      "recordPath": "equipment/mfr-abb-3-polig-xt6-stehbolzen-f-r-abdeckung-88b466e3b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-polig-xt6-stehbolzen-f-r-abdeckung-88b466e3b5.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s6-6b1b16aafc",
+      "name": "3/4Pole low voltage MCCB series Isomax - Fixed version with stored energy operating mechanism S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s6-6b1b16aafc",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s6-6b1b16aafc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s6-6b1b16aafc.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s7-0c6db69506",
+      "name": "3/4Pole low voltage MCCB series Isomax - Fixed version with stored energy operating mechanism S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s7-0c6db69506",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s7-0c6db69506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-fixed-version-with-stored-energy-operating-mechanism-s7-0c6db69506.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s6-844379f708",
+      "name": "3/4Pole low voltage MCCB series Isomax - Withdrawable version with stored energy operating mechanism S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s6-844379f708",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s6-844379f708.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s6-844379f708.json"
+    },
+    {
+      "id": "mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s7-8c6e7ab367",
+      "name": "3/4Pole low voltage MCCB series Isomax - Withdrawable version with stored energy operating mechanism S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s7-8c6e7ab367",
+      "recordPath": "equipment/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s7-8c6e7ab367.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3-4pole-low-voltage-mccb-series-isomax-withdrawable-version-with-stored-energy-operating-mechanism-s7-8c6e7ab367.json"
+    },
+    {
+      "id": "mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-f05ca2ed1f",
+      "name": "3Pole low voltage MCCB series Isomax - Fixed version spread extended front term. S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-f05ca2ed1f",
+      "recordPath": "equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-f05ca2ed1f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-f05ca2ed1f.json"
+    },
+    {
+      "id": "mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-ee397d3002",
+      "name": "3Pole low voltage MCCB series Isomax - Fixed version spread extended front term. S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-ee397d3002",
+      "recordPath": "equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-ee397d3002.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-ee397d3002.json"
+    },
+    {
+      "id": "mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-663d9b98f3",
+      "name": "3Pole low voltage MCCB series Isomax - Rotary handle operating mechanism S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-663d9b98f3",
+      "recordPath": "equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-663d9b98f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-663d9b98f3.json"
+    },
+    {
+      "id": "mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-a0e89fe7a4",
+      "name": "3Pole low voltage MCCB series Isomax - Rotary handle operating mechanism S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-a0e89fe7a4",
+      "recordPath": "equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-a0e89fe7a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-a0e89fe7a4.json"
+    },
+    {
+      "id": "mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-5e6ae8185c",
+      "name": "3Pole low voltage MCCB series Isomax - front panel with padlock devices S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-5e6ae8185c",
+      "recordPath": "equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-5e6ae8185c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-5e6ae8185c.json"
+    },
+    {
+      "id": "mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-e9ef8345ec",
+      "name": "3Pole low voltage MCCB series Isomax - front panel with padlock devices S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-e9ef8345ec",
+      "recordPath": "equipment/mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-e9ef8345ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-3pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-e9ef8345ec.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-abdeckung-xt5-4pol-nacharbeit-82d2761963",
+      "name": "4-polig Abdeckung XT5 4pol Nacharbeit",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-abdeckung-xt5-4pol-nacharbeit-82d2761963",
+      "recordPath": "equipment/mfr-abb-4-polig-abdeckung-xt5-4pol-nacharbeit-82d2761963.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-abdeckung-xt5-4pol-nacharbeit-82d2761963.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-abdeckung-xt5-4pol-original-7c013e0736",
+      "name": "4-polig Abdeckung XT5 4pol Original",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-abdeckung-xt5-4pol-original-7c013e0736",
+      "recordPath": "equipment/mfr-abb-4-polig-abdeckung-xt5-4pol-original-7c013e0736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-abdeckung-xt5-4pol-original-7c013e0736.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-abdeckung-xt6-4pol-nacharbeit-0426f82ace",
+      "name": "4-polig Abdeckung XT6 4pol Nacharbeit",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-abdeckung-xt6-4pol-nacharbeit-0426f82ace",
+      "recordPath": "equipment/mfr-abb-4-polig-abdeckung-xt6-4pol-nacharbeit-0426f82ace.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-abdeckung-xt6-4pol-nacharbeit-0426f82ace.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-abdeckung-xt6-4pol-original-a8b1b2a436",
+      "name": "4-polig Abdeckung XT6 4pol Original",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-abdeckung-xt6-4pol-original-a8b1b2a436",
+      "recordPath": "equipment/mfr-abb-4-polig-abdeckung-xt6-4pol-original-a8b1b2a436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-abdeckung-xt6-4pol-original-a8b1b2a436.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-xt2-4pol-abdeckung-nacharbeit-557b6d8f9a",
+      "name": "4-polig XT2 4pol Abdeckung Nacharbeit",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-xt2-4pol-abdeckung-nacharbeit-557b6d8f9a",
+      "recordPath": "equipment/mfr-abb-4-polig-xt2-4pol-abdeckung-nacharbeit-557b6d8f9a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-xt2-4pol-abdeckung-nacharbeit-557b6d8f9a.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-xt2-montageplatte-schalter-8ce376018b",
+      "name": "4-polig XT2 Montageplatte Schalter",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-xt2-montageplatte-schalter-8ce376018b",
+      "recordPath": "equipment/mfr-abb-4-polig-xt2-montageplatte-schalter-8ce376018b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-xt2-montageplatte-schalter-8ce376018b.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-xt4-4-pol-nacharbeit-grundplatte-a7570bd882",
+      "name": "4-polig XT4 4-pol Nacharbeit Grundplatte",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-xt4-4-pol-nacharbeit-grundplatte-a7570bd882",
+      "recordPath": "equipment/mfr-abb-4-polig-xt4-4-pol-nacharbeit-grundplatte-a7570bd882.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-xt4-4-pol-nacharbeit-grundplatte-a7570bd882.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-xt4-4pol-nacharbeit-abdeckung-7afb1d47d7",
+      "name": "4-polig XT4 4pol Nacharbeit Abdeckung",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-xt4-4pol-nacharbeit-abdeckung-7afb1d47d7",
+      "recordPath": "equipment/mfr-abb-4-polig-xt4-4pol-nacharbeit-abdeckung-7afb1d47d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-xt4-4pol-nacharbeit-abdeckung-7afb1d47d7.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-xt6-4-pol-nacharbeit-grundplatte-d63dfeaa7c",
+      "name": "4-polig XT6 4-pol Nacharbeit Grundplatte",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-xt6-4-pol-nacharbeit-grundplatte-d63dfeaa7c",
+      "recordPath": "equipment/mfr-abb-4-polig-xt6-4-pol-nacharbeit-grundplatte-d63dfeaa7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-xt6-4-pol-nacharbeit-grundplatte-d63dfeaa7c.json"
+    },
+    {
+      "id": "mfr-abb-4-polig-xt6-stehbolzen-f-r-abdeckung-ebc4db9f0f",
+      "name": "4-polig XT6 Stehbolzen für Abdeckung",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-polig-xt6-stehbolzen-f-r-abdeckung-ebc4db9f0f",
+      "recordPath": "equipment/mfr-abb-4-polig-xt6-stehbolzen-f-r-abdeckung-ebc4db9f0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-polig-xt6-stehbolzen-f-r-abdeckung-ebc4db9f0f.json"
+    },
+    {
+      "id": "mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-fbd7382c4f",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version spread extended front term. S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-fbd7382c4f",
+      "recordPath": "equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-fbd7382c4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s6-fbd7382c4f.json"
+    },
+    {
+      "id": "mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-87e3424caf",
+      "name": "4Pole low voltage MCCB series Isomax - Fixed version spread extended front term. S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-87e3424caf",
+      "recordPath": "equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-87e3424caf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4pole-low-voltage-mccb-series-isomax-fixed-version-spread-extended-front-term-s7-87e3424caf.json"
+    },
+    {
+      "id": "mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-b08e193fbe",
+      "name": "4Pole low voltage MCCB series Isomax - Rotary handle operating mechanism S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-b08e193fbe",
+      "recordPath": "equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-b08e193fbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s6-b08e193fbe.json"
+    },
+    {
+      "id": "mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-e447e8972f",
+      "name": "4Pole low voltage MCCB series Isomax - Rotary handle operating mechanism S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-e447e8972f",
+      "recordPath": "equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-e447e8972f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4pole-low-voltage-mccb-series-isomax-rotary-handle-operating-mechanism-s7-e447e8972f.json"
+    },
+    {
+      "id": "mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-f22b3560f5",
+      "name": "4Pole low voltage MCCB series Isomax - front panel with padlock devices S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-f22b3560f5",
+      "recordPath": "equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-f22b3560f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s6-f22b3560f5.json"
+    },
+    {
+      "id": "mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-b3e7056d00",
+      "name": "4Pole low voltage MCCB series Isomax - front panel with padlock devices S7",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-b3e7056d00",
+      "recordPath": "equipment/mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-b3e7056d00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4pole-low-voltage-mccb-series-isomax-front-panel-with-padlock-devices-s7-b3e7056d00.json"
+    },
+    {
+      "id": "mfr-abb-amvac-03-5-27-kv-wiring-dual-secondary-d2df31ec56",
+      "name": "AMVAC 03 (5-27 kV) Wiring Dual Secondary",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-amvac-03-5-27-kv-wiring-dual-secondary-d2df31ec56",
+      "recordPath": "equipment/mfr-abb-amvac-03-5-27-kv-wiring-dual-secondary-d2df31ec56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-amvac-03-5-27-kv-wiring-dual-secondary-d2df31ec56.json"
+    },
+    {
+      "id": "mfr-abb-bld-rcd-119d0576eb",
+      "name": "BLD RCD",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-bld-rcd-119d0576eb",
+      "recordPath": "equipment/mfr-abb-bld-rcd-119d0576eb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-bld-rcd-119d0576eb.json"
+    },
+    {
+      "id": "mfr-abb-compact-ats-21d-3797d6cc7c",
+      "name": "Compact ATS 21D",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-compact-ats-21d-3797d6cc7c",
+      "recordPath": "equipment/mfr-abb-compact-ats-21d-3797d6cc7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-compact-ats-21d-3797d6cc7c.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-185-s3-s4-6273050118",
+      "name": "Contactor and MCCB, BEA 185/S3/S4",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-185-s3-s4-6273050118",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-185-s3-s4-6273050118.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-185-s3-s4-6273050118.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-185h-s4-38707c28cd",
+      "name": "Contactor and MCCB, BEA 185H/S4",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-185h-s4-38707c28cd",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-185h-s4-38707c28cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-185h-s4-38707c28cd.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-210-s4-3d73fccd15",
+      "name": "Contactor and MCCB, BEA 210/S4",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-210-s4-3d73fccd15",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-210-s4-3d73fccd15.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-210-s4-3d73fccd15.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-210h-s4-319719f8ad",
+      "name": "Contactor and MCCB, BEA 210H/S4",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-210h-s4-319719f8ad",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-210h-s4-319719f8ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-210h-s4-319719f8ad.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-300-s5-2c263671d4",
+      "name": "Contactor and MCCB, BEA 300/S5",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-300-s5-2c263671d4",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-300-s5-2c263671d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-300-s5-2c263671d4.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-300h-s5-33517fd0d8",
+      "name": "Contactor and MCCB, BEA 300H/S5",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-300h-s5-33517fd0d8",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-300h-s5-33517fd0d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-300h-s5-33517fd0d8.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-400-s5-b488d93571",
+      "name": "Contactor and MCCB, BEA 400/S5",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-400-s5-b488d93571",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-400-s5-b488d93571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-400-s5-b488d93571.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-400d-s5-c2fd671bd4",
+      "name": "Contactor and MCCB, BEA 400D/S5",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-400d-s5-c2fd671bd4",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-400d-s5-c2fd671bd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-400d-s5-c2fd671bd4.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-400h-s5-3ba0ec2e12",
+      "name": "Contactor and MCCB, BEA 400H/S5",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-400h-s5-3ba0ec2e12",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-400h-s5-3ba0ec2e12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-400h-s5-3ba0ec2e12.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-460h-s6-166fba9e3b",
+      "name": "Contactor and MCCB, BEA 460H/S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-460h-s6-166fba9e3b",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-460h-s6-166fba9e3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-460h-s6-166fba9e3b.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-750-s6-a904079256",
+      "name": "Contactor and MCCB, BEA 750/S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-750-s6-a904079256",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-750-s6-a904079256.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-750-s6-a904079256.json"
+    },
+    {
+      "id": "mfr-abb-contactor-and-mccb-bea-750h-s6-ae3d53e70d",
+      "name": "Contactor and MCCB, BEA 750H/S6",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-contactor-and-mccb-bea-750h-s6-ae3d53e70d",
+      "recordPath": "equipment/mfr-abb-contactor-and-mccb-bea-750h-s6-ae3d53e70d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-contactor-and-mccb-bea-750h-s6-ae3d53e70d.json"
+    },
+    {
+      "id": "mfr-abb-ds201-2019-and-ds201t-2019-6c9671be89",
+      "name": "DS201 (2019) and DS201T (2019)",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ds201-2019-and-ds201t-2019-6c9671be89",
+      "recordPath": "equipment/mfr-abb-ds201-2019-and-ds201t-2019-6c9671be89.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ds201-2019-and-ds201t-2019-6c9671be89.json"
+    },
+    {
+      "id": "mfr-abb-ds201t-2019-rcbo-1p-n-2c489134bc",
+      "name": "DS201T (2019) RCBO 1P+N",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ds201t-2019-rcbo-1p-n-2c489134bc",
+      "recordPath": "equipment/mfr-abb-ds201t-2019-rcbo-1p-n-2c489134bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ds201t-2019-rcbo-1p-n-2c489134bc.json"
+    },
+    {
+      "id": "mfr-abb-ds202cr-rcbo-2p-37ba976abd",
+      "name": "DS202CR RCBO 2P",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "PDF",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ds202cr-rcbo-2p-37ba976abd",
+      "recordPath": "equipment/mfr-abb-ds202cr-rcbo-2p-37ba976abd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ds202cr-rcbo-2p-37ba976abd.json"
+    },
+    {
+      "id": "mfr-abb-ds203-m-rcbo-3p-ds200-series-de25c24b63",
+      "name": "DS203 M RCBO 3P (DS200 series)",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ds203-m-rcbo-3p-ds200-series-de25c24b63",
+      "recordPath": "equipment/mfr-abb-ds203-m-rcbo-3p-ds200-series-de25c24b63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ds203-m-rcbo-3p-ds200-series-de25c24b63.json"
+    },
+    {
+      "id": "mfr-abb-dimensioned-s200-s200l-s200m-45a8d359fa",
+      "name": "Dimensioned S200, S200L, S200M",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-dimensioned-s200-s200l-s200m-45a8d359fa",
+      "recordPath": "equipment/mfr-abb-dimensioned-s200-s200l-s200m-45a8d359fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-dimensioned-s200-s200l-s200m-45a8d359fa.json"
+    },
+    {
+      "id": "mfr-abb-e1-3-iii-iv-fixed-es-c833d5ad4c",
+      "name": "E1.3 III-IV Fixed ES",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e1-3-iii-iv-fixed-es-c833d5ad4c",
+      "recordPath": "equipment/mfr-abb-e1-3-iii-iv-fixed-es-c833d5ad4c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e1-3-iii-iv-fixed-es-c833d5ad4c.json"
+    },
+    {
+      "id": "mfr-abb-electronic-compact-starter-hfx-dx-hfx-rx-4037176715",
+      "name": "Electronic Compact Starter HFx-Dx/HFx-Rx",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-electronic-compact-starter-hfx-dx-hfx-rx-4037176715",
+      "recordPath": "equipment/mfr-abb-electronic-compact-starter-hfx-dx-hfx-rx-4037176715.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-electronic-compact-starter-hfx-dx-hfx-rx-4037176715.json"
+    },
+    {
+      "id": "mfr-abb-electronic-compact-starter-hfx-r-70bd200c95",
+      "name": "Electronic Compact Starter HFx-R",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-electronic-compact-starter-hfx-r-70bd200c95",
+      "recordPath": "equipment/mfr-abb-electronic-compact-starter-hfx-r-70bd200c95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-electronic-compact-starter-hfx-r-70bd200c95.json"
+    },
+    {
+      "id": "mfr-abb-entelliguard-g-r-circuit-breaker-wiring-1b1cb49f51",
+      "name": "EntelliGuard G/R Circuit Breaker Wiring",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-entelliguard-g-r-circuit-breaker-wiring-1b1cb49f51",
+      "recordPath": "equipment/mfr-abb-entelliguard-g-r-circuit-breaker-wiring-1b1cb49f51.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-entelliguard-g-r-circuit-breaker-wiring-1b1cb49f51.json"
+    },
+    {
+      "id": "mfr-abb-f202-481f789da8",
+      "name": "F202",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-f202-481f789da8",
+      "recordPath": "equipment/mfr-abb-f202-481f789da8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-f202-481f789da8.json"
+    },
+    {
+      "id": "mfr-abb-f204-24b4c05f08",
+      "name": "F204",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-f204-24b4c05f08",
+      "recordPath": "equipment/mfr-abb-f204-24b4c05f08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-f204-24b4c05f08.json"
+    },
+    {
+      "id": "mfr-abb-f204-125a-4f5dd510b7",
+      "name": "F204 125A",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-f204-125a-4f5dd510b7",
+      "recordPath": "equipment/mfr-abb-f204-125a-4f5dd510b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-f204-125a-4f5dd510b7.json"
+    },
+    {
+      "id": "mfr-abb-mc-mb-2500ip30-2500ip40-e2-2w-2500a-v2-0-release20-04-17-d92b4b8498",
+      "name": "MC MB 2500IP30 2500IP40 E2.2W 2500A V2.0 Release20 04 17",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-mc-mb-2500ip30-2500ip40-e2-2w-2500a-v2-0-release20-04-17-d92b4b8498",
+      "recordPath": "equipment/mfr-abb-mc-mb-2500ip30-2500ip40-e2-2w-2500a-v2-0-release20-04-17-d92b4b8498.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-mc-mb-2500ip30-2500ip40-e2-2w-2500a-v2-0-release20-04-17-d92b4b8498.json"
+    },
+    {
+      "id": "mfr-abb-mc-mb-3200ip40-e4-2w-3200a-510e0b029a",
+      "name": "MC MB 3200IP40 E4.2W 3200A",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-mc-mb-3200ip40-e4-2w-3200a-510e0b029a",
+      "recordPath": "equipment/mfr-abb-mc-mb-3200ip40-e4-2w-3200a-510e0b029a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-mc-mb-3200ip40-e4-2w-3200a-510e0b029a.json"
+    },
+    {
+      "id": "mfr-abb-mc-mb-4000ip30-e4-2w-4000a-v2-0-release21-04-17-33dbeee981",
+      "name": "MC MB 4000IP30 E4.2W 4000A V2.0 Release21 04 17",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-mc-mb-4000ip30-e4-2w-4000a-v2-0-release21-04-17-33dbeee981",
+      "recordPath": "equipment/mfr-abb-mc-mb-4000ip30-e4-2w-4000a-v2-0-release21-04-17-33dbeee981.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-mc-mb-4000ip30-e4-2w-4000a-v2-0-release21-04-17-33dbeee981.json"
+    },
+    {
+      "id": "mfr-abb-mc-mb-4000ip40-e4-2w-4000a-v2-0-release21-04-17-801d972e16",
+      "name": "MC MB 4000IP40 E4.2W 4000A V2.0 Release21 04 17",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-mc-mb-4000ip40-e4-2w-4000a-v2-0-release21-04-17-801d972e16",
+      "recordPath": "equipment/mfr-abb-mc-mb-4000ip40-e4-2w-4000a-v2-0-release21-04-17-801d972e16.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-mc-mb-4000ip40-e4-2w-4000a-v2-0-release21-04-17-801d972e16.json"
+    },
+    {
+      "id": "mfr-abb-oem-type-l-ae-aq-as-main-breaker-a2-breaker-89e5136287",
+      "name": "OEM Type L - AE, AQ & AS, MAIN BREAKER - A2 BREAKER",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-a2-breaker-89e5136287",
+      "recordPath": "equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-a2-breaker-89e5136287.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oem-type-l-ae-aq-as-main-breaker-a2-breaker-89e5136287.json"
+    },
+    {
+      "id": "mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt1-breaker-810aeebfa8",
+      "name": "OEM Type L - AE, AQ & AS, MAIN BREAKER - XT1 BREAKER",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt1-breaker-810aeebfa8",
+      "recordPath": "equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt1-breaker-810aeebfa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt1-breaker-810aeebfa8.json"
+    },
+    {
+      "id": "mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt4-breaker-4e25b8b440",
+      "name": "OEM Type L - AE, AQ & AS, MAIN BREAKER - XT4 BREAKER",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt4-breaker-4e25b8b440",
+      "recordPath": "equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt4-breaker-4e25b8b440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt4-breaker-4e25b8b440.json"
+    },
+    {
+      "id": "mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt5-breaker-24b80da3a0",
+      "name": "OEM Type L - AE, AQ & AS, MAIN BREAKER - XT5 BREAKER",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt5-breaker-24b80da3a0",
+      "recordPath": "equipment/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt5-breaker-24b80da3a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-oem-type-l-ae-aq-as-main-breaker-xt5-breaker-24b80da3a0.json"
+    },
+    {
+      "id": "mfr-abb-proline-pb-filler-plate-s200-hg1-25-979de97fe0",
+      "name": "ProLine PB Filler Plate S200 HG1=25",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-proline-pb-filler-plate-s200-hg1-25-979de97fe0",
+      "recordPath": "equipment/mfr-abb-proline-pb-filler-plate-s200-hg1-25-979de97fe0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-proline-pb-filler-plate-s200-hg1-25-979de97fe0.json"
+    },
+    {
+      "id": "mfr-abb-reliagear-merchandised-sb-switchboard-rsbm44010c3rbmx-4000a-mcb-n3r-7add5bb86e",
+      "name": "ReliaGear Merchandised SB Switchboard - RSBM44010C3RBMX 4000A MCB N3R",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-reliagear-merchandised-sb-switchboard-rsbm44010c3rbmx-4000a-mcb-n3r-7add5bb86e",
+      "recordPath": "equipment/mfr-abb-reliagear-merchandised-sb-switchboard-rsbm44010c3rbmx-4000a-mcb-n3r-7add5bb86e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-reliagear-merchandised-sb-switchboard-rsbm44010c3rbmx-4000a-mcb-n3r-7add5bb86e.json"
+    },
+    {
+      "id": "mfr-abb-reliamod-main-breaker-module-rmm1bb20rl-dbc84026a2",
+      "name": "ReliaMod , Main Breaker Module, RMM1BB20RL",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-reliamod-main-breaker-module-rmm1bb20rl-dbc84026a2",
+      "recordPath": "equipment/mfr-abb-reliamod-main-breaker-module-rmm1bb20rl-dbc84026a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-reliamod-main-breaker-module-rmm1bb20rl-dbc84026a2.json"
+    },
+    {
+      "id": "mfr-abb-reliamod-main-breaker-module-rmm3bb20rl-aa90408624",
+      "name": "ReliaMod , Main Breaker Module, RMM3BB20RL",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-reliamod-main-breaker-module-rmm3bb20rl-aa90408624",
+      "recordPath": "equipment/mfr-abb-reliamod-main-breaker-module-rmm3bb20rl-aa90408624.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-reliamod-main-breaker-module-rmm3bb20rl-aa90408624.json"
+    },
+    {
+      "id": "mfr-abb-reliamod-main-breaker-module-rmm3bl6r-9f87b2d9c4",
+      "name": "ReliaMod , Main Breaker Module, RMM3BL6R",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-reliamod-main-breaker-module-rmm3bl6r-9f87b2d9c4",
+      "recordPath": "equipment/mfr-abb-reliamod-main-breaker-module-rmm3bl6r-9f87b2d9c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-reliamod-main-breaker-module-rmm3bl6r-9f87b2d9c4.json"
+    },
+    {
+      "id": "mfr-abb-s200-d31d6cfdeb",
+      "name": "S200",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s200-d31d6cfdeb",
+      "recordPath": "equipment/mfr-abb-s200-d31d6cfdeb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s200-d31d6cfdeb.json"
+    },
+    {
+      "id": "mfr-abb-s200muc-3376721744",
+      "name": "S200MUC",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s200muc-3376721744",
+      "recordPath": "equipment/mfr-abb-s200muc-3376721744.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s200muc-3376721744.json"
+    },
+    {
+      "id": "mfr-abb-s201-18dd427a85",
+      "name": "S201",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s201-18dd427a85",
+      "recordPath": "equipment/mfr-abb-s201-18dd427a85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s201-18dd427a85.json"
+    },
+    {
+      "id": "mfr-abb-s201-na-s202-8cb14d8445",
+      "name": "S201 Na-S202",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s201-na-s202-8cb14d8445",
+      "recordPath": "equipment/mfr-abb-s201-na-s202-8cb14d8445.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s201-na-s202-8cb14d8445.json"
+    },
+    {
+      "id": "mfr-abb-s201nc-overall-2f770fe020",
+      "name": "S201NC overall",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s201nc-overall-2f770fe020",
+      "recordPath": "equipment/mfr-abb-s201nc-overall-2f770fe020.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s201nc-overall-2f770fe020.json"
+    },
+    {
+      "id": "mfr-abb-s203-7202188ac2",
+      "name": "S203",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s203-7202188ac2",
+      "recordPath": "equipment/mfr-abb-s203-7202188ac2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s203-7202188ac2.json"
+    },
+    {
+      "id": "mfr-abb-s203-na-s204-a84523cfed",
+      "name": "S203 Na-S204",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s203-na-s204-a84523cfed",
+      "recordPath": "equipment/mfr-abb-s203-na-s204-a84523cfed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s203-na-s204-a84523cfed.json"
+    },
+    {
+      "id": "mfr-abb-s3-s4-application-of-rotary-handle-on-fixed-version-breaker-bd6cf79db4",
+      "name": "S3-S4 Application of rotary handle on Fixed version breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s3-s4-application-of-rotary-handle-on-fixed-version-breaker-bd6cf79db4",
+      "recordPath": "equipment/mfr-abb-s3-s4-application-of-rotary-handle-on-fixed-version-breaker-bd6cf79db4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s3-s4-application-of-rotary-handle-on-fixed-version-breaker-bd6cf79db4.json"
+    },
+    {
+      "id": "mfr-abb-s3-s4-circuit-breaker-fixed-version-motor-operator-d660f24eca",
+      "name": "S3-S4 Circuit Breaker Fixed version Motor operator",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s3-s4-circuit-breaker-fixed-version-motor-operator-d660f24eca",
+      "recordPath": "equipment/mfr-abb-s3-s4-circuit-breaker-fixed-version-motor-operator-d660f24eca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s3-s4-circuit-breaker-fixed-version-motor-operator-d660f24eca.json"
+    },
+    {
+      "id": "mfr-abb-s3-s4-s5-circuit-breaker-fixed-version-motor-operator-3d8e555791",
+      "name": "S3-S4-S5 Circuit Breaker Fixed version Motor operator",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s3-s4-s5-circuit-breaker-fixed-version-motor-operator-3d8e555791",
+      "recordPath": "equipment/mfr-abb-s3-s4-s5-circuit-breaker-fixed-version-motor-operator-3d8e555791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s3-s4-s5-circuit-breaker-fixed-version-motor-operator-3d8e555791.json"
+    },
+    {
+      "id": "mfr-abb-s3-s4-s5-rotary-handle-application-for-fixed-version-circuit-breaker-150018b333",
+      "name": "S3-S4-S5 Rotary handle application for Fixed version Circuit Breaker",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s3-s4-s5-rotary-handle-application-for-fixed-version-circuit-breaker-150018b333",
+      "recordPath": "equipment/mfr-abb-s3-s4-s5-rotary-handle-application-for-fixed-version-circuit-breaker-150018b333.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s3-s4-s5-rotary-handle-application-for-fixed-version-circuit-breaker-150018b333.json"
+    },
+    {
+      "id": "mfr-abb-s3x-interlock-for-side-mounted-breakers-9336049191",
+      "name": "S3X interlock for side mounted breakers",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s3x-interlock-for-side-mounted-breakers-9336049191",
+      "recordPath": "equipment/mfr-abb-s3x-interlock-for-side-mounted-breakers-9336049191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s3x-interlock-for-side-mounted-breakers-9336049191.json"
+    },
+    {
+      "id": "mfr-abb-s4x-interlock-between-side-mounted-breakers-337380e44d",
+      "name": "S4X interlock between side-mounted breakers",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s4x-interlock-between-side-mounted-breakers-337380e44d",
+      "recordPath": "equipment/mfr-abb-s4x-interlock-between-side-mounted-breakers-337380e44d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s4x-interlock-between-side-mounted-breakers-337380e44d.json"
+    },
+    {
+      "id": "mfr-abb-sm-mb-5000-6300ip30-e6-2w-5000a-da78c8fa81",
+      "name": "SM MB 5000 6300IP30 E6.2W 5000A",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sm-mb-5000-6300ip30-e6-2w-5000a-da78c8fa81",
+      "recordPath": "equipment/mfr-abb-sm-mb-5000-6300ip30-e6-2w-5000a-da78c8fa81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sm-mb-5000-6300ip30-e6-2w-5000a-da78c8fa81.json"
+    },
+    {
+      "id": "mfr-abb-sm-mb-6300ip30-e6-2w-6300a-e438f688c6",
+      "name": "SM MB 6300IP30 E6.2W 6300A",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sm-mb-6300ip30-e6-2w-6300a-e438f688c6",
+      "recordPath": "equipment/mfr-abb-sm-mb-6300ip30-e6-2w-6300a-e438f688c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sm-mb-6300ip30-e6-2w-6300a-e438f688c6.json"
+    },
+    {
+      "id": "mfr-abb-for-200a-enclosed-circuit-breakers-1443e53a10",
+      "name": "for 200A Enclosed Circuit Breakers",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-for-200a-enclosed-circuit-breakers-1443e53a10",
+      "recordPath": "equipment/mfr-abb-for-200a-enclosed-circuit-breakers-1443e53a10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-for-200a-enclosed-circuit-breakers-1443e53a10.json"
+    },
+    {
+      "id": "mfr-abb-for-enclosed-circuit-breakers-031502eaf6",
+      "name": "for Enclosed Circuit Breakers",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-for-enclosed-circuit-breakers-031502eaf6",
+      "recordPath": "equipment/mfr-abb-for-enclosed-circuit-breakers-031502eaf6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-for-enclosed-circuit-breakers-031502eaf6.json"
+    },
+    {
+      "id": "mfr-abb-slim-mcb-980c5a8c44",
+      "name": "slim MCB",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-slim-mcb-980c5a8c44",
+      "recordPath": "equipment/mfr-abb-slim-mcb-980c5a8c44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-slim-mcb-980c5a8c44.json"
+    },
+    {
+      "id": "market-carling-technologies-engineering-sources",
+      "name": "Carling Technologies circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Carling Technologies",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-carling-technologies-engineering-sources",
+      "recordPath": "equipment/market-carling-technologies-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-carling-technologies-engineering-sources.json"
+    },
+    {
+      "id": "market-chint-engineering-sources",
+      "name": "CHINT circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "CHINT",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-chint-engineering-sources",
+      "recordPath": "equipment/market-chint-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-chint-engineering-sources.json"
+    },
+    {
+      "id": "market-delixi-electric-engineering-sources",
+      "name": "Delixi Electric circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Delixi Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-delixi-electric-engineering-sources",
+      "recordPath": "equipment/market-delixi-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-delixi-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-e-t-a-engineering-sources",
+      "name": "E-T-A circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "E-T-A",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-e-t-a-engineering-sources",
+      "recordPath": "equipment/market-e-t-a-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-e-t-a-engineering-sources.json"
+    },
+    {
+      "id": "market-eti-elektroelement-engineering-sources",
+      "name": "ETI Elektroelement circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "ETI Elektroelement",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-eti-elektroelement-engineering-sources",
+      "recordPath": "equipment/market-eti-elektroelement-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-eti-elektroelement-engineering-sources.json"
+    },
+    {
+      "id": "market-katko-engineering-sources",
+      "name": "KATKO circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "KATKO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-katko-engineering-sources",
+      "recordPath": "equipment/market-katko-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-katko-engineering-sources.json"
+    },
+    {
+      "id": "market-lawson-fuses-engineering-sources",
+      "name": "Lawson Fuses circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Lawson Fuses",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-lawson-fuses-engineering-sources",
+      "recordPath": "equipment/market-lawson-fuses-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-lawson-fuses-engineering-sources.json"
+    },
+    {
+      "id": "market-oez-engineering-sources",
+      "name": "OEZ circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "OEZ",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-oez-engineering-sources",
+      "recordPath": "equipment/market-oez-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-oez-engineering-sources.json"
+    },
+    {
+      "id": "market-optifuse-engineering-sources",
+      "name": "OptiFuse circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "OptiFuse",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-optifuse-engineering-sources",
+      "recordPath": "equipment/market-optifuse-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-optifuse-engineering-sources.json"
+    },
+    {
+      "id": "market-schaltbau-engineering-sources",
+      "name": "Schaltbau circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Schaltbau",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-schaltbau-engineering-sources",
+      "recordPath": "equipment/market-schaltbau-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-schaltbau-engineering-sources.json"
+    },
+    {
+      "id": "market-schrack-technik-engineering-sources",
+      "name": "Schrack Technik circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Schrack Technik",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-schrack-technik-engineering-sources",
+      "recordPath": "equipment/market-schrack-technik-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-schrack-technik-engineering-sources.json"
+    },
+    {
+      "id": "market-shihlin-electric-engineering-sources",
+      "name": "Shihlin Electric circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Shihlin Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-shihlin-electric-engineering-sources",
+      "recordPath": "equipment/market-shihlin-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-shihlin-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-techna-international-engineering-sources",
+      "name": "Techna International circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Techna International",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-techna-international-engineering-sources",
+      "recordPath": "equipment/market-techna-international-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-techna-international-engineering-sources.json"
+    },
+    {
+      "id": "market-weg-engineering-sources",
+      "name": "WEG circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "WEG",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-weg-engineering-sources",
+      "recordPath": "equipment/market-weg-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-weg-engineering-sources.json"
+    },
+    {
+      "id": "market-ls-electric-engineering-sources",
+      "name": "LS ELECTRIC circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ls-electric-engineering-sources",
+      "recordPath": "equipment/market-ls-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ls-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-hd-hyundai-electric-engineering-sources",
+      "name": "HD Hyundai Electric circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "HD Hyundai Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-hd-hyundai-electric-engineering-sources",
+      "recordPath": "equipment/market-hd-hyundai-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-hd-hyundai-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-noark-electric-engineering-sources",
+      "name": "NOARK Electric circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "NOARK Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-noark-electric-engineering-sources",
+      "recordPath": "equipment/market-noark-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-noark-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-kraus-naimer-engineering-sources",
+      "name": "Kraus & Naimer circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Kraus & Naimer",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-kraus-naimer-engineering-sources",
+      "recordPath": "equipment/market-kraus-naimer-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-kraus-naimer-engineering-sources.json"
+    },
+    {
+      "id": "market-tavrida-electric-engineering-sources",
+      "name": "Tavrida Electric circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Tavrida Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-tavrida-electric-engineering-sources",
+      "recordPath": "equipment/market-tavrida-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-tavrida-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-ls-electric-susol-vcb-17-5-kv-50-ka-4000-a-h-type-and-ha-cradle",
+      "name": "LS ELECTRIC Susol VCB 17.5 kV 50 kA 4000 A H type and Ha cradle",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ls-electric-susol-vcb-17-5-kv-50-ka-4000-a-h-type-and-ha-cradle",
+      "recordPath": "equipment/market-ls-electric-susol-vcb-17-5-kv-50-ka-4000-a-h-type-and-ha-cradle.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ls-electric-susol-vcb-17-5-kv-50-ka-4000-a-h-type-and-ha-cradle.json"
+    },
+    {
+      "id": "market-ls-electric-susol-vcb-17-5-kv-50-ka-5000-a-p-type",
+      "name": "LS ELECTRIC Susol VCB 17.5 kV 50 kA 5000 A P type",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ls-electric-susol-vcb-17-5-kv-50-ka-5000-a-p-type",
+      "recordPath": "equipment/market-ls-electric-susol-vcb-17-5-kv-50-ka-5000-a-p-type.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ls-electric-susol-vcb-17-5-kv-50-ka-5000-a-p-type.json"
+    },
+    {
+      "id": "market-ls-electric-ul-lis-uds-38l25-40e06-12-disconnect-switch",
+      "name": "LS ELECTRIC UL LIS UDS-38L25/40E06/12 disconnect switch",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ls-electric-ul-lis-uds-38l25-40e06-12-disconnect-switch",
+      "recordPath": "equipment/market-ls-electric-ul-lis-uds-38l25-40e06-12-disconnect-switch.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ls-electric-ul-lis-uds-38l25-40e06-12-disconnect-switch.json"
+    },
+    {
+      "id": "market-ls-electric-ul-lis-uds-38r25-40e06-12-disconnect-switch",
+      "name": "LS ELECTRIC UL LIS UDS-38R25/40E06/12 disconnect switch",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP",
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ls-electric-ul-lis-uds-38r25-40e06-12-disconnect-switch",
+      "recordPath": "equipment/market-ls-electric-ul-lis-uds-38r25-40e06-12-disconnect-switch.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ls-electric-ul-lis-uds-38r25-40e06-12-disconnect-switch.json"
+    },
+    {
+      "id": "market-ls-electric-susol-ul-mccb-ul-891-switchboard-solution",
+      "name": "LS ELECTRIC Susol UL MCCB UL 891 switchboard solution",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ls-electric-susol-ul-mccb-ul-891-switchboard-solution",
+      "recordPath": "equipment/market-ls-electric-susol-ul-mccb-ul-891-switchboard-solution.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ls-electric-susol-ul-mccb-ul-891-switchboard-solution.json"
+    },
+    {
+      "id": "market-hd-hyundai-electric-hgn-air-circuit-breaker-fixed",
+      "name": "HD Hyundai Electric HGN air circuit breaker fixed",
+      "manufacturer": "HD Hyundai Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-hd-hyundai-electric-hgn-air-circuit-breaker-fixed",
+      "recordPath": "equipment/market-hd-hyundai-electric-hgn-air-circuit-breaker-fixed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-hd-hyundai-electric-hgn-air-circuit-breaker-fixed.json"
+    },
+    {
+      "id": "market-hd-hyundai-electric-hgn-air-circuit-breaker-withdrawable",
+      "name": "HD Hyundai Electric HGN air circuit breaker withdrawable",
+      "manufacturer": "HD Hyundai Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-hd-hyundai-electric-hgn-air-circuit-breaker-withdrawable",
+      "recordPath": "equipment/market-hd-hyundai-electric-hgn-air-circuit-breaker-withdrawable.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-hd-hyundai-electric-hgn-air-circuit-breaker-withdrawable.json"
+    },
+    {
+      "id": "market-weg-acw-iec-dw-iec-and-dw-ul-moulded-case-breakers",
+      "name": "WEG ACW_IEC, DW_IEC and DW_UL moulded case breakers",
+      "manufacturer": "WEG",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-weg-acw-iec-dw-iec-and-dw-ul-moulded-case-breakers",
+      "recordPath": "equipment/market-weg-acw-iec-dw-iec-and-dw-ul-moulded-case-breakers.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-weg-acw-iec-dw-iec-and-dw-ul-moulded-case-breakers.json"
+    },
+    {
+      "id": "market-conquer-electronics-engineering-sources",
+      "name": "Conquer Electronics circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "Conquer Electronics",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-conquer-electronics-engineering-sources",
+      "recordPath": "equipment/market-conquer-electronics-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-conquer-electronics-engineering-sources.json"
+    },
+    {
+      "id": "market-setfuse-engineering-sources",
+      "name": "SETFUSE circuit protection and switching catalogue and drawing sources",
+      "manufacturer": "SETFUSE",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-setfuse-engineering-sources",
+      "recordPath": "equipment/market-setfuse-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-setfuse-engineering-sources.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-4p-cb-1e7eb347d0",
+      "name": "140G-G 4P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-4p-cb-1e7eb347d0",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-4p-cb-1e7eb347d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-4p-cb-1e7eb347d0.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtrl-rcbo-c6b6b2e6e2",
+      "name": "NHP DTRL RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtrl-rcbo-c6b6b2e6e2",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtrl-rcbo-c6b6b2e6e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtrl-rcbo-c6b6b2e6e2.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtrs-rcbo-a7254fdf73",
+      "name": "NHP DTRS RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtrs-rcbo-a7254fdf73",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtrs-rcbo-a7254fdf73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtrs-rcbo-a7254fdf73.json"
+    },
+    {
+      "id": "mfr-terasaki-mccb-tbpro-a250-3p-c2cea57183",
+      "name": "MCCB TBPRO A250 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-mccb-tbpro-a250-3p-c2cea57183",
+      "recordPath": "equipment/mfr-terasaki-mccb-tbpro-a250-3p-c2cea57183.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-mccb-tbpro-a250-3p-c2cea57183.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-ep4-4574c6c989",
+      "name": "140G-G EP4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-ep4-4574c6c989",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-ep4-4574c6c989.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-ep4-4574c6c989.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtrt-rcbo-b0e7af08b4",
+      "name": "NHP DTRT RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtrt-rcbo-b0e7af08b4",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtrt-rcbo-b0e7af08b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtrt-rcbo-b0e7af08b4.json"
+    },
+    {
+      "id": "mfr-terasaki-mccb-tbpro-p250-3p-8176a358ed",
+      "name": "MCCB TBPRO P250 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-mccb-tbpro-p250-3p-8176a358ed",
+      "recordPath": "equipment/mfr-terasaki-mccb-tbpro-p250-3p-8176a358ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-mccb-tbpro-p250-3p-8176a358ed.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-exs4-15f9dc325d",
+      "name": "140G-G EXS4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-exs4-15f9dc325d",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-exs4-15f9dc325d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-exs4-15f9dc325d.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtrtn-rcbo-87c19f8d2b",
+      "name": "NHP DTRTN RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtrtn-rcbo-87c19f8d2b",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtrtn-rcbo-87c19f8d2b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtrtn-rcbo-87c19f8d2b.json"
+    },
+    {
+      "id": "mfr-terasaki-mccb-tbpro-p400-3p-b28c866568",
+      "name": "MCCB TBPRO P400 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-mccb-tbpro-p400-3p-b28c866568",
+      "recordPath": "equipment/mfr-terasaki-mccb-tbpro-p400-3p-b28c866568.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-mccb-tbpro-p400-3p-b28c866568.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-ext4-cfbe9a3df5",
+      "name": "140G-G EXT4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-ext4-cfbe9a3df5",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-ext4-cfbe9a3df5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-ext4-cfbe9a3df5.json"
+    },
+    {
+      "id": "mfr-nhp-din-t-nhp-dtrtnn-rcbo-5249019d7c",
+      "name": "NHP DTRTNN RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-din-t-nhp-dtrtnn-rcbo-5249019d7c",
+      "recordPath": "equipment/mfr-nhp-din-t-nhp-dtrtnn-rcbo-5249019d7c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-din-t-nhp-dtrtnn-rcbo-5249019d7c.json"
+    },
+    {
+      "id": "mfr-terasaki-mccb-tbpro-p630-3p-without-extension-tags-05c4cf1a03",
+      "name": "MCCB TBPRO P630 3P Without Extension Tags",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-mccb-tbpro-p630-3p-without-extension-tags-05c4cf1a03",
+      "recordPath": "equipment/mfr-terasaki-mccb-tbpro-p630-3p-without-extension-tags-05c4cf1a03.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-mccb-tbpro-p630-3p-without-extension-tags-05c4cf1a03.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-mtl64-67c0bd573b",
+      "name": "140G-G MTL64",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-mtl64-67c0bd573b",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-mtl64-67c0bd573b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-mtl64-67c0bd573b.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-sprecher-and-schuh-motor-protection-circuit-breakers-kt7-3c4c35053d",
+      "name": "Sprecher and Schuh Motor Protection Circuit Breakers KT7",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-sprecher-and-schuh-motor-protection-circuit-breakers-kt7-3c4c35053d",
+      "recordPath": "equipment/mfr-sprecher-schuh-sprecher-and-schuh-motor-protection-circuit-breakers-kt7-3c4c35053d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-sprecher-and-schuh-motor-protection-circuit-breakers-kt7-3c4c35053d.json"
+    },
+    {
+      "id": "mfr-terasaki-mccb-tbpro-p630-4p-without-extension-tags-1edbe1b5ac",
+      "name": "MCCB TBPRO P630 4P Without Extension Tags",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-mccb-tbpro-p630-4p-without-extension-tags-1edbe1b5ac",
+      "recordPath": "equipment/mfr-terasaki-mccb-tbpro-p630-4p-without-extension-tags-1edbe1b5ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-mccb-tbpro-p630-4p-without-extension-tags-1edbe1b5ac.json"
+    },
+    {
+      "id": "mfr-nhp-iso-c-10-50a-rcd-6649a41a96",
+      "name": "C 10 50A RCD",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-c-10-50a-rcd-6649a41a96",
+      "recordPath": "equipment/mfr-nhp-iso-c-10-50a-rcd-6649a41a96.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-c-10-50a-rcd-6649a41a96.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-pb4h-a75c164ac9",
+      "name": "140G-G PB4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-pb4h-a75c164ac9",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-pb4h-a75c164ac9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-pb4h-a75c164ac9.json"
+    },
+    {
+      "id": "mfr-nhp-iso-c-10-50a-rcd-vh-cdc4cd0b1a",
+      "name": "C 10 50A RCD VH",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-c-10-50a-rcd-vh-cdc4cd0b1a",
+      "recordPath": "equipment/mfr-nhp-iso-c-10-50a-rcd-vh-cdc4cd0b1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-c-10-50a-rcd-vh-cdc4cd0b1a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-pb4l-2324a37350",
+      "name": "140G-G PB4L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-pb4l-2324a37350",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-pb4l-2324a37350.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-pb4l-2324a37350.json"
+    },
+    {
+      "id": "mfr-terasaki-tbpro-p160-3p-9461ee9582",
+      "name": "TBPRO P160 3P",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tbpro-p160-3p-9461ee9582",
+      "recordPath": "equipment/mfr-terasaki-tbpro-p160-3p-9461ee9582.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tbpro-p160-3p-9461ee9582.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-pb4m-14a2981aec",
+      "name": "140G-G PB4M",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-pb4m-14a2981aec",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-pb4m-14a2981aec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-pb4m-14a2981aec.json"
+    },
+    {
+      "id": "mfr-terasaki-tempower-2-ar-acb-e2f9e93516",
+      "name": "TemPower 2 AR ACB",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tempower-2-ar-acb-e2f9e93516",
+      "recordPath": "equipment/mfr-terasaki-tempower-2-ar-acb-e2f9e93516.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tempower-2-ar-acb-e2f9e93516.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-tc4h-cf17c425f9",
+      "name": "140G-G TC4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-tc4h-cf17c425f9",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-tc4h-cf17c425f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-tc4h-cf17c425f9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-g-tc4l-525c69308a",
+      "name": "140G-G TC4L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-g-tc4l-525c69308a",
+      "recordPath": "equipment/mfr-allen-bradley-140g-g-tc4l-525c69308a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-g-tc4l-525c69308a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-h-4p-cb-7f57a2ec72",
+      "name": "140G-H 4P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-h-4p-cb-7f57a2ec72",
+      "recordPath": "equipment/mfr-allen-bradley-140g-h-4p-cb-7f57a2ec72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-h-4p-cb-7f57a2ec72.json"
+    },
+    {
+      "id": "mfr-terasaki-tembreak-2-mccb-fce2638a34",
+      "name": "Tembreak 2 MCCB",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tembreak-2-mccb-fce2638a34",
+      "recordPath": "equipment/mfr-terasaki-tembreak-2-mccb-fce2638a34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tembreak-2-mccb-fce2638a34.json"
+    },
+    {
+      "id": "mfr-terasaki-tembreak-2-transfer-switches-e90f90f472",
+      "name": "Tembreak 2 Transfer Switches",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tembreak-2-transfer-switches-e90f90f472",
+      "recordPath": "equipment/mfr-terasaki-tembreak-2-transfer-switches-e90f90f472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tembreak-2-transfer-switches-e90f90f472.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-4p-cb-ac6d52e807",
+      "name": "140G-I 4P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-4p-cb-ac6d52e807",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-4p-cb-ac6d52e807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-4p-cb-ac6d52e807.json"
+    },
+    {
+      "id": "mfr-terasaki-tembreak-2-transfer-switches-bts-mts-abcdd158d8",
+      "name": "Tembreak 2 Transfer Switches BTS MTS",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tembreak-2-transfer-switches-bts-mts-abcdd158d8",
+      "recordPath": "equipment/mfr-terasaki-tembreak-2-transfer-switches-bts-mts-abcdd158d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tembreak-2-transfer-switches-bts-mts-abcdd158d8.json"
+    },
+    {
+      "id": "mfr-terasaki-tembreak2-mccb-125-to-630-amp-2d96ad8746",
+      "name": "Tembreak2 MCCB 125 to 630 Amp",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tembreak2-mccb-125-to-630-amp-2d96ad8746",
+      "recordPath": "equipment/mfr-terasaki-tembreak2-mccb-125-to-630-amp-2d96ad8746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tembreak2-mccb-125-to-630-amp-2d96ad8746.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-ecm4-5e7010a7a7",
+      "name": "140G-I ECM4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-ecm4-5e7010a7a7",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-ecm4-5e7010a7a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-ecm4-5e7010a7a7.json"
+    },
+    {
+      "id": "mfr-terasaki-tembreak2-mccb-125a-to-1600a-c47b3e2cd8",
+      "name": "Tembreak2 MCCB 125A to 1600A",
+      "manufacturer": "Terasaki",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-terasaki-tembreak2-mccb-125a-to-1600a-c47b3e2cd8",
+      "recordPath": "equipment/mfr-terasaki-tembreak2-mccb-125a-to-1600a-c47b3e2cd8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-terasaki-tembreak2-mccb-125a-to-1600a-c47b3e2cd8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-ep4-650aa24259",
+      "name": "140G-I EP4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-ep4-650aa24259",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-ep4-650aa24259.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-ep4-650aa24259.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-ext3-080f7fd240",
+      "name": "140G-I EXT3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-ext3-080f7fd240",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-ext3-080f7fd240.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-ext3-080f7fd240.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-ext4-8afd01ef78",
+      "name": "140G-I EXT4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-ext4-8afd01ef78",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-ext4-8afd01ef78.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-ext4-8afd01ef78.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-mtl64-5a9107db39",
+      "name": "140G-I MTL64",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-mtl64-5a9107db39",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-mtl64-5a9107db39.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-mtl64-5a9107db39.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tc4h-430309eab8",
+      "name": "140G-I TC4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tc4h-430309eab8",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tc4h-430309eab8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tc4h-430309eab8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tla14-f155233bff",
+      "name": "140G-I TLA14",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tla14-f155233bff",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tla14-f155233bff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tla14-f155233bff.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tla1a4-77e87cc8ef",
+      "name": "140G-I TLA1A4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tla1a4-77e87cc8ef",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tla1a4-77e87cc8ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tla1a4-77e87cc8ef.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-i-tlc14-582ad0e349",
+      "name": "140G-I TLC14",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-i-tlc14-582ad0e349",
+      "recordPath": "equipment/mfr-allen-bradley-140g-i-tlc14-582ad0e349.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-i-tlc14-582ad0e349.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-ecm4-ae4c8c42e4",
+      "name": "140G-J ECM4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-ecm4-ae4c8c42e4",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-ecm4-ae4c8c42e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-ecm4-ae4c8c42e4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-ep2504-0dc2a275dd",
+      "name": "140G-J EP2504",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-ep2504-0dc2a275dd",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-ep2504-0dc2a275dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-ep2504-0dc2a275dd.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-ep4-795f64e9ab",
+      "name": "140G-J EP4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-ep4-795f64e9ab",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-ep4-795f64e9ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-ep4-795f64e9ab.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-ext3-70a11dbf5b",
+      "name": "140G-J EXT3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-ext3-70a11dbf5b",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-ext3-70a11dbf5b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-ext3-70a11dbf5b.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6md11-2in1-mcb-d722eb3139",
+      "name": "NHP MD6MD11 2in1 MCB",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6md11-2in1-mcb-d722eb3139",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6md11-2in1-mcb-d722eb3139.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6md11-2in1-mcb-d722eb3139.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-ext4-f945261493",
+      "name": "140G-J EXT4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-ext4-f945261493",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-ext4-f945261493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-ext4-f945261493.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8",
+      "name": "NHP MD6R2 RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-mtl64-a2bc2e1543",
+      "name": "140G-J MTL64",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-mtl64-a2bc2e1543",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-mtl64-a2bc2e1543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-mtl64-a2bc2e1543.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6r4-rcbo-04cf55cc82",
+      "name": "NHP MD6R4 RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6r4-rcbo-04cf55cc82",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6r4-rcbo-04cf55cc82.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6r4-rcbo-04cf55cc82.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tc4h-f552af2d8e",
+      "name": "140G-J TC4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tc4h-f552af2d8e",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tc4h-f552af2d8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tc4h-f552af2d8e.json"
+    },
+    {
+      "id": "mfr-nhp-mod6-nhp-md6rt-rcbo-f625f0ef50",
+      "name": "NHP MD6RT RCBO",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6rt-rcbo-f625f0ef50",
+      "recordPath": "equipment/mfr-nhp-mod6-nhp-md6rt-rcbo-f625f0ef50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6rt-rcbo-f625f0ef50.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tla14-ab88702ba8",
+      "name": "140G-J TLA14",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tla14-ab88702ba8",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tla14-ab88702ba8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tla14-ab88702ba8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tla1a4-6ee6b7f53b",
+      "name": "140G-J TLA1A4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tla1a4-6ee6b7f53b",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tla1a4-6ee6b7f53b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tla1a4-6ee6b7f53b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tla1b4-8cfd16b9a9",
+      "name": "140G-J TLA1B4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tla1b4-8cfd16b9a9",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tla1b4-8cfd16b9a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tla1b4-8cfd16b9a9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-j-tlc14-260a53e216",
+      "name": "140G-J TLC14",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-j-tlc14-260a53e216",
+      "recordPath": "equipment/mfr-allen-bradley-140g-j-tlc14-260a53e216.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-j-tlc14-260a53e216.json"
+    },
+    {
+      "id": "mfr-schneider-electric-acti9-ic65-rcbo-2p-c-10-40a-30ma-a-rcbo-ac0356039c",
+      "name": "Acti9 iC65 RCBO 2P C 10-40A 30mA A RCBO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-acti9-ic65-rcbo-2p-c-10-40a-30ma-a-rcbo-ac0356039c",
+      "recordPath": "equipment/mfr-schneider-electric-acti9-ic65-rcbo-2p-c-10-40a-30ma-a-rcbo-ac0356039c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-acti9-ic65-rcbo-2p-c-10-40a-30ma-a-rcbo-ac0356039c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-3p-cb-6bbe71f616",
+      "name": "140G-K 3P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-3p-cb-6bbe71f616",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-3p-cb-6bbe71f616.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-3p-cb-6bbe71f616.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-4p-cb-f92c98af5e",
+      "name": "140G-K 4P CB",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-4p-cb-f92c98af5e",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-4p-cb-f92c98af5e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-4p-cb-f92c98af5e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-3-poles-332cf67c10",
+      "name": "Chassis, MasterPact MTZ2 drawout, 4200A, H1/H2 type, 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-3-poles-332cf67c10",
+      "recordPath": "equipment/mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-3-poles-332cf67c10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-3-poles-332cf67c10.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-bp3-45cc175d9b",
+      "name": "140G-K BP3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-bp3-45cc175d9b",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-bp3-45cc175d9b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-bp3-45cc175d9b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-4-poles-45f5af6d8c",
+      "name": "Chassis, MasterPact MTZ2 drawout, 4200A, H1/H2 type, 4 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-4-poles-45f5af6d8c",
+      "recordPath": "equipment/mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-4-poles-45f5af6d8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-chassis-masterpact-mtz2-drawout-4200a-h1-h2-type-4-poles-45f5af6d8c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-ecm4-4b70dab49a",
+      "name": "140G-K ECM4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-ecm4-4b70dab49a",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-ecm4-4b70dab49a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-ecm4-4b70dab49a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-exs3-ea9fc79b8d",
+      "name": "140G-K EXS3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-exs3-ea9fc79b8d",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-exs3-ea9fc79b8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-exs3-ea9fc79b8d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-exs4-27d9b192e4",
+      "name": "140G-K EXS4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-exs4-27d9b192e4",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-exs4-27d9b192e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-exs4-27d9b192e4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-ext3-7075cd32df",
+      "name": "140G-K EXT3",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-ext3-7075cd32df",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-ext3-7075cd32df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-ext3-7075cd32df.json"
+    },
+    {
+      "id": "mfr-nhp-iso-so-10-50a-rcd-990487c857",
+      "name": "SO 10 50A RCD",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-iso-so-10-50a-rcd-990487c857",
+      "recordPath": "equipment/mfr-nhp-iso-so-10-50a-rcd-990487c857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-iso-so-10-50a-rcd-990487c857.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-ext4-83c1b7362c",
+      "name": "140G-K EXT4",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-ext4-83c1b7362c",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-ext4-83c1b7362c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-ext4-83c1b7362c.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-mtl63-f99ec43ba3",
+      "name": "140G-K MTL63",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-mtl63-f99ec43ba3",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-mtl63-f99ec43ba3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-mtl63-f99ec43ba3.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-mtl64-b5c338ad92",
+      "name": "140G-K MTL64",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-mtl64-b5c338ad92",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-mtl64-b5c338ad92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-mtl64-b5c338ad92.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-nvm12-24226a7cb4",
+      "name": "140G-K NVM12",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-nvm12-24226a7cb4",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-nvm12-24226a7cb4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-nvm12-24226a7cb4.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-pb3h-eb76986914",
+      "name": "140G-K PB3H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-pb3h-eb76986914",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-pb3h-eb76986914.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-pb3h-eb76986914.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-pb3l-b0b1ad7b27",
+      "name": "140G-K PB3L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-pb3l-b0b1ad7b27",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-pb3l-b0b1ad7b27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-pb3l-b0b1ad7b27.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-pb4h-0c564f770f",
+      "name": "140G-K PB4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-pb4h-0c564f770f",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-pb4h-0c564f770f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-pb4h-0c564f770f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-pb4l-e39956dfa8",
+      "name": "140G-K PB4L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-pb4l-e39956dfa8",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-pb4l-e39956dfa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-pb4l-e39956dfa8.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-tc3h-432006ff02",
+      "name": "140G-K TC3H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-tc3h-432006ff02",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-tc3h-432006ff02.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-tc3h-432006ff02.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-tc3l-891c38bc5d",
+      "name": "140G-K TC3L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-tc3l-891c38bc5d",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-tc3l-891c38bc5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-tc3l-891c38bc5d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-tc4h-fc850e5bbe",
+      "name": "140G-K TC4H",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-tc4h-fc850e5bbe",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-tc4h-fc850e5bbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-tc4h-fc850e5bbe.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-tc4l-a61cd35d1f",
+      "name": "140G-K TC4L",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-tc4l-a61cd35d1f",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-tc4l-a61cd35d1f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-tc4l-a61cd35d1f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-140g-k-tla13-91702f979c",
+      "name": "140G-K TLA13",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-140g-k-tla13-91702f979c",
+      "recordPath": "equipment/mfr-allen-bradley-140g-k-tla13-91702f979c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-140g-k-tla13-91702f979c.json"
+    }
+  ]
+}

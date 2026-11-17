@@ -25,6 +25,7 @@ The supplied configuration is “E6.3 6300A 4p FS W IEC”. Keep those frame, mo
 - Manufacturer drawing: 1SDH002443A1060
 - Manufacturer reference: 1SDH002443A1060
 - Document revision: A
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

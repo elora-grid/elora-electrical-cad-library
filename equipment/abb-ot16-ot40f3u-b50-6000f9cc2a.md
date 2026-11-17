@@ -25,6 +25,7 @@ The supplied configuration is “OT16...OT40F3U/B50”. Keep those frame, mounti
 - Manufacturer drawing: 1SCC307684F0001; OT16-40F3U\_B50.STP
 - Manufacturer reference: 1SCC307684F0001; OT16-40F3U\_B50.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DXF, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

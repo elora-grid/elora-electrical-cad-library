@@ -8,7 +8,7 @@ ABB OT63...OT80F3U: switching-equipment reference for switch installation and op
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307721F0001; OT63-80F3U.STP
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “OT63...OT80F3U”. Keep those frame, mounting a
 - Manufacturer drawing: 1SCC307721F0001; OT63-80F3U.STP
 - Manufacturer reference: 1SCC307721F0001; OT63-80F3U.STP
 - Document revision: A
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Standards: IEC 60947-3
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,6 +98,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307721F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 6141027 bytes
 - Delivery SHA-256: a861823b9968a84c5e73c79a7818e9c8e5206fd77e408d031b6cfb6b9adf33da
+
+### OT63\_80F3U\_1SCC307721F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (OT63\_80F3U\_1SCC307721F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307721F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot63-ot80f3u-3cdb756c1d/a861823b9968a84c5e73-dxf)
+- Redistribution: unknown
+- Original SHA-256: a861823b9968a84c5e73c79a7818e9c8e5206fd77e408d031b6cfb6b9adf33da
+- Original bytes: 6141027
+- Revision: A
+- Retrieved: 2026-11-04T01:08:32Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307721F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307721F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 39858826 bytes
+- Delivery SHA-256: 13be2ed1529ebfe059b49294d8076ec5728831431d9aee85084fb1dfe4fe0cc4
 
 ### OT63\_80F3U.stp
 

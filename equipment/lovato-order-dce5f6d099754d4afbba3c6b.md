@@ -1,0 +1,102 @@
+# LOVATO Electric — KNP2L02 — Limit switch, hinge operating, side entries, double, metal, with long cylinder, 2NC, slow break
+
+LOVATO Electric KNP2L02 — Limit switch, hinge operating, side entries, double, metal, with long cylinder, 2NC, slow break. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dce5f6d099754d4afbba3c6b) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-dce5f6d099754d4afbba3c6b.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-dce5f6d099754d4afbba3c6b.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: KNP2L02
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: KNP2L02 — Limit switch, hinge operating, side entries, double, metal, with long cylinder, 2NC, slow break
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: KNP2L02
+- Manufacturer reference: KNP2L02
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: KNP2L02 ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+A limit switch changes its contacts when a moving part presses its operating mechanism. It reports that the part has reached a particular position.
+
+Use 2D\_WYKR\_029.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYKR\_029.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_WYKR\_029.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYKR\_029.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric KNP2L02 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for KNP2L02 — Limit switch, hinge operating, side entries, double, metal, with long cylinder, 2NC, slow break?
+
+1 inspected original for LOVATO Electric KNP2L02 — Limit switch, hinge operating, side entries, double, metal, with long cylinder, 2NC, slow break: 2D\_WYKR\_029.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_WYKR\_029.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_WYKR\_029.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric KNP2L02 — Limit switch, hinge operating, side entries, double, metal, with long cylinder, 2NC, slow break: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-dce5f6d099754d4afbba3c6b/native-254c95deacda3f55467b0be2-dxf?asset=254c95deacda3f55467b0be2afcd1be922541a2ed863b94299af3904b8d57f75)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dce5f6d099754d4afbba3c6b). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_WYKR\_029.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-dce5f6d099754d4afbba3c6b/native-254c95deacda3f55467b0be2-dxf)
+- Redistribution: unknown
+- Original SHA-256: 254c95deacda3f55467b0be2afcd1be922541a2ed863b94299af3904b8d57f75
+- Original bytes: 270026
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 33767 bytes
+- Delivery SHA-256: f101557159a8d75051a9f8cd25a03e254e8164e81368144ff87d4c0722510371
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

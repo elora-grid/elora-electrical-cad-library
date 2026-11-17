@@ -25,6 +25,7 @@ Manufacturer reference ie-150-engine-drive-data-sheet-4921240685-it.pdf; ie-150-
 - Manufacturer drawing: ie-150-engine-drive-data-sheet-4921240685-it.pdf; ie-150-generator-mains-btb-data-sheet-4921240687-cn.pdf; ie-150-2d-cad-drawing.dwg
 - Manufacturer reference: ie-150-engine-drive-data-sheet-4921240685-it.pdf; ie-150-generator-mains-btb-data-sheet-4921240687-cn.pdf; ie-150-2d-cad-drawing.dwg; ie-150-3d-step-file.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-27, IEC 60255-26, IEC 60255-1, IEC 60529, UL 6200
 - Listed file formats: DWG, PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

@@ -8,7 +8,7 @@ ABB 10LYT004\_34.48: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYT004\_34.48; 10LYT004
-- Formats: DWG, PDF, SLDPRT
+- Formats: DWG, PDF, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -27,8 +27,8 @@ The supplied configuration is “10LYT004\_34.48”. Keep those frame, mounting 
 - Manufacturer reference: 10LYT004\_34.48; 10LYT004
 - Document revision: B
 - Manufacturer reference: 10LYT004
-- Listed file formats: DWG, PDF, SLDPRT
-- Listed files: 3
+- Listed file formats: DWG, PDF, SLDPRT, DXF
+- Listed files: 4
 - Available previews: 2 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -105,6 +105,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 3545229 bytes
 - Delivery SHA-256: f1431a09fef6fac64611d40a6fb2f2dc8f3bdf72cb23cdfb563574fe79387386
+
+### 10LYT004\_34.48.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYT004\_34.48.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyt004-34-48-dwg-2d-autocad-dwg-2000-daf2e25e37/f1431a09fef6fac64611-dxf)
+- Redistribution: unknown
+- Original SHA-256: f1431a09fef6fac64611d40a6fb2f2dc8f3bdf72cb23cdfb563574fe79387386
+- Original bytes: 3545229
+- Revision: B
+- Retrieved: 2026-11-04T01:05:17Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYT004_34.48&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 10861182 bytes
+- Delivery SHA-256: 620d4abb0dedc684a49c621f608564b7eb7080d445b63e4d280812e7a2c68f1a
 
 ### 10LYT004.pdf
 

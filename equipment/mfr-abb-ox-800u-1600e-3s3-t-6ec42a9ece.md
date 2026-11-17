@@ -1,0 +1,111 @@
+# ABB — OX 800U-1600E 3S3 T
+
+ABB OX 800U-1600E 3S3 T: original STEP for switching or transfer equipment layouts. Automatic Transfer Switches TruONE, OX\_800U-1600E\_3S3\_T\_, stp-file, 3D.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ox-800u-1600e-3s3-t-6ec42a9ece) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ox-800u-1600e-3s3-t-6ec42a9ece.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ox-800u-1600e-3s3-t-6ec42a9ece.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Automatic Transfer Switches TruONE, OX\_800U-1600E\_3S3\_T\_, stp-file, 3D
+
+## Equipment and file summary
+
+- Equipment / resource: OX 800U-1600E 3S3 T
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: Automatic Transfer Switches TruONE, OX\_800U-1600E\_3S3\_T\_, stp-file, 3D
+- Manufacturer drawing identity: OX 800U-1600E 3S3 T
+- Source document: OX\_800U-1600E\_3S3\_T\_.STP; revision A
+- Source-model envelope: 712 × 358.4 × 210 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: Automatic Transfer Switches TruONE, OX\_800U-1600E\_3S3\_T\_, stp-file, 3D ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OX 800U-1600E 3S3 T ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: OX\_800U-1600E\_3S3\_T\_.STP; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 712 × 358.4 × 210 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use OX\_800U-1600E\_3S3\_T\_.STP.stp (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OX\_800U-1600E\_3S3\_T\_.STP.stp.
+
+Use OX\_800U-1600E\_3S3\_T\_.STP.stp (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OX\_800U-1600E\_3S3\_T\_.STP.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: Automatic Transfer Switches TruONE, OX\_800U-1600E\_3S3\_T\_, stp-file, 3D
+- The supplied model has approximate X × Y × Z bounds of 712 × 358.4 × 210 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: OX\_800U-1600E\_3S3\_T\_.STP.stp — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OX 800U-1600E 3S3 T?
+
+1 inspected original for ABB OX 800U-1600E 3S3 T: OX\_800U-1600E\_3S3\_T\_.STP.stp (STEP). The manufacturer describes this configuration as Automatic Transfer Switches TruONE, OX\_800U-1600E\_3S3\_T\_, stp-file, 3D.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=OX\_800U-1600E\_3S3\_T\_.STP&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use OX\_800U-1600E\_3S3\_T\_.STP.stp (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OX\_800U-1600E\_3S3\_T\_.STP.stp.
+
+## Preview
+
+![ABB OX 800U-1600E 3S3 T: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-ox-800u-1600e-3s3-t-6ec42a9ece/abb-5ed7d0acb096c2cc430a?asset=accb4fc4f6aae1898db03d4caedf93ed39adcfd74304c1e7f5e741a1b581065e&view=thumb&v=238f5a8bc5afcc60)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ox-800u-1600e-3s3-t-6ec42a9ece). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OX\_800U-1600E\_3S3\_T\_.STP.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ox-800u-1600e-3s3-t-6ec42a9ece/abb-5ed7d0acb096c2cc430a)
+- Redistribution: unknown
+- Original SHA-256: accb4fc4f6aae1898db03d4caedf93ed39adcfd74304c1e7f5e741a1b581065e
+- Original bytes: 2996416
+- Revision: A
+- Retrieved: 2026-11-11T06:26:27.228138+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_800U-1600E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 625592 bytes
+- Delivery SHA-256: 795d7a2277f7c40d413a0bb67aab3a611e8ad80bd67805c366ec65780c7651ee
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

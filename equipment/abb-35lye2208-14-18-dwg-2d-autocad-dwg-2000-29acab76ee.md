@@ -8,7 +8,7 @@ ABB 35LYE2208\_14.18: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYE2208\_14.18; 35LYE2208
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -30,8 +30,8 @@ The supplied configuration is “35LYE2208\_14.18”. Keep those frame, mounting
 - Manufacturer reference: 35LYE2208\_13.31; 35LYE2208
 - Manufacturer reference: 35LYE2208
 - Manufacturer reference: 35LYE2208\_13.28; 35LYE2208
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 7
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 9
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
@@ -121,6 +121,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 668189 bytes
 - Delivery SHA-256: 3ffc2aa01d2f2fe3d28388459660d60815f6ede5942cfbfcb551e52e6f4411b9
 
+### 35LYE2208\_14.18.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2208\_14.18.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_14.18&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2208-14-18-dwg-2d-autocad-dwg-2000-29acab76ee/3ffc2aa01d2f2fe3d283-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3ffc2aa01d2f2fe3d28388459660d60815f6ede5942cfbfcb551e52e6f4411b9
+- Original bytes: 668189
+- Revision: F
+- Retrieved: 2026-11-04T00:59:49Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_14.18&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_14.18&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 1353830 bytes
+- Delivery SHA-256: 0a5e9b86af93262a90bddb3c0d139f7c84ad474ddb0c3dbd059e33d3667c6878
+
 ### 35LYE2208.pdf
 
 - Format: PDF
@@ -177,6 +196,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_13.31&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; DWG; 669215 bytes
 - Delivery SHA-256: e3a8d187cd9807130f1d3d8e7ee856d499c5d33d6bed66d7adebcbf23619740a
+
+### 35LYE2208\_13.31.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2208\_13.31.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_13.31&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2208-14-18-dwg-2d-autocad-dwg-2000-29acab76ee/e3a8d187cd9807130f1d-dxf)
+- Redistribution: unknown
+- Original SHA-256: e3a8d187cd9807130f1d3d8e7ee856d499c5d33d6bed66d7adebcbf23619740a
+- Original bytes: 669215
+- Revision: F
+- Retrieved: 2026-11-04T00:59:49Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_13.31&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2208_13.31&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 1359671 bytes
+- Delivery SHA-256: 7fb10c0fb6ab329bd98a1474a26b5fbdfe97f5f66c943d485211cd3365e45ccf
 
 ### 35LYE2208\_14.18.sat
 

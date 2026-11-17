@@ -9,7 +9,7 @@ XT6 3p Fixed 800A EF top: ABB manufacturer STEP resource, document 1SDH002065A11
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1193
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT6 3p Fixed 800A EF top; ABB document 1SDH002065A
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1193
 - Model extents (X × Y × Z, mm): 18.5 × 190.0 × 78.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1193&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 203910 bytes
 - Delivery SHA-256: 52371e5922c91d08c04d331938ae03b564a34fc5cb14e4f6f725aa4cf76a4673
+
+### 1SDH002065A1193.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1193.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1193&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-fixed-800a-ef-top-6b710fe0/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 52371e5922c91d08c04d331938ae03b564a34fc5cb14e4f6f725aa4cf76a4673
+- Original bytes: 203910
+- Revision: B
+- Retrieved: 2026-11-03T01:31:03.782839+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1193&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1193&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 90736 bytes
+- Delivery SHA-256: 39eba3c1dac5f99442b16e2faa3c44681b3c20661a0aadc14828381ff4ea9a33
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

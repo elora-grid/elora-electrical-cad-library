@@ -25,6 +25,7 @@ Manufacturer reference lsu-112dg-data-sheet-4921240118-uk.pdf; lsu-112dg-fiche-t
 - Manufacturer drawing: lsu-112dg-data-sheet-4921240118-uk.pdf; lsu-112dg-fiche-technique-4921240345-fr.pdf; fas-has-lsu-3d-step-file.zip
 - Manufacturer reference: lsu-112dg-data-sheet-4921240118-uk.pdf; lsu-112dg-fiche-technique-4921240345-fr.pdf; fas-has-lsu-3d-step-file.zip; lsu-112dg-选型手册-4921240118-中文.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

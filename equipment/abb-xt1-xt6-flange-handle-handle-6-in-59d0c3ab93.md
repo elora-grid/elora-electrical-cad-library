@@ -8,7 +8,7 @@ ABB XT1...XT6 Flange Handle - Handle 6 IN: breaker or breaker-accessory referenc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A2092
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT1...XT6 Flange Handle - Handle 6 IN”. Keep 
 - Manufacturer reference: 1SDH002065A2092
 - Document revision: A
 - Model envelope: 1SDH002065A2092.stp: 186.6 × 293.6 × 94.9 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2092&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 4698577 bytes
 - Delivery SHA-256: d47b37ba37f3aa9dea8d7767e952e7670cbb496d7ed06dba34f862274d146154
+
+### 1SDH002065A2092.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A2092.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2092&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-xt6-flange-handle-handle-6-in-59d0c3ab93/d47b37ba37f3aa9dea8d-dxf)
+- Redistribution: unknown
+- Original SHA-256: d47b37ba37f3aa9dea8d7767e952e7670cbb496d7ed06dba34f862274d146154
+- Original bytes: 4698577
+- Revision: A
+- Retrieved: 2026-11-03T02:08:01.265286Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2092&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2092&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 726004 bytes
+- Delivery SHA-256: 0edd9baec48380cd646024f8d271a5520110272278c23b49671652d5c373fd2f
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -8,7 +8,7 @@ ABB Drawing (.DWG) AM/S12.1: instrumentation or control-connection reference for
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK2017-106865
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ Manufacturer reference 9AKK2017-106865 identifies this instrumentation or contro
 - Manufacturer drawing: 9AKK2017-106865
 - Manufacturer reference: 9AKK2017-106865
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -95,5 +95,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK2017-106865&LanguageCode=da&LanguageCode=de&LanguageCode=en&LanguageCode=es&LanguageCode=fi&LanguageCode=fr&LanguageCode=it&LanguageCode=nl&LanguageCode=no&LanguageCode=pl&LanguageCode=pt&LanguageCode=ru&LanguageCode=sv&LanguageCode=zh&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 150875 bytes
 - Delivery SHA-256: afe4cd46fdc0e854b9b8aa0e95dda85dbc156f80b292a6f1b85074a6c84641b4
+
+### AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK2017-106865&LanguageCode=da&LanguageCode=de&LanguageCode=en&LanguageCode=es&LanguageCode=fi&LanguageCode=fr&LanguageCode=it&LanguageCode=nl&LanguageCode=no&LanguageCode=pl&LanguageCode=pt&LanguageCode=ru&LanguageCode=sv&LanguageCode=zh&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-cad-drawing-dwg-am-s12-1-3d123f36f3/afe4cd46fdc0e854b9b8-dxf)
+- Redistribution: unknown
+- Original SHA-256: afe4cd46fdc0e854b9b8aa0e95dda85dbc156f80b292a6f1b85074a6c84641b4
+- Original bytes: 150875
+- Revision: A
+- Retrieved: 2026-11-04T00:57:30Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK2017-106865&LanguageCode=da&LanguageCode=de&LanguageCode=en&LanguageCode=es&LanguageCode=fi&LanguageCode=fr&LanguageCode=it&LanguageCode=nl&LanguageCode=no&LanguageCode=pl&LanguageCode=pt&LanguageCode=ru&LanguageCode=sv&LanguageCode=zh&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK2017-106865&LanguageCode=da&LanguageCode=de&LanguageCode=en&LanguageCode=es&LanguageCode=fi&LanguageCode=fr&LanguageCode=it&LanguageCode=nl&LanguageCode=no&LanguageCode=pl&LanguageCode=pt&LanguageCode=ru&LanguageCode=sv&LanguageCode=zh&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 181199 bytes
+- Delivery SHA-256: e7e7dccb1f514e0ebf48139ed6f4293001c88e5d8134c6832c42d62532ec9cfa
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

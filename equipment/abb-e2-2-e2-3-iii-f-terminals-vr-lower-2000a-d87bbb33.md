@@ -9,7 +9,7 @@ E2.2/E2.3 III F TERMINALS VR LOWER 2000A: ABB manufacturer STEP resource, docume
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0100
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E2.2/E2.3 III F TERMINALS VR LOWER 2000A; ABB docu
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0100
 - Model extents (X × Y × Z, mm): 230.0 × 56.4 × 60.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0100&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 532358 bytes
 - Delivery SHA-256: 22bf395ed6b5e000de29965edc93157042835e784701c85b387fff0bee6e2d82
+
+### 1SDH001252R0100\_1PA\_001\_01\_E2.2\_III\_F\_TERMINALS\_VR\_LOWER\_2000A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0100\_1PA\_001\_01\_E2.2\_III\_F\_TERMINALS\_VR\_LOWER\_2000A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0100&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iii-f-terminals-vr-lower-2000a-d87bbb33/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 22bf395ed6b5e000de29965edc93157042835e784701c85b387fff0bee6e2d82
+- Original bytes: 532358
+- Revision: A
+- Retrieved: 2026-11-03T01:36:27.556760+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0100&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0100&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 135683 bytes
+- Delivery SHA-256: a92d93345e279695c3a339c150d591abece26ff2274384842acaa8a87f43b0fb
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

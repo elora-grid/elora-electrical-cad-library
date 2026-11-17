@@ -8,7 +8,7 @@ ABB E2.2/E9 IV F: breaker or breaker-accessory reference for breaker compartment
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0302
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,9 @@ The supplied configuration is “E2.2/E9 IV F”. Keep those frame, mounting and
 - Manufacturer reference: 1SDH001336R0302
 - Document revision: B
 - Model envelope: 1SDH001336R0302.stp: 422 × 409 × 371 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Standards: IEC 60947, IEC 61000
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0302&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 3669393 bytes
 - Delivery SHA-256: 0596632f18eb26001ded2fcc35058014a433ba60c1b9f961f74f9eac456cc8c4
+
+### 1SDH001336R0302.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0302.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0302&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e9-iv-f-50cf8afb45/0596632f18eb26001ded-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0596632f18eb26001ded2fcc35058014a433ba60c1b9f961f74f9eac456cc8c4
+- Original bytes: 3669393
+- Revision: B
+- Retrieved: 2026-11-03T02:01:57.114616Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0302&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0302&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 911916 bytes
+- Delivery SHA-256: d6b6a8f2662e2f01a545557fc1b81e9724b4c591155a59e40c0085b40a46f571
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

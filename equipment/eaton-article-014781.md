@@ -1,0 +1,99 @@
+# Eaton — T0-5-8252/E — Step switch, 20 A, Flush mounting, 5 contact unit(s), Contacts: 10, Maintained, 1-5, Design: 8252
+
+Eaton T0-5-8252/E — Step switch, 20 A, Flush mounting, 5 contact unit(s), Contacts: 10, Maintained, 1-5, Design: 8252. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-014781) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-014781.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-014781.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/07afcf1b-6449-43bc-a915-c854a94c3b03/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 014781
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: T0-5-8252/E — Step switch, 20 A, Flush mounting, 5 contact unit(s), Contacts: 10, Maintained, 1-5, Design: 8252
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 014781
+- Manufacturer reference: 014781
+- Manufacturer type: T0-5-8252/E
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 014781 ([source](https://ecat.eaton.com/downloads/07afcf1b-6449-43bc-a915-c854a94c3b03/cad_files_001.zip))
+- Manufacturer type: T0-5-8252/E ([source](https://ecat.eaton.com/downloads/07afcf1b-6449-43bc-a915-c854a94c3b03/cad_files_001.zip))
+- Available native formats: STEP ([source](https://ecat.eaton.com/downloads/07afcf1b-6449-43bc-a915-c854a94c3b03/cad_files_001.zip))
+
+## What the equipment does
+
+A switch changes an electrical connection when a person or mechanism operates it. Its contacts determine which control paths are made or broken.
+
+Use t0\_5\_e.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified t0\_5\_e.stp.
+
+Use t0\_5\_e.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified t0\_5\_e.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 014781 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for T0-5-8252/E — Step switch, 20 A, Flush mounting, 5 contact unit(s), Contacts: 10, Maintained, 1-5, Design: 8252?
+
+1 inspected original for Eaton T0-5-8252/E — Step switch, 20 A, Flush mounting, 5 contact unit(s), Contacts: 10, Maintained, 1-5, Design: 8252: t0\_5\_e.stp (STEP).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/07afcf1b-6449-43bc-a915-c854a94c3b03/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/07afcf1b-6449-43bc-a915-c854a94c3b03/cad_files_001.zip)
+
+## Choosing a file
+
+Use t0\_5\_e.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified t0\_5\_e.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### t0\_5\_e.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/t0_5_e.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-014781/native-38e85edb30a5ce77f1ec2138-step)
+- Redistribution: unknown
+- Original SHA-256: 38e85edb30a5ce77f1ec21388262fb399ee346a7368f3f7da9a752f3b383db6e
+- Original bytes: 2222142
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/t0_5_e.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/t0_5_e.stp)
+- Delivery: source-bundle; ZIP; 277851 bytes
+- Delivery SHA-256: 43ecf8d553f79185d418443c6cc2e021e3b2ff7539f1636ad58a7c5b095ac4c6
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

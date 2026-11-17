@@ -2,9 +2,13 @@
 
 Use this catalogue to find official electrical CAD/BIM sources and downloadable files. The canonical service is https://eloragrid.ai/tools/cad-library.
 
+## API and MCP workflows
+
+Use [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API, skills and configured public MCP. The separate agent-access rollout can lag this snapshot: until discovery and capabilities are available, use the catalogue API. [API and download-policy guide](api.md) · [MCP connection steps](mcp.md). Public originals are anonymous after that rollout; reviewed exclusive conversions require a free verified CAD account and separately scoped consent. Use the artifact’s current policy, not an assumed global permission.
+
 ## Start here
 
-1. Read `data/index.json`, choose a category shard from its `categories[].pages[]`, then follow an entry’s `recordPath` or `jsonUrl`. Each shard contains at most 250 compact records. The complete `data/catalogue.json` remains available for local bulk processing; the live full feed redirects to `https://eloragrid.ai/cad-library/catalogue.json`.
+1. Read `data/index.json`, choose a category shard from its `categories[].pages[]`, then follow an entry’s `recordPath` or `jsonUrl`. Each shard contains at most 250 compact records. The complete lossless gzip JSON snapshot `data/catalogue.json.gz` remains available for local bulk processing; the live full feed redirects to `https://eloragrid.ai/cad-library/catalogue.json`.
 2. Search names, manufacturer, part number, equipment, keywords and archive filenames. Narrow by category, format and discovery market. See `docs/api.md` and `openapi.json`.
 3. Inspect the entry's `kind`, exact `partNumber`, configuration notes and individual files before recommending it.
 4. Read `equipmentFacts`, `fileChoiceGuidance` and `plainEnglish` for equipment-specific explanations. Related GA references provide context and may be generic; they do not all represent exact product matches.

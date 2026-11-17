@@ -23,6 +23,7 @@ Manufacturer reference ICON Integrated Communications Optical Network identifies
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: ICON Integrated Communications Optical Network
+- Standards: IEEE 1613
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

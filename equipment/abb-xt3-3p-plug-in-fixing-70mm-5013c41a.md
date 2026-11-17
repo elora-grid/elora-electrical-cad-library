@@ -9,7 +9,7 @@ XT3 3p PLUG-IN FIXING 70mm: ABB manufacturer STEP resource, document 1SDH001295R
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0457
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT3 3p PLUG-IN FIXING 70mm; ABB document 1SDH00129
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0457
 - Model extents (X × Y × Z, mm): 105.0 × 179.2 × 166.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0457&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 392157 bytes
 - Delivery SHA-256: d24bdeda40dd7eec3cebe3772fcc1628cf1e13460ff71d603805a1e573bb4f07
+
+### 1SDH001295R0457\_1PA\_001\_00\_XT3\_3P\_PLUG\_IN\_FIXING\_70MM.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0457\_1PA\_001\_00\_XT3\_3P\_PLUG\_IN\_FIXING\_70MM.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0457&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-3p-plug-in-fixing-70mm-5013c41a/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: d24bdeda40dd7eec3cebe3772fcc1628cf1e13460ff71d603805a1e573bb4f07
+- Original bytes: 392157
+- Revision: A
+- Retrieved: 2026-11-03T01:50:30.683568+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0457&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0457&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 94944 bytes
+- Delivery SHA-256: 3235ca75704a46456c575833969cab876a42cefd455b9ea2d35421332656d916
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

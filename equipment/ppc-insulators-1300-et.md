@@ -32,6 +32,7 @@ Use the 1300 ET column on PDF page 12. The download is the complete catalogue, n
 - Diameter Db (in): 8.7
 - Cantilever Strength, Upright, Pounds: 2050
 - Impulse Withstand, kV: 1300
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

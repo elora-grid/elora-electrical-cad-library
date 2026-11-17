@@ -9,7 +9,7 @@ XT3 3p FIXED FCCuAl 2x150mmq LOW: ABB manufacturer STEP resource, document 1SDH0
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0410
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT3 3p FIXED FCCuAl 2x150mmq LOW; ABB document 1SD
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0410
 - Model extents (X × Y × Z, mm): 98.0 × 53.0 × 71.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0410&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 146255 bytes
 - Delivery SHA-256: d512ef9bbae07b7e1bee3087f383001642cfe1a76a762100a5216f73d092d131
+
+### 1SDH001295R0410\_1PA\_001\_00\_XT3\_3P\_FIXED\_FCCuAl\_2x150mmq\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0410\_1PA\_001\_00\_XT3\_3P\_FIXED\_FCCuAl\_2x150mmq\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0410&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-3p-fixed-fccual-2x150mmq-low-6b324081/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: d512ef9bbae07b7e1bee3087f383001642cfe1a76a762100a5216f73d092d131
+- Original bytes: 146255
+- Revision: A
+- Retrieved: 2026-11-03T01:47:32.668181+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0410&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0410&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 53492 bytes
+- Delivery SHA-256: 8acf86f51b1def3991cdea92f6fec8d610df6282635c9915cd27b3950c3b4b00
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

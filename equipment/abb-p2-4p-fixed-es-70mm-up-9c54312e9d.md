@@ -8,7 +8,7 @@ ABB P2 4p FIXED ES 70mm UP: breaker or breaker-accessory reference for breaker c
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH0020651707
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “P2 4p FIXED ES 70mm UP”. Keep those frame, mo
 - Manufacturer reference: 1SDH0020651707
 - Document revision: A
 - Model envelope: 1SDH0020651707.stp: 165 × 33.2 × 71.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH0020651707&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 2762155 bytes
 - Delivery SHA-256: 6b5ea32796c04894fc50aec215d25c08cfb12beb6d84f6fc642bfeec19a0f89f
+
+### 1SDH0020651707.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH0020651707.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH0020651707&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-p2-4p-fixed-es-70mm-up-9c54312e9d/6b5ea32796c04894fc50-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6b5ea32796c04894fc50aec215d25c08cfb12beb6d84f6fc642bfeec19a0f89f
+- Original bytes: 2762155
+- Revision: A
+- Retrieved: 2026-11-04T01:04:17Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH0020651707&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH0020651707&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 413314 bytes
+- Delivery SHA-256: 3b87b3057edbae3ab6931c498dd851e11980c63bc2a4d072d0af341ed473ba98
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,102 @@
+# LOVATO Electric — ATP0080T4A230C600A — Enclosed automatic transfer switch ATS. Auxiliary supply 230VAC, with four-pole contactors. 80A, 55kVA. 500x400x200mm
+
+LOVATO Electric ATP0080T4A230C600A — Enclosed automatic transfer switch ATS. Auxiliary supply 230VAC, with four-pole contactors. 80A, 55kVA. 500x400x200mm. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-463317dc710b8f76bd19da4d) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-463317dc710b8f76bd19da4d.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-463317dc710b8f76bd19da4d.json) · [Official manufacturer source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: ATP0080T4A230C600A
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ATP0080T4A230C600A — Enclosed automatic transfer switch ATS. Auxiliary supply 230VAC, with four-pole contactors. 80A, 55kVA. 500x400x200mm
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: ATP0080T4A230C600A
+- Manufacturer reference: ATP0080T4A230C600A
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: ATP0080T4A230C600A ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+- Available native formats: DXF ([source](https://www.lovatoelectric.com/us_en/library-for-cad-software/))
+
+## What the equipment does
+
+A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
+
+Use 2D\_REMO\_010.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_REMO\_010.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_REMO\_010.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_REMO\_010.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric ATP0080T4A230C600A and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ATP0080T4A230C600A — Enclosed automatic transfer switch ATS. Auxiliary supply 230VAC, with four-pole contactors. 80A, 55kVA. 500x400x200mm?
+
+1 inspected original for LOVATO Electric ATP0080T4A230C600A — Enclosed automatic transfer switch ATS. Auxiliary supply 230VAC, with four-pole contactors. 80A, 55kVA. 500x400x200mm: 2D\_REMO\_010.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://www.lovatoelectric.com/us\_en/library-for-cad-software/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://www.lovatoelectric.com/us_en/library-for-cad-software/)
+
+## Choosing a file
+
+Use 2D\_REMO\_010.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_REMO\_010.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric ATP0080T4A230C600A — Enclosed automatic transfer switch ATS. Auxiliary supply 230VAC, with four-pole contactors. 80A, 55kVA. 500x400x200mm: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-463317dc710b8f76bd19da4d/native-fb26fcc17eb01339c01dc314-dxf?asset=fb26fcc17eb01339c01dc314bd71cd77dd8c53ed2fe7e2436033b92720d89da1)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-463317dc710b8f76bd19da4d). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_REMO\_010.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-463317dc710b8f76bd19da4d/native-fb26fcc17eb01339c01dc314-dxf)
+- Redistribution: unknown
+- Original SHA-256: fb26fcc17eb01339c01dc314bd71cd77dd8c53ed2fe7e2436033b92720d89da1
+- Original bytes: 329807
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 30408 bytes
+- Delivery SHA-256: dd8e58d85fde3c1e4bb3336f62f6ef7f000dc7a9d28293eb456774f1bb3a0040
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

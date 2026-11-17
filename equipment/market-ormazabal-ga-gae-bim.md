@@ -1,0 +1,109 @@
+# Ormazabal — Ormazabal ga/gae BIM models
+
+Official ga/gae BIM family, with 1 listed archive variant(s).
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/market-ormazabal-ga-gae-bim) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/market-ormazabal-ga-gae-bim.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/market-ormazabal-ga-gae-bim.json) · [Official manufacturer source](https://www.ormazabal.com/en-gb/bim/)
+
+- Category: Switchboards & switchgear
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: PDF, Revit family, Revit project
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-16
+
+The listed original archives were downloaded and integrity checked on 16 November 2026. Links open the manufacturer files. Native models have not been opened in their authoring application or checked dimensionally.
+Match the manufacturer's regional object and selected equipment variant. Global is a discovery tag.
+Compare equipment envelope, bay arrangement, cable entry, installation clearances and object revision. Coordination BIM does not establish fabrication detail.
+
+## Equipment and file summary
+
+- Equipment / resource: Ormazabal ga/gae BIM models
+- Manufacturer: Ormazabal
+- Resource type: Product family
+- Family: ga/gae
+- Archive inventory: 1 original archive(s), 9 member file(s); views and revisions stay together on this family page.
+- Format evidence: PDF, Revit family, Revit project
+- Listed file formats: PDF, Revit family, Revit project
+- Listed files: 1
+- Available previews: Manufacturer source / drawing request
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-16
+- Download access: Use the official manufacturer source or request the exact drawing
+
+## Source-linked technical facts
+
+- Family: ga/gae ([source](https://www.ormazabal.com/en-gb/bim/))
+- Archive inventory: 1 original archive(s), 9 member file(s); views and revisions stay together on this family page. ([source](https://www.ormazabal.com/en-gb/bim/))
+- Format evidence: PDF, Revit family, Revit project ([source](https://www.ormazabal.com/en-gb/bim/))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+For Ormazabal ga/gae, use this source to coordinate the selected assembly with the switchroom floor plan. Choose the exact model before transferring dimensions into the project layout.
+
+Ormazabal ga/gae BIM models: check overall lineup and bay arrangement; cable entry and termination positions; access and maintenance clearances. This page lists 1 original archive route(s). Check the recorded member names to select the matching equipment and revision.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Identify the exact Ormazabal family, model and revision.
+- Check overall lineup and bay arrangement against the selected original.
+- Check cable entry and termination positions against the selected original.
+- Check access and maintenance clearances against the selected original.
+- Confirm dimensional units, regional version and manufacturer installation requirements.
+
+### What is verified on this page?
+
+Ormazabal is the recorded source. This page lists 1 original archive route(s). Check the recorded member names to select the matching equipment and revision.
+
+### Does this cover every manufacturer model?
+
+No. This entry identifies a specific source collection, family or project route. It does not establish full SKU, configuration or regional coverage.
+
+- [Ormazabal official source](https://www.ormazabal.com/en-gb/bim/)
+
+## Choosing a file
+
+Ormazabal ga/gae BIM models: check overall lineup and bay arrangement; cable entry and termination positions; access and maintenance clearances. This page lists 1 original archive route(s). Check the recorded member names to select the matching equipment and revision.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### BIM-Ormazabal-ga-gae.rar
+
+- Format: Revit family / Revit project / PDF archive
+- Purpose: Manufacturer BIM family archive. Check exact bay/option and revision before use.
+- [Official source](https://www.ormazabal.com/wp-content/uploads/2022/11/BIM-Ormazabal-ga-gae.rar)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: 247a6e1c2c1fba4cfd927f311cd8c62b7ce4de7b8dbd0afcf793ac1ee4794dcf
+- Original bytes: 31673388
+- Revision: Not recorded
+- Retrieved: 2026-11-16
+
+<details>
+<summary>Archive members</summary>
+
+- gae 1lsvg5.rfa
+- gae 1m1.rfa
+- gae 1ts.rfa
+- gae.rvt
+- gae 1k-b.rfa
+- gae 1k-g.rfa
+- gae 1lsv5.rfa
+- gae 1lsv6.rfa
+- BIM Components User Guide -gae.pdf
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -8,7 +8,7 @@ ABB OTM3200E3W8: switching-equipment reference for switch installation and opera
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307174F0001
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “OTM3200E3W8”. Keep those frame, mounting and 
 - Manufacturer drawing: 1SCC307174F0001
 - Manufacturer reference: 1SCC307174F0001
 - Document revision: A
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307174F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1944831 bytes
 - Delivery SHA-256: 1f720534e2fc568f2fbe1eeee0489216d79205826d40b5329428c8e50d7a868a
+
+### 1SCC307174F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SCC307174F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307174F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otm3200e3w8-eced4c9baf/1f720534e2fc568f2fbe-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1f720534e2fc568f2fbe1eeee0489216d79205826d40b5329428c8e50d7a868a
+- Original bytes: 1944831
+- Revision: A
+- Retrieved: 2026-11-04T01:02:57Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307174F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307174F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 4113358 bytes
+- Delivery SHA-256: 56de9d631022d0d64936d5f163538daeab78ac2808b23151bc27bbcb708f9711
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -8,7 +8,7 @@ ABB Drawing of OVR T1-T2 3N 20(25)-275s P QS: breaker or breaker-accessory refer
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK108467A1828
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “Drawing of OVR T1-T2 3N 20(25)-275s P QS”. Ke
 - Manufacturer drawing: 9AKK108467A1828
 - Manufacturer reference: 9AKK108467A1828
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A1828&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 30376273 bytes
 - Delivery SHA-256: 012fc483dd89c711afa4c0b8192b737ff9a3f4b1a15bd440e189dd79bb717ec7
+
+### 11.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (11.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A1828&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-drawing-of-ovr-t1-t2-3n-20-25-275s-p-qs-3675a7302f/012fc483dd89c711afa4-dxf)
+- Redistribution: unknown
+- Original SHA-256: 012fc483dd89c711afa4c0b8192b737ff9a3f4b1a15bd440e189dd79bb717ec7
+- Original bytes: 30376273
+- Revision: A
+- Retrieved: 2026-11-04T01:33:49Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A1828&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A1828&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 2191069 bytes
+- Delivery SHA-256: 0795f0f43096da4a1b878c13a51454d314a0ddc02f7ff53f621b59f4c83efb00
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

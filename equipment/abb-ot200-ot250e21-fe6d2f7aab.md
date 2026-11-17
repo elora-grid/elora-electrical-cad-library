@@ -8,7 +8,7 @@ ABB OT200...OT250E21: switching-equipment reference for switch installation and 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307693F0001; OT200-250E21.STP
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,9 @@ The supplied configuration is “OT200...OT250E21”. Keep those frame, mounting
 - Manufacturer drawing: 1SCC307693F0001; OT200-250E21.STP
 - Manufacturer reference: 1SCC307693F0001; OT200-250E21.STP
 - Document revision: A
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Standards: IEC 60947-3
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,6 +98,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307693F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1483771 bytes
 - Delivery SHA-256: bf2a4de8f2352e85d3d4cfffb584c4e530049880158e7b8555e64ece8f45030c
+
+### OT200\_250E21\_1SCC307693F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (OT200\_250E21\_1SCC307693F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307693F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot200-ot250e21-fe6d2f7aab/bf2a4de8f2352e85d3d4-dxf)
+- Redistribution: unknown
+- Original SHA-256: bf2a4de8f2352e85d3d4cfffb584c4e530049880158e7b8555e64ece8f45030c
+- Original bytes: 1483771
+- Revision: A
+- Retrieved: 2026-11-04T01:01:56Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307693F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307693F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 11680070 bytes
+- Delivery SHA-256: d41bc2816e3f27f29d96a7c2e67e6311fa3952572dd07a6d410a323ecb7c79b4
 
 ### OT200\_250E21.stp
 

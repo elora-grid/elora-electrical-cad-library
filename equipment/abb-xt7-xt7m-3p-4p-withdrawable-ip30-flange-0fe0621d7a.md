@@ -8,7 +8,7 @@ ABB XT7-XT7M 3p 4p Withdrawable IP30 Flange: breaker or breaker-accessory refere
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1584
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT7-XT7M 3p 4p Withdrawable IP30 Flange”. Kee
 - Manufacturer reference: 1SDH002065A1584
 - Document revision: A
 - Model envelope: 1SDH002065A1584\_XT7\_XT7M\_3p\_4p\_Withdrawable\_IP30\_Flange.stp: 303.5 × 16.1 × 300.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1584&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 2219096 bytes
 - Delivery SHA-256: 409eb67b4cbc0147dd4d7bcdca879a16cd72bff2be04b431a1aedd690205a761
+
+### 1SDH002065A1584\_XT7\_XT7M\_3p\_4p\_Withdrawable\_IP30\_Flange.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1584\_XT7\_XT7M\_3p\_4p\_Withdrawable\_IP30\_Flange.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1584&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-4p-withdrawable-ip30-flange-0fe0621d7a/409eb67b4cbc0147dd4d-dxf)
+- Redistribution: unknown
+- Original SHA-256: 409eb67b4cbc0147dd4d7bcdca879a16cd72bff2be04b431a1aedd690205a761
+- Original bytes: 2219096
+- Revision: A
+- Retrieved: 2026-11-03T01:57:22.702623Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1584&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1584&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 321368 bytes
+- Delivery SHA-256: 7a8faec19f9bef0c08b1228dad609ec89d96270edf17d25f1c3601754aeefd92
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

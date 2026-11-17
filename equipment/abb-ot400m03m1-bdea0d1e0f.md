@@ -26,6 +26,7 @@ The supplied configuration is “OT400M03M1”. Keep those frame, mounting and a
 - Manufacturer reference: OT400M03M1.STP
 - Document revision: A
 - Model envelope: OT400M03M1.stp: 236.1 × 106.6 × 237 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

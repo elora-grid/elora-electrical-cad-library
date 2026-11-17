@@ -25,6 +25,7 @@ The supplied configuration is “OT800ES03K”. Keep those frame, mounting and a
 - Manufacturer drawing: OT800ES03K.IGS
 - Manufacturer reference: OT800ES03K.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

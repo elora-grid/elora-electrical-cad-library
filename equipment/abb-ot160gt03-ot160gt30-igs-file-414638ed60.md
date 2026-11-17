@@ -25,6 +25,7 @@ The supplied configuration is “OT160GT03\_, OT160GT30”. Keep those frame, mo
 - Manufacturer drawing: OT160GT3\_MODEL.IGS
 - Manufacturer reference: OT160GT3\_MODEL.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

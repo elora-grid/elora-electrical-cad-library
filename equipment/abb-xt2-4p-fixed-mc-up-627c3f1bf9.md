@@ -8,7 +8,7 @@ ABB XT2 4p FIXED MC UP: breaker or breaker-accessory reference for breaker compa
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0295
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -31,8 +31,8 @@ The supplied configuration is “XT2 4p FIXED MC UP”. Keep those frame, mounti
 - Model envelope: 1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.stp: 111.5 × 39 × 44 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0377
 - Model envelope: 1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.stp: 111.5 × 39 × 44 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 3
+- Listed file formats: STEP, DXF
+- Listed files: 6
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -117,6 +117,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 354887 bytes
 - Delivery SHA-256: 564dabf0eaa3f110d23c3f85cda744ce596ca5f480a62ffebe9fc35a7a81911c
 
+### 1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0295\_1PA\_001\_00\_XT2\_4P\_FIXED\_MC\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0295&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-mc-up-627c3f1bf9/564dabf0eaa3f110d23c-dxf)
+- Redistribution: unknown
+- Original SHA-256: 564dabf0eaa3f110d23c3f85cda744ce596ca5f480a62ffebe9fc35a7a81911c
+- Original bytes: 354887
+- Revision: A
+- Retrieved: 2026-11-03T01:50:18.345618Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0295&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0295&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 72679 bytes
+- Delivery SHA-256: 745d645ef4f559f52cb4d109a134ce41ca7489e3b6b225df488e992bd26950dc
+
 ### 1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.stp
 
 - Format: STEP
@@ -136,6 +155,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 355463 bytes
 - Delivery SHA-256: ead475500059ad6c8891a2020150f5a239e9774ad7620d5318a8bbe11bbf3bdf
 
+### 1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0335\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_MC\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0335&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-mc-up-627c3f1bf9/ead475500059ad6c8891-dxf)
+- Redistribution: unknown
+- Original SHA-256: ead475500059ad6c8891a2020150f5a239e9774ad7620d5318a8bbe11bbf3bdf
+- Original bytes: 355463
+- Revision: A
+- Retrieved: 2026-11-03T01:50:20.131987Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0335&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0335&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 76293 bytes
+- Delivery SHA-256: c93682ddcb278cebb1ad63bd355d7289fceec453b17a9044b3298849823727c3
+
 ### 1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.stp
 
 - Format: STEP
@@ -154,5 +192,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0377&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 355473 bytes
 - Delivery SHA-256: 6d771e94a936c79953a84ed3f6e46b09b92359b4aa558b5a3ab58f3160b503bb
+
+### 1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0377\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_MC\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0377&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-mc-up-627c3f1bf9/6d771e94a936c79953a8-dxf)
+- Redistribution: unknown
+- Original SHA-256: 6d771e94a936c79953a84ed3f6e46b09b92359b4aa558b5a3ab58f3160b503bb
+- Original bytes: 355473
+- Revision: A
+- Retrieved: 2026-11-03T01:50:23.318498Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0377&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0377&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 76293 bytes
+- Delivery SHA-256: b2ac5d283b9942ce239dfeb42c3ed3253a6f5963253d26f45052c26d4de84eb2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

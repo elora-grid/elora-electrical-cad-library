@@ -25,6 +25,7 @@ The supplied configuration is “OT63-80F3N1”. Keep those frame, mounting and 
 - Manufacturer drawing: OT63-80F3N1.IGS
 - Manufacturer reference: OT63-80F3N1.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

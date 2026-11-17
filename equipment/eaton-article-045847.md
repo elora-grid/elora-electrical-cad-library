@@ -1,0 +1,124 @@
+# Eaton — TM-4-8213/EZ — Changeover switch, 10 A, center mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 1-0-2, Design number 8213
+
+Eaton TM-4-8213/EZ — Changeover switch, 10 A, center mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 1-0-2, Design number 8213. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-045847) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-045847.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-045847.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/bac5e888-5036-4ef2-9471-ef5d22501549/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 045847
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: TM-4-8213/EZ — Changeover switch, 10 A, center mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 1-0-2, Design number 8213
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 045847
+- Manufacturer reference: 045847
+- Manufacturer type: TM-4-8213/EZ
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 045847 ([source](https://ecat.eaton.com/downloads/bac5e888-5036-4ef2-9471-ef5d22501549/cad_files_001.zip))
+- Manufacturer type: TM-4-8213/EZ ([source](https://ecat.eaton.com/downloads/bac5e888-5036-4ef2-9471-ef5d22501549/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/bac5e888-5036-4ef2-9471-ef5d22501549/cad_files_001.zip))
+
+## What the equipment does
+
+A changeover contact connects a common terminal to one of two paths. Operating it transfers the connection to the other path.
+
+Use tm4\_ez.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified tm4\_ez.stp.
+
+Use tm4\_ez.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified tm4\_ez.stp. Use eaton-cam-switches-mcad-drawings-tm4-ez.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cam-switches-mcad-drawings-tm4-ez.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 045847 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for TM-4-8213/EZ — Changeover switch, 10 A, center mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 1-0-2, Design number 8213?
+
+2 inspected originals for Eaton TM-4-8213/EZ — Changeover switch, 10 A, center mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 1-0-2, Design number 8213: tm4\_ez.stp (STEP); eaton-cam-switches-mcad-drawings-tm4-ez.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/bac5e888-5036-4ef2-9471-ef5d22501549/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/bac5e888-5036-4ef2-9471-ef5d22501549/cad_files_001.zip)
+
+## Choosing a file
+
+Use tm4\_ez.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified tm4\_ez.stp. Use eaton-cam-switches-mcad-drawings-tm4-ez.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cam-switches-mcad-drawings-tm4-ez.dwg.
+
+## Preview
+
+![Eaton TM-4-8213/EZ — Changeover switch, 10 A, center mounting, 4 contact units, Contacts: 8, 60 °, maintained, 0 (Off) position, 1-0-2, Design number 8213: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eaton-article-045847/native-69285c336786254780f4805c-dwg?asset=69285c336786254780f4805c9cb571d6ceed823bdd80e3cbd8a73a6c1fd08c31)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-045847). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### tm4\_ez.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/tm4_ez.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-045847/native-cb823caa4272da94b73b47fc-step)
+- Redistribution: unknown
+- Original SHA-256: cb823caa4272da94b73b47fce0d0af3e92ab01233d50e4bd7d5811acd7388a3d
+- Original bytes: 1232946
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/tm4_ez.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/tm4_ez.stp)
+- Delivery: source-bundle; ZIP; 169160 bytes
+- Delivery SHA-256: 950408e05b901c3c818700a2e93d93571fa9745426bc46b1c06585b94904737c
+
+### eaton-cam-switches-mcad-drawings-tm4-ez.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-tm4-ez.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-045847/native-69285c336786254780f4805c-dwg)
+- Redistribution: unknown
+- Original SHA-256: 69285c336786254780f4805c9cb571d6ceed823bdd80e3cbd8a73a6c1fd08c31
+- Original bytes: 1629952
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-tm4-ez.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-tm4-ez.dwg)
+- Delivery: source-bundle; ZIP; 1495266 bytes
+- Delivery SHA-256: c207b2311bef4f34c155d6e19db8aaf2a0fff8c9b9563150ba7be2b19714950a
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

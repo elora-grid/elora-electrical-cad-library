@@ -1,0 +1,160 @@
+# Weidmüller — EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in
+
+Weidmüller EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0206160000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0206160000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0206160000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/ewk-1/p/0206160000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 0206160000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 0206160000
+- Manufacturer reference: 0206160000
+- Manufacturer type: EWK 1
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 0206160000 ([source](https://eshop.weidmueller.com.cn/en/ewk-1/p/0206160000/downloads#engineering-support))
+- Manufacturer type: EWK 1 ([source](https://eshop.weidmueller.com.cn/en/ewk-1/p/0206160000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/ewk-1/p/0206160000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use 0206160000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 0206160000.stp.
+
+Use 0206160000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 0206160000.stp. 0206160000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0206160000\_back.DXF, 0206160000\_bottom.DXF, 0206160000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in before placing it. 0206160000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0206160000\_back.DWG, 0206160000\_bottom.DWG, 0206160000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 0206160000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in?
+
+3 inspected originals for Weidmüller EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in: 0206160000.stp (STEP); 0206160000\_DXF.zip (ZIP); 0206160000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/ewk-1/p/0206160000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/ewk-1/p/0206160000/downloads#engineering-support)
+
+## Choosing a file
+
+Use 0206160000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 0206160000.stp. 0206160000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0206160000\_back.DXF, 0206160000\_bottom.DXF, 0206160000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in before placing it. 0206160000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0206160000\_back.DWG, 0206160000\_bottom.DWG, 0206160000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to EWK 1 — End bracket for terminal block / End bracket, Wemid, beige, Rail: TS 32, when screwed in before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 0206160000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/6c4d923a-b569-4bea-855c-91996bc8cf9f/original/0206160000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-0206160000/native-2fb5bcc7a38ab5b78c84561e-step)
+- Redistribution: unknown
+- Original SHA-256: 2fb5bcc7a38ab5b78c84561e648544127cec4963b5b0b801976ecdf99099f227
+- Original bytes: 247054
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/6c4d923a-b569-4bea-855c-91996bc8cf9f/original/0206160000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/6c4d923a-b569-4bea-855c-91996bc8cf9f/original/0206160000.stp)
+- Delivery: source-bundle; ZIP; 48504 bytes
+- Delivery SHA-256: 88b7bcd5ac9fe5afd9609be90b9b0dc336b7142d80097c96993c878d17cfcf4c
+
+### 0206160000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/0a635929-f374-44da-bb62-e47da5d0aef4/original/0206160000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-0206160000/native-b666ffad0e9472069f929279-zip)
+- Redistribution: unknown
+- Original SHA-256: b666ffad0e9472069f929279f1050920e015384fd76967c68b272c4530349455
+- Original bytes: 29139
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/0a635929-f374-44da-bb62-e47da5d0aef4/original/0206160000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/0a635929-f374-44da-bb62-e47da5d0aef4/original/0206160000_DXF.zip)
+- Delivery: original; ZIP; 29139 bytes
+- Delivery SHA-256: b666ffad0e9472069f929279f1050920e015384fd76967c68b272c4530349455
+
+<details>
+<summary>Archive members</summary>
+
+- 0206160000\_back.DXF
+- 0206160000\_bottom.DXF
+- 0206160000\_front.DXF
+- 0206160000\_left.DXF
+- 0206160000\_right.DXF
+- 0206160000\_top.DXF
+
+</details>
+
+### 0206160000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/c337e458-e6ee-4aab-af55-ec4362c25490/original/0206160000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-0206160000/native-c96345313e0d8307b0424186-zip)
+- Redistribution: unknown
+- Original SHA-256: c96345313e0d8307b0424186792c1b31a700ca184edc161d4c61cc971721bf9a
+- Original bytes: 35042
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/c337e458-e6ee-4aab-af55-ec4362c25490/original/0206160000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/c337e458-e6ee-4aab-af55-ec4362c25490/original/0206160000_DWG.zip)
+- Delivery: original; ZIP; 35042 bytes
+- Delivery SHA-256: c96345313e0d8307b0424186792c1b31a700ca184edc161d4c61cc971721bf9a
+
+<details>
+<summary>Archive members</summary>
+
+- 0206160000\_back.DWG
+- 0206160000\_bottom.DWG
+- 0206160000\_front.DWG
+- 0206160000\_left.DWG
+- 0206160000\_right.DWG
+- 0206160000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

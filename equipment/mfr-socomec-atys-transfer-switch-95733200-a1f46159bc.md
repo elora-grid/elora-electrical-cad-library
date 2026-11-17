@@ -1,0 +1,150 @@
+# Socomec — ATyS Transfer Switch 95733200
+
+Socomec ATyS Transfer Switch 95733200: original DWG / STEP for switching or transfer equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named ATyS Transfer Switch 95733200.
+
+## Equipment and file summary
+
+- Equipment / resource: ATyS Transfer Switch 95733200
+- Manufacturer: Socomec
+- Resource type: Product
+- Manufacturer drawing identity: ATyS Transfer Switch 95733200
+- Source-model envelope: 595.8 × 431 × 544 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Standards: IEC 60947-6-1, IEC 60947-3, GB 14048.11
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 8 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: ATyS Transfer Switch 95733200 ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 595.8 × 431 × 544 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A transfer arrangement changes which supply feeds a load. Its controls and interlocks determine how the change between sources is made.
+
+Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Its 7 indexed drawing/model members include 95733200\_front.dwg, 95733200\_back.dwg, 95733200\_top.dwg. Open the unmodified archive for its complete contents. Match the member to ATyS Transfer Switch 95733200 before placing it.
+
+Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Its 7 indexed drawing/model members include 95733200\_front.dwg, 95733200\_back.dwg, 95733200\_top.dwg. Open the unmodified archive for its complete contents. Match the member to ATyS Transfer Switch 95733200 before placing it. Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 95733200.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Socomec ATyS Transfer Switch 95733200 and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 595.8 × 431 × 544 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ATyS Transfer Switch 95733200?
+
+2 inspected originals for Socomec ATyS Transfer Switch 95733200: Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip (ZIP); Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip (ZIP).
+
+### Where did these Socomec files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Socomec official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Its 7 indexed drawing/model members include 95733200\_front.dwg, 95733200\_back.dwg, 95733200\_top.dwg. Open the unmodified archive for its complete contents. Match the member to ATyS Transfer Switch 95733200 before placing it. Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 95733200.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Socomec ATyS Transfer Switch 95733200: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc/nhp-170960?asset=af4a082537b9b924231ccfed301771d7bb660af1a1b8702b9439e83f67555ec8&view=thumb&v=f30cc116ffc2c4ae)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc/nhp-170942)
+- Redistribution: unknown
+- Original SHA-256: 25bae4d0d8b50701bd7b6f068a4412baa8be02fc5bfe57efa64b4adf3a7392bc
+- Original bytes: 1332040
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:12:07.322521+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-2D-CAD-Block.zip)
+- Delivery: original; ZIP; 1332040 bytes
+- Delivery SHA-256: 25bae4d0d8b50701bd7b6f068a4412baa8be02fc5bfe57efa64b4adf3a7392bc
+
+<details>
+<summary>Archive members</summary>
+
+- 95733200\_front.dwg
+- 95733200\_back.dwg
+- 95733200\_top.dwg
+- 95733200\_bottom.dwg
+- 95733200\_left.dwg
+- 95733200\_right.dwg
+- 95733200\_iso.dwg
+- 95733200.ini
+- 95733200.txt
+
+</details>
+
+### Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-socomec-atys-transfer-switch-95733200-a1f46159bc/nhp-170960)
+- Redistribution: unknown
+- Original SHA-256: 59b061ff22ffd9cffdccb41ce25e534775d78f51bb4d0729891f4f31f0287f0b
+- Original bytes: 839105
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:02:54.230119+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/Socomec-ATyS-Transfer-Switch-95733200-STEP-CAD-Block.zip)
+- Delivery: original; ZIP; 839105 bytes
+- Delivery SHA-256: 59b061ff22ffd9cffdccb41ce25e534775d78f51bb4d0729891f4f31f0287f0b
+
+<details>
+<summary>Archive members</summary>
+
+- 95733200.stp
+- 95733200.txt
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

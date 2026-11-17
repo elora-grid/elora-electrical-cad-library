@@ -9,7 +9,7 @@ XT2 4p FIXED EXTERNAL TERMINALS UP: ABB manufacturer STEP resource, document 1SD
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0315
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT2 4p FIXED EXTERNAL TERMINALS UP; ABB document 1
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001295R0315
 - Model extents (X × Y × Z, mm): 113.1 × 39.8 × 48.9
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0315&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 124367 bytes
 - Delivery SHA-256: 1684b49bf0de6cb9f7d09bdb1f5568d326b39233fb637c00fefc30133feb372f
+
+### 1SDH001295R0315\_1PA\_001\_00\_XT2\_4P\_FIXED\_TERMINALI\_ESTERNI\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0315\_1PA\_001\_00\_XT2\_4P\_FIXED\_TERMINALI\_ESTERNI\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0315&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-external-terminals-up-e30024da/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1684b49bf0de6cb9f7d09bdb1f5568d326b39233fb637c00fefc30133feb372f
+- Original bytes: 124367
+- Revision: A
+- Retrieved: 2026-11-03T01:47:08.508697+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0315&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0315&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 66437 bytes
+- Delivery SHA-256: 64e9614076935bea6f0b61e30120528747acb6c742b959a5fff94706448123aa
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

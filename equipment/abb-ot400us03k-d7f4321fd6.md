@@ -27,6 +27,7 @@ The supplied configuration is “OT400US03K”. Keep those frame, mounting and a
 - Manufacturer reference: OT400US03K.STP
 - Document revision: A
 - Model envelope: OT400US03K.stp: 220 × 281.2 × 138.9 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3, UL 98, CSA C22.2 No. 4
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

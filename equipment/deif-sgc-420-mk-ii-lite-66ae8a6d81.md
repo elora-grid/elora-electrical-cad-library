@@ -24,6 +24,7 @@ Manufacturer reference SGC 420 Mk II Lite identifies this control-equipment refe
 - Resource type: Product
 - Manufacturer drawing: SGC 420 Mk II Lite
 - Manufacturer lifecycle: Active
+- Standards: IEC 60529, IEC 61000-6-2, UL 6200
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

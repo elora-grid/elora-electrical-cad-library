@@ -1,0 +1,114 @@
+# Steute — RFRXSW917NG4S24VDC
+
+Steute RFRXSW917NG4S24VDC: original STEP for control-panel equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-rfrxsw917ng4s24vdc-6a62770b20) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-steute-rfrxsw917ng4s24vdc-6a62770b20.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-steute-rfrxsw917ng4s24vdc-6a62770b20.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: RFRXSW917NG4S24VDC
+- Installation applications: switchgear, substations, microgrids
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named RFRXSW917NG4S24VDC.
+
+## Equipment and file summary
+
+- Equipment / resource: RFRXSW917NG4S24VDC
+- Manufacturer: Steute
+- Resource type: Product
+- Part number: RFRXSW917NG4S24VDC
+- Manufacturer drawing identity: RFRXSW917NG4S24VDC
+- Source-model envelope: 93.6 × 69.5 × 22.8 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: RFRXSW917NG4S24VDC ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 93.6 × 69.5 × 22.8 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open RF\_Rx\_SW\_4s.stp inside it to place the original solid geometry in your 3D assembly.
+
+Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open RF\_Rx\_SW\_4s.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Steute RFRXSW917NG4S24VDC and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 93.6 × 69.5 × 22.8 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for RFRXSW917NG4S24VDC?
+
+1 inspected original for Steute RFRXSW917NG4S24VDC: Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip (ZIP).
+
+### Where did these Steute files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Steute official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open RF\_Rx\_SW\_4s.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Steute RFRXSW917NG4S24VDC: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-steute-rfrxsw917ng4s24vdc-6a62770b20/nhp-206839?asset=65e8f0aca127b1573290864ce8ab36f934fec95408b00f6808c1ef41c8ce6448&view=thumb&v=2e3d2b6df18691d5)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-rfrxsw917ng4s24vdc-6a62770b20). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-steute-rfrxsw917ng4s24vdc-6a62770b20/nhp-206839)
+- Redistribution: unknown
+- Original SHA-256: 926cb9fa657eca5e0389d5343f181e400d3b749504294680605ee5f9f0135250
+- Original bytes: 1432924
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:13:08.501791+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Steute-RFRXSW917NG4S24VDC-STEP-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 1432924 bytes
+- Delivery SHA-256: 926cb9fa657eca5e0389d5343f181e400d3b749504294680605ee5f9f0135250
+
+<details>
+<summary>Archive members</summary>
+
+- RF\_Rx\_SW\_4s.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

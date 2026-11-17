@@ -1,0 +1,121 @@
+# LOVATO Electric — 11B500400380 — Four-pole contactor, 11B500 4 00 380, 700A AC1, coil AC/DC
+
+LOVATO Electric 11B500400380 — Four-pole contactor, 11B500 4 00 380, 700A AC1, coil AC/DC. Retained manufacturer CAD files and drawings for automation design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-452739c0bac604450afcb60e) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-452739c0bac604450afcb60e.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-452739c0bac604450afcb60e.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/11B500400380/11B500400380/snp)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 11B500400380
+- Formats: DWG, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: 11B500400380 — Four-pole contactor, 11B500 4 00 380, 700A AC1, coil AC/DC
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: 11B500400380
+- Manufacturer reference: 11B500400380
+- Available native formats: DWG / DXF
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 11B500400380 ([source](https://catalogue.lovatoelectric.com/gl_en/11B500400380/11B500400380/snp))
+- Available native formats: DWG / DXF ([source](https://catalogue.lovatoelectric.com/gl_en/11B500400380/11B500400380/snp))
+
+## What the equipment does
+
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
+
+Use 2d\_11B500400380.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11B500400380.dwg.
+
+Use 2d\_11B500400380.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11B500400380.dwg. Use 2D\_STY\_062.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_062.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric 11B500400380 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 11B500400380 — Four-pole contactor, 11B500 4 00 380, 700A AC1, coil AC/DC?
+
+2 inspected originals for LOVATO Electric 11B500400380 — Four-pole contactor, 11B500 4 00 380, 700A AC1, coil AC/DC: 2d\_11B500400380.dwg (DWG); 2D\_STY\_062.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/11B500400380/11B500400380/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/11B500400380/11B500400380/snp)
+
+## Choosing a file
+
+Use 2d\_11B500400380.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11B500400380.dwg. Use 2D\_STY\_062.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_062.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric 11B500400380 — Four-pole contactor, 11B500 4 00 380, 700A AC1, coil AC/DC: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-452739c0bac604450afcb60e/native-e41e356be2ed4cad0add1a2f-dxf?asset=e41e356be2ed4cad0add1a2fed3d408886244babf6dfd992ccf0bd58dcf2be9e)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-452739c0bac604450afcb60e). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_11B500400380.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11B500400380.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-452739c0bac604450afcb60e/native-70da14e24058d286101d829d-dwg)
+- Redistribution: unknown
+- Original SHA-256: 70da14e24058d286101d829d4af660f8417cb783c6a43a25a370875d228fbc81
+- Original bytes: 88127
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11B500400380.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11B500400380.dwg)
+- Delivery: source-bundle; ZIP; 22906 bytes
+- Delivery SHA-256: 98fa4ca059a50af442236e6a6e44e59b550d0f9d295369571929834d6afe7cf1
+
+### 2D\_STY\_062.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-452739c0bac604450afcb60e/native-e41e356be2ed4cad0add1a2f-dxf)
+- Redistribution: unknown
+- Original SHA-256: e41e356be2ed4cad0add1a2fed3d408886244babf6dfd992ccf0bd58dcf2be9e
+- Original bytes: 369782
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 34431 bytes
+- Delivery SHA-256: a0188eaa4aca463823dfc64cee2f9b0d76cb152bb23ba43bc0c5efbb7d75a72a
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

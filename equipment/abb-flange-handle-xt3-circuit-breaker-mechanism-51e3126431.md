@@ -8,7 +8,7 @@ ABB Flange handle XT3 - Circuit breaker mechanism: breaker or breaker-accessory 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A2090
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is â€œFlange handle XT3 - Circuit breaker mechanismâ€
 - Manufacturer drawing: 1SDH002065A2090
 - Manufacturer reference: 1SDH002065A2090
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2090&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 12082665 bytes
 - Delivery SHA-256: 19bd5dd6f804150d29355b61d605bc7e5010c2ea6144fc696b233abffe1be742
+
+### 1SDH002065A2090.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A2090.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2090&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-flange-handle-xt3-circuit-breaker-mechanism-51e3126431/19bd5dd6f804150d2935-dxf)
+- Redistribution: unknown
+- Original SHA-256: 19bd5dd6f804150d29355b61d605bc7e5010c2ea6144fc696b233abffe1be742
+- Original bytes: 12082665
+- Revision: A
+- Retrieved: 2026-11-04T01:13:24Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2090&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A2090&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 498874 bytes
+- Delivery SHA-256: c4c6d75ece28aa2f5d3a40a819861869b710acf29375e69c554fd518db9e838e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

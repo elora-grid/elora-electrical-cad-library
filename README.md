@@ -2,20 +2,20 @@
 
 Open catalogue of official manufacturer CAD, BIM and electrical engineering drawing sources for switchboards, switchgear, switchrooms, generators and microgrids. Free for engineers and AI agents.
 
-**[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [JSON catalogue](data/catalogue.json) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
+**[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [Full JSON (gzip)](data/catalogue.json.gz) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
 
-The current snapshot contains **11932 catalogue entries**, **115 manufacturers**, **19 equipment categories**, and **11646 site download entries** representing **10374 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
+The current snapshot contains **56,512 catalogue entries**, **397 manufacturers**, **19 equipment categories**, and **80,875 site download entries** representing **44,692 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
 
 ## Find CAD
 
 - [Equipment index](equipment/README.md): one readable page per source, with manufacturer links, available files and rights evidence.
 - [Compact discovery index](data/index.json): category indexes in chunks of at most 250 records, with exact Markdown and live JSON links.
-- [Catalogue JSON](data/catalogue.json): complete bulk metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions. This large file is intended for local bulk processing; use the compact index for retrieval.
+- [Catalogue JSON (gzip)](data/catalogue.json.gz): complete lossless bulk metadata including equipment facts, plain-English guidance, preview-image links, related GA references, stable Elora download URLs, checksums and revisions. Decompress it before JSON parsing; use the compact index for retrieval.
 - [Catalogue CSV](data/catalogue.csv): one row per source. [Files CSV](data/files.csv): one row per listed file.
-- [Live search API](docs/api.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access without an account.
+- [API guide](docs/api.md), [MCP connection guide](docs/mcp.md), [OpenAPI](openapi.json), and [JSON Schema](schema/catalogue.schema.json): machine access and current rollout discovery.
 - [Coverage audit](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and acquisition priorities.
 
-The snapshot includes **1175 individually identified drawing entries** and **9250 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
+The snapshot includes **1175 individually identified drawing entries** and **35627 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
 
 Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
 
@@ -27,6 +27,12 @@ Switchboards and LV/MV/HV switchgear; breakers and accessories; enclosures, busb
 
 USA, Australia, UK and Europe have equal research priority. Market tags support discovery; they do not establish product-level regional parity or IEC/UL certification. The collection is expanding and is not exhaustive SKU or assembly coverage.
 
+## API and MCP access
+
+Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. The agent-access release is deployed separately from this metadata snapshot. If discovery or v1 capabilities is unavailable, use the existing catalogue API below; never guess an MCP URL. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).
+
+The v1 workflows find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account after the access rollout, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.
+
 ## Use with an AI agent
 
 Read [docs/agents.md](docs/agents.md), then search the JSON catalogue or live API. Return canonical equipment pages and stable `downloadUrl` values. Preserve manufacturer attribution and per-file rights information. Do not treat a family archive or manufacturer portal as an exact configured product.
@@ -37,6 +43,8 @@ npm run sync
 npm run validate
 npm test
 ```
+
+[Bulk snapshot format and decompression](docs/snapshot-format.md). `data/catalogue.json.gz` replaces the previous uncompressed file because the complete feed exceeds GitHub’s per-file limit; all metadata fields are retained. The search command reads it directly.
 
 Node.js 22 or newer is required for the scripts. No dependencies or API keys are needed to search, validate or refresh the catalogue. The GitHub workflow checks contributions and refreshes the public metadata daily; unchanged snapshots produce no commit. GitHub may pause scheduled workflows after 60 days without repository activity; maintainers can re-enable or run the workflow manually.
 

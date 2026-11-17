@@ -25,6 +25,7 @@ Manufacturer reference sgc-420-mk-ii-2d-cad-drawing.dwg; sgc-420-mk-ii-2d-pdf.pd
 - Manufacturer drawing: sgc-420-mk-ii-2d-cad-drawing.dwg; sgc-420-mk-ii-2d-pdf.pdf; sgc-420-mk-ii-3d-pdf.pdf
 - Manufacturer reference: sgc-420-mk-ii-2d-cad-drawing.dwg; sgc-420-mk-ii-2d-pdf.pdf; sgc-420-mk-ii-3d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-2
 - Listed file formats: DWG, PDF
 - Listed files: 3
 - Available previews: Manufacturer source / drawing request

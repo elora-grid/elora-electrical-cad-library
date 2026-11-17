@@ -1,0 +1,160 @@
+# Weidmüller — ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow
+
+Weidmüller ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0225460000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0225460000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0225460000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/ask-1en-ld-56k-115vdc/p/0225460000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 0225460000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 0225460000
+- Manufacturer reference: 0225460000
+- Manufacturer type: ASK 1/EN LD 56K 115VDC
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 0225460000 ([source](https://eshop.weidmueller.com.cn/en/ask-1en-ld-56k-115vdc/p/0225460000/downloads#engineering-support))
+- Manufacturer type: ASK 1/EN LD 56K 115VDC ([source](https://eshop.weidmueller.com.cn/en/ask-1en-ld-56k-115vdc/p/0225460000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/ask-1en-ld-56k-115vdc/p/0225460000/downloads#engineering-support))
+
+## What the equipment does
+
+A fused terminal combines a wire connection point with a fuse holder so a branch circuit can be connected and protected in one assembly.
+
+0225460000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0225460000\_back.DXF, 0225460000\_bottom.DXF, 0225460000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow before placing it.
+
+0225460000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0225460000\_back.DXF, 0225460000\_bottom.DXF, 0225460000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow before placing it. 0225460000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0225460000\_back.DWG, 0225460000\_bottom.DWG, 0225460000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow before placing it. Use 0225460000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 0225460000.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 0225460000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow?
+
+3 inspected originals for Weidmüller ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow: 0225460000\_DXF.zip (ZIP); 0225460000\_DWG.zip (ZIP); 0225460000.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/ask-1en-ld-56k-115vdc/p/0225460000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/ask-1en-ld-56k-115vdc/p/0225460000/downloads#engineering-support)
+
+## Choosing a file
+
+0225460000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0225460000\_back.DXF, 0225460000\_bottom.DXF, 0225460000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow before placing it. 0225460000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 0225460000\_back.DWG, 0225460000\_bottom.DWG, 0225460000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ASK 1/EN LD 56K 115VDC — Fuse terminal / Fuse terminal, Screw connection, Fuse cartridge, with LED, One end without connector, Screw connection, 4 mm², 115 V, 6.3 A, G-Si. 5 x 20, beige / yellow before placing it. Use 0225460000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 0225460000.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 0225460000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/36332720-87af-4d66-9dbd-f37cefe5e7f6/original/0225460000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-0225460000/native-298f803754e3a04416cf272e-zip)
+- Redistribution: unknown
+- Original SHA-256: 298f803754e3a04416cf272e86339d9d2d0ea9d90f54abea8a49e83e178298fb
+- Original bytes: 67264
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/36332720-87af-4d66-9dbd-f37cefe5e7f6/original/0225460000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/36332720-87af-4d66-9dbd-f37cefe5e7f6/original/0225460000_DXF.zip)
+- Delivery: original; ZIP; 67264 bytes
+- Delivery SHA-256: 298f803754e3a04416cf272e86339d9d2d0ea9d90f54abea8a49e83e178298fb
+
+<details>
+<summary>Archive members</summary>
+
+- 0225460000\_back.DXF
+- 0225460000\_bottom.DXF
+- 0225460000\_front.DXF
+- 0225460000\_left.DXF
+- 0225460000\_right.DXF
+- 0225460000\_top.DXF
+
+</details>
+
+### 0225460000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/41e2c628-6eae-4c0e-9b0f-deaf31a60588/original/0225460000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-0225460000/native-7cfc79b0c7886aed6cd0b117-zip)
+- Redistribution: unknown
+- Original SHA-256: 7cfc79b0c7886aed6cd0b117745dc49631c1a6154d2fbf06de23d17b7ff4a869
+- Original bytes: 83142
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/41e2c628-6eae-4c0e-9b0f-deaf31a60588/original/0225460000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/41e2c628-6eae-4c0e-9b0f-deaf31a60588/original/0225460000_DWG.zip)
+- Delivery: original; ZIP; 83142 bytes
+- Delivery SHA-256: 7cfc79b0c7886aed6cd0b117745dc49631c1a6154d2fbf06de23d17b7ff4a869
+
+<details>
+<summary>Archive members</summary>
+
+- 0225460000\_back.DWG
+- 0225460000\_bottom.DWG
+- 0225460000\_front.DWG
+- 0225460000\_left.DWG
+- 0225460000\_right.DWG
+- 0225460000\_top.DWG
+
+</details>
+
+### 0225460000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b60105bb-31de-4392-8982-a67f4f1d6bea/original/0225460000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-0225460000/native-175f2840112ead2585d95971-step)
+- Redistribution: unknown
+- Original SHA-256: 175f2840112ead2585d9597128767e9970cac0a8b2585bd744ca7da96f9452bc
+- Original bytes: 541710
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b60105bb-31de-4392-8982-a67f4f1d6bea/original/0225460000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b60105bb-31de-4392-8982-a67f4f1d6bea/original/0225460000.stp)
+- Delivery: source-bundle; ZIP; 112273 bytes
+- Delivery SHA-256: d4718fc1a6846450735afca28af9a9e9748c5f719ae877832c58525838c7b2be
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

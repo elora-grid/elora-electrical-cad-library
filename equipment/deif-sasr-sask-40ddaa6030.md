@@ -26,6 +26,7 @@ Manufacturer reference sask-3d-pdfs.zip; sask-3d-step-files.zip; sasr-3d-step-fi
 - Manufacturer reference: sask-3d-pdfs.zip; sask-3d-step-files.zip; sasr-3d-step-file.stp; sasr-3d-pdf.pdf
 - Manufacturer lifecycle: Active
 - Model envelope: sasr-3d-step-file.stp: 61 × 76 × 62 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60044, IEC 61869
 - Listed file formats: PDF, STEP, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

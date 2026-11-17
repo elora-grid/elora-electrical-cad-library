@@ -27,7 +27,7 @@ The supplied configuration is “OT200U22D”. Keep those frame, mounting and ac
 - Document revision: A
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use OT200U22D.dxf revision A for editable DXF drawing geometry. Keep its origina
 
 ## Preview
 
-![ABB OT200U22D: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ot200u22d-b0ccff2e52/6386bc1ca0ff94566bbd?asset=6386bc1ca0ff94566bbd33c93bcde8f952bce36bf8cc5994bcfd85d0a00f03bc)
+![ABB OT200U22D: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ot200u22d-b0ccff2e52/6386bc1ca0ff94566bbd?asset=6386bc1ca0ff94566bbd33c93bcde8f952bce36bf8cc5994bcfd85d0a00f03bc&view=thumb&v=afd218315a4e03e5)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ot200u22d-b0ccff2e52). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

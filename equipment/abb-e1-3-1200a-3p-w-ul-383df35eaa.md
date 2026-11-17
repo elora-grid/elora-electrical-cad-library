@@ -25,6 +25,7 @@ The supplied configuration is “E1.3 1200A 3p W UL”. Keep those frame, mounti
 - Manufacturer drawing: 1SDH002443A1103
 - Manufacturer reference: 1SDH002443A1103
 - Document revision: A
+- Standards: UL 1066, ANSI C37.13, ANSI C37.16, ANSI C37.17, ANSI C37.50
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -1,0 +1,160 @@
+# Weidmüller — WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A
+
+Weidmüller WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1915510000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1915510000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1915510000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wta-8-ko-tnza/p/1915510000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1915510000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1915510000
+- Manufacturer reference: 1915510000
+- Manufacturer type: WTA 8 KO-TN/ZA
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1915510000 ([source](https://eshop.weidmueller.com.cn/en/wta-8-ko-tnza/p/1915510000/downloads#engineering-support))
+- Manufacturer type: WTA 8 KO-TN/ZA ([source](https://eshop.weidmueller.com.cn/en/wta-8-ko-tnza/p/1915510000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wta-8-ko-tnza/p/1915510000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1915510000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1915510000\_back.DXF, 1915510000\_bottom.DXF, 1915510000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A before placing it.
+
+1915510000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1915510000\_back.DXF, 1915510000\_bottom.DXF, 1915510000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A before placing it. Use 1915510000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1915510000.stp. 1915510000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1915510000\_back.DWG, 1915510000\_bottom.DWG, 1915510000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1915510000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A?
+
+3 inspected originals for Weidmüller WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A: 1915510000\_DXF.zip (ZIP); 1915510000.stp (STEP); 1915510000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wta-8-ko-tnza/p/1915510000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wta-8-ko-tnza/p/1915510000/downloads#engineering-support)
+
+## Choosing a file
+
+1915510000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1915510000\_back.DXF, 1915510000\_bottom.DXF, 1915510000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A before placing it. Use 1915510000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1915510000.stp. 1915510000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1915510000\_back.DWG, 1915510000\_bottom.DWG, 1915510000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTA 8 KO-TN/ZA — Test adapter (terminal) / Test adapter (terminal), 1.5 mm², 205 V, 6 A before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1915510000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/40eda55f-211b-43c2-b09b-b8014548a6fa/original/1915510000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1915510000/native-1fd3a11c457dbb5008e8251d-zip)
+- Redistribution: unknown
+- Original SHA-256: 1fd3a11c457dbb5008e8251db1cd2dd6e83b17274f29b3d885ea959dd4561a36
+- Original bytes: 40623
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/40eda55f-211b-43c2-b09b-b8014548a6fa/original/1915510000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/40eda55f-211b-43c2-b09b-b8014548a6fa/original/1915510000_DXF.zip)
+- Delivery: original; ZIP; 40623 bytes
+- Delivery SHA-256: 1fd3a11c457dbb5008e8251db1cd2dd6e83b17274f29b3d885ea959dd4561a36
+
+<details>
+<summary>Archive members</summary>
+
+- 1915510000\_back.DXF
+- 1915510000\_bottom.DXF
+- 1915510000\_front.DXF
+- 1915510000\_left.DXF
+- 1915510000\_right.DXF
+- 1915510000\_top.DXF
+
+</details>
+
+### 1915510000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/7ffa2781-713e-45ce-90ce-66df2d91e79f/original/1915510000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1915510000/native-ae87ff1c60adce668ff1db1d-step)
+- Redistribution: unknown
+- Original SHA-256: ae87ff1c60adce668ff1db1de32dfd7e9977cdacb57714e0193b83d92d39709d
+- Original bytes: 452768
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/7ffa2781-713e-45ce-90ce-66df2d91e79f/original/1915510000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/7ffa2781-713e-45ce-90ce-66df2d91e79f/original/1915510000.stp)
+- Delivery: source-bundle; ZIP; 78170 bytes
+- Delivery SHA-256: a4bd7e5adee9ce041b24a97597165c6ced0037e53ea50dcf47884aa2a85e1ba6
+
+### 1915510000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/b90e6446-f0eb-4a3e-bebf-482425999d40/original/1915510000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1915510000/native-bc4f9780c131de9c57c85419-zip)
+- Redistribution: unknown
+- Original SHA-256: bc4f9780c131de9c57c85419f63a3988a02c4b5cc3c845bf4e838fead31eba36
+- Original bytes: 62931
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/b90e6446-f0eb-4a3e-bebf-482425999d40/original/1915510000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/b90e6446-f0eb-4a3e-bebf-482425999d40/original/1915510000_DWG.zip)
+- Delivery: original; ZIP; 62931 bytes
+- Delivery SHA-256: bc4f9780c131de9c57c85419f63a3988a02c4b5cc3c845bf4e838fead31eba36
+
+<details>
+<summary>Archive members</summary>
+
+- 1915510000\_back.DWG
+- 1915510000\_bottom.DWG
+- 1915510000\_front.DWG
+- 1915510000\_left.DWG
+- 1915510000\_right.DWG
+- 1915510000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

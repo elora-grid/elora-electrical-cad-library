@@ -25,6 +25,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Manufacturer drawing: application-notes-interfacing-deif-equipment-4189340670-fr.pdf
 - Manufacturer reference: application-notes-interfacing-deif-equipment-4189340670-fr.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61010-1, IEC 61000-6-1, IEC 60529
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

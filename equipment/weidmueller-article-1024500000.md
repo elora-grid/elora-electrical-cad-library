@@ -1,0 +1,160 @@
+# Weidmüller — WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2
+
+Weidmüller WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1024500000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1024500000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1024500000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wdu-120150/p/1024500000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1024500000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1024500000
+- Manufacturer reference: 1024500000
+- Manufacturer type: WDU 120/150
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1024500000 ([source](https://eshop.weidmueller.com.cn/en/wdu-120150/p/1024500000/downloads#engineering-support))
+- Manufacturer type: WDU 120/150 ([source](https://eshop.weidmueller.com.cn/en/wdu-120150/p/1024500000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wdu-120150/p/1024500000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1024500000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1024500000\_back.DXF, 1024500000\_bottom.DXF, 1024500000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2 before placing it.
+
+1024500000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1024500000\_back.DXF, 1024500000\_bottom.DXF, 1024500000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2 before placing it. Use 1024500000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1024500000.stp. 1024500000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1024500000\_back.DWG, 1024500000\_bottom.DWG, 1024500000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2 before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1024500000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2?
+
+3 inspected originals for Weidmüller WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2: 1024500000\_DXF.zip (ZIP); 1024500000.stp (STEP); 1024500000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wdu-120150/p/1024500000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wdu-120150/p/1024500000/downloads#engineering-support)
+
+## Choosing a file
+
+1024500000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1024500000\_back.DXF, 1024500000\_bottom.DXF, 1024500000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2 before placing it. Use 1024500000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1024500000.stp. 1024500000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1024500000\_back.DWG, 1024500000\_bottom.DWG, 1024500000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WDU 120/150 — Feed-through terminal block / Feed-through terminal block, Screw connection, 120 mm², 1000 V, 269 A, Number of connections: 2 before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1024500000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/153e0179-8f62-4c05-b313-7d4b9558803e/original/1024500000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1024500000/native-e42e49ac32c20ceab141b518-zip)
+- Redistribution: unknown
+- Original SHA-256: e42e49ac32c20ceab141b518e8e9ddcbeae3553a7cc1d027fc8508323805ed8a
+- Original bytes: 32161
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/153e0179-8f62-4c05-b313-7d4b9558803e/original/1024500000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/153e0179-8f62-4c05-b313-7d4b9558803e/original/1024500000_DXF.zip)
+- Delivery: original; ZIP; 32161 bytes
+- Delivery SHA-256: e42e49ac32c20ceab141b518e8e9ddcbeae3553a7cc1d027fc8508323805ed8a
+
+<details>
+<summary>Archive members</summary>
+
+- 1024500000\_back.DXF
+- 1024500000\_bottom.DXF
+- 1024500000\_front.DXF
+- 1024500000\_left.DXF
+- 1024500000\_right.DXF
+- 1024500000\_top.DXF
+
+</details>
+
+### 1024500000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/ee5de1bd-cde2-44d7-b0b6-30f3de663e48/original/1024500000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1024500000/native-e98576389d1e7a87a44b423b-step)
+- Redistribution: unknown
+- Original SHA-256: e98576389d1e7a87a44b423b524920da9c93808eeca1121f2de981e095e8c54e
+- Original bytes: 646222
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/ee5de1bd-cde2-44d7-b0b6-30f3de663e48/original/1024500000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/ee5de1bd-cde2-44d7-b0b6-30f3de663e48/original/1024500000.stp)
+- Delivery: source-bundle; ZIP; 109825 bytes
+- Delivery SHA-256: 313e5a8d516a6f5d6530dc8c155f30fd33869924cfb365b0c469c97855ca8404
+
+### 1024500000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/8ea75a52-8938-43ab-b10f-b22bc4b259ed/original/1024500000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1024500000/native-0025ea04b99b54e9696e549d-zip)
+- Redistribution: unknown
+- Original SHA-256: 0025ea04b99b54e9696e549d4f57746852f77faf2f49fc2bebf2de16c670709b
+- Original bytes: 54411
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/8ea75a52-8938-43ab-b10f-b22bc4b259ed/original/1024500000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/8ea75a52-8938-43ab-b10f-b22bc4b259ed/original/1024500000_DWG.zip)
+- Delivery: original; ZIP; 54411 bytes
+- Delivery SHA-256: 0025ea04b99b54e9696e549d4f57746852f77faf2f49fc2bebf2de16c670709b
+
+<details>
+<summary>Archive members</summary>
+
+- 1024500000\_back.DWG
+- 1024500000\_bottom.DWG
+- 1024500000\_front.DWG
+- 1024500000\_left.DWG
+- 1024500000\_right.DWG
+- 1024500000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

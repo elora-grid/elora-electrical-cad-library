@@ -8,7 +8,7 @@ ABB XT5 3p 4p P-W MOE: breaker or breaker-accessory reference for breaker compar
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1340
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT5 3p 4p P-W MOE”. Keep those frame, mountin
 - Manufacturer reference: 1SDH002065A1340
 - Document revision: A
 - Model envelope: 1SDH002065A1340\_XT5\_3p\_4p\_P\_W\_MOE.stp: 140.8 × 116.1 × 136 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1340&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 3829923 bytes
 - Delivery SHA-256: c68579f45beb2c18bf7c9f56a2360a9d94494c8d90fbb8984f4fdbc0da121900
+
+### 1SDH002065A1340\_XT5\_3p\_4p\_P\_W\_MOE.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1340\_XT5\_3p\_4p\_P\_W\_MOE.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1340&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-4p-p-w-moe-b6d030e7b6/c68579f45beb2c18bf7c-dxf)
+- Redistribution: unknown
+- Original SHA-256: c68579f45beb2c18bf7c9f56a2360a9d94494c8d90fbb8984f4fdbc0da121900
+- Original bytes: 3829923
+- Revision: A
+- Retrieved: 2026-11-03T02:03:51.431435Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1340&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1340&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 521906 bytes
+- Delivery SHA-256: f32fde02f26956b7d1ed85f266c6c6125ac18ded68d481768035133528d87c74
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

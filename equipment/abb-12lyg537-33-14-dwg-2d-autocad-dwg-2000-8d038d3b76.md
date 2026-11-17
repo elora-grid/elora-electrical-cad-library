@@ -8,7 +8,7 @@ ABB 12LYG537\_33.14: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 12LYG537\_33.14; 12LYG537
-- Formats: DWG, IGS, PDF, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “12LYG537\_33.14”. Keep those frame, mounting 
 - Document revision: D
 - Motor drawing designation (12LYG537): HORZ TEFC 324-6T CP INV/VECTOR W/312 BRGS,THRU SH ENC.&COVER
 - Manufacturer reference: 12LYG537
-- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -110,6 +110,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 1033656 bytes
 - Delivery SHA-256: d032400f8b747bddf456163aaaa94cfe8b43cc4767fcaafc2ed9136816739b50
+
+### 12LYG537\_33.14.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (12LYG537\_33.14.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-12lyg537-33-14-dwg-2d-autocad-dwg-2000-8d038d3b76/d032400f8b747bddf456-dxf)
+- Redistribution: unknown
+- Original SHA-256: d032400f8b747bddf456163aaaa94cfe8b43cc4767fcaafc2ed9136816739b50
+- Original bytes: 1033656
+- Revision: D
+- Retrieved: 2026-11-04T01:00:49Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 3400306 bytes
+- Delivery SHA-256: 3a7dff25a6de35db5eb6d84125ab537a9e7cc02b3e36ffdcc5cb119e04167cbf
 
 ### 12LYG537.pdf
 

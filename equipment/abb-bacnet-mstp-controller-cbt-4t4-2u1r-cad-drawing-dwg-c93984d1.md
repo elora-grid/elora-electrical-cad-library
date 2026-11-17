@@ -9,7 +9,7 @@ BACnet MSTP Controller CBT-4T4-2U1R CAD Drawing (.DWG): ABB manufacturer DWG res
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK108471A3752
 - Installation applications: switchrooms
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,8 +24,8 @@ Original DWG drawing for BACnet MSTP Controller CBT-4T4-2U1R CAD Drawing (.DWG);
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 9AKK108471A3752
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -96,5 +96,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3752&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 474869 bytes
 - Delivery SHA-256: 2bc88d4305fc8d81175fffa16da16841d87ccc7d3cd3e87b785bc08772c2fd9c
+
+### BACnet\_MSTP\_Controller\_CBT\_4T4\_2U1R\_CAD\_Drawing\_\_.DWG\_.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (BACnet\_MSTP\_Controller\_CBT\_4T4\_2U1R\_CAD\_Drawing\_\_.DWG\_.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3752&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-bacnet-mstp-controller-cbt-4t4-2u1r-cad-drawing-dwg-c93984d1/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2bc88d4305fc8d81175fffa16da16841d87ccc7d3cd3e87b785bc08772c2fd9c
+- Original bytes: 474869
+- Revision: A
+- Retrieved: 2026-11-03T02:29:08.915366+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3752&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3752&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 205033 bytes
+- Delivery SHA-256: 90e91374a3c78cb9645b9380db4aac6121394eb3f423c19b2fa1f5a51cd0d517
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

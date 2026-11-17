@@ -1,0 +1,2945 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 23,
+  "entries": [
+    {
+      "id": "eplan-oem-699143",
+      "name": "MCCB Type VE, 4-pole, 50kA,  800A, draw-out version",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699143",
+      "recordPath": "equipment/eplan-oem-699143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699143.json"
+    },
+    {
+      "id": "eplan-oem-699144",
+      "name": "Moulded Case Circuit Breaker Type VE, 4P, 50kA, 800/500A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699144",
+      "recordPath": "equipment/eplan-oem-699144.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699144.json"
+    },
+    {
+      "id": "eplan-oem-699145",
+      "name": "Moulded Case Circuit Breaker Type AE, 3-pole, 85kA, 800A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699145",
+      "recordPath": "equipment/eplan-oem-699145.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699145.json"
+    },
+    {
+      "id": "eplan-oem-699146",
+      "name": "MCCB Type AE, el. release, 3-pole, 85kA, 800A + withdraw",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699146",
+      "recordPath": "equipment/eplan-oem-699146.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699146.json"
+    },
+    {
+      "id": "eplan-oem-699147",
+      "name": "Moulded Case Circuit Breaker Type VE, 3-pole, 85kA, 800A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699147",
+      "recordPath": "equipment/eplan-oem-699147.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699147.json"
+    },
+    {
+      "id": "eplan-oem-699148",
+      "name": "MCCB Type VE, el. del. release, 3-p,  85kA, 800A + withdraw",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699148",
+      "recordPath": "equipment/eplan-oem-699148.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699148.json"
+    },
+    {
+      "id": "eplan-oem-699149",
+      "name": "Moulded Case Circuit Breaker Type AE, 4-pole, 85kA, 800A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699149",
+      "recordPath": "equipment/eplan-oem-699149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699149.json"
+    },
+    {
+      "id": "eplan-oem-699150",
+      "name": "MCCB Type AE,4-p, 85kA, 800A,el. release + withdr. module",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699150",
+      "recordPath": "equipment/eplan-oem-699150.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699150.json"
+    },
+    {
+      "id": "eplan-oem-699151",
+      "name": "Moulded Case Circuit Breaker Type VE, 4-pole, 85kA, 800A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699151",
+      "recordPath": "equipment/eplan-oem-699151.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699151.json"
+    },
+    {
+      "id": "eplan-oem-699152",
+      "name": "MCCB Type VE,4-p, 85kA, 800A,del. el. release+ withdr. mod.",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699152",
+      "recordPath": "equipment/eplan-oem-699152.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699152.json"
+    },
+    {
+      "id": "eplan-oem-699153",
+      "name": "Moulded Case Circuit Breaker Type ME, 3-pole, 50kA, 875A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699153",
+      "recordPath": "equipment/eplan-oem-699153.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699153.json"
+    },
+    {
+      "id": "eplan-oem-699154",
+      "name": "Moulded Case Circuit Breaker Type ME, 3-pole, 85kA, 875A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699154",
+      "recordPath": "equipment/eplan-oem-699154.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699154.json"
+    },
+    {
+      "id": "eplan-oem-699193",
+      "name": "Power switch MO1 3-pole 800A 55kA rigid horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699193",
+      "recordPath": "equipment/eplan-oem-699193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699193.json"
+    },
+    {
+      "id": "eplan-oem-699194",
+      "name": "ACB, size1, 4pole, 800A,55kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699194",
+      "recordPath": "equipment/eplan-oem-699194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699194.json"
+    },
+    {
+      "id": "eplan-oem-699195",
+      "name": "ACB, size1, 3pole, 800A,66kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699195",
+      "recordPath": "equipment/eplan-oem-699195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699195.json"
+    },
+    {
+      "id": "eplan-oem-699196",
+      "name": "ACB, size1, 4pole, 800A,66kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699196",
+      "recordPath": "equipment/eplan-oem-699196.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699196.json"
+    },
+    {
+      "id": "eplan-oem-699197",
+      "name": "ACB, size1, 3pole,1000A,55kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699197",
+      "recordPath": "equipment/eplan-oem-699197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699197.json"
+    },
+    {
+      "id": "eplan-oem-699198",
+      "name": "ACB, size1, 3pole,1000A,55kA,fixed , conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699198",
+      "recordPath": "equipment/eplan-oem-699198.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699198.json"
+    },
+    {
+      "id": "eplan-oem-699199",
+      "name": "ACB, size1, 3pole, 1000A, 55kA, drawout,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699199",
+      "recordPath": "equipment/eplan-oem-699199.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699199.json"
+    },
+    {
+      "id": "eplan-oem-699200",
+      "name": "ACB, size1, 4pole,1000A,55kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699200",
+      "recordPath": "equipment/eplan-oem-699200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699200.json"
+    },
+    {
+      "id": "eplan-oem-699201",
+      "name": "ACB, size1, 4pole,1000A,55kA, fixed, conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699201",
+      "recordPath": "equipment/eplan-oem-699201.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699201.json"
+    },
+    {
+      "id": "eplan-oem-699202",
+      "name": "ACB, size1, 4pole,1000A, 55kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699202",
+      "recordPath": "equipment/eplan-oem-699202.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699202.json"
+    },
+    {
+      "id": "eplan-oem-699203",
+      "name": "ACB, size1, 3pole,1000A,66kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699203",
+      "recordPath": "equipment/eplan-oem-699203.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699203.json"
+    },
+    {
+      "id": "eplan-oem-699204",
+      "name": "ACB, size1, 3pole,1000A,66kA, fixed, conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699204",
+      "recordPath": "equipment/eplan-oem-699204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699204.json"
+    },
+    {
+      "id": "eplan-oem-699205",
+      "name": "ACB, size1, 3pole, 1000A,66kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699205",
+      "recordPath": "equipment/eplan-oem-699205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699205.json"
+    },
+    {
+      "id": "eplan-oem-699206",
+      "name": "ACB, size1, 4pole,1000A,66kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699206",
+      "recordPath": "equipment/eplan-oem-699206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699206.json"
+    },
+    {
+      "id": "eplan-oem-699207",
+      "name": "ACB, size1, 4pole,1000A,66kA,fixed , conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699207",
+      "recordPath": "equipment/eplan-oem-699207.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699207.json"
+    },
+    {
+      "id": "eplan-oem-699208",
+      "name": "ACB, size1, 4pole, 1000A,66kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699208",
+      "recordPath": "equipment/eplan-oem-699208.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699208.json"
+    },
+    {
+      "id": "eplan-oem-699209",
+      "name": "ACB, size1, 3pole,1250A,55kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699209",
+      "recordPath": "equipment/eplan-oem-699209.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699209.json"
+    },
+    {
+      "id": "eplan-oem-699210",
+      "name": "ACB, size1, 3pole,1250A,55kA,fixed ,conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699210",
+      "recordPath": "equipment/eplan-oem-699210.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699210.json"
+    },
+    {
+      "id": "eplan-oem-699211",
+      "name": "ACB, size1, 3pole,1250A, 55kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699211",
+      "recordPath": "equipment/eplan-oem-699211.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699211.json"
+    },
+    {
+      "id": "eplan-oem-699212",
+      "name": "ACB, size1, 4pole,1250A,55kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699212",
+      "recordPath": "equipment/eplan-oem-699212.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699212.json"
+    },
+    {
+      "id": "eplan-oem-699213",
+      "name": "ACB, size1, 4pole,1250A,55kA, fixed ,conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699213",
+      "recordPath": "equipment/eplan-oem-699213.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699213.json"
+    },
+    {
+      "id": "eplan-oem-699214",
+      "name": "ACB, size1, 4pole,1250A, 55kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699214",
+      "recordPath": "equipment/eplan-oem-699214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699214.json"
+    },
+    {
+      "id": "eplan-oem-699215",
+      "name": "ACB, size1, 3pole,1250A,66kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699215",
+      "recordPath": "equipment/eplan-oem-699215.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699215.json"
+    },
+    {
+      "id": "eplan-oem-699216",
+      "name": "ACB, size1, 3pole,1250A,66kA, fixed, conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699216",
+      "recordPath": "equipment/eplan-oem-699216.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699216.json"
+    },
+    {
+      "id": "eplan-oem-699217",
+      "name": "ACB, size1, 3pole, 1250A,66kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699217",
+      "recordPath": "equipment/eplan-oem-699217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699217.json"
+    },
+    {
+      "id": "eplan-oem-699218",
+      "name": "ACB, size1, 4pole,1250A,66kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699218",
+      "recordPath": "equipment/eplan-oem-699218.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699218.json"
+    },
+    {
+      "id": "eplan-oem-699219",
+      "name": "ACB, size1, 4pole,1250A,66kA,fixed , conn. Front double bore",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699219",
+      "recordPath": "equipment/eplan-oem-699219.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699219.json"
+    },
+    {
+      "id": "eplan-oem-699220",
+      "name": "ACB, size1, 4pole, 1250A,66kA, drawout, rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699220",
+      "recordPath": "equipment/eplan-oem-699220.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699220.json"
+    },
+    {
+      "id": "eplan-oem-699221",
+      "name": "ACB, size1, 3pole,1600A,55kA,fixed type,rear side horizontal",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-699221",
+      "recordPath": "equipment/eplan-oem-699221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-699221.json"
+    },
+    {
+      "id": "eaton-article-143161",
+      "name": "BP-U-3S-MES-1200/12-ST — Installation Distribution Board steel sheet complete WxH=1200x1260mm",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-143161",
+      "recordPath": "equipment/eaton-article-143161.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-143161.json"
+    },
+    {
+      "id": "ls-electric-article-7019000900",
+      "name": "ACC-KIT-BLANK-L3-2X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019000900",
+      "recordPath": "equipment/ls-electric-article-7019000900.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019000900.json"
+    },
+    {
+      "id": "ls-electric-article-7019001000",
+      "name": "ACC-KIT-BLANK-L3-3X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001000",
+      "recordPath": "equipment/ls-electric-article-7019001000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001000.json"
+    },
+    {
+      "id": "ls-electric-article-7019001100",
+      "name": "ACC-KIT-BLANK-L3-4X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001100",
+      "recordPath": "equipment/ls-electric-article-7019001100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001100.json"
+    },
+    {
+      "id": "ls-electric-article-7019001200",
+      "name": "ACC-KIT-BLANK-L3-5X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001200",
+      "recordPath": "equipment/ls-electric-article-7019001200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001200.json"
+    },
+    {
+      "id": "ls-electric-article-7019001300",
+      "name": "ACC-KIT-BLANK-L3-6X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001300",
+      "recordPath": "equipment/ls-electric-article-7019001300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001300.json"
+    },
+    {
+      "id": "ls-electric-article-7019001400",
+      "name": "ACC-KIT-BLANK-L3-7X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001400",
+      "recordPath": "equipment/ls-electric-article-7019001400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001400.json"
+    },
+    {
+      "id": "ls-electric-article-7019001500",
+      "name": "ACC-KIT-BLANK-L3-8X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001500",
+      "recordPath": "equipment/ls-electric-article-7019001500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001500.json"
+    },
+    {
+      "id": "ls-electric-article-7019001600",
+      "name": "ACC-KIT-BLANK-L3-9X",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019001600",
+      "recordPath": "equipment/ls-electric-article-7019001600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019001600.json"
+    },
+    {
+      "id": "ls-electric-article-7014008200",
+      "name": "BSK-L3-UTS150-3P-S",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008200",
+      "recordPath": "equipment/ls-electric-article-7014008200.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008200.json"
+    },
+    {
+      "id": "ls-electric-article-7014008300",
+      "name": "BSK-L3-UTS150-3P-D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008300",
+      "recordPath": "equipment/ls-electric-article-7014008300.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008300.json"
+    },
+    {
+      "id": "ls-electric-article-7014008400",
+      "name": "BSK-L3-UTS250-3P-S",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008400",
+      "recordPath": "equipment/ls-electric-article-7014008400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008400.json"
+    },
+    {
+      "id": "ls-electric-article-7014008500",
+      "name": "BSK-L3-UTS250-3P-D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008500",
+      "recordPath": "equipment/ls-electric-article-7014008500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008500.json"
+    },
+    {
+      "id": "ls-electric-article-7014008600",
+      "name": "BSK-L3-UTS400-3P-S",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008600",
+      "recordPath": "equipment/ls-electric-article-7014008600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008600.json"
+    },
+    {
+      "id": "ls-electric-article-7014008700",
+      "name": "BSK-L3-UTS400-3P-D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008700",
+      "recordPath": "equipment/ls-electric-article-7014008700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008700.json"
+    },
+    {
+      "id": "ls-electric-article-7014008800",
+      "name": "BSK-L3-UTS600-3P-S",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008800",
+      "recordPath": "equipment/ls-electric-article-7014008800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008800.json"
+    },
+    {
+      "id": "ls-electric-article-7014008900",
+      "name": "BSK-L3-UTS800-3P-S",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014008900",
+      "recordPath": "equipment/ls-electric-article-7014008900.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014008900.json"
+    },
+    {
+      "id": "ls-electric-article-7014009000",
+      "name": "BSK-L3-UTS1200-3P-S",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7014009000",
+      "recordPath": "equipment/ls-electric-article-7014009000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7014009000.json"
+    },
+    {
+      "id": "ls-electric-article-7019002400",
+      "name": "ACC-KIT-FILLER-L3-UTS250",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019002400",
+      "recordPath": "equipment/ls-electric-article-7019002400.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019002400.json"
+    },
+    {
+      "id": "ls-electric-article-7019002500",
+      "name": "ACC-KIT-FILLER-L3-UTS400",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-7019002500",
+      "recordPath": "equipment/ls-electric-article-7019002500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-7019002500.json"
+    },
+    {
+      "id": "ls-electric-article-70130023",
+      "name": "INT-CF-C2-36x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130023",
+      "recordPath": "equipment/ls-electric-article-70130023.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130023.json"
+    },
+    {
+      "id": "ls-electric-article-70130024",
+      "name": "INT-CF-C2-46x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130024",
+      "recordPath": "equipment/ls-electric-article-70130024.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130024.json"
+    },
+    {
+      "id": "ls-electric-article-70130025",
+      "name": "INT-CF-C2-66x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130025",
+      "recordPath": "equipment/ls-electric-article-70130025.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130025.json"
+    },
+    {
+      "id": "ls-electric-article-70130026",
+      "name": "INT-CF-C4-36x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130026",
+      "recordPath": "equipment/ls-electric-article-70130026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130026.json"
+    },
+    {
+      "id": "ls-electric-article-70130027",
+      "name": "INT-CF-C4-46x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130027",
+      "recordPath": "equipment/ls-electric-article-70130027.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130027.json"
+    },
+    {
+      "id": "ls-electric-article-70130028",
+      "name": "INT-CF-C4-66x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130028",
+      "recordPath": "equipment/ls-electric-article-70130028.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130028.json"
+    },
+    {
+      "id": "ls-electric-article-70130029",
+      "name": "INT-CF-C6-36x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130029",
+      "recordPath": "equipment/ls-electric-article-70130029.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130029.json"
+    },
+    {
+      "id": "ls-electric-article-70130030",
+      "name": "INT-CF-C6-46x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130030",
+      "recordPath": "equipment/ls-electric-article-70130030.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130030.json"
+    },
+    {
+      "id": "ls-electric-article-70130031",
+      "name": "INT-CF-C6-66x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130031",
+      "recordPath": "equipment/ls-electric-article-70130031.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130031.json"
+    },
+    {
+      "id": "ls-electric-article-70130034",
+      "name": "INT-L3-1200A-45x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130034",
+      "recordPath": "equipment/ls-electric-article-70130034.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130034.json"
+    },
+    {
+      "id": "ls-electric-article-70130035",
+      "name": "INT-L3-2000A-45x-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130035",
+      "recordPath": "equipment/ls-electric-article-70130035.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130035.json"
+    },
+    {
+      "id": "ls-electric-article-72311172194",
+      "name": "INT-1200A-45X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172194",
+      "recordPath": "equipment/ls-electric-article-72311172194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172194.json"
+    },
+    {
+      "id": "ls-electric-article-72311172195",
+      "name": "INT-2000A-45X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172195",
+      "recordPath": "equipment/ls-electric-article-72311172195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172195.json"
+    },
+    {
+      "id": "ls-electric-article-72311172212",
+      "name": "INT-6000A-36X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172212",
+      "recordPath": "equipment/ls-electric-article-72311172212.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172212.json"
+    },
+    {
+      "id": "ls-electric-article-72311172213",
+      "name": "INT-6000A-46X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172213",
+      "recordPath": "equipment/ls-electric-article-72311172213.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172213.json"
+    },
+    {
+      "id": "ls-electric-article-72311172214",
+      "name": "INT-6000A-66X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172214",
+      "recordPath": "equipment/ls-electric-article-72311172214.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172214.json"
+    },
+    {
+      "id": "ls-electric-article-72311172290",
+      "name": "INT-2000A-36X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172290",
+      "recordPath": "equipment/ls-electric-article-72311172290.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172290.json"
+    },
+    {
+      "id": "ls-electric-article-72311172291",
+      "name": "INT-2000A-46X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172291",
+      "recordPath": "equipment/ls-electric-article-72311172291.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172291.json"
+    },
+    {
+      "id": "ls-electric-article-72311172292",
+      "name": "INT-2000A-66X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172292",
+      "recordPath": "equipment/ls-electric-article-72311172292.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172292.json"
+    },
+    {
+      "id": "ls-electric-article-72311172293",
+      "name": "INT-4000A H-36X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172293",
+      "recordPath": "equipment/ls-electric-article-72311172293.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172293.json"
+    },
+    {
+      "id": "ls-electric-article-72311172296",
+      "name": "INT-4000A H-46X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172296",
+      "recordPath": "equipment/ls-electric-article-72311172296.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172296.json"
+    },
+    {
+      "id": "ls-electric-article-72311172297",
+      "name": "INT-4000A H-66X-UL",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-72311172297",
+      "recordPath": "equipment/ls-electric-article-72311172297.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-72311172297.json"
+    },
+    {
+      "id": "lovato-native-e087ecec50fa3a46a142",
+      "name": "CAD Grebenaste sklopke Velicina A0",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-e087ecec50fa3a46a142",
+      "recordPath": "equipment/lovato-native-e087ecec50fa3a46a142.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-e087ecec50fa3a46a142.json"
+    },
+    {
+      "id": "lovato-native-57ffe6847f8a354a0472",
+      "name": "CAD Grebenaste sklopke Velicina A1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-57ffe6847f8a354a0472",
+      "recordPath": "equipment/lovato-native-57ffe6847f8a354a0472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-57ffe6847f8a354a0472.json"
+    },
+    {
+      "id": "lovato-native-fb91c27057c52a805bb6",
+      "name": "CAD Grebenaste sklopke Velicina A2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-fb91c27057c52a805bb6",
+      "recordPath": "equipment/lovato-native-fb91c27057c52a805bb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-fb91c27057c52a805bb6.json"
+    },
+    {
+      "id": "lovato-native-25bf76dfc0f38cbaf0cc",
+      "name": "CAD Grebenaste sklopke Velicina A3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-25bf76dfc0f38cbaf0cc",
+      "recordPath": "equipment/lovato-native-25bf76dfc0f38cbaf0cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-25bf76dfc0f38cbaf0cc.json"
+    },
+    {
+      "id": "lovato-native-90ed33d1bcf40f0012d1",
+      "name": "CAD Rastavne sklopke CS Velicina A0",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-90ed33d1bcf40f0012d1",
+      "recordPath": "equipment/lovato-native-90ed33d1bcf40f0012d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-90ed33d1bcf40f0012d1.json"
+    },
+    {
+      "id": "lovato-native-564c763523b564565168",
+      "name": "CAD Rastavne sklopke CS Velicina A1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-564c763523b564565168",
+      "recordPath": "equipment/lovato-native-564c763523b564565168.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-564c763523b564565168.json"
+    },
+    {
+      "id": "lovato-native-20df1934457d1df9a02b",
+      "name": "CAD Rastavne sklopke CS Velicina A2",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-20df1934457d1df9a02b",
+      "recordPath": "equipment/lovato-native-20df1934457d1df9a02b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-20df1934457d1df9a02b.json"
+    },
+    {
+      "id": "lovato-native-e128837d75be9a996816",
+      "name": "CAD Rastavne sklopke CSP",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-native-e128837d75be9a996816",
+      "recordPath": "equipment/lovato-native-e128837d75be9a996816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-native-e128837d75be9a996816.json"
+    },
+    {
+      "id": "lovato-order-47ebc03be81d5b505aae2e87",
+      "name": "P1MB2PD03 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-47ebc03be81d5b505aae2e87",
+      "recordPath": "equipment/lovato-order-47ebc03be81d5b505aae2e87.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-47ebc03be81d5b505aae2e87.json"
+    },
+    {
+      "id": "lovato-order-c8215c867becbe9c3d5cfae9",
+      "name": "DMG200 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c8215c867becbe9c3d5cfae9",
+      "recordPath": "equipment/lovato-order-c8215c867becbe9c3d5cfae9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c8215c867becbe9c3d5cfae9.json"
+    },
+    {
+      "id": "lovato-order-773e91b872923fbaae615360",
+      "name": "BF230T4E400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-773e91b872923fbaae615360",
+      "recordPath": "equipment/lovato-order-773e91b872923fbaae615360.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-773e91b872923fbaae615360.json"
+    },
+    {
+      "id": "lovato-order-a56608bd781764cdc6f453d7",
+      "name": "P1MB1MB16 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a56608bd781764cdc6f453d7",
+      "recordPath": "equipment/lovato-order-a56608bd781764cdc6f453d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a56608bd781764cdc6f453d7.json"
+    },
+    {
+      "id": "lovato-order-f028184a26c9a4c47ffe24fc",
+      "name": "P1MB3PD13 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f028184a26c9a4c47ffe24fc",
+      "recordPath": "equipment/lovato-order-f028184a26c9a4c47ffe24fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f028184a26c9a4c47ffe24fc.json"
+    },
+    {
+      "id": "lovato-order-609e9d95a6f0e06da29f5ff7",
+      "name": "LPCZSE — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-609e9d95a6f0e06da29f5ff7",
+      "recordPath": "equipment/lovato-order-609e9d95a6f0e06da29f5ff7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-609e9d95a6f0e06da29f5ff7.json"
+    },
+    {
+      "id": "lovato-order-afd0f89380b3f69c1ab6848d",
+      "name": "GLC0320T4C1 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-afd0f89380b3f69c1ab6848d",
+      "recordPath": "equipment/lovato-order-afd0f89380b3f69c1ab6848d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-afd0f89380b3f69c1ab6848d.json"
+    },
+    {
+      "id": "lovato-order-9124d8ae406c5876f951a31f",
+      "name": "LPCPA500 — Monoblock potentiometers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9124d8ae406c5876f951a31f",
+      "recordPath": "equipment/lovato-order-9124d8ae406c5876f951a31f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9124d8ae406c5876f951a31f.json"
+    },
+    {
+      "id": "lovato-order-1394dc2d4fc6363d3c67b580",
+      "name": "ADXNF045 — Soft starters",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1394dc2d4fc6363d3c67b580",
+      "recordPath": "equipment/lovato-order-1394dc2d4fc6363d3c67b580.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1394dc2d4fc6363d3c67b580.json"
+    },
+    {
+      "id": "lovato-order-09f5fe7eb02c38775f4d7261",
+      "name": "LTN50MSL — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-09f5fe7eb02c38775f4d7261",
+      "recordPath": "equipment/lovato-order-09f5fe7eb02c38775f4d7261.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-09f5fe7eb02c38775f4d7261.json"
+    },
+    {
+      "id": "lovato-order-90c3e2b2236bae55c70f8f81",
+      "name": "RF380650 — RF38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-90c3e2b2236bae55c70f8f81",
+      "recordPath": "equipment/lovato-order-90c3e2b2236bae55c70f8f81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-90c3e2b2236bae55c70f8f81.json"
+    },
+    {
+      "id": "lovato-order-84e4ea679fffd2351edd1d59",
+      "name": "GEX7535N — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-84e4ea679fffd2351edd1d59",
+      "recordPath": "equipment/lovato-order-84e4ea679fffd2351edd1d59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-84e4ea679fffd2351edd1d59.json"
+    },
+    {
+      "id": "lovato-order-b5373fd564c4e48574b36acf",
+      "name": "11RF933 — RF9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b5373fd564c4e48574b36acf",
+      "recordPath": "equipment/lovato-order-b5373fd564c4e48574b36acf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b5373fd564c4e48574b36acf.json"
+    },
+    {
+      "id": "lovato-order-5e6a52df34ecaba38417337d",
+      "name": "LPXAU115 — Plastic disk for mushroom-head buttons, EMERGENCY-STOP, O60mm",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5e6a52df34ecaba38417337d",
+      "recordPath": "equipment/lovato-order-5e6a52df34ecaba38417337d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5e6a52df34ecaba38417337d.json"
+    },
+    {
+      "id": "lovato-order-0220f1d6b0e82b7acac43c63",
+      "name": "BFX1022 — Auxiliary contacts 2NO+2NC, front centre mounting",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0220f1d6b0e82b7acac43c63",
+      "recordPath": "equipment/lovato-order-0220f1d6b0e82b7acac43c63.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0220f1d6b0e82b7acac43c63.json"
+    },
+    {
+      "id": "lovato-order-a9126e00956ee294b00f6781",
+      "name": "P2X16230 — Shunt trip release, 110-415V 50/60Hz",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a9126e00956ee294b00f6781",
+      "recordPath": "equipment/lovato-order-a9126e00956ee294b00f6781.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a9126e00956ee294b00f6781.json"
+    },
+    {
+      "id": "lovato-order-6117f6fcb987bb8a9fd47267",
+      "name": "PMA30240 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6117f6fcb987bb8a9fd47267",
+      "recordPath": "equipment/lovato-order-6117f6fcb987bb8a9fd47267.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6117f6fcb987bb8a9fd47267.json"
+    },
+    {
+      "id": "lovato-order-55a0e29eec025134e47a6a1a",
+      "name": "LTN70P400 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-55a0e29eec025134e47a6a1a",
+      "recordPath": "equipment/lovato-order-55a0e29eec025134e47a6a1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-55a0e29eec025134e47a6a1a.json"
+    },
+    {
+      "id": "lovato-order-d4b5c941625dc6d6ad51f325",
+      "name": "P1MB2PD08 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d4b5c941625dc6d6ad51f325",
+      "recordPath": "equipment/lovato-order-d4b5c941625dc6d6ad51f325.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d4b5c941625dc6d6ad51f325.json"
+    },
+    {
+      "id": "lovato-order-3bc928d0d274857af9568bf7",
+      "name": "DMG7000 — Power analyzer with widescreen colour LCD. Auxiliary supply 100...240VAC. Expandable with 3 EXP... modules",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3bc928d0d274857af9568bf7",
+      "recordPath": "equipment/lovato-order-3bc928d0d274857af9568bf7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3bc928d0d274857af9568bf7.json"
+    },
+    {
+      "id": "lovato-order-641f7ad99d3e60bc09a5415e",
+      "name": "FB02A2P — Fuse holder, 14x51 with UR and CSA approval, 2 poles",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-641f7ad99d3e60bc09a5415e",
+      "recordPath": "equipment/lovato-order-641f7ad99d3e60bc09a5415e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-641f7ad99d3e60bc09a5415e.json"
+    },
+    {
+      "id": "lovato-order-a3878f1598912c804d3b7b3b",
+      "name": "P1MB1MB10 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a3878f1598912c804d3b7b3b",
+      "recordPath": "equipment/lovato-order-a3878f1598912c804d3b7b3b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a3878f1598912c804d3b7b3b.json"
+    },
+    {
+      "id": "lovato-order-2efe7473afd1ed148ee25631",
+      "name": "GLC0500T4C1 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2efe7473afd1ed148ee25631",
+      "recordPath": "equipment/lovato-order-2efe7473afd1ed148ee25631.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2efe7473afd1ed148ee25631.json"
+    },
+    {
+      "id": "lovato-order-0c55baf05aa23ac54ae010ae",
+      "name": "ATL800 — ATL800",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0c55baf05aa23ac54ae010ae",
+      "recordPath": "equipment/lovato-order-0c55baf05aa23ac54ae010ae.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0c55baf05aa23ac54ae010ae.json"
+    },
+    {
+      "id": "lovato-order-c226fc5c0eef4a4d6e83a7f4",
+      "name": "BF40000E400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c226fc5c0eef4a4d6e83a7f4",
+      "recordPath": "equipment/lovato-order-c226fc5c0eef4a4d6e83a7f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c226fc5c0eef4a4d6e83a7f4.json"
+    },
+    {
+      "id": "lovato-order-3b9f61152510a1f2cf271c69",
+      "name": "P1MB1NC02 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3b9f61152510a1f2cf271c69",
+      "recordPath": "equipment/lovato-order-3b9f61152510a1f2cf271c69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3b9f61152510a1f2cf271c69.json"
+    },
+    {
+      "id": "lovato-order-3661f26da4d2c0a378331740",
+      "name": "RF380100 — RF38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3661f26da4d2c0a378331740",
+      "recordPath": "equipment/lovato-order-3661f26da4d2c0a378331740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3661f26da4d2c0a378331740.json"
+    },
+    {
+      "id": "lovato-order-1ce60d4f82ac053a19f4e05b",
+      "name": "PMV10A440 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1ce60d4f82ac053a19f4e05b",
+      "recordPath": "equipment/lovato-order-1ce60d4f82ac053a19f4e05b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1ce60d4f82ac053a19f4e05b.json"
+    },
+    {
+      "id": "lovato-order-527045209073577225a18acf",
+      "name": "LPCD06L100 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-527045209073577225a18acf",
+      "recordPath": "equipment/lovato-order-527045209073577225a18acf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-527045209073577225a18acf.json"
+    },
+    {
+      "id": "lovato-order-efa0d69666009dfa822e7723",
+      "name": "11G48403 — Auxiliary contacts 3NC, front centre mounting",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-efa0d69666009dfa822e7723",
+      "recordPath": "equipment/lovato-order-efa0d69666009dfa822e7723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-efa0d69666009dfa822e7723.json"
+    },
+    {
+      "id": "lovato-order-892a3fecb4cbeae1643875e6",
+      "name": "DMG210 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-892a3fecb4cbeae1643875e6",
+      "recordPath": "equipment/lovato-order-892a3fecb4cbeae1643875e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-892a3fecb4cbeae1643875e6.json"
+    },
+    {
+      "id": "lovato-order-5ab2bdb100519b8706aab55b",
+      "name": "VT122A240 — Variable speed drives",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5ab2bdb100519b8706aab55b",
+      "recordPath": "equipment/lovato-order-5ab2bdb100519b8706aab55b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5ab2bdb100519b8706aab55b.json"
+    },
+    {
+      "id": "lovato-order-e002525b8396e18dbf1fa5dc",
+      "name": "P1RA3P40A030 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e002525b8396e18dbf1fa5dc",
+      "recordPath": "equipment/lovato-order-e002525b8396e18dbf1fa5dc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e002525b8396e18dbf1fa5dc.json"
+    },
+    {
+      "id": "lovato-order-6fb77e92fd6113962ecbd7a1",
+      "name": "LPCPA050 — Monoblock potentiometers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6fb77e92fd6113962ecbd7a1",
+      "recordPath": "equipment/lovato-order-6fb77e92fd6113962ecbd7a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6fb77e92fd6113962ecbd7a1.json"
+    },
+    {
+      "id": "lovato-order-826b7de5d7dd15b33554f636",
+      "name": "ADXNB01224 — Soft starters",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-826b7de5d7dd15b33554f636",
+      "recordPath": "equipment/lovato-order-826b7de5d7dd15b33554f636.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-826b7de5d7dd15b33554f636.json"
+    },
+    {
+      "id": "lovato-order-ee7555ad884d5bacbe57ff91",
+      "name": "BF23000E400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ee7555ad884d5bacbe57ff91",
+      "recordPath": "equipment/lovato-order-ee7555ad884d5bacbe57ff91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ee7555ad884d5bacbe57ff91.json"
+    },
+    {
+      "id": "lovato-order-f90c6faddcef77f98b52b838",
+      "name": "GLC0630T4C1 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f90c6faddcef77f98b52b838",
+      "recordPath": "equipment/lovato-order-f90c6faddcef77f98b52b838.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f90c6faddcef77f98b52b838.json"
+    },
+    {
+      "id": "lovato-order-d52c2b67da9c1d4887d7651d",
+      "name": "VLB30075A480 — VLB3",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d52c2b67da9c1d4887d7651d",
+      "recordPath": "equipment/lovato-order-d52c2b67da9c1d4887d7651d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d52c2b67da9c1d4887d7651d.json"
+    },
+    {
+      "id": "lovato-order-34918647023c6586b623f8ee",
+      "name": "GEX7536N — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-34918647023c6586b623f8ee",
+      "recordPath": "equipment/lovato-order-34918647023c6586b623f8ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-34918647023c6586b623f8ee.json"
+    },
+    {
+      "id": "lovato-order-10da6393cc0eaeb042c9d3b3",
+      "name": "11BGX1004 — Auxiliary contacts 4NC only for BG...A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-10da6393cc0eaeb042c9d3b3",
+      "recordPath": "equipment/lovato-order-10da6393cc0eaeb042c9d3b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-10da6393cc0eaeb042c9d3b3.json"
+    },
+    {
+      "id": "lovato-order-723e5733971d318e7c34ac56",
+      "name": "BF16000E400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-723e5733971d318e7c34ac56",
+      "recordPath": "equipment/lovato-order-723e5733971d318e7c34ac56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-723e5733971d318e7c34ac56.json"
+    },
+    {
+      "id": "lovato-order-463a976f5f076710d5b06f50",
+      "name": "BF33000E024 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-463a976f5f076710d5b06f50",
+      "recordPath": "equipment/lovato-order-463a976f5f076710d5b06f50.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-463a976f5f076710d5b06f50.json"
+    },
+    {
+      "id": "lovato-order-a078bf2abbc72ccf99ab3426",
+      "name": "FB02A1P — Fuse holder, 14x51 with UR and CSA approval, 1 pole",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a078bf2abbc72ccf99ab3426",
+      "recordPath": "equipment/lovato-order-a078bf2abbc72ccf99ab3426.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a078bf2abbc72ccf99ab3426.json"
+    },
+    {
+      "id": "lovato-order-e4595d5aa1742b0b18186f46",
+      "name": "BF8000A230 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e4595d5aa1742b0b18186f46",
+      "recordPath": "equipment/lovato-order-e4595d5aa1742b0b18186f46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e4595d5aa1742b0b18186f46.json"
+    },
+    {
+      "id": "lovato-order-2d9e1796d941bb26a0fcc307",
+      "name": "11RF975 — RF9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2d9e1796d941bb26a0fcc307",
+      "recordPath": "equipment/lovato-order-2d9e1796d941bb26a0fcc307.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2d9e1796d941bb26a0fcc307.json"
+    },
+    {
+      "id": "lovato-order-397c19e8b8e598ca839030d9",
+      "name": "RF824200 — RF82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-397c19e8b8e598ca839030d9",
+      "recordPath": "equipment/lovato-order-397c19e8b8e598ca839030d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-397c19e8b8e598ca839030d9.json"
+    },
+    {
+      "id": "lovato-order-4a5ff92996fa956766f241f9",
+      "name": "RF382300 — RF38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4a5ff92996fa956766f241f9",
+      "recordPath": "equipment/lovato-order-4a5ff92996fa956766f241f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4a5ff92996fa956766f241f9.json"
+    },
+    {
+      "id": "lovato-order-6eb24de07fa4d31af69e38bb",
+      "name": "LTN50P400 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6eb24de07fa4d31af69e38bb",
+      "recordPath": "equipment/lovato-order-6eb24de07fa4d31af69e38bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6eb24de07fa4d31af69e38bb.json"
+    },
+    {
+      "id": "lovato-order-99ddff79941208da7d4d8d00",
+      "name": "LTN70BP1 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-99ddff79941208da7d4d8d00",
+      "recordPath": "equipment/lovato-order-99ddff79941208da7d4d8d00.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-99ddff79941208da7d4d8d00.json"
+    },
+    {
+      "id": "lovato-order-d54937ce5e95d9afea2fad9f",
+      "name": "GL0100C1UL — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d54937ce5e95d9afea2fad9f",
+      "recordPath": "equipment/lovato-order-d54937ce5e95d9afea2fad9f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d54937ce5e95d9afea2fad9f.json"
+    },
+    {
+      "id": "lovato-order-a9ad5bf9a8556d6b90b59cba",
+      "name": "LPCZSA — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a9ad5bf9a8556d6b90b59cba",
+      "recordPath": "equipment/lovato-order-a9ad5bf9a8556d6b90b59cba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a9ad5bf9a8556d6b90b59cba.json"
+    },
+    {
+      "id": "lovato-order-bdb0f13b372dd681aab3f5e6",
+      "name": "GL0200C1UL — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bdb0f13b372dd681aab3f5e6",
+      "recordPath": "equipment/lovato-order-bdb0f13b372dd681aab3f5e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bdb0f13b372dd681aab3f5e6.json"
+    },
+    {
+      "id": "lovato-order-f9044638b08c7a0b41f5c5e2",
+      "name": "SRBES31 — Safety devices",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f9044638b08c7a0b41f5c5e2",
+      "recordPath": "equipment/lovato-order-f9044638b08c7a0b41f5c5e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f9044638b08c7a0b41f5c5e2.json"
+    },
+    {
+      "id": "lovato-order-2789b2c092f8ce33a6f2be0b",
+      "name": "SM1RE2300 — Motor protection circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2789b2c092f8ce33a6f2be0b",
+      "recordPath": "equipment/lovato-order-2789b2c092f8ce33a6f2be0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2789b2c092f8ce33a6f2be0b.json"
+    },
+    {
+      "id": "lovato-order-698c6da53192f828cbab51b9",
+      "name": "GA030C — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-698c6da53192f828cbab51b9",
+      "recordPath": "equipment/lovato-order-698c6da53192f828cbab51b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-698c6da53192f828cbab51b9.json"
+    },
+    {
+      "id": "lovato-order-34745a3ec0439844a64a977b",
+      "name": "LTN70BM3 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-34745a3ec0439844a64a977b",
+      "recordPath": "equipment/lovato-order-34745a3ec0439844a64a977b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-34745a3ec0439844a64a977b.json"
+    },
+    {
+      "id": "lovato-order-d8b49925ea300d2a353435ec",
+      "name": "LTN50MW024 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d8b49925ea300d2a353435ec",
+      "recordPath": "equipment/lovato-order-d8b49925ea300d2a353435ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d8b49925ea300d2a353435ec.json"
+    },
+    {
+      "id": "lovato-order-09bb3e12287190a8660c7699",
+      "name": "CN2020024 — Modular contactors and other modular devices",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-09bb3e12287190a8660c7699",
+      "recordPath": "equipment/lovato-order-09bb3e12287190a8660c7699.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-09bb3e12287190a8660c7699.json"
+    },
+    {
+      "id": "lovato-order-ae914dd1c0ef3488861115b7",
+      "name": "BF5000A024 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ae914dd1c0ef3488861115b7",
+      "recordPath": "equipment/lovato-order-ae914dd1c0ef3488861115b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ae914dd1c0ef3488861115b7.json"
+    },
+    {
+      "id": "lovato-order-c1101248874cafa34b10c56b",
+      "name": "P1MB2PC13 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c1101248874cafa34b10c56b",
+      "recordPath": "equipment/lovato-order-c1101248874cafa34b10c56b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c1101248874cafa34b10c56b.json"
+    },
+    {
+      "id": "lovato-order-d1b9eddf4a558a0c459dabfa",
+      "name": "P1MB1NC50 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d1b9eddf4a558a0c459dabfa",
+      "recordPath": "equipment/lovato-order-d1b9eddf4a558a0c459dabfa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d1b9eddf4a558a0c459dabfa.json"
+    },
+    {
+      "id": "lovato-order-131c6b3fd3ef87210cd06705",
+      "name": "11BGX1013 — Auxiliary contacts 1NO+3NC only for BG...A",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-131c6b3fd3ef87210cd06705",
+      "recordPath": "equipment/lovato-order-131c6b3fd3ef87210cd06705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-131c6b3fd3ef87210cd06705.json"
+    },
+    {
+      "id": "lovato-order-cfc9b447301c94e2760a00d7",
+      "name": "LPCB104 — Plastic push-button actuator, spring return, flush, red",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cfc9b447301c94e2760a00d7",
+      "recordPath": "equipment/lovato-order-cfc9b447301c94e2760a00d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cfc9b447301c94e2760a00d7.json"
+    },
+    {
+      "id": "lovato-order-8dc6324930e6c5ff87c344d9",
+      "name": "P1MB1PD03 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8dc6324930e6c5ff87c344d9",
+      "recordPath": "equipment/lovato-order-8dc6324930e6c5ff87c344d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8dc6324930e6c5ff87c344d9.json"
+    },
+    {
+      "id": "lovato-order-6d324abc5dbeb24f8dc317df",
+      "name": "VT107A240 — Variable speed drives",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6d324abc5dbeb24f8dc317df",
+      "recordPath": "equipment/lovato-order-6d324abc5dbeb24f8dc317df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6d324abc5dbeb24f8dc317df.json"
+    },
+    {
+      "id": "lovato-order-f468accf4026b2a9c7ea346f",
+      "name": "BF330T4E230 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f468accf4026b2a9c7ea346f",
+      "recordPath": "equipment/lovato-order-f468accf4026b2a9c7ea346f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f468accf4026b2a9c7ea346f.json"
+    },
+    {
+      "id": "lovato-order-699a1eeddf2fcd854f29aae2",
+      "name": "BFX5000 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-699a1eeddf2fcd854f29aae2",
+      "recordPath": "equipment/lovato-order-699a1eeddf2fcd854f29aae2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-699a1eeddf2fcd854f29aae2.json"
+    },
+    {
+      "id": "lovato-order-7cb96182a26f3502cc099fa1",
+      "name": "LPCB6344 — Plastic mushroom head button actuator, latch, turn to release O40mm, red",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7cb96182a26f3502cc099fa1",
+      "recordPath": "equipment/lovato-order-7cb96182a26f3502cc099fa1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7cb96182a26f3502cc099fa1.json"
+    },
+    {
+      "id": "lovato-order-7c8acfcbd499856ff6a9072e",
+      "name": "SG2DGK10M3R — Surge protection devices",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7c8acfcbd499856ff6a9072e",
+      "recordPath": "equipment/lovato-order-7c8acfcbd499856ff6a9072e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7c8acfcbd499856ff6a9072e.json"
+    },
+    {
+      "id": "lovato-order-3dcfc981d7dcf73a988d9889",
+      "name": "LPXAU100 — Label holder for blank or engraved plastic LPX AU109 holder",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3dcfc981d7dcf73a988d9889",
+      "recordPath": "equipment/lovato-order-3dcfc981d7dcf73a988d9889.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3dcfc981d7dcf73a988d9889.json"
+    },
+    {
+      "id": "lovato-order-fb355debe23dad54498360f5",
+      "name": "LPXLEB8 — LED integrated lamp-holders steady or flashing light, white, 18-30VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fb355debe23dad54498360f5",
+      "recordPath": "equipment/lovato-order-fb355debe23dad54498360f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fb355debe23dad54498360f5.json"
+    },
+    {
+      "id": "lovato-order-f6c9cd3f07649c88fe53e548",
+      "name": "LPSJ411 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f6c9cd3f07649c88fe53e548",
+      "recordPath": "equipment/lovato-order-f6c9cd3f07649c88fe53e548.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f6c9cd3f07649c88fe53e548.json"
+    },
+    {
+      "id": "lovato-order-18d9311155e68d25dc970491",
+      "name": "LPSB6644 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-18d9311155e68d25dc970491",
+      "recordPath": "equipment/lovato-order-18d9311155e68d25dc970491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-18d9311155e68d25dc970491.json"
+    },
+    {
+      "id": "lovato-order-60b77675c3c4b5878610f5e7",
+      "name": "LPCB106 — Plastic push-button actuator, spring return, flush, blue",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-60b77675c3c4b5878610f5e7",
+      "recordPath": "equipment/lovato-order-60b77675c3c4b5878610f5e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-60b77675c3c4b5878610f5e7.json"
+    },
+    {
+      "id": "lovato-order-ced1da32006940678a00994c",
+      "name": "DMG300 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ced1da32006940678a00994c",
+      "recordPath": "equipment/lovato-order-ced1da32006940678a00994c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ced1da32006940678a00994c.json"
+    },
+    {
+      "id": "lovato-order-e49dee12345a91cc1765810c",
+      "name": "BF26500E230 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e49dee12345a91cc1765810c",
+      "recordPath": "equipment/lovato-order-e49dee12345a91cc1765810c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e49dee12345a91cc1765810c.json"
+    },
+    {
+      "id": "lovato-order-a0770e5c6772729932c49f45",
+      "name": "RF380063 — RF38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a0770e5c6772729932c49f45",
+      "recordPath": "equipment/lovato-order-a0770e5c6772729932c49f45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a0770e5c6772729932c49f45.json"
+    },
+    {
+      "id": "lovato-order-706fdab23f3b84668823f80f",
+      "name": "GLC0400C1 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-706fdab23f3b84668823f80f",
+      "recordPath": "equipment/lovato-order-706fdab23f3b84668823f80f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-706fdab23f3b84668823f80f.json"
+    },
+    {
+      "id": "lovato-order-c7e39781d060907173c52f6b",
+      "name": "LTN70C — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c7e39781d060907173c52f6b",
+      "recordPath": "equipment/lovato-order-c7e39781d060907173c52f6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c7e39781d060907173c52f6b.json"
+    },
+    {
+      "id": "lovato-order-3dea73052fde77c927e6edba",
+      "name": "11BGX1022 — Auxiliary contacts 2NO+2NC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3dea73052fde77c927e6edba",
+      "recordPath": "equipment/lovato-order-3dea73052fde77c927e6edba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3dea73052fde77c927e6edba.json"
+    },
+    {
+      "id": "lovato-order-719545dce439edc0997461bb",
+      "name": "11BGX78225 — Quick connect surge suppressor, diode 225VDC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-719545dce439edc0997461bb",
+      "recordPath": "equipment/lovato-order-719545dce439edc0997461bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-719545dce439edc0997461bb.json"
+    },
+    {
+      "id": "lovato-order-88727504a84f0d91f805e137",
+      "name": "BFX77240 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-88727504a84f0d91f805e137",
+      "recordPath": "equipment/lovato-order-88727504a84f0d91f805e137.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-88727504a84f0d91f805e137.json"
+    },
+    {
+      "id": "lovato-order-b1c2e141f847c0917af35376",
+      "name": "LPSB103 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b1c2e141f847c0917af35376",
+      "recordPath": "equipment/lovato-order-b1c2e141f847c0917af35376.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b1c2e141f847c0917af35376.json"
+    },
+    {
+      "id": "lovato-order-e56e7f0bd8443c10cf8beb55",
+      "name": "BF9400A230 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e56e7f0bd8443c10cf8beb55",
+      "recordPath": "equipment/lovato-order-e56e7f0bd8443c10cf8beb55.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e56e7f0bd8443c10cf8beb55.json"
+    },
+    {
+      "id": "lovato-order-2c565ff76d9cc41b34723bda",
+      "name": "LTN70ML4 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2c565ff76d9cc41b34723bda",
+      "recordPath": "equipment/lovato-order-2c565ff76d9cc41b34723bda.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2c565ff76d9cc41b34723bda.json"
+    },
+    {
+      "id": "lovato-order-01c5e45dbc044a2491dea780",
+      "name": "SM1X1202 — Auxiliary contacts, 2NC, side mount, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-01c5e45dbc044a2491dea780",
+      "recordPath": "equipment/lovato-order-01c5e45dbc044a2491dea780.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-01c5e45dbc044a2491dea780.json"
+    },
+    {
+      "id": "lovato-order-889f101e82fb739d8ddb38c9",
+      "name": "LPSS130 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-889f101e82fb739d8ddb38c9",
+      "recordPath": "equipment/lovato-order-889f101e82fb739d8ddb38c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-889f101e82fb739d8ddb38c9.json"
+    },
+    {
+      "id": "lovato-order-0f0ef2b8ad7314f5af88ea8a",
+      "name": "RF825000 — RF82",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0f0ef2b8ad7314f5af88ea8a",
+      "recordPath": "equipment/lovato-order-0f0ef2b8ad7314f5af88ea8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0f0ef2b8ad7314f5af88ea8a.json"
+    },
+    {
+      "id": "lovato-order-d4eeb80ca2b83bb81ad7e9d2",
+      "name": "LTN70BM1 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d4eeb80ca2b83bb81ad7e9d2",
+      "recordPath": "equipment/lovato-order-d4eeb80ca2b83bb81ad7e9d2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d4eeb80ca2b83bb81ad7e9d2.json"
+    },
+    {
+      "id": "lovato-order-200651af117f782cf9cad815",
+      "name": "P1MB1PD08 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-200651af117f782cf9cad815",
+      "recordPath": "equipment/lovato-order-200651af117f782cf9cad815.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-200651af117f782cf9cad815.json"
+    },
+    {
+      "id": "lovato-order-9a797ea7681b64f8ca7a9739",
+      "name": "P1RA2P63A030 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9a797ea7681b64f8ca7a9739",
+      "recordPath": "equipment/lovato-order-9a797ea7681b64f8ca7a9739.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9a797ea7681b64f8ca7a9739.json"
+    },
+    {
+      "id": "lovato-order-185555318291cfdec71bd453",
+      "name": "EXP1000 — Expansion module EXP... type, 4 digital inputs (for DMG 700, DMG 800..., DMG 900... and DMG 900 T...)",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-185555318291cfdec71bd453",
+      "recordPath": "equipment/lovato-order-185555318291cfdec71bd453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-185555318291cfdec71bd453.json"
+    },
+    {
+      "id": "lovato-order-91577ff89ae5919738df1d3c",
+      "name": "DMG611R3000 — Energy meters and power analyzers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-91577ff89ae5919738df1d3c",
+      "recordPath": "equipment/lovato-order-91577ff89ae5919738df1d3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-91577ff89ae5919738df1d3c.json"
+    },
+    {
+      "id": "lovato-order-b9fc061ae50d7840928adf38",
+      "name": "P1RA4P40A030 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b9fc061ae50d7840928adf38",
+      "recordPath": "equipment/lovato-order-b9fc061ae50d7840928adf38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b9fc061ae50d7840928adf38.json"
+    },
+    {
+      "id": "lovato-order-a565a4ddbe20997b4007e249",
+      "name": "LPCB108 — Plastic push-button actuator, spring return, flush, white",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a565a4ddbe20997b4007e249",
+      "recordPath": "equipment/lovato-order-a565a4ddbe20997b4007e249.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a565a4ddbe20997b4007e249.json"
+    },
+    {
+      "id": "lovato-order-65c06f3e7204e04ea7e33d44",
+      "name": "GLX62CB — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-65c06f3e7204e04ea7e33d44",
+      "recordPath": "equipment/lovato-order-65c06f3e7204e04ea7e33d44.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-65c06f3e7204e04ea7e33d44.json"
+    },
+    {
+      "id": "lovato-order-5ee6a226947c08e1da42a7c7",
+      "name": "LPFB103 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5ee6a226947c08e1da42a7c7",
+      "recordPath": "equipment/lovato-order-5ee6a226947c08e1da42a7c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5ee6a226947c08e1da42a7c7.json"
+    },
+    {
+      "id": "lovato-order-d672481ca1dc585564c1735f",
+      "name": "SM1X16400 — Shunt trip release, 400VAC 50/60Hz, for SM1",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d672481ca1dc585564c1735f",
+      "recordPath": "equipment/lovato-order-d672481ca1dc585564c1735f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d672481ca1dc585564c1735f.json"
+    },
+    {
+      "id": "lovato-order-55d1ad86ff35ee1d6fb03c27",
+      "name": "LPSJ200 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-55d1ad86ff35ee1d6fb03c27",
+      "recordPath": "equipment/lovato-order-55d1ad86ff35ee1d6fb03c27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-55d1ad86ff35ee1d6fb03c27.json"
+    },
+    {
+      "id": "lovato-order-f9dc5bceed742fb36a2561fe",
+      "name": "LPXLPB3 — LED integrated lamp-holders steady or flashing light, green, 18-30VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f9dc5bceed742fb36a2561fe",
+      "recordPath": "equipment/lovato-order-f9dc5bceed742fb36a2561fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f9dc5bceed742fb36a2561fe.json"
+    },
+    {
+      "id": "lovato-order-722e68feef0025d773438e9e",
+      "name": "LPXLPB4 — LED integrated lamp-holders steady or flashing light, red, 18-30VAC/DC",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-722e68feef0025d773438e9e",
+      "recordPath": "equipment/lovato-order-722e68feef0025d773438e9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-722e68feef0025d773438e9e.json"
+    },
+    {
+      "id": "lovato-order-606842b8ac609ab28290855f",
+      "name": "LPXAU105 — Label holder for blank or engraved LPX AU108 labels",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-606842b8ac609ab28290855f",
+      "recordPath": "equipment/lovato-order-606842b8ac609ab28290855f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-606842b8ac609ab28290855f.json"
+    },
+    {
+      "id": "lovato-order-3fa7f81abfa51e0accfb345c",
+      "name": "LPFSL1305 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3fa7f81abfa51e0accfb345c",
+      "recordPath": "equipment/lovato-order-3fa7f81abfa51e0accfb345c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3fa7f81abfa51e0accfb345c.json"
+    },
+    {
+      "id": "lovato-order-23db6f40e689af25b52382fd",
+      "name": "11BGX79415 — BGX79",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-23db6f40e689af25b52382fd",
+      "recordPath": "equipment/lovato-order-23db6f40e689af25b52382fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-23db6f40e689af25b52382fd.json"
+    },
+    {
+      "id": "lovato-order-b6d57d672ec625157c08fca1",
+      "name": "11G48412 — Auxiliary contacts 1NO+2NC, front centre mounting",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b6d57d672ec625157c08fca1",
+      "recordPath": "equipment/lovato-order-b6d57d672ec625157c08fca1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b6d57d672ec625157c08fca1.json"
+    },
+    {
+      "id": "lovato-order-25b08c5b6edf676a33ee3f8a",
+      "name": "11SMX9033 — Motor protection circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-25b08c5b6edf676a33ee3f8a",
+      "recordPath": "equipment/lovato-order-25b08c5b6edf676a33ee3f8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-25b08c5b6edf676a33ee3f8a.json"
+    },
+    {
+      "id": "lovato-order-e9f7ba7b66b464955dd68867",
+      "name": "P1MB1MC13 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e9f7ba7b66b464955dd68867",
+      "recordPath": "equipment/lovato-order-e9f7ba7b66b464955dd68867.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e9f7ba7b66b464955dd68867.json"
+    },
+    {
+      "id": "lovato-order-ae690547eaed3e08dbf42f4d",
+      "name": "ADXNB012 — Soft starters",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ae690547eaed3e08dbf42f4d",
+      "recordPath": "equipment/lovato-order-ae690547eaed3e08dbf42f4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ae690547eaed3e08dbf42f4d.json"
+    },
+    {
+      "id": "lovato-order-12418b3f1e0264457d7260a1",
+      "name": "P1MB4PB13 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-12418b3f1e0264457d7260a1",
+      "recordPath": "equipment/lovato-order-12418b3f1e0264457d7260a1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-12418b3f1e0264457d7260a1.json"
+    },
+    {
+      "id": "lovato-order-7cd54517ed9ab03c6e08c8ef",
+      "name": "LPMLD1 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7cd54517ed9ab03c6e08c8ef",
+      "recordPath": "equipment/lovato-order-7cd54517ed9ab03c6e08c8ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7cd54517ed9ab03c6e08c8ef.json"
+    },
+    {
+      "id": "lovato-order-b08df12ff22ba9a906e4dd88",
+      "name": "GLX420100UL — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b08df12ff22ba9a906e4dd88",
+      "recordPath": "equipment/lovato-order-b08df12ff22ba9a906e4dd88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b08df12ff22ba9a906e4dd88.json"
+    },
+    {
+      "id": "lovato-order-12bfe931f65631171229f405",
+      "name": "ADXNF04524 — Soft starters",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-12bfe931f65631171229f405",
+      "recordPath": "equipment/lovato-order-12bfe931f65631171229f405.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-12bfe931f65631171229f405.json"
+    },
+    {
+      "id": "lovato-order-317974858b48c6e56de9e80e",
+      "name": "P1MB1PB03 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-317974858b48c6e56de9e80e",
+      "recordPath": "equipment/lovato-order-317974858b48c6e56de9e80e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-317974858b48c6e56de9e80e.json"
+    },
+    {
+      "id": "lovato-order-cd01e713d68cbe0ed9fba23a",
+      "name": "RF380025 — RF38",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cd01e713d68cbe0ed9fba23a",
+      "recordPath": "equipment/lovato-order-cd01e713d68cbe0ed9fba23a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cd01e713d68cbe0ed9fba23a.json"
+    },
+    {
+      "id": "lovato-order-f8a9e8924fa7b270c33969da",
+      "name": "BF19500E230 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f8a9e8924fa7b270c33969da",
+      "recordPath": "equipment/lovato-order-f8a9e8924fa7b270c33969da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f8a9e8924fa7b270c33969da.json"
+    },
+    {
+      "id": "lovato-order-4213800bcac4c63994685e11",
+      "name": "SRBEM41 — Safety devices",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4213800bcac4c63994685e11",
+      "recordPath": "equipment/lovato-order-4213800bcac4c63994685e11.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4213800bcac4c63994685e11.json"
+    },
+    {
+      "id": "lovato-order-fe2b81508fb36ccba0c61531",
+      "name": "DMG611R6300 — Energy meters and power analyzers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fe2b81508fb36ccba0c61531",
+      "recordPath": "equipment/lovato-order-fe2b81508fb36ccba0c61531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fe2b81508fb36ccba0c61531.json"
+    },
+    {
+      "id": "lovato-order-83170c9aef9bdaf941db7270",
+      "name": "P1MB1PB08 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-83170c9aef9bdaf941db7270",
+      "recordPath": "equipment/lovato-order-83170c9aef9bdaf941db7270.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-83170c9aef9bdaf941db7270.json"
+    },
+    {
+      "id": "lovato-order-197d6dd23282cd48112a3525",
+      "name": "BF15000A400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-197d6dd23282cd48112a3525",
+      "recordPath": "equipment/lovato-order-197d6dd23282cd48112a3525.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-197d6dd23282cd48112a3525.json"
+    },
+    {
+      "id": "lovato-order-3166d0acc3778a0304db1c33",
+      "name": "P1MB1NC20 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3166d0acc3778a0304db1c33",
+      "recordPath": "equipment/lovato-order-3166d0acc3778a0304db1c33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3166d0acc3778a0304db1c33.json"
+    },
+    {
+      "id": "lovato-order-ccb7b7c61f64073ab38c625e",
+      "name": "BF16000E024 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ccb7b7c61f64073ab38c625e",
+      "recordPath": "equipment/lovato-order-ccb7b7c61f64073ab38c625e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ccb7b7c61f64073ab38c625e.json"
+    },
+    {
+      "id": "lovato-order-7a10eacbe9e6f4e9ba54702f",
+      "name": "GAX42063SC — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7a10eacbe9e6f4e9ba54702f",
+      "recordPath": "equipment/lovato-order-7a10eacbe9e6f4e9ba54702f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7a10eacbe9e6f4e9ba54702f.json"
+    },
+    {
+      "id": "lovato-order-8de38ed910b06e30096c8f46",
+      "name": "BF230T4E024 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8de38ed910b06e30096c8f46",
+      "recordPath": "equipment/lovato-order-8de38ed910b06e30096c8f46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8de38ed910b06e30096c8f46.json"
+    },
+    {
+      "id": "lovato-order-2d7361bd51645154ed2ddfa7",
+      "name": "BF9500A400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2d7361bd51645154ed2ddfa7",
+      "recordPath": "equipment/lovato-order-2d7361bd51645154ed2ddfa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2d7361bd51645154ed2ddfa7.json"
+    },
+    {
+      "id": "lovato-order-8a5e734fec767bf8bb7acf81",
+      "name": "VLB30750A480XX — Variable speed drives",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8a5e734fec767bf8bb7acf81",
+      "recordPath": "equipment/lovato-order-8a5e734fec767bf8bb7acf81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8a5e734fec767bf8bb7acf81.json"
+    },
+    {
+      "id": "lovato-order-4fbe4e513949cf739553b57d",
+      "name": "BF16000E230 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4fbe4e513949cf739553b57d",
+      "recordPath": "equipment/lovato-order-4fbe4e513949cf739553b57d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4fbe4e513949cf739553b57d.json"
+    },
+    {
+      "id": "lovato-order-7efd34a55ccad992e73a95b5",
+      "name": "ADXNP01224 — Soft starters",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7efd34a55ccad992e73a95b5",
+      "recordPath": "equipment/lovato-order-7efd34a55ccad992e73a95b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7efd34a55ccad992e73a95b5.json"
+    },
+    {
+      "id": "lovato-order-27b3469cdafec98043c50cc7",
+      "name": "LPCB6744 — Plastic mushroom head button actuator, latch, pull to release O40mm, red",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-27b3469cdafec98043c50cc7",
+      "recordPath": "equipment/lovato-order-27b3469cdafec98043c50cc7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-27b3469cdafec98043c50cc7.json"
+    },
+    {
+      "id": "lovato-order-6df548035742d5d66365d315",
+      "name": "DMG100 — Energy meters and power analyzers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6df548035742d5d66365d315",
+      "recordPath": "equipment/lovato-order-6df548035742d5d66365d315.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6df548035742d5d66365d315.json"
+    },
+    {
+      "id": "lovato-order-7ee087dc4d0a5b6e6d81761b",
+      "name": "RF110082 — Motor protection relays",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7ee087dc4d0a5b6e6d81761b",
+      "recordPath": "equipment/lovato-order-7ee087dc4d0a5b6e6d81761b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7ee087dc4d0a5b6e6d81761b.json"
+    },
+    {
+      "id": "lovato-order-c45f0e56081d5029e513d2d6",
+      "name": "11RF905 — RF9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c45f0e56081d5029e513d2d6",
+      "recordPath": "equipment/lovato-order-c45f0e56081d5029e513d2d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c45f0e56081d5029e513d2d6.json"
+    },
+    {
+      "id": "lovato-order-cc873b7b9e6d2e2ec1096e47",
+      "name": "LPCZSB — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cc873b7b9e6d2e2ec1096e47",
+      "recordPath": "equipment/lovato-order-cc873b7b9e6d2e2ec1096e47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cc873b7b9e6d2e2ec1096e47.json"
+    },
+    {
+      "id": "lovato-order-1495268a9399975604c99d2c",
+      "name": "LPCPA100 — Monoblock potentiometers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1495268a9399975604c99d2c",
+      "recordPath": "equipment/lovato-order-1495268a9399975604c99d2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1495268a9399975604c99d2c.json"
+    },
+    {
+      "id": "lovato-order-3f1ea157973a079a4b32cdb5",
+      "name": "BFX1040 — Auxiliary contacts 4NO, front centre mounting",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3f1ea157973a079a4b32cdb5",
+      "recordPath": "equipment/lovato-order-3f1ea157973a079a4b32cdb5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3f1ea157973a079a4b32cdb5.json"
+    },
+    {
+      "id": "lovato-order-87e6cc1927be3c939145be1d",
+      "name": "P1MBUH2PC06 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-87e6cc1927be3c939145be1d",
+      "recordPath": "equipment/lovato-order-87e6cc1927be3c939145be1d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-87e6cc1927be3c939145be1d.json"
+    },
+    {
+      "id": "lovato-order-de37c4a4583d02a6641f0582",
+      "name": "ATL900 — ATL900",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-de37c4a4583d02a6641f0582",
+      "recordPath": "equipment/lovato-order-de37c4a4583d02a6641f0582.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-de37c4a4583d02a6641f0582.json"
+    },
+    {
+      "id": "lovato-order-dd1354d3be83ac49db9824ba",
+      "name": "FB01A1M — Fuse holder, 10x38 with UR and CSA approval, 1 pole + N",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-dd1354d3be83ac49db9824ba",
+      "recordPath": "equipment/lovato-order-dd1354d3be83ac49db9824ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-dd1354d3be83ac49db9824ba.json"
+    },
+    {
+      "id": "lovato-order-4525c8f10c40c993fccb29e1",
+      "name": "LTN70ML1 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4525c8f10c40c993fccb29e1",
+      "recordPath": "equipment/lovato-order-4525c8f10c40c993fccb29e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4525c8f10c40c993fccb29e1.json"
+    },
+    {
+      "id": "lovato-order-ced69962f07c45955bfd3eb0",
+      "name": "GL0160C1 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ced69962f07c45955bfd3eb0",
+      "recordPath": "equipment/lovato-order-ced69962f07c45955bfd3eb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ced69962f07c45955bfd3eb0.json"
+    },
+    {
+      "id": "lovato-order-af5c7475f0ecdf1e8f5c654c",
+      "name": "GAX7400 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-af5c7475f0ecdf1e8f5c654c",
+      "recordPath": "equipment/lovato-order-af5c7475f0ecdf1e8f5c654c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-af5c7475f0ecdf1e8f5c654c.json"
+    },
+    {
+      "id": "lovato-order-3c78c8ce8f684d1d6eb880a7",
+      "name": "LTN50BP3 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3c78c8ce8f684d1d6eb880a7",
+      "recordPath": "equipment/lovato-order-3c78c8ce8f684d1d6eb880a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3c78c8ce8f684d1d6eb880a7.json"
+    },
+    {
+      "id": "lovato-order-48ff6879605aef8e9aee74ca",
+      "name": "P1MB1PC03 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-48ff6879605aef8e9aee74ca",
+      "recordPath": "equipment/lovato-order-48ff6879605aef8e9aee74ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-48ff6879605aef8e9aee74ca.json"
+    },
+    {
+      "id": "lovato-order-d10b7e7edef8b9815b7d2685",
+      "name": "GLC0315C1 — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d10b7e7edef8b9815b7d2685",
+      "recordPath": "equipment/lovato-order-d10b7e7edef8b9815b7d2685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d10b7e7edef8b9815b7d2685.json"
+    },
+    {
+      "id": "lovato-order-e0db2f0f0bf7e3577a2a0304",
+      "name": "LTN70MW024 — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e0db2f0f0bf7e3577a2a0304",
+      "recordPath": "equipment/lovato-order-e0db2f0f0bf7e3577a2a0304.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e0db2f0f0bf7e3577a2a0304.json"
+    },
+    {
+      "id": "lovato-order-d03a46e7b2f9985d2218a8ac",
+      "name": "P1MB1PC13 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d03a46e7b2f9985d2218a8ac",
+      "recordPath": "equipment/lovato-order-d03a46e7b2f9985d2218a8ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d03a46e7b2f9985d2218a8ac.json"
+    },
+    {
+      "id": "lovato-order-b075c630d3a9aa456637a52c",
+      "name": "LPMLM1 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b075c630d3a9aa456637a52c",
+      "recordPath": "equipment/lovato-order-b075c630d3a9aa456637a52c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b075c630d3a9aa456637a52c.json"
+    },
+    {
+      "id": "lovato-order-8aa37d4711bc45f0ba29f8e2",
+      "name": "11SMX9030 — Motor protection circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8aa37d4711bc45f0ba29f8e2",
+      "recordPath": "equipment/lovato-order-8aa37d4711bc45f0ba29f8e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8aa37d4711bc45f0ba29f8e2.json"
+    },
+    {
+      "id": "lovato-order-a7ec7d3702fd87136c445e26",
+      "name": "GA160A — Switch disconnectors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a7ec7d3702fd87136c445e26",
+      "recordPath": "equipment/lovato-order-a7ec7d3702fd87136c445e26.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a7ec7d3702fd87136c445e26.json"
+    },
+    {
+      "id": "lovato-order-f09205c2ab595e717263f805",
+      "name": "GAX1011A — Auxiliary contacts, 1NO+1NC for GA...A and GA...D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f09205c2ab595e717263f805",
+      "recordPath": "equipment/lovato-order-f09205c2ab595e717263f805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f09205c2ab595e717263f805.json"
+    },
+    {
+      "id": "lovato-order-601748ae5ec94702df4852b5",
+      "name": "LPSSL1305 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-601748ae5ec94702df4852b5",
+      "recordPath": "equipment/lovato-order-601748ae5ec94702df4852b5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-601748ae5ec94702df4852b5.json"
+    },
+    {
+      "id": "lovato-order-2884825f128e9afb5378b1e1",
+      "name": "P1MB1NC32 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2884825f128e9afb5378b1e1",
+      "recordPath": "equipment/lovato-order-2884825f128e9afb5378b1e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2884825f128e9afb5378b1e1.json"
+    },
+    {
+      "id": "lovato-order-6355059d62c50d5cf8017b4e",
+      "name": "LTN50C — Signal towers and beacons",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6355059d62c50d5cf8017b4e",
+      "recordPath": "equipment/lovato-order-6355059d62c50d5cf8017b4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6355059d62c50d5cf8017b4e.json"
+    },
+    {
+      "id": "lovato-order-b7b3e96cefe3579d3c17f08a",
+      "name": "BFK11500A400 — Contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b7b3e96cefe3579d3c17f08a",
+      "recordPath": "equipment/lovato-order-b7b3e96cefe3579d3c17f08a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b7b3e96cefe3579d3c17f08a.json"
+    },
+    {
+      "id": "lovato-order-b2383d9fa40cb905ad718556",
+      "name": "ADXNB025 — Soft starters",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b2383d9fa40cb905ad718556",
+      "recordPath": "equipment/lovato-order-b2383d9fa40cb905ad718556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b2383d9fa40cb905ad718556.json"
+    },
+    {
+      "id": "lovato-order-39b4de803866b2fa791af50b",
+      "name": "GAX83 — ",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-39b4de803866b2fa791af50b",
+      "recordPath": "equipment/lovato-order-39b4de803866b2fa791af50b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-39b4de803866b2fa791af50b.json"
+    },
+    {
+      "id": "lovato-order-86ccc0dd64197cf0b685c84b",
+      "name": "SM1RE2500 — Motor protection circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-86ccc0dd64197cf0b685c84b",
+      "recordPath": "equipment/lovato-order-86ccc0dd64197cf0b685c84b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-86ccc0dd64197cf0b685c84b.json"
+    },
+    {
+      "id": "lovato-order-9ac39612c0f433cf2a80fe20",
+      "name": "LPCD01 — Pushbuttons and selector switches",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9ac39612c0f433cf2a80fe20",
+      "recordPath": "equipment/lovato-order-9ac39612c0f433cf2a80fe20.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9ac39612c0f433cf2a80fe20.json"
+    },
+    {
+      "id": "lovato-order-13374680ba4612c9840acf23",
+      "name": "P1RA2P40A300 — Miniature and residual circuit breakers",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-13374680ba4612c9840acf23",
+      "recordPath": "equipment/lovato-order-13374680ba4612c9840acf23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-13374680ba4612c9840acf23.json"
+    },
+    {
+      "id": "lovato-order-76082978319e2037e6f545e2",
+      "name": "11RF91V5 — RF9",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-76082978319e2037e6f545e2",
+      "recordPath": "equipment/lovato-order-76082978319e2037e6f545e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-76082978319e2037e6f545e2.json"
+    }
+  ]
+}

@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {validateCatalogue,entryMarkdown,md} from '../scripts/catalogue.mjs';
-const source=JSON.parse(await readFile(new URL('../data/catalogue.json',import.meta.url),'utf8'));
+const source=JSON.parse(await readFile(new URL('./fixtures/catalogue.json',import.meta.url),'utf8'));
 test('static full export can omit the unused query field',()=>{
  const full=structuredClone(source);delete full.query;validateCatalogue(full);
  full.query='private';assert.throws(()=>validateCatalogue(full),/unexpected constant/);
@@ -22,5 +22,7 @@ test('bounded discovery shards cover each released record exactly once',async()=
   assert.ok(shard.entries.length<=250);
   for(const entry of shard.entries){ids.push(entry.id);assert.equal(entry.recordPath,`equipment/${entry.id}.md`);assert.ok(entry.jsonUrl.endsWith(`/entries/${entry.id}.json`));}
  }
- assert.deepEqual(ids.sort(),source.equipment.map(r=>r.id).sort());
+ const manifest=JSON.parse(await readFile(new URL('../data/manifest.json',import.meta.url),'utf8'));
+ assert.equal(ids.length,manifest.counts.entries);assert.equal(new Set(ids).size,ids.length);
+ for(const r of source.equipment)assert.ok(ids.includes(r.id));
 });

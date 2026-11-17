@@ -8,7 +8,7 @@ ABB 12LY-001-003\_29.001: motor outline for motor footprint and drive-end arrang
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 12LY-001-003\_29.001; 12LY-001-003
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “12LY-001-003\_29.001”. Keep those frame, moun
 - Motor drawing designation (12LY-001-003): HORZ TEFC 324-6TSC W/INTERNAL SH GND, 2.50 LEAD HOLE
 - Drawing views (12LY-001-003.pdf, page 1): drive end detail
 - Manufacturer reference: 12LY-001-003
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -115,6 +115,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 2336696 bytes
 - Delivery SHA-256: e5a9ff0fd020e7214d3c5c9b2e392adea2a831b2a32c36d4857900c2e3635b4f
+
+### 12LY\_001\_003\_29.001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (12LY\_001\_003\_29.001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-12ly-001-003-29-001-dwg-2d-autocad-dwg-2000-c1fd72dc8a/e5a9ff0fd020e7214d3c-dxf)
+- Redistribution: unknown
+- Original SHA-256: e5a9ff0fd020e7214d3c5c9b2e392adea2a831b2a32c36d4857900c2e3635b4f
+- Original bytes: 2336696
+- Revision: A
+- Retrieved: 2026-11-04T01:03:37Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 6840311 bytes
+- Delivery SHA-256: 152fb298cfb88297aed7f010a2d83e209168ac4e5492bb39e8c8cc64581998c0
 
 ### 12LY-001-003.pdf
 

@@ -23,6 +23,7 @@ The supplied configuration is “Fault Tamer® Fuse Limiter”. Keep those frame
 - Manufacturer: S&C Electric
 - Resource type: Product
 - Manufacturer drawing: Fault Tamer® Fuse Limiter
+- Standards: AS 1033.1
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -9,7 +9,7 @@ OTDCKIT600FS11: ABB manufacturer STEP model and DWG drawing resources, document 
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK108467A8526
 - Installation applications: microgrids, switchgear
-- Formats: STEP, DWG
+- Formats: STEP, DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for OTDCKIT600FS11; ABB document 9AKK108467A8526
 - Resource type: Named drawing reference
 - Manufacturer drawing: 9AKK108467A8526
 - Model extents (X × Y × Z, mm): 89.0 × 61.0 × 150.0
-- Listed file formats: STEP, DWG
-- Listed files: 2
+- Listed file formats: STEP, DWG, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -123,5 +123,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A8528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 1559212 bytes
 - Delivery SHA-256: 7f856e72fdc3fd040ca8f3265eeded113b4af53b88eebd3f6ab66af6f3246a17
+
+### 9AKK108467A8528.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (9AKK108467A8528.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A8528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdckit600fs11-f9c212bf/drawing-72d8d4dc-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7f856e72fdc3fd040ca8f3265eeded113b4af53b88eebd3f6ab66af6f3246a17
+- Original bytes: 1559212
+- Revision: B
+- Retrieved: 2026-11-03T03:32:58.394146+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A8526&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: The released public source has the exact same normalized equipment title as the STEP model. The complete source and decoded drawing notices were checked; no explicit reproduction prohibition was identified. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A8528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 12005730 bytes
+- Delivery SHA-256: 71501070fc2e5fa4e216ee54ea27a02731371e602dd0b8e5435c33395def44ed
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

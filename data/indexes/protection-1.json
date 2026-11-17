@@ -324,7 +324,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "2RCA021836_REF615_CONF_D / dwg",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-d-61dcfaa5",
       "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-d-61dcfaa5.md",
@@ -336,7 +337,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "2RCA021838_REF615_CONF_F / dwg",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-f-4dc3ed27",
       "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-f-4dc3ed27.md",
@@ -348,7 +350,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "2RCA025328_REF615_CONF_L / dwg",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-l-c4615a69",
       "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-l-c4615a69.md",
@@ -360,7 +363,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "2RCA033130_REF615_CONF_N / dwg",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ref615-ansi-5-1-configuration-n-f853f6f9",
       "recordPath": "equipment/abb-ref615-ansi-5-1-configuration-n-f853f6f9.md",
@@ -384,7 +388,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "2RCA023582_RET615_CONF_B / dwg",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ret615-ansi-5-1-configuration-b-6246ec55",
       "recordPath": "equipment/abb-ret615-ansi-5-1-configuration-b-6246ec55.md",
@@ -396,7 +401,8 @@
       "manufacturer": "ABB",
       "drawingNumber": "2RCA025333_RET615_CONF_F / dwg",
       "formats": [
-        "DWG"
+        "DWG",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-ret615-ansi-5-1-configuration-f-082c2929",
       "recordPath": "equipment/abb-ret615-ansi-5-1-configuration-f-082c2929.md",
@@ -1742,7 +1748,8 @@
       "drawingNumber": "RE_611_20",
       "formats": [
         "DWG",
-        "PDF"
+        "PDF",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-611-series-hmi-front-drawing-9214968469",
       "recordPath": "equipment/abb-611-series-hmi-front-drawing-9214968469.md",
@@ -1767,7 +1774,8 @@
       "drawingNumber": "RE_615_50",
       "formats": [
         "DWG",
-        "PDF"
+        "PDF",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-615-series-hmi-front-drawing-1f94cccae6",
       "recordPath": "equipment/abb-615-series-hmi-front-drawing-1f94cccae6.md",
@@ -1792,7 +1800,8 @@
       "drawingNumber": "RE_620_20",
       "formats": [
         "DWG",
-        "PDF"
+        "PDF",
+        "DXF"
       ],
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-620-series-hmi-front-drawing-29a1ed68c0",
       "recordPath": "equipment/abb-620-series-hmi-front-drawing-29a1ed68c0.md",
@@ -2810,6 +2819,42 @@
       "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579",
       "recordPath": "equipment/abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579.md",
       "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/abb-user-drawing-2104923-xrc-g4-to-abb-fcb-coriolis-meter-rev-aa-c045be7579.json"
+    },
+    {
+      "id": "mfr-finder-34-series-slim-pcb-relay-aab7449c4a",
+      "name": "34 Series Slim PCB Relay",
+      "manufacturer": "Finder",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-finder-34-series-slim-pcb-relay-aab7449c4a",
+      "recordPath": "equipment/mfr-finder-34-series-slim-pcb-relay-aab7449c4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-finder-34-series-slim-pcb-relay-aab7449c4a.json"
+    },
+    {
+      "id": "mfr-ime-conto-d1-2fa019fae0",
+      "name": "Conto D1",
+      "manufacturer": "IME",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-ime-conto-d1-2fa019fae0",
+      "recordPath": "equipment/mfr-ime-conto-d1-2fa019fae0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-ime-conto-d1-2fa019fae0.json"
+    },
+    {
+      "id": "mfr-nhp-protek-nef-motor-protection-relays-5c6ffafdd1",
+      "name": "Protek NEF motor protection relays",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-protek-nef-motor-protection-relays-5c6ffafdd1",
+      "recordPath": "equipment/mfr-nhp-protek-nef-motor-protection-relays-5c6ffafdd1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-protek-nef-motor-protection-relays-5c6ffafdd1.json"
     }
   ]
 }

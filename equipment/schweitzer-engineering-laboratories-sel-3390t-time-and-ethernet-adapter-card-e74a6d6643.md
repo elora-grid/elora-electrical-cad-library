@@ -23,6 +23,7 @@ Manufacturer reference SEL-3390T Time and Ethernet Adapter Card identifies this 
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-3390T Time and Ethernet Adapter Card
+- Standards: IEEE 1613, IEEE C37.90, IEC 60255
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

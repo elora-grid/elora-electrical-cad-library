@@ -26,6 +26,7 @@ Manufacturer reference mvr-m257-data-sheet-4921240673-br.pdf; option-d-arc-prote
 - Source configurations grouped on this page: MVR-200; MVR-M2xx
 - Manufacturer reference: mvr-m257-data-sheet-4921240673-br.pdf; option-d-arc-protection-4189341408-uk.pdf; mvr-21x-3d-step-file.stp; mvr-21x-2d-cad-drawing.dwg; mvr-200-series-autocad-dimensions-and-faceplates.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-26, IEC 61000-6-4, IEC 60255-27, IEC 60255-1, IEC 60529
 - Listed file formats: DWG, PDF, STEP, ZIP
 - Listed files: 5
 - Available previews: Manufacturer source / drawing request

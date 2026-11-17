@@ -7,7 +7,7 @@ Manufacturer ventilation dampers drawings; choose exact size/configuration.
 - Category: Switchroom services
 - Entry type: family
 - Part number: FD-150
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -22,8 +22,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: FD-150
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with FD-150. The files above belong to Greenheck's FD-150 dampers resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG. The original filename is DFD\_FD\_150\_AND\_350\_MODEL.dwg.
+Available here: DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -83,5 +83,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.greenheck.com/)
 - Delivery: original; DWG; 64772 bytes
 - Delivery SHA-256: 60af38ba3fdf8f40f8be466b61b2c84d0c0308a99ea9abd416251dfe3a0e4f99
+
+### DFD\_FD\_150\_AND\_350\_MODEL.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (DFD\_FD\_150\_AND\_350\_MODEL.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/DFD_FD_150_AND_350_MODEL.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-fd-150-dampers/greenheck-dfd-fd-150-and-350-model-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 60af38ba3fdf8f40f8be466b61b2c84d0c0308a99ea9abd416251dfe3a0e4f99
+- Original bytes: 64772
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:37:41.760705+00:00
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://www.greenheck.com/resources/drawings/dampers)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted.
+- [Rights evidence](https://www.greenheck.com/resources/drawings/louvers)
+- [Rights evidence](https://www.greenheck.com/)
+- Delivery: converted; DXF; 243082 bytes
+- Delivery SHA-256: 6c2509384e5c86f2f702be47380d3f2e7447680bb6fbbed108d34aff23be49da
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

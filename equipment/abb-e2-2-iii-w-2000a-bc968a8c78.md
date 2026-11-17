@@ -8,7 +8,7 @@ ABB E2.2 III W 2000A: breaker or breaker-accessory reference for breaker compart
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0431
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,9 @@ The supplied configuration is “E2.2 III W 2000A”. Keep those frame, mounting
 - Manufacturer reference: 1SDH001252R0431
 - Document revision: -
 - Model envelope: 1SDH001252R0431\_E2.2\_III\_W\_2000\_N0761.stp: 325 × 390.9 × 425 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Standards: IEC 60947, IEC 61000
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -99,5 +100,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0431&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 3619735 bytes
 - Delivery SHA-256: 8308a350aa27987592f0a42cf9910781a3eaf8d91dabaf9fbf9ee094d06552ee
+
+### 1SDH001252R0431\_E2.2\_III\_W\_2000\_N0761.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0431\_E2.2\_III\_W\_2000\_N0761.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0431&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-iii-w-2000a-bc968a8c78/8308a350aa27987592f0-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8308a350aa27987592f0a42cf9910781a3eaf8d91dabaf9fbf9ee094d06552ee
+- Original bytes: 3619735
+- Revision: -
+- Retrieved: 2026-11-03T02:01:22.098618Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0431&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0431&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 343758 bytes
+- Delivery SHA-256: bab590ae4146ad7621323ef576a60a530334db7712b65347f0e3d2292c9c74d4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

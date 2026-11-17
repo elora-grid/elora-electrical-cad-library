@@ -25,6 +25,7 @@ The supplied configuration is “T7M IV F - T7M 4 poles Fixed”. Keep those fra
 - Manufacturer drawing: 1SDH001291R0222
 - Manufacturer reference: 1SDH001291R0222
 - Document revision: -
+- Standards: IEC 60947-2
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

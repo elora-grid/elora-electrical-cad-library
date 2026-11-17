@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: Cerbo GX
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: IEC 62368-1
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

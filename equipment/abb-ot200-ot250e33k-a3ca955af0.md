@@ -25,6 +25,7 @@ The supplied configuration is “OT200...OT250E33K”. Keep those frame, mountin
 - Manufacturer drawing: 1SCC307642F0001; OT200-250E33K.STP
 - Manufacturer reference: 1SCC307642F0001; OT200-250E33K.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: DXF, STEP
 - Listed files: 2
 - Available previews: 1 drawing previews; 1 interactive model variants

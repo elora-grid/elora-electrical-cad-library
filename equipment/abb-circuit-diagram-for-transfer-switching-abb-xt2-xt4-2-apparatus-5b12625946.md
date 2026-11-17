@@ -8,7 +8,7 @@ ABB Circuit diagram for transfer switching - ABB XT2/XT4 - 2 apparatus: electric
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK106103A3900
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “Circuit diagram for transfer switching - ABB XT
 - Manufacturer drawing: 9AKK106103A3900
 - Manufacturer reference: 9AKK106103A3900
 - Document revision: -
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
@@ -97,5 +97,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3900&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 357695 bytes
 - Delivery SHA-256: 40de9afdef94dae93a23ae45bb0775ced2f1151cd72334b308521a5922fe58ab
+
+### ABB\_SZR\_2xXT2\_XT4.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (ABB\_SZR\_2xXT2\_XT4.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3900&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-circuit-diagram-for-transfer-switching-abb-xt2-xt4-2-apparatus-5b12625946/40de9afdef94dae93a23-dxf)
+- Redistribution: unknown
+- Original SHA-256: 40de9afdef94dae93a23ae45bb0775ced2f1151cd72334b308521a5922fe58ab
+- Original bytes: 357695
+- Revision: -
+- Retrieved: 2026-11-04T00:58:24Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3900&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A3900&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 2708882 bytes
+- Delivery SHA-256: a769a24633c8c418af1350187c764d6f73c4bbbd25bdd3f592c066ae31643490
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

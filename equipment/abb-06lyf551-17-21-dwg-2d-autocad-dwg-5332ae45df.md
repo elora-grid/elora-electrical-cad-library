@@ -8,7 +8,7 @@ ABB 06LYF551\_17.21: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 06LYF551\_17.21; 06LYF551
-- Formats: DWG, PDF, SLDPRT, STEP
+- Formats: DWG, PDF, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “06LYF551\_17.21”. Keep those frame, mounting 
 - Model envelope: 06LYF551\_17.21.step: 437.4 × 284.2 × 300.3 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Motor drawing designation (06LYF551): STD HORZ 182-4TC TENV INVERTER (THRU-SHAFT ENCODER)
 - Manufacturer reference: 06LYF551
-- Listed file formats: DWG, PDF, SLDPRT, STEP
-- Listed files: 4
+- Listed file formats: DWG, PDF, SLDPRT, STEP, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
@@ -113,6 +113,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYF551_17.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; DWG; 119123 bytes
 - Delivery SHA-256: ed73c98806e7b5b3bc74637443601564366119b3ba1111c45c7c2f68633cb738
+
+### 06LYF551\_17.21.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (06LYF551\_17.21.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYF551_17.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-06lyf551-17-21-dwg-2d-autocad-dwg-5332ae45df/ed73c98806e7b5b3bc74-dxf)
+- Redistribution: unknown
+- Original SHA-256: ed73c98806e7b5b3bc74637443601564366119b3ba1111c45c7c2f68633cb738
+- Original bytes: 119123
+- Revision: F
+- Retrieved: 2026-11-04T00:23:12Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYF551_17.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYF551_17.21&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 271815 bytes
+- Delivery SHA-256: 092f19114d9d0633dfe4132ff7d94a60e022574149f62d8779db71fe71c94001
 
 ### 06LYF551.pdf
 

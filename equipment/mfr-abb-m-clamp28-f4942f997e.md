@@ -1,0 +1,102 @@
+# ABB — M-clamp28
+
+ABB M-clamp28: original PDF for cable-routing hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m-clamp28-f4942f997e) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m-clamp28-f4942f997e.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-m-clamp28-f4942f997e.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch)
+
+- Category: Cable management
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchrooms
+- Formats: PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named M-clamp28.
+
+## Equipment and file summary
+
+- Equipment / resource: M-clamp28
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: M-clamp28
+- Source document: 9AKK108470A8381; revision A
+- Listed file formats: PDF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: M-clamp28 ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch))
+- Source document: 9AKK108470A8381; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+Conductors carry electrical power or signals between equipment. The drawing marks show which paths connect and which simply pass one another.
+
+Use 9AKK108470A8381.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+Use 9AKK108470A8381.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB M-clamp28 and the exact source filename shown above.
+- The source was checked on 2026-11-11; recorded file revisions: 9AKK108470A8381.pdf — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for M-clamp28?
+
+1 inspected original for ABB M-clamp28: 9AKK108470A8381.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch)
+
+## Choosing a file
+
+Use 9AKK108470A8381.pdf (revision A) to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB M-clamp28: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-m-clamp28-f4942f997e/abb-06bc3339171caa762894?asset=ae32e5ace12d8b3fbd9e087122a672a197deb506a7597d26ea35a175a022f1f9)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-m-clamp28-f4942f997e). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Cable ladder / tray](https://eloragrid.ai/objects/cable-ladder)
+- [Perforated cable tray](https://eloragrid.ai/objects/ga-perforated-cable-tray)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 9AKK108470A8381.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-m-clamp28-f4942f997e/abb-06bc3339171caa762894)
+- Redistribution: unknown
+- Original SHA-256: c254d93a48414bc70d65920eb91a4403682ce90bc901b138014e8e46275f3d72
+- Original bytes: 101987
+- Revision: A
+- Retrieved: 2026-11-11T05:38:34.958819+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108470A8381&LanguageCode=en&LanguageCode=fi&LanguageCode=sv&DocumentPartId=PDF&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; PDF; 101987 bytes
+- Delivery SHA-256: c254d93a48414bc70d65920eb91a4403682ce90bc901b138014e8e46275f3d72
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

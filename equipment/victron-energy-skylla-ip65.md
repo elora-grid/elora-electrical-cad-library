@@ -7,7 +7,7 @@ Official Skylla-IP65 dimensional CAD. Exact voltage, power, hardware generation 
 - Category: Auxiliary power & UPS
 - Entry type: family
 - Part number: Select exact configuration
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: US, AU, Global
 - Access: direct
 - Checked: 2026-10-13
@@ -21,8 +21,8 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: Skylla-IP65
 - Manufacturer: Victron Energy
 - Resource type: Product family
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
@@ -44,7 +44,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 This is Victron Energy's Skylla-IP65 collection. Select the model or accessory named in each file, rather than choosing solely by format.
-Available here: STEP, DWG. The individual filenames above distinguish the supplied variants.
+Available here: STEP, DWG, DXF. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -104,5 +104,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
 - Delivery: original; DWG; 448408 bytes
 - Delivery SHA-256: d84049810436c03c5e8b2add5d510b00cf48e337f4871e96928dab790095f435
+
+### DimensionDrawing\_Skylla-IP65.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing\_Skylla-IP65.DWG).
+- [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing_Skylla-IP65.DWG)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-skylla-ip65/victron-energy-dimensiondrawing-skylla-ip65-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: d84049810436c03c5e8b2add5d510b00cf48e337f4871e96928dab790095f435
+- Original bytes: 448408
+- Revision: Not recorded
+- Retrieved: 2026-10-13
+- Hosting basis: no-explicit-prohibition; reviewed 2026-10-14T02:47:39.871680+00:00
+- Hosting attribution: Victron Energy
+- [Hosting evidence](https://www.victronenergy.com/chargers/skylla-ip65)
+- Rights review: Reviewed official download/source pages, linked notices and available archive notices. No explicit prohibition on publishing this acquired CAD was identified. Redistribution permission remains unconfirmed; no licence is asserted. Linked terms govern product sales, software supplied with products and confidential buyer information; no explicit prohibition for public CAD downloads was identified.
+- [Rights evidence](https://www.victronenergy.com/communication-centres/cerbo-gx)
+- [Rights evidence](https://www.victronenergy.com/)
+- [Rights evidence](https://www.victronenergy.com/upload/documents/VICTRON-ENERGY-B.V.-TERMS-&-CONDITIONS-OF-SALE.pdf)
+- Delivery: converted; DXF; 2436976 bytes
+- Delivery SHA-256: a3957e56e5b98c60319624bd8638f434dee03776f5943ca08086358e9bb29fb9
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

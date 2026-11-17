@@ -1,0 +1,160 @@
+# Weidmüller — WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid
+
+Weidmüller WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1857540000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1857540000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1857540000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wff-120m12ah/p/1857540000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1857540000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1857540000
+- Manufacturer reference: 1857540000
+- Manufacturer type: WFF 120/M12/AH
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1857540000 ([source](https://eshop.weidmueller.com.cn/en/wff-120m12ah/p/1857540000/downloads#engineering-support))
+- Manufacturer type: WFF 120/M12/AH ([source](https://eshop.weidmueller.com.cn/en/wff-120m12ah/p/1857540000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wff-120m12ah/p/1857540000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1857540000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1857540000\_back.DXF, 1857540000\_bottom.DXF, 1857540000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+1857540000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1857540000\_back.DXF, 1857540000\_bottom.DXF, 1857540000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid before placing it. Use 1857540000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1857540000.stp. 1857540000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1857540000\_back.DWG, 1857540000\_bottom.DWG, 1857540000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1857540000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid?
+
+3 inspected originals for Weidmüller WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid: 1857540000\_DXF.zip (ZIP); 1857540000.stp (STEP); 1857540000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wff-120m12ah/p/1857540000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wff-120m12ah/p/1857540000/downloads#engineering-support)
+
+## Choosing a file
+
+1857540000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1857540000\_back.DXF, 1857540000\_bottom.DXF, 1857540000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid before placing it. Use 1857540000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1857540000.stp. 1857540000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1857540000\_back.DWG, 1857540000\_bottom.DWG, 1857540000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WFF 120/M12/AH — Feed-through terminal block / Stud terminal, Threaded stud connection, dark beige, 120 mm², 269 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1857540000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/9291ca2e-588d-4a88-97a3-63ef92771d22/original/1857540000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1857540000/native-e822e416c77027b522a7d52f-zip)
+- Redistribution: unknown
+- Original SHA-256: e822e416c77027b522a7d52f822d2cee3dabfd8a138ea091cc4d96f98c5ecfe4
+- Original bytes: 35555
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/9291ca2e-588d-4a88-97a3-63ef92771d22/original/1857540000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/9291ca2e-588d-4a88-97a3-63ef92771d22/original/1857540000_DXF.zip)
+- Delivery: original; ZIP; 35555 bytes
+- Delivery SHA-256: e822e416c77027b522a7d52f822d2cee3dabfd8a138ea091cc4d96f98c5ecfe4
+
+<details>
+<summary>Archive members</summary>
+
+- 1857540000\_back.DXF
+- 1857540000\_bottom.DXF
+- 1857540000\_front.DXF
+- 1857540000\_left.DXF
+- 1857540000\_right.DXF
+- 1857540000\_top.DXF
+
+</details>
+
+### 1857540000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/92450376-db5a-4038-9e23-b7df3dc84e07/original/1857540000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1857540000/native-b9e589adf0331bc858b005d8-step)
+- Redistribution: unknown
+- Original SHA-256: b9e589adf0331bc858b005d8b71e2d1b94b248d9347805f3a40df4aff97f0f5c
+- Original bytes: 716671
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/92450376-db5a-4038-9e23-b7df3dc84e07/original/1857540000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/92450376-db5a-4038-9e23-b7df3dc84e07/original/1857540000.stp)
+- Delivery: source-bundle; ZIP; 121110 bytes
+- Delivery SHA-256: ff74789ff88ef78d4f2e4af30641a9b45b81d1e608ef65f9588799c4c08bd5f3
+
+### 1857540000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/08456cdb-a104-47af-ac26-d9b2084bb179/original/1857540000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1857540000/native-dfdbde80463b8ca899fb1b22-zip)
+- Redistribution: unknown
+- Original SHA-256: dfdbde80463b8ca899fb1b22b18e45fd6f7a8356dbc95f7a5095eb82c89a9f25
+- Original bytes: 60747
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/08456cdb-a104-47af-ac26-d9b2084bb179/original/1857540000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/08456cdb-a104-47af-ac26-d9b2084bb179/original/1857540000_DWG.zip)
+- Delivery: original; ZIP; 60747 bytes
+- Delivery SHA-256: dfdbde80463b8ca899fb1b22b18e45fd6f7a8356dbc95f7a5095eb82c89a9f25
+
+<details>
+<summary>Archive members</summary>
+
+- 1857540000\_back.DWG
+- 1857540000\_bottom.DWG
+- 1857540000\_front.DWG
+- 1857540000\_left.DWG
+- 1857540000\_right.DWG
+- 1857540000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

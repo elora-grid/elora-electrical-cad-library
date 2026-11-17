@@ -25,6 +25,7 @@ The supplied configuration is “E2.2 W IP54”. Keep those frame, mounting and 
 - Manufacturer drawing: 1SDH002446A1003
 - Manufacturer reference: 1SDH002446A1003
 - Document revision: A
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

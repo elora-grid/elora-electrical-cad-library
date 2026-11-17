@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: SmartShunt
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: IEC 61010
 - Listed file formats: STEP, PDF
 - Listed files: 16
 - Available previews: 8 drawing previews; 8 interactive model variants

@@ -22,6 +22,7 @@ This archive identifies SDR-240-3D in the native assembly. Confirm revision comp
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: SDR-240-24, SDR-240-48
+- Standards: UL 508, IEC 62368-1, AS/NZS 62368.1, IEC 60204-1, EN 55032, IEC 61204-3, IEC 61000-3-2, EN 55035, IEC 61000-6-2, EN 50082-2
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

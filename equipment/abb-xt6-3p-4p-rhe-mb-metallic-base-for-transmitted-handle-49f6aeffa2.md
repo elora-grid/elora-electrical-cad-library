@@ -8,7 +8,7 @@ ABB XT6 3p 4p RHE\_MB Metallic base for transmitted handle: breaker or breaker-a
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1987
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT6 3p 4p RHE\_MB Metallic base for transmitted
 - Manufacturer drawing: 1SDH002065A1987
 - Manufacturer reference: 1SDH002065A1987
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 14509792 bytes
 - Delivery SHA-256: 0eb6432c3168fbbbf4f017020ffd4a0843b5e5a390ada2a6d51eb418fa435ac6
+
+### 1SDH002065A1987.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1987.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-rhe-mb-metallic-base-for-transmitted-handle-49f6aeffa2/0eb6432c3168fbbbf4f0-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0eb6432c3168fbbbf4f017020ffd4a0843b5e5a390ada2a6d51eb418fa435ac6
+- Original bytes: 14509792
+- Revision: A
+- Retrieved: 2026-11-04T01:16:12Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1987&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 476734 bytes
+- Delivery SHA-256: fdc2428c89b07f69efa818efa227ac432ac5a13247cca5683673eb93cec4f477
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

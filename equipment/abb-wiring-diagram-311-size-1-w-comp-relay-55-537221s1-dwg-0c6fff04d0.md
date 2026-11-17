@@ -8,7 +8,7 @@ ABB WIRING DIAGRAM 311 SIZE 1 W/COMP RELAY(55-537221S1): electrical connection d
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SQC913855D0201
-- Formats: DWG, PDF
+- Formats: DWG, PDF, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This is an electrical connection reference. Use a separate equipment outline for
 - Manufacturer drawing: 1SQC913855D0201
 - Manufacturer reference: 1SQC913855D0201
 - Document revision: D
-- Listed file formats: DWG, PDF
-- Listed files: 2
+- Listed file formats: DWG, PDF, DXF
+- Listed files: 3
 - Available previews: 2 drawing previews
 - Recorded revisions: D
 - Source checked: 2026-11-04
@@ -96,6 +96,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913855D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; DWG; 190842 bytes
 - Delivery SHA-256: 09e9b0e71daa79f99f4ee9755cbb424f257b2ea6bb7062f90315acd0e7375bd1
+
+### 1SQC913855D0201\_en\_DWG\_D\_WIRING\_DIAGRAM\_311\_SIZE\_1\_W\_COMP\_RELAY\_55\_537221S1\_\_DWG.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SQC913855D0201\_en\_DWG\_D\_WIRING\_DIAGRAM\_311\_SIZE\_1\_W\_COMP\_RELAY\_55\_537221S1\_\_DWG.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913855D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-wiring-diagram-311-size-1-w-comp-relay-55-537221s1-dwg-0c6fff04d0/09e9b0e71daa79f99f4e-dxf)
+- Redistribution: unknown
+- Original SHA-256: 09e9b0e71daa79f99f4ee9755cbb424f257b2ea6bb7062f90315acd0e7375bd1
+- Original bytes: 190842
+- Revision: D
+- Retrieved: 2026-11-04T00:57:41Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913855D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913855D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
+- Delivery: converted; DXF; 588785 bytes
+- Delivery SHA-256: 36e71d593ae2a9b3986f6918729e04bbb1f029b70b055537f75a839778099c99
 
 ### 1SQC913855D0201.pdf
 

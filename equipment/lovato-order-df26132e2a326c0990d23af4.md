@@ -1,0 +1,116 @@
+# LOVATO Electric — LPSJ201 — Pushbuttons and selector switches
+
+LOVATO Electric LPSJ201 — Pushbuttons and selector switches. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-df26132e2a326c0990d23af4) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-df26132e2a326c0990d23af4.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-df26132e2a326c0990d23af4.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/LPSJ201/LPSJ201/snp)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: LPSJ201
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: LPSJ201 — Pushbuttons and selector switches
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: LPSJ201
+- Manufacturer reference: LPSJ201
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: LPSJ201 ([source](https://catalogue.lovatoelectric.com/gl_en/LPSJ201/LPSJ201/snp))
+- Available native formats: DWG / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/LPSJ201/LPSJ201/snp))
+
+## What the equipment does
+
+A selector lets a person choose an operating mode or control position. Its contact arrangement determines which circuits are connected in each position.
+
+Use 2d\_LPSJ200.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_LPSJ200.dwg.
+
+Use 2d\_LPSJ200.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_LPSJ200.dwg. Use 3d\_LPSJ200.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_LPSJ200.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric LPSJ201 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for LPSJ201 — Pushbuttons and selector switches?
+
+2 inspected originals for LOVATO Electric LPSJ201 — Pushbuttons and selector switches: 2d\_LPSJ200.dwg (DWG); 3d\_LPSJ200.stp (STEP).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/LPSJ201/LPSJ201/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/LPSJ201/LPSJ201/snp)
+
+## Choosing a file
+
+Use 2d\_LPSJ200.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_LPSJ200.dwg. Use 3d\_LPSJ200.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_LPSJ200.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_LPSJ200.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_LPSJ201.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-df26132e2a326c0990d23af4/native-33feeacca96b41af8d606f86-dwg)
+- Redistribution: unknown
+- Original SHA-256: 33feeacca96b41af8d606f8642d54ff96164fcff02c42efadda02d31dfb0ce0b
+- Original bytes: 519877
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_LPSJ201.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_LPSJ201.dwg)
+- Delivery: source-bundle; ZIP; 465697 bytes
+- Delivery SHA-256: 2f2f6a40be59579221eea5402da7d7cbe2628f490fc4c4f9b18a90a01d082db6
+
+### 3d\_LPSJ200.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LPSJ201.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-df26132e2a326c0990d23af4/native-a00d387ab7c374683ba0b9f3-step)
+- Redistribution: unknown
+- Original SHA-256: a00d387ab7c374683ba0b9f34b9616752b61862ab70c4ca53e71a40259758ef3
+- Original bytes: 4448876
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LPSJ201.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_LPSJ201.stp)
+- Delivery: source-bundle; ZIP; 800506 bytes
+- Delivery SHA-256: 552e94dc36d16ec406683d626352ea634e6538ef992947f89bb80c1d039e3575
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

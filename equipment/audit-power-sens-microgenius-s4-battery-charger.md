@@ -23,11 +23,11 @@ Use exact hardware/configuration/revision. Regional voltage alone does not estab
 - Resource type: Product family
 - Part number: MicroGenius S4
 - Listed file formats: STEP
-- Listed files: 1
-- Available previews: Manufacturer source / drawing request
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Email registration for site downloads; official source links are also available
 
 ## What the equipment does
 
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with MicroGenius S4. The files above belong to SENS's MicroGenius S4 battery charger resource; match any model or option suffix in the filename to your selected unit.
-Available here: STEP. The original filename is 3DCAD-S4-STD-STEP.step.
+Available here: STEP. The individual filenames above distinguish the supplied variants.
 
 ## Equipment references and drawing guides
 
@@ -71,5 +71,24 @@ Related GA references provide equipment context; a related category does not est
 - Retrieved: Not acquired
 - Rights review: Website terms prohibit copying, republishing, uploading, posting, transmission or distribution except a single-computer download.
 - [Rights evidence](https://www.sens-usa.com/website-legal)
+
+### 3DCAD-S4-STD-STEP.step
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.sens-usa.com/hubfs/Controlled%20Files/Drawings%20(STD)/3DCAD-S4-STD-STEP.step)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/audit-power-sens-microgenius-s4-battery-charger/native-515aa93d99f7113f90c7ae73-step)
+- Redistribution: unknown
+- Original SHA-256: 515aa93d99f7113f90c7ae73682eb31c7799d78f0321f82365a0eceb7cc2edf2
+- Original bytes: 76993316
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: SENS
+- [Hosting evidence](https://www.sens-usa.com/hubfs/Controlled%20Files/Drawings%20(STD)/3DCAD-S4-STD-STEP.step)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.sens-usa.com/hubfs/Controlled%20Files/Drawings%20(STD)/3DCAD-S4-STD-STEP.step)
+- Delivery: source-bundle; ZIP; 16426997 bytes
+- Delivery SHA-256: c96f719d862187ab20ea2341904a5954dd595571a23a2b6fe48b169d42466dc3
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

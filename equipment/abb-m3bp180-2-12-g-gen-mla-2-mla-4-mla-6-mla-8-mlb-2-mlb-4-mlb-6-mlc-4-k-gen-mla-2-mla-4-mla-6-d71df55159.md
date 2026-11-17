@@ -26,6 +26,7 @@ Keep the terminal-box side, mounting code and accessories stated in “M3BP180 2
 - Manufacturer reference: 3GZF500018-422
 - Document revision: B
 - Manufacturer configuration: M3BP180 2-12 (G-gen) MLA 2,MLA 4,MLA 6,MLA 8,MLB 2,MLB 4,MLB 6,MLC 4;(K-gen) MLA 2,MLA 4,MLA 6,MLA 8,MLB 2,MLB 4,MLB 6,MLC 2,MLC 4;(L-gen) MLA 2,MLA 4,MLA 6,MLB 2,MLB 4,MLB 6,MLC 2,MLC 4;(M-gen) MLA 2,MLA 4;IMB35/IM2001;IMV15/IM2011;IMV35/IM2031;LEFT 63;021 Terminal box LHS
+- Standards: IEC 60034-1, IEC 60034-5, IEC 60072
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 drawing previews

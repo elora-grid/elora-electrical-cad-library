@@ -1,0 +1,121 @@
+# ABB — BACnet IP Controller FBVi-2U4-4T
+
+ABB BACnet IP Controller FBVi-2U4-4T: original DWG for control-panel equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3765&LanguageCode=it&DocumentPartId=&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DWG, DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named BACnet IP Controller FBVi-2U4-4T.
+
+## Equipment and file summary
+
+- Equipment / resource: BACnet IP Controller FBVi-2U4-4T
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: BACnet IP Controller FBVi-2U4-4T
+- Source document: 9AKK108471A3766; revision A
+- Listed file formats: DWG, DXF
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: BACnet IP Controller FBVi-2U4-4T ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3765&LanguageCode=it&DocumentPartId=&Action=Launch))
+- Source document: 9AKK108471A3766; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Use 9AKK108471A3766.dwg (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 9AKK108471A3766.dwg.
+
+Use 9AKK108471A3766.dwg (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 9AKK108471A3766.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB BACnet IP Controller FBVi-2U4-4T and the exact source filename shown above.
+- The source was checked on 2026-11-11; recorded file revisions: 9AKK108471A3766.dwg — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for BACnet IP Controller FBVi-2U4-4T?
+
+1 inspected original for ABB BACnet IP Controller FBVi-2U4-4T: 9AKK108471A3766.dwg (DWG).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3765&LanguageCode=it&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3765&LanguageCode=it&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 9AKK108471A3766.dwg (revision A) to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 9AKK108471A3766.dwg.
+
+## Preview
+
+![ABB BACnet IP Controller FBVi-2U4-4T: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00/abb-3c106af4e67ffdcdd156?asset=3d53d63f5b10640f74d963bcf3bf0684cbc399a33bf7e300705d8ab5a726d3df)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 9AKK108471A3766.dwg
+
+- Format: DWG
+- Purpose: Original manufacturer DWG geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00/abb-3c106af4e67ffdcdd156)
+- Redistribution: unknown
+- Original SHA-256: 3d53d63f5b10640f74d963bcf3bf0684cbc399a33bf7e300705d8ab5a726d3df
+- Original bytes: 363269
+- Revision: A
+- Retrieved: 2026-11-11T05:51:33.047143+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 287208 bytes
+- Delivery SHA-256: 1d3121c86d1d01bf4d66dd58f931c00f366681531c23f4b4d803edf7e14e4758
+
+### 9AKK108471A3766.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (9AKK108471A3766.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-bacnet-ip-controller-fbvi-2u4-4t-f173b78d00/abb-3c106af4e67ffdcdd156-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3d53d63f5b10640f74d963bcf3bf0684cbc399a33bf7e300705d8ab5a726d3df
+- Original bytes: 363269
+- Revision: A
+- Retrieved: 2026-11-11T05:51:33.047143+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3766&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 451239 bytes
+- Delivery SHA-256: 89bb3a7b3b934aff33413a513c08324640c88328474f7b018eb9b222e8b4d2b0
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.0.0 — 2026-11-17
+
+Refresh to 56,512 equipment/source pages, 397 manufacturers and 19 categories. Preserve 83,989 file listings, 80,875 Elora download entries, 44,692 distinct hosted original-file hashes and 35,627 preview-image links. These counts describe different units.
+
+Move the complete metadata snapshot to lossless `data/catalogue.json.gz` because the decoded feed exceeds GitHub’s per-file limit. Update search, validation, manifests, bounded discovery and every readable equipment page together. The raw schema-v3 data is unchanged after decompression.
+
+Document versioned API and MCP workflows, discovery-first endpoint selection, free public originals versus scoped exclusive conversions, catalogue-version recovery and exact attachment checksums. The agent-access deployment is separate from this metadata release; live discovery is authoritative. Preserve conversion, publisher checksum and source-archive provenance without weakening rights or private-data checks.
+
+
 ## 1.2.0 — 2026-11-05
 
 Refresh the released public catalogue to 11,932 equipment/source entries from 115 manufacturers across 19 categories, including motors. Preserve 14,747 file listings, 11,646 website download entries, 10,374 distinct hosted originals and 9,250 preview-image links. Counts describe different things and are not interchangeable.

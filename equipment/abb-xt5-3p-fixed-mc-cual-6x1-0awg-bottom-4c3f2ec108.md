@@ -8,7 +8,7 @@ ABB XT5 3p Fixed MC CuAl 6x1/0AWG bottom: breaker or breaker-accessory reference
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1621
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “XT5 3p Fixed MC CuAl 6x1/0AWG bottom”. Keep t
 - Manufacturer drawing: 1SDH002065A1621
 - Manufacturer reference: 1SDH002065A1621
 - Document revision: A
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -96,5 +96,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1621&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 9579224 bytes
 - Delivery SHA-256: c49139adb42d9bbed856f531ca43515823a40796dc493c1fe6eb15c8465f83e2
+
+### 1SDH002065A1621.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1621.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1621&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-fixed-mc-cual-6x1-0awg-bottom-4c3f2ec108/c49139adb42d9bbed856-dxf)
+- Redistribution: unknown
+- Original SHA-256: c49139adb42d9bbed856f531ca43515823a40796dc493c1fe6eb15c8465f83e2
+- Original bytes: 9579224
+- Revision: A
+- Retrieved: 2026-11-04T01:10:57Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1621&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1621&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 809486 bytes
+- Delivery SHA-256: b285e90aece421e5213c085b39b0d3c35fe0bf65545f5661665cbc571949fe53
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

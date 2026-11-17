@@ -25,6 +25,7 @@ Manufacturer reference asc-installation-instructions-4189341076-es.pdf; ml-2-2d-
 - Manufacturer drawing: asc-installation-instructions-4189341076-es.pdf; ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip
 - Manufacturer reference: asc-installation-instructions-4189341076-es.pdf; ml-2-2d-cad-drawings.zip; ml-2-3d-step-files.zip; ml-2-controller-2d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, IEC 60751, IEC 61010-1, UL 508, IEC 61000-6-2, IEC 61000-6-4, IEC 60255-26, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

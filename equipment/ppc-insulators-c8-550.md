@@ -28,6 +28,7 @@ Use the C8-550 column on PDF page 26. The download is the complete catalogue, no
 - Minimum failing load - Bending \[kN\]: 8
 - Lightning impulse withstand voltage, dry \[kV peak value\]: 550
 - Power frequency withstand voltage, wet \[kV r.m.s.\]: 230
+- Standards: IEC 60273, IEC 60168, IEC 60815, IEC 60071
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 2 catalogue page previews

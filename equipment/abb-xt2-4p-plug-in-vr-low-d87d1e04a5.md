@@ -8,7 +8,7 @@ ABB XT2 4p PLUG-IN VR LOW: breaker or breaker-accessory reference for breaker co
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0356
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -33,8 +33,8 @@ The supplied configuration is “XT2 4p PLUG-IN VR LOW”. Keep those frame, mou
 - Model envelope: 1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.stp: 106.5 × 96 × 16.4 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0403
 - Model envelope: 1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.stp: 106.5 × 96 × 16.4 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 4
+- Listed file formats: STEP, DXF
+- Listed files: 8
 - Available previews: 4 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -124,6 +124,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 94777 bytes
 - Delivery SHA-256: 52ee5049ca74f102dfc2e47a10378c00b406870e7fc59953dbf99e4de47d97cf
 
+### 1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0356\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0356&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/52ee5049ca74f102dfc2-dxf)
+- Redistribution: unknown
+- Original SHA-256: 52ee5049ca74f102dfc2e47a10378c00b406870e7fc59953dbf99e4de47d97cf
+- Original bytes: 94777
+- Revision: A
+- Retrieved: 2026-11-03T01:46:23.385836Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0356&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0356&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 44988 bytes
+- Delivery SHA-256: 7f7eb31e17805c6860464722c86462297ac3a8e724ed6bdc39ac063f797a7f26
+
 ### 1SDH001295R0357\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_SUP.stp
 
 - Format: STEP
@@ -142,6 +161,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0357&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 94397 bytes
 - Delivery SHA-256: 50ac0192f78494cb9595f300067a911600ad2b11789ab951520274059bc663ee
+
+### 1SDH001295R0357\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0357\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_VR\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0357&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/50ac0192f78494cb9595-dxf)
+- Redistribution: unknown
+- Original SHA-256: 50ac0192f78494cb9595f300067a911600ad2b11789ab951520274059bc663ee
+- Original bytes: 94397
+- Revision: A
+- Retrieved: 2026-11-03T01:46:24.096748Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0357&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0357&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 44942 bytes
+- Delivery SHA-256: b3f7e3c8f9336b8ab0cfd3feea9ce145a3a22d1bb2d6fa5a9c8d4824a0ad1016
 
 ### 1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.stp
 
@@ -162,6 +200,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 94787 bytes
 - Delivery SHA-256: 2151678827bd0b2252c748e0c9bc464cdcfdf3f78fdf41c68a5d6fa063753992
 
+### 1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0402\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0402&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/2151678827bd0b2252c7-dxf)
+- Redistribution: unknown
+- Original SHA-256: 2151678827bd0b2252c748e0c9bc464cdcfdf3f78fdf41c68a5d6fa063753992
+- Original bytes: 94787
+- Revision: A
+- Retrieved: 2026-11-03T01:46:26.785965Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0402&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0402&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 44988 bytes
+- Delivery SHA-256: 5c243152cb2288607b719248d1340ee619992a92d38be0f93dad80c4085de616
+
 ### 1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.stp
 
 - Format: STEP
@@ -180,5 +237,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0403&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 94407 bytes
 - Delivery SHA-256: 4db2c3124fe3257dea336bf55269edd6510b0824f4fa008734cdf786d7e778ab
+
+### 1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0403\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_VR\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0403&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-vr-low-d87d1e04a5/4db2c3124fe3257dea33-dxf)
+- Redistribution: unknown
+- Original SHA-256: 4db2c3124fe3257dea336bf55269edd6510b0824f4fa008734cdf786d7e778ab
+- Original bytes: 94407
+- Revision: A
+- Retrieved: 2026-11-03T01:46:26.637724Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0403&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0403&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 44942 bytes
+- Delivery SHA-256: c328df56d203d1683235ef5527808023953ae31a5702bb07ea33cfb992d3a4ee
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

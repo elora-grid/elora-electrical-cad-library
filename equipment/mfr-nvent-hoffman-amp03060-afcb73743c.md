@@ -1,0 +1,102 @@
+# nVent HOFFMAN — AMP03060
+
+nVent HOFFMAN AMP03060: original DXF for switchboard enclosure or mounting hardware layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-amp03060-afcb73743c) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-amp03060-afcb73743c.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-hoffman-amp03060-afcb73743c.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: AMP03060
+- Installation applications: switchrooms
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named AMP03060.
+
+## Equipment and file summary
+
+- Equipment / resource: AMP03060
+- Manufacturer: nVent HOFFMAN
+- Resource type: Product
+- Part number: AMP03060
+- Manufacturer drawing identity: AMP03060
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: AMP03060 ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use NVENT-AMP03060-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NVENT-AMP03060-2D-CAD-Block.dxf.
+
+Use NVENT-AMP03060-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NVENT-AMP03060-2D-CAD-Block.dxf.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match nVent HOFFMAN AMP03060 and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for AMP03060?
+
+1 inspected original for nVent HOFFMAN AMP03060: NVENT-AMP03060-2D-CAD-Block.dxf (DXF).
+
+### Where did these nVent HOFFMAN files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [nVent HOFFMAN official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use NVENT-AMP03060-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NVENT-AMP03060-2D-CAD-Block.dxf.
+
+## Preview
+
+![nVent HOFFMAN AMP03060: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-nvent-hoffman-amp03060-afcb73743c/nhp-178658?asset=59a804b96d3a8fce69e0da6cdab3bd91451617b32e8361a5d00ed9c390c7805d&view=thumb&v=146394cccff48ca8)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-hoffman-amp03060-afcb73743c). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NVENT-AMP03060-2D-CAD-Block.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/NVENT-AMP03060-2D-CAD-Block.dxf)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nvent-hoffman-amp03060-afcb73743c/nhp-178658)
+- Redistribution: unknown
+- Original SHA-256: 59a804b96d3a8fce69e0da6cdab3bd91451617b32e8361a5d00ed9c390c7805d
+- Original bytes: 238747
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:46:21.039523+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/NVENT-AMP03060-2D-CAD-Block.dxf)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/NVENT-AMP03060-2D-CAD-Block.dxf)
+- Delivery: source-bundle; ZIP; 21873 bytes
+- Delivery SHA-256: ff9d3d1ebd8ccf08fec88b110c90114070d1473220f0ffe2c94037d15f30952d
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

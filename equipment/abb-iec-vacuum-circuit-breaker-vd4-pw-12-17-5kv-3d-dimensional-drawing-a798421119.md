@@ -25,6 +25,7 @@ The supplied configuration is “IEC Vacuum Circuit Breaker VD4/PW 12/17,5kV - 3
 - Manufacturer drawing: 1VCD000087\_3D
 - Manufacturer reference: 1VCD000087\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

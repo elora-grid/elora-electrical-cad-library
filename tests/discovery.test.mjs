@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {validateCatalogue,entryMarkdown,md,snapshotCounts,sourceAuditSummary,BASE} from '../scripts/catalogue.mjs';
-const source=JSON.parse(await readFile(new URL('../data/catalogue.json',import.meta.url),'utf8'));
+const source=JSON.parse(await readFile(new URL('./fixtures/catalogue.json',import.meta.url),'utf8'));
 const copy=()=>structuredClone(source);
 test('expanded feed preserves drawing identities, public facts and preview metadata',()=>{
   validateCatalogue(copy());
@@ -12,7 +12,7 @@ test('expanded feed preserves drawing identities, public facts and preview metad
   assert.ok(source.equipment.some(r=>r.id===drawing.drawingReference.parentId));
   assert.ok(source.equipment.every(r=>r.equipmentFacts.length&&r.plainEnglish&&r.fileChoiceGuidance.length));
 });
-test('every generated equipment page carries exact discovery links and source facts',async()=>{
+test('representative generated equipment pages carry exact discovery links and source facts',async()=>{
   for(const r of source.equipment){
     const text=await readFile(new URL(`../equipment/${r.id}.md`,import.meta.url),'utf8');
     for(const expected of [r.canonicalUrl,r.sourceUrl,`${BASE}/entries/${r.id}.md`,`${BASE}/entries/${r.id}.json`,md(r.plainEnglish.example),...r.equipmentFacts.map(f=>md(f.value)),...(r.relatedReferences||[]).map(ref=>ref.url)])assert.ok(text.includes(expected),`${r.id}: ${expected}`);

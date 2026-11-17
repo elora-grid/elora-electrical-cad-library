@@ -8,7 +8,7 @@ ABB XT6 3p 4p Withdrawable FLD: breaker or breaker-accessory reference for break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1804
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT6 3p 4p Withdrawable FLD”. Keep those frame
 - Manufacturer reference: 1SDH002065A1804
 - Document revision: A
 - Model envelope: 1SDH002065A1804\_XT6\_3p\_4p\_Withdrawable\_FLD.stp: 77.3 × 209.6 × 154.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1804&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 1764538 bytes
 - Delivery SHA-256: f79c763b376d63af55201294daaf9b4542013e4488afb4ec55974bbb22d7686c
+
+### 1SDH002065A1804\_XT6\_3p\_4p\_Withdrawable\_FLD.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1804\_XT6\_3p\_4p\_Withdrawable\_FLD.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1804&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-withdrawable-fld-22d5887dcc/f79c763b376d63af5520-dxf)
+- Redistribution: unknown
+- Original SHA-256: f79c763b376d63af55201294daaf9b4542013e4488afb4ec55974bbb22d7686c
+- Original bytes: 1764538
+- Revision: A
+- Retrieved: 2026-11-03T01:56:33.901792Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1804&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1804&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 237240 bytes
+- Delivery SHA-256: 874650606b2ae9633bc404d4ec1aecb9f312bd88d29686074fe3791589e9e79e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

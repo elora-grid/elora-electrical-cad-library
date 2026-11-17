@@ -1,0 +1,117 @@
+# Eaton — Z-MS-1,0/2 — Motor-Protective Circuit-Breakers, 0,63-1A, 2p
+
+Eaton Z-MS-1,0/2 — Motor-Protective Circuit-Breakers, 0,63-1A, 2p. Retained manufacturer CAD files and drawings for breakers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-248393) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-248393.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-248393.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip)
+
+- Category: Breakers & accessories
+- Entry type: product
+- Part number: 248393
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: Z-MS-1,0/2 — Motor-Protective Circuit-Breakers, 0,63-1A, 2p
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 248393
+- Manufacturer reference: 248393
+- Manufacturer type: Z-MS-1,0/2
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 248393 ([source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip))
+- Manufacturer type: Z-MS-1,0/2 ([source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp.
+
+Use eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp. Use eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 248393 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Z-MS-1,0/2 — Motor-Protective Circuit-Breakers, 0,63-1A, 2p?
+
+2 inspected originals for Eaton Z-MS-1,0/2 — Motor-Protective Circuit-Breakers, 0,63-1A, 2p: eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp (STEP); eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/a9ca5314-229b-4e97-a826-c9827678b377/cad_files_001.zip)
+
+## Choosing a file
+
+Use eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp. Use eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-248393/native-f817b19cf751ddb41e62a360-step)
+- Redistribution: unknown
+- Original SHA-256: f817b19cf751ddb41e62a360ad796a3fe02f7467c4e6905bf8b5926fb9ac458b
+- Original bytes: 428515
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/stp01/eaton-adjustable-non-selective-universal-mcb-mcad-3d-models-z-ms-2p.stp)
+- Delivery: source-bundle; ZIP; 72070 bytes
+- Delivery SHA-256: af8b71942b0e8bbb8a2423c49b1614d241c68298f7bf825a065f6e307f6fa172
+
+### eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-248393/native-505b448b66fccb70a76e312b-dwg)
+- Redistribution: unknown
+- Original SHA-256: 505b448b66fccb70a76e312be99cb8e31910832c95724e5cf11b38013fdf085d
+- Original bytes: 484512
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg01/eaton-adjustable-non-selective-universal-mcb-mcad-drawings-z-ms-2p.dwg)
+- Delivery: source-bundle; ZIP; 425468 bytes
+- Delivery SHA-256: 7855e8ce8091f98c11bf130250895e38bd45ed5acbcdd41ad542a9db6863e563
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

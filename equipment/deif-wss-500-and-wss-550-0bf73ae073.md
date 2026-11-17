@@ -25,6 +25,7 @@ Manufacturer reference wss-550-2d-cad-drawing.dwg; wss-550-2d-pdf.pdf; wss-550-3
 - Manufacturer drawing: wss-550-2d-cad-drawing.dwg; wss-550-2d-pdf.pdf; wss-550-3d-step-files.stp
 - Manufacturer reference: wss-550-2d-cad-drawing.dwg; wss-550-2d-pdf.pdf; wss-550-3d-step-files.stp; wss-550-3d-pdf.pdf
 - Manufacturer lifecycle: Active
+- Standards: UL 2464, IEC 60945, IEC 60529, IEC 61010-1, IEC 61000-2-2, IEC 61000-2-4
 - Listed file formats: DWG, PDF, STEP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

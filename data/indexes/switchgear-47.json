@@ -1,0 +1,2898 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 47,
+  "entries": [
+    {
+      "id": "eaton-article-259583",
+      "name": "NZM2/3-XUHIV24AC — Undervoltage release, 24VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259583",
+      "recordPath": "equipment/eaton-article-259583.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259583.json"
+    },
+    {
+      "id": "eaton-article-259531",
+      "name": "NZM1-XUHIV24AC — Undervoltage release, 24VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259531",
+      "recordPath": "equipment/eaton-article-259531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259531.json"
+    },
+    {
+      "id": "eaton-article-259501",
+      "name": "NZM2/3-XU380-440AC — Undervoltage release, 380-440VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259501",
+      "recordPath": "equipment/eaton-article-259501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259501.json"
+    },
+    {
+      "id": "eaton-article-259452",
+      "name": "NZM1-XU24DC — Undervoltage release, 24 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259452",
+      "recordPath": "equipment/eaton-article-259452.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259452.json"
+    },
+    {
+      "id": "eaton-article-259434",
+      "name": "NZM1-XU24AC — Undervoltage release, 24VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259434",
+      "recordPath": "equipment/eaton-article-259434.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259434.json"
+    },
+    {
+      "id": "eaton-article-259442",
+      "name": "NZM1-XU208-240AC — Undervoltage release, 208-240VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259442",
+      "recordPath": "equipment/eaton-article-259442.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259442.json"
+    },
+    {
+      "id": "eaton-article-259444",
+      "name": "NZM1-XU380-440AC — Undervoltage release, 380-440VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259444",
+      "recordPath": "equipment/eaton-article-259444.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259444.json"
+    },
+    {
+      "id": "eaton-article-259481",
+      "name": "NZM1-XUL24DC — Undervoltage release, 24 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259481",
+      "recordPath": "equipment/eaton-article-259481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259481.json"
+    },
+    {
+      "id": "eaton-article-259537",
+      "name": "NZM1-XUHIV110-130AC — Undervoltage release, 110-130VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259537",
+      "recordPath": "equipment/eaton-article-259537.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259537.json"
+    },
+    {
+      "id": "eaton-article-259491",
+      "name": "NZM2/3-XU24AC — Undervoltage release, 24VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259491",
+      "recordPath": "equipment/eaton-article-259491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259491.json"
+    },
+    {
+      "id": "eaton-article-259539",
+      "name": "NZM1-XUHIV208-240AC — Undervoltage release, 208-240VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259539",
+      "recordPath": "equipment/eaton-article-259539.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259539.json"
+    },
+    {
+      "id": "eaton-article-259487",
+      "name": "NZM1-XUL110-130DC — Undervoltage release, 110-130VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259487",
+      "recordPath": "equipment/eaton-article-259487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259487.json"
+    },
+    {
+      "id": "eaton-article-259581",
+      "name": "NZM1-XUHIVL220-250DC — Undervoltage release, 220-250VDC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259581",
+      "recordPath": "equipment/eaton-article-259581.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259581.json"
+    },
+    {
+      "id": "eaton-article-259458",
+      "name": "NZM1-XU110-130DC — Undervoltage release, 110-130VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259458",
+      "recordPath": "equipment/eaton-article-259458.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259458.json"
+    },
+    {
+      "id": "eaton-article-259495",
+      "name": "NZM2/3-XU60AC — Undervoltage release, 60VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259495",
+      "recordPath": "equipment/eaton-article-259495.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259495.json"
+    },
+    {
+      "id": "eaton-article-259505",
+      "name": "NZM2/3-XU600AC — Undervoltage release, 600VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259505",
+      "recordPath": "equipment/eaton-article-259505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259505.json"
+    },
+    {
+      "id": "eaton-article-259436",
+      "name": "NZM1-XU48AC — Undervoltage release, 48VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259436",
+      "recordPath": "equipment/eaton-article-259436.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259436.json"
+    },
+    {
+      "id": "eaton-article-259493",
+      "name": "NZM2/3-XU48AC — Undervoltage release, 48VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259493",
+      "recordPath": "equipment/eaton-article-259493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259493.json"
+    },
+    {
+      "id": "eaton-article-259557",
+      "name": "NZM1-XUHIVL24AC — Undervoltage release, 24VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259557",
+      "recordPath": "equipment/eaton-article-259557.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259557.json"
+    },
+    {
+      "id": "eaton-article-259563",
+      "name": "NZM1-XUHIVL110-130AC — Undervoltage release, 110-130VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259563",
+      "recordPath": "equipment/eaton-article-259563.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259563.json"
+    },
+    {
+      "id": "eaton-article-259507",
+      "name": "NZM2/3-XU12DC — Undervoltage release, 12 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259507",
+      "recordPath": "equipment/eaton-article-259507.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259507.json"
+    },
+    {
+      "id": "eaton-article-259533",
+      "name": "NZM1-XUHIV48AC — Undervoltage release, 48VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259533",
+      "recordPath": "equipment/eaton-article-259533.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259533.json"
+    },
+    {
+      "id": "eaton-article-259585",
+      "name": "NZM2/3-XUHIV48AC — Undervoltage release, 48VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259585",
+      "recordPath": "equipment/eaton-article-259585.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259585.json"
+    },
+    {
+      "id": "eaton-article-259460",
+      "name": "NZM1-XU220-250DC — Undervoltage release, 220-250VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259460",
+      "recordPath": "equipment/eaton-article-259460.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259460.json"
+    },
+    {
+      "id": "eaton-article-259489",
+      "name": "NZM1-XUL220-250DC — Undervoltage release, 220-250VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259489",
+      "recordPath": "equipment/eaton-article-259489.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259489.json"
+    },
+    {
+      "id": "eaton-article-259438",
+      "name": "NZM1-XU60AC — Undervoltage release, 60VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259438",
+      "recordPath": "equipment/eaton-article-259438.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259438.json"
+    },
+    {
+      "id": "eaton-article-259604",
+      "name": "NZM2/3-XUHIV48DC — Undervoltage release, 48 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259604",
+      "recordPath": "equipment/eaton-article-259604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259604.json"
+    },
+    {
+      "id": "eaton-article-259606",
+      "name": "NZM2/3-XUHIV60DC — Undervoltage release, 60 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259606",
+      "recordPath": "equipment/eaton-article-259606.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259606.json"
+    },
+    {
+      "id": "eaton-article-259565",
+      "name": "NZM1-XUHIVL208-240AC — Undervoltage release, 208-240VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259565",
+      "recordPath": "equipment/eaton-article-259565.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259565.json"
+    },
+    {
+      "id": "eaton-article-259515",
+      "name": "NZM2/3-XU110-130DC — Undervoltage release, 110-130VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259515",
+      "recordPath": "equipment/eaton-article-259515.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259515.json"
+    },
+    {
+      "id": "eaton-article-259511",
+      "name": "NZM2/3-XU48DC — Undervoltage release, 48 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259511",
+      "recordPath": "equipment/eaton-article-259511.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259511.json"
+    },
+    {
+      "id": "eaton-article-259541",
+      "name": "NZM1-XUHIV380-440AC — Undervoltage release, 380-440VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259541",
+      "recordPath": "equipment/eaton-article-259541.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259541.json"
+    },
+    {
+      "id": "eaton-article-259462",
+      "name": "NZM1-XUL24AC — Undervoltage release, 24VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259462",
+      "recordPath": "equipment/eaton-article-259462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259462.json"
+    },
+    {
+      "id": "eaton-article-259547",
+      "name": "NZM1-XUHIV24DC — Undervoltage release, 24 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259547",
+      "recordPath": "equipment/eaton-article-259547.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259547.json"
+    },
+    {
+      "id": "eaton-article-259567",
+      "name": "NZM1-XUHIVL380-440AC — Undervoltage release, 380-440VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259567",
+      "recordPath": "equipment/eaton-article-259567.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259567.json"
+    },
+    {
+      "id": "eaton-article-259479",
+      "name": "NZM1-XUL12DC — Undervoltage release, 12 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259479",
+      "recordPath": "equipment/eaton-article-259479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259479.json"
+    },
+    {
+      "id": "eaton-article-259600",
+      "name": "NZM2/3-XUHIV12DC — Undervoltage release, 12 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259600",
+      "recordPath": "equipment/eaton-article-259600.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259600.json"
+    },
+    {
+      "id": "eaton-article-259553",
+      "name": "NZM1-XUHIV110-130DC — Undervoltage release, 110-130VDC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259553",
+      "recordPath": "equipment/eaton-article-259553.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259553.json"
+    },
+    {
+      "id": "eaton-article-259555",
+      "name": "NZM1-XUHIV220-250DC — Undervoltage release, 220-250VDC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259555",
+      "recordPath": "equipment/eaton-article-259555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259555.json"
+    },
+    {
+      "id": "eaton-article-259587",
+      "name": "NZM2/3-XUHIV60AC — Undervoltage release, 60VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259587",
+      "recordPath": "equipment/eaton-article-259587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259587.json"
+    },
+    {
+      "id": "eaton-article-259527",
+      "name": "NZM2/3-XUV — Undervoltage release, for delay unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259527",
+      "recordPath": "equipment/eaton-article-259527.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259527.json"
+    },
+    {
+      "id": "eaton-article-259513",
+      "name": "NZM2/3-XU60DC — Undervoltage release, 60 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259513",
+      "recordPath": "equipment/eaton-article-259513.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259513.json"
+    },
+    {
+      "id": "eaton-article-259612",
+      "name": "NZM1-XUHIV20L24AC — Undervoltage release, 24VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259612",
+      "recordPath": "equipment/eaton-article-259612.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259612.json"
+    },
+    {
+      "id": "eaton-article-259450",
+      "name": "NZM1-XU12DC — Undervoltage release, 12 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259450",
+      "recordPath": "equipment/eaton-article-259450.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259450.json"
+    },
+    {
+      "id": "eaton-article-259468",
+      "name": "NZM1-XUL110-130AC — Undervoltage release, 110-130VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259468",
+      "recordPath": "equipment/eaton-article-259468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259468.json"
+    },
+    {
+      "id": "eaton-article-259448",
+      "name": "NZM1-XU600AC — Undervoltage release, 600VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259448",
+      "recordPath": "equipment/eaton-article-259448.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259448.json"
+    },
+    {
+      "id": "eaton-article-259503",
+      "name": "NZM2/3-XU480-525AC — Undervoltage release, 480-525VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259503",
+      "recordPath": "equipment/eaton-article-259503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259503.json"
+    },
+    {
+      "id": "eaton-article-259551",
+      "name": "NZM1-XUHIV60DC — Undervoltage release, 60 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259551",
+      "recordPath": "equipment/eaton-article-259551.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259551.json"
+    },
+    {
+      "id": "eaton-article-259571",
+      "name": "NZM1-XUHIVL12DC — Undervoltage release, 12 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259571",
+      "recordPath": "equipment/eaton-article-259571.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259571.json"
+    },
+    {
+      "id": "eaton-article-259602",
+      "name": "NZM2/3-XUHIV24DC — Undervoltage release, 24 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259602",
+      "recordPath": "equipment/eaton-article-259602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259602.json"
+    },
+    {
+      "id": "eaton-article-259545",
+      "name": "NZM1-XUHIV12DC — Undervoltage release, 12 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259545",
+      "recordPath": "equipment/eaton-article-259545.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259545.json"
+    },
+    {
+      "id": "eaton-article-259579",
+      "name": "NZM1-XUHIVL110-130DC — Undervoltage release, 110-130VDC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259579",
+      "recordPath": "equipment/eaton-article-259579.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259579.json"
+    },
+    {
+      "id": "eaton-article-259446",
+      "name": "NZM1-XU480-525AC — Undervoltage release, 480-525VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259446",
+      "recordPath": "equipment/eaton-article-259446.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259446.json"
+    },
+    {
+      "id": "eaton-article-259543",
+      "name": "NZM1-XUHIV480-525AC — Undervoltage release, 480-525VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259543",
+      "recordPath": "equipment/eaton-article-259543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259543.json"
+    },
+    {
+      "id": "eaton-article-259454",
+      "name": "NZM1-XU60DC — Undervoltage release, 60 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259454",
+      "recordPath": "equipment/eaton-article-259454.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259454.json"
+    },
+    {
+      "id": "eaton-article-259471",
+      "name": "NZM1-XUL208-240AC — Undervoltage release, 208-240VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259471",
+      "recordPath": "equipment/eaton-article-259471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259471.json"
+    },
+    {
+      "id": "eaton-article-259535",
+      "name": "NZM1-XUHIV60AC — Undervoltage release, 60VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259535",
+      "recordPath": "equipment/eaton-article-259535.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259535.json"
+    },
+    {
+      "id": "eaton-article-259473",
+      "name": "NZM1-XUL380-440AC — Undervoltage release, 380-440VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259473",
+      "recordPath": "equipment/eaton-article-259473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259473.json"
+    },
+    {
+      "id": "eaton-article-259569",
+      "name": "NZM1-XUHIVL480-525AC — Undervoltage release, 480-525VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259569",
+      "recordPath": "equipment/eaton-article-259569.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259569.json"
+    },
+    {
+      "id": "eaton-article-259573",
+      "name": "NZM1-XUHIVL24DC — Undervoltage release, 24 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259573",
+      "recordPath": "equipment/eaton-article-259573.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259573.json"
+    },
+    {
+      "id": "eaton-article-259549",
+      "name": "NZM1-XUHIV48DC — Undervoltage release, 48 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259549",
+      "recordPath": "equipment/eaton-article-259549.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259549.json"
+    },
+    {
+      "id": "eaton-article-259517",
+      "name": "NZM2/3-XU220-250DC — Undervoltage release, 220-250VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259517",
+      "recordPath": "equipment/eaton-article-259517.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259517.json"
+    },
+    {
+      "id": "eaton-article-259475",
+      "name": "NZM1-XUL480-525AC — Undervoltage release, 480-525VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259475",
+      "recordPath": "equipment/eaton-article-259475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259475.json"
+    },
+    {
+      "id": "eaton-article-259477",
+      "name": "NZM1-XUL600AC — Undervoltage release, 600VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-259477",
+      "recordPath": "equipment/eaton-article-259477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-259477.json"
+    },
+    {
+      "id": "eaton-article-274097",
+      "name": "NZM3-XA-230AC-MNS — Shunt release, 230VAC, for mesh network, size 3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-274097",
+      "recordPath": "equipment/eaton-article-274097.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-274097.json"
+    },
+    {
+      "id": "eaton-article-274138",
+      "name": "NZM4-XA-230AC-MNS — Shunt release, 230VAC, for mesh network, size 4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-274138",
+      "recordPath": "equipment/eaton-article-274138.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-274138.json"
+    },
+    {
+      "id": "eaton-article-274141",
+      "name": "NZM3-XAHIV-230AC-MNS — Shunt release, 230VAC, +1early N/O, for mesh network, size 3",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-274141",
+      "recordPath": "equipment/eaton-article-274141.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-274141.json"
+    },
+    {
+      "id": "eaton-article-274143",
+      "name": "NZM4-XAHIV-230AC-MNS — Shunt release, 230VAC, +1early N/O, for mesh network, size 4",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-274143",
+      "recordPath": "equipment/eaton-article-274143.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-274143.json"
+    },
+    {
+      "id": "eaton-article-171802",
+      "name": "NZM2/3-XU18DC — Under Undervoltage release, 18VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171802",
+      "recordPath": "equipment/eaton-article-171802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171802.json"
+    },
+    {
+      "id": "eaton-article-171803",
+      "name": "NZM2/3-XUHIV18DC — Under Undervoltage release, 18VDC, +2N/O early",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171803",
+      "recordPath": "equipment/eaton-article-171803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171803.json"
+    },
+    {
+      "id": "eaton-article-171801",
+      "name": "NZM1-XUHIVL18DC — Under Undervoltage release, 18VDC, +2N/O early",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171801",
+      "recordPath": "equipment/eaton-article-171801.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171801.json"
+    },
+    {
+      "id": "eaton-article-171809",
+      "name": "NZM4-XUHIV2018DC — Under Undervoltage release, 18VDC, +2N/O early",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171809",
+      "recordPath": "equipment/eaton-article-171809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171809.json"
+    },
+    {
+      "id": "eaton-article-171800",
+      "name": "NZM1-XUHIV18DC — Under Undervoltage release, 18VDC, +2N/O early",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171800",
+      "recordPath": "equipment/eaton-article-171800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171800.json"
+    },
+    {
+      "id": "eaton-article-171807",
+      "name": "NZM1-XUHIV20L18DC — Under Undervoltage release, 18VDC, +2N/O early",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171807",
+      "recordPath": "equipment/eaton-article-171807.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171807.json"
+    },
+    {
+      "id": "eaton-article-171804",
+      "name": "NZM4-XU18DC — Under Undervoltage release, 18VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171804",
+      "recordPath": "equipment/eaton-article-171804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171804.json"
+    },
+    {
+      "id": "eaton-article-171799",
+      "name": "NZM1-XUL18DC — Under Undervoltage release, 18VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171799",
+      "recordPath": "equipment/eaton-article-171799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171799.json"
+    },
+    {
+      "id": "eaton-article-171805",
+      "name": "NZM4-XUHIV18DC — Under Undervoltage release, 18VDC, +2N/O early",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171805",
+      "recordPath": "equipment/eaton-article-171805.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171805.json"
+    },
+    {
+      "id": "eaton-article-171798",
+      "name": "NZM1-XU18DC — Under Undervoltage release, 18VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-171798",
+      "recordPath": "equipment/eaton-article-171798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-171798.json"
+    },
+    {
+      "id": "eaton-article-203594",
+      "name": "PKM0-20 — Short-circuit protective breaker, Iu 20 A, Irm 310 A, Screw terminals, Also suitable for motors with efficiency class IE3.",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-203594",
+      "recordPath": "equipment/eaton-article-203594.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-203594.json"
+    },
+    {
+      "id": "eaton-article-266204",
+      "name": "NZM4-XU24DC — Undervoltage release, 24 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266204",
+      "recordPath": "equipment/eaton-article-266204.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266204.json"
+    },
+    {
+      "id": "eaton-article-266450",
+      "name": "NZM4-XA110-130AC/DC — Shunt release, 110-130VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266450",
+      "recordPath": "equipment/eaton-article-266450.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266450.json"
+    },
+    {
+      "id": "eaton-article-266474",
+      "name": "NZM4-XAHIV110-130AC/DC — Shunt release, 110-130VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266474",
+      "recordPath": "equipment/eaton-article-266474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266474.json"
+    },
+    {
+      "id": "eaton-article-266247",
+      "name": "NZM4-XUHIV20110-130AC — Undervoltage release, 110-130VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266247",
+      "recordPath": "equipment/eaton-article-266247.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266247.json"
+    },
+    {
+      "id": "eaton-article-266475",
+      "name": "NZM4-XAHIV208-250AC/DC — Shunt release, 208-240VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266475",
+      "recordPath": "equipment/eaton-article-266475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266475.json"
+    },
+    {
+      "id": "eaton-article-266248",
+      "name": "NZM4-XUHIV20208-240AC — Undervoltage release, 208-240VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266248",
+      "recordPath": "equipment/eaton-article-266248.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266248.json"
+    },
+    {
+      "id": "eaton-article-266192",
+      "name": "NZM4-XU110-130AC — Undervoltage release, 110-130VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266192",
+      "recordPath": "equipment/eaton-article-266192.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266192.json"
+    },
+    {
+      "id": "eaton-article-266195",
+      "name": "NZM4-XU480-525AC — Undervoltage release, 480-525VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266195",
+      "recordPath": "equipment/eaton-article-266195.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266195.json"
+    },
+    {
+      "id": "eaton-article-266855",
+      "name": "Z-TS50/1 — Tariff switch, 50A, 1p, 40-50 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266855",
+      "recordPath": "equipment/eaton-article-266855.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266855.json"
+    },
+    {
+      "id": "eaton-article-266853",
+      "name": "Z-TS32/1 — Tariff switch, 32A, 1p, 20-32 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266853",
+      "recordPath": "equipment/eaton-article-266853.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266853.json"
+    },
+    {
+      "id": "eaton-article-266850",
+      "name": "Z-TS20/1 — Tariff switch, 20A, 1p, 13-20 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266850",
+      "recordPath": "equipment/eaton-article-266850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266850.json"
+    },
+    {
+      "id": "eaton-article-266852",
+      "name": "Z-TS25/1 — Tariff switch, 25A, 1p, 16-25 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266852",
+      "recordPath": "equipment/eaton-article-266852.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266852.json"
+    },
+    {
+      "id": "eaton-article-266854",
+      "name": "Z-TS40/1 — Tariff switch, 40A, 1p, 25-40 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266854",
+      "recordPath": "equipment/eaton-article-266854.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266854.json"
+    },
+    {
+      "id": "eaton-article-266453",
+      "name": "NZM4-XA480-525AC/DC — Shunt release, 480-525VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266453",
+      "recordPath": "equipment/eaton-article-266453.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266453.json"
+    },
+    {
+      "id": "eaton-article-266856",
+      "name": "Z-TS63/1 — Tariff switch, 63A, 1p, 50-63 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266856",
+      "recordPath": "equipment/eaton-article-266856.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266856.json"
+    },
+    {
+      "id": "eaton-article-266857",
+      "name": "Z-TS20/3 — Tariff switch, 20A, 3 p, 13-20 A",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266857",
+      "recordPath": "equipment/eaton-article-266857.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266857.json"
+    },
+    {
+      "id": "eaton-article-266207",
+      "name": "NZM4-XU110-130DC — Undervoltage release, 110-130VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266207",
+      "recordPath": "equipment/eaton-article-266207.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266207.json"
+    },
+    {
+      "id": "eaton-article-266189",
+      "name": "NZM4-XU24AC — Undervoltage release, 24VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266189",
+      "recordPath": "equipment/eaton-article-266189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266189.json"
+    },
+    {
+      "id": "eaton-article-266447",
+      "name": "NZM4-XA24AC/DC — Shunt release, 24VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266447",
+      "recordPath": "equipment/eaton-article-266447.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266447.json"
+    },
+    {
+      "id": "eaton-article-266476",
+      "name": "NZM4-XAHIV380-440AC/DC — Shunt release, 380-440VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266476",
+      "recordPath": "equipment/eaton-article-266476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266476.json"
+    },
+    {
+      "id": "eaton-article-266208",
+      "name": "NZM4-XU220-250DC — Undervoltage release, 220-250VDC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266208",
+      "recordPath": "equipment/eaton-article-266208.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266208.json"
+    },
+    {
+      "id": "eaton-article-266196",
+      "name": "NZM4-XU600AC — Undervoltage release, 600VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266196",
+      "recordPath": "equipment/eaton-article-266196.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266196.json"
+    },
+    {
+      "id": "eaton-article-266222",
+      "name": "NZM4-XUHIV380-440AC — Undervoltage release, 380-440VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266222",
+      "recordPath": "equipment/eaton-article-266222.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266222.json"
+    },
+    {
+      "id": "eaton-article-266448",
+      "name": "NZM4-XA48AC/DC — Shunt release, 48VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266448",
+      "recordPath": "equipment/eaton-article-266448.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266448.json"
+    },
+    {
+      "id": "eaton-article-266452",
+      "name": "NZM4-XA380-440AC/DC — Shunt release, 380-440VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266452",
+      "recordPath": "equipment/eaton-article-266452.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266452.json"
+    },
+    {
+      "id": "eaton-article-266223",
+      "name": "NZM4-XUHIV480-525AC — Undervoltage release, 480-525VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266223",
+      "recordPath": "equipment/eaton-article-266223.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266223.json"
+    },
+    {
+      "id": "eaton-article-266221",
+      "name": "NZM4-XUHIV208-240AC — Undervoltage release, 208-240VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266221",
+      "recordPath": "equipment/eaton-article-266221.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266221.json"
+    },
+    {
+      "id": "eaton-article-266233",
+      "name": "NZM4-XUHIV48DC — Undervoltage release, 48 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266233",
+      "recordPath": "equipment/eaton-article-266233.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266233.json"
+    },
+    {
+      "id": "eaton-article-266231",
+      "name": "NZM4-XUHIV12DC — Undervoltage release, 12 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266231",
+      "recordPath": "equipment/eaton-article-266231.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266231.json"
+    },
+    {
+      "id": "eaton-article-266470",
+      "name": "NZM4-XAHIV12AC/DC — Shunt release, 12VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266470",
+      "recordPath": "equipment/eaton-article-266470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266470.json"
+    },
+    {
+      "id": "eaton-article-266232",
+      "name": "NZM4-XUHIV24DC — Undervoltage release, 24 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266232",
+      "recordPath": "equipment/eaton-article-266232.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266232.json"
+    },
+    {
+      "id": "eaton-article-266190",
+      "name": "NZM4-XU48AC — Undervoltage release, 48VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266190",
+      "recordPath": "equipment/eaton-article-266190.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266190.json"
+    },
+    {
+      "id": "eaton-article-266471",
+      "name": "NZM4-XAHIV24AC/DC — Shunt release, 24VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266471",
+      "recordPath": "equipment/eaton-article-266471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266471.json"
+    },
+    {
+      "id": "eaton-article-266236",
+      "name": "NZM4-XUHIV220-250DC — Undervoltage release, 220-250VDC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266236",
+      "recordPath": "equipment/eaton-article-266236.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266236.json"
+    },
+    {
+      "id": "eaton-article-266604",
+      "name": "NZM4-XUVHIV20 — Undervoltage release, 2early N/O, for delay unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266604",
+      "recordPath": "equipment/eaton-article-266604.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266604.json"
+    },
+    {
+      "id": "eaton-article-266235",
+      "name": "NZM4-XUHIV110-130DC — Undervoltage release, 110-130VDC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266235",
+      "recordPath": "equipment/eaton-article-266235.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266235.json"
+    },
+    {
+      "id": "eaton-article-266206",
+      "name": "NZM4-XU60DC — Undervoltage release, 60 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266206",
+      "recordPath": "equipment/eaton-article-266206.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266206.json"
+    },
+    {
+      "id": "eaton-article-266449",
+      "name": "NZM4-XA60AC/DC — Shunt release, 60VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266449",
+      "recordPath": "equipment/eaton-article-266449.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266449.json"
+    },
+    {
+      "id": "eaton-article-266244",
+      "name": "NZM4-XUHIV2024AC — Undervoltage release, 24VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266244",
+      "recordPath": "equipment/eaton-article-266244.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266244.json"
+    },
+    {
+      "id": "eaton-article-266234",
+      "name": "NZM4-XUHIV60DC — Undervoltage release, 60 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266234",
+      "recordPath": "equipment/eaton-article-266234.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266234.json"
+    },
+    {
+      "id": "eaton-article-266219",
+      "name": "NZM4-XUHIV60AC — Undervoltage release, 60VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266219",
+      "recordPath": "equipment/eaton-article-266219.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266219.json"
+    },
+    {
+      "id": "eaton-article-266596",
+      "name": "NZM4-XUVHIV — Undervoltage release, 2early N/O, for delay unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266596",
+      "recordPath": "equipment/eaton-article-266596.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266596.json"
+    },
+    {
+      "id": "eaton-article-266220",
+      "name": "NZM4-XUHIV110-130AC — Undervoltage release, 110-130VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266220",
+      "recordPath": "equipment/eaton-article-266220.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266220.json"
+    },
+    {
+      "id": "eaton-article-266205",
+      "name": "NZM4-XU48DC — Undervoltage release, 48 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266205",
+      "recordPath": "equipment/eaton-article-266205.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266205.json"
+    },
+    {
+      "id": "eaton-article-266193",
+      "name": "NZM4-XU208-240AC — Undervoltage release, 208-240VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266193",
+      "recordPath": "equipment/eaton-article-266193.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266193.json"
+    },
+    {
+      "id": "eaton-article-266194",
+      "name": "NZM4-XU380-440AC — Undervoltage release, 380-440VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266194",
+      "recordPath": "equipment/eaton-article-266194.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266194.json"
+    },
+    {
+      "id": "eaton-article-266588",
+      "name": "NZM4-XUV — Undervoltage release, for delay unit",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266588",
+      "recordPath": "equipment/eaton-article-266588.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266588.json"
+    },
+    {
+      "id": "eaton-article-266451",
+      "name": "NZM4-XA208-250AC/DC — Shunt release, 208-240VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266451",
+      "recordPath": "equipment/eaton-article-266451.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266451.json"
+    },
+    {
+      "id": "eaton-article-266473",
+      "name": "NZM4-XAHIV60AC/DC — Shunt release, 60VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266473",
+      "recordPath": "equipment/eaton-article-266473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266473.json"
+    },
+    {
+      "id": "eaton-article-266218",
+      "name": "NZM4-XUHIV48AC — Undervoltage release, 48VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266218",
+      "recordPath": "equipment/eaton-article-266218.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266218.json"
+    },
+    {
+      "id": "eaton-article-266472",
+      "name": "NZM4-XAHIV48AC/DC — Shunt release, 48VAC/DC, +1early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266472",
+      "recordPath": "equipment/eaton-article-266472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266472.json"
+    },
+    {
+      "id": "eaton-article-266249",
+      "name": "NZM4-XUHIV20380-440AC — Undervoltage release, 380-440VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266249",
+      "recordPath": "equipment/eaton-article-266249.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266249.json"
+    },
+    {
+      "id": "eaton-article-266191",
+      "name": "NZM4-XU60AC — Undervoltage release, 60VAC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266191",
+      "recordPath": "equipment/eaton-article-266191.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266191.json"
+    },
+    {
+      "id": "eaton-article-266258",
+      "name": "NZM4-XUHIV2024DC — Undervoltage release, 24 V DC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266258",
+      "recordPath": "equipment/eaton-article-266258.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266258.json"
+    },
+    {
+      "id": "eaton-article-266446",
+      "name": "NZM4-XA12AC/DC — Shunt release, 12VAC/DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266446",
+      "recordPath": "equipment/eaton-article-266446.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266446.json"
+    },
+    {
+      "id": "eaton-article-266203",
+      "name": "NZM4-XU12DC — Undervoltage release, 12 V DC",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266203",
+      "recordPath": "equipment/eaton-article-266203.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266203.json"
+    },
+    {
+      "id": "eaton-article-266217",
+      "name": "NZM4-XUHIV24AC — Undervoltage release, 24VAC, +2early N/O",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266217",
+      "recordPath": "equipment/eaton-article-266217.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-266217.json"
+    },
+    {
+      "id": "eaton-article-dc92b04c74937f2ca846533c",
+      "name": "32A 660V CAMASTER FUSEHOLDER — Fuse-holder, LV, 32 A, AC 690 V, BS88/A2, 1P, BS, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dc92b04c74937f2ca846533c",
+      "recordPath": "equipment/eaton-article-dc92b04c74937f2ca846533c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dc92b04c74937f2ca846533c.json"
+    },
+    {
+      "id": "eaton-article-4605c7db7b826305881040b3",
+      "name": "32A 660V COMP F/HOLD(10)1.3KG — Fuse-holder, low voltage, 32 A, AC 690 V, BS88/A1, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4605c7db7b826305881040b3",
+      "recordPath": "equipment/eaton-article-4605c7db7b826305881040b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4605c7db7b826305881040b3.json"
+    },
+    {
+      "id": "eaton-article-165fdf0f2166756ca4d45ae9",
+      "name": "63A 660V CMSTR F/HOLD(10)2.2KG — Fuse-holder, LV, 63 A, AC 690 V, BS88/A3, 1P, BS, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-165fdf0f2166756ca4d45ae9",
+      "recordPath": "equipment/eaton-article-165fdf0f2166756ca4d45ae9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-165fdf0f2166756ca4d45ae9.json"
+    },
+    {
+      "id": "eaton-article-6637f68dfda28f1926a2904e",
+      "name": "100A 660V CMSTR F/HOLD(5)1.1KG — Fuse-holder, LV, 100 A, AC 690 V, BS88, 1P, BS, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6637f68dfda28f1926a2904e",
+      "recordPath": "equipment/eaton-article-6637f68dfda28f1926a2904e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6637f68dfda28f1926a2904e.json"
+    },
+    {
+      "id": "eaton-article-40819fc4de3abe6e57b3e88c",
+      "name": "32A 660V WHT F/HOLD(10)1.3KG W — Fuse-holder, LV, 32 A, AC 690 V, BS88/A1, 1P, BS, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-40819fc4de3abe6e57b3e88c",
+      "recordPath": "equipment/eaton-article-40819fc4de3abe6e57b3e88c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-40819fc4de3abe6e57b3e88c.json"
+    },
+    {
+      "id": "eaton-article-08bd7d90955b1b83a1ef218f",
+      "name": "100A 660V WHITE F/HOLDER — Fuse-holder, LV, 100 A, AC 690 V, BS88, 1P, BS, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-08bd7d90955b1b83a1ef218f",
+      "recordPath": "equipment/eaton-article-08bd7d90955b1b83a1ef218f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-08bd7d90955b1b83a1ef218f.json"
+    },
+    {
+      "id": "eaton-article-4623d2d0e1a5cb0c2d945357",
+      "name": "CAMASTER ADAPTABLE TO FB/BB 20A 660V — Fuse-holder, LV, 20 A, AC 690 V, BS88/A1, 1P, BS, black",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4623d2d0e1a5cb0c2d945357",
+      "recordPath": "equipment/eaton-article-4623d2d0e1a5cb0c2d945357.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4623d2d0e1a5cb0c2d945357.json"
+    },
+    {
+      "id": "eaton-article-1ed8bb0ba3b8ebdef900e614",
+      "name": "32A 660V WHT F/HOLD(10)1.8KG — Fuse-holder, LV, 32 A, AC 690 V, BS88/A2, 1P, BS, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1ed8bb0ba3b8ebdef900e614",
+      "recordPath": "equipment/eaton-article-1ed8bb0ba3b8ebdef900e614.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1ed8bb0ba3b8ebdef900e614.json"
+    },
+    {
+      "id": "eaton-article-b6e63e7caeb8258115457399",
+      "name": "32A 660V GRN F/HOLD(10)1.8KG — Fuse-holder, low voltage, 32 A, AC 690 V, BS88/A2, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b6e63e7caeb8258115457399",
+      "recordPath": "equipment/eaton-article-b6e63e7caeb8258115457399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b6e63e7caeb8258115457399.json"
+    },
+    {
+      "id": "eaton-article-fa1426707227214f92642f3f",
+      "name": "WHT F/UNIT ADAPT TO FM/BB 20A 660V — Fuse-holder, low voltage, 20 A, AC 660 V, BS88, 1P, BS",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fa1426707227214f92642f3f",
+      "recordPath": "equipment/eaton-article-fa1426707227214f92642f3f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fa1426707227214f92642f3f.json"
+    },
+    {
+      "id": "eaton-article-1a391b05352cab52fff28dc9",
+      "name": "63A 660V WHT F/HOLD(10)2.2KG — Fuse-holder, LV, 63 A, AC 690 V, BS88/A3, 1P, BS, white",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1a391b05352cab52fff28dc9",
+      "recordPath": "equipment/eaton-article-1a391b05352cab52fff28dc9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1a391b05352cab52fff28dc9.json"
+    },
+    {
+      "id": "eaton-article-9e86a1ef1de8a7dd938294e7",
+      "name": "170M2702 — Fuse-link, high speed, 160 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9e86a1ef1de8a7dd938294e7",
+      "recordPath": "equipment/eaton-article-9e86a1ef1de8a7dd938294e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9e86a1ef1de8a7dd938294e7.json"
+    },
+    {
+      "id": "eaton-article-ac7a92fbdb47e33dda49664a",
+      "name": "170M2709 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ac7a92fbdb47e33dda49664a",
+      "recordPath": "equipment/eaton-article-ac7a92fbdb47e33dda49664a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ac7a92fbdb47e33dda49664a.json"
+    },
+    {
+      "id": "eaton-article-7697bd029d905aa122c8c602",
+      "name": "FUSE 250A 690V 00TN/80 AR UR — Fuse-link, high speed, 250 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7697bd029d905aa122c8c602",
+      "recordPath": "equipment/eaton-article-7697bd029d905aa122c8c602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7697bd029d905aa122c8c602.json"
+    },
+    {
+      "id": "eaton-article-e3c314dca5678214998d785f",
+      "name": "FUSE 125A 690V 00TN/80 AR UR — Fuse-link, high speed, 125 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e3c314dca5678214998d785f",
+      "recordPath": "equipment/eaton-article-e3c314dca5678214998d785f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e3c314dca5678214998d785f.json"
+    },
+    {
+      "id": "eaton-article-9b036993554a91d36ade6cf4",
+      "name": "FUSE 100A 690V DIN 00 GR — Fuse-link, high speed, 100 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9b036993554a91d36ade6cf4",
+      "recordPath": "equipment/eaton-article-9b036993554a91d36ade6cf4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9b036993554a91d36ade6cf4.json"
+    },
+    {
+      "id": "eaton-article-92633e7d238a70f1002caf62",
+      "name": "170M2771 — Fuse-link, high speed, 400 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-92633e7d238a70f1002caf62",
+      "recordPath": "equipment/eaton-article-92633e7d238a70f1002caf62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-92633e7d238a70f1002caf62.json"
+    },
+    {
+      "id": "eaton-article-d5a4104719715a584c7fd231",
+      "name": "FUSE 250A 690V 1*/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 250 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d5a4104719715a584c7fd231",
+      "recordPath": "equipment/eaton-article-d5a4104719715a584c7fd231.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d5a4104719715a584c7fd231.json"
+    },
+    {
+      "id": "eaton-article-71f0c29b915537a6f0aadd72",
+      "name": "FUSE 63A 1000V DIN 00 AR — Fuse-link, high speed, 63 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-71f0c29b915537a6f0aadd72",
+      "recordPath": "equipment/eaton-article-71f0c29b915537a6f0aadd72.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-71f0c29b915537a6f0aadd72.json"
+    },
+    {
+      "id": "eaton-article-05e690564fae9966f52231bc",
+      "name": "170M3015 — High speed square body fuse, 690 V (IEC), 700 V (UL), 200 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-05e690564fae9966f52231bc",
+      "recordPath": "equipment/eaton-article-05e690564fae9966f52231bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-05e690564fae9966f52231bc.json"
+    },
+    {
+      "id": "eaton-article-53e5cea2f755ae42e7b2891e",
+      "name": "FUSE 16A 690V DIN 00 GR — Fuse-link, high speed, 16 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-53e5cea2f755ae42e7b2891e",
+      "recordPath": "equipment/eaton-article-53e5cea2f755ae42e7b2891e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-53e5cea2f755ae42e7b2891e.json"
+    },
+    {
+      "id": "eaton-article-4457ab00c5beabd9f63af7c8",
+      "name": "FUSE 500A 690V 1*TN/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 500 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/80 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4457ab00c5beabd9f63af7c8",
+      "recordPath": "equipment/eaton-article-4457ab00c5beabd9f63af7c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4457ab00c5beabd9f63af7c8.json"
+    },
+    {
+      "id": "eaton-article-1974f904baf8fde11ecc0ecd",
+      "name": "170M2710 — Fuse-link, high speed, 40 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1974f904baf8fde11ecc0ecd",
+      "recordPath": "equipment/eaton-article-1974f904baf8fde11ecc0ecd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1974f904baf8fde11ecc0ecd.json"
+    },
+    {
+      "id": "eaton-article-c7157a3d3aa4e6ec707a3df3",
+      "name": "FUSE 315A 690V 00BTN/60 AR — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c7157a3d3aa4e6ec707a3df3",
+      "recordPath": "equipment/eaton-article-c7157a3d3aa4e6ec707a3df3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c7157a3d3aa4e6ec707a3df3.json"
+    },
+    {
+      "id": "eaton-article-6e83359267ab1bc118567d70",
+      "name": "170M2708 — Fuse-link, high speed, 25 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6e83359267ab1bc118567d70",
+      "recordPath": "equipment/eaton-article-6e83359267ab1bc118567d70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6e83359267ab1bc118567d70.json"
+    },
+    {
+      "id": "eaton-article-dad3893d7e44b26d276fbaa6",
+      "name": "170M2770 — Fuse-link, high speed, 350 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dad3893d7e44b26d276fbaa6",
+      "recordPath": "equipment/eaton-article-dad3893d7e44b26d276fbaa6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dad3893d7e44b26d276fbaa6.json"
+    },
+    {
+      "id": "eaton-article-1bed0691e55afc5f6b23a42c",
+      "name": "170M2684 — Fuse-link, high speed, 200 A, AC 900 V, DIN 00, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1bed0691e55afc5f6b23a42c",
+      "recordPath": "equipment/eaton-article-1bed0691e55afc5f6b23a42c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1bed0691e55afc5f6b23a42c.json"
+    },
+    {
+      "id": "eaton-article-a040233595e3b43f659f8de7",
+      "name": "FUSE 80A 690V 00BTN/60 GR — Fuse-link, high speed, 80 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a040233595e3b43f659f8de7",
+      "recordPath": "equipment/eaton-article-a040233595e3b43f659f8de7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a040233595e3b43f659f8de7.json"
+    },
+    {
+      "id": "eaton-article-c6531c7b04dca2e0192aa716",
+      "name": "FUSE 160A 690V 00BTN/60 AR — Fuse-link, high speed, 160 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c6531c7b04dca2e0192aa716",
+      "recordPath": "equipment/eaton-article-c6531c7b04dca2e0192aa716.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c6531c7b04dca2e0192aa716.json"
+    },
+    {
+      "id": "eaton-article-241490ee9ff77916b26792f2",
+      "name": "170M2717 — Fuse-link, high speed, 200 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-241490ee9ff77916b26792f2",
+      "recordPath": "equipment/eaton-article-241490ee9ff77916b26792f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-241490ee9ff77916b26792f2.json"
+    },
+    {
+      "id": "eaton-article-528ab82e8989d88f59e2121a",
+      "name": "FUSE 225A 900V DIN 00 AR — Fuse-link, high speed, 225 A, AC 900 V, DIN 00, aR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-528ab82e8989d88f59e2121a",
+      "recordPath": "equipment/eaton-article-528ab82e8989d88f59e2121a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-528ab82e8989d88f59e2121a.json"
+    },
+    {
+      "id": "eaton-article-9a2f90bdb26a7d455583ed92",
+      "name": "170M2697 — Fuse-link, high speed, 50 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9a2f90bdb26a7d455583ed92",
+      "recordPath": "equipment/eaton-article-9a2f90bdb26a7d455583ed92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9a2f90bdb26a7d455583ed92.json"
+    },
+    {
+      "id": "eaton-article-eec427f445ca4794a58f0735",
+      "name": "FUSE 80A 690V DIN 00 GR — Fuse-link, high speed, 80 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-eec427f445ca4794a58f0735",
+      "recordPath": "equipment/eaton-article-eec427f445ca4794a58f0735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-eec427f445ca4794a58f0735.json"
+    },
+    {
+      "id": "eaton-article-7934ca6a9227141bd0833587",
+      "name": "FUSE 10A 690V DIN 00 GR — Fuse-link, high speed, 10 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7934ca6a9227141bd0833587",
+      "recordPath": "equipment/eaton-article-7934ca6a9227141bd0833587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7934ca6a9227141bd0833587.json"
+    },
+    {
+      "id": "eaton-article-5ceb1ad88fb1257ce97cf560",
+      "name": "170M2716 — Fuse-link, high speed, 160 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5ceb1ad88fb1257ce97cf560",
+      "recordPath": "equipment/eaton-article-5ceb1ad88fb1257ce97cf560.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5ceb1ad88fb1257ce97cf560.json"
+    },
+    {
+      "id": "eaton-article-626221ea88e00910d4fffdff",
+      "name": "170M2675 — Fuse-link, high speed, 32 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-626221ea88e00910d4fffdff",
+      "recordPath": "equipment/eaton-article-626221ea88e00910d4fffdff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-626221ea88e00910d4fffdff.json"
+    },
+    {
+      "id": "eaton-article-0c596d19d2ff69bd4c5f5248",
+      "name": "FUSE 350A 690V 1*/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 350 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0c596d19d2ff69bd4c5f5248",
+      "recordPath": "equipment/eaton-article-0c596d19d2ff69bd4c5f5248.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0c596d19d2ff69bd4c5f5248.json"
+    },
+    {
+      "id": "eaton-article-aaebd9c1a8de8f83c571b57b",
+      "name": "170M2768 — Fuse-link, high speed, 250 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-aaebd9c1a8de8f83c571b57b",
+      "recordPath": "equipment/eaton-article-aaebd9c1a8de8f83c571b57b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-aaebd9c1a8de8f83c571b57b.json"
+    },
+    {
+      "id": "eaton-article-63b8a254d7570e46a917c47e",
+      "name": "170M2765 — Fuse-link, high speed, 125 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-63b8a254d7570e46a917c47e",
+      "recordPath": "equipment/eaton-article-63b8a254d7570e46a917c47e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-63b8a254d7570e46a917c47e.json"
+    },
+    {
+      "id": "eaton-article-8c0e6f77ab0245341897e5f2",
+      "name": "FUSE 200A 690V 00BTN/60 AR — Fuse-link, high speed, 200 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8c0e6f77ab0245341897e5f2",
+      "recordPath": "equipment/eaton-article-8c0e6f77ab0245341897e5f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8c0e6f77ab0245341897e5f2.json"
+    },
+    {
+      "id": "eaton-article-05599eee2397113a856e867a",
+      "name": "FUSE 20A 1000V DIN 00 AR — Fuse-link, high speed, 20 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-05599eee2397113a856e867a",
+      "recordPath": "equipment/eaton-article-05599eee2397113a856e867a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-05599eee2397113a856e867a.json"
+    },
+    {
+      "id": "eaton-article-d1c226e98dd7245f7ec3cd88",
+      "name": "FUSE 25A 1000V DIN 00 AR — Fuse-link, high speed, 25 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d1c226e98dd7245f7ec3cd88",
+      "recordPath": "equipment/eaton-article-d1c226e98dd7245f7ec3cd88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d1c226e98dd7245f7ec3cd88.json"
+    },
+    {
+      "id": "eaton-article-5ec55ea310dbce89fcb17556",
+      "name": "FUSE 160A 690V 1*/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 160 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5ec55ea310dbce89fcb17556",
+      "recordPath": "equipment/eaton-article-5ec55ea310dbce89fcb17556.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5ec55ea310dbce89fcb17556.json"
+    },
+    {
+      "id": "eaton-article-a2f10cd3b14a00b8373c94bc",
+      "name": "FUSE 350A 690V 1 TN 80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 350 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/80 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a2f10cd3b14a00b8373c94bc",
+      "recordPath": "equipment/eaton-article-a2f10cd3b14a00b8373c94bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a2f10cd3b14a00b8373c94bc.json"
+    },
+    {
+      "id": "eaton-article-743860768b99419f857d5229",
+      "name": "FUSE 160A 690V 00TN/80 AR UR — Fuse-link, high speed, 160 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-743860768b99419f857d5229",
+      "recordPath": "equipment/eaton-article-743860768b99419f857d5229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-743860768b99419f857d5229.json"
+    },
+    {
+      "id": "eaton-article-836a24a33d95fd77160b8432",
+      "name": "FUSE 35A 1000V DIN 00 AR — Fuse-link, high speed, 35 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-836a24a33d95fd77160b8432",
+      "recordPath": "equipment/eaton-article-836a24a33d95fd77160b8432.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-836a24a33d95fd77160b8432.json"
+    },
+    {
+      "id": "eaton-article-199d57d3cb1f5117f28166cd",
+      "name": "FUSE 450A 690V 1*TN/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 450 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/80 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-199d57d3cb1f5117f28166cd",
+      "recordPath": "equipment/eaton-article-199d57d3cb1f5117f28166cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-199d57d3cb1f5117f28166cd.json"
+    },
+    {
+      "id": "eaton-article-b0183fc9823a98f1dd443d24",
+      "name": "FUSE 125A 690V 1*/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 125 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b0183fc9823a98f1dd443d24",
+      "recordPath": "equipment/eaton-article-b0183fc9823a98f1dd443d24.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b0183fc9823a98f1dd443d24.json"
+    },
+    {
+      "id": "eaton-article-ac32c040e632ab86da5e4adb",
+      "name": "170M2662 — Fuse-link, high speed, 63 A, AC 690 V, DIN 00, 30 x 67 x 100 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ac32c040e632ab86da5e4adb",
+      "recordPath": "equipment/eaton-article-ac32c040e632ab86da5e4adb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ac32c040e632ab86da5e4adb.json"
+    },
+    {
+      "id": "eaton-article-374f59428795f8c5955a69f9",
+      "name": "170M2721 — Fuse-link, high speed, 400 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-374f59428795f8c5955a69f9",
+      "recordPath": "equipment/eaton-article-374f59428795f8c5955a69f9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-374f59428795f8c5955a69f9.json"
+    },
+    {
+      "id": "eaton-article-8ee067a010666bad2f0aafb3",
+      "name": "FUSE 32A 690V DIN 00 GR — Fuse-link, high speed, 32 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8ee067a010666bad2f0aafb3",
+      "recordPath": "equipment/eaton-article-8ee067a010666bad2f0aafb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8ee067a010666bad2f0aafb3.json"
+    },
+    {
+      "id": "eaton-article-ec434562e31d5bf38bcae707",
+      "name": "FUSE 125A 1000V DIN 00 AR — Fuse-link, high speed, 125 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ec434562e31d5bf38bcae707",
+      "recordPath": "equipment/eaton-article-ec434562e31d5bf38bcae707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ec434562e31d5bf38bcae707.json"
+    },
+    {
+      "id": "eaton-article-9d0f42cf47acf43805963875",
+      "name": "170M2696 — Fuse-link, high speed, 40 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-9d0f42cf47acf43805963875",
+      "recordPath": "equipment/eaton-article-9d0f42cf47acf43805963875.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-9d0f42cf47acf43805963875.json"
+    },
+    {
+      "id": "eaton-article-7ae553c73aa047c86a789f88",
+      "name": "170M2683 — Fuse-link, high speed, 160 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7ae553c73aa047c86a789f88",
+      "recordPath": "equipment/eaton-article-7ae553c73aa047c86a789f88.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7ae553c73aa047c86a789f88.json"
+    },
+    {
+      "id": "eaton-article-c104b13eeabeb31210cd960b",
+      "name": "170M2719 — Fuse-link, high speed, 315 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c104b13eeabeb31210cd960b",
+      "recordPath": "equipment/eaton-article-c104b13eeabeb31210cd960b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c104b13eeabeb31210cd960b.json"
+    },
+    {
+      "id": "eaton-article-35f36cc55dfc3b1fafab9576",
+      "name": "170M2670 — Fuse-link, high speed, 350 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-35f36cc55dfc3b1fafab9576",
+      "recordPath": "equipment/eaton-article-35f36cc55dfc3b1fafab9576.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-35f36cc55dfc3b1fafab9576.json"
+    },
+    {
+      "id": "eaton-article-4706816492ac9bb54e9fb0bc",
+      "name": "170M2671 — Fuse-link, high speed, 400 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4706816492ac9bb54e9fb0bc",
+      "recordPath": "equipment/eaton-article-4706816492ac9bb54e9fb0bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4706816492ac9bb54e9fb0bc.json"
+    },
+    {
+      "id": "eaton-article-522dd314df97e2437a4d1dea",
+      "name": "170M3072 — High speed square body fuse, 690 V (IEC), 700 V (UL), 550 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/80 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-522dd314df97e2437a4d1dea",
+      "recordPath": "equipment/eaton-article-522dd314df97e2437a4d1dea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-522dd314df97e2437a4d1dea.json"
+    },
+    {
+      "id": "eaton-article-88477f56c556877c996d4f0e",
+      "name": "FUSE 100A 690V 00TN/80 AR UR — Fuse-link, high speed, 100 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-88477f56c556877c996d4f0e",
+      "recordPath": "equipment/eaton-article-88477f56c556877c996d4f0e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-88477f56c556877c996d4f0e.json"
+    },
+    {
+      "id": "eaton-article-8a584c71eff88acac46ede1b",
+      "name": "170M2677 — Fuse-link, high speed, 40 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8a584c71eff88acac46ede1b",
+      "recordPath": "equipment/eaton-article-8a584c71eff88acac46ede1b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8a584c71eff88acac46ede1b.json"
+    },
+    {
+      "id": "eaton-article-5d9abb2692f8a8b6a419b8ab",
+      "name": "FUSE 80A 690V 00TN/80 GR — Fuse-link, high speed, 80 A, AC 690 V, DIN 00, gR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5d9abb2692f8a8b6a419b8ab",
+      "recordPath": "equipment/eaton-article-5d9abb2692f8a8b6a419b8ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5d9abb2692f8a8b6a419b8ab.json"
+    },
+    {
+      "id": "eaton-article-a0547569097269daf3c96e8f",
+      "name": "FUSE 20A 690V DIN 00 GR — Fuse-link, high speed, 20 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a0547569097269daf3c96e8f",
+      "recordPath": "equipment/eaton-article-a0547569097269daf3c96e8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a0547569097269daf3c96e8f.json"
+    },
+    {
+      "id": "eaton-article-1d8172c96961db8f30975d46",
+      "name": "FUSE 630A 690V 1*TN/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 630 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/80 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1d8172c96961db8f30975d46",
+      "recordPath": "equipment/eaton-article-1d8172c96961db8f30975d46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1d8172c96961db8f30975d46.json"
+    },
+    {
+      "id": "eaton-article-8dcfe6005b38ad7dbf9ce661",
+      "name": "FUSE 400A 690V 1*TN/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 400 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/80 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8dcfe6005b38ad7dbf9ce661",
+      "recordPath": "equipment/eaton-article-8dcfe6005b38ad7dbf9ce661.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8dcfe6005b38ad7dbf9ce661.json"
+    },
+    {
+      "id": "eaton-article-b4da6a1fd8d33dda7517e3b0",
+      "name": "170M2759 — Fuse-link, high speed, 32 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-b4da6a1fd8d33dda7517e3b0",
+      "recordPath": "equipment/eaton-article-b4da6a1fd8d33dda7517e3b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-b4da6a1fd8d33dda7517e3b0.json"
+    },
+    {
+      "id": "eaton-article-daa83f030739f913dc2d2613",
+      "name": "FUSE 80A 1000V DIN 00 AR — Fuse-link, high speed, 80 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-daa83f030739f913dc2d2613",
+      "recordPath": "equipment/eaton-article-daa83f030739f913dc2d2613.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-daa83f030739f913dc2d2613.json"
+    },
+    {
+      "id": "eaton-article-7a1243371fad187966f59e6d",
+      "name": "FUSE 80A 690V 1*/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 80 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7a1243371fad187966f59e6d",
+      "recordPath": "equipment/eaton-article-7a1243371fad187966f59e6d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7a1243371fad187966f59e6d.json"
+    },
+    {
+      "id": "eaton-article-4f4f6900afaaf360f45c4ff2",
+      "name": "170M2760 — Fuse-link, high speed, 40 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4f4f6900afaaf360f45c4ff2",
+      "recordPath": "equipment/eaton-article-4f4f6900afaaf360f45c4ff2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4f4f6900afaaf360f45c4ff2.json"
+    },
+    {
+      "id": "eaton-article-08d3efbcb6c7fb8a9e88e99d",
+      "name": "FUSE 63A 690V DIN 00 GR — Fuse-link, high speed, 63 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-08d3efbcb6c7fb8a9e88e99d",
+      "recordPath": "equipment/eaton-article-08d3efbcb6c7fb8a9e88e99d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-08d3efbcb6c7fb8a9e88e99d.json"
+    },
+    {
+      "id": "eaton-article-777f1ef7e148f22ff9123643",
+      "name": "FUSE 50A 1000V DIN 00 AR — Fuse-link, high speed, 50 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-777f1ef7e148f22ff9123643",
+      "recordPath": "equipment/eaton-article-777f1ef7e148f22ff9123643.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-777f1ef7e148f22ff9123643.json"
+    },
+    {
+      "id": "eaton-article-cb6df01786249b9c44a6f8d5",
+      "name": "170M2758 — Fuse-link, high speed, 25 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-cb6df01786249b9c44a6f8d5",
+      "recordPath": "equipment/eaton-article-cb6df01786249b9c44a6f8d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-cb6df01786249b9c44a6f8d5.json"
+    },
+    {
+      "id": "eaton-article-5d25b5af797b384333cec189",
+      "name": "FUSE 100A 690V 00BTN/60 AR — Fuse-link, high speed, 100 A, AC 690 V, size 00, 30 x 62 x 64 mm, aR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-5d25b5af797b384333cec189",
+      "recordPath": "equipment/eaton-article-5d25b5af797b384333cec189.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-5d25b5af797b384333cec189.json"
+    },
+    {
+      "id": "eaton-article-af2dfed65eb6a5dc1cdc51fe",
+      "name": "FUSE 125A 690V DIN 00 GR INDICATOR — Fuse-link, high speed, 125 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-af2dfed65eb6a5dc1cdc51fe",
+      "recordPath": "equipment/eaton-article-af2dfed65eb6a5dc1cdc51fe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-af2dfed65eb6a5dc1cdc51fe.json"
+    },
+    {
+      "id": "eaton-article-c29706f18a83771e5ad7e52b",
+      "name": "FUSE 315A 690V 1*/80 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 315 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /80 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c29706f18a83771e5ad7e52b",
+      "recordPath": "equipment/eaton-article-c29706f18a83771e5ad7e52b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c29706f18a83771e5ad7e52b.json"
+    },
+    {
+      "id": "eaton-article-88594406cff50abd68b23742",
+      "name": "FUSE 100A 1000V DIN 00 AR — Fuse-link, high speed, 100 A, AC 1000 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-88594406cff50abd68b23742",
+      "recordPath": "equipment/eaton-article-88594406cff50abd68b23742.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-88594406cff50abd68b23742.json"
+    },
+    {
+      "id": "eaton-article-52bc6f51291e055dc9bc83fd",
+      "name": "FUSE 200A 690V 00TN/80 AR UR — Fuse-link, high speed, 200 A, AC 690 V, DIN 00, aR, DIN, IEC, single indicator, live gripping lugs",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-52bc6f51291e055dc9bc83fd",
+      "recordPath": "equipment/eaton-article-52bc6f51291e055dc9bc83fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-52bc6f51291e055dc9bc83fd.json"
+    },
+    {
+      "id": "eaton-article-8c00392b2ea9934c19d35449",
+      "name": "170M2761 — Fuse-link, high speed, 50 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-8c00392b2ea9934c19d35449",
+      "recordPath": "equipment/eaton-article-8c00392b2ea9934c19d35449.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-8c00392b2ea9934c19d35449.json"
+    },
+    {
+      "id": "eaton-article-dd3e8db6466debe1027d74c4",
+      "name": "170M2694 — Fuse-link, high speed, 25 A, AC 690 V, DIN 00, 30 x 60 x 79 mm, gR, DIN, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dd3e8db6466debe1027d74c4",
+      "recordPath": "equipment/eaton-article-dd3e8db6466debe1027d74c4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dd3e8db6466debe1027d74c4.json"
+    },
+    {
+      "id": "eaton-article-0afdcd931935ad83bd93da32",
+      "name": "170M2713 — Fuse-link, high speed, 80 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0afdcd931935ad83bd93da32",
+      "recordPath": "equipment/eaton-article-0afdcd931935ad83bd93da32.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0afdcd931935ad83bd93da32.json"
+    },
+    {
+      "id": "eaton-article-1736f79be26c0ee64303cca4",
+      "name": "FUSE 125A 690V 00BN/60 AR — Fuse-link, high speed, 125 A, AC 690 V, size 00, 30 x 48 x 64 mm, aR, IEC, visual indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1736f79be26c0ee64303cca4",
+      "recordPath": "equipment/eaton-article-1736f79be26c0ee64303cca4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1736f79be26c0ee64303cca4.json"
+    },
+    {
+      "id": "eaton-article-52ee2be39a9b615dea652f73",
+      "name": "170M2762 — Fuse-link, high speed, 63 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-52ee2be39a9b615dea652f73",
+      "recordPath": "equipment/eaton-article-52ee2be39a9b615dea652f73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-52ee2be39a9b615dea652f73.json"
+    },
+    {
+      "id": "eaton-article-c6fc34931f024b1596914749",
+      "name": "170M2712 — High speed square body fuse, 63 A, AC 690 V, size 00, 30 x 62 x 64 mm, gR, IEC, single indicator",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-c6fc34931f024b1596914749",
+      "recordPath": "equipment/eaton-article-c6fc34931f024b1596914749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-c6fc34931f024b1596914749.json"
+    },
+    {
+      "id": "eaton-article-a88a57dda002ef3ce9676ba9",
+      "name": "170M2669 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-a88a57dda002ef3ce9676ba9",
+      "recordPath": "equipment/eaton-article-a88a57dda002ef3ce9676ba9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-a88a57dda002ef3ce9676ba9.json"
+    },
+    {
+      "id": "eaton-article-d0a23fd49bd9fc1c0e13129a",
+      "name": "170M3163 — High speed square body fuse, 690 V (IEC), 700 V (UL), 125 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-d0a23fd49bd9fc1c0e13129a",
+      "recordPath": "equipment/eaton-article-d0a23fd49bd9fc1c0e13129a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-d0a23fd49bd9fc1c0e13129a.json"
+    },
+    {
+      "id": "eaton-article-920a3426c3b16ea153179fa1",
+      "name": "170M3319 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-920a3426c3b16ea153179fa1",
+      "recordPath": "equipment/eaton-article-920a3426c3b16ea153179fa1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-920a3426c3b16ea153179fa1.json"
+    },
+    {
+      "id": "eaton-article-3883722ce6f9d2fbe0756415",
+      "name": "170M3318 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-3883722ce6f9d2fbe0756415",
+      "recordPath": "equipment/eaton-article-3883722ce6f9d2fbe0756415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-3883722ce6f9d2fbe0756415.json"
+    },
+    {
+      "id": "eaton-article-53c2b44cc6c1568a41fd159b",
+      "name": "170M3316 — High speed square body fuse, 690 V, 250 A, Fuse size: 1*, Top fuse status indicator, French style, E/Type indicator for micro, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-53c2b44cc6c1568a41fd159b",
+      "recordPath": "equipment/eaton-article-53c2b44cc6c1568a41fd159b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-53c2b44cc6c1568a41fd159b.json"
+    },
+    {
+      "id": "eaton-article-99a87c0c0acaeb788f1481b8",
+      "name": "170M3211 — High speed square body fuse, 690 V (IEC), 700 V (UL), 80 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/110 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-99a87c0c0acaeb788f1481b8",
+      "recordPath": "equipment/eaton-article-99a87c0c0acaeb788f1481b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-99a87c0c0acaeb788f1481b8.json"
+    },
+    {
+      "id": "eaton-article-1cc66b31e86e1bc81ab8e2f7",
+      "name": "FUSE 160A 690V 1*/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 160 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1cc66b31e86e1bc81ab8e2f7",
+      "recordPath": "equipment/eaton-article-1cc66b31e86e1bc81ab8e2f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1cc66b31e86e1bc81ab8e2f7.json"
+    },
+    {
+      "id": "eaton-article-e554521e30f0775363c7d308",
+      "name": "170M3165 — High speed square body fuse, 690 V (IEC), 700 V (UL), 200 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e554521e30f0775363c7d308",
+      "recordPath": "equipment/eaton-article-e554521e30f0775363c7d308.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e554521e30f0775363c7d308.json"
+    },
+    {
+      "id": "eaton-article-0323dcb05dfb2e862429783d",
+      "name": "FUSE 80A 690V 1*/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 80 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0323dcb05dfb2e862429783d",
+      "recordPath": "equipment/eaton-article-0323dcb05dfb2e862429783d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0323dcb05dfb2e862429783d.json"
+    },
+    {
+      "id": "eaton-article-f2870fecae273a9b7493f3db",
+      "name": "170M3308 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-f2870fecae273a9b7493f3db",
+      "recordPath": "equipment/eaton-article-f2870fecae273a9b7493f3db.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-f2870fecae273a9b7493f3db.json"
+    },
+    {
+      "id": "eaton-article-4e6597683cedf69ec3629523",
+      "name": "170M3321 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-4e6597683cedf69ec3629523",
+      "recordPath": "equipment/eaton-article-4e6597683cedf69ec3629523.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-4e6597683cedf69ec3629523.json"
+    },
+    {
+      "id": "eaton-article-e98ca348474cb02dd497ec5b",
+      "name": "170M3317 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e98ca348474cb02dd497ec5b",
+      "recordPath": "equipment/eaton-article-e98ca348474cb02dd497ec5b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e98ca348474cb02dd497ec5b.json"
+    },
+    {
+      "id": "eaton-article-379e7091c524d692016c9058",
+      "name": "FUSE 630A 690V 1*/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 630 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-379e7091c524d692016c9058",
+      "recordPath": "equipment/eaton-article-379e7091c524d692016c9058.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-379e7091c524d692016c9058.json"
+    },
+    {
+      "id": "eaton-article-84f7f06fc6341b594369a1ab",
+      "name": "170M3167 — High speed square body fuse, 690 V (IEC), 700 V (UL), 315 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-84f7f06fc6341b594369a1ab",
+      "recordPath": "equipment/eaton-article-84f7f06fc6341b594369a1ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-84f7f06fc6341b594369a1ab.json"
+    },
+    {
+      "id": "eaton-article-6f56c2713b26ae589f060318",
+      "name": "FUSE 450A 690V 1*/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 450 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6f56c2713b26ae589f060318",
+      "recordPath": "equipment/eaton-article-6f56c2713b26ae589f060318.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6f56c2713b26ae589f060318.json"
+    },
+    {
+      "id": "eaton-article-dc14fcc5b444ae2afd0987f4",
+      "name": "170M3315 — High speed square body fuse, 690 V, 200 A, Fuse size: 1*, Top fuse status indicator, French style, E/Type indicator for micro, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-dc14fcc5b444ae2afd0987f4",
+      "recordPath": "equipment/eaton-article-dc14fcc5b444ae2afd0987f4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-dc14fcc5b444ae2afd0987f4.json"
+    },
+    {
+      "id": "eaton-article-7b186926f8cc8d57385d1c08",
+      "name": "FUSE 550A 690V 1*TN/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 550 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/110 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-7b186926f8cc8d57385d1c08",
+      "recordPath": "equipment/eaton-article-7b186926f8cc8d57385d1c08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-7b186926f8cc8d57385d1c08.json"
+    },
+    {
+      "id": "eaton-article-19bd9b147990a9f725e18a97",
+      "name": "170M3169 — High speed square body fuse, 690 V (IEC), 700 V (UL), 400 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-19bd9b147990a9f725e18a97",
+      "recordPath": "equipment/eaton-article-19bd9b147990a9f725e18a97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-19bd9b147990a9f725e18a97.json"
+    },
+    {
+      "id": "eaton-article-0383fd38232bb44464c08ea0",
+      "name": "170M3160 — Eaton Bussmann series high speed square body fuse, 63A 690V HS 1*/110 aR INDICATOR FUSE",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-0383fd38232bb44464c08ea0",
+      "recordPath": "equipment/eaton-article-0383fd38232bb44464c08ea0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-0383fd38232bb44464c08ea0.json"
+    },
+    {
+      "id": "eaton-article-437bf4222a32f6ce254cdbe0",
+      "name": "170M3166 — High speed square body fuse, 690 V (IEC), 700 V (UL), 250 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-437bf4222a32f6ce254cdbe0",
+      "recordPath": "equipment/eaton-article-437bf4222a32f6ce254cdbe0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-437bf4222a32f6ce254cdbe0.json"
+    },
+    {
+      "id": "eaton-article-2434f512bde9d5b36743842c",
+      "name": "FUSE 630A 690V 1*TN/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 630 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, TN/110 Type T Indicator for Micro",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2434f512bde9d5b36743842c",
+      "recordPath": "equipment/eaton-article-2434f512bde9d5b36743842c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2434f512bde9d5b36743842c.json"
+    },
+    {
+      "id": "eaton-article-6d142e88eefc345c1a8a68a3",
+      "name": "FUSE 500A 690V 1*/110 AR UC — High speed square body fuse, 690 V (IEC), 700 V (UL), 500 A, Fuse size: 1*, Top fuse status indicator, DIN 43653, /110 Visual indicator, Bolted tag",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-6d142e88eefc345c1a8a68a3",
+      "recordPath": "equipment/eaton-article-6d142e88eefc345c1a8a68a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-6d142e88eefc345c1a8a68a3.json"
+    },
+    {
+      "id": "eaton-article-79f28e1789b13662e4a32c86",
+      "name": "170M3197 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-79f28e1789b13662e4a32c86",
+      "recordPath": "equipment/eaton-article-79f28e1789b13662e4a32c86.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-79f28e1789b13662e4a32c86.json"
+    },
+    {
+      "id": "eaton-article-71569eeb88be7ddafaa108b3",
+      "name": "170M3313 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-71569eeb88be7ddafaa108b3",
+      "recordPath": "equipment/eaton-article-71569eeb88be7ddafaa108b3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-71569eeb88be7ddafaa108b3.json"
+    },
+    {
+      "id": "eaton-article-fd91c0484e767a923479a5d8",
+      "name": "170M3248 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-fd91c0484e767a923479a5d8",
+      "recordPath": "equipment/eaton-article-fd91c0484e767a923479a5d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-fd91c0484e767a923479a5d8.json"
+    },
+    {
+      "id": "eaton-article-ea18da3a10d15e9f63aaca4a",
+      "name": "CODMVS160N/400N — Change-Over Mechanism, for DMV250N/400N",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ea18da3a10d15e9f63aaca4a",
+      "recordPath": "equipment/eaton-article-ea18da3a10d15e9f63aaca4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ea18da3a10d15e9f63aaca4a.json"
+    },
+    {
+      "id": "eaton-article-10402b2d640802d1488f33dd",
+      "name": "CODMV160N — Change-Over Mechanism, for 2xDMVN160N",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-10402b2d640802d1488f33dd",
+      "recordPath": "equipment/eaton-article-10402b2d640802d1488f33dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-10402b2d640802d1488f33dd.json"
+    },
+    {
+      "id": "eaton-article-2e777c7507a0b6dcd5de5e01",
+      "name": "CODMV630N/1000N — Change-Over Mechanism, for DMV630N/1000N",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-2e777c7507a0b6dcd5de5e01",
+      "recordPath": "equipment/eaton-article-2e777c7507a0b6dcd5de5e01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-2e777c7507a0b6dcd5de5e01.json"
+    },
+    {
+      "id": "eaton-article-e550e9eb0bbfb182155fb1d7",
+      "name": "170M3562 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-e550e9eb0bbfb182155fb1d7",
+      "recordPath": "equipment/eaton-article-e550e9eb0bbfb182155fb1d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-e550e9eb0bbfb182155fb1d7.json"
+    },
+    {
+      "id": "eaton-article-ce0f54aab33cfe209595eaa8",
+      "name": "170M3418 — High speed square body fuse, 690 V, 350 A, Fuse size: 1*, Top fuse status indicator, Flush end",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-ce0f54aab33cfe209595eaa8",
+      "recordPath": "equipment/eaton-article-ce0f54aab33cfe209595eaa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-ce0f54aab33cfe209595eaa8.json"
+    },
+    {
+      "id": "eaton-article-bb98aa03bd99da7e1b15beb2",
+      "name": "170M3521 — n/a",
+      "manufacturer": "Eaton",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-bb98aa03bd99da7e1b15beb2",
+      "recordPath": "equipment/eaton-article-bb98aa03bd99da7e1b15beb2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-bb98aa03bd99da7e1b15beb2.json"
+    },
+    {
+      "id": "eaton-article-1d2d177fa604d080af168cb3",
+      "name": "170M3416 — High speed square body fuse, 690 V, 250 A, Fuse size: 1*, Top fuse status indicator, Flush end",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-1d2d177fa604d080af168cb3",
+      "recordPath": "equipment/eaton-article-1d2d177fa604d080af168cb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-1d2d177fa604d080af168cb3.json"
+    }
+  ]
+}

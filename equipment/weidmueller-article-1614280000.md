@@ -1,0 +1,160 @@
+# Weidmüller — ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey
+
+Weidmüller ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1614280000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1614280000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1614280000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zrh-2-53/p/1614280000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1614280000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1614280000
+- Manufacturer reference: 1614280000
+- Manufacturer type: ZRH 2.5/3
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1614280000 ([source](https://eshop.weidmueller.com.cn/en/zrh-2-53/p/1614280000/downloads#engineering-support))
+- Manufacturer type: ZRH 2.5/3 ([source](https://eshop.weidmueller.com.cn/en/zrh-2-53/p/1614280000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zrh-2-53/p/1614280000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use 1614280000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1614280000.stp.
+
+Use 1614280000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1614280000.stp. 1614280000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1614280000\_back.DWG, 1614280000\_bottom.DWG, 1614280000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey before placing it. 1614280000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1614280000\_back.DXF, 1614280000\_bottom.DXF, 1614280000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1614280000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey?
+
+3 inspected originals for Weidmüller ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey: 1614280000.stp (STEP); 1614280000\_DWG.zip (ZIP); 1614280000\_DXF.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zrh-2-53/p/1614280000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zrh-2-53/p/1614280000/downloads#engineering-support)
+
+## Choosing a file
+
+Use 1614280000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1614280000.stp. 1614280000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1614280000\_back.DWG, 1614280000\_bottom.DWG, 1614280000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey before placing it. 1614280000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1614280000\_back.DXF, 1614280000\_bottom.DXF, 1614280000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZRH 2.5/3 — System components terminal block (unspecified) / Reducing sleeve (terminal) Wemid, grey before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1614280000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/729ec184-ecc6-4617-984b-fac47109d15d/original/1614280000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1614280000/native-589967e23cbe0b8ca13c0a48-step)
+- Redistribution: unknown
+- Original SHA-256: 589967e23cbe0b8ca13c0a48c4d340d566b13fcd4294eda5fd14ece951bbbe1a
+- Original bytes: 110967
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/729ec184-ecc6-4617-984b-fac47109d15d/original/1614280000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/729ec184-ecc6-4617-984b-fac47109d15d/original/1614280000.stp)
+- Delivery: source-bundle; ZIP; 20902 bytes
+- Delivery SHA-256: b50b5c6e10aa4abfa9e7de064f93f8de93952870276bd99daa0820e1c434316c
+
+### 1614280000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/2551cc34-eed5-47e6-953c-17b4fd879bfd/original/1614280000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1614280000/native-9a9906cb9b783e476a5ce58b-zip)
+- Redistribution: unknown
+- Original SHA-256: 9a9906cb9b783e476a5ce58b3839946814d714a2d531a1e246b4459ef0b56465
+- Original bytes: 61357
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/2551cc34-eed5-47e6-953c-17b4fd879bfd/original/1614280000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/2551cc34-eed5-47e6-953c-17b4fd879bfd/original/1614280000_DWG.zip)
+- Delivery: original; ZIP; 61357 bytes
+- Delivery SHA-256: 9a9906cb9b783e476a5ce58b3839946814d714a2d531a1e246b4459ef0b56465
+
+<details>
+<summary>Archive members</summary>
+
+- 1614280000\_back.DWG
+- 1614280000\_bottom.DWG
+- 1614280000\_front.DWG
+- 1614280000\_left.DWG
+- 1614280000\_right.DWG
+- 1614280000\_top.DWG
+
+</details>
+
+### 1614280000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/af53bb7f-9af3-4228-9eab-195a684ea754/original/1614280000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1614280000/native-75b1aef3724da3786fca7d4a-zip)
+- Redistribution: unknown
+- Original SHA-256: 75b1aef3724da3786fca7d4a30173d451ef6b32cc7b0800ac8a22eff9342868b
+- Original bytes: 32374
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/af53bb7f-9af3-4228-9eab-195a684ea754/original/1614280000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/af53bb7f-9af3-4228-9eab-195a684ea754/original/1614280000_DXF.zip)
+- Delivery: original; ZIP; 32374 bytes
+- Delivery SHA-256: 75b1aef3724da3786fca7d4a30173d451ef6b32cc7b0800ac8a22eff9342868b
+
+<details>
+<summary>Archive members</summary>
+
+- 1614280000\_back.DXF
+- 1614280000\_bottom.DXF
+- 1614280000\_front.DXF
+- 1614280000\_left.DXF
+- 1614280000\_right.DXF
+- 1614280000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

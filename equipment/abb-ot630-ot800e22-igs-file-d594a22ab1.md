@@ -25,6 +25,7 @@ The supplied configuration is “OT630...OT800E22”. Keep those frame, mounting
 - Manufacturer drawing: OT600\_800E22.IGS
 - Manufacturer reference: OT600\_800E22.IGS
 - Document revision: -
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

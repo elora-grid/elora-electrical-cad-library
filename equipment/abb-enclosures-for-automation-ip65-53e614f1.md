@@ -9,7 +9,7 @@ Enclosures for automation IP65: ABB manufacturer DWG resource, document 9AKK1057
 - Part number: Select exact configuration
 - Drawing/document number: 9AKK105713A7745
 - Installation applications: switchrooms
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,8 +24,8 @@ Original DWG drawing for Enclosures for automation IP65; ABB document 9AKK105713
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 9AKK105713A7745
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -97,5 +97,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7745&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; DWG; 482102 bytes
 - Delivery SHA-256: c8b3d5fce8e753b1b7087184ed3e7968ff35fff1bad27ae6cb2672ea733e2750
+
+### ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (ABB\_Obudowy\_dla\_automatyki\_IP65\_\_SR\_v2013.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7745&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-enclosures-for-automation-ip65-53e614f1/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: c8b3d5fce8e753b1b7087184ed3e7968ff35fff1bad27ae6cb2672ea733e2750
+- Original bytes: 482102
+- Revision: -
+- Retrieved: 2026-11-03T01:37:08.762721+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7745&LanguageCode=pl&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7745&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 932849 bytes
+- Delivery SHA-256: 3316678f0666e01915b9b8e90bcbb7101dd3db86e5d9c97f9a588881cae0dd04
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

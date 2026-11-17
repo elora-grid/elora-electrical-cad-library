@@ -1,0 +1,140 @@
+# LOVATO Electric — GAX42080A — Fourth pole, simultaneous closing of all disconnector poles, 80A (Ith/AC21A), for GA080 A
+
+LOVATO Electric GAX42080A — Fourth pole, simultaneous closing of all disconnector poles, 80A (Ith/AC21A), for GA080 A. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5dcbb15d476265b7f0c2a709) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-5dcbb15d476265b7f0c2a709.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-5dcbb15d476265b7f0c2a709.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/GAX42080A/GAX42080A/snp)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: GAX42080A
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: GAX42080A — Fourth pole, simultaneous closing of all disconnector poles, 80A (Ith/AC21A), for GA080 A
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: GAX42080A
+- Manufacturer reference: GAX42080A
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: GAX42080A ([source](https://catalogue.lovatoelectric.com/gl_en/GAX42080A/GAX42080A/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/GAX42080A/GAX42080A/snp))
+
+## What the equipment does
+
+A disconnector separates equipment from its supply under its specified conditions. Whether it can also interrupt load current depends on the device's switching rating.
+
+Use 2d\_GAX42080A.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GAX42080A.dwg.
+
+Use 2d\_GAX42080A.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GAX42080A.dwg. Use 3d\_GAX42080A.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_GAX42080A.stp. Use 2D\_ROZI\_006.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_006.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric GAX42080A and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for GAX42080A — Fourth pole, simultaneous closing of all disconnector poles, 80A (Ith/AC21A), for GA080 A?
+
+3 inspected originals for LOVATO Electric GAX42080A — Fourth pole, simultaneous closing of all disconnector poles, 80A (Ith/AC21A), for GA080 A: 2d\_GAX42080A.dwg (DWG); 3d\_GAX42080A.stp (STEP); 2D\_ROZI\_006.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/GAX42080A/GAX42080A/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/GAX42080A/GAX42080A/snp)
+
+## Choosing a file
+
+Use 2d\_GAX42080A.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_GAX42080A.dwg. Use 3d\_GAX42080A.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_GAX42080A.stp. Use 2D\_ROZI\_006.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_ROZI\_006.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric GAX42080A — Fourth pole, simultaneous closing of all disconnector poles, 80A (Ith/AC21A), for GA080 A: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-5dcbb15d476265b7f0c2a709/native-3acae6a8dbc92333392f29b2-dxf?asset=3acae6a8dbc92333392f29b22ca6ca5ce258ff5a5516825d462f587f8169ab75)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5dcbb15d476265b7f0c2a709). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_GAX42080A.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GAX42080A.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-5dcbb15d476265b7f0c2a709/native-b74f87c1ba8b2c7d68d3c4f1-dwg)
+- Redistribution: unknown
+- Original SHA-256: b74f87c1ba8b2c7d68d3c4f1a586ec973e3262f97c29196ae837beb946f8f196
+- Original bytes: 76285
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GAX42080A.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_GAX42080A.dwg)
+- Delivery: source-bundle; ZIP; 24001 bytes
+- Delivery SHA-256: 2abcdde4b6e3ca389c789d4cb2f3b1f44af333859296e1e7e2bc510fabafdea1
+
+### 3d\_GAX42080A.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GAX42080A.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-5dcbb15d476265b7f0c2a709/native-31a0d6eaaa3fbb792009e44b-step)
+- Redistribution: unknown
+- Original SHA-256: 31a0d6eaaa3fbb792009e44bbe9608badb56ea2652ddd8f3eb2c55016d880e21
+- Original bytes: 354604
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GAX42080A.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_GAX42080A.stp)
+- Delivery: source-bundle; ZIP; 67673 bytes
+- Delivery SHA-256: 7f19f11d5cec83201d55fb11e60694d675e70d41c719add846dc7b906fe5825f
+
+### 2D\_ROZI\_006.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-5dcbb15d476265b7f0c2a709/native-3acae6a8dbc92333392f29b2-dxf)
+- Redistribution: unknown
+- Original SHA-256: 3acae6a8dbc92333392f29b22ca6ca5ce258ff5a5516825d462f587f8169ab75
+- Original bytes: 250889
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 31211 bytes
+- Delivery SHA-256: d4ada911e0c04aac1eceeff0b9edb60c8f18ecedc6a423f79e221e1fed4954a9
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

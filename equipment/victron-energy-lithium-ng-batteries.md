@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: Lithium NG Batteries
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: UL 2054
 - Listed file formats: STEP
 - Listed files: 9
 - Available previews: 8 interactive model variants

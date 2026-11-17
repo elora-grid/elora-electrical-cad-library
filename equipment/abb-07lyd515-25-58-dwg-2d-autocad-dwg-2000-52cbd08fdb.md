@@ -8,7 +8,7 @@ ABB 07LYD515\_25.58: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 07LYD515\_25.58; 07LYD515
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “07LYD515\_25.58”. Keep those frame, mounting 
 - Document revision: B
 - Motor drawing designation (07LYD515): STD HORZ 213-5TC TEBC 307M INVERTER/VECTOR (THRU-SHAFT ENC)
 - Manufacturer reference: 07LYD515
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; DWG; 3097430 bytes
 - Delivery SHA-256: fa521ef6b089b8784d6ffc60a12c4fd8f924f9d6af77d1f9c9c8e0af2f9c8e14
+
+### 07LYD515\_25.58.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (07LYD515\_25.58.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lyd515-25-58-dwg-2d-autocad-dwg-2000-52cbd08fdb/fa521ef6b089b8784d6f-dxf)
+- Redistribution: unknown
+- Original SHA-256: fa521ef6b089b8784d6ffc60a12c4fd8f924f9d6af77d1f9c9c8e0af2f9c8e14
+- Original bytes: 3097430
+- Revision: B
+- Retrieved: 2026-11-04T00:23:44Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 9406330 bytes
+- Delivery SHA-256: 59c756bcea51c8ab15ddeffa9b7c92b7c3c37e8e34e2e3afc7bac4d6513ce4e4
 
 ### 07LYD515.pdf
 

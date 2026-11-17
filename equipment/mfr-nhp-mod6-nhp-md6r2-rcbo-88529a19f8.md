@@ -1,0 +1,118 @@
+# NHP — NHP MD6R2 RCBO
+
+NHP NHP MD6R2 RCBO. Retained manufacturer CAD files and drawings for breakers design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Breakers & accessories
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NHP MD6R2 RCBO
+- Manufacturer: NHP
+- Resource type: Product family
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: DWG / STEP ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A residual-current device compares the current leaving a circuit with the current returning. A difference can indicate current flowing along an unintended path, causing the device to trip. An RCBO also provides overcurrent protection.
+
+Use NHP-MD6R2-RCBO-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NHP-MD6R2-RCBO-2D-CAD-Block.dwg.
+
+Use NHP-MD6R2-RCBO-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NHP-MD6R2-RCBO-2D-CAD-Block.dwg. Use NHP-MD6R2-RCBO-3D-CAD-Block.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NHP-MD6R2-RCBO-3D-CAD-Block.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match NHP NHP MD6R2 RCBO and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NHP MD6R2 RCBO?
+
+2 inspected originals for NHP NHP MD6R2 RCBO: NHP-MD6R2-RCBO-2D-CAD-Block.dwg (DWG); NHP-MD6R2-RCBO-3D-CAD-Block.stp (STEP).
+
+### Where did these NHP files come from?
+
+NHP supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [NHP official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use NHP-MD6R2-RCBO-2D-CAD-Block.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified NHP-MD6R2-RCBO-2D-CAD-Block.dwg. Use NHP-MD6R2-RCBO-3D-CAD-Block.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified NHP-MD6R2-RCBO-3D-CAD-Block.stp.
+
+## Preview
+
+![NHP NHP MD6R2 RCBO: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8/native-4d8d3b4c6e8a35b7397ccc0c-dwg?asset=4d8d3b4c6e8a35b7397ccc0cbcd2b80c1898d14bfb2651cd83d8b8e141eb1fdf)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Air circuit breaker](https://eloragrid.ai/objects/ga-air-circuit-breaker)
+- [Moulded-case circuit breaker](https://eloragrid.ai/objects/ga-moulded-case-circuit-breaker)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NHP-MD6R2-RCBO-2D-CAD-Block.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10041/NHP-MD6R2-RCBO-2D-CAD-Block.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8/native-4d8d3b4c6e8a35b7397ccc0c-dwg)
+- Redistribution: unknown
+- Original SHA-256: 4d8d3b4c6e8a35b7397ccc0cbcd2b80c1898d14bfb2651cd83d8b8e141eb1fdf
+- Original bytes: 299626
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: NHP
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10041/NHP-MD6R2-RCBO-2D-CAD-Block.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10041/NHP-MD6R2-RCBO-2D-CAD-Block.dwg)
+- Delivery: source-bundle; ZIP; 270517 bytes
+- Delivery SHA-256: 05413ab582e8af047a4eb98d90555056a9336c12ee0b030831e02e4a209b9801
+
+### NHP-MD6R2-RCBO-3D-CAD-Block.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10042/NHP-MD6R2-RCBO-3D-CAD-Block.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-mod6-nhp-md6r2-rcbo-88529a19f8/native-7748b1c5d7de66909d681b49-step)
+- Redistribution: unknown
+- Original SHA-256: 7748b1c5d7de66909d681b49d4c9656a080081f461afd9f51acdd8dfb414b2f6
+- Original bytes: 30702764
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: NHP
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10042/NHP-MD6R2-RCBO-3D-CAD-Block.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10042/NHP-MD6R2-RCBO-3D-CAD-Block.stp)
+- Delivery: source-bundle; ZIP; 6123177 bytes
+- Delivery SHA-256: 9c6edd291864759805004c3db542b69bd0e7137322155836f006f67a126fcef8
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

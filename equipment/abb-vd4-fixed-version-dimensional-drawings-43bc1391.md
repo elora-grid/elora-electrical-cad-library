@@ -24,6 +24,7 @@ Original PDF drawing for VD4 fixed version – dimensional drawings; ABB documen
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 9AKK107492A2553
+- Standards: IEC 62271-100
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 drawing previews

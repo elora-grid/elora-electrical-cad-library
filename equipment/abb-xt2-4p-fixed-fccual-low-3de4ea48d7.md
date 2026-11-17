@@ -8,7 +8,7 @@ ABB XT2 4p FIXED FCCuAl LOW: breaker or breaker-accessory reference for breaker 
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0285
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -31,8 +31,8 @@ The supplied configuration is “XT2 4p FIXED FCCuAl LOW”. Keep those frame, m
 - Model envelope: 1SDH001295R0323\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FCCuAl\_INF.stp: 109 × 40 × 13 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0365
 - Model envelope: 1SDH001295R0365\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_FCCuAl\_INF.stp: 109 × 40 × 13 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 3
+- Listed file formats: STEP, DXF
+- Listed files: 6
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -117,6 +117,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 163979 bytes
 - Delivery SHA-256: 97d2728763e3829a1c094745e9872252937d8d9a738d6e3848ce467117ba7fe3
 
+### 1SDH001295R0285\_1PA\_001\_00\_XT2\_4P\_FIXED\_FCCuAl\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0285\_1PA\_001\_00\_XT2\_4P\_FIXED\_FCCuAl\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0285&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-fccual-low-3de4ea48d7/97d2728763e3829a1c09-dxf)
+- Redistribution: unknown
+- Original SHA-256: 97d2728763e3829a1c094745e9872252937d8d9a738d6e3848ce467117ba7fe3
+- Original bytes: 163979
+- Revision: A
+- Retrieved: 2026-11-03T01:48:03.863220Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0285&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0285&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 62718 bytes
+- Delivery SHA-256: 30dc94d9b2d35a467b545e84b5cb75097fe015e60b9b857a2cd432333b52a786
+
 ### 1SDH001295R0323\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FCCuAl\_INF.stp
 
 - Format: STEP
@@ -136,6 +155,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 163570 bytes
 - Delivery SHA-256: 303f92421f3493fe8cd729f03969641c030b032961edf1731c390743005e8930
 
+### 1SDH001295R0323\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FCCuAl\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0323\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_FCCuAl\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0323&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-fccual-low-3de4ea48d7/303f92421f3493fe8cd7-dxf)
+- Redistribution: unknown
+- Original SHA-256: 303f92421f3493fe8cd729f03969641c030b032961edf1731c390743005e8930
+- Original bytes: 163570
+- Revision: A
+- Retrieved: 2026-11-03T01:48:03.929549Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0323&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0323&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 62654 bytes
+- Delivery SHA-256: 6680e7e5475f1bb0180d0450a9fb31b6e4aa16871eadbd094d7daa964930dc7b
+
 ### 1SDH001295R0365\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_FCCuAl\_INF.stp
 
 - Format: STEP
@@ -154,5 +192,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0365&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 163580 bytes
 - Delivery SHA-256: d12252013f5427156d0d56a101b6ec30c1d5d37c2a0f3447c602fafdbe3357b8
+
+### 1SDH001295R0365\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_FCCuAl\_INF.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0365\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_FCCuAl\_INF.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0365&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-fccual-low-3de4ea48d7/d12252013f5427156d0d-dxf)
+- Redistribution: unknown
+- Original SHA-256: d12252013f5427156d0d56a101b6ec30c1d5d37c2a0f3447c602fafdbe3357b8
+- Original bytes: 163580
+- Revision: A
+- Retrieved: 2026-11-03T01:48:03.753698Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0365&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0365&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 62654 bytes
+- Delivery SHA-256: d3567f067c783f994990a309c9a1719f0e30894a85138169666eae1cc68b3b2b
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

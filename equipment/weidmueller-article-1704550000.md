@@ -1,0 +1,160 @@
+# Weidmüller — ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid
+
+Weidmüller ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1704550000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1704550000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1704550000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/zdub-2-5-24andm-bl/p/1704550000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1704550000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1704550000
+- Manufacturer reference: 1704550000
+- Manufacturer type: ZDUB 2.5-2/4AN/DM BL
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1704550000 ([source](https://eshop.weidmueller.com.cn/en/zdub-2-5-24andm-bl/p/1704550000/downloads#engineering-support))
+- Manufacturer type: ZDUB 2.5-2/4AN/DM BL ([source](https://eshop.weidmueller.com.cn/en/zdub-2-5-24andm-bl/p/1704550000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/zdub-2-5-24andm-bl/p/1704550000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use 1704550000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1704550000.stp.
+
+Use 1704550000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1704550000.stp. 1704550000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1704550000\_back.DWG, 1704550000\_bottom.DWG, 1704550000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it. 1704550000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1704550000\_back.DXF, 1704550000\_bottom.DXF, 1704550000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1704550000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid?
+
+3 inspected originals for Weidmüller ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid: 1704550000.stp (STEP); 1704550000\_DWG.zip (ZIP); 1704550000\_DXF.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/zdub-2-5-24andm-bl/p/1704550000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/zdub-2-5-24andm-bl/p/1704550000/downloads#engineering-support)
+
+## Choosing a file
+
+Use 1704550000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1704550000.stp. 1704550000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1704550000\_back.DWG, 1704550000\_bottom.DWG, 1704550000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it. 1704550000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1704550000\_back.DXF, 1704550000\_bottom.DXF, 1704550000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to ZDUB 2.5-2/4AN/DM BL — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, blue, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1704550000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/3dc160ed-31d8-44a5-9f90-4de84c686ce1/original/1704550000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1704550000/native-b2cdffaa8a6f4f5e0b44459e-step)
+- Redistribution: unknown
+- Original SHA-256: b2cdffaa8a6f4f5e0b44459e4e9e6d0bd4bcfb6a5a48688a65de6e9dfe52f331
+- Original bytes: 724973
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/3dc160ed-31d8-44a5-9f90-4de84c686ce1/original/1704550000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/3dc160ed-31d8-44a5-9f90-4de84c686ce1/original/1704550000.stp)
+- Delivery: source-bundle; ZIP; 134549 bytes
+- Delivery SHA-256: a622fa874116a74aa74d5beed41d0f028298d7e78b879d75fdfbd86123bdddf6
+
+### 1704550000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/31bfda9f-4bda-41b2-8af3-87954b3d2e50/original/1704550000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1704550000/native-81d50c63a866c894d5f21961-zip)
+- Redistribution: unknown
+- Original SHA-256: 81d50c63a866c894d5f21961586f7b5515034c67d82f97a6b0f5992ffab74773
+- Original bytes: 72766
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/31bfda9f-4bda-41b2-8af3-87954b3d2e50/original/1704550000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/31bfda9f-4bda-41b2-8af3-87954b3d2e50/original/1704550000_DWG.zip)
+- Delivery: original; ZIP; 72766 bytes
+- Delivery SHA-256: 81d50c63a866c894d5f21961586f7b5515034c67d82f97a6b0f5992ffab74773
+
+<details>
+<summary>Archive members</summary>
+
+- 1704550000\_back.DWG
+- 1704550000\_bottom.DWG
+- 1704550000\_front.DWG
+- 1704550000\_left.DWG
+- 1704550000\_right.DWG
+- 1704550000\_top.DWG
+
+</details>
+
+### 1704550000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/34a4eab6-1251-4e56-a06e-e35ef9409adf/original/1704550000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1704550000/native-44ef4a3df65ab59642901e66-zip)
+- Redistribution: unknown
+- Original SHA-256: 44ef4a3df65ab59642901e662cfaad5500eab4bd875eeb912ab5c1d3ce831542
+- Original bytes: 44243
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/34a4eab6-1251-4e56-a06e-e35ef9409adf/original/1704550000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/34a4eab6-1251-4e56-a06e-e35ef9409adf/original/1704550000_DXF.zip)
+- Delivery: original; ZIP; 44243 bytes
+- Delivery SHA-256: 44ef4a3df65ab59642901e662cfaad5500eab4bd875eeb912ab5c1d3ce831542
+
+<details>
+<summary>Archive members</summary>
+
+- 1704550000\_back.DXF
+- 1704550000\_bottom.DXF
+- 1704550000\_front.DXF
+- 1704550000\_left.DXF
+- 1704550000\_right.DXF
+- 1704550000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

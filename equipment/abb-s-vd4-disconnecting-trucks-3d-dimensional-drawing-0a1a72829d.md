@@ -25,6 +25,7 @@ The supplied configuration is “S-VD4 Disconnecting trucks - 3D Dimensional dra
 - Manufacturer drawing: 1VCD000134\_3D
 - Manufacturer reference: 1VCD000134\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

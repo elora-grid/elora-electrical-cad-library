@@ -9,7 +9,7 @@ XT7-XT7M 4p Fixed PS 100mm bottom: ABB manufacturer STEP resource, document 1SDH
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002065A1406
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for XT7-XT7M 4p Fixed PS 100mm bottom; ABB document 1S
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH002065A1406
 - Model extents (X × Y × Z, mm): 149.0 × 100.0 × 118.9
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1406&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 451456 bytes
 - Delivery SHA-256: 8362d006db8bfae2a2e0db3de93eb6fda53b0fe3cba1f2956a23920e85eaf732
+
+### 1SDH002065A1406\_XT7\_XT7M\_4p\_Fixed\_PS\_100mm\_bottom.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1406\_XT7\_XT7M\_4p\_Fixed\_PS\_100mm\_bottom.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1406&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-4p-fixed-ps-100mm-bottom-436d3b73/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 8362d006db8bfae2a2e0db3de93eb6fda53b0fe3cba1f2956a23920e85eaf732
+- Original bytes: 451456
+- Revision: A
+- Retrieved: 2026-11-03T01:35:28.856673+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1406&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1406&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 86042 bytes
+- Delivery SHA-256: 21458e26d93f35c6656a1abb2e36c09bf49a6216c8918e4836111b309bd75016
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

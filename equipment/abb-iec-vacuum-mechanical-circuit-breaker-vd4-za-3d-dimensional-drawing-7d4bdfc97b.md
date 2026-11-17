@@ -25,6 +25,7 @@ The supplied configuration is “IEC Vacuum Mechanical Circuit Breaker VD4/ZA - 
 - Manufacturer drawing: 1VBM700160\_3D
 - Manufacturer reference: 1VBM700160\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

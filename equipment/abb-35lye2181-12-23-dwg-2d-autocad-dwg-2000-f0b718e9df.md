@@ -8,7 +8,7 @@ ABB 35LYE2181\_12.23: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 35LYE2181\_12.23; 35LYE2181
-- Formats: DWG, PDF, SAT, SLDPRT
+- Formats: DWG, PDF, SAT, SLDPRT, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -27,8 +27,8 @@ The supplied configuration is “35LYE2181\_12.23”. Keep those frame, mounting
 - Manufacturer reference: 35LYE2181\_12.23; 35LYE2181
 - Document revision: C
 - Manufacturer reference: 35LYE2181
-- Listed file formats: DWG, PDF, SAT, SLDPRT
-- Listed files: 4
+- Listed file formats: DWG, PDF, SAT, SLDPRT, DXF
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -107,6 +107,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 534132 bytes
 - Delivery SHA-256: f417a1a51e14570ba0713fede4b1b69443fd46b26ed25f3f0631b48222d417da
+
+### 35LYE2181\_12.23.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (35LYE2181\_12.23.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2181-12-23-dwg-2d-autocad-dwg-2000-f0b718e9df/f417a1a51e14570ba071-dxf)
+- Redistribution: unknown
+- Original SHA-256: f417a1a51e14570ba0713fede4b1b69443fd46b26ed25f3f0631b48222d417da
+- Original bytes: 534132
+- Revision: C
+- Retrieved: 2026-11-04T00:59:20Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 905210 bytes
+- Delivery SHA-256: 161bc7ed1c2c7b8a4d6a743fd05bdb38a4967ea121ec812b64641da892702f0d
 
 ### 35LYE2181.pdf
 

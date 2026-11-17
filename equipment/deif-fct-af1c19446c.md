@@ -24,6 +24,7 @@ Manufacturer reference FCT identifies this control-equipment reference.
 - Resource type: Product
 - Manufacturer drawing: FCT
 - Manufacturer lifecycle: Active
+- Standards: IEC 62053-22, ANSI C12.20, IEC 61557-12, IEC 61000-6-2, IEC 61000-3-2, IEC 61000-6-4, IEC 61010-1, UL 61010-1, IEC 60529
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

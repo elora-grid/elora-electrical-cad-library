@@ -24,6 +24,7 @@ Manufacturer reference Turbo Control (TC) identifies this control-equipment refe
 - Resource type: Product
 - Manufacturer drawing: Turbo Control (TC)
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60255-26, IEC 60255-22-4, IEC 60533, IEC 60945, IEC 60051, IEC 61010-1, IEC 60529, UL 508, IEC 60688
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

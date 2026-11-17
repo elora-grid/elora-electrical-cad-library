@@ -26,6 +26,7 @@ The supplied configuration is “OT400U12”. Keep those frame, mounting and acc
 - Manufacturer drawing: OT400U12.IGS
 - Manufacturer reference: OT400U12.IGS
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS
 - Listed files: 1
 - Available previews: 1 interactive model variants

@@ -1,0 +1,118 @@
+# Eaton — TM-2-8231/IVS — Step switch, 10 A, Service distribution board mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231
+
+Eaton TM-2-8231/IVS — Step switch, 10 A, Service distribution board mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-225345) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-225345.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-225345.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/cbc85442-0ba6-4b36-a87a-078a0a4fc2ea/cad_files_001.zip)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 225345
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: TM-2-8231/IVS — Step switch, 10 A, Service distribution board mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 225345
+- Manufacturer reference: 225345
+- Manufacturer type: TM-2-8231/IVS
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 225345 ([source](https://ecat.eaton.com/downloads/cbc85442-0ba6-4b36-a87a-078a0a4fc2ea/cad_files_001.zip))
+- Manufacturer type: TM-2-8231/IVS ([source](https://ecat.eaton.com/downloads/cbc85442-0ba6-4b36-a87a-078a0a4fc2ea/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/cbc85442-0ba6-4b36-a87a-078a0a4fc2ea/cad_files_001.zip))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use tm2\_ivs.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified tm2\_ivs.stp.
+
+Use tm2\_ivs.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified tm2\_ivs.stp. Use eaton-cam-switches-mcad-drawings-tm2-ivs.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cam-switches-mcad-drawings-tm2-ivs.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 225345 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for TM-2-8231/IVS — Step switch, 10 A, Service distribution board mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231?
+
+2 inspected originals for Eaton TM-2-8231/IVS — Step switch, 10 A, Service distribution board mounting, 2 contact unit(s), Contacts: 4, Maintained, 1-4, Design: 8231: tm2\_ivs.stp (STEP); eaton-cam-switches-mcad-drawings-tm2-ivs.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/cbc85442-0ba6-4b36-a87a-078a0a4fc2ea/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/cbc85442-0ba6-4b36-a87a-078a0a4fc2ea/cad_files_001.zip)
+
+## Choosing a file
+
+Use tm2\_ivs.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified tm2\_ivs.stp. Use eaton-cam-switches-mcad-drawings-tm2-ivs.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-cam-switches-mcad-drawings-tm2-ivs.dwg.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### tm2\_ivs.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/tm2_ivs.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-225345/native-64611e90bda14220897bac84-step)
+- Redistribution: unknown
+- Original SHA-256: 64611e90bda14220897bac8409b0a73b0a334d7e7f84bd686945e16481e37855
+- Original bytes: 2310779
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/tm2_ivs.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/tm2_ivs.stp)
+- Delivery: source-bundle; ZIP; 308624 bytes
+- Delivery SHA-256: 40e285fd8f066863da4f08ea7e2936ed66de33c1f5a26ee0249c8e6144288e93
+
+### eaton-cam-switches-mcad-drawings-tm2-ivs.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-tm2-ivs.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-225345/native-2d1aa7dde67c3932d955f7e6-dwg)
+- Redistribution: unknown
+- Original SHA-256: 2d1aa7dde67c3932d955f7e6a7095113d5ddd29fdbc6276fc0343c0444701b70
+- Original bytes: 1485088
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-tm2-ivs.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg02/eaton-cam-switches-mcad-drawings-tm2-ivs.dwg)
+- Delivery: source-bundle; ZIP; 1354704 bytes
+- Delivery SHA-256: d972f44fc3340e0d05846b63d89d94f72ed3246be95ad6e5fc4cb8f3645d0893
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -25,6 +25,7 @@ Manufacturer reference agc-150-stand-alone-designers-handbook-4189341315-cn.pdf;
 - Manufacturer drawing: agc-150-stand-alone-designers-handbook-4189341315-cn.pdf; ie-150-agc-150-engine-communication-4189341302-uk.pdf; agc-150-2d-cad-drawing.dwg
 - Manufacturer reference: agc-150-stand-alone-designers-handbook-4189341315-cn.pdf; ie-150-agc-150-engine-communication-4189341302-uk.pdf; agc-150-2d-cad-drawing.dwg; agc-150-3d-step-file.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60255-1, IEC 60529, IEC 60255-27, IEC 60255-26, UL 6200
 - Listed file formats: DWG, PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

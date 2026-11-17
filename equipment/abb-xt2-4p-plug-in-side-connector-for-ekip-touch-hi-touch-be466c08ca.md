@@ -8,7 +8,7 @@ ABB XT2 4p Plug-in Side connector for Ekip Touch/Hi-Touch: breaker or breaker-ac
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0911
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p Plug-in Side connector for Ekip Touch/Hi
 - Manufacturer reference: 1SDH001295R0911
 - Document revision: C
 - Model envelope: 1SDH001295R0911.stp: 10 × 37.5 × 14.9 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0911&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; STEP; 157426 bytes
 - Delivery SHA-256: af43d4d85f82bdb085d4a5a9d6c33653f09fe6c1c0c4c2e054bd628aab06343e
+
+### 1SDH001295R0911.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0911.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0911&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-side-connector-for-ekip-touch-hi-touch-be466c08ca/af43d4d85f82bdb085d4-dxf)
+- Redistribution: unknown
+- Original SHA-256: af43d4d85f82bdb085d4a5a9d6c33653f09fe6c1c0c4c2e054bd628aab06343e
+- Original bytes: 157426
+- Revision: C
+- Retrieved: 2026-11-03T01:47:49.463983Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0911&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0911&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 76428 bytes
+- Delivery SHA-256: febd6d18abd37f5e64a91a7d55546f75901319f49acc2c5dffcaa5863a6c645d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

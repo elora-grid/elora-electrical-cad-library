@@ -27,6 +27,7 @@ The supplied configuration is “OTLK201510S32”. Keep those frame, mounting an
 - Manufacturer reference: OTLK201510S32.STP
 - Document revision: A
 - Model envelope: OTLK201510S32.stp: 150 × 200 × 136.2 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-1, IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

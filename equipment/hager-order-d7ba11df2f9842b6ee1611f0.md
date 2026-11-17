@@ -1,0 +1,103 @@
+# Hager — FB31SN — Obudowa wiszaca ognioodporna EI90/F90/E90/I30 618x418mm
+
+Hager FB31SN — Obudowa wiszaca ognioodporna EI90/F90/E90/I30 618x418mm. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/hager-order-d7ba11df2f9842b6ee1611f0) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/hager-order-d7ba11df2f9842b6ee1611f0.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/hager-order-d7ba11df2f9842b6ee1611f0.json) · [Official manufacturer source](https://hager.com/pl/narzedzia-aplikacje-i-oprogramowanie/cadprofi-hager)
+
+- Category: Enclosures & hardware
+- Entry type: product
+- Part number: FB31SN
+- Formats: DXF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: FB31SN — Obudowa wiszaca ognioodporna EI90/F90/E90/I30 618x418mm
+- Manufacturer: Hager
+- Resource type: Product
+- Part number: FB31SN
+- Manufacturer reference: FB31SN
+- Available native formats: DXF
+- Listed file formats: DXF
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: FB31SN ([source](https://hager.com/pl/narzedzia-aplikacje-i-oprogramowanie/cadprofi-hager))
+- Available native formats: DXF ([source](https://hager.com/pl/narzedzia-aplikacje-i-oprogramowanie/cadprofi-hager))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Use 2D\_HGR\_1010.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_HGR\_1010.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+Use 2D\_HGR\_1010.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_HGR\_1010.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Hager FB31SN and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for FB31SN — Obudowa wiszaca ognioodporna EI90/F90/E90/I30 618x418mm?
+
+1 inspected original for Hager FB31SN — Obudowa wiszaca ognioodporna EI90/F90/E90/I30 618x418mm: 2D\_HGR\_1010.dxf (DXF).
+
+### Where did these Hager files come from?
+
+Hager supplied the original files through https://hager.com/pl/narzedzia-aplikacje-i-oprogramowanie/cadprofi-hager. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Hager official source](https://hager.com/pl/narzedzia-aplikacje-i-oprogramowanie/cadprofi-hager)
+
+## Choosing a file
+
+Use 2D\_HGR\_1010.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_HGR\_1010.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![Hager FB31SN — Obudowa wiszaca ognioodporna EI90/F90/E90/I30 618x418mm: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/hager-order-d7ba11df2f9842b6ee1611f0/native-9396d5bf986097224c8cc976-dxf?asset=9396d5bf986097224c8cc9763a6b4d4a2202407a4714158cfbef96951e146fc1)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/hager-order-d7ba11df2f9842b6ee1611f0). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2D\_HGR\_1010.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://assets1.sc.hager.com/poland/exe/cadprofi-hager-2024-03.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/hager-order-d7ba11df2f9842b6ee1611f0/native-9396d5bf986097224c8cc976-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9396d5bf986097224c8cc9763a6b4d4a2202407a4714158cfbef96951e146fc1
+- Original bytes: 42467
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Hager
+- [Hosting evidence](https://assets1.sc.hager.com/poland/exe/cadprofi-hager-2024-03.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets1.sc.hager.com/poland/exe/cadprofi-hager-2024-03.exe)
+- Delivery: source-bundle; ZIP; 7319 bytes
+- Delivery SHA-256: c38a278b819a05abf329fed670a5fe34515c6439ebc20f2c37764ae3efcc94cc
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

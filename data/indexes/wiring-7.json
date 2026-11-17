@@ -1,0 +1,2971 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 7,
+  "entries": [
+    {
+      "id": "mfr-abb-sim-d3-es-terminal-3p-up-5a7de84d12",
+      "name": "Sim D3 ES terminal 3P UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-es-terminal-3p-up-5a7de84d12",
+      "recordPath": "equipment/mfr-abb-sim-d3-es-terminal-3p-up-5a7de84d12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-es-terminal-3p-up-5a7de84d12.json"
+    },
+    {
+      "id": "mfr-abb-sim-d3-es-terminal-4p-low-41408582a7",
+      "name": "Sim D3 ES terminal 4P LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-es-terminal-4p-low-41408582a7",
+      "recordPath": "equipment/mfr-abb-sim-d3-es-terminal-4p-low-41408582a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-es-terminal-4p-low-41408582a7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-terminal-block-for-gv1-l3-3f371d32e4",
+      "name": "TeSys D - TERMINAL BLOCK FOR GV1 L3",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-terminal-block-for-gv1-l3-3f371d32e4",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-terminal-block-for-gv1-l3-3f371d32e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-terminal-block-for-gv1-l3-3f371d32e4.json"
+    },
+    {
+      "id": "mfr-abb-sim-d3-es-terminal-4p-up-1607cdd3dd",
+      "name": "Sim D3 ES terminal 4P UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-es-terminal-4p-up-1607cdd3dd",
+      "recordPath": "equipment/mfr-abb-sim-d3-es-terminal-4p-up-1607cdd3dd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-es-terminal-4p-up-1607cdd3dd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-wired-reverser-ctrl-terminals-804849f17a",
+      "name": "TeSys D - WIRED REVERSER CTRL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-wired-reverser-ctrl-terminals-804849f17a",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-wired-reverser-ctrl-terminals-804849f17a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-wired-reverser-ctrl-terminals-804849f17a.json"
+    },
+    {
+      "id": "mfr-abb-sim-d3-f-terminal-3p-cb04958415",
+      "name": "Sim D3 F terminal 3P",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-f-terminal-3p-cb04958415",
+      "recordPath": "equipment/mfr-abb-sim-d3-f-terminal-3p-cb04958415.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-f-terminal-3p-cb04958415.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-time-delay-auxiliary-contact-block-1-no-1-nc-screw-clamp-terminals-8219812646",
+      "name": "TeSys D - time delay auxiliary contact block - 1 NO + 1 NC screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-time-delay-auxiliary-contact-block-1-no-1-nc-screw-clamp-terminals-8219812646",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-time-delay-auxiliary-contact-block-1-no-1-nc-screw-clamp-terminals-8219812646.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-time-delay-auxiliary-contact-block-1-no-1-nc-screw-clamp-terminals-8219812646.json"
+    },
+    {
+      "id": "mfr-abb-sim-d3-f-terminal-3p-low-ed9ba40a97",
+      "name": "Sim D3 F terminal 3P LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-f-terminal-3p-low-ed9ba40a97",
+      "recordPath": "equipment/mfr-abb-sim-d3-f-terminal-3p-low-ed9ba40a97.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-f-terminal-3p-low-ed9ba40a97.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-contactor-4p-4-no-ac-1-440-v-200-a-screw-clamp-connection-36e00bd77d",
+      "name": "TeSys D contactor - 4P(4 NO) - AC-1 - <= 440 V 200 A - screw clamp connection",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-contactor-4p-4-no-ac-1-440-v-200-a-screw-clamp-connection-36e00bd77d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-contactor-4p-4-no-ac-1-440-v-200-a-screw-clamp-connection-36e00bd77d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-contactor-4p-4-no-ac-1-440-v-200-a-screw-clamp-connection-36e00bd77d.json"
+    },
+    {
+      "id": "mfr-abb-sim-d3-f-terminal-4p-237d089ce6",
+      "name": "Sim D3 F terminal 4P",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-f-terminal-4p-237d089ce6",
+      "recordPath": "equipment/mfr-abb-sim-d3-f-terminal-4p-237d089ce6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-f-terminal-4p-237d089ce6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-9407d0a8b6",
+      "name": "TeSys D contactors for 20 to 40A AC-1 - 4 pole 2NO/2NC - For connection by screw clamp terminals and lugs - A.C. supply",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-9407d0a8b6",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-9407d0a8b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-9407d0a8b6.json"
+    },
+    {
+      "id": "mfr-abb-sim-d3-f-terminal-4p-low-4d03cf85b2",
+      "name": "Sim D3 F terminal 4P LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d3-f-terminal-4p-low-4d03cf85b2",
+      "recordPath": "equipment/mfr-abb-sim-d3-f-terminal-4p-low-4d03cf85b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d3-f-terminal-4p-low-4d03cf85b2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-5a5b96774c",
+      "name": "TeSys D contactors for 20 to 40A AC-1 - 4 pole 2NO/2NC - For connection by screw clamp terminals and lugs - D.C. supply",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-5a5b96774c",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-5a5b96774c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-contactors-for-20-to-40a-ac-1-4-pole-2no-2nc-for-connection-by-screw-clamp-ter-5a5b96774c.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-ef-terminal-3p-down-10236da284",
+      "name": "Sim D4 EF terminal 3P Down",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-ef-terminal-3p-down-10236da284",
+      "recordPath": "equipment/mfr-abb-sim-d4-ef-terminal-3p-down-10236da284.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-ef-terminal-3p-down-10236da284.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-d-terminals-protective-cover-b7c3e3f2c7",
+      "name": "TeSys D terminals protective cover",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-d-terminals-protective-cover-b7c3e3f2c7",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-d-terminals-protective-cover-b7c3e3f2c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-d-terminals-protective-cover-b7c3e3f2c7.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-ef-terminal-3p-up-fd1a134394",
+      "name": "Sim D4 EF terminal 3P UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-ef-terminal-3p-up-fd1a134394",
+      "recordPath": "equipment/mfr-abb-sim-d4-ef-terminal-3p-up-fd1a134394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-ef-terminal-3p-up-fd1a134394.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-ef-terminal-4p-down-93ae514fdd",
+      "name": "Sim D4 EF terminal 4P DOWN",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-ef-terminal-4p-down-93ae514fdd",
+      "recordPath": "equipment/mfr-abb-sim-d4-ef-terminal-4p-down-93ae514fdd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-ef-terminal-4p-down-93ae514fdd.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-ef-terminal-4p-up-d7a2ba0476",
+      "name": "Sim D4 EF terminal 4P UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-ef-terminal-4p-up-d7a2ba0476",
+      "recordPath": "equipment/mfr-abb-sim-d4-ef-terminal-4p-up-d7a2ba0476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-ef-terminal-4p-up-d7a2ba0476.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-es-terminal-3p-down-1b2cf07602",
+      "name": "Sim D4 ES terminal 3P DOWN",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-es-terminal-3p-down-1b2cf07602",
+      "recordPath": "equipment/mfr-abb-sim-d4-es-terminal-3p-down-1b2cf07602.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-es-terminal-3p-down-1b2cf07602.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-es-terminal-3p-up-69cd317099",
+      "name": "Sim D4 ES terminal 3P UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-es-terminal-3p-up-69cd317099",
+      "recordPath": "equipment/mfr-abb-sim-d4-es-terminal-3p-up-69cd317099.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-es-terminal-3p-up-69cd317099.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-dc323ad5ca",
+      "name": "TeSys DF fuse-disconnector 1P 25A - fuse size 8.5 x 31.5 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-dc323ad5ca",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-dc323ad5ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-dc323ad5ca.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-es-terminal-4p-down-5258659cdc",
+      "name": "Sim D4 ES terminal 4P DOWN",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-es-terminal-4p-down-5258659cdc",
+      "recordPath": "equipment/mfr-abb-sim-d4-es-terminal-4p-down-5258659cdc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-es-terminal-4p-down-5258659cdc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-9b4fd381d5",
+      "name": "TeSys DF fuse-disconnector 1P 25A - fuse size 8.5 x 31.5 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-9b4fd381d5",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-9b4fd381d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-9b4fd381d5.json"
+    },
+    {
+      "id": "mfr-abb-sim-d4-es-terminal-4p-up-cbb823d6e9",
+      "name": "Sim D4 ES terminal 4P UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-sim-d4-es-terminal-4p-up-cbb823d6e9",
+      "recordPath": "equipment/mfr-abb-sim-d4-es-terminal-4p-up-cbb823d6e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-sim-d4-es-terminal-4p-up-cbb823d6e9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-30a-fuse-class-cc-size-10-x-38-mm-d466e0ab9c",
+      "name": "TeSys DF fuse-disconnector 1P 30A - fuse class CC size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-30a-fuse-class-cc-size-10-x-38-mm-d466e0ab9c",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-30a-fuse-class-cc-size-10-x-38-mm-d466e0ab9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-30a-fuse-class-cc-size-10-x-38-mm-d466e0ab9c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-97e4f66a40",
+      "name": "TeSys DF fuse-disconnector 1P 32A - fuse size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-97e4f66a40",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-97e4f66a40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-97e4f66a40.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-4ee6e51864",
+      "name": "TeSys DF fuse-disconnector 1P 32A - fuse size 10 x 38 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-4ee6e51864",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-4ee6e51864.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-4ee6e51864.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-e137d28029",
+      "name": "TeSys DF fuse-disconnector 1P N 25A - fuse size 8.5 x 31.5 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-e137d28029",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-e137d28029.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-e137d28029.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fbb8947694",
+      "name": "TeSys DF fuse-disconnector 1P N 25A -fuse size 8.5 x 31.5 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fbb8947694",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fbb8947694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fbb8947694.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-8f790d6db8",
+      "name": "TeSys DF fuse-disconnector 1PN 32A - fuse size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-8f790d6db8",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-8f790d6db8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-8f790d6db8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-255b10fa70",
+      "name": "TeSys DF fuse-disconnector 1PN 32A - fuse size 10 x 38 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-255b10fa70",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-255b10fa70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-1pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-255b10fa70.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-990c6e9c27",
+      "name": "TeSys DF fuse-disconnector 2P 25A - fuse size 8.5 x 31.5 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-990c6e9c27",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-990c6e9c27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-990c6e9c27.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-d4e071f3e9",
+      "name": "TeSys DF fuse-disconnector 2P 25A - fuse size 8.5 x 31.5 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-d4e071f3e9",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-d4e071f3e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-d4e071f3e9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-2p-30a-fuse-class-cc-size-10-x-38-mm-7cf7649c34",
+      "name": "TeSys DF fuse-disconnector 2P 30A - fuse class CC size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-30a-fuse-class-cc-size-10-x-38-mm-7cf7649c34",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-30a-fuse-class-cc-size-10-x-38-mm-7cf7649c34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-30a-fuse-class-cc-size-10-x-38-mm-7cf7649c34.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-2p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-ffe2a600ff",
+      "name": "TeSys DF fuse-disconnector 2P 32A - fuse size 10 x 38 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-ffe2a600ff",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-ffe2a600ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-2p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-ffe2a600ff.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-a88c9dfb5f",
+      "name": "TeSys DF fuse-disconnector 3P 25A - fuse size 8.5 x 31.5 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-a88c9dfb5f",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-a88c9dfb5f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-a88c9dfb5f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fc876201f7",
+      "name": "TeSys DF fuse-disconnector 3P 25A - fuse size 8.5 x 31.5 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fc876201f7",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fc876201f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-fc876201f7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-30a-fuse-class-cc-size-10-x-38-mm-c6ca629524",
+      "name": "TeSys DF fuse-disconnector 3P 30A - fuse class CC size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-30a-fuse-class-cc-size-10-x-38-mm-c6ca629524",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-30a-fuse-class-cc-size-10-x-38-mm-c6ca629524.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-30a-fuse-class-cc-size-10-x-38-mm-c6ca629524.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-60e4407704",
+      "name": "TeSys DF fuse-disconnector 3P 32A - fuse size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-60e4407704",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-60e4407704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-60e4407704.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-8085050d40",
+      "name": "TeSys DF fuse-disconnector 3P 32A - fuse size 10 x 38 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-8085050d40",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-8085050d40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-8085050d40.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-6423e8c5de",
+      "name": "TeSys DF fuse-disconnector 3P N 25A - fuse size 8.5 x 31.5 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-6423e8c5de",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-6423e8c5de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-6423e8c5de.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-770e54e7fb",
+      "name": "TeSys DF fuse-disconnector 3P N 25A -fuse size 8.5 x 31.5 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-770e54e7fb",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-770e54e7fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3p-n-25a-fuse-size-8-5-x-31-5-mm-with-blown-fuse-indicator-770e54e7fb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-60485413b4",
+      "name": "TeSys DF fuse-disconnector 3PN 32A - fuse size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-60485413b4",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-60485413b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-60485413b4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-b9995984c5",
+      "name": "TeSys DF fuse-disconnector 3PN 32A - fuse size 10 x 38 mm with blown fuse indicator",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-b9995984c5",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-b9995984c5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-3pn-32a-fuse-size-10-x-38-mm-with-blown-fuse-indicator-b9995984c5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-df-fuse-disconnector-n-32a-fuse-size-10-x-38-mm-b596caecc4",
+      "name": "TeSys DF fuse-disconnector N 32A - fuse size 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-n-32a-fuse-size-10-x-38-mm-b596caecc4",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-df-fuse-disconnector-n-32a-fuse-size-10-x-38-mm-b596caecc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-df-fuse-disconnector-n-32a-fuse-size-10-x-38-mm-b596caecc4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-deca-independent-mounting-ip-20-cover-for-lug-type-terminals-27252783e3",
+      "name": "TeSys Deca independent mounting IP 20 cover for lug type terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-deca-independent-mounting-ip-20-cover-for-lug-type-terminals-27252783e3",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-deca-independent-mounting-ip-20-cover-for-lug-type-terminals-27252783e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-deca-independent-mounting-ip-20-cover-for-lug-type-terminals-27252783e3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-4p-a3f19c41b8",
+      "name": "TeSys F - terminal shroud for contactor 4P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-4p-a3f19c41b8",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-4p-a3f19c41b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-4p-a3f19c41b8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-or-relay-3p-4260121dac",
+      "name": "TeSys F - terminal shroud for contactor or relay 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-or-relay-3p-4260121dac",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-or-relay-3p-4260121dac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-f-terminal-shroud-for-contactor-or-relay-3p-4260121dac.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-f-la9f702-terminal-shroud-for-contactor-or-relay-3p-f662bf6d93",
+      "name": "TeSys F_LA9F702_ terminal shroud for contactor or relay 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-f-la9f702-terminal-shroud-for-contactor-or-relay-3p-f662bf6d93",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-f-la9f702-terminal-shroud-for-contactor-or-relay-3p-f662bf6d93.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-f-la9f702-terminal-shroud-for-contactor-or-relay-3p-f662bf6d93.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g115-225-6dc6d02b01",
+      "name": "TeSys G - Edgwise Terminal Extension 3P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g115-225-6dc6d02b01",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g115-225-6dc6d02b01.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g115-225-6dc6d02b01.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g265-500-0aeeaaa713",
+      "name": "TeSys G - Edgwise Terminal Extension 3P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g265-500-0aeeaaa713",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g265-500-0aeeaaa713.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-3p-g265-500-0aeeaaa713.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g115-225-2c34a88040",
+      "name": "TeSys G - Edgwise Terminal Extension 4P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g115-225-2c34a88040",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g115-225-2c34a88040.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g115-225-2c34a88040.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g265-500-59d255499d",
+      "name": "TeSys G - Edgwise Terminal Extension 4P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g265-500-59d255499d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g265-500-59d255499d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-edgwise-terminal-extension-4p-g265-500-59d255499d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g115-225-fad159ef04",
+      "name": "TeSys G - L LargeTerminal Extension 3P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g115-225-fad159ef04",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g115-225-fad159ef04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g115-225-fad159ef04.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g265-500-cf56d58c27",
+      "name": "TeSys G - L LargeTerminal Extension 3P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g265-500-cf56d58c27",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g265-500-cf56d58c27.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-l-largeterminal-extension-3p-g265-500-cf56d58c27.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-l-rear-terminal-extension-3p-g115-225-b194579137",
+      "name": "TeSys G - L Rear Terminal Extension 3P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-l-rear-terminal-extension-3p-g115-225-b194579137",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-l-rear-terminal-extension-3p-g115-225-b194579137.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-l-rear-terminal-extension-3p-g115-225-b194579137.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g115-225-41804029a2",
+      "name": "TeSys G - L Side Terminal Extension 3P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g115-225-41804029a2",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g115-225-41804029a2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g115-225-41804029a2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g265-500-d0c2ec538d",
+      "name": "TeSys G - L Side Terminal Extension 3P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g265-500-d0c2ec538d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g265-500-d0c2ec538d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-l-side-terminal-extension-3p-g265-500-d0c2ec538d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-push-in-terminal-adap-for-control-module-fd46fa16c9",
+      "name": "TeSys G - PUSH-IN terminal adap for control module",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-push-in-terminal-adap-for-control-module-fd46fa16c9",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-push-in-terminal-adap-for-control-module-fd46fa16c9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-push-in-terminal-adap-for-control-module-fd46fa16c9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g115-225-7ae6fb6b12",
+      "name": "TeSys G - Straight Terminal Extension 3P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g115-225-7ae6fb6b12",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g115-225-7ae6fb6b12.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g115-225-7ae6fb6b12.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g265-500-c7fcf08d4b",
+      "name": "TeSys G - Straight Terminal Extension 3P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g265-500-c7fcf08d4b",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g265-500-c7fcf08d4b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-straight-terminal-extension-3p-g265-500-c7fcf08d4b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g115-225-4e24041729",
+      "name": "TeSys G - Straight Terminal Extension 4P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g115-225-4e24041729",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g115-225-4e24041729.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g115-225-4e24041729.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g265-500-d4b0b935c7",
+      "name": "TeSys G - Straight Terminal Extension 4P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g265-500-d4b0b935c7",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g265-500-d4b0b935c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g265-500-d4b0b935c7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g630-800-7d07558de1",
+      "name": "TeSys G - Straight Terminal Extension 4P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g630-800-7d07558de1",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g630-800-7d07558de1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-straight-terminal-extension-4p-g630-800-7d07558de1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g115-225-ip20-dcaf76d411",
+      "name": "TeSys G - Terminal Shrouds 3P G115-225 IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g115-225-ip20-dcaf76d411",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g115-225-ip20-dcaf76d411.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g115-225-ip20-dcaf76d411.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g265-500-ip20-1c8493d44d",
+      "name": "TeSys G - Terminal Shrouds 3P G265-500 IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g265-500-ip20-1c8493d44d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g265-500-ip20-1c8493d44d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-shrouds-3p-g265-500-ip20-1c8493d44d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g115-225-ip20-63b8819d2d",
+      "name": "TeSys G - Terminal Shrouds 4P G115-225 IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g115-225-ip20-63b8819d2d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g115-225-ip20-63b8819d2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g115-225-ip20-63b8819d2d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g265-500-ip20-73d96fbecc",
+      "name": "TeSys G - Terminal Shrouds 4P G265-500 IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g265-500-ip20-73d96fbecc",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g265-500-ip20-73d96fbecc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g265-500-ip20-73d96fbecc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g630-800-ip20-78b858077f",
+      "name": "TeSys G - Terminal Shrouds 4P G630-800 IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g630-800-ip20-78b858077f",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g630-800-ip20-78b858077f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-shrouds-4p-g630-800-ip20-78b858077f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g115-225-3340b7bb92",
+      "name": "TeSys G - Terminal adapter for Box con 4P G115-225",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g115-225-3340b7bb92",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g115-225-3340b7bb92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g115-225-3340b7bb92.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g265-500-2ac2a061e4",
+      "name": "TeSys G - Terminal adapter for Box con 4P G265-500",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g265-500-2ac2a061e4",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g265-500-2ac2a061e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-g-terminal-adapter-for-box-con-4p-g265-500-2ac2a061e4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-3x100-a-switch-disconnector-0e235d62fd",
+      "name": "TeSys GS - 3x100 A Switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-3x100-a-switch-disconnector-0e235d62fd",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-3x100-a-switch-disconnector-0e235d62fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-3x100-a-switch-disconnector-0e235d62fd.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-fuse-disconnector-accessory-bba0eb06ce",
+      "name": "TeSys GS - Fuse disconnector accessory",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-fuse-disconnector-accessory-bba0eb06ce",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-fuse-disconnector-accessory-bba0eb06ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-fuse-disconnector-accessory-bba0eb06ce.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-operator-for-switch-disconnector-28eda7ede4",
+      "name": "TeSys GS - GS1 side and front mounted operator for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-operator-for-switch-disconnector-28eda7ede4",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-operator-for-switch-disconnector-28eda7ede4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-operator-for-switch-disconnector-28eda7ede4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-red-operator-for-switch-disconnector-1125d1c459",
+      "name": "TeSys GS - GS1 side and front mounted red operator for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-red-operator-for-switch-disconnector-1125d1c459",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-red-operator-for-switch-disconnector-1125d1c459.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-gs1-side-and-front-mounted-red-operator-for-switch-disconnector-1125d1c459.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-shaft-ext-200mm-630-1250a-for-tesys-gs-switch-disconnector-fuse-a41e207e5d",
+      "name": "TeSys GS - SHAFT EXT.200MM 630-1250A for TeSys GS switch disconnector fuse",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-shaft-ext-200mm-630-1250a-for-tesys-gs-switch-disconnector-fuse-a41e207e5d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-shaft-ext-200mm-630-1250a-for-tesys-gs-switch-disconnector-fuse-a41e207e5d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-shaft-ext-200mm-630-1250a-for-tesys-gs-switch-disconnector-fuse-a41e207e5d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-terminal-cover-3x1250a-f6dbb70808",
+      "name": "TeSys GS - TERMINAL COVER 3X1250A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-terminal-cover-3x1250a-f6dbb70808",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-terminal-cover-3x1250a-f6dbb70808.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-terminal-cover-3x1250a-f6dbb70808.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-terminal-cover-3x630a-a51a7b0671",
+      "name": "TeSys GS - TERMINAL COVER 3X630A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-terminal-cover-3x630a-a51a7b0671",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-terminal-cover-3x630a-a51a7b0671.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-terminal-cover-3x630a-a51a7b0671.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-6c7343a2b9",
+      "name": "TeSys GS - TeSys GS - switch-disconnector-fuse - 3 P - UL - 30 A- fuse size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-6c7343a2b9",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-6c7343a2b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-6c7343a2b9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-terminal-covers-4a0306ab49",
+      "name": "TeSys GS - Terminal covers",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-terminal-covers-4a0306ab49",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-terminal-covers-4a0306ab49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-terminal-covers-4a0306ab49.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-cage-terminal-2994536c1c",
+      "name": "TeSys GS - cage terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-cage-terminal-2994536c1c",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-cage-terminal-2994536c1c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-cage-terminal-2994536c1c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-direct-frontal-rotary-handle-for-switch-disconnector-ul-37c7422440",
+      "name": "TeSys GS - direct frontal rotary handle - for switch disconnector UL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-direct-frontal-rotary-handle-for-switch-disconnector-ul-37c7422440",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-direct-frontal-rotary-handle-for-switch-disconnector-ul-37c7422440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-direct-frontal-rotary-handle-for-switch-disconnector-ul-37c7422440.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-6e25b16666",
+      "name": "TeSys GS - external frontal rotary handle - for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-6e25b16666",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-6e25b16666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-6e25b16666.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-ul-e0c3502394",
+      "name": "TeSys GS - external frontal rotary handle - for switch disconnector UL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-ul-e0c3502394",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-ul-e0c3502394.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-external-frontal-rotary-handle-for-switch-disconnector-ul-e0c3502394.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-external-right-side-rotary-handle-for-switch-disconnector-caebd18678",
+      "name": "TeSys GS - external right side rotary handle - for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-external-right-side-rotary-handle-for-switch-disconnector-caebd18678",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-external-right-side-rotary-handle-for-switch-disconnector-caebd18678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-external-right-side-rotary-handle-for-switch-disconnector-caebd18678.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-50-a-nfc-14-x-51-mm-7afc2edbbe",
+      "name": "TeSys GS - switch-disconnector fuse - 4 P - 50 A - NFC 14 x 51 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-50-a-nfc-14-x-51-mm-7afc2edbbe",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-50-a-nfc-14-x-51-mm-7afc2edbbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-50-a-nfc-14-x-51-mm-7afc2edbbe.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-2-p-ul-30-a-fuse-size-cc-4253977f0f",
+      "name": "TeSys GS - switch-disconnector-fuse - 2 P - UL 30 A- fuse size CC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-2-p-ul-30-a-fuse-size-cc-4253977f0f",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-2-p-ul-30-a-fuse-size-cc-4253977f0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-2-p-ul-30-a-fuse-size-cc-4253977f0f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-32-a-nfc-10-x-38-mm-51a59a2a41",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P + N - 32 A - NFC 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-32-a-nfc-10-x-38-mm-51a59a2a41",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-32-a-nfc-10-x-38-mm-51a59a2a41.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-32-a-nfc-10-x-38-mm-51a59a2a41.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-bs-32-a-7dbe529852",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P + N - BS - 32 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-bs-32-a-7dbe529852",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-bs-32-a-7dbe529852.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-n-bs-32-a-7dbe529852.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-1250a-din-4-59ba8e8fa8",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - 1250A - DIN 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-1250a-din-4-59ba8e8fa8",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-1250a-din-4-59ba8e8fa8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-1250a-din-4-59ba8e8fa8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32-a-nfc-10-x-38-mm-d3155e511e",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - 32 A - NFC 10 x 38 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32-a-nfc-10-x-38-mm-d3155e511e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32-a-nfc-10-x-38-mm-d3155e511e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32-a-nfc-10-x-38-mm-d3155e511e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32a-bs-a1-c8df13c7bc",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - 32A - BS A1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32a-bs-a1-c8df13c7bc",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32a-bs-a1-c8df13c7bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-32a-bs-a1-c8df13c7bc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-50a-nfc-14-x-51-mm-dd515d3b2e",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - 50A - NFC 14 x 51 mm",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-50a-nfc-14-x-51-mm-dd515d3b2e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-50a-nfc-14-x-51-mm-dd515d3b2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-50a-nfc-14-x-51-mm-dd515d3b2e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-63a-din-00c-3fa3e37224",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - 63A - DIN 00C",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-63a-din-00c-3fa3e37224",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-63a-din-00c-3fa3e37224.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-63a-din-00c-3fa3e37224.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-bs-32-a-f3dbe01cd4",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - BS - 32 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-bs-32-a-f3dbe01cd4",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-bs-32-a-f3dbe01cd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-bs-32-a-f3dbe01cd4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-100-a-fuse-size-j-440202d22c",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - UL - 100 A- fuse size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-100-a-fuse-size-j-440202d22c",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-100-a-fuse-size-j-440202d22c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-100-a-fuse-size-j-440202d22c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-200-a-fuse-size-j-4f8853b889",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - UL - 200 A- fuse size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-200-a-fuse-size-j-4f8853b889",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-200-a-fuse-size-j-4f8853b889.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-200-a-fuse-size-j-4f8853b889.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-60-a-fuse-size-j-84c0db3726",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - UL - 60 A- fuse size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-60-a-fuse-size-j-84c0db3726",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-60-a-fuse-size-j-84c0db3726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-60-a-fuse-size-j-84c0db3726.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-cc-2f49ea1bed",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - UL 30 A - fuse size CC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-cc-2f49ea1bed",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-cc-2f49ea1bed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-cc-2f49ea1bed.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-a178870be8",
+      "name": "TeSys GS - switch-disconnector-fuse - 3 P - UL 30 A - fuse size J",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-a178870be8",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-a178870be8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-3-p-ul-30-a-fuse-size-j-a178870be8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-1250a-din-4-0aa3a6e01d",
+      "name": "TeSys GS - switch-disconnector-fuse - 4 P - 1250A - DIN 4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-1250a-din-4-0aa3a6e01d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-1250a-din-4-0aa3a6e01d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-1250a-din-4-0aa3a6e01d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-125a-din-00-ee122a8de5",
+      "name": "TeSys GS - switch-disconnector-fuse - 4 P - 125A - DIN 00",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-125a-din-00-ee122a8de5",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-125a-din-00-ee122a8de5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-125a-din-00-ee122a8de5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-32a-bs-a1-dfae69e654",
+      "name": "TeSys GS - switch-disconnector-fuse - 4 P - 32A - BS A1",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-32a-bs-a1-dfae69e654",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-32a-bs-a1-dfae69e654.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-32a-bs-a1-dfae69e654.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-63a-din-00c-78488efd6e",
+      "name": "TeSys GS - switch-disconnector-fuse - 4 P - 63A - DIN 00C",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-63a-din-00c-78488efd6e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-63a-din-00c-78488efd6e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-switch-disconnector-fuse-4-p-63a-din-00c-78488efd6e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-8eb5cddd8c",
+      "name": "TeSys GS - terminal shrouds - 3 poles",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-8eb5cddd8c",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-8eb5cddd8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-8eb5cddd8c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-600-800-1250-a-4cffd223a9",
+      "name": "TeSys GS - terminal shrouds - 3 poles - 600...800 1250 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-600-800-1250-a-4cffd223a9",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-600-800-1250-a-4cffd223a9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-terminal-shrouds-3-poles-600-800-1250-a-4cffd223a9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gs-terminal-shrouds-4-poles-100-160-200-400-a-226a7a3e75",
+      "name": "TeSys GS - terminal shrouds - 4 poles - 100...160.. 200 ..400 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gs-terminal-shrouds-4-poles-100-160-200-400-a-226a7a3e75",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gs-terminal-shrouds-4-poles-100-160-200-400-a-226a7a3e75.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gs-terminal-shrouds-4-poles-100-160-200-400-a-226a7a3e75.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-block-2-no-5f4f2f2c68",
+      "name": "TeSys GV2 & GV3 - auxiliary contact block - 2 NO",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-block-2-no-5f4f2f2c68",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-block-2-no-5f4f2f2c68.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-block-2-no-5f4f2f2c68.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv2-tesys-auxiliary-contact-block-39b6dc5d4f",
+      "name": "TeSys GV2 - TeSys_Auxiliary contact block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv2-tesys-auxiliary-contact-block-39b6dc5d4f",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv2-tesys-auxiliary-contact-block-39b6dc5d4f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv2-tesys-auxiliary-contact-block-39b6dc5d4f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-spring-terminals-49dba947df",
+      "name": "TeSys GV2 / GV3 - auxiliary contact - spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-spring-terminals-49dba947df",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-spring-terminals-49dba947df.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv2-gv3-auxiliary-contact-spring-terminals-49dba947df.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv3-d40a-d65a-everlink-terminal-block-3p-723f453076",
+      "name": "TeSys GV3 - D40A-D65A EVERLINK TERMINAL BLOCK 3P",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv3-d40a-d65a-everlink-terminal-block-3p-723f453076",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv3-d40a-d65a-everlink-terminal-block-3p-723f453076.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv3-d40a-d65a-everlink-terminal-block-3p-723f453076.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv3-gv3l-with-one-everlink-terminal-4ccfa810a3",
+      "name": "TeSys GV3 - GV3L WITH ONE EVERLINK TERMINAL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv3-gv3l-with-one-everlink-terminal-4ccfa810a3",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv3-gv3l-with-one-everlink-terminal-4ccfa810a3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv3-gv3l-with-one-everlink-terminal-4ccfa810a3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv3-gv3p-with-one-everlink-connector-1c29165870",
+      "name": "TeSys GV3 - GV3P WITH ONE EVERLINK CONNECTOR",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv3-gv3p-with-one-everlink-connector-1c29165870",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv3-gv3p-with-one-everlink-connector-1c29165870.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv3-gv3p-with-one-everlink-connector-1c29165870.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-gv4-transparent-terminal-for-tesys-gv4-bv4-671fc858e0",
+      "name": "TeSys GV4 - Transparent terminal for TeSys GV4/BV4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-gv4-transparent-terminal-for-tesys-gv4-bv4-671fc858e0",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-gv4-transparent-terminal-for-tesys-gv4-bv4-671fc858e0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-gv4-transparent-terminal-for-tesys-gv4-bv4-671fc858e0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-signalling-contact-block-for-integral-63-c5c6dcc685",
+      "name": "TeSys Integral 18, 32, 63 - Instantaneous signalling contact block for Integral 63",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-signalling-contact-block-for-integral-63-c5c6dcc685",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-signalling-contact-block-for-integral-63-c5c6dcc685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-signalling-contact-block-for-integral-63-c5c6dcc685.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-integral-18-32-63-integral-63-aux-contact-block-1c132dc10e",
+      "name": "TeSys Integral 18, 32, 63 - Integral 63 aux. Contact block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-integral-18-32-63-integral-63-aux-contact-block-1c132dc10e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-integral-18-32-63-integral-63-aux-contact-block-1c132dc10e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-integral-18-32-63-integral-63-aux-contact-block-1c132dc10e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-auxiliary-contact-block-for-integral-0e159d210d",
+      "name": "TeSys Integral 18, 32, 63 - instantaneous auxiliary contact block for Integral",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-auxiliary-contact-block-for-integral-0e159d210d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-auxiliary-contact-block-for-integral-0e159d210d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-integral-18-32-63-instantaneous-auxiliary-contact-block-for-integral-0e159d210d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-k-aux-contact-block-21c4815361",
+      "name": "TeSys K AUX CONTACT BLOCK",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-k-aux-contact-block-21c4815361",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-k-aux-contact-block-21c4815361.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-k-aux-contact-block-21c4815361.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lc1d25-to-38-3p-contactors-scew-clamp-screw-connectors-ac-coil-cabc70a100",
+      "name": "TeSys LC1D25 to 38 - 3P contactors - Scew clamp & screw connectors - AC coil",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lc1d25-to-38-3p-contactors-scew-clamp-screw-connectors-ac-coil-cabc70a100",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lc1d25-to-38-3p-contactors-scew-clamp-screw-connectors-ac-coil-cabc70a100.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lc1d25-to-38-3p-contactors-scew-clamp-screw-connectors-ac-coil-cabc70a100.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr-d-contact-block-for-rm1xa-over-current-relay-1757afa9d1",
+      "name": "TeSys LR.D - Contact block for RM1XA over-current relay",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr-d-contact-block-for-rm1xa-over-current-relay-1757afa9d1",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr-d-contact-block-for-rm1xa-over-current-relay-1757afa9d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr-d-contact-block-for-rm1xa-over-current-relay-1757afa9d1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-a-and-20-a-for-connection-by-4b63068c25",
+      "name": "TeSys LR.D - Differential thermal overload relays Class 10 A and 20 A for connection by screw clamp terminals or connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-a-and-20-a-for-connection-by-4b63068c25",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-a-and-20-a-for-connection-by-4b63068c25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-a-and-20-a-for-connection-by-4b63068c25.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-10a-or-20-for-connection-by-b-fb9b9fd554",
+      "name": "TeSys LR.D - Differential thermal overload relays Class 10, 10A or 20 for connection by bars or connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-10a-or-20-for-connection-by-b-fb9b9fd554",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-10a-or-20-for-connection-by-b-fb9b9fd554.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-10-10a-or-20-for-connection-by-b-fb9b9fd554.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-20-a-1-for-connection-by-screw-c-7e4e1ad3d7",
+      "name": "TeSys LR.D - Differential thermal overload relays Class 20 A (1) for connection by screw clamp terminals or connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-20-a-1-for-connection-by-screw-c-7e4e1ad3d7",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-20-a-1-for-connection-by-screw-c-7e4e1ad3d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr-d-differential-thermal-overload-relays-class-20-a-1-for-connection-by-screw-c-7e4e1ad3d7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr-d-tesys-d-thermal-overload-relays-terminal-block-31e3fe642c",
+      "name": "TeSys LR.D - TeSys D thermal overload relays - terminal block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr-d-tesys-d-thermal-overload-relays-terminal-block-31e3fe642c",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr-d-tesys-d-thermal-overload-relays-terminal-block-31e3fe642c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr-d-tesys-d-thermal-overload-relays-terminal-block-31e3fe642c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr2-k-differential-thermal-overload-relays-class-10a-by-screw-clamp-terminals-on-0641543b74",
+      "name": "TeSys LR2 K - Differential thermal overload relays Class 10A by screw clamp terminals on downstream",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr2-k-differential-thermal-overload-relays-class-10a-by-screw-clamp-terminals-on-0641543b74",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr2-k-differential-thermal-overload-relays-class-10a-by-screw-clamp-terminals-on-0641543b74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr2-k-differential-thermal-overload-relays-class-10a-by-screw-clamp-terminals-on-0641543b74.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr2-k-tesys-k-thermal-overload-relays-terminal-block-la7k-624e25ed65",
+      "name": "TeSys LR2 K - TeSys K thermal overload relays - terminal block - LA7K",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr2-k-tesys-k-thermal-overload-relays-terminal-block-la7k-624e25ed65",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr2-k-tesys-k-thermal-overload-relays-terminal-block-la7k-624e25ed65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr2-k-tesys-k-thermal-overload-relays-terminal-block-la7k-624e25ed65.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr9-power-terminal-protection-shroud-for-electronic-thermal-overload-relay-lr9f-b0249ca383",
+      "name": "TeSys LR9 - Power terminal protection shroud for electronic thermal overload relay LR9F",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr9-power-terminal-protection-shroud-for-electronic-thermal-overload-relay-lr9f-b0249ca383",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr9-power-terminal-protection-shroud-for-electronic-thermal-overload-relay-lr9f-b0249ca383.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr9-power-terminal-protection-shroud-for-electronic-thermal-overload-relay-lr9f-b0249ca383.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr97d-tesys-d-thermal-overload-relays-terminal-block-7c7b93c1c8",
+      "name": "TeSys LR97D - TeSys D thermal overload relays - terminal block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr97d-tesys-d-thermal-overload-relays-terminal-block-7c7b93c1c8",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr97d-tesys-d-thermal-overload-relays-terminal-block-7c7b93c1c8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr97d-tesys-d-thermal-overload-relays-terminal-block-7c7b93c1c8.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-lr9g-overload-relay-module-push-in-terminals-cf77787185",
+      "name": "TeSys LR9G - Overload relay module PUSH-IN terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-lr9g-overload-relay-module-push-in-terminals-cf77787185",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-lr9g-overload-relay-module-push-in-terminals-cf77787185.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-lr9g-overload-relay-module-push-in-terminals-cf77787185.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-enclosed-emergency-stop-switch-disconnector-21e5f3e3e9",
+      "name": "TeSys Mini-VARIO - enclosed emergency stop switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-enclosed-emergency-stop-switch-disconnector-21e5f3e3e9",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-enclosed-emergency-stop-switch-disconnector-21e5f3e3e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-enclosed-emergency-stop-switch-disconnector-21e5f3e3e9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-vn12-vn20-ff393b033e",
+      "name": "TeSys Mini-VARIO - terminal shroud - for VN12, VN20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-vn12-vn20-ff393b033e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-vn12-vn20-ff393b033e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-vn12-vn20-ff393b033e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-auxiliary-contact-block-6bf23492e7",
+      "name": "TeSys Mini-VARIO - terminal shroud - for auxiliary contact block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-auxiliary-contact-block-6bf23492e7",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-auxiliary-contact-block-6bf23492e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-terminal-shroud-for-auxiliary-contact-block-6bf23492e7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v02-v2-90c614d2b0",
+      "name": "TeSys Mini-VARIO and VARIO - terminal shrouds - for V02...V2",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v02-v2-90c614d2b0",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v02-v2-90c614d2b0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v02-v2-90c614d2b0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v3-v4-1dea9c79f3",
+      "name": "TeSys Mini-VARIO and VARIO - terminal shrouds - for V3 / V4",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v3-v4-1dea9c79f3",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v3-v4-1dea9c79f3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v3-v4-1dea9c79f3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v5-v6-2d03bc7625",
+      "name": "TeSys Mini-VARIO and VARIO - terminal shrouds - for V5 / V6",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v5-v6-2d03bc7625",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v5-v6-2d03bc7625.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-and-vario-terminal-shrouds-for-v5-v6-2d03bc7625.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-vario-handle-and-front-plate-for-switch-disconnector-05ea7fadf2",
+      "name": "TeSys Mini-Vario, VARIO - Handle and front plate for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-vario-handle-and-front-plate-for-switch-disconnector-05ea7fadf2",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-vario-handle-and-front-plate-for-switch-disconnector-05ea7fadf2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-vario-handle-and-front-plate-for-switch-disconnector-05ea7fadf2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-mini-vario-vario-tesys-mini-vario-switch-body-for-switch-disconnector-3-poles-12-f585f9053b",
+      "name": "TeSys Mini-Vario, VARIO - TeSys Mini-VARIO - Switch body for switch-disconnector - 3 poles - 12 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-mini-vario-vario-tesys-mini-vario-switch-body-for-switch-disconnector-3-poles-12-f585f9053b",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-mini-vario-vario-tesys-mini-vario-switch-body-for-switch-disconnector-3-poles-12-f585f9053b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-mini-vario-vario-tesys-mini-vario-switch-body-for-switch-disconnector-3-poles-12-f585f9053b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-quickfit-upstream-terminal-block-tesys-lad3b1-for-fuse-carrier-tesys-ls1d323-wit-f9032f5d53",
+      "name": "TeSys Quickfit - Upstream terminal block TeSys LAD3B1 for fuse carrier TeSys LS1D323, with spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-quickfit-upstream-terminal-block-tesys-lad3b1-for-fuse-carrier-tesys-ls1d323-wit-f9032f5d53",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-quickfit-upstream-terminal-block-tesys-lad3b1-for-fuse-carrier-tesys-ls1d323-wit-f9032f5d53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-quickfit-upstream-terminal-block-tesys-lad3b1-for-fuse-carrier-tesys-ls1d323-wit-f9032f5d53.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-u-130-ka-limiter-disconnector-c42874d153",
+      "name": "TeSys U - 130 KA LIMITER DISCONNECTOR",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-u-130-ka-limiter-disconnector-c42874d153",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-u-130-ka-limiter-disconnector-c42874d153.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-u-130-ka-limiter-disconnector-c42874d153.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-u-prewired-coil-terminals-b753cde654",
+      "name": "TeSys U - PREWIRED COIL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-u-prewired-coil-terminals-b753cde654",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-u-prewired-coil-terminals-b753cde654.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-u-prewired-coil-terminals-b753cde654.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-u-reverser-coil-terminals-476e24251e",
+      "name": "TeSys U - REVERSER COIL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-u-reverser-coil-terminals-476e24251e",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-u-reverser-coil-terminals-476e24251e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-u-reverser-coil-terminals-476e24251e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-u-screw-clamp-base-7454b5d599",
+      "name": "TeSys U - SCREW CLAMP BASE",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-u-screw-clamp-base-7454b5d599",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-u-screw-clamp-base-7454b5d599.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-u-screw-clamp-base-7454b5d599.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-u-wired-rev-coil-terminals-ecb2dedd4a",
+      "name": "TeSys U - WIRED REV COIL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-u-wired-rev-coil-terminals-ecb2dedd4a",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-u-wired-rev-coil-terminals-ecb2dedd4a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-u-wired-rev-coil-terminals-ecb2dedd4a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-125-a-5d38527303",
+      "name": "TeSys VARIO - Switch body for switch-disconnector - 3 poles - 125 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-125-a-5d38527303",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-125-a-5d38527303.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-125-a-5d38527303.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-25-a-0cd570e622",
+      "name": "TeSys VARIO - Switch body for switch-disconnector - 3 poles - 25 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-25-a-0cd570e622",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-25-a-0cd570e622.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-25-a-0cd570e622.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-63-a-b5692df7e1",
+      "name": "TeSys VARIO - Switch body for switch-disconnector - 3 poles - 63 A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-63-a-b5692df7e1",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-63-a-b5692df7e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-switch-body-for-switch-disconnector-3-poles-63-a-b5692df7e1.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-auxiliary-contact-block-8cb41afc58",
+      "name": "TeSys VARIO - auxiliary contact block",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-auxiliary-contact-block-8cb41afc58",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-auxiliary-contact-block-8cb41afc58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-auxiliary-contact-block-8cb41afc58.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-10-a-with-ground-plate-for-vsd-869737ea65",
+      "name": "TeSys VARIO - enclosed emergency stop switch disconnector - 10 A with ground plate for VSD application",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-10-a-with-ground-plate-for-vsd-869737ea65",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-10-a-with-ground-plate-for-vsd-869737ea65.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-10-a-with-ground-plate-for-vsd-869737ea65.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-16-a-with-ground-plate-for-vsd-de05329314",
+      "name": "TeSys VARIO - enclosed emergency stop switch disconnector - 16 A with ground plate for VSD application",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-16-a-with-ground-plate-for-vsd-de05329314",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-16-a-with-ground-plate-for-vsd-de05329314.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-16-a-with-ground-plate-for-vsd-de05329314.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-20-a-with-ground-plate-for-vsd-b808e3cd7a",
+      "name": "TeSys VARIO - enclosed emergency stop switch disconnector - 20 A with ground plate for VSD application",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-20-a-with-ground-plate-for-vsd-b808e3cd7a",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-20-a-with-ground-plate-for-vsd-b808e3cd7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-20-a-with-ground-plate-for-vsd-b808e3cd7a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-25-a-with-ground-plate-for-vsd-65b6373b66",
+      "name": "TeSys VARIO - enclosed emergency stop switch disconnector - 25 A with ground plate for VSD application",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-25-a-with-ground-plate-for-vsd-65b6373b66",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-25-a-with-ground-plate-for-vsd-65b6373b66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-enclosed-emergency-stop-switch-disconnector-25-a-with-ground-plate-for-vsd-65b6373b66.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-door-mounting-82009ef99d",
+      "name": "TeSys VLS - TeSys VLS- 3Poles- Body switch disconnector - Door mounting",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-door-mounting-82009ef99d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-door-mounting-82009ef99d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vls-tesys-vls-3poles-body-switch-disconnector-door-mounting-82009ef99d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-vz26-input-terminal-cover-40a-7d9c29aa45",
+      "name": "TeSys Vario - VZ26 INPUT TERMINAL COVER 40A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-vz26-input-terminal-cover-40a-7d9c29aa45",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-vz26-input-terminal-cover-40a-7d9c29aa45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-vz26-input-terminal-cover-40a-7d9c29aa45.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-vz27-input-terminal-cover-80a-08fea3367f",
+      "name": "TeSys Vario - VZ27 INPUT TERMINAL COVER 80A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-vz27-input-terminal-cover-80a-08fea3367f",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-vz27-input-terminal-cover-80a-08fea3367f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-vz27-input-terminal-cover-80a-08fea3367f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-vz28-input-terminal-cover-175a-a812bce039",
+      "name": "TeSys Vario - VZ28 INPUT TERMINAL COVER 175A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-vz28-input-terminal-cover-175a-a812bce039",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-vz28-input-terminal-cover-175a-a812bce039.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-vz28-input-terminal-cover-175a-a812bce039.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-vz29-input-terminal-cover-b01c943c58",
+      "name": "TeSys Vario - VZ29 INPUT TERMINAL COVER",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-vz29-input-terminal-cover-b01c943c58",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-vz29-input-terminal-cover-b01c943c58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-vz29-input-terminal-cover-b01c943c58.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-vario-switch-disconnector-63-a-back-of-enclosure-a1ebf5cb2d",
+      "name": "TeSys Vario - switch disconnector - 63 A - back of enclosure",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-vario-switch-disconnector-63-a-back-of-enclosure-a1ebf5cb2d",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-vario-switch-disconnector-63-a-back-of-enclosure-a1ebf5cb2d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-vario-switch-disconnector-63-a-back-of-enclosure-a1ebf5cb2d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-aux-contact-block-2c9ad63293",
+      "name": "TeSys k, d, SK (auxiliary contactors) - AUX CONTACT BLOCK",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-aux-contact-block-2c9ad63293",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-aux-contact-block-2c9ad63293.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-aux-contact-block-2c9ad63293.json"
+    },
+    {
+      "id": "mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-instantaneous-auxiliary-contact-blocks-tesys-sk-5056e0cba2",
+      "name": "TeSys k, d, SK (auxiliary contactors) - Instantaneous auxiliary contact blocks TeSys SK",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-instantaneous-auxiliary-contact-blocks-tesys-sk-5056e0cba2",
+      "recordPath": "equipment/mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-instantaneous-auxiliary-contact-blocks-tesys-sk-5056e0cba2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-k-d-sk-auxiliary-contactors-instantaneous-auxiliary-contact-blocks-tesys-sk-5056e0cba2.json"
+    },
+    {
+      "id": "mfr-schneider-electric-terminal-shrouds-3p-g630-800-ip20-127b5a8443",
+      "name": "Terminal Shrouds 3P G630-800 IP20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-terminal-shrouds-3p-g630-800-ip20-127b5a8443",
+      "recordPath": "equipment/mfr-schneider-electric-terminal-shrouds-3p-g630-800-ip20-127b5a8443.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-terminal-shrouds-3p-g630-800-ip20-127b5a8443.json"
+    },
+    {
+      "id": "mfr-schneider-electric-terminal-adapter-for-box-con-3p-g630-800-9243900b81",
+      "name": "Terminal adapter for Box con 3P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-terminal-adapter-for-box-con-3p-g630-800-9243900b81",
+      "recordPath": "equipment/mfr-schneider-electric-terminal-adapter-for-box-con-3p-g630-800-9243900b81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-terminal-adapter-for-box-con-3p-g630-800-9243900b81.json"
+    },
+    {
+      "id": "mfr-schneider-electric-terminal-adapter-for-box-con-4p-g630-800-b328034666",
+      "name": "Terminal adapter for Box con 4P G630-800",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-terminal-adapter-for-box-con-4p-g630-800-b328034666",
+      "recordPath": "equipment/mfr-schneider-electric-terminal-adapter-for-box-con-4p-g630-800-b328034666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-terminal-adapter-for-box-con-4p-g630-800-b328034666.json"
+    },
+    {
+      "id": "mfr-schneider-electric-terminal-marker-carrier-for-end-bracket-80eddbe903",
+      "name": "Terminal marker carrier for end bracket",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-terminal-marker-carrier-for-end-bracket-80eddbe903",
+      "recordPath": "equipment/mfr-schneider-electric-terminal-marker-carrier-for-end-bracket-80eddbe903.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-terminal-marker-carrier-for-end-bracket-80eddbe903.json"
+    },
+    {
+      "id": "mfr-schneider-electric-terminal-shield-gv7ac01-for-tesys-gv7re-or-for-tesys-gv7rs-9f7daa0f13",
+      "name": "Terminal shield GV7AC01 for TeSys GV7RE or for TeSys GV7RS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-terminal-shield-gv7ac01-for-tesys-gv7re-or-for-tesys-gv7rs-9f7daa0f13",
+      "recordPath": "equipment/mfr-schneider-electric-terminal-shield-gv7ac01-for-tesys-gv7re-or-for-tesys-gv7rs-9f7daa0f13.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-terminal-shield-gv7ac01-for-tesys-gv7re-or-for-tesys-gv7rs-9f7daa0f13.json"
+    },
+    {
+      "id": "mfr-schneider-electric-time-delay-auxiliary-contact-block-tesys-deca-1no-1nc-0aa0c151bb",
+      "name": "Time delay auxiliary contact block, TeSys Deca, 1NO + 1NC",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-time-delay-auxiliary-contact-block-tesys-deca-1no-1nc-0aa0c151bb",
+      "recordPath": "equipment/mfr-schneider-electric-time-delay-auxiliary-contact-block-tesys-deca-1no-1nc-0aa0c151bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-time-delay-auxiliary-contact-block-tesys-deca-1no-1nc-0aa0c151bb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-top-terminal-shroud-100-200a-3f3ecd55fa",
+      "name": "Top Terminal Shroud 100 - 200A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-top-terminal-shroud-100-200a-3f3ecd55fa",
+      "recordPath": "equipment/mfr-schneider-electric-top-terminal-shroud-100-200a-3f3ecd55fa.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-top-terminal-shroud-100-200a-3f3ecd55fa.json"
+    },
+    {
+      "id": "mfr-schneider-electric-top-terminal-shroud-400a-f19e507e08",
+      "name": "Top Terminal Shroud 400A",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-top-terminal-shroud-400a-f19e507e08",
+      "recordPath": "equipment/mfr-schneider-electric-top-terminal-shroud-400a-f19e507e08.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-top-terminal-shroud-400a-f19e507e08.json"
+    },
+    {
+      "id": "mfr-schneider-electric-type-lk4-terminal-shroud-top-and-bottom-compact-a78d3172ee",
+      "name": "Type LK4 - TERMINAL SHROUD TOP AND BOTTOM COMPACT",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-type-lk4-terminal-shroud-top-and-bottom-compact-a78d3172ee",
+      "recordPath": "equipment/mfr-schneider-electric-type-lk4-terminal-shroud-top-and-bottom-compact-a78d3172ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-type-lk4-terminal-shroud-top-and-bottom-compact-a78d3172ee.json"
+    },
+    {
+      "id": "mfr-schneider-electric-vario-vz-main-pole-module-for-switch-disconnector-ddcbe3b5b4",
+      "name": "Vario VZ main pole module for switch disconnector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-vario-vz-main-pole-module-for-switch-disconnector-ddcbe3b5b4",
+      "recordPath": "equipment/mfr-schneider-electric-vario-vz-main-pole-module-for-switch-disconnector-ddcbe3b5b4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-vario-vz-main-pole-module-for-switch-disconnector-ddcbe3b5b4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-vertical-bridge-for-2lvl-spring-terminal-2pts-3ca68adcc9",
+      "name": "Vertical bridge for 2Lvl spring terminal, 2pts",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-vertical-bridge-for-2lvl-spring-terminal-2pts-3ca68adcc9",
+      "recordPath": "equipment/mfr-schneider-electric-vertical-bridge-for-2lvl-spring-terminal-2pts-3ca68adcc9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-vertical-bridge-for-2lvl-spring-terminal-2pts-3ca68adcc9.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-10mm-screw-terminal-b-9099ded768",
+      "name": "WARNING LABEL FOR 10MM² SCREW TERMINAL B",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-10mm-screw-terminal-b-9099ded768",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-10mm-screw-terminal-b-9099ded768.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-10mm-screw-terminal-b-9099ded768.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-16mm-screw-terminal-b-e04b0c25af",
+      "name": "WARNING LABEL FOR 16MM² SCREW TERMINAL B",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-16mm-screw-terminal-b-e04b0c25af",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-16mm-screw-terminal-b-e04b0c25af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-16mm-screw-terminal-b-e04b0c25af.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-2-5mm-screw-terminal-e9185d21e3",
+      "name": "WARNING LABEL FOR 2,5MM² SCREW TERMINAL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-2-5mm-screw-terminal-e9185d21e3",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-2-5mm-screw-terminal-e9185d21e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-2-5mm-screw-terminal-e9185d21e3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-4mm-screw-terminal-bl-676941112e",
+      "name": "WARNING LABEL FOR 4MM² SCREW TERMINAL BL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-4mm-screw-terminal-bl-676941112e",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-4mm-screw-terminal-bl-676941112e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-4mm-screw-terminal-bl-676941112e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-6mm-screw-terminal-bl-ac4dabd651",
+      "name": "WARNING LABEL FOR 6MM² SCREW TERMINAL BL",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-6mm-screw-terminal-bl-ac4dabd651",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-6mm-screw-terminal-bl-ac4dabd651.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-6mm-screw-terminal-bl-ac4dabd651.json"
+    },
+    {
+      "id": "mfr-schneider-electric-wired-rev-coil-terminals-13b9e2fd9d",
+      "name": "WIRED REV COIL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-wired-rev-coil-terminals-13b9e2fd9d",
+      "recordPath": "equipment/mfr-schneider-electric-wired-rev-coil-terminals-13b9e2fd9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-wired-rev-coil-terminals-13b9e2fd9d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-wired-reverser-ctrl-terminals-9484ac001d",
+      "name": "WIRED REVERSER CTRL TERMINALS",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-wired-reverser-ctrl-terminals-9484ac001d",
+      "recordPath": "equipment/mfr-schneider-electric-wired-reverser-ctrl-terminals-9484ac001d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-wired-reverser-ctrl-terminals-9484ac001d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-2-5mm-spring-terminal-c21e8077f7",
+      "name": "Warning Label for 2,5mm² spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-2-5mm-spring-terminal-c21e8077f7",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-2-5mm-spring-terminal-c21e8077f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-2-5mm-spring-terminal-c21e8077f7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-35mm-screw-terminals-0058826ea4",
+      "name": "Warning Label for 35mm² screw terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-35mm-screw-terminals-0058826ea4",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-35mm-screw-terminals-0058826ea4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-35mm-screw-terminals-0058826ea4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-4mm-spring-terminals-7a3cd4c8a5",
+      "name": "Warning Label for 4mm² spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-4mm-spring-terminals-7a3cd4c8a5",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-4mm-spring-terminals-7a3cd4c8a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-4mm-spring-terminals-7a3cd4c8a5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for-6mm-spring-terminals-04cb56b80b",
+      "name": "Warning Label for 6mm² spring terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for-6mm-spring-terminals-04cb56b80b",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for-6mm-spring-terminals-04cb56b80b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for-6mm-spring-terminals-04cb56b80b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-warning-label-for10-35mm-spring-terminal-497aec0eab",
+      "name": "Warning Label for10-35mm² spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-warning-label-for10-35mm-spring-terminal-497aec0eab",
+      "recordPath": "equipment/mfr-schneider-electric-warning-label-for10-35mm-spring-terminal-497aec0eab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-warning-label-for10-35mm-spring-terminal-497aec0eab.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald01-cad-2023-fd9d0378cc",
+      "name": "XALD01_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald01-cad-2023-fd9d0378cc",
+      "recordPath": "equipment/mfr-schneider-electric-xald01-cad-2023-fd9d0378cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald01-cad-2023-fd9d0378cc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald03-cad-2023-45729f9665",
+      "name": "XALD03_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald03-cad-2023-45729f9665",
+      "recordPath": "equipment/mfr-schneider-electric-xald03-cad-2023-45729f9665.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald03-cad-2023-45729f9665.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald05-cad-2023-fcc9856606",
+      "name": "XALD05_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald05-cad-2023-fcc9856606",
+      "recordPath": "equipment/mfr-schneider-electric-xald05-cad-2023-fcc9856606.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald05-cad-2023-fcc9856606.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald101-cad-2023-b15d768fc3",
+      "name": "XALD101_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald101-cad-2023-b15d768fc3",
+      "recordPath": "equipment/mfr-schneider-electric-xald101-cad-2023-b15d768fc3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald101-cad-2023-b15d768fc3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald112-cad-2023-032e559431",
+      "name": "XALD112_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald112-cad-2023-032e559431",
+      "recordPath": "equipment/mfr-schneider-electric-xald112-cad-2023-032e559431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald112-cad-2023-032e559431.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald134-cad-2023-f66a7d61e7",
+      "name": "XALD134_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald134-cad-2023-f66a7d61e7",
+      "recordPath": "equipment/mfr-schneider-electric-xald134-cad-2023-f66a7d61e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald134-cad-2023-f66a7d61e7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald164-cad-2023-3180ec6f22",
+      "name": "XALD164_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald164-cad-2023-3180ec6f22",
+      "recordPath": "equipment/mfr-schneider-electric-xald164-cad-2023-3180ec6f22.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald164-cad-2023-3180ec6f22.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald2114-cad-2023-488171bbca",
+      "name": "XALD2114_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald2114-cad-2023-488171bbca",
+      "recordPath": "equipment/mfr-schneider-electric-xald2114-cad-2023-488171bbca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald2114-cad-2023-488171bbca.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald211-cad-2023-5f22982ce3",
+      "name": "XALD211_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald211-cad-2023-5f22982ce3",
+      "recordPath": "equipment/mfr-schneider-electric-xald211-cad-2023-5f22982ce3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald211-cad-2023-5f22982ce3.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald326-cad-2023-9065fe56a6",
+      "name": "XALD326_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald326-cad-2023-9065fe56a6",
+      "recordPath": "equipment/mfr-schneider-electric-xald326-cad-2023-9065fe56a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald326-cad-2023-9065fe56a6.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald363b-cad-2023-b860b31a4d",
+      "name": "XALD363B_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald363b-cad-2023-b860b31a4d",
+      "recordPath": "equipment/mfr-schneider-electric-xald363b-cad-2023-b860b31a4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald363b-cad-2023-b860b31a4d.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xaldaeq3924h7-cad-2023-4abc31e1c0",
+      "name": "XALDAEQ3924H7_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xaldaeq3924h7-cad-2023-4abc31e1c0",
+      "recordPath": "equipment/mfr-schneider-electric-xaldaeq3924h7-cad-2023-4abc31e1c0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xaldaeq3924h7-cad-2023-4abc31e1c0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xalj-plastic-button-box-1-hole-bef4eb513b",
+      "name": "XALJ plastic button box, 1 hole",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xalj-plastic-button-box-1-hole-bef4eb513b",
+      "recordPath": "equipment/mfr-schneider-electric-xalj-plastic-button-box-1-hole-bef4eb513b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xalj-plastic-button-box-1-hole-bef4eb513b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xalk01-cad-2023-c3a9478b81",
+      "name": "XALK01_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xalk01-cad-2023-c3a9478b81",
+      "recordPath": "equipment/mfr-schneider-electric-xalk01-cad-2023-c3a9478b81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xalk01-cad-2023-c3a9478b81.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xalk178gth29-cad-2023-4d5238df62",
+      "name": "XALK178GTH29_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xalk178gth29-cad-2023-4d5238df62",
+      "recordPath": "equipment/mfr-schneider-electric-xalk178gth29-cad-2023-4d5238df62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xalk178gth29-cad-2023-4d5238df62.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xalk188-cad-2023-584c28c71f",
+      "name": "XALK188_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xalk188-cad-2023-584c28c71f",
+      "recordPath": "equipment/mfr-schneider-electric-xalk188-cad-2023-584c28c71f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xalk188-cad-2023-584c28c71f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-yellow-light-block-for-head-22-integral-screw-clamp-terminals-c143184169",
+      "name": "Yellow light block for head Ø22 integral screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-yellow-light-block-for-head-22-integral-screw-clamp-terminals-c143184169",
+      "recordPath": "equipment/mfr-schneider-electric-yellow-light-block-for-head-22-integral-screw-clamp-terminals-c143184169.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-yellow-light-block-for-head-22-integral-screw-clamp-terminals-c143184169.json"
+    },
+    {
+      "id": "mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sc-6959bd95d4",
+      "name": "Zelio relay RSL slim interface relay - Slim interface relay pre-assembled - Socket with screw connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sc-6959bd95d4",
+      "recordPath": "equipment/mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sc-6959bd95d4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sc-6959bd95d4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sp-7e5549581f",
+      "name": "Zelio relay RSL slim interface relay - Slim interface relay pre-assembled - Socket with spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sp-7e5549581f",
+      "recordPath": "equipment/mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sp-7e5549581f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-zelio-relay-rsl-slim-interface-relay-slim-interface-relay-pre-assembled-socket-with-sp-7e5549581f.json"
+    },
+    {
+      "id": "mfr-schneider-electric-contact-block-with-body-fixing-collar-for-2-direction-joystick-controller-23b5c85b1e",
+      "name": "contact block with body/fixing collar for 2-direction joystick controller",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-contact-block-with-body-fixing-collar-for-2-direction-joystick-controller-23b5c85b1e",
+      "recordPath": "equipment/mfr-schneider-electric-contact-block-with-body-fixing-collar-for-2-direction-joystick-controller-23b5c85b1e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-contact-block-with-body-fixing-collar-for-2-direction-joystick-controller-23b5c85b1e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-contact-for-head-22-faston-connector-949c916165",
+      "name": "contact for head Ø22 Faston connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-contact-for-head-22-faston-connector-949c916165",
+      "recordPath": "equipment/mfr-schneider-electric-contact-for-head-22-faston-connector-949c916165.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-contact-for-head-22-faston-connector-949c916165.json"
+    },
+    {
+      "id": "mfr-schneider-electric-double-contact-block-s-for-head-22-2nc-screw-clamp-terminal-8d74bf6a69",
+      "name": "double contact block's for head Ø22 2NC screw clamp terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-double-contact-block-s-for-head-22-2nc-screw-clamp-terminal-8d74bf6a69",
+      "recordPath": "equipment/mfr-schneider-electric-double-contact-block-s-for-head-22-2nc-screw-clamp-terminal-8d74bf6a69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-double-contact-block-s-for-head-22-2nc-screw-clamp-terminal-8d74bf6a69.json"
+    },
+    {
+      "id": "mfr-schneider-electric-double-contact-block-s-for-head-22-screw-clamp-terminal-fb3fde3763",
+      "name": "double contact block's for head Ø22 screw clamp terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-double-contact-block-s-for-head-22-screw-clamp-terminal-fb3fde3763",
+      "recordPath": "equipment/mfr-schneider-electric-double-contact-block-s-for-head-22-screw-clamp-terminal-fb3fde3763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-double-contact-block-s-for-head-22-screw-clamp-terminal-fb3fde3763.json"
+    },
+    {
+      "id": "mfr-schneider-electric-light-block-for-head-22-integral-led-screw-clamp-terminals-ea7a4b1129",
+      "name": "light block for head Ø22 integral LED screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-light-block-for-head-22-integral-led-screw-clamp-terminals-ea7a4b1129",
+      "recordPath": "equipment/mfr-schneider-electric-light-block-for-head-22-integral-led-screw-clamp-terminals-ea7a4b1129.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-light-block-for-head-22-integral-led-screw-clamp-terminals-ea7a4b1129.json"
+    },
+    {
+      "id": "mfr-schneider-electric-round-pilot-light-22-ba9s-screw-clamp-terminals-59017f2d04",
+      "name": "round pilot light Ø22 - BA9s screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-round-pilot-light-22-ba9s-screw-clamp-terminals-59017f2d04",
+      "recordPath": "equipment/mfr-schneider-electric-round-pilot-light-22-ba9s-screw-clamp-terminals-59017f2d04.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-round-pilot-light-22-ba9s-screw-clamp-terminals-59017f2d04.json"
+    },
+    {
+      "id": "mfr-schneider-electric-round-pilot-light-22-faston-connectors-6579110c5b",
+      "name": "round pilot light Ø22 - faston connectors",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-round-pilot-light-22-faston-connectors-6579110c5b",
+      "recordPath": "equipment/mfr-schneider-electric-round-pilot-light-22-faston-connectors-6579110c5b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-round-pilot-light-22-faston-connectors-6579110c5b.json"
+    },
+    {
+      "id": "mfr-schneider-electric-round-pilot-light-22-green-bulb-ba9s-230v-screw-clamp-terminals-86c491c4e7",
+      "name": "round pilot light Ø22 - green - bulb BA9s - 230V - screw clamp terminals",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-round-pilot-light-22-green-bulb-ba9s-230v-screw-clamp-terminals-86c491c4e7",
+      "recordPath": "equipment/mfr-schneider-electric-round-pilot-light-22-green-bulb-ba9s-230v-screw-clamp-terminals-86c491c4e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-round-pilot-light-22-green-bulb-ba9s-230v-screw-clamp-terminals-86c491c4e7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-single-contact-block-for-head-22-1nc-screw-clamp-terminal-cc3466cc8e",
+      "name": "single contact block for head Ø22 1NC screw clamp terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-single-contact-block-for-head-22-1nc-screw-clamp-terminal-cc3466cc8e",
+      "recordPath": "equipment/mfr-schneider-electric-single-contact-block-for-head-22-1nc-screw-clamp-terminal-cc3466cc8e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-single-contact-block-for-head-22-1nc-screw-clamp-terminal-cc3466cc8e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-single-contact-block-for-head-22-1no-screw-clamp-terminal-ac85f39afe",
+      "name": "single contact block for head Ø22 1NO screw clamp terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-single-contact-block-for-head-22-1no-screw-clamp-terminal-ac85f39afe",
+      "recordPath": "equipment/mfr-schneider-electric-single-contact-block-for-head-22-1no-screw-clamp-terminal-ac85f39afe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-single-contact-block-for-head-22-1no-screw-clamp-terminal-ac85f39afe.json"
+    },
+    {
+      "id": "mfr-schneider-electric-single-contact-block-for-head-22-faston-connector-fcad3d5d8a",
+      "name": "single contact block for head Ø22 Faston connector",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-single-contact-block-for-head-22-faston-connector-fcad3d5d8a",
+      "recordPath": "equipment/mfr-schneider-electric-single-contact-block-for-head-22-faston-connector-fcad3d5d8a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-single-contact-block-for-head-22-faston-connector-fcad3d5d8a.json"
+    },
+    {
+      "id": "mfr-schneider-electric-single-contact-block-for-head-22-screw-terminal-1193b11079",
+      "name": "single contact block for head Ø22 screw terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-single-contact-block-for-head-22-screw-terminal-1193b11079",
+      "recordPath": "equipment/mfr-schneider-electric-single-contact-block-for-head-22-screw-terminal-1193b11079.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-single-contact-block-for-head-22-screw-terminal-1193b11079.json"
+    },
+    {
+      "id": "mfr-schneider-electric-auxiliary-contact-block-d-line-la1dn02-dn11-and-dn20-037a6011c7",
+      "name": "Auxiliary Contact Block, D-Line, LA1DN02, DN11, and DN20",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-auxiliary-contact-block-d-line-la1dn02-dn11-and-dn20-037a6011c7",
+      "recordPath": "equipment/mfr-schneider-electric-auxiliary-contact-block-d-line-la1dn02-dn11-and-dn20-037a6011c7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-auxiliary-contact-block-d-line-la1dn02-dn11-and-dn20-037a6011c7.json"
+    },
+    {
+      "id": "mfr-schneider-electric-dc720-kw-ranges-of-charers-1-connector-ccs2-and-10m-cable-range-f007fbaad4",
+      "name": "DC720 kW ranges of charers. 1 connector CCS2 and 10m cable range",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-dc720-kw-ranges-of-charers-1-connector-ccs2-and-10m-cable-range-f007fbaad4",
+      "recordPath": "equipment/mfr-schneider-electric-dc720-kw-ranges-of-charers-1-connector-ccs2-and-10m-cable-range-f007fbaad4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-dc720-kw-ranges-of-charers-1-connector-ccs2-and-10m-cable-range-f007fbaad4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-dc720-kw-ranges-of-chargers-dispenser-with-1-connector-ccs2-and-7m-cable-range-14b46f6790",
+      "name": "DC720 kW ranges of chargers. Dispenser with 1 connector CCS2 and 7m cable range",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-dc720-kw-ranges-of-chargers-dispenser-with-1-connector-ccs2-and-7m-cable-range-14b46f6790",
+      "recordPath": "equipment/mfr-schneider-electric-dc720-kw-ranges-of-chargers-dispenser-with-1-connector-ccs2-and-7m-cable-range-14b46f6790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-dc720-kw-ranges-of-chargers-dispenser-with-1-connector-ccs2-and-7m-cable-range-14b46f6790.json"
+    },
+    {
+      "id": "mfr-schneider-electric-eocr-pfz-430b4e1d95",
+      "name": "EOCR-PFZ",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-eocr-pfz-430b4e1d95",
+      "recordPath": "equipment/mfr-schneider-electric-eocr-pfz-430b4e1d95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-eocr-pfz-430b4e1d95.json"
+    },
+    {
+      "id": "mfr-schneider-electric-pro-dc-320-and-180-v2-with-credit-card-terminal-2d-views-and-simplified-model-635dd54026",
+      "name": "Pro DC 320 and 180 v2 with Credit Card Terminal - 2D views and simplified model",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-pro-dc-320-and-180-v2-with-credit-card-terminal-2d-views-and-simplified-model-635dd54026",
+      "recordPath": "equipment/mfr-schneider-electric-pro-dc-320-and-180-v2-with-credit-card-terminal-2d-views-and-simplified-model-635dd54026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-pro-dc-320-and-180-v2-with-credit-card-terminal-2d-views-and-simplified-model-635dd54026.json"
+    },
+    {
+      "id": "mfr-schneider-electric-simplified-and-detailed-files-for-schneider-starcharge-fast-and-evlink-dc-720-dispense-9c9d06beb0",
+      "name": "Simplified and detailed files for Schneider StarCharge Fast and EVlink DC 720 dispenser 1 connector 5m cable range with cable management system",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-simplified-and-detailed-files-for-schneider-starcharge-fast-and-evlink-dc-720-dispense-9c9d06beb0",
+      "recordPath": "equipment/mfr-schneider-electric-simplified-and-detailed-files-for-schneider-starcharge-fast-and-evlink-dc-720-dispense-9c9d06beb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-simplified-and-detailed-files-for-schneider-starcharge-fast-and-evlink-dc-720-dispense-9c9d06beb0.json"
+    },
+    {
+      "id": "mfr-abb-t4-3-poles-fixed-left-connectors-665972befd",
+      "name": "T4 3 poles Fixed (left connectors)",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t4-3-poles-fixed-left-connectors-665972befd",
+      "recordPath": "equipment/mfr-abb-t4-3-poles-fixed-left-connectors-665972befd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t4-3-poles-fixed-left-connectors-665972befd.json"
+    },
+    {
+      "id": "mfr-abb-t4-4-poles-fixed-left-connectors-06cad14f0b",
+      "name": "T4 4 poles Fixed (left connectors)",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t4-4-poles-fixed-left-connectors-06cad14f0b",
+      "recordPath": "equipment/mfr-abb-t4-4-poles-fixed-left-connectors-06cad14f0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t4-4-poles-fixed-left-connectors-06cad14f0b.json"
+    },
+    {
+      "id": "mfr-abb-t4-4-poles-fixed-right-connectors-be7d04de8f",
+      "name": "T4 4 poles Fixed (right connectors)",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t4-4-poles-fixed-right-connectors-be7d04de8f",
+      "recordPath": "equipment/mfr-abb-t4-4-poles-fixed-right-connectors-be7d04de8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t4-4-poles-fixed-right-connectors-be7d04de8f.json"
+    },
+    {
+      "id": "mfr-abb-t4-4-poles-plug-in-fixed-part-right-connectors-9f8ba5e0ce",
+      "name": "T4 4 poles Plug-in fixed part (right connectors)",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t4-4-poles-plug-in-fixed-part-right-connectors-9f8ba5e0ce",
+      "recordPath": "equipment/mfr-abb-t4-4-poles-plug-in-fixed-part-right-connectors-9f8ba5e0ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t4-4-poles-plug-in-fixed-part-right-connectors-9f8ba5e0ce.json"
+    },
+    {
+      "id": "mfr-abb-t5-3-poles-withdrawable-plug-in-fixed-part-left-connectors-21a46ac326",
+      "name": "T5 3 poles Withdrawable Plug-in fixed part (left connectors)",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t5-3-poles-withdrawable-plug-in-fixed-part-left-connectors-21a46ac326",
+      "recordPath": "equipment/mfr-abb-t5-3-poles-withdrawable-plug-in-fixed-part-left-connectors-21a46ac326.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t5-3-poles-withdrawable-plug-in-fixed-part-left-connectors-21a46ac326.json"
+    },
+    {
+      "id": "mfr-abb-ul-a1-htc-6887ae5929",
+      "name": "UL A1 HTC",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ul-a1-htc-6887ae5929",
+      "recordPath": "equipment/mfr-abb-ul-a1-htc-6887ae5929.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ul-a1-htc-6887ae5929.json"
+    },
+    {
+      "id": "mfr-abb-ul-a1-ltc-884bf252d8",
+      "name": "UL A1 LTC",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ul-a1-ltc-884bf252d8",
+      "recordPath": "equipment/mfr-abb-ul-a1-ltc-884bf252d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ul-a1-ltc-884bf252d8.json"
+    },
+    {
+      "id": "mfr-abb-ul-a2-htc-c5c8947fc8",
+      "name": "UL A2 HTC",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ul-a2-htc-c5c8947fc8",
+      "recordPath": "equipment/mfr-abb-ul-a2-htc-c5c8947fc8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ul-a2-htc-c5c8947fc8.json"
+    },
+    {
+      "id": "mfr-abb-ul-a2-ltc-8d3177e149",
+      "name": "UL A2 LTC",
+      "manufacturer": "ABB",
+      "formats": [
+        "IGES"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ul-a2-ltc-8d3177e149",
+      "recordPath": "equipment/mfr-abb-ul-a2-ltc-8d3177e149.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ul-a2-ltc-8d3177e149.json"
+    },
+    {
+      "id": "mfr-abb-xt2-3p-plug-in-side-connector-for-ekip-touch-hi-touch-36a314db6a",
+      "name": "XT2 3p Plug-in Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-plug-in-side-connector-for-ekip-touch-hi-touch-36a314db6a",
+      "recordPath": "equipment/mfr-abb-xt2-3p-plug-in-side-connector-for-ekip-touch-hi-touch-36a314db6a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt2-3p-plug-in-side-connector-for-ekip-touch-hi-touch-36a314db6a.json"
+    },
+    {
+      "id": "mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-low-02356f7b52",
+      "name": "XT2 3p WITHDRAWABLE EXTERNAL TERMINALS FCCuAl 2x95mm2 LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-low-02356f7b52",
+      "recordPath": "equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-low-02356f7b52.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-low-02356f7b52.json"
+    },
+    {
+      "id": "mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-up-03ffce7125",
+      "name": "XT2 3p WITHDRAWABLE EXTERNAL TERMINALS FCCuAl 2x95mm2 UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-up-03ffce7125",
+      "recordPath": "equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-up-03ffce7125.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt2-3p-withdrawable-external-terminals-fccual-2x95mm2-up-03ffce7125.json"
+    },
+    {
+      "id": "mfr-abb-xt2-3p-withdrawable-external-terminals-low-31b4f4e3da",
+      "name": "XT2 3p WITHDRAWABLE EXTERNAL TERMINALS LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-low-31b4f4e3da",
+      "recordPath": "equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-low-31b4f4e3da.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt2-3p-withdrawable-external-terminals-low-31b4f4e3da.json"
+    },
+    {
+      "id": "mfr-abb-xt2-3p-withdrawable-external-terminals-up-b25e87ce8c",
+      "name": "XT2 3p WITHDRAWABLE EXTERNAL TERMINALS UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-up-b25e87ce8c",
+      "recordPath": "equipment/mfr-abb-xt2-3p-withdrawable-external-terminals-up-b25e87ce8c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt2-3p-withdrawable-external-terminals-up-b25e87ce8c.json"
+    },
+    {
+      "id": "mfr-abb-xt2-4p-fixed-side-connector-for-ekip-touch-hi-touch-9e822c427b",
+      "name": "XT2 4p Fixed Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt2-4p-fixed-side-connector-for-ekip-touch-hi-touch-9e822c427b",
+      "recordPath": "equipment/mfr-abb-xt2-4p-fixed-side-connector-for-ekip-touch-hi-touch-9e822c427b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt2-4p-fixed-side-connector-for-ekip-touch-hi-touch-9e822c427b.json"
+    },
+    {
+      "id": "mfr-abb-xt4-3p-plug-in-side-connector-for-ekip-touch-hi-touch-f9f58ef949",
+      "name": "XT4 3p Plug-in Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-plug-in-side-connector-for-ekip-touch-hi-touch-f9f58ef949",
+      "recordPath": "equipment/mfr-abb-xt4-3p-plug-in-side-connector-for-ekip-touch-hi-touch-f9f58ef949.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-3p-plug-in-side-connector-for-ekip-touch-hi-touch-f9f58ef949.json"
+    },
+    {
+      "id": "mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-low-ee590cfdfd",
+      "name": "XT4 3p WITHDRAWABLE EXTERNAL TERMINALS FCCuAl 2x150mm2 LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-low-ee590cfdfd",
+      "recordPath": "equipment/mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-low-ee590cfdfd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-low-ee590cfdfd.json"
+    },
+    {
+      "id": "mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-up-643a0b11d9",
+      "name": "XT4 3p WITHDRAWABLE EXTERNAL TERMINALS FCCuAl 2x150mm2 UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-up-643a0b11d9",
+      "recordPath": "equipment/mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-up-643a0b11d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-3p-withdrawable-external-terminals-fccual-2x150mm2-up-643a0b11d9.json"
+    },
+    {
+      "id": "mfr-abb-xt4-4p-fixed-side-connector-for-ekip-touch-hi-touch-7c5c2a9d5b",
+      "name": "XT4 4p Fixed Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-fixed-side-connector-for-ekip-touch-hi-touch-7c5c2a9d5b",
+      "recordPath": "equipment/mfr-abb-xt4-4p-fixed-side-connector-for-ekip-touch-hi-touch-7c5c2a9d5b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-fixed-side-connector-for-ekip-touch-hi-touch-7c5c2a9d5b.json"
+    },
+    {
+      "id": "mfr-abb-xt4-4p-plug-in-side-connector-for-ekip-touch-hi-touch-a00f941dad",
+      "name": "XT4 4p Plug-in Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-plug-in-side-connector-for-ekip-touch-hi-touch-a00f941dad",
+      "recordPath": "equipment/mfr-abb-xt4-4p-plug-in-side-connector-for-ekip-touch-hi-touch-a00f941dad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-plug-in-side-connector-for-ekip-touch-hi-touch-a00f941dad.json"
+    },
+    {
+      "id": "mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-low-ba5f5df419",
+      "name": "XT4 4p WITHDRAWABLE EXTERNAL TERMINALS FCCuAl 2x150mm2 LOW",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-low-ba5f5df419",
+      "recordPath": "equipment/mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-low-ba5f5df419.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-low-ba5f5df419.json"
+    },
+    {
+      "id": "mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-up-341ded7f56",
+      "name": "XT4 4p WITHDRAWABLE EXTERNAL TERMINALS FCCuAl 2x150mm2 UP",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-up-341ded7f56",
+      "recordPath": "equipment/mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-up-341ded7f56.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-withdrawable-external-terminals-fccual-2x150mm2-up-341ded7f56.json"
+    },
+    {
+      "id": "mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5",
+      "name": "XT4 4p Withdrawable Side connector for Ekip Touch/Hi-Touch",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5",
+      "recordPath": "equipment/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt4-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-30675649f5.json"
+    },
+    {
+      "id": "mfr-abb-ymf-mb10862set-d66178ba14",
+      "name": "YMF-MB10862SET",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ymf-mb10862set-d66178ba14",
+      "recordPath": "equipment/mfr-abb-ymf-mb10862set-d66178ba14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ymf-mb10862set-d66178ba14.json"
+    },
+    {
+      "id": "mfr-abb-for-ins-135-connector-set-707b702d25",
+      "name": "for INS-135 Connector set",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-for-ins-135-connector-set-707b702d25",
+      "recordPath": "equipment/mfr-abb-for-ins-135-connector-set-707b702d25.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-for-ins-135-connector-set-707b702d25.json"
+    },
+    {
+      "id": "mfr-abb-t-al26-contactor-with-ca5-4-pole-aux-contact-block-a4f2d4c98e",
+      "name": "(T)AL26 contactor with CA5 4-pole aux. contact block",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t-al26-contactor-with-ca5-4-pole-aux-contact-block-a4f2d4c98e",
+      "recordPath": "equipment/mfr-abb-t-al26-contactor-with-ca5-4-pole-aux-contact-block-a4f2d4c98e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t-al26-contactor-with-ca5-4-pole-aux-contact-block-a4f2d4c98e.json"
+    },
+    {
+      "id": "mfr-abb-flexgripper-clamp-rev01-02267b25f7",
+      "name": "/ , FlexGripper Clamp, rev01",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-flexgripper-clamp-rev01-02267b25f7",
+      "recordPath": "equipment/mfr-abb-flexgripper-clamp-rev01-02267b25f7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-flexgripper-clamp-rev01-02267b25f7.json"
+    },
+    {
+      "id": "mfr-abb-1-pole-cb5-01-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-48241d889c",
+      "name": "1-pole CB5-01 impulse contact block with AF09...AF96 3- and 4pole contactors",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1-pole-cb5-01-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-48241d889c",
+      "recordPath": "equipment/mfr-abb-1-pole-cb5-01-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-48241d889c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1-pole-cb5-01-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-48241d889c.json"
+    },
+    {
+      "id": "mfr-abb-1-pole-cb5-10-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-70d33d8936",
+      "name": "1-pole CB5-10 impulse contact block with AF09...AF96 3- and 4pole contactors",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1-pole-cb5-10-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-70d33d8936",
+      "recordPath": "equipment/mfr-abb-1-pole-cb5-10-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-70d33d8936.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1-pole-cb5-10-impulse-contact-block-with-af09-af96-3-and-4pole-contactors-70d33d8936.json"
+    },
+    {
+      "id": "mfr-abb-10103091sh115-heavy-dbl-throw-safety-switch-30-60a-nema-1-encl-0e1e77e897",
+      "name": "10103091SH115 - Heavy DBL Throw Safety Switch-30&60A NEMA 1 Encl",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-10103091sh115-heavy-dbl-throw-safety-switch-30-60a-nema-1-encl-0e1e77e897",
+      "recordPath": "equipment/mfr-abb-10103091sh115-heavy-dbl-throw-safety-switch-30-60a-nema-1-encl-0e1e77e897.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-10103091sh115-heavy-dbl-throw-safety-switch-30-60a-nema-1-encl-0e1e77e897.json"
+    },
+    {
+      "id": "mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-4-pole-contactors-2bb28ce96f",
+      "name": "4-pole CA4 aux. contact block with AF26, AF38 4-pole contactors",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-4-pole-contactors-2bb28ce96f",
+      "recordPath": "equipment/mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-4-pole-contactors-2bb28ce96f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-4-pole-contactors-2bb28ce96f.json"
+    }
+  ]
+}

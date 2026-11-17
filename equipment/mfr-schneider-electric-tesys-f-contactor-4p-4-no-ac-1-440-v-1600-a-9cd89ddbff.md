@@ -1,0 +1,131 @@
+# Schneider Electric — TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A
+
+Schneider Electric TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A: original DXF / STEP for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A.
+
+## Equipment and file summary
+
+- Equipment / resource: TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Manufacturer drawing identity: TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A
+- Named pole configuration: 4P
+- Source document: MCADPD0004523\_3D-CAD; revision 1.0
+- Source-model envelope: 862 × 254 × 434 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A ([source](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/))
+- Named pole configuration: 4P ([source](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/))
+- Source document: MCADPD0004523\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=MCADPD0004523_2D-front.dxf&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD))
+- Source document: MCADPD0004523\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=MCADPD0004523_3D-simplified.stp&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD))
+- Source-model envelope: 862 × 254 × 434 mm ([source](https://download.se.com/files?p_File_Name=MCADPD0004523_3D-simplified.stp&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/))
+
+## What the equipment does
+
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
+
+Use MCADPD0004523\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout.
+
+Use MCADPD0004523\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. Use MCADPD0004523\_3D-simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified MCADPD0004523\_3D-simplified.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A and the exact source filename shown above.
+- Named pole configuration: 4P
+- The supplied model has approximate X × Y × Z bounds of 862 × 254 × 434 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: MCADPD0004523\_2D-front.dxf — 1.0; MCADPD0004523\_3D-simplified.stp — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A?
+
+2 inspected originals for Schneider Electric TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A: MCADPD0004523\_2D-front.dxf (DXF); MCADPD0004523\_3D-simplified.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/MCADPD0004523\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/)
+
+## Choosing a file
+
+Use MCADPD0004523\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. Use MCADPD0004523\_3D-simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified MCADPD0004523\_3D-simplified.stp.
+
+## Preview
+
+![Schneider Electric TeSys F contactor - 4P (4 NO) - AC-1 - \<= 440 V 1600 A: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff/se-9e2203fbb5750f28a1ac?asset=ada77b701ca50edd5cd5afe9c36b2dc60b1cd171d69806c8137d8742c81de861&view=thumb&v=d0916ad806347944)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### MCADPD0004523\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://download.se.com/files?p_File_Name=MCADPD0004523_2D-front.dxf&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff/se-b28b269a6a1107284aeb)
+- Redistribution: unknown
+- Original SHA-256: 346f768b3e771894579e5e51de2afd63a5b55d69ff487d1f4fd15dd8b52c7ef0
+- Original bytes: 82718
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:43:41.998824+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=MCADPD0004523_2D-front.dxf&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD)
+- Delivery: original; DXF; 82718 bytes
+- Delivery SHA-256: 346f768b3e771894579e5e51de2afd63a5b55d69ff487d1f4fd15dd8b52c7ef0
+
+### MCADPD0004523\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://download.se.com/files?p_File_Name=MCADPD0004523_3D-simplified.stp&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-tesys-f-contactor-4p-4-no-ac-1-440-v-1600-a-9cd89ddbff/se-9e2203fbb5750f28a1ac)
+- Redistribution: unknown
+- Original SHA-256: ada77b701ca50edd5cd5afe9c36b2dc60b1cd171d69806c8137d8742c81de861
+- Original bytes: 1532152
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:21:25.166295+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/MCADPD0004523_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=MCADPD0004523_3D-simplified.stp&p_Doc_Ref=MCADPD0004523_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 270947 bytes
+- Delivery SHA-256: 69752294389f700bd17c2e130dd51a2e4821be3cd9b4990e58ac22b176e4cded
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

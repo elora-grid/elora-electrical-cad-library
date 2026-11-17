@@ -8,7 +8,7 @@ ABB 39LYE366\_21.69: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 39LYE366\_21.69; 39LYE366
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “39LYE366\_21.69”. Keep those frame, mounting 
 - Model envelope: 39LYE366\_21.69.step: 550.9 × 304.2 × 387.9 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 39LYE366\_23.19; 39LYE366
 - Manufacturer reference: 39LYE366
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 9
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 11
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
@@ -121,6 +121,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 854391 bytes
 - Delivery SHA-256: c2ba851e1d125e86b57f4ac2e60984b60a6d682ff45026c6d62e5e5c2a8f19d6
 
+### 39LYE366\_21.69.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (39LYE366\_21.69.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-39lye366-21-69-dwg-2d-autocad-dwg-2000-7b5c323e7b/c2ba851e1d125e86b57f-dxf)
+- Redistribution: unknown
+- Original SHA-256: c2ba851e1d125e86b57f4ac2e60984b60a6d682ff45026c6d62e5e5c2a8f19d6
+- Original bytes: 854391
+- Revision: E
+- Retrieved: 2026-11-04T01:00:19Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_21.69&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Delivery: converted; DXF; 1917887 bytes
+- Delivery SHA-256: 784519a955e6751d9d66f386db169297acc317849607f5e9ccc43aed87d0d320
+
 ### 39LYE366.pdf
 
 - Format: PDF
@@ -177,6 +196,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; DWG; 854556 bytes
 - Delivery SHA-256: 0d571ac576c1510ca071bb9874613c81616396a8c9ed3c99b86e92c04ea9e35a
+
+### 39LYE366\_23.19.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (39LYE366\_23.19.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-39lye366-21-69-dwg-2d-autocad-dwg-2000-7b5c323e7b/0d571ac576c1510ca071-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0d571ac576c1510ca071bb9874613c81616396a8c9ed3c99b86e92c04ea9e35a
+- Original bytes: 854556
+- Revision: E
+- Retrieved: 2026-11-04T01:00:20Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=39LYE366_23.19&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
+- Delivery: converted; DXF; 1914282 bytes
+- Delivery SHA-256: caa6781392f174e89d72c10460021c99fad7bfd9f2f60a7790312356d3c97a37
 
 ### 39LYE366\_23.19.step
 

@@ -22,6 +22,7 @@ The STEP assembly includes TDR-960 and TDR-960-3D identifiers. Verify required i
 - Manufacturer: MEAN WELL
 - Resource type: Product family
 - Part number: TDR-960-24, TDR-960-48
+- Standards: UL 508, AS/NZS 62368.1, IEC 62368-1, EN 55032, IEC 61204-3, IEC 61000-3-2, EN 55035, IEC 61000-6-2, EN 50082-2
 - Listed file formats: STEP, ZIP
 - Listed files: 1
 - Available previews: 1 interactive model variants

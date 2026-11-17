@@ -1,0 +1,160 @@
+# Weidmüller — WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C
+
+Weidmüller WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1305310000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1305310000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1305310000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wdt-2-5-bt/p/1305310000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1305310000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1305310000
+- Manufacturer reference: 1305310000
+- Manufacturer type: WDT 2.5 BT
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1305310000 ([source](https://eshop.weidmueller.com.cn/en/wdt-2-5-bt/p/1305310000/downloads#engineering-support))
+- Manufacturer type: WDT 2.5 BT ([source](https://eshop.weidmueller.com.cn/en/wdt-2-5-bt/p/1305310000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wdt-2-5-bt/p/1305310000/downloads#engineering-support))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+1305310000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1305310000\_back.DXF, 1305310000\_bottom.DXF, 1305310000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C before placing it.
+
+1305310000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1305310000\_back.DXF, 1305310000\_bottom.DXF, 1305310000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C before placing it. Use 1305310000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1305310000.stp. 1305310000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1305310000\_back.DWG, 1305310000\_bottom.DWG, 1305310000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1305310000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C?
+
+3 inspected originals for Weidmüller WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C: 1305310000\_DXF.zip (ZIP); 1305310000.stp (STEP); 1305310000\_DWG.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wdt-2-5-bt/p/1305310000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wdt-2-5-bt/p/1305310000/downloads#engineering-support)
+
+## Choosing a file
+
+1305310000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1305310000\_back.DXF, 1305310000\_bottom.DXF, 1305310000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C before placing it. Use 1305310000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1305310000.stp. 1305310000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1305310000\_back.DWG, 1305310000\_bottom.DWG, 1305310000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WDT 2.5 BT — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of levels: 1, TS 35, V-0, Wemid, 120 °C before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1305310000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/0769cd45-ed44-48f9-afad-0bc7e68feafe/original/1305310000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1305310000/native-7ab67c8ea9758769ec908d57-zip)
+- Redistribution: unknown
+- Original SHA-256: 7ab67c8ea9758769ec908d57d71b33ae658fb89faca2cac633338c33eec4e490
+- Original bytes: 38651
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/0769cd45-ed44-48f9-afad-0bc7e68feafe/original/1305310000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/0769cd45-ed44-48f9-afad-0bc7e68feafe/original/1305310000_DXF.zip)
+- Delivery: original; ZIP; 38651 bytes
+- Delivery SHA-256: 7ab67c8ea9758769ec908d57d71b33ae658fb89faca2cac633338c33eec4e490
+
+<details>
+<summary>Archive members</summary>
+
+- 1305310000\_back.DXF
+- 1305310000\_bottom.DXF
+- 1305310000\_front.DXF
+- 1305310000\_left.DXF
+- 1305310000\_right.DXF
+- 1305310000\_top.DXF
+
+</details>
+
+### 1305310000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/663eef3c-2148-416d-97eb-fa1efb487212/original/1305310000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1305310000/native-2c2bbb3aef46134d7e6d1c76-step)
+- Redistribution: unknown
+- Original SHA-256: 2c2bbb3aef46134d7e6d1c768201bf2be4ab11f96b7c8f77abd3072b40e9c3ff
+- Original bytes: 556864
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/663eef3c-2148-416d-97eb-fa1efb487212/original/1305310000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/663eef3c-2148-416d-97eb-fa1efb487212/original/1305310000.stp)
+- Delivery: source-bundle; ZIP; 97803 bytes
+- Delivery SHA-256: af8a7fd4dca1104777b485b113830c4073a6d8756dd4ca75493e7c1799efaf47
+
+### 1305310000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/4a9e5f0b-9468-4383-ad4e-53962f05e80b/original/1305310000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1305310000/native-ea7b0e0719d1ba8e6bc04586-zip)
+- Redistribution: unknown
+- Original SHA-256: ea7b0e0719d1ba8e6bc0458612848cf48acaf079a9d2a6100bd8cf63f192217f
+- Original bytes: 59809
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/4a9e5f0b-9468-4383-ad4e-53962f05e80b/original/1305310000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/4a9e5f0b-9468-4383-ad4e-53962f05e80b/original/1305310000_DWG.zip)
+- Delivery: original; ZIP; 59809 bytes
+- Delivery SHA-256: ea7b0e0719d1ba8e6bc0458612848cf48acaf079a9d2a6100bd8cf63f192217f
+
+<details>
+<summary>Archive members</summary>
+
+- 1305310000\_back.DWG
+- 1305310000\_bottom.DWG
+- 1305310000\_front.DWG
+- 1305310000\_left.DWG
+- 1305310000\_right.DWG
+- 1305310000\_top.DWG
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

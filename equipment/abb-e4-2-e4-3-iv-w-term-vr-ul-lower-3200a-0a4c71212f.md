@@ -8,7 +8,7 @@ ABB E4.2/E4.3 IV W TERM VR UL LOWER 3200A: breaker or breaker-accessory referenc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0374
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “E4.2/E4.3 IV W TERM VR UL LOWER 3200A”. Keep 
 - Manufacturer reference: 1SDH001252R0374
 - Document revision: -
 - Model envelope: 1SDH001252R0374\_1PA\_001\_00\_1SDH001252R0374\_1PA\_001\_00\_E4.2\_IV\_W\_TERM\_V\_UL\_LOWER\_3200A.stp: 502.7 × 223.4 × 120 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0374&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 3697106 bytes
 - Delivery SHA-256: 03c7563434040f8bff81b60dbb36faf8179ced23ad4fbc4a482ec3f0b311bd67
+
+### 1SDH001252R0374\_1PA\_001\_00\_1SDH001252R0374\_1PA\_001\_00\_E4.2\_IV\_W\_TERM\_V\_UL\_LOWER\_3200A.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0374\_1PA\_001\_00\_1SDH001252R0374\_1PA\_001\_00\_E4.2\_IV\_W\_TERM\_V\_UL\_LOWER\_3200A.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0374&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-w-term-vr-ul-lower-3200a-0a4c71212f/03c7563434040f8bff81-dxf)
+- Redistribution: unknown
+- Original SHA-256: 03c7563434040f8bff81b60dbb36faf8179ced23ad4fbc4a482ec3f0b311bd67
+- Original bytes: 3697106
+- Revision: -
+- Retrieved: 2026-11-03T02:02:14.623420Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0374&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0374&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 557861 bytes
+- Delivery SHA-256: 2d86b53c77a3809cd050dae26ca529686ed21baf074f1bf92a760f64d35d20c5
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

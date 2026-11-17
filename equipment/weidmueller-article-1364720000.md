@@ -1,0 +1,160 @@
+# Weidmüller — WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid
+
+Weidmüller WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1364720000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1364720000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1364720000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wtr-4zz-stb-gr/p/1364720000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1364720000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1364720000
+- Manufacturer reference: 1364720000
+- Manufacturer type: WTR 4/ZZ STB GR
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1364720000 ([source](https://eshop.weidmueller.com.cn/en/wtr-4zz-stb-gr/p/1364720000/downloads#engineering-support))
+- Manufacturer type: WTR 4/ZZ STB GR ([source](https://eshop.weidmueller.com.cn/en/wtr-4zz-stb-gr/p/1364720000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wtr-4zz-stb-gr/p/1364720000/downloads#engineering-support))
+
+## What the equipment does
+
+A disconnect terminal provides a wire connection that can be opened at a defined point for the selected testing or isolation arrangement.
+
+1364720000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1364720000\_back.DWG, 1364720000\_bottom.DWG, 1364720000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+1364720000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1364720000\_back.DWG, 1364720000\_bottom.DWG, 1364720000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it. Use 1364720000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1364720000.stp. 1364720000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1364720000\_back.DXF, 1364720000\_bottom.DXF, 1364720000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1364720000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid?
+
+3 inspected originals for Weidmüller WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid: 1364720000\_DWG.zip (ZIP); 1364720000.stp (STEP); 1364720000\_DXF.zip (ZIP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wtr-4zz-stb-gr/p/1364720000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wtr-4zz-stb-gr/p/1364720000/downloads#engineering-support)
+
+## Choosing a file
+
+1364720000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1364720000\_back.DWG, 1364720000\_bottom.DWG, 1364720000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it. Use 1364720000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1364720000.stp. 1364720000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1364720000\_back.DXF, 1364720000\_bottom.DXF, 1364720000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WTR 4/ZZ STB GR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, grey, 4 mm², 27 A, 500 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid before placing it.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1364720000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a28b1b16-dba4-4b70-99fa-1b020dc29ade/original/1364720000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1364720000/native-bb6cf374aa90cadbc4f9f620-zip)
+- Redistribution: unknown
+- Original SHA-256: bb6cf374aa90cadbc4f9f6207892887af2727f727d09b995aa17c78d8b2a9321
+- Original bytes: 65467
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/a28b1b16-dba4-4b70-99fa-1b020dc29ade/original/1364720000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a28b1b16-dba4-4b70-99fa-1b020dc29ade/original/1364720000_DWG.zip)
+- Delivery: original; ZIP; 65467 bytes
+- Delivery SHA-256: bb6cf374aa90cadbc4f9f6207892887af2727f727d09b995aa17c78d8b2a9321
+
+<details>
+<summary>Archive members</summary>
+
+- 1364720000\_back.DWG
+- 1364720000\_bottom.DWG
+- 1364720000\_front.DWG
+- 1364720000\_left.DWG
+- 1364720000\_right.DWG
+- 1364720000\_top.DWG
+
+</details>
+
+### 1364720000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/a897a6e9-3b73-433e-8c63-c3b2ac10dea9/original/1364720000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1364720000/native-237372179bb8ce5e57dc9a96-step)
+- Redistribution: unknown
+- Original SHA-256: 237372179bb8ce5e57dc9a960e856acd5c4fd76b6a486b87a6183a2703274093
+- Original bytes: 711670
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/a897a6e9-3b73-433e-8c63-c3b2ac10dea9/original/1364720000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/a897a6e9-3b73-433e-8c63-c3b2ac10dea9/original/1364720000.stp)
+- Delivery: source-bundle; ZIP; 127013 bytes
+- Delivery SHA-256: f740f57bc7557833d60558c61bac364a4307937144343bd06c68f2b89ce1ad04
+
+### 1364720000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/09b0fb1d-347f-4734-b5a1-60a54167e122/original/1364720000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1364720000/native-68b270e30556d50e857abd0c-zip)
+- Redistribution: unknown
+- Original SHA-256: 68b270e30556d50e857abd0ce969c0eb67d0a81d0668219a2af07956ca2b13c7
+- Original bytes: 58598
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/09b0fb1d-347f-4734-b5a1-60a54167e122/original/1364720000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/09b0fb1d-347f-4734-b5a1-60a54167e122/original/1364720000_DXF.zip)
+- Delivery: original; ZIP; 58598 bytes
+- Delivery SHA-256: 68b270e30556d50e857abd0ce969c0eb67d0a81d0668219a2af07956ca2b13c7
+
+<details>
+<summary>Archive members</summary>
+
+- 1364720000\_back.DXF
+- 1364720000\_bottom.DXF
+- 1364720000\_front.DXF
+- 1364720000\_left.DXF
+- 1364720000\_right.DXF
+- 1364720000\_top.DXF
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

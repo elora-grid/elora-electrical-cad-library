@@ -8,7 +8,7 @@ ABB 37LYQ506.\_17.87: motor outline for motor footprint and drive-end arrangemen
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 37LYQ506.\_17.87; 37LYQ506
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -27,8 +27,8 @@ The supplied configuration is “37LYQ506.\_17.87”. Keep those frame, mounting
 - Manufacturer reference: 37LYQ506.\_17.87; 37LYQ506
 - Document revision: A
 - Manufacturer reference: 37LYQ506
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 6
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -109,6 +109,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=37LYQ506._17.87&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1037157 bytes
 - Delivery SHA-256: c4463a3ccffd3b5dfc62be610e9bfe773db9de604cb04e7da31fd64dd7f4cb9f
+
+### 37LYQ506.\_17.87.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (37LYQ506.\_17.87.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=37LYQ506._17.87&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-37lyq506-17-87-dwg-2d-autocad-dwg-2000-5dcd6d274b/c4463a3ccffd3b5dfc62-dxf)
+- Redistribution: unknown
+- Original SHA-256: c4463a3ccffd3b5dfc62be610e9bfe773db9de604cb04e7da31fd64dd7f4cb9f
+- Original bytes: 1037157
+- Revision: A
+- Retrieved: 2026-11-04T01:00:49Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=37LYQ506._17.87&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=37LYQ506._17.87&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 2589762 bytes
+- Delivery SHA-256: 0f0d157c9ef76feaebbe531d286d6f00198feee29eec16dbd20bca2a6fb62f81
 
 ### 37LYQ506.pdf
 

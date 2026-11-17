@@ -25,6 +25,7 @@ Manufacturer reference fas-has-lsu-2d-pdf.pdf; fas-has-lsu-3d-pdf.pdf; fas-has-l
 - Manufacturer drawing: fas-has-lsu-2d-pdf.pdf; fas-has-lsu-3d-pdf.pdf; fas-has-lsu-3d-step-file.zip
 - Manufacturer reference: fas-has-lsu-2d-pdf.pdf; fas-has-lsu-3d-pdf.pdf; fas-has-lsu-3d-step-file.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 3
 - Available previews: Manufacturer source / drawing request

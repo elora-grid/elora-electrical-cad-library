@@ -26,6 +26,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Source configurations grouped on this page: GPU-3; PPU-3
 - Manufacturer reference: application-notes-interfacing-deif-equipment-4189340670-fr.pdf; ccs\_gb20ptb00017\_01\_uk.pdf; ml-2-2d-cad-drawings.zip; option-h6-cummins-gcs-communication-4189340698-uk.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 60688, IEC 60751, IEC 61010-1, UL 508, IEC 61000-6-2, IEC 61000-6-4, IEC 60255-26, IEC 60529, UL 2200
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

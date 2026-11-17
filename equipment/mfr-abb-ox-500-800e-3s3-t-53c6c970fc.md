@@ -1,0 +1,109 @@
+# ABB — OX 500-800E 3S3 T
+
+ABB OX 500-800E 3S3 T: original STEP for switching or transfer equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ox-500-800e-3s3-t-53c6c970fc) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ox-500-800e-3s3-t-53c6c970fc.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ox-500-800e-3s3-t-53c6c970fc.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named OX 500-800E 3S3 T.
+
+## Equipment and file summary
+
+- Equipment / resource: OX 500-800E 3S3 T
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: OX 500-800E 3S3 T
+- Source document: OX\_500-800E\_3S3\_T\_.STP; revision A
+- Source-model envelope: 512 × 312.5 × 210 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: OX 500-800E 3S3 T ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: OX\_500-800E\_3S3\_T\_.STP; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 512 × 312.5 × 210 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use OX\_500-800E\_3S3\_T\_.STP.stp (revision A) to place the original solid geometry in your 3D assembly.
+
+Use OX\_500-800E\_3S3\_T\_.STP.stp (revision A) to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB OX 500-800E 3S3 T and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 512 × 312.5 × 210 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: OX\_500-800E\_3S3\_T\_.STP.stp — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OX 500-800E 3S3 T?
+
+1 inspected original for ABB OX 500-800E 3S3 T: OX\_500-800E\_3S3\_T\_.STP.stp (STEP).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=OX\_500-800E\_3S3\_T\_.STP&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use OX\_500-800E\_3S3\_T\_.STP.stp (revision A) to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB OX 500-800E 3S3 T: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-ox-500-800e-3s3-t-53c6c970fc/abb-4c50ca0605ac872e477c?asset=5ab484bf65fb590203790d919ce6dce0a3c2a0d64f8b1342ecb95d4b8ac6c300&view=thumb&v=da6c1e0b4451ea42)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ox-500-800e-3s3-t-53c6c970fc). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OX\_500-800E\_3S3\_T\_.STP.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ox-500-800e-3s3-t-53c6c970fc/abb-4c50ca0605ac872e477c)
+- Redistribution: unknown
+- Original SHA-256: 5ab484bf65fb590203790d919ce6dce0a3c2a0d64f8b1342ecb95d4b8ac6c300
+- Original bytes: 3609101
+- Revision: A
+- Retrieved: 2026-11-11T06:30:48.470654+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OX_500-800E_3S3_T_.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; STEP; 3609101 bytes
+- Delivery SHA-256: 5ab484bf65fb590203790d919ce6dce0a3c2a0d64f8b1342ecb95d4b8ac6c300
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

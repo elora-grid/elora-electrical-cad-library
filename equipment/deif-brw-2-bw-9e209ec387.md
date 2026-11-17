@@ -25,6 +25,7 @@ Manufacturer reference dnv-rai-b-medb00003an-uk.pdf; brw-bw-2d-cad-drawings.zip;
 - Manufacturer drawing: dnv-rai-b-medb00003an-uk.pdf; brw-bw-2d-cad-drawings.zip; brw-bw-2d-pdfs.zip
 - Manufacturer reference: dnv-rai-b-medb00003an-uk.pdf; brw-bw-2d-cad-drawings.zip; brw-bw-2d-pdfs.zip; brw-bw-3d-pdfs.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60051, IEC 60945, IEC 60529, IEC 61010-1, IEC 61000-6
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

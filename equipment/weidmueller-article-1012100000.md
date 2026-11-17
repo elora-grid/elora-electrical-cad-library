@@ -1,0 +1,160 @@
+# Weidmüller — WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige
+
+Weidmüller WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1012100000) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1012100000.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1012100000.json) · [Official manufacturer source](https://eshop.weidmueller.com.cn/en/wsi-6o-tnhe/p/1012100000/downloads#engineering-support)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 1012100000
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige
+- Manufacturer: Weidmüller
+- Resource type: Product
+- Part number: 1012100000
+- Manufacturer reference: 1012100000
+- Manufacturer type: WSI 6/O.TNHE
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 1012100000 ([source](https://eshop.weidmueller.com.cn/en/wsi-6o-tnhe/p/1012100000/downloads#engineering-support))
+- Manufacturer type: WSI 6/O.TNHE ([source](https://eshop.weidmueller.com.cn/en/wsi-6o-tnhe/p/1012100000/downloads#engineering-support))
+- Available native formats: DWG / DXF / STEP ([source](https://eshop.weidmueller.com.cn/en/wsi-6o-tnhe/p/1012100000/downloads#engineering-support))
+
+## What the equipment does
+
+A fused terminal combines a wire connection point with a fuse holder so a branch circuit can be connected and protected in one assembly.
+
+1012100000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1012100000\_back.DXF, 1012100000\_bottom.DXF, 1012100000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige before placing it.
+
+1012100000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1012100000\_back.DXF, 1012100000\_bottom.DXF, 1012100000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige before placing it. 1012100000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1012100000\_back.DWG, 1012100000\_bottom.DWG, 1012100000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige before placing it. Use 1012100000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1012100000.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Weidmüller 1012100000 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige?
+
+3 inspected originals for Weidmüller WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige: 1012100000\_DXF.zip (ZIP); 1012100000\_DWG.zip (ZIP); 1012100000.stp (STEP).
+
+### Where did these Weidmüller files come from?
+
+Weidmüller supplied the original files through https://eshop.weidmueller.com.cn/en/wsi-6o-tnhe/p/1012100000/downloads#engineering-support. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Weidmüller official source](https://eshop.weidmueller.com.cn/en/wsi-6o-tnhe/p/1012100000/downloads#engineering-support)
+
+## Choosing a file
+
+1012100000\_DXF.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1012100000\_back.DXF, 1012100000\_bottom.DXF, 1012100000\_front.DXF. Open the unmodified archive for its complete contents. Match the member to WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige before placing it. 1012100000\_DWG.zip is the original Weidmüller archive. Its 6 indexed drawing/model members include 1012100000\_back.DWG, 1012100000\_bottom.DWG, 1012100000\_front.DWG. Open the unmodified archive for its complete contents. Match the member to WSI 6/O.TNHE — Fuse terminal block / Fuse terminal, Screw connection, for screwable cross-connection, One end without connector, Screw connection, 6 mm², 250 V, dark beige before placing it. Use 1012100000.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 1012100000.stp.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1012100000\_DXF.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/c41ba7a1-75f7-46a0-aa35-5d649f30344d/original/1012100000_DXF.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1012100000/native-ea29527c6480d7544b90da0c-zip)
+- Redistribution: unknown
+- Original SHA-256: ea29527c6480d7544b90da0c05e35ab1bbb6419a778cbd63f3d4c3de3f47c54d
+- Original bytes: 42553
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/c41ba7a1-75f7-46a0-aa35-5d649f30344d/original/1012100000_DXF.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/c41ba7a1-75f7-46a0-aa35-5d649f30344d/original/1012100000_DXF.zip)
+- Delivery: original; ZIP; 42553 bytes
+- Delivery SHA-256: ea29527c6480d7544b90da0c05e35ab1bbb6419a778cbd63f3d4c3de3f47c54d
+
+<details>
+<summary>Archive members</summary>
+
+- 1012100000\_back.DXF
+- 1012100000\_bottom.DXF
+- 1012100000\_front.DXF
+- 1012100000\_left.DXF
+- 1012100000\_right.DXF
+- 1012100000\_top.DXF
+
+</details>
+
+### 1012100000\_DWG.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://assets.dam.weidmueller.com/assets/api/9e357df5-2f9b-4a47-9ae3-8a7b9b1a2e12/original/1012100000_DWG.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1012100000/native-54d53a501103521331840818-zip)
+- Redistribution: unknown
+- Original SHA-256: 54d53a5011035213318408188b377b41481930ea28c1b9d2d656d26fdc8cd205
+- Original bytes: 50280
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/9e357df5-2f9b-4a47-9ae3-8a7b9b1a2e12/original/1012100000_DWG.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/9e357df5-2f9b-4a47-9ae3-8a7b9b1a2e12/original/1012100000_DWG.zip)
+- Delivery: original; ZIP; 50280 bytes
+- Delivery SHA-256: 54d53a5011035213318408188b377b41481930ea28c1b9d2d656d26fdc8cd205
+
+<details>
+<summary>Archive members</summary>
+
+- 1012100000\_back.DWG
+- 1012100000\_bottom.DWG
+- 1012100000\_front.DWG
+- 1012100000\_left.DWG
+- 1012100000\_right.DWG
+- 1012100000\_top.DWG
+
+</details>
+
+### 1012100000.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://assets.dam.weidmueller.com/assets/api/718f9188-dd09-4788-884f-95be01ac1590/original/1012100000.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/weidmueller-article-1012100000/native-f6ec4dc66bafddf930ae0621-step)
+- Redistribution: unknown
+- Original SHA-256: f6ec4dc66bafddf930ae0621931fd64d859b12a75d0a405f7b665513dad43726
+- Original bytes: 627904
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Weidmüller
+- [Hosting evidence](https://assets.dam.weidmueller.com/assets/api/718f9188-dd09-4788-884f-95be01ac1590/original/1012100000.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://assets.dam.weidmueller.com/assets/api/718f9188-dd09-4788-884f-95be01ac1590/original/1012100000.stp)
+- Delivery: source-bundle; ZIP; 116478 bytes
+- Delivery SHA-256: a71d697e7206e82a8968fb98cdb42495fb0cfab5a9df223ae951c2577363439e
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

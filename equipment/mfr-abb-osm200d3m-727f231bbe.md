@@ -1,0 +1,132 @@
+# ABB — OSM200D3M
+
+ABB OSM200D3M: original DXF / IGES for switching or transfer equipment layouts. 1SCC318031F0002, OSM200D3M, dxf-file.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm200d3m-727f231bbe) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm200d3m-727f231bbe.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-osm200d3m-727f231bbe.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: DXF, IGES
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+1SCC318031F0002, OSM200D3M, dxf-file
+
+## Equipment and file summary
+
+- Equipment / resource: OSM200D3M
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: 1SCC318031F0002, OSM200D3M, dxf-file
+- Manufacturer drawing identity: OSM200D3M
+- Source document: 1SCC318031F0002; revision B
+- Source document: OSM200D3.IGS; revision A
+- Source-model envelope: 199 × 187.4 × 323 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, IGES
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: B, A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: 1SCC318031F0002, OSM200D3M, dxf-file ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OSM200D3M ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: 1SCC318031F0002; revision B ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B))
+- Source document: OSM200D3.IGS; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OSM200D3.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 199 × 187.4 × 323 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OSM200D3.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 1SCC318031F0002.dxf (revision B) to insert the supplied editable drawing into your layout.
+
+Use 1SCC318031F0002.dxf (revision B) to insert the supplied editable drawing into your layout. Use OSM200D3.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OSM200D3.IGS.igs.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: 1SCC318031F0002, OSM200D3M, dxf-file
+- The supplied model has approximate X × Y × Z bounds of 199 × 187.4 × 323 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: 1SCC318031F0002.dxf — B; OSM200D3.IGS.igs — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OSM200D3M?
+
+2 inspected originals for ABB OSM200D3M: 1SCC318031F0002.dxf (DXF); OSM200D3.IGS.igs (IGES). The manufacturer describes this configuration as 1SCC318031F0002, OSM200D3M, dxf-file.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use 1SCC318031F0002.dxf (revision B) to insert the supplied editable drawing into your layout. Use OSM200D3.IGS.igs (revision A) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified OSM200D3.IGS.igs.
+
+## Preview
+
+![ABB OSM200D3M: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-osm200d3m-727f231bbe/abb-44266c8c5ac273e4125c?asset=7110dc389550f3beb611307b90af0454f9645ae9e0940b1487988a5b153040fe&view=thumb&v=3a6d34dd33c89fd2)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-osm200d3m-727f231bbe). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 1SCC318031F0002.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-osm200d3m-727f231bbe/abb-2d6a84c28ea9d9e28f2c)
+- Redistribution: unknown
+- Original SHA-256: f319c71666669815f330cab94a9bea7ca7c905773d4a84c3dcecbe42c8f77195
+- Original bytes: 3918220
+- Revision: B
+- Retrieved: 2026-11-11T06:32:22.643712+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC318031F0002&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: original; DXF; 3918220 bytes
+- Delivery SHA-256: f319c71666669815f330cab94a9bea7ca7c905773d4a84c3dcecbe42c8f77195
+
+### OSM200D3.IGS.igs
+
+- Format: IGES
+- Purpose: Original manufacturer IGES geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OSM200D3.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-osm200d3m-727f231bbe/abb-44266c8c5ac273e4125c)
+- Redistribution: unknown
+- Original SHA-256: 7110dc389550f3beb611307b90af0454f9645ae9e0940b1487988a5b153040fe
+- Original bytes: 1380716
+- Revision: A
+- Retrieved: 2026-11-11T06:27:42.297739+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OSM200D3.IGS&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OSM200D3.IGS&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: source-bundle; ZIP; 178484 bytes
+- Delivery SHA-256: 811e49fa50898b245d16c244a369311ec3d5e3cff3021f25687c77a4d79c1cb6
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -32,6 +32,7 @@ Use the 1470 ETP column on PDF page 13. The download is the complete catalogue, 
 - Diameter Db (in): 8.7
 - Cantilever Strength, Upright, Pounds: 1750
 - Impulse Withstand, kV: 1470
+- Standards: ANSI C29.9
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

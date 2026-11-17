@@ -8,7 +8,7 @@ ABB XT3 4p PLUG-IN PSR 90mm UP: breaker or breaker-accessory reference for break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0543
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -31,8 +31,8 @@ The supplied configuration is “XT3 4p PLUG-IN PSR 90mm UP”. Keep those frame
 - Model envelope: 1SDH001295R0736\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.stp: 79 × 103 × 55.5 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001295R0780
 - Model envelope: 1SDH001295R0780\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.stp: 79 × 103 × 55.5 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 3
+- Listed file formats: STEP, DXF
+- Listed files: 6
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -117,6 +117,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 67529 bytes
 - Delivery SHA-256: 179ca66d859075f6dde2db7959b82643e0e281b72f34473ca138a3a0c1574332
 
+### 1SDH001295R0543\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0543\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0543&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e/179ca66d859075f6dde2-dxf)
+- Redistribution: unknown
+- Original SHA-256: 179ca66d859075f6dde2db7959b82643e0e281b72f34473ca138a3a0c1574332
+- Original bytes: 67529
+- Revision: A
+- Retrieved: 2026-11-03T01:45:20.412075Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0543&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0543&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 36428 bytes
+- Delivery SHA-256: dca3741862546b460aed25daaf06b0b6cbf026f246cbb1c0a90af29abf00bbc6
+
 ### 1SDH001295R0736\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.stp
 
 - Format: STEP
@@ -136,6 +155,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 67555 bytes
 - Delivery SHA-256: 780893309e50a056689fe33883fb35da66ad9dafa5787dcaf98275b561b7a7ad
 
+### 1SDH001295R0736\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0736\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0736&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e/780893309e50a056689f-dxf)
+- Redistribution: unknown
+- Original SHA-256: 780893309e50a056689fe33883fb35da66ad9dafa5787dcaf98275b561b7a7ad
+- Original bytes: 67555
+- Revision: A
+- Retrieved: 2026-11-03T01:45:27.114644Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0736&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0736&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 36428 bytes
+- Delivery SHA-256: 4ba84fa78a23f84265895d06b2be30d39c8391f878a204beed77a9d21a4fd6c9
+
 ### 1SDH001295R0780\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.stp
 
 - Format: STEP
@@ -154,5 +192,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0780&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 67565 bytes
 - Delivery SHA-256: ba54fb34d7372e0c744d4db8ea3991b1026621146a8d3b88e34b09f75348c598
+
+### 1SDH001295R0780\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0780\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0780&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-psr-90mm-up-02d0d3170e/ba54fb34d7372e0c744d-dxf)
+- Redistribution: unknown
+- Original SHA-256: ba54fb34d7372e0c744d4db8ea3991b1026621146a8d3b88e34b09f75348c598
+- Original bytes: 67565
+- Revision: A
+- Retrieved: 2026-11-03T01:45:27.620043Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0780&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0780&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 36428 bytes
+- Delivery SHA-256: a86273542008cd13d05fbbac14205ffb762e4e41d1f380597a0bfd316a0354e2
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

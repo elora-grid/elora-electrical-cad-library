@@ -1,0 +1,133 @@
+# Allen-Bradley — 100-C FS2 AC DCE 100 S 2POL Contactor
+
+Allen-Bradley 100-C FS2 AC DCE 100 S 2POL Contactor: original DXF / STEP for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 100-C
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named 100-C FS2 AC DCE 100 S 2POL Contactor.
+
+## Equipment and file summary
+
+- Equipment / resource: 100-C FS2 AC DCE 100 S 2POL Contactor
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: 100-C
+- Manufacturer drawing identity: 100-C FS2 AC DCE 100 S 2POL Contactor
+- Source-model envelope: 63 × 81.2 × 106.4 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: 100-C FS2 AC DCE 100 S 2POL Contactor ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 63 × 81.2 × 106.4 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
+
+Use Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf.
+
+Use Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf. Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 100-C\_FS2\_AC\_DCE\_100-S\_2pol.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley 100-C and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 63 × 81.2 × 106.4 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 100-C FS2 AC DCE 100 S 2POL Contactor?
+
+2 inspected originals for Allen-Bradley 100-C FS2 AC DCE 100 S 2POL Contactor: Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf (DXF); Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip (ZIP).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf. Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 100-C\_FS2\_AC\_DCE\_100-S\_2pol.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Allen-Bradley 100-C FS2 AC DCE 100 S 2POL Contactor: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640/nhp-197729?asset=37b696acef6093ae684d83d5926c884ce3f9c17f928f56cd5f2a15397251be0b&view=thumb&v=7417ef89af4845f1)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640/nhp-197760)
+- Redistribution: unknown
+- Original SHA-256: 25916ba73fc55c65c6ef5a469a99ad7a5241bd4fd8f01abf48d8a26b80ae4b2c
+- Original bytes: 153498
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:42:02.521925+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-DXF-2D-CAD-Block.dxf)
+- Delivery: source-bundle; ZIP; 24346 bytes
+- Delivery SHA-256: 3b50f4e35a4e49828eaa94cb30c3a1797f87c2b453d9a4568e9ea92f7863a04c
+
+### Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-100-c-fs2-ac-dce-100-s-2pol-contactor-49f12e7640/nhp-197729)
+- Redistribution: unknown
+- Original SHA-256: abfc3ed0905a9730a394f0553af07c8ff7bbc3fb62a70baf22bbfdaca9c14be6
+- Original bytes: 101704
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:38:12.964707+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/Allen-Bradley-100-C-FS2-AC-DCE-100-S-2POL-Contactor-STP-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 101704 bytes
+- Delivery SHA-256: abfc3ed0905a9730a394f0553af07c8ff7bbc3fb62a70baf22bbfdaca9c14be6
+
+<details>
+<summary>Archive members</summary>
+
+- 100-C\_FS2\_AC\_DCE\_100-S\_2pol.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

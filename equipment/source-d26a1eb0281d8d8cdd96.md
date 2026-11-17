@@ -1,0 +1,101 @@
+# NOARK Electric — NOARK MxP UL67 Panelboard Interior 2000A 21CS 3D CAD
+
+NOARK Electric NOARK MxP UL67 Panelboard Interior 2000A 21CS 3D CAD. Retained manufacturer CAD files and drawings for enclosures design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/source-d26a1eb0281d8d8cdd96) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/source-d26a1eb0281d8d8cdd96.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/source-d26a1eb0281d8d8cdd96.json) · [Official manufacturer source](https://na.noark-electric.com/drawings/)
+
+- Category: Enclosures & hardware
+- Entry type: family
+- Part number: Select exact configuration
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NOARK MxP UL67 Panelboard Interior 2000A 21CS 3D CAD
+- Manufacturer: NOARK Electric
+- Resource type: Product family
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Available native formats: STEP ([source](https://na.noark-electric.com/drawings/))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip is the original NOARK Electric archive. Open NOARK - MxP UL67 Panelboard Interior 2000A 21CS - 3D CAD.stp inside it to place the original solid geometry in your 3D assembly.
+
+NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip is the original NOARK Electric archive. Open NOARK - MxP UL67 Panelboard Interior 2000A 21CS - 3D CAD.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match NOARK Electric NOARK MxP UL67 Panelboard Interior 2000A 21CS 3D CAD and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NOARK MxP UL67 Panelboard Interior 2000A 21CS 3D CAD?
+
+1 inspected original for NOARK Electric NOARK MxP UL67 Panelboard Interior 2000A 21CS 3D CAD: NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip (ZIP).
+
+### Where did these NOARK Electric files come from?
+
+NOARK Electric supplied the original files through https://na.noark-electric.com/drawings/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [NOARK Electric official source](https://na.noark-electric.com/drawings/)
+
+## Choosing a file
+
+NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip is the original NOARK Electric archive. Open NOARK - MxP UL67 Panelboard Interior 2000A 21CS - 3D CAD.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Equipment references and drawing guides
+
+- [Wall-mounted junction enclosure](https://eloragrid.ai/objects/ga-wall-mounted-junction-enclosure)
+- [Floor-standing enclosure](https://eloragrid.ai/objects/ga-floor-standing-enclosure)
+- [Mounting plate](https://eloragrid.ai/objects/mounting-plate)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip
+
+- Format: ZIP
+- Purpose: Manufacturer CAD archive
+- [Official source](https://na.noark-electric.com/wp-content/uploads/2026/10/NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/source-d26a1eb0281d8d8cdd96/native-335b998754f4d72b13ce38ee-zip)
+- Redistribution: unknown
+- Original SHA-256: 335b998754f4d72b13ce38ee3d3c664148d576bd329576b4f25067663629bc58
+- Original bytes: 614322
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: NOARK Electric
+- [Hosting evidence](https://na.noark-electric.com/wp-content/uploads/2026/10/NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://na.noark-electric.com/wp-content/uploads/2026/10/NOARK-MxP-UL67-Panelboard-Interior-2000A-21CS-3D-CAD.zip)
+- Delivery: original; ZIP; 614322 bytes
+- Delivery SHA-256: 335b998754f4d72b13ce38ee3d3c664148d576bd329576b4f25067663629bc58
+
+<details>
+<summary>Archive members</summary>
+
+- NOARK - MxP UL67 Panelboard Interior 2000A 21CS - 3D CAD.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -1,0 +1,97 @@
+# LS ELECTRIC — INT-L3-2000A-45x-UL
+
+LS ELECTRIC INT-L3-2000A-45x-UL. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/ls-electric-article-70130035) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130035.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/ls-electric-article-70130035.json) · [Official manufacturer source](https://nahp.ls-electric.com/support/download-center)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 70130035
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: INT-L3-2000A-45x-UL
+- Manufacturer: LS ELECTRIC
+- Resource type: Product
+- Part number: 70130035
+- Manufacturer reference: 70130035
+- Available native formats: STEP
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 70130035 ([source](https://nahp.ls-electric.com/support/download-center))
+- Available native formats: STEP ([source](https://nahp.ls-electric.com/support/download-center))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use 70130035\_INT-L3-2000A-45x-UL.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 70130035\_INT-L3-2000A-45x-UL.stp.
+
+Use 70130035\_INT-L3-2000A-45x-UL.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 70130035\_INT-L3-2000A-45x-UL.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LS ELECTRIC 70130035 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for INT-L3-2000A-45x-UL?
+
+1 inspected original for LS ELECTRIC INT-L3-2000A-45x-UL: 70130035\_INT-L3-2000A-45x-UL.stp (STEP).
+
+### Where did these LS ELECTRIC files come from?
+
+LS ELECTRIC supplied the original files through https://nahp.ls-electric.com/support/download-center. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LS ELECTRIC official source](https://nahp.ls-electric.com/support/download-center)
+
+## Choosing a file
+
+Use 70130035\_INT-L3-2000A-45x-UL.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 70130035\_INT-L3-2000A-45x-UL.stp.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 70130035\_INT-L3-2000A-45x-UL.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://nahp.ls-electric.com/support/download-center)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/ls-electric-article-70130035/native-985b64f89de8f3201e70c700-step)
+- Redistribution: unknown
+- Original SHA-256: 985b64f89de8f3201e70c7003de97b5137aad366994052a8a85dc99c68b01edb
+- Original bytes: 2234859
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LS ELECTRIC
+- [Hosting evidence](https://nahp.ls-electric.com/support/download-center)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://nahp.ls-electric.com/support/download-center)
+- Delivery: source-bundle; ZIP; 364064 bytes
+- Delivery SHA-256: 1215e093f096a4b779ebb749ba68bcf1cb6812b56076e72a4fa4c5661c290398
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

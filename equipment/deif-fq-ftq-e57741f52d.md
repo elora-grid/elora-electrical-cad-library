@@ -26,6 +26,7 @@ Manufacturer reference ftq96-x-3d-pdf.pdf; ftq96-x-3d-step-file.stp identifies t
 - Manufacturer reference: ftq96-x-3d-pdf.pdf; ftq96-x-3d-step-file.stp
 - Manufacturer lifecycle: Active
 - Model envelope: ftq96-x-3d-step-file.stp: 95.8 × 95.8 × 68.1 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60051-1, IEC 61000-6-2, IEC 61000-6-3, IEC 60529
 - Listed file formats: PDF, STEP
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

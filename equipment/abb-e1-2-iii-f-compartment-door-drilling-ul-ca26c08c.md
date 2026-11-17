@@ -9,7 +9,7 @@ E1.2 III F COMPARTMENT DOOR DRILLING - UL: ABB manufacturer STEP resource, docum
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0002
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E1.2 III F COMPARTMENT DOOR DRILLING - UL; ABB doc
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001336R0002
 - Model extents (X × Y × Z, mm): 280.0 × 2.0 × 300.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0002&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 35980 bytes
 - Delivery SHA-256: c27ba536d8e5fc719ec1a26c4d820de85ac8218498527657c83f0d369286b581
+
+### 1SDH001336R0002\_1PA\_001\_00\_E1.2\_III\_F\_COMPARTMENT\_DOOR\_DRILLING\_UL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0002\_1PA\_001\_00\_E1.2\_III\_F\_COMPARTMENT\_DOOR\_DRILLING\_UL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0002&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-iii-f-compartment-door-drilling-ul-ca26c08c/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: c27ba536d8e5fc719ec1a26c4d820de85ac8218498527657c83f0d369286b581
+- Original bytes: 35980
+- Revision: A
+- Retrieved: 2026-11-03T01:34:13.035484+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0002&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0002&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 31287 bytes
+- Delivery SHA-256: 4215a179ae7598f1b9228d9db3c07975d6cd3832e8fc6113f12a0a9a4f6782d6
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

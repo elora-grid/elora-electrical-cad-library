@@ -8,7 +8,7 @@ ABB XT1 4p PLUG-IN ADAPTER UP: breaker or breaker-accessory reference for breake
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0115
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT1 4p PLUG-IN ADAPTER UP”. Keep those frame,
 - Manufacturer reference: 1SDH001295R0115
 - Document revision: A
 - Model envelope: 1SDH001295R0115\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_BASETTA\_SUP.stp: 101.2 × 70 × 23 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0115&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 159064 bytes
 - Delivery SHA-256: 62dd7443655caaa712f82509d80f223671e96adc0f95c4c2a0ad009c16077c1a
+
+### 1SDH001295R0115\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_BASETTA\_SUP.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0115\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_BASETTA\_SUP.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0115&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-4p-plug-in-adapter-up-cae12ac943/62dd7443655caaa712f8-dxf)
+- Redistribution: unknown
+- Original SHA-256: 62dd7443655caaa712f82509d80f223671e96adc0f95c4c2a0ad009c16077c1a
+- Original bytes: 159064
+- Revision: A
+- Retrieved: 2026-11-03T01:47:43.753354Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0115&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0115&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 55203 bytes
+- Delivery SHA-256: 7bf1fd54fcb609b648c1bc43784866b39ecef62bb2b6e42055a6a76dd0b3e4df
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

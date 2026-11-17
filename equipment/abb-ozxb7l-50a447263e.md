@@ -27,7 +27,7 @@ The supplied configuration is “OZXB7L”. Keep those frame, mounting and acces
 - Document revision: -
 - Listed file formats: DXF
 - Listed files: 1
-- Available previews: 1 drawing previews
+- Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: -
 - Source checked: 2026-11-04
 - Download access: Email registration for site downloads; official source links are also available
@@ -64,7 +64,7 @@ Use 1SCC390059F0001.dxf revision - for editable DXF drawing geometry. Keep its o
 
 ## Preview
 
-![ABB OZXB7L: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/abb-ozxb7l-50a447263e/ded4c700c2d22113553b?asset=ded4c700c2d22113553b9e61bee1bb8819e28e390afaf63e5ad29e7216f79c77)
+![ABB OZXB7L: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/abb-ozxb7l-50a447263e/ded4c700c2d22113553b?asset=ded4c700c2d22113553b9e61bee1bb8819e28e390afaf63e5ad29e7216f79c77&view=thumb&v=1b9216e4b8edb90e)
 
 [View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/abb-ozxb7l-50a447263e). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
 

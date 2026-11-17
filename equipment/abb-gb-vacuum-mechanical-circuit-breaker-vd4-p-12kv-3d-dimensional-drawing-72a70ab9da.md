@@ -25,6 +25,7 @@ The supplied configuration is “GB Vacuum Mechanical Circuit Breaker VD4/P 12kV
 - Manufacturer drawing: 1VCD003943\_3D
 - Manufacturer reference: 1VCD003943\_3D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

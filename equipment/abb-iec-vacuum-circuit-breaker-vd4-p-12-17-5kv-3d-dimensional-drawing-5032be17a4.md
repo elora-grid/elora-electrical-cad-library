@@ -25,6 +25,7 @@ The supplied configuration is “IEC Vacuum Circuit Breaker VD4/P 12/17,5kV - 3D
 - Manufacturer drawing: 2RDA045283\_2D
 - Manufacturer reference: 2RDA045283\_2D
 - Document revision: A
+- Standards: IEC 62271-100
 - Listed file formats: PDF, STEP
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

@@ -1,0 +1,136 @@
+# Allen-Bradley — M109SC09P Allen Bradley Electronic Motor Starter
+
+Allen-Bradley M109SC09P Allen Bradley Electronic Motor Starter: original DWG for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: M109SC09P
+- Installation applications: switchgear, substations, microgrids
+- Formats: DWG
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named M109SC09P Allen Bradley Electronic Motor Starter.
+
+## Equipment and file summary
+
+- Equipment / resource: M109SC09P Allen Bradley Electronic Motor Starter
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: M109SC09P
+- Manufacturer drawing identity: M109SC09P Allen Bradley Electronic Motor Starter
+- Listed file formats: DWG
+- Listed files: 2
+- Available previews: 4 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: M109SC09P Allen Bradley Electronic Motor Starter ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
+
+M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Its 3 indexed drawing/model members include M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_front.dwg, M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_right.dwg, M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_top.dwg. Open the unmodified archive for its complete contents. Match the member to M109SC09P Allen Bradley Electronic Motor Starter before placing it.
+
+M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Its 3 indexed drawing/model members include M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_front.dwg, M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_right.dwg, M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_top.dwg. Open the unmodified archive for its complete contents. Match the member to M109SC09P Allen Bradley Electronic Motor Starter before placing it. M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block/M109S-C09-P.dwg inside it to insert the supplied editable drawing into your layout.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley M109SC09P and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for M109SC09P Allen Bradley Electronic Motor Starter?
+
+2 inspected originals for Allen-Bradley M109SC09P Allen Bradley Electronic Motor Starter: M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip (ZIP); M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip (ZIP).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Its 3 indexed drawing/model members include M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_front.dwg, M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_right.dwg, M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_top.dwg. Open the unmodified archive for its complete contents. Match the member to M109SC09P Allen Bradley Electronic Motor Starter before placing it. M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block/M109S-C09-P.dwg inside it to insert the supplied editable drawing into your layout.
+
+## Preview
+
+![Allen-Bradley M109SC09P Allen Bradley Electronic Motor Starter: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d/nhp-181279?asset=0c6de28cffb3653a0f2b19307c45faf7922bb2d9b8660e7005d5c01ad68c6bd0)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10046/M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d/nhp-181279)
+- Redistribution: unknown
+- Original SHA-256: 516d51fadf5a9cede39a2e39c2121c4fce7084a4a803764b68870d2f7e834007
+- Original bytes: 165347
+- Revision: Not recorded
+- Retrieved: 2026-11-11T06:46:36.861836+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10046/M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10046/M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block.zip)
+- Delivery: original; ZIP; 165347 bytes
+- Delivery SHA-256: 516d51fadf5a9cede39a2e39c2121c4fce7084a4a803764b68870d2f7e834007
+
+<details>
+<summary>Archive members</summary>
+
+- M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_front.dwg
+- M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_right.dwg
+- M109SC09P-Allen-Bradley-Electronic-Motor-Starter-2D-CAD-Block/M109S-C09-P\_top.dwg
+
+</details>
+
+### M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10046/M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-m109sc09p-allen-bradley-electronic-motor-starter-65094d0f5d/nhp-181278)
+- Redistribution: unknown
+- Original SHA-256: bee14b7f5ff493676678461a27a659bd18e5c97422469eeeef61885dff25d0c1
+- Original bytes: 655065
+- Revision: Not recorded
+- Retrieved: 2026-11-11T08:02:41.432127+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10046/M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10046/M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 655065 bytes
+- Delivery SHA-256: bee14b7f5ff493676678461a27a659bd18e5c97422469eeeef61885dff25d0c1
+
+<details>
+<summary>Archive members</summary>
+
+- M109SC09P-Allen-Bradley-Electronic-Motor-Starter-3D-CAD-Block/M109S-C09-P.dwg
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

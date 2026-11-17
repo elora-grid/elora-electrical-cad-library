@@ -21,6 +21,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Equipment / resource: DSE7310 MKII wiring CAD
 - Manufacturer: Deep Sea Electronics
 - Resource type: Product family
+- Standards: IEC 61000-6-2, IEC 61000-6-4, IEC 61010, IEC 60529
 - Listed file formats: CAD
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

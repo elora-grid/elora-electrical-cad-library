@@ -25,6 +25,7 @@ The supplied configuration is “OT16...OT40F3”. Keep those frame, mounting an
 - Manufacturer drawing: OT16-40F3.IGS; OT16-40F3.STP
 - Manufacturer reference: OT16-40F3.IGS; OT16-40F3.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

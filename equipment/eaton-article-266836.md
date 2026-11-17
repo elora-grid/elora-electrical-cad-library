@@ -1,0 +1,117 @@
+# Eaton — NZM4-XKA — Tunnel terminal, 3p, 1 switch side, size 4
+
+Eaton NZM4-XKA — Tunnel terminal, 3p, 1 switch side, size 4. Retained manufacturer CAD files and drawings for wiring design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eaton-article-266836) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eaton-article-266836.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eaton-article-266836.json) · [Official manufacturer source](https://ecat.eaton.com/downloads/d4e4e4a6-2f70-492d-abdf-df1a8cdd232b/cad_files_001.zip)
+
+- Category: Wiring & terminals
+- Entry type: product
+- Part number: 266836
+- Formats: DWG, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: NZM4-XKA — Tunnel terminal, 3p, 1 switch side, size 4
+- Manufacturer: Eaton
+- Resource type: Product
+- Part number: 266836
+- Manufacturer reference: 266836
+- Manufacturer type: NZM4-XKA
+- Available native formats: DWG / STEP
+- Listed file formats: DWG, STEP
+- Listed files: 2
+- Available previews: No browser preview; original files are downloadable
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 266836 ([source](https://ecat.eaton.com/downloads/d4e4e4a6-2f70-492d-abdf-df1a8cdd232b/cad_files_001.zip))
+- Manufacturer type: NZM4-XKA ([source](https://ecat.eaton.com/downloads/d4e4e4a6-2f70-492d-abdf-df1a8cdd232b/cad_files_001.zip))
+- Available native formats: DWG / STEP ([source](https://ecat.eaton.com/downloads/d4e4e4a6-2f70-492d-abdf-df1a8cdd232b/cad_files_001.zip))
+
+## What the equipment does
+
+A terminal provides an identified point for joining wires to equipment or to other wires. Terminal strips organise those connections so they can be wired and checked.
+
+Use nzm4\_xka.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm4\_xka.stp.
+
+Use nzm4\_xka.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm4\_xka.stp. Use eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Eaton 266836 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for NZM4-XKA — Tunnel terminal, 3p, 1 switch side, size 4?
+
+2 inspected originals for Eaton NZM4-XKA — Tunnel terminal, 3p, 1 switch side, size 4: nzm4\_xka.stp (STEP); eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg (DWG).
+
+### Where did these Eaton files come from?
+
+Eaton supplied the original files through https://ecat.eaton.com/downloads/d4e4e4a6-2f70-492d-abdf-df1a8cdd232b/cad\_files\_001.zip. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Eaton official source](https://ecat.eaton.com/downloads/d4e4e4a6-2f70-492d-abdf-df1a8cdd232b/cad_files_001.zip)
+
+## Choosing a file
+
+Use nzm4\_xka.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified nzm4\_xka.stp. Use eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg.
+
+## Equipment references and drawing guides
+
+- [Terminal strip assembly](https://eloragrid.ai/objects/terminal-strip)
+- [Cable gland](https://eloragrid.ai/objects/ga-cable-gland)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### nzm4\_xka.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xka.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-266836/native-66550e49d31374f6807ddae5-step)
+- Redistribution: unknown
+- Original SHA-256: 66550e49d31374f6807ddae5ccac5c5feb55f507851c02bd07cf3168df334f19
+- Original bytes: 463210
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xka.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/step/nzm4_xka.stp)
+- Delivery: source-bundle; ZIP; 73498 bytes
+- Delivery SHA-256: c56cdf11366dbe79c75c26460ef538a6b48e298d657750650c4e0c8c9b0d1449
+
+### eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eaton-article-266836/native-e763fe3030e5ac6105db16fe-dwg)
+- Redistribution: unknown
+- Original SHA-256: e763fe3030e5ac6105db16fe47e371b9cc55a8c2915268cd4dad9dd960e3d4a1
+- Original bytes: 850368
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Eaton
+- [Hosting evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://www.eaton.com/content/dam/eaton/cad/mcad/dwg/dwg04/eaton-mccb-terminals-mcad-drawings-nzm4-xka.dwg)
+- Delivery: source-bundle; ZIP; 708005 bytes
+- Delivery SHA-256: 99dc0d443abfc6ebed248e0a8abe39e4761015195d3eed6d1423c730c6e6c964
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

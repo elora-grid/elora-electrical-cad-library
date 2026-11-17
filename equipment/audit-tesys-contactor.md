@@ -22,6 +22,7 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Manufacturer: Schneider Electric
 - Resource type: Product
 - Part number: LC1D38F7
+- Standards: CSA C22.2 No. 14, CSA C22.2 No. 60947-4-1, IEC 60947-4-1, IEC 60947-5-1, IEC 60335-1, IEC 60335-2-40, UL 60335-2-40, UL 60947-4-1
 - Listed file formats: ZIP
 - Listed files: 1
 - Available previews: Manufacturer source / drawing request

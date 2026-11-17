@@ -8,7 +8,7 @@ ABB OT600U13: switching-equipment reference for switch installation and operatin
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307733F0001; OT600U13.STP
-- Formats: DWG, STEP
+- Formats: DWG, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ The supplied configuration is “OT600U13”. Keep those frame, mounting and acc
 - Manufacturer drawing: 1SCC307733F0001; OT600U13.STP
 - Manufacturer reference: 1SCC307733F0001; OT600U13.STP
 - Document revision: A
-- Listed file formats: DWG, STEP
-- Listed files: 2
+- Listed file formats: DWG, STEP, DXF
+- Listed files: 3
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -97,6 +97,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307733F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 7105778 bytes
 - Delivery SHA-256: 38b325941337ace4f2830fc304316a3a72d494b7aff24e66c1f274149232dc7f
+
+### OT600U13\_1SCC307733F0001.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (OT600U13\_1SCC307733F0001.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307733F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot600u13-0b8cd9be9d/38b325941337ace4f283-dxf)
+- Redistribution: unknown
+- Original SHA-256: 38b325941337ace4f2830fc304316a3a72d494b7aff24e66c1f274149232dc7f
+- Original bytes: 7105778
+- Revision: A
+- Retrieved: 2026-11-04T01:09:23Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307733F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307733F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 47126749 bytes
+- Delivery SHA-256: 4559bbe746f9bcae9a998b8287711246f778e08207e000b041b9449f010e7688
 
 ### OT600U13.stp
 

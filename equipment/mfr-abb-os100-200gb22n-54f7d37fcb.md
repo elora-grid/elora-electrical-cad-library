@@ -1,0 +1,112 @@
+# ABB — OS100-200GB22N
+
+ABB OS100-200GB22N: original STEP for switching or transfer equipment layouts. SWITCH FUSE, OS100GB22N1, 1SCA116974R1001, OS100GB22N1P, 1SCA114602R1001, OS125GB22N1, 1SCA115902R1001, OS125GB22N1P, 1SCA115903R1001, OS160GB22N1, 1SCA115898R1001, OS160GB22N1P, 1SCA115899R1001, OS160GB22N2, 1SCA120814R1001, OS200GB22N1P, 1SCA132202R1001, OS100-200GB22N.stp, stp-file.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100-200gb22n-54f7d37fcb) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100-200gb22n-54f7d37fcb.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-os100-200gb22n-54f7d37fcb.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations
+- Formats: STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+SWITCH FUSE, OS100GB22N1, 1SCA116974R1001, OS100GB22N1P, 1SCA114602R1001, OS125GB22N1, 1SCA115902R1001, OS125GB22N1P, 1SCA115903R1001, OS160GB22N1, 1SCA115898R1001, OS160GB22N1P, 1SCA115899R1001, OS160GB22N2, 1SCA120814R1001, OS200GB22N1P, 1SCA132202R1001, OS100-200GB22N.stp, stp-file
+
+## Equipment and file summary
+
+- Equipment / resource: OS100-200GB22N
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer configuration: SWITCH FUSE, OS100GB22N1, 1SCA116974R1001, OS100GB22N1P, 1SCA114602R1001, OS125GB22N1, 1SCA115902R1001, OS125GB22N1P, 1SCA115903R1001, OS160GB22N1, 1SCA115898R1001, OS160GB22N1P, 1SCA115899R1001, OS160GB22N2, 1SCA120814R1001, OS200GB22N1P, 1SCA132202R1001, OS100-200GB22N.stp, stp-file
+- Manufacturer drawing identity: OS100-200GB22N
+- Source document: OS100-200GB22N.STP; revision A
+- Source-model envelope: 172 × 186.3 × 114 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Standards: IEC 60947-3
+- Listed file formats: STEP
+- Listed files: 1
+- Available previews: 1 drawing previews; 1 interactive model variants
+- Recorded revisions: A
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer configuration: SWITCH FUSE, OS100GB22N1, 1SCA116974R1001, OS100GB22N1P, 1SCA114602R1001, OS125GB22N1, 1SCA115902R1001, OS125GB22N1P, 1SCA115903R1001, OS160GB22N1, 1SCA115898R1001, OS160GB22N1P, 1SCA115899R1001, OS160GB22N2, 1SCA120814R1001, OS200GB22N1P, 1SCA132202R1001, OS100-200GB22N.stp, stp-file ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Manufacturer drawing identity: OS100-200GB22N ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: OS100-200GB22N.STP; revision A ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- Source-model envelope: 172 × 186.3 × 114 mm ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch))
+
+## What the equipment does
+
+Switchgear groups the devices that connect, disconnect and protect power circuits. A switchboard takes an incoming supply and distributes it to outgoing circuits.
+
+Use OS100-200GB22N.STP.stp (revision A) to place the original solid geometry in your 3D assembly.
+
+Use OS100-200GB22N.STP.stp (revision A) to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match the recorded manufacturer configuration: SWITCH FUSE, OS100GB22N1, 1SCA116974R1001, OS100GB22N1P, 1SCA114602R1001, OS125GB22N1, 1SCA115902R1001, OS125GB22N1P, 1SCA115903R1001, OS160GB22N1, 1SCA115898R1001, OS160GB22N1P, 1SCA115899R1001, OS160GB22N2, 1SCA120814R1001, OS200GB22N1P, 1SCA132202R1001, OS100-200GB22N.stp, stp-file
+- The supplied model has approximate X × Y × Z bounds of 172 × 186.3 × 114 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: OS100-200GB22N.STP.stp — A. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for OS100-200GB22N?
+
+1 inspected original for ABB OS100-200GB22N: OS100-200GB22N.STP.stp (STEP). The manufacturer describes this configuration as SWITCH FUSE, OS100GB22N1, 1SCA116974R1001, OS100GB22N1P, 1SCA114602R1001, OS125GB22N1, 1SCA115902R1001, OS125GB22N1P, 1SCA115903R1001, OS160GB22N1, 1SCA115898R1001, OS160GB22N1P, 1SCA115899R1001, OS160GB22N2, 1SCA120814R1001, OS200GB22N1P, 1SCA132202R1001, OS100-200GB22N.stp, stp-file.
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use OS100-200GB22N.STP.stp (revision A) to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![ABB OS100-200GB22N: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-abb-os100-200gb22n-54f7d37fcb/abb-001187f3edf808940176?asset=61c3c6ddba18acffd81161209cd1233c253dce53a12608c6313120ff4da41246&view=thumb&v=c60be7b10553f168)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-os100-200gb22n-54f7d37fcb). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### OS100-200GB22N.STP.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-os100-200gb22n-54f7d37fcb/abb-001187f3edf808940176)
+- Redistribution: unknown
+- Original SHA-256: 61c3c6ddba18acffd81161209cd1233c253dce53a12608c6313120ff4da41246
+- Original bytes: 2130230
+- Revision: A
+- Retrieved: 2026-11-11T06:19:54.633128+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=OS100-200GB22N.STP&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: original; STEP; 2130230 bytes
+- Delivery SHA-256: 61c3c6ddba18acffd81161209cd1233c253dce53a12608c6313120ff4da41246
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

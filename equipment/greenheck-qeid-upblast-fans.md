@@ -7,7 +7,7 @@ Direct-drive QEID upblast arrangement for roof ventilation. The package combines
 - Category: Switchroom services
 - Entry type: family
 - Part number: QEID-UPBLAST
-- Formats: DWG, RFA, ZIP
+- Formats: DWG, RFA, ZIP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-10-29
@@ -22,8 +22,8 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Manufacturer: Greenheck
 - Resource type: Product family
 - Part number: QEID-UPBLAST
-- Listed file formats: DWG, RFA, ZIP
-- Listed files: 3
+- Listed file formats: DWG, RFA, ZIP, DXF
+- Listed files: 5
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
@@ -45,7 +45,7 @@ Use an outline or mounting drawing to plan where the equipment fits and where it
 ## Choosing a file
 
 Start with QEID-UPBLAST. The files above belong to Greenheck's QEID-UPBLAST direct-drive mixed-flow fan resource; match any model or option suffix in the filename to your selected unit.
-Available here: DWG, ZIP. The individual filenames above distinguish the supplied variants.
+Available here: DWG, DXF, ZIP. The individual filenames above distinguish the supplied variants.
 
 ## Preview
 
@@ -83,6 +83,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; DWG; 399008 bytes
 - Delivery SHA-256: 68f43dd9edfe52d3356f1b506e0604935e01598a46d4bc8b7ea58647048fe9aa
 
+### QEID-UB-3D.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEID-UB-3D.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-3D.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qeid-upblast-fans/greenheck-qeid-ub-3d-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 68f43dd9edfe52d3356f1b506e0604935e01598a46d4bc8b7ea58647048fe9aa
+- Original bytes: 399008
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-3D.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-3D.dwg)
+- Delivery: converted; DXF; 1135696 bytes
+- Delivery SHA-256: b41f5df114535ef18dbf5382381bd825f9cb29dac944e2ce407b1aec6a852745
+
 ### QEID-UB-33-300.dwg
 
 - Format: DWG
@@ -101,6 +120,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-33-300.dwg)
 - Delivery: original; DWG; 390166 bytes
 - Delivery SHA-256: 24b53eaa0d8904d8c18f7069fd51f3942496d7ff5b9d19ea56cae04015764370
+
+### QEID-UB-33-300.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (QEID-UB-33-300.dwg).
+- [Official source](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-33-300.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-qeid-upblast-fans/greenheck-qeid-ub-33-300-dwg-dxf)
+- Redistribution: unknown
+- Original SHA-256: 24b53eaa0d8904d8c18f7069fd51f3942496d7ff5b9d19ea56cae04015764370
+- Original bytes: 390166
+- Revision: Not recorded
+- Retrieved: 2026-10-29
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: Greenheck
+- [Hosting evidence](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-33-300.dwg)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://content.greenheck.com/public/DAMProd/Original/10017/QEID-UB-33-300.dwg)
+- Delivery: converted; DXF; 204455 bytes
+- Delivery SHA-256: 7c9c2b2ed9e7d127891effff1b6197789930f118a85ea0b140217a926988fb5e
 
 ### QEID\_UB\_LOD200\_AllSizes.zip
 

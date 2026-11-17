@@ -9,7 +9,7 @@ OHBS2: ABB manufacturer STEP resource, document 1SCA109089R1001, revision A. Use
 - Part number: Select exact configuration
 - Drawing/document number: 1SCA109089R1001
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for OHBS2; ABB document 1SCA109089R1001
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SCA109089R1001
 - Model extents (X × Y × Z, mm): 15.5 × 11.0 × 42.1
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -102,5 +102,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCA109089R1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 455011 bytes
 - Delivery SHA-256: f02ca98f80be0cb995747347c65508324bee242c3cd557126e395f7418139dc2
+
+### 1SCA109089R1001.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SCA109089R1001.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCA109089R1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ohbs2-169d9a81/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: f02ca98f80be0cb995747347c65508324bee242c3cd557126e395f7418139dc2
+- Original bytes: 455011
+- Revision: A
+- Retrieved: 2026-11-03T01:36:44.152328+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCA109089R1001&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCA109089R1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 156516 bytes
+- Delivery SHA-256: c6fc0a226ab79c903f6b75d798f6c8b78e616f1012bad1c6fd46e7f2290af9ea
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

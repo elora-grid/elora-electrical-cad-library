@@ -8,7 +8,7 @@ ABB WIRING DIAGRAM NEMA SIZE 2, 3, & 4 W/ DECELERATING RELAY(55-537619S1): elect
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SQC913920D0201
-- Formats: DWG, PDF
+- Formats: DWG, PDF, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -25,8 +25,8 @@ This is an electrical connection reference. Use a separate equipment outline for
 - Manufacturer drawing: 1SQC913920D0201
 - Manufacturer reference: 1SQC913920D0201
 - Document revision: C
-- Listed file formats: DWG, PDF
-- Listed files: 2
+- Listed file formats: DWG, PDF, DXF
+- Listed files: 3
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -96,6 +96,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913920D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 245006 bytes
 - Delivery SHA-256: 1584c641bd900ed7f2bd9e06d42636c9317bf890e608976d4ed9acc2e1e75db7
+
+### 1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W\_\_DECELERATING\_RELAY\_55\_537619S1\_\_DWG.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W\_\_DECELERATING\_RELAY\_55\_537619S1\_\_DWG.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913920D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-wiring-diagram-nema-size-2-3-4-w-decelerating-relay-55-537619s1-dwg-312886b082/1584c641bd900ed7f2bd-dxf)
+- Redistribution: unknown
+- Original SHA-256: 1584c641bd900ed7f2bd9e06d42636c9317bf890e608976d4ed9acc2e1e75db7
+- Original bytes: 245006
+- Revision: C
+- Retrieved: 2026-11-04T00:57:56Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913920D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913920D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 833695 bytes
+- Delivery SHA-256: 43a122e4a517f3e9f36f052c05dea8fad13756fd2b5bb1a48cb92d004172ed46
 
 ### 1SQC913920D0201.pdf
 

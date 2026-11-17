@@ -26,6 +26,7 @@ Manufacturer reference dnv-rai-b-medb00003an-uk.pdf; xdi-144-2d-cad-drawings.zip
 - Source configurations grouped on this page: Navigation Indicator (XDi-N); Wind Indicator (XDi-N); XDi
 - Manufacturer reference: dnv-rai-b-medb00003an-uk.pdf; xdi-144-2d-cad-drawings.zip; xdi-192-2d-cad-drawing.dwg; xdi-144-2d-pdfs.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 60945, IEC 60529, IEC 60051, IEC 61010-1, IEC 61000-6-2, IEC 61000-6-4, IEC 60845, IEC 61182-1
 - Listed file formats: DWG, PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

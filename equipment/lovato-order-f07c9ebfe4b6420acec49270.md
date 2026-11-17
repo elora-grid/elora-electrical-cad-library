@@ -1,0 +1,141 @@
+# LOVATO Electric — 11BGX77048 — Quick connect surge suppressor, varistor 48VAC/DC
+
+LOVATO Electric 11BGX77048 — Quick connect surge suppressor, varistor 48VAC/DC. Retained manufacturer CAD files and drawings for switchgear design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f07c9ebfe4b6420acec49270) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/lovato-order-f07c9ebfe4b6420acec49270.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/lovato-order-f07c9ebfe4b6420acec49270.json) · [Official manufacturer source](https://catalogue.lovatoelectric.com/gl_en/11BGX77048/11BGX77048/snp)
+
+- Category: Switchboards & switchgear
+- Entry type: product
+- Part number: 11BGX77048
+- Formats: DWG, DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: 11BGX77048 — Quick connect surge suppressor, varistor 48VAC/DC
+- Manufacturer: LOVATO Electric
+- Resource type: Product
+- Part number: 11BGX77048
+- Manufacturer reference: 11BGX77048
+- Available native formats: DWG / DXF / STEP
+- Listed file formats: DWG, DXF, STEP
+- Listed files: 3
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: 11BGX77048 ([source](https://catalogue.lovatoelectric.com/gl_en/11BGX77048/11BGX77048/snp))
+- Available native formats: DWG / DXF / STEP ([source](https://catalogue.lovatoelectric.com/gl_en/11BGX77048/11BGX77048/snp))
+
+## What the equipment does
+
+A surge protective device limits brief voltage spikes by providing a path for surge current under its designed conditions.
+
+Use 2d\_11BGX77048.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11BGX77048.dwg.
+
+Use 2d\_11BGX77048.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11BGX77048.dwg. Use 3d\_11BGX77048.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_11BGX77048.stp. Use 2D\_STY\_005.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_005.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match LOVATO Electric 11BGX77048 and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 11BGX77048 — Quick connect surge suppressor, varistor 48VAC/DC?
+
+3 inspected originals for LOVATO Electric 11BGX77048 — Quick connect surge suppressor, varistor 48VAC/DC: 2d\_11BGX77048.dwg (DWG); 3d\_11BGX77048.stp (STEP); 2D\_STY\_005.dxf (DXF).
+
+### Where did these LOVATO Electric files come from?
+
+LOVATO Electric supplied the original files through https://catalogue.lovatoelectric.com/gl\_en/11BGX77048/11BGX77048/snp. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [LOVATO Electric official source](https://catalogue.lovatoelectric.com/gl_en/11BGX77048/11BGX77048/snp)
+
+## Choosing a file
+
+Use 2d\_11BGX77048.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2d\_11BGX77048.dwg. Use 3d\_11BGX77048.stp to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified 3d\_11BGX77048.stp. Use 2D\_STY\_005.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified 2D\_STY\_005.dxf. This is a CAD-library source view. Hide application setup dimensions and unfilled attribute templates when placing it; the original file retains these helpers.
+
+## Preview
+
+![LOVATO Electric 11BGX77048 — Quick connect surge suppressor, varistor 48VAC/DC: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/lovato-order-f07c9ebfe4b6420acec49270/native-7dd209cf7b6ad6f1029305e3-dxf?asset=7dd209cf7b6ad6f1029305e3071f4cf6fe495611f83a4aba91c0a1c8d2fe2a48)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f07c9ebfe4b6420acec49270). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Switchgear panel](https://eloragrid.ai/objects/switchgear-panel)
+- [Switchboard](https://eloragrid.ai/objects/switchboard)
+- [Ring main unit](https://eloragrid.ai/objects/ring-main-unit)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### 2d\_11BGX77048.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11BGX77048.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-f07c9ebfe4b6420acec49270/native-30dcb3ac9aba37edc4810230-dwg)
+- Redistribution: unknown
+- Original SHA-256: 30dcb3ac9aba37edc481023003d55ff8a600f0fc35bc2a1cf6d9a6b2f5c9c220
+- Original bytes: 66555
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11BGX77048.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_11BGX77048.dwg)
+- Delivery: source-bundle; ZIP; 19136 bytes
+- Delivery SHA-256: 41fda460fdbf085e01da6598618da7f6274b513c60904c78e44ed2f8dd8ab159
+
+### 3d\_11BGX77048.stp
+
+- Format: STEP
+- Purpose: Manufacturer STEP CAD file
+- [Official source](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_11BGX77048.stp)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-f07c9ebfe4b6420acec49270/native-da9da983843a8d4257230b11-step)
+- Redistribution: unknown
+- Original SHA-256: da9da983843a8d4257230b11c1f035fedbc440c42116d69fb993564346bde175
+- Original bytes: 49041
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_11BGX77048.stp)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://catalogue.lovatoelectric.com/gl_en/Product/GetDocument?doc=CAD%5C3D%20Drawings%5C3d_11BGX77048.stp)
+- Delivery: source-bundle; ZIP; 9784 bytes
+- Delivery SHA-256: c9ca2f65d6d27aa9f35eba4a7edcabc1749fd227d0c078ac653df3106db69213
+
+### 2D\_STY\_005.dxf
+
+- Format: DXF
+- Purpose: Manufacturer CAD-library source view; application helper dimensions and attributes remain in the unchanged native file
+- [Official source](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/lovato-order-f07c9ebfe4b6420acec49270/native-7dd209cf7b6ad6f1029305e3-dxf)
+- Redistribution: unknown
+- Original SHA-256: 7dd209cf7b6ad6f1029305e3071f4cf6fe495611f83a4aba91c0a1c8d2fe2a48
+- Original bytes: 231754
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: LOVATO Electric
+- [Hosting evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://download.lovatoelectric.com/lovato-cad-2024-04.exe)
+- Delivery: source-bundle; ZIP; 28444 bytes
+- Delivery SHA-256: f2eb06f0eda541ef3fb37d1c74ae041990cde6a81b2d9c322cd78b7a95c08a06
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

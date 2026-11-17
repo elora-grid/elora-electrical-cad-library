@@ -8,7 +8,7 @@ ABB E6.2/E6.3 III W FLAT TERM 6300A UPPER: breaker or breaker-accessory referenc
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0451
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “E6.2/E6.3 III W FLAT TERM 6300A UPPER”. Keep 
 - Manufacturer reference: 1SDH001252R0451
 - Document revision: -
 - Model envelope: 1SDH001252R0451.stp: 710 × 98.4 × 80 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0451&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 2764293 bytes
 - Delivery SHA-256: 087caa98dded9b7fdc8fbf6a2f763cb42b1f300a989b9f06786c0887258ddc63
+
+### 1SDH001252R0451.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0451.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0451&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iii-w-flat-term-6300a-upper-e96792ca6b/087caa98dded9b7fdc8f-dxf)
+- Redistribution: unknown
+- Original SHA-256: 087caa98dded9b7fdc8fbf6a2f763cb42b1f300a989b9f06786c0887258ddc63
+- Original bytes: 2764293
+- Revision: -
+- Retrieved: 2026-11-03T01:57:56.991250Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0451&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0451&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 740147 bytes
+- Delivery SHA-256: b8ffa4a0c25b5e642b95ac6a8442fddcbeef83a2375c2c92e54d4441cb912c22
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

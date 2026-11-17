@@ -8,7 +8,7 @@ ABB 10LYF679\_27.36: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 10LYF679\_27.36; 10LYF679
-- Formats: DWG, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -29,8 +29,8 @@ The supplied configuration is “10LYF679\_27.36”. Keep those frame, mounting 
 - Model envelope: 10LYF679\_27.36.step: 695 × 433.5 × 520.9 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Motor drawing designation (10LYF679): HORZ TENV 284-6T VECT W/THRU SH. ENCODER DESIGN & COVER
 - Manufacturer reference: 10LYF679
-- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP
-- Listed files: 5
+- Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
@@ -115,6 +115,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF679_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; DWG; 1243164 bytes
 - Delivery SHA-256: 26e07013534caf48df8d71d309eb91a0e2bf761294bbf99c6b1cde2e98eb92ba
+
+### 10LYF679\_27.36.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (10LYF679\_27.36.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYF679_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyf679-27-36-dwg-2d-autocad-dwg-2000-a2cddff4e8/26e07013534caf48df8d-dxf)
+- Redistribution: unknown
+- Original SHA-256: 26e07013534caf48df8d71d309eb91a0e2bf761294bbf99c6b1cde2e98eb92ba
+- Original bytes: 1243164
+- Revision: F
+- Retrieved: 2026-11-04T00:24:57Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF679_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF679_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
+- Delivery: converted; DXF; 3300875 bytes
+- Delivery SHA-256: 58a12a227f2e2749285a9f801b7a4a1ad6db527c61300c61dd63f98c3439b081
 
 ### 10LYF679.pdf
 

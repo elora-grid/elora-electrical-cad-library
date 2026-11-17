@@ -25,6 +25,7 @@ Manufacturer reference rmp-112d-data-sheet-4921240110-uk.pdf; rmp-112d-datenblat
 - Manufacturer drawing: rmp-112d-data-sheet-4921240110-uk.pdf; rmp-112d-datenblatt-4921240110-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip
 - Manufacturer reference: rmp-112d-data-sheet-4921240110-uk.pdf; rmp-112d-datenblatt-4921240110-de.pdf; epn-rmc-rmv-rmp-rmq-rmf-lmr-3d-step-files.zip; rmp-112d-fiche-technique-4921240110-fr.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

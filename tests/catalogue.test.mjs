@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {validateCatalogue,csv,entryMarkdown,BASE} from '../scripts/catalogue.mjs';
-const source=JSON.parse(await readFile(new URL('../data/catalogue.json',import.meta.url),'utf8'));
+const source=JSON.parse(await readFile(new URL('./fixtures/catalogue.json',import.meta.url),'utf8'));
 const copy=()=>structuredClone(source);
 test('public full snapshot validates with distinct counts',()=>{
   validateCatalogue(copy());assert.equal(new Set(source.equipment.map(r=>r.id)).size,source.total);

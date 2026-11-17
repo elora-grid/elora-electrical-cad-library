@@ -9,7 +9,7 @@ OTDC400UFV11-WA: ABB manufacturer DWG resource, document 1SCC307924F0201, revisi
 - Part number: Select exact configuration
 - Drawing/document number: 1SCC307924F0201
 - Installation applications: microgrids, switchgear
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,8 +24,8 @@ Original DWG drawing for OTDC400UFV11-WA; ABB document 1SCC307924F0201
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SCC307924F0201
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -97,5 +97,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307924F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 1708578 bytes
 - Delivery SHA-256: e76aefdb41270801423f4b71533cc0fbabe71ccce05439265bc7f2118f031c4a
+
+### 1SCC307924F0201.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (1SCC307924F0201.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307924F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdc400ufv11-wa-f4ea96c3/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: e76aefdb41270801423f4b71533cc0fbabe71ccce05439265bc7f2118f031c4a
+- Original bytes: 1708578
+- Revision: A
+- Retrieved: 2026-11-03T01:43:22.636989+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307924F0201&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307924F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 12888156 bytes
+- Delivery SHA-256: 914a9984b42aaa398657b5e3625ea17f2b260014d19f21040618c639ade790e4
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

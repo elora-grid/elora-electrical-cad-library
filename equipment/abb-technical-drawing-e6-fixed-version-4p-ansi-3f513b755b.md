@@ -25,6 +25,7 @@ The supplied configuration is “Technical drawing - E6 Fixed version 4p ANSI”
 - Manufacturer drawing: ITSCE-601933870
 - Manufacturer reference: ITSCE-601933870
 - Document revision: E
+- Standards: UL 1066
 - Listed file formats: DXF
 - Listed files: 1
 - Available previews: 1 drawing previews

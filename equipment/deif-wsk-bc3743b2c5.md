@@ -25,6 +25,7 @@ Manufacturer reference wsk-3d-pdfs.zip; wsk-3d-step-files.zip identifies this co
 - Manufacturer drawing: wsk-3d-pdfs.zip; wsk-3d-step-files.zip
 - Manufacturer reference: wsk-3d-pdfs.zip; wsk-3d-step-files.zip
 - Manufacturer lifecycle: Active
+- Standards: IEC 61869
 - Listed file formats: ZIP
 - Listed files: 2
 - Available previews: Manufacturer source / drawing request

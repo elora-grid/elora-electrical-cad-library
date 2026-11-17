@@ -21,6 +21,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Equipment / resource: MultiPlus-II 2x 120V
 - Manufacturer: Victron Energy
 - Resource type: Product family
+- Standards: UL 458
 - Listed file formats: STEP
 - Listed files: 4
 - Available previews: 4 interactive model variants

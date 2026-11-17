@@ -1,0 +1,3079 @@
+{
+  "schemaVersion": 1,
+  "category": "breakers",
+  "page": 19,
+  "entries": [
+    {
+      "id": "ls-doc-16764",
+      "name": "[Susol UL ACB] UAH_UAA-32~50G3_3200~5000A_V_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16764",
+      "recordPath": "equipment/ls-doc-16764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16764.json"
+    },
+    {
+      "id": "ls-doc-16763",
+      "name": "[Susol UL ACB] UAH_UAA-32~50G3_3200~5000A_H_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16763",
+      "recordPath": "equipment/ls-doc-16763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16763.json"
+    },
+    {
+      "id": "ls-doc-16762",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_V_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16762",
+      "recordPath": "equipment/ls-doc-16762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16762.json"
+    },
+    {
+      "id": "ls-doc-16761",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_N_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16761",
+      "recordPath": "equipment/ls-doc-16761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16761.json"
+    },
+    {
+      "id": "ls-doc-16760",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_M_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16760",
+      "recordPath": "equipment/ls-doc-16760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16760.json"
+    },
+    {
+      "id": "ls-doc-16759",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_H_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16759",
+      "recordPath": "equipment/ls-doc-16759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16759.json"
+    },
+    {
+      "id": "ls-doc-16758",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E4_800~2000A_V_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16758",
+      "recordPath": "equipment/ls-doc-16758.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16758.json"
+    },
+    {
+      "id": "ls-doc-16757",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E4_800~2000A_P_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16757",
+      "recordPath": "equipment/ls-doc-16757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16757.json"
+    },
+    {
+      "id": "ls-doc-16756",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E4_800~2000A_N_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16756",
+      "recordPath": "equipment/ls-doc-16756.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16756.json"
+    },
+    {
+      "id": "ls-doc-16755",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E4_800~2000A_M_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16755",
+      "recordPath": "equipment/ls-doc-16755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16755.json"
+    },
+    {
+      "id": "ls-doc-16754",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E4_800~2000A_H_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16754",
+      "recordPath": "equipment/ls-doc-16754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16754.json"
+    },
+    {
+      "id": "ls-doc-16753",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_V_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16753",
+      "recordPath": "equipment/ls-doc-16753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16753.json"
+    },
+    {
+      "id": "ls-doc-16752",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_N_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16752",
+      "recordPath": "equipment/ls-doc-16752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16752.json"
+    },
+    {
+      "id": "ls-doc-16751",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_M_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16751",
+      "recordPath": "equipment/ls-doc-16751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16751.json"
+    },
+    {
+      "id": "ls-doc-16750",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_H_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16750",
+      "recordPath": "equipment/ls-doc-16750.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16750.json"
+    },
+    {
+      "id": "ls-doc-16749",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_V_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16749",
+      "recordPath": "equipment/ls-doc-16749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16749.json"
+    },
+    {
+      "id": "ls-doc-16748",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_P_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16748",
+      "recordPath": "equipment/ls-doc-16748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16748.json"
+    },
+    {
+      "id": "ls-doc-16747",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_N_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16747",
+      "recordPath": "equipment/ls-doc-16747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16747.json"
+    },
+    {
+      "id": "ls-doc-16746",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_M_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16746",
+      "recordPath": "equipment/ls-doc-16746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16746.json"
+    },
+    {
+      "id": "ls-doc-16745",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_H_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16745",
+      "recordPath": "equipment/ls-doc-16745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16745.json"
+    },
+    {
+      "id": "ls-doc-16744",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D4_800~1600A_V_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16744",
+      "recordPath": "equipment/ls-doc-16744.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16744.json"
+    },
+    {
+      "id": "ls-doc-16743",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D4_800~1600A_P_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16743",
+      "recordPath": "equipment/ls-doc-16743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16743.json"
+    },
+    {
+      "id": "ls-doc-16742",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D4_800~1600A_N_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16742",
+      "recordPath": "equipment/ls-doc-16742.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16742.json"
+    },
+    {
+      "id": "ls-doc-16741",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D4_800~1600A_M_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16741",
+      "recordPath": "equipment/ls-doc-16741.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16741.json"
+    },
+    {
+      "id": "ls-doc-16740",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D4_800~1600A_H_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16740",
+      "recordPath": "equipment/ls-doc-16740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16740.json"
+    },
+    {
+      "id": "ls-doc-16739",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D3_800~1600A_V_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16739",
+      "recordPath": "equipment/ls-doc-16739.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16739.json"
+    },
+    {
+      "id": "ls-doc-16738",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D3_800~1600A_P_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16738",
+      "recordPath": "equipment/ls-doc-16738.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16738.json"
+    },
+    {
+      "id": "ls-doc-16737",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D3_800~1600A_N_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16737",
+      "recordPath": "equipment/ls-doc-16737.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16737.json"
+    },
+    {
+      "id": "ls-doc-16736",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D3_800~1600A_M_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16736",
+      "recordPath": "equipment/ls-doc-16736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16736.json"
+    },
+    {
+      "id": "ls-doc-16735",
+      "name": "[Susol UL ACB] UAS_UAW-08~16D3_800~1600A_H_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16735",
+      "recordPath": "equipment/ls-doc-16735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16735.json"
+    },
+    {
+      "id": "ls-doc-16734",
+      "name": "[Susol UL ACB] UAH_UAA-32~50G4_3200~5000A_V_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16734",
+      "recordPath": "equipment/ls-doc-16734.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16734.json"
+    },
+    {
+      "id": "ls-doc-16733",
+      "name": "[Susol UL ACB] UAH_UAA-32~50G4_3200~5000A_H_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16733",
+      "recordPath": "equipment/ls-doc-16733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16733.json"
+    },
+    {
+      "id": "ls-doc-16732",
+      "name": "[Susol UL ACB] UAH_UAA-32~50G3_3200~5000A_V_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16732",
+      "recordPath": "equipment/ls-doc-16732.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16732.json"
+    },
+    {
+      "id": "ls-doc-16731",
+      "name": "[Susol UL ACB] UAH_UAA-32~50G3_3200~5000A_H_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16731",
+      "recordPath": "equipment/ls-doc-16731.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16731.json"
+    },
+    {
+      "id": "ls-doc-16730",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_V_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16730",
+      "recordPath": "equipment/ls-doc-16730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16730.json"
+    },
+    {
+      "id": "ls-doc-16729",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_N_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16729",
+      "recordPath": "equipment/ls-doc-16729.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16729.json"
+    },
+    {
+      "id": "ls-doc-16728",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_M_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16728",
+      "recordPath": "equipment/ls-doc-16728.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16728.json"
+    },
+    {
+      "id": "ls-doc-16727",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E4_2500A_H_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16727",
+      "recordPath": "equipment/ls-doc-16727.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16727.json"
+    },
+    {
+      "id": "ls-doc-16726",
+      "name": "[Susol UL ACB] UAH_UAW_UAA_08~20E4_800~2000A_V_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16726",
+      "recordPath": "equipment/ls-doc-16726.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16726.json"
+    },
+    {
+      "id": "ls-doc-16725",
+      "name": "[Susol UL ACB] UAH_UAW_UAA_08~20E4_800~2000A_P_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16725",
+      "recordPath": "equipment/ls-doc-16725.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16725.json"
+    },
+    {
+      "id": "ls-doc-16724",
+      "name": "[Susol UL ACB] UAH_UAW_UAA_08~20E4_800~2000A_N_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16724",
+      "recordPath": "equipment/ls-doc-16724.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16724.json"
+    },
+    {
+      "id": "ls-doc-16723",
+      "name": "[Susol UL ACB] UAH_UAW_UAA_08~20E4_800~2000A_M_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16723",
+      "recordPath": "equipment/ls-doc-16723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16723.json"
+    },
+    {
+      "id": "ls-doc-16722",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E4_800~2000A_H_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16722",
+      "recordPath": "equipment/ls-doc-16722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16722.json"
+    },
+    {
+      "id": "ls-doc-16721",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_V_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16721",
+      "recordPath": "equipment/ls-doc-16721.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16721.json"
+    },
+    {
+      "id": "ls-doc-16720",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_N_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16720",
+      "recordPath": "equipment/ls-doc-16720.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16720.json"
+    },
+    {
+      "id": "ls-doc-16719",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_M_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16719",
+      "recordPath": "equipment/ls-doc-16719.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16719.json"
+    },
+    {
+      "id": "ls-doc-16718",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-25E3_2500A_H_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16718",
+      "recordPath": "equipment/ls-doc-16718.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16718.json"
+    },
+    {
+      "id": "ls-doc-16717",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_V_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16717",
+      "recordPath": "equipment/ls-doc-16717.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16717.json"
+    },
+    {
+      "id": "ls-doc-16716",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_P_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16716",
+      "recordPath": "equipment/ls-doc-16716.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16716.json"
+    },
+    {
+      "id": "ls-doc-16715",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_N_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16715",
+      "recordPath": "equipment/ls-doc-16715.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16715.json"
+    },
+    {
+      "id": "ls-doc-16714",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_M_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16714",
+      "recordPath": "equipment/ls-doc-16714.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16714.json"
+    },
+    {
+      "id": "ls-doc-16713",
+      "name": "[Susol UL ACB] UAH_UAW_UAA-08~20E3_800~2000A_H_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16713",
+      "recordPath": "equipment/ls-doc-16713.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16713.json"
+    },
+    {
+      "id": "ls-doc-16712",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D4_800~1600A_V_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16712",
+      "recordPath": "equipment/ls-doc-16712.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16712.json"
+    },
+    {
+      "id": "ls-doc-16711",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D4_800~1600A_P_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16711",
+      "recordPath": "equipment/ls-doc-16711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16711.json"
+    },
+    {
+      "id": "ls-doc-16710",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D4_800~1600A_N_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16710",
+      "recordPath": "equipment/ls-doc-16710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16710.json"
+    },
+    {
+      "id": "ls-doc-16709",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D4_800~1600A_M_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16709",
+      "recordPath": "equipment/ls-doc-16709.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16709.json"
+    },
+    {
+      "id": "ls-doc-16708",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D4_800~1600A_H_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16708",
+      "recordPath": "equipment/ls-doc-16708.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16708.json"
+    },
+    {
+      "id": "ls-doc-16707",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D3_800~1600A_V_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16707",
+      "recordPath": "equipment/ls-doc-16707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16707.json"
+    },
+    {
+      "id": "ls-doc-16706",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D3_800~1600A_P_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16706",
+      "recordPath": "equipment/ls-doc-16706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16706.json"
+    },
+    {
+      "id": "ls-doc-16705",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D3_800~1600A_N_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16705",
+      "recordPath": "equipment/ls-doc-16705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16705.json"
+    },
+    {
+      "id": "ls-doc-16704",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D3_800~1600A_M_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16704",
+      "recordPath": "equipment/ls-doc-16704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16704.json"
+    },
+    {
+      "id": "ls-doc-16703",
+      "name": "[Susol UL ACB] UAS_UAA-08~16D3_800~1600A_H_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16703",
+      "recordPath": "equipment/ls-doc-16703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16703.json"
+    },
+    {
+      "id": "ls-doc-16702",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_N_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16702",
+      "recordPath": "equipment/ls-doc-16702.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16702.json"
+    },
+    {
+      "id": "ls-doc-16701",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_M_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16701",
+      "recordPath": "equipment/ls-doc-16701.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16701.json"
+    },
+    {
+      "id": "ls-doc-16700",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_V_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16700",
+      "recordPath": "equipment/ls-doc-16700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16700.json"
+    },
+    {
+      "id": "ls-doc-16699",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_H_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16699",
+      "recordPath": "equipment/ls-doc-16699.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16699.json"
+    },
+    {
+      "id": "ls-doc-16698",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_P_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16698",
+      "recordPath": "equipment/ls-doc-16698.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16698.json"
+    },
+    {
+      "id": "ls-doc-16697",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_N_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16697",
+      "recordPath": "equipment/ls-doc-16697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16697.json"
+    },
+    {
+      "id": "ls-doc-16696",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_M_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16696",
+      "recordPath": "equipment/ls-doc-16696.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16696.json"
+    },
+    {
+      "id": "ls-doc-16695",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_V_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16695",
+      "recordPath": "equipment/ls-doc-16695.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16695.json"
+    },
+    {
+      "id": "ls-doc-16694",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_H_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16694",
+      "recordPath": "equipment/ls-doc-16694.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16694.json"
+    },
+    {
+      "id": "ls-doc-16693",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_P_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16693",
+      "recordPath": "equipment/ls-doc-16693.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16693.json"
+    },
+    {
+      "id": "ls-doc-16692",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_N_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16692",
+      "recordPath": "equipment/ls-doc-16692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16692.json"
+    },
+    {
+      "id": "ls-doc-16691",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_M_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16691",
+      "recordPath": "equipment/ls-doc-16691.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16691.json"
+    },
+    {
+      "id": "ls-doc-16690",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_V_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16690",
+      "recordPath": "equipment/ls-doc-16690.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16690.json"
+    },
+    {
+      "id": "ls-doc-16689",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C3_800~1200A_H_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16689",
+      "recordPath": "equipment/ls-doc-16689.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16689.json"
+    },
+    {
+      "id": "ls-doc-16688",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D4_800~1600A_W_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16688",
+      "recordPath": "equipment/ls-doc-16688.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16688.json"
+    },
+    {
+      "id": "ls-doc-16687",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D4_800~1600A_G_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16687",
+      "recordPath": "equipment/ls-doc-16687.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16687.json"
+    },
+    {
+      "id": "ls-doc-16686",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D3_800~1600A_W_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16686",
+      "recordPath": "equipment/ls-doc-16686.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16686.json"
+    },
+    {
+      "id": "ls-doc-16685",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D4_800~1600A_W_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16685",
+      "recordPath": "equipment/ls-doc-16685.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16685.json"
+    },
+    {
+      "id": "ls-doc-16684",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D4_800~1600A_G_FIXED_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16684",
+      "recordPath": "equipment/ls-doc-16684.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16684.json"
+    },
+    {
+      "id": "ls-doc-16683",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D3_800~1600A_W_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16683",
+      "recordPath": "equipment/ls-doc-16683.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16683.json"
+    },
+    {
+      "id": "ls-doc-16682",
+      "name": "[Susol ACB] NCT 2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16682",
+      "recordPath": "equipment/ls-doc-16682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16682.json"
+    },
+    {
+      "id": "ls-doc-16681",
+      "name": "[Susol UL ACB]UAS_UAA-08~16D3_800~1600A_G_FIXED_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16681",
+      "recordPath": "equipment/ls-doc-16681.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16681.json"
+    },
+    {
+      "id": "ls-doc-16680",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_N_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16680",
+      "recordPath": "equipment/ls-doc-16680.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16680.json"
+    },
+    {
+      "id": "ls-doc-16679",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_M_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16679",
+      "recordPath": "equipment/ls-doc-16679.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16679.json"
+    },
+    {
+      "id": "ls-doc-16678",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_V_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16678",
+      "recordPath": "equipment/ls-doc-16678.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16678.json"
+    },
+    {
+      "id": "ls-doc-16677",
+      "name": "[Susol UL ACB] UAH_UAA-60G4_3000~6000A_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16677",
+      "recordPath": "equipment/ls-doc-16677.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16677.json"
+    },
+    {
+      "id": "ls-doc-16676",
+      "name": "[Susol UL ACB] UAH_UAA-60G3_3000~6000A_WITHDRAW_3P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16676",
+      "recordPath": "equipment/ls-doc-16676.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16676.json"
+    },
+    {
+      "id": "ls-doc-16675",
+      "name": "[Susol UL Compact ACB] UAN_UAS_UAA-08~12C4_800~1200A_H_WITHDRAW_4P_2/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16675",
+      "recordPath": "equipment/ls-doc-16675.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16675.json"
+    },
+    {
+      "id": "ls-doc-16674",
+      "name": "[Susol UL ACB] 1600AF",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16674",
+      "recordPath": "equipment/ls-doc-16674.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16674.json"
+    },
+    {
+      "id": "ls-doc-16531",
+      "name": "[UL MCB]_BK63HU_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16531",
+      "recordPath": "equipment/ls-doc-16531.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16531.json"
+    },
+    {
+      "id": "ls-doc-16530",
+      "name": "[UL MCB]_BK63H_UL1077_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16530",
+      "recordPath": "equipment/ls-doc-16530.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16530.json"
+    },
+    {
+      "id": "ls-doc-16529",
+      "name": "[MCB] AXU,ALU_CAD_영문",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16529",
+      "recordPath": "equipment/ls-doc-16529.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16529.json"
+    },
+    {
+      "id": "ls-doc-16519",
+      "name": "[Susol MCCB] UL/IEC DC1500V MCCB",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16519",
+      "recordPath": "equipment/ls-doc-16519.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16519.json"
+    },
+    {
+      "id": "ls-doc-16518",
+      "name": "[Susol UL MCCB] Susol UL MCCB Series_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16518",
+      "recordPath": "equipment/ls-doc-16518.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16518.json"
+    },
+    {
+      "id": "ls-doc-16515",
+      "name": "[Susol UL MCCB] Accessory_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16515",
+      "recordPath": "equipment/ls-doc-16515.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16515.json"
+    },
+    {
+      "id": "ls-doc-16512",
+      "name": "[Susol MCCB] UTE100 with handle_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "IGES",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16512",
+      "recordPath": "equipment/ls-doc-16512.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16512.json"
+    },
+    {
+      "id": "ls-doc-16511",
+      "name": "[Susol MCCB] UTS1200AF (3P)_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "IGES",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16511",
+      "recordPath": "equipment/ls-doc-16511.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16511.json"
+    },
+    {
+      "id": "ls-doc-16509",
+      "name": "[Susol MCCB] UTE100",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16509",
+      "recordPath": "equipment/ls-doc-16509.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16509.json"
+    },
+    {
+      "id": "ls-doc-16508",
+      "name": "[Susol MCCB] UTS800,1200",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16508",
+      "recordPath": "equipment/ls-doc-16508.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16508.json"
+    },
+    {
+      "id": "ls-doc-16507",
+      "name": "[Susol MCCB] UTS400,600",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16507",
+      "recordPath": "equipment/ls-doc-16507.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16507.json"
+    },
+    {
+      "id": "ls-doc-16506",
+      "name": "[Susol MCCB] UTS150,250",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "IGES",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16506",
+      "recordPath": "equipment/ls-doc-16506.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16506.json"
+    },
+    {
+      "id": "ls-doc-16505",
+      "name": "[Susol MCCB] UTS800,1200 with Handle_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "IGES",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16505",
+      "recordPath": "equipment/ls-doc-16505.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16505.json"
+    },
+    {
+      "id": "ls-doc-16504",
+      "name": "[Susol MCCB] UTS400,600 with Handle_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "IGES",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16504",
+      "recordPath": "equipment/ls-doc-16504.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16504.json"
+    },
+    {
+      "id": "ls-doc-16503",
+      "name": "[Susol MCCB] UTS150,250 with Handle_3D",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "IGES",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16503",
+      "recordPath": "equipment/ls-doc-16503.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16503.json"
+    },
+    {
+      "id": "ls-doc-16502",
+      "name": "[Susol UL MCCB]_PL PHL for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16502",
+      "recordPath": "equipment/ls-doc-16502.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16502.json"
+    },
+    {
+      "id": "ls-doc-16501",
+      "name": "[Susol UL MCCB]_PL PHL for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16501",
+      "recordPath": "equipment/ls-doc-16501.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16501.json"
+    },
+    {
+      "id": "ls-doc-16500",
+      "name": "[Susol UL MCCB]_PL PHL for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16500",
+      "recordPath": "equipment/ls-doc-16500.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16500.json"
+    },
+    {
+      "id": "ls-doc-16499",
+      "name": "[Susol UL MCCB]_PL PHL for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16499",
+      "recordPath": "equipment/ls-doc-16499.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16499.json"
+    },
+    {
+      "id": "ls-doc-16498",
+      "name": "[Susol UL MCCB]_LUG ASSY for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16498",
+      "recordPath": "equipment/ls-doc-16498.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16498.json"
+    },
+    {
+      "id": "ls-doc-16497",
+      "name": "[Susol UL MCCB]_LUG ASSY for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16497",
+      "recordPath": "equipment/ls-doc-16497.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16497.json"
+    },
+    {
+      "id": "ls-doc-16496",
+      "name": "[Susol UL MCCB]_LUG ASSY for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16496",
+      "recordPath": "equipment/ls-doc-16496.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16496.json"
+    },
+    {
+      "id": "ls-doc-16495",
+      "name": "[Susol UL MCCB]_LUG ASSY for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16495",
+      "recordPath": "equipment/ls-doc-16495.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16495.json"
+    },
+    {
+      "id": "ls-doc-16494",
+      "name": "[Susol UL MCCB]_DH DHK for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16494",
+      "recordPath": "equipment/ls-doc-16494.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16494.json"
+    },
+    {
+      "id": "ls-doc-16493",
+      "name": "[Susol UL MCCB]_COM VDM for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16493",
+      "recordPath": "equipment/ls-doc-16493.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16493.json"
+    },
+    {
+      "id": "ls-doc-16492",
+      "name": "[Susol UL MCCB]_REH for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16492",
+      "recordPath": "equipment/ls-doc-16492.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16492.json"
+    },
+    {
+      "id": "ls-doc-16491",
+      "name": "[Susol UL MCCB]_EHU for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16491",
+      "recordPath": "equipment/ls-doc-16491.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16491.json"
+    },
+    {
+      "id": "ls-doc-16490",
+      "name": "[Susol UL MCCB]_DH DHK for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16490",
+      "recordPath": "equipment/ls-doc-16490.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16490.json"
+    },
+    {
+      "id": "ls-doc-16489",
+      "name": "[Susol UL MCCB]_COM VDM for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16489",
+      "recordPath": "equipment/ls-doc-16489.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16489.json"
+    },
+    {
+      "id": "ls-doc-16488",
+      "name": "[Susol UL MCCB]_FHU for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16488",
+      "recordPath": "equipment/ls-doc-16488.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16488.json"
+    },
+    {
+      "id": "ls-doc-16487",
+      "name": "[Susol UL MCCB]_REH for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16487",
+      "recordPath": "equipment/ls-doc-16487.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16487.json"
+    },
+    {
+      "id": "ls-doc-16486",
+      "name": "[Susol UL MCCB]_EHU for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16486",
+      "recordPath": "equipment/ls-doc-16486.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16486.json"
+    },
+    {
+      "id": "ls-doc-16485",
+      "name": "[Susol UL MCCB]_DH DHK for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16485",
+      "recordPath": "equipment/ls-doc-16485.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16485.json"
+    },
+    {
+      "id": "ls-doc-16484",
+      "name": "[Susol UL MCCB]_COM VDM for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16484",
+      "recordPath": "equipment/ls-doc-16484.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16484.json"
+    },
+    {
+      "id": "ls-doc-16483",
+      "name": "[Susol UL MCCB]_FHU for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16483",
+      "recordPath": "equipment/ls-doc-16483.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16483.json"
+    },
+    {
+      "id": "ls-doc-16482",
+      "name": "[Susol UL MCCB]_REH for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16482",
+      "recordPath": "equipment/ls-doc-16482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16482.json"
+    },
+    {
+      "id": "ls-doc-16481",
+      "name": "[Susol UL MCCB]_EHU for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16481",
+      "recordPath": "equipment/ls-doc-16481.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16481.json"
+    },
+    {
+      "id": "ls-doc-16480",
+      "name": "[Susol UL MCCB]_DH for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16480",
+      "recordPath": "equipment/ls-doc-16480.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16480.json"
+    },
+    {
+      "id": "ls-doc-16479",
+      "name": "[Susol UL MCCB]_COM VDM for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16479",
+      "recordPath": "equipment/ls-doc-16479.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16479.json"
+    },
+    {
+      "id": "ls-doc-16478",
+      "name": "[Susol UL MCCB]_REH for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16478",
+      "recordPath": "equipment/ls-doc-16478.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16478.json"
+    },
+    {
+      "id": "ls-doc-16477",
+      "name": "[Susol UL MCCB]_EHU for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16477",
+      "recordPath": "equipment/ls-doc-16477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16477.json"
+    },
+    {
+      "id": "ls-doc-16476",
+      "name": "[Susol UL MCCB]_RCD for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16476",
+      "recordPath": "equipment/ls-doc-16476.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16476.json"
+    },
+    {
+      "id": "ls-doc-16475",
+      "name": "[Susol UL MCCB]_RCD for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16475",
+      "recordPath": "equipment/ls-doc-16475.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16475.json"
+    },
+    {
+      "id": "ls-doc-16474",
+      "name": "[Susol UL MCCB]_MOP for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16474",
+      "recordPath": "equipment/ls-doc-16474.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16474.json"
+    },
+    {
+      "id": "ls-doc-16473",
+      "name": "[Susol UL MCCB]_MOP for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16473",
+      "recordPath": "equipment/ls-doc-16473.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16473.json"
+    },
+    {
+      "id": "ls-doc-16472",
+      "name": "[Susol UL MCCB]_MIT for UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16472",
+      "recordPath": "equipment/ls-doc-16472.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16472.json"
+    },
+    {
+      "id": "ls-doc-16471",
+      "name": "[Susol UL MCCB]_MIT for UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16471",
+      "recordPath": "equipment/ls-doc-16471.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16471.json"
+    },
+    {
+      "id": "ls-doc-16470",
+      "name": "[Susol UL MCCB]_MIT for UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16470",
+      "recordPath": "equipment/ls-doc-16470.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16470.json"
+    },
+    {
+      "id": "ls-doc-16469",
+      "name": "[Susol UL MCCB]_MIT for UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16469",
+      "recordPath": "equipment/ls-doc-16469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16469.json"
+    },
+    {
+      "id": "ls-doc-16468",
+      "name": "[Susol UL MCCB]_UTV250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16468",
+      "recordPath": "equipment/ls-doc-16468.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16468.json"
+    },
+    {
+      "id": "ls-doc-16467",
+      "name": "[Susol UL MCCB]_UTD400 UTD600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16467",
+      "recordPath": "equipment/ls-doc-16467.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16467.json"
+    },
+    {
+      "id": "ls-doc-16466",
+      "name": "[Susol UL MCCB]_UTD250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16466",
+      "recordPath": "equipment/ls-doc-16466.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16466.json"
+    },
+    {
+      "id": "ls-doc-16465",
+      "name": "[Susol UL MCCB]_UTS800 UTS1200_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16465",
+      "recordPath": "equipment/ls-doc-16465.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16465.json"
+    },
+    {
+      "id": "ls-doc-16464",
+      "name": "[Susol UL MCCB]_UTS400 UTS600_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16464",
+      "recordPath": "equipment/ls-doc-16464.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16464.json"
+    },
+    {
+      "id": "ls-doc-16463",
+      "name": "[Susol UL MCCB]_UTS150 UTS250_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16463",
+      "recordPath": "equipment/ls-doc-16463.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16463.json"
+    },
+    {
+      "id": "ls-doc-16462",
+      "name": "[Susol UL MCCB]_UTE100_2D/3D CAD",
+      "manufacturer": "LS ELECTRIC",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/ls-doc-16462",
+      "recordPath": "equipment/ls-doc-16462.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/ls-doc-16462.json"
+    },
+    {
+      "id": "eti-004600320",
+      "name": "MS25-25",
+      "manufacturer": "ETI",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eti-004600320",
+      "recordPath": "equipment/eti-004600320.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eti-004600320.json"
+    },
+    {
+      "id": "eaton-article-138543",
+      "name": "MCCB3-400/I45E-200 — Housing, insulated material, for molded-case circuit-breaker NZM3 size, HxWxD=500x375x225mm",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-138543",
+      "recordPath": "equipment/eaton-article-138543.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-138543.json"
+    },
+    {
+      "id": "eaton-article-138542",
+      "name": "MCCB2-250/I45E-200 — Housing, insulated material, for molded-case circuit-breaker NZM2 size, HxWxD=500x375x225mm",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-138542",
+      "recordPath": "equipment/eaton-article-138542.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-138542.json"
+    },
+    {
+      "id": "lovato-order-22ca4bd6fe501fad2e1d586e",
+      "name": "P2MB4PD100 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-22ca4bd6fe501fad2e1d586e",
+      "recordPath": "equipment/lovato-order-22ca4bd6fe501fad2e1d586e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-22ca4bd6fe501fad2e1d586e.json"
+    },
+    {
+      "id": "lovato-order-ac7b29bae6bfbc775e950f76",
+      "name": "SM1R0400 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ac7b29bae6bfbc775e950f76",
+      "recordPath": "equipment/lovato-order-ac7b29bae6bfbc775e950f76.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ac7b29bae6bfbc775e950f76.json"
+    },
+    {
+      "id": "lovato-order-de3bb650c1ef80bc3d0bcb4d",
+      "name": "P1MB1PB04 — Miniature circuit breaker - 1P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-de3bb650c1ef80bc3d0bcb4d",
+      "recordPath": "equipment/lovato-order-de3bb650c1ef80bc3d0bcb4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-de3bb650c1ef80bc3d0bcb4d.json"
+    },
+    {
+      "id": "lovato-order-4be786a23bcaf2fd220363b8",
+      "name": "P1MB1MC16 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4be786a23bcaf2fd220363b8",
+      "recordPath": "equipment/lovato-order-4be786a23bcaf2fd220363b8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4be786a23bcaf2fd220363b8.json"
+    },
+    {
+      "id": "lovato-order-9b9e4d83c35c7a78af2b4b6c",
+      "name": "SM1R1400 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9b9e4d83c35c7a78af2b4b6c",
+      "recordPath": "equipment/lovato-order-9b9e4d83c35c7a78af2b4b6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9b9e4d83c35c7a78af2b4b6c.json"
+    },
+    {
+      "id": "lovato-order-d69c4d1de46adfc0179cb785",
+      "name": "P1MB4PB06 — Miniature circuit breaker - 4P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d69c4d1de46adfc0179cb785",
+      "recordPath": "equipment/lovato-order-d69c4d1de46adfc0179cb785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d69c4d1de46adfc0179cb785.json"
+    },
+    {
+      "id": "lovato-order-d43cb90344ceef9930dcdc92",
+      "name": "P1MB4PC02 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-d43cb90344ceef9930dcdc92",
+      "recordPath": "equipment/lovato-order-d43cb90344ceef9930dcdc92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-d43cb90344ceef9930dcdc92.json"
+    },
+    {
+      "id": "lovato-order-7bfed3a93de83310ae814cbe",
+      "name": "P1MB2PD63 — Miniature circuit breaker - 2P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7bfed3a93de83310ae814cbe",
+      "recordPath": "equipment/lovato-order-7bfed3a93de83310ae814cbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7bfed3a93de83310ae814cbe.json"
+    },
+    {
+      "id": "lovato-order-5c0386c7ab5530bfad61b934",
+      "name": "P1MB2PC50 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5c0386c7ab5530bfad61b934",
+      "recordPath": "equipment/lovato-order-5c0386c7ab5530bfad61b934.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5c0386c7ab5530bfad61b934.json"
+    },
+    {
+      "id": "lovato-order-ae76ea83c0461a7bb36b837d",
+      "name": "P2MB3PD125 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-ae76ea83c0461a7bb36b837d",
+      "recordPath": "equipment/lovato-order-ae76ea83c0461a7bb36b837d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-ae76ea83c0461a7bb36b837d.json"
+    },
+    {
+      "id": "lovato-order-1d7de59855be6ad3ce2e7b38",
+      "name": "P1MB3PB02 — Miniature circuit breaker - 3P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-1d7de59855be6ad3ce2e7b38",
+      "recordPath": "equipment/lovato-order-1d7de59855be6ad3ce2e7b38.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-1d7de59855be6ad3ce2e7b38.json"
+    },
+    {
+      "id": "lovato-order-caa8b7aae70f602fbc0d62f0",
+      "name": "P2MB4PD080 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-caa8b7aae70f602fbc0d62f0",
+      "recordPath": "equipment/lovato-order-caa8b7aae70f602fbc0d62f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-caa8b7aae70f602fbc0d62f0.json"
+    },
+    {
+      "id": "lovato-order-bb2d8dcc80f32ebcbd709816",
+      "name": "P1MB4PB16 — Miniature circuit breaker - 4P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-bb2d8dcc80f32ebcbd709816",
+      "recordPath": "equipment/lovato-order-bb2d8dcc80f32ebcbd709816.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-bb2d8dcc80f32ebcbd709816.json"
+    },
+    {
+      "id": "lovato-order-8fc40c5f049fb168867a7c40",
+      "name": "SM1R4000 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8fc40c5f049fb168867a7c40",
+      "recordPath": "equipment/lovato-order-8fc40c5f049fb168867a7c40.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8fc40c5f049fb168867a7c40.json"
+    },
+    {
+      "id": "lovato-order-6fe340119b64c98092dfdf1a",
+      "name": "P1MB3PC25 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6fe340119b64c98092dfdf1a",
+      "recordPath": "equipment/lovato-order-6fe340119b64c98092dfdf1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6fe340119b64c98092dfdf1a.json"
+    },
+    {
+      "id": "lovato-order-77dc1f7bbce02830a620579c",
+      "name": "SM1P0160 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-77dc1f7bbce02830a620579c",
+      "recordPath": "equipment/lovato-order-77dc1f7bbce02830a620579c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-77dc1f7bbce02830a620579c.json"
+    },
+    {
+      "id": "lovato-order-eb489e5be64530dd4340a792",
+      "name": "P1MB3PD25 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-eb489e5be64530dd4340a792",
+      "recordPath": "equipment/lovato-order-eb489e5be64530dd4340a792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-eb489e5be64530dd4340a792.json"
+    },
+    {
+      "id": "lovato-order-c2670493d13a84697dfbf0c6",
+      "name": "P1MB4PC10 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c2670493d13a84697dfbf0c6",
+      "recordPath": "equipment/lovato-order-c2670493d13a84697dfbf0c6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c2670493d13a84697dfbf0c6.json"
+    },
+    {
+      "id": "lovato-order-0d22a8a014c60ac10acece6c",
+      "name": "P1MB4PD10 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0d22a8a014c60ac10acece6c",
+      "recordPath": "equipment/lovato-order-0d22a8a014c60ac10acece6c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0d22a8a014c60ac10acece6c.json"
+    },
+    {
+      "id": "lovato-order-f811029a4ebcea4cd69a53d1",
+      "name": "P1MB2PB40 — Miniature circuit breaker - 2P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f811029a4ebcea4cd69a53d1",
+      "recordPath": "equipment/lovato-order-f811029a4ebcea4cd69a53d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f811029a4ebcea4cd69a53d1.json"
+    },
+    {
+      "id": "lovato-order-c55b249b977ce8d44a2131d7",
+      "name": "P1MB1PB20 — Miniature circuit breaker - 1P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c55b249b977ce8d44a2131d7",
+      "recordPath": "equipment/lovato-order-c55b249b977ce8d44a2131d7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c55b249b977ce8d44a2131d7.json"
+    },
+    {
+      "id": "lovato-order-507ed35ff0fc42734c6baa95",
+      "name": "P1MB3PC06 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-507ed35ff0fc42734c6baa95",
+      "recordPath": "equipment/lovato-order-507ed35ff0fc42734c6baa95.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-507ed35ff0fc42734c6baa95.json"
+    },
+    {
+      "id": "lovato-order-f276d07b2e3f115ab469fdb0",
+      "name": "SM1P3200 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f276d07b2e3f115ab469fdb0",
+      "recordPath": "equipment/lovato-order-f276d07b2e3f115ab469fdb0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f276d07b2e3f115ab469fdb0.json"
+    },
+    {
+      "id": "lovato-order-693a2658faa5d038d0eabcc6",
+      "name": "SM1P1000 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-693a2658faa5d038d0eabcc6",
+      "recordPath": "equipment/lovato-order-693a2658faa5d038d0eabcc6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-693a2658faa5d038d0eabcc6.json"
+    },
+    {
+      "id": "lovato-order-a52b2ba78a32309fcc92c10e",
+      "name": "P1MB4PC16 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a52b2ba78a32309fcc92c10e",
+      "recordPath": "equipment/lovato-order-a52b2ba78a32309fcc92c10e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a52b2ba78a32309fcc92c10e.json"
+    },
+    {
+      "id": "lovato-order-c2216405cdc9b92eb5383083",
+      "name": "P2MB3PC125 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c2216405cdc9b92eb5383083",
+      "recordPath": "equipment/lovato-order-c2216405cdc9b92eb5383083.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c2216405cdc9b92eb5383083.json"
+    },
+    {
+      "id": "lovato-order-fad72cacb9a03adf9b1d734c",
+      "name": "SM3R7500 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fad72cacb9a03adf9b1d734c",
+      "recordPath": "equipment/lovato-order-fad72cacb9a03adf9b1d734c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fad72cacb9a03adf9b1d734c.json"
+    },
+    {
+      "id": "lovato-order-9cc3fd5bdd565eaa03fe041c",
+      "name": "SM2R6300 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9cc3fd5bdd565eaa03fe041c",
+      "recordPath": "equipment/lovato-order-9cc3fd5bdd565eaa03fe041c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9cc3fd5bdd565eaa03fe041c.json"
+    },
+    {
+      "id": "lovato-order-06ca10eaba51d2058d13c197",
+      "name": "P1MB1PD25 — Miniature circuit breaker - 1P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-06ca10eaba51d2058d13c197",
+      "recordPath": "equipment/lovato-order-06ca10eaba51d2058d13c197.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-06ca10eaba51d2058d13c197.json"
+    },
+    {
+      "id": "lovato-order-e0d7d9b96d687129e28953f2",
+      "name": "P1MB3PB50 — Miniature circuit breaker - 3P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e0d7d9b96d687129e28953f2",
+      "recordPath": "equipment/lovato-order-e0d7d9b96d687129e28953f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e0d7d9b96d687129e28953f2.json"
+    },
+    {
+      "id": "lovato-order-feccd4cac8f6cc70e60b084d",
+      "name": "SM1P2300 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-feccd4cac8f6cc70e60b084d",
+      "recordPath": "equipment/lovato-order-feccd4cac8f6cc70e60b084d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-feccd4cac8f6cc70e60b084d.json"
+    },
+    {
+      "id": "lovato-order-75ac9b3e883e6c1dd322df6b",
+      "name": "P1MB2PB16 — Miniature circuit breaker - 2P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-75ac9b3e883e6c1dd322df6b",
+      "recordPath": "equipment/lovato-order-75ac9b3e883e6c1dd322df6b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-75ac9b3e883e6c1dd322df6b.json"
+    },
+    {
+      "id": "lovato-order-0e81489902b63554b7495e5c",
+      "name": "SM1X3241R — Rigid SM1 breaker-contactor connection. For motor protection breaker SM1R... with BF26...38A contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0e81489902b63554b7495e5c",
+      "recordPath": "equipment/lovato-order-0e81489902b63554b7495e5c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0e81489902b63554b7495e5c.json"
+    },
+    {
+      "id": "lovato-order-32bcc78e9f37029170fd38b2",
+      "name": "P1MB3PC32 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-32bcc78e9f37029170fd38b2",
+      "recordPath": "equipment/lovato-order-32bcc78e9f37029170fd38b2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-32bcc78e9f37029170fd38b2.json"
+    },
+    {
+      "id": "lovato-order-640c62e9ef583f9c51b486cf",
+      "name": "SM1X3141R — Rigid SM1 breaker-contactor connection. For motor protection breaker SM1R... with BF09...25A contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-640c62e9ef583f9c51b486cf",
+      "recordPath": "equipment/lovato-order-640c62e9ef583f9c51b486cf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-640c62e9ef583f9c51b486cf.json"
+    },
+    {
+      "id": "lovato-order-8f1d726140e0a6160ecbbe98",
+      "name": "P2MB4PC125 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8f1d726140e0a6160ecbbe98",
+      "recordPath": "equipment/lovato-order-8f1d726140e0a6160ecbbe98.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8f1d726140e0a6160ecbbe98.json"
+    },
+    {
+      "id": "lovato-order-c7efc966d1e83d2c9d3dc071",
+      "name": "P1MB4PC04 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c7efc966d1e83d2c9d3dc071",
+      "recordPath": "equipment/lovato-order-c7efc966d1e83d2c9d3dc071.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c7efc966d1e83d2c9d3dc071.json"
+    },
+    {
+      "id": "lovato-order-17f32d55954ddedaadfe067e",
+      "name": "P2MB2PC125 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-17f32d55954ddedaadfe067e",
+      "recordPath": "equipment/lovato-order-17f32d55954ddedaadfe067e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-17f32d55954ddedaadfe067e.json"
+    },
+    {
+      "id": "lovato-order-2240ed5fff570fa83c33170d",
+      "name": "SM1P0040 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2240ed5fff570fa83c33170d",
+      "recordPath": "equipment/lovato-order-2240ed5fff570fa83c33170d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2240ed5fff570fa83c33170d.json"
+    },
+    {
+      "id": "lovato-order-0caf306f5ee364d4bff9b31c",
+      "name": "P1MB2PD20 — Miniature circuit breaker - 2P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0caf306f5ee364d4bff9b31c",
+      "recordPath": "equipment/lovato-order-0caf306f5ee364d4bff9b31c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0caf306f5ee364d4bff9b31c.json"
+    },
+    {
+      "id": "lovato-order-9482d109859f4639193ddcbc",
+      "name": "P1MB4PD32 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9482d109859f4639193ddcbc",
+      "recordPath": "equipment/lovato-order-9482d109859f4639193ddcbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9482d109859f4639193ddcbc.json"
+    },
+    {
+      "id": "lovato-order-7eb970279a5ac8e852831c74",
+      "name": "P1MB2PB06 — Miniature circuit breaker - 2P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7eb970279a5ac8e852831c74",
+      "recordPath": "equipment/lovato-order-7eb970279a5ac8e852831c74.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7eb970279a5ac8e852831c74.json"
+    },
+    {
+      "id": "lovato-order-b5d6823628749e00f1b93f71",
+      "name": "P1MB3PC16 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b5d6823628749e00f1b93f71",
+      "recordPath": "equipment/lovato-order-b5d6823628749e00f1b93f71.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b5d6823628749e00f1b93f71.json"
+    },
+    {
+      "id": "lovato-order-983006b2776012616b5e4b36",
+      "name": "P1MB2PC40 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-983006b2776012616b5e4b36",
+      "recordPath": "equipment/lovato-order-983006b2776012616b5e4b36.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-983006b2776012616b5e4b36.json"
+    },
+    {
+      "id": "lovato-order-5b77c9731a9836f59d1f8bd4",
+      "name": "SM1P2500 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5b77c9731a9836f59d1f8bd4",
+      "recordPath": "equipment/lovato-order-5b77c9731a9836f59d1f8bd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5b77c9731a9836f59d1f8bd4.json"
+    },
+    {
+      "id": "lovato-order-9ee7ea6f1cd697b28e8cf4ce",
+      "name": "P1MB1PC10 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-9ee7ea6f1cd697b28e8cf4ce",
+      "recordPath": "equipment/lovato-order-9ee7ea6f1cd697b28e8cf4ce.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-9ee7ea6f1cd697b28e8cf4ce.json"
+    },
+    {
+      "id": "lovato-order-3a22eb8e27a45cbcf6d2d1ec",
+      "name": "P1MB3PD10 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3a22eb8e27a45cbcf6d2d1ec",
+      "recordPath": "equipment/lovato-order-3a22eb8e27a45cbcf6d2d1ec.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3a22eb8e27a45cbcf6d2d1ec.json"
+    },
+    {
+      "id": "lovato-order-3aed05f49f95b2325f173939",
+      "name": "P1MB4PD25 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3aed05f49f95b2325f173939",
+      "recordPath": "equipment/lovato-order-3aed05f49f95b2325f173939.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3aed05f49f95b2325f173939.json"
+    },
+    {
+      "id": "lovato-order-934b7d37684dc414f901f33b",
+      "name": "SM3R9000 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-934b7d37684dc414f901f33b",
+      "recordPath": "equipment/lovato-order-934b7d37684dc414f901f33b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-934b7d37684dc414f901f33b.json"
+    },
+    {
+      "id": "lovato-order-b94344627096633a7303cf92",
+      "name": "P1MB4PC32 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-b94344627096633a7303cf92",
+      "recordPath": "equipment/lovato-order-b94344627096633a7303cf92.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-b94344627096633a7303cf92.json"
+    },
+    {
+      "id": "lovato-order-89f0deed8da6ab22830f4d7e",
+      "name": "P1MB2PC25 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-89f0deed8da6ab22830f4d7e",
+      "recordPath": "equipment/lovato-order-89f0deed8da6ab22830f4d7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-89f0deed8da6ab22830f4d7e.json"
+    },
+    {
+      "id": "lovato-order-61300533e05aa9374b0f317e",
+      "name": "P1MB3PD04 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-61300533e05aa9374b0f317e",
+      "recordPath": "equipment/lovato-order-61300533e05aa9374b0f317e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-61300533e05aa9374b0f317e.json"
+    },
+    {
+      "id": "lovato-order-4a4e54591e9937b31ff4c5d0",
+      "name": "P1MB3PC01 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-4a4e54591e9937b31ff4c5d0",
+      "recordPath": "equipment/lovato-order-4a4e54591e9937b31ff4c5d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-4a4e54591e9937b31ff4c5d0.json"
+    },
+    {
+      "id": "lovato-order-3833887cbe65f4f054de49a4",
+      "name": "P1MB4PD01 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3833887cbe65f4f054de49a4",
+      "recordPath": "equipment/lovato-order-3833887cbe65f4f054de49a4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3833887cbe65f4f054de49a4.json"
+    },
+    {
+      "id": "lovato-order-5df7fb87dc80e53720ab621c",
+      "name": "P1MB3PB04 — Miniature circuit breaker - 3P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5df7fb87dc80e53720ab621c",
+      "recordPath": "equipment/lovato-order-5df7fb87dc80e53720ab621c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5df7fb87dc80e53720ab621c.json"
+    },
+    {
+      "id": "lovato-order-5469c1c3a69f42907f8697de",
+      "name": "P1MB4PC20 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5469c1c3a69f42907f8697de",
+      "recordPath": "equipment/lovato-order-5469c1c3a69f42907f8697de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5469c1c3a69f42907f8697de.json"
+    },
+    {
+      "id": "lovato-order-3be8e5add361e5775f6b2974",
+      "name": "P1MB4PB40 — Miniature circuit breaker - 4P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3be8e5add361e5775f6b2974",
+      "recordPath": "equipment/lovato-order-3be8e5add361e5775f6b2974.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3be8e5add361e5775f6b2974.json"
+    },
+    {
+      "id": "lovato-order-a546d2f5c1f234c8e85b506c",
+      "name": "P1MB3PD06 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a546d2f5c1f234c8e85b506c",
+      "recordPath": "equipment/lovato-order-a546d2f5c1f234c8e85b506c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a546d2f5c1f234c8e85b506c.json"
+    },
+    {
+      "id": "lovato-order-30d2d4b58fa6537675a3c11a",
+      "name": "P1MB3PC04 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-30d2d4b58fa6537675a3c11a",
+      "recordPath": "equipment/lovato-order-30d2d4b58fa6537675a3c11a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-30d2d4b58fa6537675a3c11a.json"
+    },
+    {
+      "id": "lovato-order-cfa75e673cffbc091bf1402e",
+      "name": "SM3R9900 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cfa75e673cffbc091bf1402e",
+      "recordPath": "equipment/lovato-order-cfa75e673cffbc091bf1402e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cfa75e673cffbc091bf1402e.json"
+    },
+    {
+      "id": "lovato-order-f4fe4bbc2de3b62bbfb306ed",
+      "name": "P1MB4PB01 — Miniature circuit breaker - 4P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f4fe4bbc2de3b62bbfb306ed",
+      "recordPath": "equipment/lovato-order-f4fe4bbc2de3b62bbfb306ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f4fe4bbc2de3b62bbfb306ed.json"
+    },
+    {
+      "id": "lovato-order-fa16b40787ae3af83d06c450",
+      "name": "P1MB3PB10 — Miniature circuit breaker - 3P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-fa16b40787ae3af83d06c450",
+      "recordPath": "equipment/lovato-order-fa16b40787ae3af83d06c450.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-fa16b40787ae3af83d06c450.json"
+    },
+    {
+      "id": "lovato-order-e69c3f730e99ef49e17470de",
+      "name": "P1MB2PC10 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e69c3f730e99ef49e17470de",
+      "recordPath": "equipment/lovato-order-e69c3f730e99ef49e17470de.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e69c3f730e99ef49e17470de.json"
+    },
+    {
+      "id": "lovato-order-e77e375fa46155261c358f9d",
+      "name": "P1MB3PB06 — Miniature circuit breaker - 3P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e77e375fa46155261c358f9d",
+      "recordPath": "equipment/lovato-order-e77e375fa46155261c358f9d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e77e375fa46155261c358f9d.json"
+    },
+    {
+      "id": "lovato-order-7921eb5fda902d044168e026",
+      "name": "SM1X3241P — Rigid SM1 breaker-contactor connection. For motor protection breaker SM1P... with BF26...38A contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7921eb5fda902d044168e026",
+      "recordPath": "equipment/lovato-order-7921eb5fda902d044168e026.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7921eb5fda902d044168e026.json"
+    },
+    {
+      "id": "lovato-order-2b156a5584bb4caca2afd3ed",
+      "name": "P1MB3PB32 — Miniature circuit breaker - 3P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2b156a5584bb4caca2afd3ed",
+      "recordPath": "equipment/lovato-order-2b156a5584bb4caca2afd3ed.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2b156a5584bb4caca2afd3ed.json"
+    },
+    {
+      "id": "lovato-order-309899952c4bc5472f157985",
+      "name": "P1MB2PC16 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-309899952c4bc5472f157985",
+      "recordPath": "equipment/lovato-order-309899952c4bc5472f157985.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-309899952c4bc5472f157985.json"
+    },
+    {
+      "id": "lovato-order-6119d418e0a0a211facd5963",
+      "name": "P1MB4PC50 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-6119d418e0a0a211facd5963",
+      "recordPath": "equipment/lovato-order-6119d418e0a0a211facd5963.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-6119d418e0a0a211facd5963.json"
+    },
+    {
+      "id": "lovato-order-02b465d7af880c697b95ae81",
+      "name": "SM1R1800 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-02b465d7af880c697b95ae81",
+      "recordPath": "equipment/lovato-order-02b465d7af880c697b95ae81.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-02b465d7af880c697b95ae81.json"
+    },
+    {
+      "id": "lovato-order-55f52f1c7899ccb9846b8de4",
+      "name": "P1MB3PC40 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-55f52f1c7899ccb9846b8de4",
+      "recordPath": "equipment/lovato-order-55f52f1c7899ccb9846b8de4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-55f52f1c7899ccb9846b8de4.json"
+    },
+    {
+      "id": "lovato-order-57241aa23f04e2f9b4f04cca",
+      "name": "P1MB4PC06 — Miniature circuit breaker - 4P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-57241aa23f04e2f9b4f04cca",
+      "recordPath": "equipment/lovato-order-57241aa23f04e2f9b4f04cca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-57241aa23f04e2f9b4f04cca.json"
+    },
+    {
+      "id": "lovato-order-2e773de5c015703a21364869",
+      "name": "P1MB4PB50 — Miniature circuit breaker - 4P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-2e773de5c015703a21364869",
+      "recordPath": "equipment/lovato-order-2e773de5c015703a21364869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-2e773de5c015703a21364869.json"
+    },
+    {
+      "id": "lovato-order-293ae50dc4361ec3728c4c23",
+      "name": "P1MB1MC02 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-293ae50dc4361ec3728c4c23",
+      "recordPath": "equipment/lovato-order-293ae50dc4361ec3728c4c23.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-293ae50dc4361ec3728c4c23.json"
+    },
+    {
+      "id": "lovato-order-e1496708954fde4dcd0cd797",
+      "name": "P1MB3PD20 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e1496708954fde4dcd0cd797",
+      "recordPath": "equipment/lovato-order-e1496708954fde4dcd0cd797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e1496708954fde4dcd0cd797.json"
+    },
+    {
+      "id": "lovato-order-f1f2fc0e78ebebb1ff194081",
+      "name": "P1MB1MC32 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f1f2fc0e78ebebb1ff194081",
+      "recordPath": "equipment/lovato-order-f1f2fc0e78ebebb1ff194081.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f1f2fc0e78ebebb1ff194081.json"
+    },
+    {
+      "id": "lovato-order-75c884e4a195a0c59b92758c",
+      "name": "P2MB2PC100 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-75c884e4a195a0c59b92758c",
+      "recordPath": "equipment/lovato-order-75c884e4a195a0c59b92758c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-75c884e4a195a0c59b92758c.json"
+    },
+    {
+      "id": "lovato-order-00ab7cdcc4f42a9c89b11dbe",
+      "name": "P1MB4PD02 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-00ab7cdcc4f42a9c89b11dbe",
+      "recordPath": "equipment/lovato-order-00ab7cdcc4f42a9c89b11dbe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-00ab7cdcc4f42a9c89b11dbe.json"
+    },
+    {
+      "id": "lovato-order-a59470402ea1bb6fee300aa7",
+      "name": "P1MB4PD06 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-a59470402ea1bb6fee300aa7",
+      "recordPath": "equipment/lovato-order-a59470402ea1bb6fee300aa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-a59470402ea1bb6fee300aa7.json"
+    },
+    {
+      "id": "lovato-order-891ada6a9dfc5acb22ad90ac",
+      "name": "P1MB4PB10 — Miniature circuit breaker - 4P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-891ada6a9dfc5acb22ad90ac",
+      "recordPath": "equipment/lovato-order-891ada6a9dfc5acb22ad90ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-891ada6a9dfc5acb22ad90ac.json"
+    },
+    {
+      "id": "lovato-order-79c5024a4f1ee7ea7ec055f2",
+      "name": "P1MB1PC63 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-79c5024a4f1ee7ea7ec055f2",
+      "recordPath": "equipment/lovato-order-79c5024a4f1ee7ea7ec055f2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-79c5024a4f1ee7ea7ec055f2.json"
+    },
+    {
+      "id": "lovato-order-8d4982fb90d8b68652e97ba7",
+      "name": "SM1X3142R — Rigid SM1 breaker-contactor connection. For motor protection breaker SM1R... with BF09...25D and BF09...25L contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-8d4982fb90d8b68652e97ba7",
+      "recordPath": "equipment/lovato-order-8d4982fb90d8b68652e97ba7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-8d4982fb90d8b68652e97ba7.json"
+    },
+    {
+      "id": "lovato-order-97e6c3b2463109ad3585a53d",
+      "name": "P1MB4PD63 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-97e6c3b2463109ad3585a53d",
+      "recordPath": "equipment/lovato-order-97e6c3b2463109ad3585a53d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-97e6c3b2463109ad3585a53d.json"
+    },
+    {
+      "id": "lovato-order-acdd5b22a95f9456045bc6a7",
+      "name": "P1MB1PD50 — Miniature circuit breaker - 1P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-acdd5b22a95f9456045bc6a7",
+      "recordPath": "equipment/lovato-order-acdd5b22a95f9456045bc6a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-acdd5b22a95f9456045bc6a7.json"
+    },
+    {
+      "id": "lovato-order-e68e94769eca9a83e9c2df4e",
+      "name": "P1MB3PC50 — Miniature circuit breaker - 3P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-e68e94769eca9a83e9c2df4e",
+      "recordPath": "equipment/lovato-order-e68e94769eca9a83e9c2df4e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-e68e94769eca9a83e9c2df4e.json"
+    },
+    {
+      "id": "lovato-order-7c3f3709b7f57423e0db02bf",
+      "name": "P1MB1PD32 — Miniature circuit breaker - 1P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7c3f3709b7f57423e0db02bf",
+      "recordPath": "equipment/lovato-order-7c3f3709b7f57423e0db02bf.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7c3f3709b7f57423e0db02bf.json"
+    },
+    {
+      "id": "lovato-order-3e94f3212c64edda27a66dd5",
+      "name": "P1MB1PC06 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-3e94f3212c64edda27a66dd5",
+      "recordPath": "equipment/lovato-order-3e94f3212c64edda27a66dd5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-3e94f3212c64edda27a66dd5.json"
+    },
+    {
+      "id": "lovato-order-85bf0382f5dcf5e98fc00ad2",
+      "name": "SM1P0100 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-85bf0382f5dcf5e98fc00ad2",
+      "recordPath": "equipment/lovato-order-85bf0382f5dcf5e98fc00ad2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-85bf0382f5dcf5e98fc00ad2.json"
+    },
+    {
+      "id": "lovato-order-5c4fba29dadd6d2493bb43d1",
+      "name": "P1MB2PC01 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-5c4fba29dadd6d2493bb43d1",
+      "recordPath": "equipment/lovato-order-5c4fba29dadd6d2493bb43d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-5c4fba29dadd6d2493bb43d1.json"
+    },
+    {
+      "id": "lovato-order-428d26a3ee12acf45de4fabb",
+      "name": "P1MB1PB32 — Miniature circuit breaker - 1P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-428d26a3ee12acf45de4fabb",
+      "recordPath": "equipment/lovato-order-428d26a3ee12acf45de4fabb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-428d26a3ee12acf45de4fabb.json"
+    },
+    {
+      "id": "lovato-order-f1244e43d6fa89100414ba66",
+      "name": "P1MB3PD16 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-f1244e43d6fa89100414ba66",
+      "recordPath": "equipment/lovato-order-f1244e43d6fa89100414ba66.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-f1244e43d6fa89100414ba66.json"
+    },
+    {
+      "id": "lovato-order-0e88c0059a3ca9adb2883648",
+      "name": "P2MB1PC080 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-0e88c0059a3ca9adb2883648",
+      "recordPath": "equipment/lovato-order-0e88c0059a3ca9adb2883648.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-0e88c0059a3ca9adb2883648.json"
+    },
+    {
+      "id": "lovato-order-c63ea6aca4128f381b6c6f33",
+      "name": "P1MB3PD01 — Miniature circuit breaker - 3P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c63ea6aca4128f381b6c6f33",
+      "recordPath": "equipment/lovato-order-c63ea6aca4128f381b6c6f33.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c63ea6aca4128f381b6c6f33.json"
+    },
+    {
+      "id": "lovato-order-be90e882a941d08a4fbfaffb",
+      "name": "P1MB2PB10 — Miniature circuit breaker - 2P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-be90e882a941d08a4fbfaffb",
+      "recordPath": "equipment/lovato-order-be90e882a941d08a4fbfaffb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-be90e882a941d08a4fbfaffb.json"
+    },
+    {
+      "id": "lovato-order-459fb540a8f1cec3d5224065",
+      "name": "SM1P0400 — Motor protection circuit breaker",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-459fb540a8f1cec3d5224065",
+      "recordPath": "equipment/lovato-order-459fb540a8f1cec3d5224065.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-459fb540a8f1cec3d5224065.json"
+    },
+    {
+      "id": "lovato-order-c049f8e1350f0f0beaa0eefe",
+      "name": "P1MB1PD04 — Miniature circuit breaker - 1P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-c049f8e1350f0f0beaa0eefe",
+      "recordPath": "equipment/lovato-order-c049f8e1350f0f0beaa0eefe.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-c049f8e1350f0f0beaa0eefe.json"
+    },
+    {
+      "id": "lovato-order-7fbc4343ff05d3c8d1786598",
+      "name": "P2MB1PC100 — Miniature circuit breaker - 1P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-7fbc4343ff05d3c8d1786598",
+      "recordPath": "equipment/lovato-order-7fbc4343ff05d3c8d1786598.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-7fbc4343ff05d3c8d1786598.json"
+    },
+    {
+      "id": "lovato-order-38d3afd71a5db94a0943feb7",
+      "name": "SM1X3040P — Rigid SM1 breaker-contactor connection. For motor protection breaker SM1P... with BG...mini-contactors",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-38d3afd71a5db94a0943feb7",
+      "recordPath": "equipment/lovato-order-38d3afd71a5db94a0943feb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-38d3afd71a5db94a0943feb7.json"
+    },
+    {
+      "id": "lovato-order-76baf4c52725530a4d9c596d",
+      "name": "P1MB1PB40 — Miniature circuit breaker - 1P - characteristic B",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-76baf4c52725530a4d9c596d",
+      "recordPath": "equipment/lovato-order-76baf4c52725530a4d9c596d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-76baf4c52725530a4d9c596d.json"
+    },
+    {
+      "id": "lovato-order-49494ed6ea0f4c00e01dfd7a",
+      "name": "P1MB4PD50 — Miniature circuit breaker - 4P - characteristic D",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-49494ed6ea0f4c00e01dfd7a",
+      "recordPath": "equipment/lovato-order-49494ed6ea0f4c00e01dfd7a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-49494ed6ea0f4c00e01dfd7a.json"
+    },
+    {
+      "id": "lovato-order-cff142b0abbba2b8d77c0066",
+      "name": "P1MB2PC06 — Miniature circuit breaker - 2P - characteristic C",
+      "manufacturer": "LOVATO Electric",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/lovato-order-cff142b0abbba2b8d77c0066",
+      "recordPath": "equipment/lovato-order-cff142b0abbba2b8d77c0066.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/lovato-order-cff142b0abbba2b8d77c0066.json"
+    }
+  ]
+}

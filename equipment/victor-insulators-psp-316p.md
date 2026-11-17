@@ -28,6 +28,7 @@ Use the row for PSP-316P on PDF page 14. The download is the complete catalogue,
 - Voltage rating (kV): 230
 - BIL (kV): 1050
 - Cantilever strength (lb): 1250
+- Standards: ANSI C29.19
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 catalogue page previews

@@ -8,7 +8,7 @@ ABB E1.2/E1.3 III W TERMINALS FcCuAl LOWER: breaker connection or accessory refe
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0034
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -29,8 +29,8 @@ This reference covers the connection or accessory named in “E1.2/E1.3 III W TE
 - Model envelope: 1SDH001252R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER.stp: 191.6 × 91 × 110 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 1SDH001336R0034
 - Model envelope: 1SDH001336R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.stp: 191.6 × 91 × 110 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 2
+- Listed file formats: STEP, DXF
+- Listed files: 4
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - Delivery: original; STEP; 773570 bytes
 - Delivery SHA-256: b26bfd70e6e14c6ee52ce20db8d5a25b3f2992564c54de94e53d736e103f5964
 
+### 1SDH001252R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-w-terminals-fccual-lower-9fe043933c/b26bfd70e6e14c6ee52c-dxf)
+- Redistribution: unknown
+- Original SHA-256: b26bfd70e6e14c6ee52ce20db8d5a25b3f2992564c54de94e53d736e103f5964
+- Original bytes: 773570
+- Revision: A
+- Retrieved: 2026-11-03T01:53:34.889892Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 219820 bytes
+- Delivery SHA-256: 65fd6fb5e4bd14bc61071677e7080d0c245f798083a38d8702d6314f37ddd71f
+
 ### 1SDH001336R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.stp
 
 - Format: STEP
@@ -130,5 +149,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 773513 bytes
 - Delivery SHA-256: 5155d0cc3aa250435b2c742237e7c01602d2e169e6bd3df72c4cfdb181a9517e
+
+### 1SDH001336R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0034\_1PA\_001\_00\_E1.2\_III\_W\_TERMINALS\_FcCuAl\_LOWER\_UL.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iii-w-terminals-fccual-lower-9fe043933c/5155d0cc3aa250435b2c-dxf)
+- Redistribution: unknown
+- Original SHA-256: 5155d0cc3aa250435b2c742237e7c01602d2e169e6bd3df72c4cfdb181a9517e
+- Original bytes: 773513
+- Revision: A
+- Retrieved: 2026-11-03T01:53:35.300983Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0034&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 219820 bytes
+- Delivery SHA-256: 3abff3eb488a6cb2c0b9211b385332e0fcfcc530667a9cff3b83b48954c6e583
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -24,6 +24,7 @@ Manufacturer reference Shunt resistors identifies this control-equipment referen
 - Resource type: Product
 - Manufacturer drawing: Shunt resistors
 - Manufacturer lifecycle: Active
+- Standards: IEC 60051-1
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

@@ -23,6 +23,7 @@ Manufacturer reference SEL-2725 Five-Port Ethernet Switch identifies this commun
 - Manufacturer: Schweitzer Engineering Laboratories
 - Resource type: Product
 - Manufacturer drawing: SEL-2725 Five-Port Ethernet Switch
+- Standards: IEEE 1613 Class 2, IEC 61850-3
 - Listed file formats: Confirm with manufacturer
 - Listed files: 0
 - Available previews: Manufacturer source / drawing request

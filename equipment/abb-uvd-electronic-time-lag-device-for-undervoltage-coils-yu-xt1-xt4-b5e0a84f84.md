@@ -8,7 +8,7 @@ ABB UVD - Electronic time lag device for undervoltage coils (YU) XT1...XT4: brea
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH002308A1001
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “UVD - Electronic time lag device for undervolta
 - Manufacturer reference: 1SDH002308A1001
 - Document revision: A
 - Model envelope: 1SDH002308A1001.stp: 71.2 × 73 × 95.1 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002308A1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 624245 bytes
 - Delivery SHA-256: 08b61865665c9f243727a2ac3aa5dab1b5511828c9dca1609bc888737e571bce
+
+### 1SDH002308A1001.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002308A1001.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002308A1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-uvd-electronic-time-lag-device-for-undervoltage-coils-yu-xt1-xt4-b5e0a84f84/08b61865665c9f243727-dxf)
+- Redistribution: unknown
+- Original SHA-256: 08b61865665c9f243727a2ac3aa5dab1b5511828c9dca1609bc888737e571bce
+- Original bytes: 624245
+- Revision: A
+- Retrieved: 2026-11-03T01:52:59.239811Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002308A1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002308A1001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 162031 bytes
+- Delivery SHA-256: 808a0987e50b0053fb0bc8aa07ac069bb2c83c7d4f0b089b22622553ebaa9088
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

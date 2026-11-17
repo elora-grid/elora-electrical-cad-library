@@ -8,7 +8,7 @@ ABB 06LYH929\_17.85: motor outline for motor footprint and drive-end arrangement
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 06LYH929\_17.85; 06LYH929
-- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
+- Formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -28,8 +28,8 @@ The supplied configuration is “06LYH929\_17.85”. Keep those frame, mounting 
 - Document revision: C
 - Motor drawing designation (06LYH929): STD HORZ 182-4TC TENV V\*S MASTER VECTOR W/ BEI HS35
 - Manufacturer reference: 06LYH929
-- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP
-- Listed files: 6
+- Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
@@ -112,6 +112,25 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH929_17.85&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; DWG; 732800 bytes
 - Delivery SHA-256: 9e3d90093c4b9ea8f6d7ecedb8892f9a3459c2c43dc33f2a28c8cafb5feba94a
+
+### 06LYH929\_17.85.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (06LYH929\_17.85.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYH929_17.85&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-06lyh929-17-85-dwg-2d-autocad-dwg-2000-360a13d1bb/9e3d90093c4b9ea8f6d7-dxf)
+- Redistribution: unknown
+- Original SHA-256: 9e3d90093c4b9ea8f6d7ecedb8892f9a3459c2c43dc33f2a28c8cafb5feba94a
+- Original bytes: 732800
+- Revision: C
+- Retrieved: 2026-11-04T00:23:30Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH929_17.85&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH929_17.85&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
+- Delivery: converted; DXF; 3353756 bytes
+- Delivery SHA-256: 0946502ead5ce81f3392566e00d102fa3ebcea7b6f6b24cc0bc1516437dbea48
 
 ### 06LYH929.pdf
 

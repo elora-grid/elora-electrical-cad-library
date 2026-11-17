@@ -1,0 +1,133 @@
+# Allen-Bradley — 2085 ECR
+
+Allen-Bradley 2085 ECR: original DXF / STEP for control-panel equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-2085-ecr-918b19a46a) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-2085-ecr-918b19a46a.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-2085-ecr-918b19a46a.json) · [Official manufacturer source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: 2085-ECR
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named 2085 ECR.
+
+## Equipment and file summary
+
+- Equipment / resource: 2085 ECR
+- Manufacturer: Allen-Bradley
+- Resource type: Product
+- Part number: 2085-ECR
+- Manufacturer drawing identity: 2085 ECR
+- Source-model envelope: 15.7 × 59.1 × 96.4 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: 2085 ECR ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+- Source-model envelope: 15.7 × 59.1 × 96.4 mm ([source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.nhpnz.co.nz/Resources/Downloads))
+
+## What the equipment does
+
+An enclosure houses equipment and its connections. Its construction provides the environmental and access protection specified for that enclosure.
+
+Use Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout.
+
+Use Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 2085-ECR.stp inside it to place the original solid geometry in your 3D assembly.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Allen-Bradley 2085-ECR and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 15.7 × 59.1 × 96.4 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for 2085 ECR?
+
+2 inspected originals for Allen-Bradley 2085 ECR: Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf (DXF); Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip (ZIP).
+
+### Where did these Allen-Bradley files come from?
+
+NHP Electrical Engineering Products supplied the original files through https://www.nhpnz.co.nz/Resources/Downloads. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Allen-Bradley official source](https://www.nhpnz.co.nz/Resources/Downloads)
+
+## Choosing a file
+
+Use Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf to insert the supplied editable drawing into your layout. Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip is the original NHP Electrical Engineering Products archive. Open 2085-ECR.stp inside it to place the original solid geometry in your 3D assembly.
+
+## Preview
+
+![Allen-Bradley 2085 ECR: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-allen-bradley-2085-ecr-918b19a46a/nhp-199561?asset=cab1b9304a638b05b3fbad6a6e352127894bf14c71dbfbd787377afccc4e6b8f&view=thumb&v=a98197902a794162)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-2085-ecr-918b19a46a). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-2085-ecr-918b19a46a/nhp-199594)
+- Redistribution: unknown
+- Original SHA-256: 0f4749f0982061d7e429890f1297453d1f43845c2ad754c3b8c4b482e0cca12f
+- Original bytes: 145829
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:41:09.823533+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-DXF-2D-CAD-Block.dxf)
+- Delivery: original; DXF; 145829 bytes
+- Delivery SHA-256: 0f4749f0982061d7e429890f1297453d1f43845c2ad754c3b8c4b482e0cca12f
+
+### Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip
+
+- Format: ZIP
+- Purpose: Original manufacturer CAD archive
+- [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-2085-ecr-918b19a46a/nhp-199561)
+- Redistribution: unknown
+- Original SHA-256: ec3b22cff5cf8a1a96deb7c6da47b32006d7404978f5c803973f6423c4e7966f
+- Original bytes: 270763
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:47:47.289999+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: NHP Electrical Engineering Products
+- [Hosting evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/Allen-Bradley-2085-ECR-STP-3D-CAD-Block.zip)
+- Delivery: original; ZIP; 270763 bytes
+- Delivery SHA-256: ec3b22cff5cf8a1a96deb7c6da47b32006d7404978f5c803973f6423c4e7966f
+
+<details>
+<summary>Archive members</summary>
+
+- 2085-ECR.stp
+
+</details>
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

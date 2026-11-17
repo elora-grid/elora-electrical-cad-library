@@ -25,6 +25,7 @@ Manufacturer reference 1VCN000321T0003 identifies this switchboard or switchgear
 - Manufacturer drawing: 1VCN000321T0003
 - Manufacturer reference: 1VCN000321T0003
 - Document revision: A
+- Standards: IEC 62271-1, IEC 62271-200
 - Listed file formats: PDF
 - Listed files: 1
 - Available previews: 1 drawing previews

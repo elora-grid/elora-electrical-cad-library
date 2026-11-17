@@ -1,0 +1,2800 @@
+{
+  "schemaVersion": 1,
+  "category": "wiring",
+  "page": 8,
+  "entries": [
+    {
+      "id": "mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-3-pole-contactors-af26-af38-30-22-3-pole-contactors-dd47453a0b",
+      "name": "4-pole CA4 aux. contact block with AF26...AF38 3-pole contactors; AF26...AF38..-30-22 3-pole contactors",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF",
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-3-pole-contactors-af26-af38-30-22-3-pole-contactors-dd47453a0b",
+      "recordPath": "equipment/mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-3-pole-contactors-af26-af38-30-22-3-pole-contactors-dd47453a0b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-4-pole-ca4-aux-contact-block-with-af26-af38-3-pole-contactors-af26-af38-30-22-3-pole-contactors-dd47453a0b.json"
+    },
+    {
+      "id": "mfr-abb-connector-flx-rmc-67097851d1",
+      "name": "Connector FLX-RMC",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-connector-flx-rmc-67097851d1",
+      "recordPath": "equipment/mfr-abb-connector-flx-rmc-67097851d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-connector-flx-rmc-67097851d1.json"
+    },
+    {
+      "id": "mfr-abb-d1-ef-terminal-9ae1c85666",
+      "name": "D1 EF terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d1-ef-terminal-9ae1c85666",
+      "recordPath": "equipment/mfr-abb-d1-ef-terminal-9ae1c85666.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d1-ef-terminal-9ae1c85666.json"
+    },
+    {
+      "id": "mfr-abb-d1-es-terminal-ba100e7ab7",
+      "name": "D1 ES terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d1-es-terminal-ba100e7ab7",
+      "recordPath": "equipment/mfr-abb-d1-es-terminal-ba100e7ab7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d1-es-terminal-ba100e7ab7.json"
+    },
+    {
+      "id": "mfr-abb-d1-f-terminal-f33d56c7b6",
+      "name": "D1 F terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d1-f-terminal-f33d56c7b6",
+      "recordPath": "equipment/mfr-abb-d1-f-terminal-f33d56c7b6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d1-f-terminal-f33d56c7b6.json"
+    },
+    {
+      "id": "mfr-abb-d2-ef-terminal-5c5bcd8fd4",
+      "name": "D2 EF terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d2-ef-terminal-5c5bcd8fd4",
+      "recordPath": "equipment/mfr-abb-d2-ef-terminal-5c5bcd8fd4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d2-ef-terminal-5c5bcd8fd4.json"
+    },
+    {
+      "id": "mfr-abb-d2-es-terminal-292195f182",
+      "name": "D2 ES terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d2-es-terminal-292195f182",
+      "recordPath": "equipment/mfr-abb-d2-es-terminal-292195f182.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d2-es-terminal-292195f182.json"
+    },
+    {
+      "id": "mfr-abb-d2-f-terminal-e7a50a3aee",
+      "name": "D2 F terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d2-f-terminal-e7a50a3aee",
+      "recordPath": "equipment/mfr-abb-d2-f-terminal-e7a50a3aee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d2-f-terminal-e7a50a3aee.json"
+    },
+    {
+      "id": "mfr-abb-d3-ef-terminal-10dd0bd50d",
+      "name": "D3 EF terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d3-ef-terminal-10dd0bd50d",
+      "recordPath": "equipment/mfr-abb-d3-ef-terminal-10dd0bd50d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d3-ef-terminal-10dd0bd50d.json"
+    },
+    {
+      "id": "mfr-abb-d3-es-terminal-fc3eb5decd",
+      "name": "D3 ES terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d3-es-terminal-fc3eb5decd",
+      "recordPath": "equipment/mfr-abb-d3-es-terminal-fc3eb5decd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d3-es-terminal-fc3eb5decd.json"
+    },
+    {
+      "id": "mfr-abb-d3-f-terminal-565e7e6d2e",
+      "name": "D3 F terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d3-f-terminal-565e7e6d2e",
+      "recordPath": "equipment/mfr-abb-d3-f-terminal-565e7e6d2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d3-f-terminal-565e7e6d2e.json"
+    },
+    {
+      "id": "mfr-abb-d4-ef-terminal-79d46123e7",
+      "name": "D4 EF terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d4-ef-terminal-79d46123e7",
+      "recordPath": "equipment/mfr-abb-d4-ef-terminal-79d46123e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d4-ef-terminal-79d46123e7.json"
+    },
+    {
+      "id": "mfr-abb-d4-es-terminal-e744445bf9",
+      "name": "D4 ES terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d4-es-terminal-e744445bf9",
+      "recordPath": "equipment/mfr-abb-d4-es-terminal-e744445bf9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d4-es-terminal-e744445bf9.json"
+    },
+    {
+      "id": "mfr-abb-d4-f-terminal-b521620682",
+      "name": "D4 F terminal",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-d4-f-terminal-b521620682",
+      "recordPath": "equipment/mfr-abb-d4-f-terminal-b521620682.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-d4-f-terminal-b521620682.json"
+    },
+    {
+      "id": "mfr-abb-flx-rmc-06e63274b7",
+      "name": "FLX-RMC",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-flx-rmc-06e63274b7",
+      "recordPath": "equipment/mfr-abb-flx-rmc-06e63274b7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-flx-rmc-06e63274b7.json"
+    },
+    {
+      "id": "mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-j-77304345e8",
+      "name": "IRT510 Covered DBL IRB INT-EXT Chain 19m REV01 J",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-j-77304345e8",
+      "recordPath": "equipment/mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-j-77304345e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-j-77304345e8.json"
+    },
+    {
+      "id": "mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-j-26f0c64ee0",
+      "name": "IRT510 Covered DBL IRB-EP INT-EXT Chain 17m REV01 J",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-j-26f0c64ee0",
+      "recordPath": "equipment/mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-j-26f0c64ee0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-j-26f0c64ee0.json"
+    },
+    {
+      "id": "mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-j-0a6ca132c2",
+      "name": "IRT510 Covered DBL IRB-EP IRB INT-EXT Chain 18m REV01 J",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-j-0a6ca132c2",
+      "recordPath": "equipment/mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-j-0a6ca132c2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-j-0a6ca132c2.json"
+    },
+    {
+      "id": "mfr-abb-ozxb2-ozxb2l-e3158328fb",
+      "name": "OZXB2, OZXB2L",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ozxb2-ozxb2l-e3158328fb",
+      "recordPath": "equipment/mfr-abb-ozxb2-ozxb2l-e3158328fb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ozxb2-ozxb2l-e3158328fb.json"
+    },
+    {
+      "id": "mfr-abb-s3x-3p-withdrawable-rear-terminals-223fc8139e",
+      "name": "S3X 3p Withdrawable Rear terminals",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s3x-3p-withdrawable-rear-terminals-223fc8139e",
+      "recordPath": "equipment/mfr-abb-s3x-3p-withdrawable-rear-terminals-223fc8139e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s3x-3p-withdrawable-rear-terminals-223fc8139e.json"
+    },
+    {
+      "id": "mfr-abb-s4x-4p-withdrawable-rear-terminals-419caa85ab",
+      "name": "S4X 4p Withdrawable Rear terminals",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s4x-4p-withdrawable-rear-terminals-419caa85ab",
+      "recordPath": "equipment/mfr-abb-s4x-4p-withdrawable-rear-terminals-419caa85ab.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s4x-4p-withdrawable-rear-terminals-419caa85ab.json"
+    },
+    {
+      "id": "mfr-abb-s6x-4p-withdrawable-terminali-misti-668630c83d",
+      "name": "S6X 4p Withdrawable terminali misti",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-s6x-4p-withdrawable-terminali-misti-668630c83d",
+      "recordPath": "equipment/mfr-abb-s6x-4p-withdrawable-terminali-misti-668630c83d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-s6x-4p-withdrawable-terminali-misti-668630c83d.json"
+    },
+    {
+      "id": "mfr-abb-t3640ul-69e0cd3ae9",
+      "name": "T3640UL",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-t3640ul-69e0cd3ae9",
+      "recordPath": "equipment/mfr-abb-t3640ul-69e0cd3ae9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-t3640ul-69e0cd3ae9.json"
+    },
+    {
+      "id": "mfr-abb-terminal-enlargement-lw750-eab5371b0f",
+      "name": "Terminal Enlargement, LW750",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-terminal-enlargement-lw750-eab5371b0f",
+      "recordPath": "equipment/mfr-abb-terminal-enlargement-lw750-eab5371b0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-terminal-enlargement-lw750-eab5371b0f.json"
+    },
+    {
+      "id": "mfr-abb-terminal-extension-lx750-84a6140127",
+      "name": "Terminal Extension, LX750",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-terminal-extension-lx750-84a6140127",
+      "recordPath": "equipment/mfr-abb-terminal-extension-lx750-84a6140127.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-terminal-extension-lx750-84a6140127.json"
+    },
+    {
+      "id": "mfr-abb-ul-a1-terminal-covers-8ab9265331",
+      "name": "UL A1 Terminal Covers",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "PDF",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ul-a1-terminal-covers-8ab9265331",
+      "recordPath": "equipment/mfr-abb-ul-a1-terminal-covers-8ab9265331.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ul-a1-terminal-covers-8ab9265331.json"
+    },
+    {
+      "id": "mfr-abb-ul-a2-terminal-covers-14cde44001",
+      "name": "UL A2 Terminal Covers",
+      "manufacturer": "ABB",
+      "formats": [
+        "DWG",
+        "PDF",
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-ul-a2-terminal-covers-14cde44001",
+      "recordPath": "equipment/mfr-abb-ul-a2-terminal-covers-14cde44001.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-ul-a2-terminal-covers-14cde44001.json"
+    },
+    {
+      "id": "mfr-abb-user-2101654-26a064ad73",
+      "name": "User - 2101654",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101654-26a064ad73",
+      "recordPath": "equipment/mfr-abb-user-2101654-26a064ad73.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101654-26a064ad73.json"
+    },
+    {
+      "id": "mfr-abb-user-2101655-e41033f06d",
+      "name": "User - 2101655",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101655-e41033f06d",
+      "recordPath": "equipment/mfr-abb-user-2101655-e41033f06d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101655-e41033f06d.json"
+    },
+    {
+      "id": "mfr-abb-user-2101656-a140c10a62",
+      "name": "User - 2101656",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101656-a140c10a62",
+      "recordPath": "equipment/mfr-abb-user-2101656-a140c10a62.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101656-a140c10a62.json"
+    },
+    {
+      "id": "mfr-abb-user-2101657-a17983a639",
+      "name": "User - 2101657",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101657-a17983a639",
+      "recordPath": "equipment/mfr-abb-user-2101657-a17983a639.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101657-a17983a639.json"
+    },
+    {
+      "id": "mfr-abb-user-2101658-0bb2b93a4d",
+      "name": "User - 2101658",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101658-0bb2b93a4d",
+      "recordPath": "equipment/mfr-abb-user-2101658-0bb2b93a4d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101658-0bb2b93a4d.json"
+    },
+    {
+      "id": "mfr-abb-user-2101659-aee4d552d8",
+      "name": "User - 2101659",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101659-aee4d552d8",
+      "recordPath": "equipment/mfr-abb-user-2101659-aee4d552d8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101659-aee4d552d8.json"
+    },
+    {
+      "id": "mfr-abb-user-2101722-abd3108745",
+      "name": "User - 2101722",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101722-abd3108745",
+      "recordPath": "equipment/mfr-abb-user-2101722-abd3108745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101722-abd3108745.json"
+    },
+    {
+      "id": "mfr-abb-user-2101723-271a6e3797",
+      "name": "User - 2101723",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101723-271a6e3797",
+      "recordPath": "equipment/mfr-abb-user-2101723-271a6e3797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101723-271a6e3797.json"
+    },
+    {
+      "id": "mfr-abb-user-2101724-5603dbad94",
+      "name": "User - 2101724",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101724-5603dbad94",
+      "recordPath": "equipment/mfr-abb-user-2101724-5603dbad94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101724-5603dbad94.json"
+    },
+    {
+      "id": "mfr-abb-user-2101725-97e18ffb9e",
+      "name": "User - 2101725",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2101725-97e18ffb9e",
+      "recordPath": "equipment/mfr-abb-user-2101725-97e18ffb9e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2101725-97e18ffb9e.json"
+    },
+    {
+      "id": "mfr-abb-user-2102272-93512d8770",
+      "name": "User - 2102272",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2102272-93512d8770",
+      "recordPath": "equipment/mfr-abb-user-2102272-93512d8770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2102272-93512d8770.json"
+    },
+    {
+      "id": "mfr-abb-user-2102273-72e2302bb3",
+      "name": "User - 2102273",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-2102273-72e2302bb3",
+      "recordPath": "equipment/mfr-abb-user-2102273-72e2302bb3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-2102273-72e2302bb3.json"
+    },
+    {
+      "id": "mfr-abb-user-btu-8000-8100-generic-wiring-guide-rs-232-9-pin-or-25-pin-d-connectors-285b015593",
+      "name": "User -Btu 8000/8100 Generic Wiring Guide RS-232 (9-Pin or 25-Pin \"D\" Connectors)",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-user-btu-8000-8100-generic-wiring-guide-rs-232-9-pin-or-25-pin-d-connectors-285b015593",
+      "recordPath": "equipment/mfr-abb-user-btu-8000-8100-generic-wiring-guide-rs-232-9-pin-or-25-pin-d-connectors-285b015593.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-user-btu-8000-8100-generic-wiring-guide-rs-232-9-pin-or-25-pin-d-connectors-285b015593.json"
+    },
+    {
+      "id": "mfr-abb-for-t-al30-and-t-al40-contactors-with-ca5-4-pole-aux-contact-block-4b14db26a6",
+      "name": "for (T)AL30 and (T)AL40 contactors with CA5 4-pole aux. contact block",
+      "manufacturer": "ABB",
+      "formats": [
+        "PDF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-for-t-al30-and-t-al40-contactors-with-ca5-4-pole-aux-contact-block-4b14db26a6",
+      "recordPath": "equipment/mfr-abb-for-t-al30-and-t-al40-contactors-with-ca5-4-pole-aux-contact-block-4b14db26a6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-for-t-al30-and-t-al40-contactors-with-ca5-4-pole-aux-contact-block-4b14db26a6.json"
+    },
+    {
+      "id": "market-adels-contact-engineering-sources",
+      "name": "Adels-Contact wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Adels-Contact",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-adels-contact-engineering-sources",
+      "recordPath": "equipment/market-adels-contact-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-adels-contact-engineering-sources.json"
+    },
+    {
+      "id": "market-bulgin-engineering-sources",
+      "name": "Bulgin wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Bulgin",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-bulgin-engineering-sources",
+      "recordPath": "equipment/market-bulgin-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-bulgin-engineering-sources.json"
+    },
+    {
+      "id": "market-cabur-engineering-sources",
+      "name": "Cabur wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Cabur",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-cabur-engineering-sources",
+      "recordPath": "equipment/market-cabur-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-cabur-engineering-sources.json"
+    },
+    {
+      "id": "market-cembre-engineering-sources",
+      "name": "CEMBRE wiring and terminals catalogue and drawing sources",
+      "manufacturer": "CEMBRE",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-cembre-engineering-sources",
+      "recordPath": "equipment/market-cembre-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-cembre-engineering-sources.json"
+    },
+    {
+      "id": "market-clipsal-engineering-sources",
+      "name": "Clipsal wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Clipsal",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-clipsal-engineering-sources",
+      "recordPath": "equipment/market-clipsal-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-clipsal-engineering-sources.json"
+    },
+    {
+      "id": "market-conta-clip-engineering-sources",
+      "name": "CONTA-CLIP wiring and terminals catalogue and drawing sources",
+      "manufacturer": "CONTA-CLIP",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-conta-clip-engineering-sources",
+      "recordPath": "equipment/market-conta-clip-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-conta-clip-engineering-sources.json"
+    },
+    {
+      "id": "market-degson-engineering-sources",
+      "name": "DEGSON wiring and terminals catalogue and drawing sources",
+      "manufacturer": "DEGSON",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-degson-engineering-sources",
+      "recordPath": "equipment/market-degson-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-degson-engineering-sources.json"
+    },
+    {
+      "id": "market-ensto-engineering-sources",
+      "name": "Ensto wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Ensto",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ensto-engineering-sources",
+      "recordPath": "equipment/market-ensto-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ensto-engineering-sources.json"
+    },
+    {
+      "id": "market-euroclamp-engineering-sources",
+      "name": "Euroclamp wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Euroclamp",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-euroclamp-engineering-sources",
+      "recordPath": "equipment/market-euroclamp-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-euroclamp-engineering-sources.json"
+    },
+    {
+      "id": "market-harting-engineering-sources",
+      "name": "HARTING wiring and terminals catalogue and drawing sources",
+      "manufacturer": "HARTING",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-harting-engineering-sources",
+      "recordPath": "equipment/market-harting-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-harting-engineering-sources.json"
+    },
+    {
+      "id": "market-ilme-engineering-sources",
+      "name": "ILME wiring and terminals catalogue and drawing sources",
+      "manufacturer": "ILME",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ilme-engineering-sources",
+      "recordPath": "equipment/market-ilme-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ilme-engineering-sources.json"
+    },
+    {
+      "id": "market-onka-engineering-sources",
+      "name": "Onka wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Onka",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-onka-engineering-sources",
+      "recordPath": "equipment/market-onka-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-onka-engineering-sources.json"
+    },
+    {
+      "id": "market-ptr-hartmann-engineering-sources",
+      "name": "PTR HARTMANN wiring and terminals catalogue and drawing sources",
+      "manufacturer": "PTR HARTMANN",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ptr-hartmann-engineering-sources",
+      "recordPath": "equipment/market-ptr-hartmann-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ptr-hartmann-engineering-sources.json"
+    },
+    {
+      "id": "market-scame-engineering-sources",
+      "name": "SCAME wiring and terminals catalogue and drawing sources",
+      "manufacturer": "SCAME",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-scame-engineering-sources",
+      "recordPath": "equipment/market-scame-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-scame-engineering-sources.json"
+    },
+    {
+      "id": "market-steck-engineering-sources",
+      "name": "STECK wiring and terminals catalogue and drawing sources",
+      "manufacturer": "STECK",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-steck-engineering-sources",
+      "recordPath": "equipment/market-steck-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-steck-engineering-sources.json"
+    },
+    {
+      "id": "market-te-connectivity-engineering-sources",
+      "name": "TE Connectivity wiring and terminals catalogue and drawing sources",
+      "manufacturer": "TE Connectivity",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-te-connectivity-engineering-sources",
+      "recordPath": "equipment/market-te-connectivity-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-te-connectivity-engineering-sources.json"
+    },
+    {
+      "id": "market-wainconnector-engineering-sources",
+      "name": "WAINCONNECTOR wiring and terminals catalogue and drawing sources",
+      "manufacturer": "WAINCONNECTOR",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-wainconnector-engineering-sources",
+      "recordPath": "equipment/market-wainconnector-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-wainconnector-engineering-sources.json"
+    },
+    {
+      "id": "market-weco-electrical-connectors-engineering-sources",
+      "name": "WECO Electrical Connectors wiring and terminals catalogue and drawing sources",
+      "manufacturer": "WECO Electrical Connectors",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-weco-electrical-connectors-engineering-sources",
+      "recordPath": "equipment/market-weco-electrical-connectors-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-weco-electrical-connectors-engineering-sources.json"
+    },
+    {
+      "id": "market-wieland-electric-engineering-sources",
+      "name": "Wieland Electric wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Wieland Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-wieland-electric-engineering-sources",
+      "recordPath": "equipment/market-wieland-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-wieland-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-pfisterer-engineering-sources",
+      "name": "PFISTERER wiring and terminals catalogue and drawing sources",
+      "manufacturer": "PFISTERER",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-pfisterer-engineering-sources",
+      "recordPath": "equipment/market-pfisterer-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-pfisterer-engineering-sources.json"
+    },
+    {
+      "id": "market-amphenol-air-lb-engineering-sources",
+      "name": "Amphenol Air LB wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Amphenol Air LB",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-amphenol-air-lb-engineering-sources",
+      "recordPath": "equipment/market-amphenol-air-lb-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-amphenol-air-lb-engineering-sources.json"
+    },
+    {
+      "id": "market-amphenol-ltd-engineering-sources",
+      "name": "Amphenol LTD wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Amphenol LTD",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-amphenol-ltd-engineering-sources",
+      "recordPath": "equipment/market-amphenol-ltd-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-amphenol-ltd-engineering-sources.json"
+    },
+    {
+      "id": "market-amphenol-pcd-engineering-sources",
+      "name": "AMPHENOL PCD wiring and terminals catalogue and drawing sources",
+      "manufacturer": "AMPHENOL PCD",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-amphenol-pcd-engineering-sources",
+      "recordPath": "equipment/market-amphenol-pcd-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-amphenol-pcd-engineering-sources.json"
+    },
+    {
+      "id": "market-amphenol-socapex-engineering-sources",
+      "name": "AMPHENOL SOCAPEX wiring and terminals catalogue and drawing sources",
+      "manufacturer": "AMPHENOL SOCAPEX",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-amphenol-socapex-engineering-sources",
+      "recordPath": "equipment/market-amphenol-socapex-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-amphenol-socapex-engineering-sources.json"
+    },
+    {
+      "id": "market-assmann-wsw-components-engineering-sources",
+      "name": "ASSMANN WSW components wiring and terminals catalogue and drawing sources",
+      "manufacturer": "ASSMANN WSW components",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-assmann-wsw-components-engineering-sources",
+      "recordPath": "equipment/market-assmann-wsw-components-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-assmann-wsw-components-engineering-sources.json"
+    },
+    {
+      "id": "market-attend-engineering-sources",
+      "name": "ATTEND wiring and terminals catalogue and drawing sources",
+      "manufacturer": "ATTEND",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-attend-engineering-sources",
+      "recordPath": "equipment/market-attend-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-attend-engineering-sources.json"
+    },
+    {
+      "id": "market-baoyan-engineering-sources",
+      "name": "BAOYAN wiring and terminals catalogue and drawing sources",
+      "manufacturer": "BAOYAN",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-baoyan-engineering-sources",
+      "recordPath": "equipment/market-baoyan-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-baoyan-engineering-sources.json"
+    },
+    {
+      "id": "market-binder-engineering-sources",
+      "name": "binder wiring and terminals catalogue and drawing sources",
+      "manufacturer": "binder",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-binder-engineering-sources",
+      "recordPath": "equipment/market-binder-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-binder-engineering-sources.json"
+    },
+    {
+      "id": "market-cliff-electronic-components-ltd-engineering-sources",
+      "name": "CLIFF Electronic Components Ltd. wiring and terminals catalogue and drawing sources",
+      "manufacturer": "CLIFF Electronic Components Ltd.",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-cliff-electronic-components-ltd-engineering-sources",
+      "recordPath": "equipment/market-cliff-electronic-components-ltd-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-cliff-electronic-components-ltd-engineering-sources.json"
+    },
+    {
+      "id": "market-cnlinko-engineering-sources",
+      "name": "CNLINKO wiring and terminals catalogue and drawing sources",
+      "manufacturer": "CNLINKO",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-cnlinko-engineering-sources",
+      "recordPath": "equipment/market-cnlinko-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-cnlinko-engineering-sources.json"
+    },
+    {
+      "id": "market-conec-elektronische-bauelemente-gmbh-engineering-sources",
+      "name": "CONEC Elektronische Bauelemente GmbH wiring and terminals catalogue and drawing sources",
+      "manufacturer": "CONEC Elektronische Bauelemente GmbH",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-conec-elektronische-bauelemente-gmbh-engineering-sources",
+      "recordPath": "equipment/market-conec-elektronische-bauelemente-gmbh-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-conec-elektronische-bauelemente-gmbh-engineering-sources.json"
+    },
+    {
+      "id": "market-deutsch-engineering-sources",
+      "name": "DEUTSCH wiring and terminals catalogue and drawing sources",
+      "manufacturer": "DEUTSCH",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-deutsch-engineering-sources",
+      "recordPath": "equipment/market-deutsch-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-deutsch-engineering-sources.json"
+    },
+    {
+      "id": "market-elinker-engineering-sources",
+      "name": "ELINKER wiring and terminals catalogue and drawing sources",
+      "manufacturer": "ELINKER",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-elinker-engineering-sources",
+      "recordPath": "equipment/market-elinker-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-elinker-engineering-sources.json"
+    },
+    {
+      "id": "market-fci-engineering-sources",
+      "name": "FCi wiring and terminals catalogue and drawing sources",
+      "manufacturer": "FCi",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-fci-engineering-sources",
+      "recordPath": "equipment/market-fci-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-fci-engineering-sources.json"
+    },
+    {
+      "id": "market-fischer-connectors-engineering-sources",
+      "name": "Fischer Connectors wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Fischer Connectors",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-fischer-connectors-engineering-sources",
+      "recordPath": "equipment/market-fischer-connectors-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-fischer-connectors-engineering-sources.json"
+    },
+    {
+      "id": "market-forany-engineering-sources",
+      "name": "FORANY wiring and terminals catalogue and drawing sources",
+      "manufacturer": "FORANY",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-forany-engineering-sources",
+      "recordPath": "equipment/market-forany-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-forany-engineering-sources.json"
+    },
+    {
+      "id": "market-gct-global-connector-technology-engineering-sources",
+      "name": "GCT - Global Connector Technology wiring and terminals catalogue and drawing sources",
+      "manufacturer": "GCT - Global Connector Technology",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-gct-global-connector-technology-engineering-sources",
+      "recordPath": "equipment/market-gct-global-connector-technology-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-gct-global-connector-technology-engineering-sources.json"
+    },
+    {
+      "id": "market-hanjingdianzi-engineering-sources",
+      "name": "HANJINGDIANZI wiring and terminals catalogue and drawing sources",
+      "manufacturer": "HANJINGDIANZI",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-hanjingdianzi-engineering-sources",
+      "recordPath": "equipment/market-hanjingdianzi-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-hanjingdianzi-engineering-sources.json"
+    },
+    {
+      "id": "market-harwin-engineering-sources",
+      "name": "HARWIN wiring and terminals catalogue and drawing sources",
+      "manufacturer": "HARWIN",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-harwin-engineering-sources",
+      "recordPath": "equipment/market-harwin-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-harwin-engineering-sources.json"
+    },
+    {
+      "id": "market-jae-classification-engineering-sources",
+      "name": "JAE Classification wiring and terminals catalogue and drawing sources",
+      "manufacturer": "JAE Classification",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-jae-classification-engineering-sources",
+      "recordPath": "equipment/market-jae-classification-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-jae-classification-engineering-sources.json"
+    },
+    {
+      "id": "market-k-s-terminals-engineering-sources",
+      "name": "K.S. Terminals wiring and terminals catalogue and drawing sources",
+      "manufacturer": "K.S. Terminals",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-k-s-terminals-engineering-sources",
+      "recordPath": "equipment/market-k-s-terminals-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-k-s-terminals-engineering-sources.json"
+    },
+    {
+      "id": "market-kinghelm-engineering-sources",
+      "name": "KINGHELM wiring and terminals catalogue and drawing sources",
+      "manufacturer": "KINGHELM",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-kinghelm-engineering-sources",
+      "recordPath": "equipment/market-kinghelm-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-kinghelm-engineering-sources.json"
+    },
+    {
+      "id": "market-landwin-engineering-sources",
+      "name": "LANDWIN wiring and terminals catalogue and drawing sources",
+      "manufacturer": "LANDWIN",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-landwin-engineering-sources",
+      "recordPath": "equipment/market-landwin-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-landwin-engineering-sources.json"
+    },
+    {
+      "id": "market-mencom-engineering-sources",
+      "name": "MENCOM wiring and terminals catalogue and drawing sources",
+      "manufacturer": "MENCOM",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-mencom-engineering-sources",
+      "recordPath": "equipment/market-mencom-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-mencom-engineering-sources.json"
+    },
+    {
+      "id": "market-neutrik-engineering-sources",
+      "name": "NEUTRIK wiring and terminals catalogue and drawing sources",
+      "manufacturer": "NEUTRIK",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-neutrik-engineering-sources",
+      "recordPath": "equipment/market-neutrik-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-neutrik-engineering-sources.json"
+    },
+    {
+      "id": "market-ninigi-engineering-sources",
+      "name": "Ninigi wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Ninigi",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-ninigi-engineering-sources",
+      "recordPath": "equipment/market-ninigi-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-ninigi-engineering-sources.json"
+    },
+    {
+      "id": "market-odu-engineering-sources",
+      "name": "ODU wiring and terminals catalogue and drawing sources",
+      "manufacturer": "ODU",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-odu-engineering-sources",
+      "recordPath": "equipment/market-odu-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-odu-engineering-sources.json"
+    },
+    {
+      "id": "market-omnetics-connector-corporation-engineering-sources",
+      "name": "Omnetics Connector Corporation wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Omnetics Connector Corporation",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-omnetics-connector-corporation-engineering-sources",
+      "recordPath": "equipment/market-omnetics-connector-corporation-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-omnetics-connector-corporation-engineering-sources.json"
+    },
+    {
+      "id": "market-preci-dip-engineering-sources",
+      "name": "preci-dip wiring and terminals catalogue and drawing sources",
+      "manufacturer": "preci-dip",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-preci-dip-engineering-sources",
+      "recordPath": "equipment/market-preci-dip-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-preci-dip-engineering-sources.json"
+    },
+    {
+      "id": "market-senmun-engineering-sources",
+      "name": "SENMUN wiring and terminals catalogue and drawing sources",
+      "manufacturer": "SENMUN",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-senmun-engineering-sources",
+      "recordPath": "equipment/market-senmun-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-senmun-engineering-sources.json"
+    },
+    {
+      "id": "market-txga-engineering-sources",
+      "name": "TXGA wiring and terminals catalogue and drawing sources",
+      "manufacturer": "TXGA",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-txga-engineering-sources",
+      "recordPath": "equipment/market-txga-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-txga-engineering-sources.json"
+    },
+    {
+      "id": "market-weipu-electric-engineering-sources",
+      "name": "Weipu Electric wiring and terminals catalogue and drawing sources",
+      "manufacturer": "Weipu Electric",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-weipu-electric-engineering-sources",
+      "recordPath": "equipment/market-weipu-electric-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-weipu-electric-engineering-sources.json"
+    },
+    {
+      "id": "market-xkb-engineering-sources",
+      "name": "XKB wiring and terminals catalogue and drawing sources",
+      "manufacturer": "XKB",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-xkb-engineering-sources",
+      "recordPath": "equipment/market-xkb-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-xkb-engineering-sources.json"
+    },
+    {
+      "id": "market-xunpu-engineering-sources",
+      "name": "XUNPU wiring and terminals catalogue and drawing sources",
+      "manufacturer": "XUNPU",
+      "formats": [],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/market-xunpu-engineering-sources",
+      "recordPath": "equipment/market-xunpu-engineering-sources.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/market-xunpu-engineering-sources.json"
+    },
+    {
+      "id": "mfr-fibox-wall-mount-and-terminal-box-enclosures-8e2a62d8cc",
+      "name": "Wall Mount and Terminal Box Enclosures",
+      "manufacturer": "FIBOX",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-fibox-wall-mount-and-terminal-box-enclosures-8e2a62d8cc",
+      "recordPath": "equipment/mfr-fibox-wall-mount-and-terminal-box-enclosures-8e2a62d8cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-fibox-wall-mount-and-terminal-box-enclosures-8e2a62d8cc.json"
+    },
+    {
+      "id": "mfr-nhp-nline-plastic-terminal-box-base-64b-3a517651cc",
+      "name": "Plastic Terminal Box Base 64B",
+      "manufacturer": "NHP",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-nline-plastic-terminal-box-base-64b-3a517651cc",
+      "recordPath": "equipment/mfr-nhp-nline-plastic-terminal-box-base-64b-3a517651cc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-nline-plastic-terminal-box-base-64b-3a517651cc.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7bx10v-lv-base-mount-contact-block-f0014022fd",
+      "name": "D7BX10V LV Base Mount Contact Block",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7bx10v-lv-base-mount-contact-block-f0014022fd",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7bx10v-lv-base-mount-contact-block-f0014022fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7bx10v-lv-base-mount-contact-block-f0014022fd.json"
+    },
+    {
+      "id": "mfr-steute-zs92s22vdf4085c-pullwire-4ca9ef0c94",
+      "name": "ZS92S22VDF4085C Pullwire",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-zs92s22vdf4085c-pullwire-4ca9ef0c94",
+      "recordPath": "equipment/mfr-steute-zs92s22vdf4085c-pullwire-4ca9ef0c94.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-zs92s22vdf4085c-pullwire-4ca9ef0c94.json"
+    },
+    {
+      "id": "mfr-nvent-eriflex-561154-high-current-terminal-c01235ad3c",
+      "name": "561154 High Current Terminal",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-eriflex-561154-high-current-terminal-c01235ad3c",
+      "recordPath": "equipment/mfr-nvent-eriflex-561154-high-current-terminal-c01235ad3c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-eriflex-561154-high-current-terminal-c01235ad3c.json"
+    },
+    {
+      "id": "mfr-nhp-nline-plastic-terminal-box-604022-abe37aad49",
+      "name": "Plastic Terminal Box 604022",
+      "manufacturer": "NHP",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nhp-nline-plastic-terminal-box-604022-abe37aad49",
+      "recordPath": "equipment/mfr-nhp-nline-plastic-terminal-box-604022-abe37aad49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nhp-nline-plastic-terminal-box-604022-abe37aad49.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7q10-screwless-contact-block-58d7880e45",
+      "name": "D7Q10 Screwless Contact Block",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7q10-screwless-contact-block-58d7880e45",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7q10-screwless-contact-block-58d7880e45.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7q10-screwless-contact-block-58d7880e45.json"
+    },
+    {
+      "id": "mfr-steute-zs92s22vdlf4080c-pullwire-with-lamp-548e56cbcd",
+      "name": "ZS92S22VDLF4080C Pullwire with Lamp",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-zs92s22vdlf4080c-pullwire-with-lamp-548e56cbcd",
+      "recordPath": "equipment/mfr-steute-zs92s22vdlf4080c-pullwire-with-lamp-548e56cbcd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-zs92s22vdlf4080c-pullwire-with-lamp-548e56cbcd.json"
+    },
+    {
+      "id": "mfr-nvent-eriflex-561166-high-current-terminal-c557c7fcc3",
+      "name": "561166 High Current Terminal",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-eriflex-561166-high-current-terminal-c557c7fcc3",
+      "recordPath": "equipment/mfr-nvent-eriflex-561166-high-current-terminal-c557c7fcc3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-eriflex-561166-high-current-terminal-c557c7fcc3.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-d7x10-contact-block-8e9c17f916",
+      "name": "D7X10 Contact Block",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-d7x10-contact-block-8e9c17f916",
+      "recordPath": "equipment/mfr-sprecher-schuh-d7x10-contact-block-8e9c17f916.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-d7x10-contact-block-8e9c17f916.json"
+    },
+    {
+      "id": "mfr-steute-zs92sr22p4085c-belt-drift-switch-700d101790",
+      "name": "ZS92SR22P4085C Belt Drift Switch",
+      "manufacturer": "Steute",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-steute-zs92sr22p4085c-belt-drift-switch-700d101790",
+      "recordPath": "equipment/mfr-steute-zs92sr22p4085c-belt-drift-switch-700d101790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-steute-zs92sr22p4085c-belt-drift-switch-700d101790.json"
+    },
+    {
+      "id": "mfr-nvent-eriflex-561174-high-current-terminal-1b59b2be69",
+      "name": "561174 High Current Terminal",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-eriflex-561174-high-current-terminal-1b59b2be69",
+      "recordPath": "equipment/mfr-nvent-eriflex-561174-high-current-terminal-1b59b2be69.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-eriflex-561174-high-current-terminal-1b59b2be69.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-v7wtf3-terminal-e99e850727",
+      "name": "V7WTF3 Terminal",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-v7wtf3-terminal-e99e850727",
+      "recordPath": "equipment/mfr-sprecher-schuh-v7wtf3-terminal-e99e850727.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-v7wtf3-terminal-e99e850727.json"
+    },
+    {
+      "id": "mfr-nvent-eriflex-561175-high-current-terminal-663b180373",
+      "name": "561175 High Current Terminal",
+      "manufacturer": "nVent ERIFLEX",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-nvent-eriflex-561175-high-current-terminal-663b180373",
+      "recordPath": "equipment/mfr-nvent-eriflex-561175-high-current-terminal-663b180373.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-nvent-eriflex-561175-high-current-terminal-663b180373.json"
+    },
+    {
+      "id": "mfr-sprecher-schuh-sprecher-and-schuh-terminals-v7-2b1f8a57d0",
+      "name": "Sprecher and Schuh Terminals V7",
+      "manufacturer": "Sprecher + Schuh",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-sprecher-schuh-sprecher-and-schuh-terminals-v7-2b1f8a57d0",
+      "recordPath": "equipment/mfr-sprecher-schuh-sprecher-and-schuh-terminals-v7-2b1f8a57d0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-sprecher-schuh-sprecher-and-schuh-terminals-v7-2b1f8a57d0.json"
+    },
+    {
+      "id": "mfr-schneider-electric-asymmetrical-flashing-relay-0-1-1s-100h-24-240-vac-spring-terminal-ce28542af4",
+      "name": "Asymmetrical flashing relay - 0.1/1s..100h - 24..240 VAC - spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-asymmetrical-flashing-relay-0-1-1s-100h-24-240-vac-spring-terminal-ce28542af4",
+      "recordPath": "equipment/mfr-schneider-electric-asymmetrical-flashing-relay-0-1-1s-100h-24-240-vac-spring-terminal-ce28542af4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-asymmetrical-flashing-relay-0-1-1s-100h-24-240-vac-spring-terminal-ce28542af4.json"
+    },
+    {
+      "id": "mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-pax-pa-dbbdff621e",
+      "name": "DC 720 kW range Dispenser, 400 A, CCS2 + CCS2, 5 m cable range with cable management, Pax payment terminal files",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-pax-pa-dbbdff621e",
+      "recordPath": "equipment/mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-pax-pa-dbbdff621e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-pax-pa-dbbdff621e.json"
+    },
+    {
+      "id": "mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-paymen-cc10916877",
+      "name": "DC 720 kW range Dispenser, 400 A, CCS2 + CCS2, 5 m cable range with cable management, payment terminal files",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-paymen-cc10916877",
+      "recordPath": "equipment/mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-paymen-cc10916877.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-dc-720-kw-range-dispenser-400-a-ccs2-ccs2-5-m-cable-range-with-cable-management-paymen-cc10916877.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-gr-flush-caps-pb-wh-marked-i-1no-screw-clamp-cp-grey-8251fef7bb",
+      "name": "FLUSH MOUNTED GR FLUSH CAPS PB WH MARKED I 1NO SCREW CLAMP CP GREY",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-gr-flush-caps-pb-wh-marked-i-1no-screw-clamp-cp-grey-8251fef7bb",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-gr-flush-caps-pb-wh-marked-i-1no-screw-clamp-cp-grey-8251fef7bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-gr-flush-caps-pb-wh-marked-i-1no-screw-clamp-cp-grey-8251fef7bb.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-1nc-screw-clamp-8c04c59561",
+      "name": "FLUSH MOUNTED RED PROJECTING PUSHBUTTON 1NC SCREW CLAMP",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-1nc-screw-clamp-8c04c59561",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-1nc-screw-clamp-8c04c59561.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-red-projecting-pushbutton-1nc-screw-clamp-8c04c59561.json"
+    },
+    {
+      "id": "mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-1nc-screw-clamp-ddba39b231",
+      "name": "Flush mounted selector switch Ø30.5 2 pos stay put 1NO 1NC screw clamp",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-1nc-screw-clamp-ddba39b231",
+      "recordPath": "equipment/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-1nc-screw-clamp-ddba39b231.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-flush-mounted-selector-switch-30-5-2-pos-stay-put-1no-1nc-screw-clamp-ddba39b231.json"
+    },
+    {
+      "id": "mfr-schneider-electric-harmony-xald-xalk-control-station-plastic-yellow-lid-1-red-mushroom-40-turn-to-release-3a29c0efe6",
+      "name": "Harmony XALD, XALK, Control station, plastic, yellow lid, 1 red mushroom Ø40, turn to release, 1 NC with monitoring",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-harmony-xald-xalk-control-station-plastic-yellow-lid-1-red-mushroom-40-turn-to-release-3a29c0efe6",
+      "recordPath": "equipment/mfr-schneider-electric-harmony-xald-xalk-control-station-plastic-yellow-lid-1-red-mushroom-40-turn-to-release-3a29c0efe6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-harmony-xald-xalk-control-station-plastic-yellow-lid-1-red-mushroom-40-turn-to-release-3a29c0efe6.json"
+    },
+    {
+      "id": "mfr-allen-bradley-1492-spm-3-pole-n-570e3219ca",
+      "name": "1492 SPM 3 POLE N",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-1492-spm-3-pole-n-570e3219ca",
+      "recordPath": "equipment/mfr-allen-bradley-1492-spm-3-pole-n-570e3219ca.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-1492-spm-3-pole-n-570e3219ca.json"
+    },
+    {
+      "id": "mfr-schneider-electric-on-off-delay-timing-relay-1-s-100-h-24-240v-ac-dc-ac-spring-terminal-ed7cceddfb",
+      "name": "On/off-delay timing relay - 1 s..100 h 24..240V AC/DC AC- spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-on-off-delay-timing-relay-1-s-100-h-24-240v-ac-dc-ac-spring-terminal-ed7cceddfb",
+      "recordPath": "equipment/mfr-schneider-electric-on-off-delay-timing-relay-1-s-100-h-24-240v-ac-dc-ac-spring-terminal-ed7cceddfb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-on-off-delay-timing-relay-1-s-100-h-24-240v-ac-dc-ac-spring-terminal-ed7cceddfb.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-070ds-45465545fc",
+      "name": "OptixPanel 2800S 070DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-070ds-45465545fc",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-070ds-45465545fc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-070ds-45465545fc.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-070fm-6f6cb6db80",
+      "name": "OptixPanel 2800S 070FM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-070fm-6f6cb6db80",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-070fm-6f6cb6db80.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-070fm-6f6cb6db80.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-101ds-0b31b55f7e",
+      "name": "OptixPanel 2800S 101DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-101ds-0b31b55f7e",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-101ds-0b31b55f7e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-101ds-0b31b55f7e.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-101fm-1a1b6d0d0f",
+      "name": "OptixPanel 2800S 101FM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-101fm-1a1b6d0d0f",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-101fm-1a1b6d0d0f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-101fm-1a1b6d0d0f.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-101xs-5f99462cb2",
+      "name": "OptixPanel 2800S 101XS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-101xs-5f99462cb2",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-101xs-5f99462cb2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-101xs-5f99462cb2.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-104ds-5d7eb09809",
+      "name": "OptixPanel 2800S 104DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-104ds-5d7eb09809",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-104ds-5d7eb09809.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-104ds-5d7eb09809.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-104es-92cf3fac8d",
+      "name": "OptixPanel 2800S 104ES",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-104es-92cf3fac8d",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-104es-92cf3fac8d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-104es-92cf3fac8d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-120ds-765f5de95b",
+      "name": "OptixPanel 2800S 120DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-120ds-765f5de95b",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-120ds-765f5de95b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-120ds-765f5de95b.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-120es-60ad507b34",
+      "name": "OptixPanel 2800S 120ES",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-120es-60ad507b34",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-120es-60ad507b34.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-120es-60ad507b34.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-121ds-d2dee20587",
+      "name": "OptixPanel 2800S 121DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-121ds-d2dee20587",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-121ds-d2dee20587.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-121ds-d2dee20587.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-121fm-41d7e027e9",
+      "name": "OptixPanel 2800S 121FM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-121fm-41d7e027e9",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-121fm-41d7e027e9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-121fm-41d7e027e9.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-121xs-ea77d32d85",
+      "name": "OptixPanel 2800S 121XS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-121xs-ea77d32d85",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-121xs-ea77d32d85.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-121xs-ea77d32d85.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-150ds-69dbd8391d",
+      "name": "OptixPanel 2800S 150DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-150ds-69dbd8391d",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-150ds-69dbd8391d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-150ds-69dbd8391d.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-150es-3ee12f19bb",
+      "name": "OptixPanel 2800S 150ES",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-150es-3ee12f19bb",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-150es-3ee12f19bb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-150es-3ee12f19bb.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-156ds-685d6b68e6",
+      "name": "OptixPanel 2800S 156DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-156ds-685d6b68e6",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-156ds-685d6b68e6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-156ds-685d6b68e6.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-156fm-16fae57229",
+      "name": "OptixPanel 2800S 156FM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-156fm-16fae57229",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-156fm-16fae57229.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-156fm-16fae57229.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-156xs-bd2619e616",
+      "name": "OptixPanel 2800S 156XS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-156xs-bd2619e616",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-156xs-bd2619e616.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-156xs-bd2619e616.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-185ds-5cb9b54431",
+      "name": "OptixPanel 2800S 185DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-185ds-5cb9b54431",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-185ds-5cb9b54431.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-185ds-5cb9b54431.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-185fm-5073d9909a",
+      "name": "OptixPanel 2800S 185FM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-185fm-5073d9909a",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-185fm-5073d9909a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-185fm-5073d9909a.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-185xs-61526fa522",
+      "name": "OptixPanel 2800S 185XS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-185xs-61526fa522",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-185xs-61526fa522.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-185xs-61526fa522.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-215ds-6764c337ff",
+      "name": "OptixPanel 2800S 215DS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-215ds-6764c337ff",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-215ds-6764c337ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-215ds-6764c337ff.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-215fm-868bb110ef",
+      "name": "OptixPanel 2800S 215FM",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-215fm-868bb110ef",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-215fm-868bb110ef.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-215fm-868bb110ef.json"
+    },
+    {
+      "id": "mfr-allen-bradley-optixpanel-2800s-215xs-2025913bbc",
+      "name": "OptixPanel 2800S 215XS",
+      "manufacturer": "Allen-Bradley",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-allen-bradley-optixpanel-2800s-215xs-2025913bbc",
+      "recordPath": "equipment/mfr-allen-bradley-optixpanel-2800s-215xs-2025913bbc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-allen-bradley-optixpanel-2800s-215xs-2025913bbc.json"
+    },
+    {
+      "id": "mfr-schneider-electric-time-delay-relay-10-functions-1-s-100-h-24-240-v-ac-1co-spring-terminal-c3093a99d5",
+      "name": "Time delay relay 10 functions - 1 s..100 h - 24..240 V AC - 1CO, spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-time-delay-relay-10-functions-1-s-100-h-24-240-v-ac-1co-spring-terminal-c3093a99d5",
+      "recordPath": "equipment/mfr-schneider-electric-time-delay-relay-10-functions-1-s-100-h-24-240-v-ac-1co-spring-terminal-c3093a99d5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-time-delay-relay-10-functions-1-s-100-h-24-240-v-ac-1co-spring-terminal-c3093a99d5.json"
+    },
+    {
+      "id": "mfr-schneider-electric-time-delay-relay-8-9-functions-1-s-100-h-24-240-vac-dc-1co-spring-terminal-af5a7f977c",
+      "name": "Time delay relay 8/ 9 functions - 1 s..100 h - 24..240 VAC/DC - 1CO, spring terminal",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-time-delay-relay-8-9-functions-1-s-100-h-24-240-vac-dc-1co-spring-terminal-af5a7f977c",
+      "recordPath": "equipment/mfr-schneider-electric-time-delay-relay-8-9-functions-1-s-100-h-24-240-vac-dc-1co-spring-terminal-af5a7f977c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-time-delay-relay-8-9-functions-1-s-100-h-24-240-vac-dc-1co-spring-terminal-af5a7f977c.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald351h29h7-5dd6ffc469",
+      "name": "XALD351H29H7",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald351h29h7-5dd6ffc469",
+      "recordPath": "equipment/mfr-schneider-electric-xald351h29h7-5dd6ffc469.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald351h29h7-5dd6ffc469.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xald361m-cad-2023-49f6e07260",
+      "name": "XALD361M_CAD_2023",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xald361m-cad-2023-49f6e07260",
+      "recordPath": "equipment/mfr-schneider-electric-xald361m-cad-2023-49f6e07260.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xald361m-cad-2023-49f6e07260.json"
+    },
+    {
+      "id": "mfr-schneider-electric-xals2003h-286b864236",
+      "name": "XALS2003H",
+      "manufacturer": "Schneider Electric",
+      "formats": [
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-xals2003h-286b864236",
+      "recordPath": "equipment/mfr-schneider-electric-xals2003h-286b864236.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-xals2003h-286b864236.json"
+    },
+    {
+      "id": "mfr-abb-xt5-iii-iv-withdrawable-version-630a-vertical-rear-terminals-vr-with-fld-3b2bd99eb7",
+      "name": "XT5 III-IV withdrawable version 630A vertical rear terminals VR with FLD",
+      "manufacturer": "ABB",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-xt5-iii-iv-withdrawable-version-630a-vertical-rear-terminals-vr-with-fld-3b2bd99eb7",
+      "recordPath": "equipment/mfr-abb-xt5-iii-iv-withdrawable-version-630a-vertical-rear-terminals-vr-with-fld-3b2bd99eb7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-xt5-iii-iv-withdrawable-version-630a-vertical-rear-terminals-vr-with-fld-3b2bd99eb7.json"
+    },
+    {
+      "id": "mfr-abb-1sep408514r5001-xr2-3-multiplg-20-ctaux-sw-d318f1335e",
+      "name": "1SEP408514R5001 XR2-3 Multiplg 20 CTaux.sw",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep408514r5001-xr2-3-multiplg-20-ctaux-sw-d318f1335e",
+      "recordPath": "equipment/mfr-abb-1sep408514r5001-xr2-3-multiplg-20-ctaux-sw-d318f1335e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep408514r5001-xr2-3-multiplg-20-ctaux-sw-d318f1335e.json"
+    },
+    {
+      "id": "mfr-abb-1sep622409r0001-inlineii-v-clamp-150mm2-kit-3bce2ed49c",
+      "name": "1SEP622409R0001-INLINEII V-CLAMP 150MM2 KIT",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep622409r0001-inlineii-v-clamp-150mm2-kit-3bce2ed49c",
+      "recordPath": "equipment/mfr-abb-1sep622409r0001-inlineii-v-clamp-150mm2-kit-3bce2ed49c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep622409r0001-inlineii-v-clamp-150mm2-kit-3bce2ed49c.json"
+    },
+    {
+      "id": "mfr-abb-1sep622410r0001-inlineii-v-clamp-240mm2-kit-58e41e82cb",
+      "name": "1SEP622410R0001-INLINEII V-CLAMP 240MM2 KIT",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-1sep622410r0001-inlineii-v-clamp-240mm2-kit-58e41e82cb",
+      "recordPath": "equipment/mfr-abb-1sep622410r0001-inlineii-v-clamp-240mm2-kit-58e41e82cb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-1sep622410r0001-inlineii-v-clamp-240mm2-kit-58e41e82cb.json"
+    },
+    {
+      "id": "mfr-abb-e4-2-iv-terminals-lhr-4000a-1afa7b057e",
+      "name": "E4.2 IV terminals LHR 4000A",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-e4-2-iv-terminals-lhr-4000a-1afa7b057e",
+      "recordPath": "equipment/mfr-abb-e4-2-iv-terminals-lhr-4000a-1afa7b057e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-e4-2-iv-terminals-lhr-4000a-1afa7b057e.json"
+    },
+    {
+      "id": "mfr-abb-iec-esa6-esc6-connectors-155efb3969",
+      "name": "IEC ESA6-ESC6 Connectors",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-iec-esa6-esc6-connectors-155efb3969",
+      "recordPath": "equipment/mfr-abb-iec-esa6-esc6-connectors-155efb3969.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-iec-esa6-esc6-connectors-155efb3969.json"
+    },
+    {
+      "id": "mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-parasolid-j-c81e0f1dff",
+      "name": "IRT510 Covered DBL IRB INT-EXT Chain 19m REV01 PARASOLID J",
+      "manufacturer": "ABB",
+      "formats": [
+        "X_T"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-parasolid-j-c81e0f1dff",
+      "recordPath": "equipment/mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-parasolid-j-c81e0f1dff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irt510-covered-dbl-irb-int-ext-chain-19m-rev01-parasolid-j-c81e0f1dff.json"
+    },
+    {
+      "id": "mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-parasolid-j-3bacc287ac",
+      "name": "IRT510 Covered DBL IRB-EP INT-EXT Chain 17m REV01 PARASOLID J",
+      "manufacturer": "ABB",
+      "formats": [
+        "X_T"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-parasolid-j-3bacc287ac",
+      "recordPath": "equipment/mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-parasolid-j-3bacc287ac.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irt510-covered-dbl-irb-ep-int-ext-chain-17m-rev01-parasolid-j-3bacc287ac.json"
+    },
+    {
+      "id": "mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-parasolid-j-4931ddf21d",
+      "name": "IRT510 Covered DBL IRB-EP IRB INT-EXT Chain 18m REV01 PARASOLID J",
+      "manufacturer": "ABB",
+      "formats": [
+        "X_T"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-parasolid-j-4931ddf21d",
+      "recordPath": "equipment/mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-parasolid-j-4931ddf21d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-irt510-covered-dbl-irb-ep-irb-int-ext-chain-18m-rev01-parasolid-j-4931ddf21d.json"
+    },
+    {
+      "id": "mfr-abb-rdum-01-control-panel-connector-conversion-adaptor-c8b9a2a46a",
+      "name": "RDUM-01 Control Panel Connector Conversion Adaptor:",
+      "manufacturer": "ABB",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-rdum-01-control-panel-connector-conversion-adaptor-c8b9a2a46a",
+      "recordPath": "equipment/mfr-abb-rdum-01-control-panel-connector-conversion-adaptor-c8b9a2a46a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/mfr-abb-rdum-01-control-panel-connector-conversion-adaptor-c8b9a2a46a.json"
+    },
+    {
+      "id": "weidmueller-article-1030200000",
+      "name": "WDL 2.5/L/L/PE",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1030200000",
+      "recordPath": "equipment/weidmueller-article-1030200000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1030200000.json"
+    },
+    {
+      "id": "eplan-oem-1802699",
+      "name": "Fault Status Module — M-LB-4402",
+      "manufacturer": "Pepperl+Fuchs",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-1802699",
+      "recordPath": "equipment/eplan-oem-1802699.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-1802699.json"
+    },
+    {
+      "id": "eplan-oem-1802700",
+      "name": "Separation Wall — M-LB-4800",
+      "manufacturer": "Pepperl+Fuchs",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-1802700",
+      "recordPath": "equipment/eplan-oem-1802700.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-1802700.json"
+    },
+    {
+      "id": "eplan-oem-622890",
+      "name": "Neutral Conductor Feed-through Module, 63A, 1MW",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622890",
+      "recordPath": "equipment/eplan-oem-622890.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622890.json"
+    },
+    {
+      "id": "eplan-oem-622893",
+      "name": "Neutral Conductor Feed-through Mod. + Test terminal, 63A,1MW",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622893",
+      "recordPath": "equipment/eplan-oem-622893.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622893.json"
+    },
+    {
+      "id": "eplan-oem-622894",
+      "name": "Neutral isolator - terminal, 1SU",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622894",
+      "recordPath": "equipment/eplan-oem-622894.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622894.json"
+    },
+    {
+      "id": "eplan-oem-622895",
+      "name": "Neutral Conductor Feed-through Module, 80A, 1MW",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622895",
+      "recordPath": "equipment/eplan-oem-622895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622895.json"
+    },
+    {
+      "id": "eplan-oem-622930",
+      "name": "Connecting terminal Al-Cu to 50mm²",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622930",
+      "recordPath": "equipment/eplan-oem-622930.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622930.json"
+    },
+    {
+      "id": "eplan-oem-622933",
+      "name": "Connection Terminal, Fork, Straight, 6-25mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622933",
+      "recordPath": "equipment/eplan-oem-622933.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622933.json"
+    },
+    {
+      "id": "eplan-oem-622934",
+      "name": "Connection Terminal, Fork, cross-wise, 6-25mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622934",
+      "recordPath": "equipment/eplan-oem-622934.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622934.json"
+    },
+    {
+      "id": "eplan-oem-622935",
+      "name": "Connection Terminal, Pin, Straight, 6-25mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622935",
+      "recordPath": "equipment/eplan-oem-622935.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622935.json"
+    },
+    {
+      "id": "eplan-oem-622936",
+      "name": "Connection Terminal, Pin, cross-wise, 6-25mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622936",
+      "recordPath": "equipment/eplan-oem-622936.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622936.json"
+    },
+    {
+      "id": "eplan-oem-622937",
+      "name": "Connection Terminal, Fork, Straight, 6-50mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622937",
+      "recordPath": "equipment/eplan-oem-622937.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622937.json"
+    },
+    {
+      "id": "eplan-oem-622938",
+      "name": "Connection Terminal, Fork, cross-wise, 6-50mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622938",
+      "recordPath": "equipment/eplan-oem-622938.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622938.json"
+    },
+    {
+      "id": "eplan-oem-622939",
+      "name": "Connection Terminal, Pin, Straight, 6-50mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622939",
+      "recordPath": "equipment/eplan-oem-622939.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622939.json"
+    },
+    {
+      "id": "eplan-oem-622940",
+      "name": "Connection Terminal, Pin, cross-wise, 6-50mm², Short",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622940",
+      "recordPath": "equipment/eplan-oem-622940.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622940.json"
+    },
+    {
+      "id": "eplan-oem-622941",
+      "name": "Connection Terminal, Pin, cross-wise, 6-50mm², Long",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622941",
+      "recordPath": "equipment/eplan-oem-622941.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622941.json"
+    },
+    {
+      "id": "eplan-oem-622942",
+      "name": "Connection Terminal, Pin, Straight, 6-50mm², Long",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622942",
+      "recordPath": "equipment/eplan-oem-622942.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622942.json"
+    },
+    {
+      "id": "eplan-oem-622947",
+      "name": "Connection Terminal 50mm², Pin 20x9mm cross-wise",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622947",
+      "recordPath": "equipment/eplan-oem-622947.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622947.json"
+    },
+    {
+      "id": "eplan-oem-622994",
+      "name": "Small Connect,Wiring Set 1+N, 10mm², for MCB 1+N/1MW",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622994",
+      "recordPath": "equipment/eplan-oem-622994.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622994.json"
+    },
+    {
+      "id": "eplan-oem-622996",
+      "name": "Small Connect, Connection Terminal f. 1+N/MCB 1MW, tinned",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622996",
+      "recordPath": "equipment/eplan-oem-622996.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622996.json"
+    },
+    {
+      "id": "eplan-oem-622997",
+      "name": "Small Connect, Connection Terminal for BS990171",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622997",
+      "recordPath": "equipment/eplan-oem-622997.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622997.json"
+    },
+    {
+      "id": "eplan-oem-623192",
+      "name": "Conn. terminal, pin. straight 25mm², 2 screws w/o insulation",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-623192",
+      "recordPath": "equipment/eplan-oem-623192.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-623192.json"
+    },
+    {
+      "id": "eplan-oem-697833",
+      "name": "Neutral terminal, 7 outgoing terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697833",
+      "recordPath": "equipment/eplan-oem-697833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697833.json"
+    },
+    {
+      "id": "eplan-oem-697834",
+      "name": "Insulated neutral terminal, 7 outgoings terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697834",
+      "recordPath": "equipment/eplan-oem-697834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697834.json"
+    },
+    {
+      "id": "eplan-oem-697835",
+      "name": "PE terminal, 7 outgoing terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697835",
+      "recordPath": "equipment/eplan-oem-697835.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697835.json"
+    },
+    {
+      "id": "eplan-oem-697836",
+      "name": "Insulated PE terminal, 7 outgoings terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697836",
+      "recordPath": "equipment/eplan-oem-697836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697836.json"
+    },
+    {
+      "id": "eplan-oem-697837",
+      "name": "Neutral terminal, 15 outgoing terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697837",
+      "recordPath": "equipment/eplan-oem-697837.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697837.json"
+    },
+    {
+      "id": "eplan-oem-697838",
+      "name": "Insulated neutral terminal, 15 outgoings terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697838",
+      "recordPath": "equipment/eplan-oem-697838.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697838.json"
+    },
+    {
+      "id": "eplan-oem-697839",
+      "name": "PE terminal, 15 outgoing terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697839",
+      "recordPath": "equipment/eplan-oem-697839.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697839.json"
+    },
+    {
+      "id": "eplan-oem-697840",
+      "name": "Insulated PE terminal, 15 outgoings terminals",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-697840",
+      "recordPath": "equipment/eplan-oem-697840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-697840.json"
+    },
+    {
+      "id": "eaton-article-072477",
+      "name": "K4X185/5 — Connection terminal, 1000A, 5p, flat/round",
+      "manufacturer": "Eaton",
+      "formats": [
+        "DWG",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eaton-article-072477",
+      "recordPath": "equipment/eaton-article-072477.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eaton-article-072477.json"
+    },
+    {
+      "id": "weidmueller-article-1780900000",
+      "name": "WTW WF8 — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 109.8 mm x 66.95 mm, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1780900000",
+      "recordPath": "equipment/weidmueller-article-1780900000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1780900000.json"
+    },
+    {
+      "id": "weidmueller-article-1050280000",
+      "name": "WHP 2.5-35N/10X3 BL — End and partition plate for terminal block / End and partition plate for terminals, blue, Height: 60 mm, Width: 2 mm, V-0, Wemid",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1050280000",
+      "recordPath": "equipment/weidmueller-article-1050280000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1050280000.json"
+    },
+    {
+      "id": "weidmueller-article-1010400000",
+      "name": "WPE 16 — Ground terminal block / PE terminal, Screw connection, 16 mm², 1000 V, Number of connections: 2, Number of levels: 1, Green/yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1010400000",
+      "recordPath": "equipment/weidmueller-article-1010400000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1010400000.json"
+    },
+    {
+      "id": "weidmueller-article-1780910000",
+      "name": "WTW WF8 2300 — End and partition plate for terminal block / Partition plate (terminal) End and intermediate plate, 109.8 mm x 66.95 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1780910000",
+      "recordPath": "equipment/weidmueller-article-1780910000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1780910000.json"
+    },
+    {
+      "id": "weidmueller-article-1878530000",
+      "name": "WTR 2.5 OR — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Screw connection, orange, 2.5 mm², 24 A, 500 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1878530000",
+      "recordPath": "equipment/weidmueller-article-1878530000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1878530000.json"
+    },
+    {
+      "id": "weidmueller-article-1027410000",
+      "name": "WDK 2.5/BLZ/5.08/ZA V — Feed-through terminal block / Multi-tier modular terminal, Screw connection, 2.5 mm², 250 V, 16.5 A, Number of levels: 2, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1027410000",
+      "recordPath": "equipment/weidmueller-article-1027410000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1027410000.json"
+    },
+    {
+      "id": "weidmueller-article-1267790000",
+      "name": "PRV 16 BL 35X15 RT/WS — Distribution connector / Patch distributor terminal, PUSH IN, blue, 1.5 mm², 6 A, 250 V, Number of connections: 64, Number of levels: 16, TS 35 x 15, V-0, Polycarbonate",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1267790000",
+      "recordPath": "equipment/weidmueller-article-1267790000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1267790000.json"
+    },
+    {
+      "id": "weidmueller-article-1937370000",
+      "name": "WGK 95 GN/YE BX — Lead-through terminal / OMNIMATE Power - series WGK, Feed-through terminal, Rated cross-section: 95 mm², Screw connection, Wemid (PA), Green/yellow, Direct mounting, Feed-through (bushing)",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1937370000",
+      "recordPath": "equipment/weidmueller-article-1937370000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1937370000.json"
+    },
+    {
+      "id": "weidmueller-article-1058760000",
+      "name": "WSD 2.5/SCAN WTR2.5 — Component plug terminal block / Component plug (terminal) Plug-in connection, Plugged, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1058760000",
+      "recordPath": "equipment/weidmueller-article-1058760000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1058760000.json"
+    },
+    {
+      "id": "weidmueller-article-1745400000",
+      "name": "ZDTR 2.5 — Disconnect and test disconnect rail-mount terminal block / Test-disconnect terminal, Tension-clamp connection, dark beige, 2.5 mm², 16 A, 400 V, Number of connections: 4, Number of levels: 2, TS 35, V-0, Wemid",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1745400000",
+      "recordPath": "equipment/weidmueller-article-1745400000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1745400000.json"
+    },
+    {
+      "id": "weidmueller-article-1640740000",
+      "name": "WS 8/5 MC NE WS — Labeling for terminal block / Terminal marking, Pitch in mm: 5.00, Printed characters: neutral, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1640740000",
+      "recordPath": "equipment/weidmueller-article-1640740000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1640740000.json"
+    },
+    {
+      "id": "weidmueller-article-1937360000",
+      "name": "WGK 95F VP/Z GN/YE BX — Lead-through terminal / OMNIMATE Power - series WGK, Feed-through terminal, Rated cross-section: 95 mm², Screw connection, Wemid (PA), Green/yellow, Direct mounting, Feed-through (bushing)",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1937360000",
+      "recordPath": "equipment/weidmueller-article-1937360000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1937360000.json"
+    },
+    {
+      "id": "weidmueller-article-0526760000",
+      "name": "ISPF QB75 RT — Insulation profile / Insulation profile, Plastic, red",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0526760000",
+      "recordPath": "equipment/weidmueller-article-0526760000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0526760000.json"
+    },
+    {
+      "id": "weidmueller-article-1079700000",
+      "name": "WQB PEN 70N — Cross-connector for terminal block / Cross-connector (terminal) when screwed in, Number of poles: 2, Pitch in mm: 20.50, Insulated: No, 192 A, Silver grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1079700000",
+      "recordPath": "equipment/weidmueller-article-1079700000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1079700000.json"
+    },
+    {
+      "id": "weidmueller-article-1830650000",
+      "name": "ZDU 16 SW — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, black, 16 mm², 76 A, 1000 V, Number of connections: 2, Number of levels: 1, TS 35, V-0, Wemid",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1830650000",
+      "recordPath": "equipment/weidmueller-article-1830650000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1830650000.json"
+    },
+    {
+      "id": "weidmueller-article-1027400000",
+      "name": "WDUL 4/500 — Component terminal block / Component terminal block, Screw connection, 4 mm², 120 mA, Resistor 500 Ω, TS 35, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1027400000",
+      "recordPath": "equipment/weidmueller-article-1027400000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1027400000.json"
+    },
+    {
+      "id": "weidmueller-article-0478260000",
+      "name": "AST 1 6.3/2.8 — Feed-through terminal block / Feed-through terminal block, Flat-blade connection, 2.5 mm², 500 V, 20 A, Number of connections: 4",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0478260000",
+      "recordPath": "equipment/weidmueller-article-0478260000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0478260000.json"
+    },
+    {
+      "id": "weidmueller-article-1022150000",
+      "name": "TW AKZ4 WS — Partition plate (terminal) / Partition plate (terminal), Intermediate plate, 47 mm x 30 mm, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1022150000",
+      "recordPath": "equipment/weidmueller-article-1022150000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1022150000.json"
+    },
+    {
+      "id": "weidmueller-article-1438210000",
+      "name": "WP 2.5/1AN/2 — Plug (terminal) / Plug (terminal), Screw connection, 2.5 mm², 500 V, 24 A, Number of poles: 2, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1438210000",
+      "recordPath": "equipment/weidmueller-article-1438210000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1438210000.json"
+    },
+    {
+      "id": "weidmueller-article-1358460000",
+      "name": "DEK 5 FW 1,3,5,...99 — Terminal marking / Terminal marking, Pitch, in mm: 5.00, Printed characters: Numbers, horizontal, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1358460000",
+      "recordPath": "equipment/weidmueller-article-1358460000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1358460000.json"
+    },
+    {
+      "id": "weidmueller-article-1193310000",
+      "name": "ZQV 2.5N/7 WS — Cross-connector (terminal) / Cross-connector (terminal), Plugged, Number of poles: 7, Pitch, in mm: 5.10, Insulated: Yes, 24 A, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1193310000",
+      "recordPath": "equipment/weidmueller-article-1193310000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1193310000.json"
+    },
+    {
+      "id": "weidmueller-article-1527830000",
+      "name": "ZQV 2.5N/7 BL — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 7, Pitch in mm: 5.10, Insulated: Yes, 24 A, blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1527830000",
+      "recordPath": "equipment/weidmueller-article-1527830000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1527830000.json"
+    },
+    {
+      "id": "weidmueller-article-0123800000",
+      "name": "QL 4 SAK35 — Cross-connector for terminal block / Cross-connector (terminal) when screwed in, Number of poles: 4, Pitch in mm: 8.00, Insulated: No, 99 A, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0123800000",
+      "recordPath": "equipment/weidmueller-article-0123800000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0123800000.json"
+    },
+    {
+      "id": "weidmueller-article-1527820000",
+      "name": "ZQV 2.5N/6 BL — Cross-connector for terminal block / Cross-connector (terminal) Plugged, Number of poles: 6, Pitch in mm: 5.10, Insulated: Yes, 24 A, blue",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1527820000",
+      "recordPath": "equipment/weidmueller-article-1527820000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1527820000.json"
+    },
+    {
+      "id": "weidmueller-article-1193300000",
+      "name": "ZQV 2.5N/6 WS — Cross-connector (terminal) / Cross-connector (terminal), Plugged, Number of poles: 6, Pitch, in mm: 5.10, Insulated: Yes, 24 A, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1193300000",
+      "recordPath": "equipment/weidmueller-article-1193300000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1193300000.json"
+    },
+    {
+      "id": "weidmueller-article-1753311001",
+      "name": "KLBUE CO 1 — Shield connection terminal / Shield connection terminal, Pitch, in mm: 18.00, Cable diameter, max.: 10 mm, Steel",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1753311001",
+      "recordPath": "equipment/weidmueller-article-1753311001.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1753311001.json"
+    },
+    {
+      "id": "weidmueller-article-1070260000",
+      "name": "WAH 35/KU — Terminal (not overhead line, accessories) / Terminal cover, beige, Polyamide 66, Height: 51.5 mm, Width: 25.7 mm, Depth: 22.6 mm, V-2",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1070260000",
+      "recordPath": "equipment/weidmueller-article-1070260000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1070260000.json"
+    },
+    {
+      "id": "weidmueller-article-1072400000",
+      "name": "WQV 120-PEN — Cross-connector for terminal block / Cross-connector (terminal) when screwed in, Number of poles: 2, Pitch in mm: 32.00, Insulated: No, 292 A, Silver grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1072400000",
+      "recordPath": "equipment/weidmueller-article-1072400000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1072400000.json"
+    },
+    {
+      "id": "weidmueller-article-1846040000",
+      "name": "WPE 50N — Ground terminal block / PE terminal, Screw connection, 50 mm², 1000 V, Number of connections: 2, Number of levels: 1, Green/yellow",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1846040000",
+      "recordPath": "equipment/weidmueller-article-1846040000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1846040000.json"
+    },
+    {
+      "id": "weidmueller-article-1972980000",
+      "name": "ZP 2.5/1AN ZA O.RA BL — Complementary product terminal block (unspecified) / Plug (terminal) Plug-in connection, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of poles: 1, Width: 5 mm",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1972980000",
+      "recordPath": "equipment/weidmueller-article-1972980000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1972980000.json"
+    },
+    {
+      "id": "weidmueller-article-1264170000",
+      "name": "ZEW 35 V0 — End bracket for terminal block / End bracket, Wemid, dark beige, Rail: TS 35, Snap-on",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1264170000",
+      "recordPath": "equipment/weidmueller-article-1264170000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1264170000.json"
+    },
+    {
+      "id": "weidmueller-article-0518200000",
+      "name": "AD 4 SAK16 — Terminal cover / Terminal cover, PVC, yellow, Height: 36 mm, Width: 47.6 mm, Depth: 1 mm",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0518200000",
+      "recordPath": "equipment/weidmueller-article-0518200000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0518200000.json"
+    },
+    {
+      "id": "weidmueller-article-1038100000",
+      "name": "WDK 2.5 BLA/5.08/ZA — Feed-through terminal block / Multi-tier modular terminal, Screw connection, 2.5 mm², 250 V, 15 A, Number of levels: 2, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1038100000",
+      "recordPath": "equipment/weidmueller-article-1038100000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1038100000.json"
+    },
+    {
+      "id": "weidmueller-article-1066200000",
+      "name": "WZAF 70 — Auxiliary connection (terminal) / Auxiliary connection (terminal)",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1066200000",
+      "recordPath": "equipment/weidmueller-article-1066200000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1066200000.json"
+    },
+    {
+      "id": "weidmueller-article-1064460000",
+      "name": "WAH 35 — Terminal (not overhead line, accessories) / Terminal cover, beige, Polyamide 66, Height: 63.5 mm, Width: 26 mm, Depth: 22.6 mm, V-2",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1064460000",
+      "recordPath": "equipment/weidmueller-article-1064460000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1064460000.json"
+    },
+    {
+      "id": "weidmueller-article-0646210000",
+      "name": "MOFU 35/LO/1 SW — Mounting foot (terminal) / Accessories, Mounting foot, Polyamide 66",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0646210000",
+      "recordPath": "equipment/weidmueller-article-0646210000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0646210000.json"
+    },
+    {
+      "id": "weidmueller-article-1319260000",
+      "name": "QVS 2/4 SAKT4 — Cross-connector for terminal block / Cross-connector (terminal) when screwed in, Number of poles: 2, Pitch in mm: 12.00, Insulated: Yes, 32 A, orange",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1319260000",
+      "recordPath": "equipment/weidmueller-article-1319260000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1319260000.json"
+    },
+    {
+      "id": "weidmueller-article-0388900000",
+      "name": "STB 35 IH/GN — Socket (terminal) / Socket (terminal), Plug-in depth: 8 mm, Depth: 37.5 mm",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0388900000",
+      "recordPath": "equipment/weidmueller-article-0388900000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0388900000.json"
+    },
+    {
+      "id": "weidmueller-article-0699660000",
+      "name": "AST 1/35 6.3/2.8 — Feed-through terminal block / Feed-through terminal block, Flat-blade connection, 2.5 mm², 500 V, 20 A, Number of connections: 4",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0699660000",
+      "recordPath": "equipment/weidmueller-article-0699660000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0699660000.json"
+    },
+    {
+      "id": "weidmueller-article-1820580000",
+      "name": "ZP 2.5/1AN/1 GN — Complementary product terminal block (unspecified) / Plug (terminal) Plug-in connection, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of poles: 1, Width: 5 mm",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1820580000",
+      "recordPath": "equipment/weidmueller-article-1820580000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1820580000.json"
+    },
+    {
+      "id": "weidmueller-article-1749430000",
+      "name": "BS 35II KLBUE3-8/2X2-6 — Set of fixings (Terminal) / Clamping yoke, Set of fixings, Steel",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1749430000",
+      "recordPath": "equipment/weidmueller-article-1749430000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1749430000.json"
+    },
+    {
+      "id": "weidmueller-article-1820590000",
+      "name": "ZP 2.5/2AN/QV/1 GN — Complementary product terminal block (unspecified) / Plug (terminal) Plug-in connection, 2.5 mm², 24 A, 500 V, Number of connections: 2, Number of poles: 1, Width: 5.1 mm",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1820590000",
+      "recordPath": "equipment/weidmueller-article-1820590000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1820590000.json"
+    },
+    {
+      "id": "weidmueller-article-0110060000",
+      "name": "SAK 10 — Feed-through terminal block / Feed-through terminal block, Screw connection, 10 mm², 800 V, 57 A, Number of connections: 2",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0110060000",
+      "recordPath": "equipment/weidmueller-article-0110060000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0110060000.json"
+    },
+    {
+      "id": "weidmueller-article-1802780000",
+      "name": "WDU 240 — Feed-through terminal block / Feed-through terminal block, Screw connection, 240 mm², 1000 V, 415 A, Number of connections: 2",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1802780000",
+      "recordPath": "equipment/weidmueller-article-1802780000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1802780000.json"
+    },
+    {
+      "id": "weidmueller-article-1007950000",
+      "name": "ZP 2.5/1AN/QV ZA GN — Complementary product terminal block (unspecified) / Plug (terminal) Plug-in connection, 2.5 mm², 24 A, 500 V, Number of connections: 1, Number of poles: 1, Width: 5.1 mm",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1007950000",
+      "recordPath": "equipment/weidmueller-article-1007950000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1007950000.json"
+    },
+    {
+      "id": "weidmueller-article-1934820000",
+      "name": "WTL 6/1 EN STB — Measuring transformer disconnect terminal / Measuring transformer disconnect terminal, Screw connection, 41, 2",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1934820000",
+      "recordPath": "equipment/weidmueller-article-1934820000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1934820000.json"
+    },
+    {
+      "id": "weidmueller-article-0473560101",
+      "name": "DEK 5 FS 101-150 — Terminal marking / Terminal marking, Pitch, in mm: 5.00, Printed characters: Numbers, vertical, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0473560101",
+      "recordPath": "equipment/weidmueller-article-0473560101.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0473560101.json"
+    },
+    {
+      "id": "weidmueller-article-1802790000",
+      "name": "WQB 240/2 — Cross-connector for terminal block / Cross-connector (terminal) when screwed in, Number of poles: 2, Pitch in mm: 5.10, Insulated: Yes, 320 A, Silver grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1802790000",
+      "recordPath": "equipment/weidmueller-article-1802790000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1802790000.json"
+    },
+    {
+      "id": "weidmueller-article-1514040000",
+      "name": "APGTB 2.5 FT 4C/2 BL — Feed-through terminal block / Feed-through terminal block, PUSH IN, 2.5 mm², 800 V, 24 A, Number of connections: 4",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1514040000",
+      "recordPath": "equipment/weidmueller-article-1514040000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1514040000.json"
+    },
+    {
+      "id": "weidmueller-article-1411310000",
+      "name": "PDL 6 S/L/L — Multi level installation terminal block / Multi level installation terminal block, PUSH IN, 6 mm², 400 V, 41 A, Number of connections: 4, Number of levels: 2, dark beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1411310000",
+      "recordPath": "equipment/weidmueller-article-1411310000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1411310000.json"
+    },
+    {
+      "id": "weidmueller-article-1934830000",
+      "name": "WTD 6/1 EN — Feed-through terminal block / Feed-through terminal block, Screw connection, dark beige, 6 mm², 41 A, 630 V, Number of connections: 2, Number of levels: 1, TS 32, TS 35, V-0, Wemid, 120 °C",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1934830000",
+      "recordPath": "equipment/weidmueller-article-1934830000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1934830000.json"
+    },
+    {
+      "id": "weidmueller-article-1173600000",
+      "name": "BZT PRV4 SW 35X7.5 — Terminal (not overhead line, accessories) / Marker holder (terminal) P-series, Number of levels: 4, TS 35 x 7.5, black",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1173600000",
+      "recordPath": "equipment/weidmueller-article-1173600000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1173600000.json"
+    },
+    {
+      "id": "weidmueller-article-1609900000",
+      "name": "WS 12/6 MC NE WS — Labeling for terminal block / Terminal marking, Pitch in mm: 6.00, Printed characters: neutral, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1609900000",
+      "recordPath": "equipment/weidmueller-article-1609900000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1609900000.json"
+    },
+    {
+      "id": "weidmueller-article-0304360000",
+      "name": "TW SAK35 — Partition plate (terminal) / Partition plate (terminal), Intermediate plate, 74 mm x 60 mm, beige",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0304360000",
+      "recordPath": "equipment/weidmueller-article-0304360000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0304360000.json"
+    },
+    {
+      "id": "weidmueller-article-1773551692",
+      "name": "WS 12/6 MC NE BR — Labeling for terminal block / Terminal marking, Pitch in mm: 6.00, Printed characters: neutral, brown",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1773551692",
+      "recordPath": "equipment/weidmueller-article-1773551692.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1773551692.json"
+    },
+    {
+      "id": "weidmueller-article-1067600000",
+      "name": "WEW 32/1 — End bracket for terminal block / End bracket, PA 66 GF 30, dark beige, Rail: TS 32, when screwed in",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1067600000",
+      "recordPath": "equipment/weidmueller-article-1067600000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1067600000.json"
+    },
+    {
+      "id": "weidmueller-article-1297870000",
+      "name": "TW PRV16 R-A — End and partition plate for terminal block / Partition plate (terminal) printed,  R-A, horizontally, 225 mm x 100 mm, grey",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1297870000",
+      "recordPath": "equipment/weidmueller-article-1297870000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1297870000.json"
+    },
+    {
+      "id": "weidmueller-article-1683440000",
+      "name": "ZDU 2.5/4AN GN — Feed-through terminal block / Feed-through terminal block, Tension-clamp connection, green, 2.5 mm², 24 A, 800 V, Number of connections: 4, Number of levels: 1, TS 35, V-0, Wemid",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1683440000",
+      "recordPath": "equipment/weidmueller-article-1683440000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1683440000.json"
+    },
+    {
+      "id": "weidmueller-article-0517960000",
+      "name": "SCHT 7 — Terminal (not overhead line, accessories) / Marker holder (terminal) SCHT, white",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0517960000",
+      "recordPath": "equipment/weidmueller-article-0517960000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0517960000.json"
+    },
+    {
+      "id": "weidmueller-article-1784160000",
+      "name": "AP VLI1.5/PE DB — End and partition plate for terminal block / End plate (terminals) dark beige, Height: 71.35 mm, Width: 1.5 mm, V-0, Wemid",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-1784160000",
+      "recordPath": "equipment/weidmueller-article-1784160000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-1784160000.json"
+    },
+    {
+      "id": "weidmueller-article-0285200000",
+      "name": "VH 17.5/5/3.5 SAK6N-16 — Connecting sleeve (terminal) / Connecting sleeve (terminal), Height: 5 mm, Width: 5 mm, Depth: 17.5 mm, Copper",
+      "manufacturer": "Weidmüller",
+      "formats": [
+        "DWG",
+        "DXF",
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/weidmueller-article-0285200000",
+      "recordPath": "equipment/weidmueller-article-0285200000.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/weidmueller-article-0285200000.json"
+    }
+  ]
+}

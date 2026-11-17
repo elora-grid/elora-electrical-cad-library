@@ -25,6 +25,7 @@ Manufacturer reference fas-113dg-data-sheet-4921240114-fr.pdf; fas-113dg-data-sh
 - Manufacturer drawing: fas-113dg-data-sheet-4921240114-fr.pdf; fas-113dg-data-sheet-4921240114-uk.pdf; fas-113dg-2d-cad-drawing.dwg
 - Manufacturer reference: fas-113dg-data-sheet-4921240114-fr.pdf; fas-113dg-data-sheet-4921240114-uk.pdf; fas-113dg-2d-cad-drawing.dwg; fas-113dg-选型手册-4921240114-中文.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: DWG, PDF
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

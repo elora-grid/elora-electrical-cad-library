@@ -9,7 +9,7 @@ E4.2 3P 4000A adaptors for multiple stab terminals: ABB manufacturer STEP resour
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001336R0502
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E4.2 3P 4000A adaptors for multiple stab terminals
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001336R0502
 - Model extents (X × Y × Z, mm): 332.0 × 80.0 × 12.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0502&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 170381 bytes
 - Delivery SHA-256: c9bfc374562805bc6c96c2368124782941d2283d1d1311c5c7170c474c9860e7
+
+### 1SDH001336R0502.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0502.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0502&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-3p-4000a-adaptors-for-multiple-stab-terminals-bfb7fdc0/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: c9bfc374562805bc6c96c2368124782941d2283d1d1311c5c7170c474c9860e7
+- Original bytes: 170381
+- Revision: A
+- Retrieved: 2026-11-03T01:35:46.411658+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0502&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0502&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 73730 bytes
+- Delivery SHA-256: 609e25dc31cf56bab91e4eadb101833756dd2011b96615bf74a2564a097044ca
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

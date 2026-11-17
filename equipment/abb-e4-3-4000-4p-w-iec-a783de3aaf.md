@@ -25,6 +25,7 @@ The supplied configuration is “E4.3 4000 4p W IEC”. Keep those frame, mounti
 - Manufacturer drawing: 1SDH002443A1036
 - Manufacturer reference: 1SDH002443A1036
 - Document revision: A
+- Standards: IEC 60947, IEC 61000
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: No browser preview; original files are downloadable

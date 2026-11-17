@@ -8,7 +8,7 @@ ABB XT2 4p Withdrawable Side connector for Ekip Touch/Hi-Touch: breaker or break
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001295R0901
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -26,8 +26,8 @@ The supplied configuration is “XT2 4p Withdrawable Side connector for Ekip Tou
 - Manufacturer reference: 1SDH001295R0901
 - Document revision: B
 - Model envelope: 1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.stp: 15 × 125.5 × 56.8 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0901&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; STEP; 163860 bytes
 - Delivery SHA-256: 0294b26637a933a15944aec8bd773076b8f49c9141f5d1db8e8f0d05a6db745a
+
+### 1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0901&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4/0294b26637a933a15944-dxf)
+- Redistribution: unknown
+- Original SHA-256: 0294b26637a933a15944aec8bd773076b8f49c9141f5d1db8e8f0d05a6db745a
+- Original bytes: 163860
+- Revision: B
+- Retrieved: 2026-11-03T01:48:04.563811Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0901&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0901&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
+- Delivery: converted; DXF; 101559 bytes
+- Delivery SHA-256: dee3d3ce0fb9d2414529ce1b16728ff19c91a93e21157af0b034fd9fb1ed0f3e
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

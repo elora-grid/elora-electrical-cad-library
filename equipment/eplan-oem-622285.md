@@ -1,0 +1,102 @@
+# Schrack — Miniature Circuit Breaker (MCB) C40/3+N, 20kA
+
+Schrack Miniature Circuit Breaker (MCB) C40/3+N, 20kA. Retained manufacturer CAD files and drawings for protection design and equipment layout.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622285) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622285.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/eplan-oem-622285.json) · [Official manufacturer source](https://www.schrack.at/)
+
+- Category: Protection & metering
+- Entry type: product
+- Part number: BM117840--
+- Formats: DWG
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-17T03:15:57.362394+00:00
+
+Retained manufacturer originals are available through the existing library download prompt.
+Manufacturer CAD source discovery. Confirm regional equipment configuration and approvals with the manufacturer.
+Use the exact manufacturer reference and configuration named on this page; alternate file formats share the same equipment entry.
+
+## Equipment and file summary
+
+- Equipment / resource: Miniature Circuit Breaker (MCB) C40/3+N, 20kA
+- Manufacturer: Schrack
+- Resource type: Product
+- Part number: BM117840--
+- Manufacturer reference: BM117840--
+- Available native formats: DWG
+- Listed file formats: DWG
+- Listed files: 1
+- Available previews: 1 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-17
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer reference: BM117840-- ([source](https://www.schrack.at/))
+- Available native formats: DWG ([source](https://www.schrack.at/))
+
+## What the equipment does
+
+A circuit breaker opens and closes a power circuit and can interrupt it when its protection or trip system responds to a fault.
+
+Use c\_bm117840--\_e.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified c\_bm117840--\_e.dwg.
+
+Use c\_bm117840--\_e.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified c\_bm117840--\_e.dwg.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schrack BM117840-- and the exact source filename shown above.
+- The source was checked on 2026-11-17. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Miniature Circuit Breaker (MCB) C40/3+N, 20kA?
+
+1 inspected original for Schrack Miniature Circuit Breaker (MCB) C40/3+N, 20kA: c\_bm117840--\_e.dwg (DWG).
+
+### Where did these Schrack files come from?
+
+Schrack supplied the original files through https://www.schrack.at/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schrack official source](https://www.schrack.at/)
+
+## Choosing a file
+
+Use c\_bm117840--\_e.dwg to insert the supplied editable drawing into your layout. The ZIP contains the unmodified c\_bm117840--\_e.dwg.
+
+## Preview
+
+![Schrack Miniature Circuit Breaker (MCB) C40/3+N, 20kA: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/eplan-oem-622285/native-5ffb6f54048c690e3af4643c-dwg?asset=5ffb6f54048c690e3af4643c060d2f75103623d03e04e0edde4aa6c2e5eba207)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-622285). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [Protection relay IED](https://eloragrid.ai/objects/ga-protection-relay-ied)
+- [Power quality meter](https://eloragrid.ai/objects/ga-power-quality-meter)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### c\_bm117840--\_e.dwg
+
+- Format: DWG
+- Purpose: Manufacturer DWG CAD file
+- [Official source](https://image.schrack.com/caddrawing_expanded/c_bm117840--_e.dwg)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/eplan-oem-622285/native-5ffb6f54048c690e3af4643c-dwg)
+- Redistribution: unknown
+- Original SHA-256: 5ffb6f54048c690e3af4643c060d2f75103623d03e04e0edde4aa6c2e5eba207
+- Original bytes: 35654
+- Revision: Not recorded
+- Retrieved: Not acquired
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-17T03:15:57.362394+00:00
+- Hosting attribution: Schrack
+- [Hosting evidence](https://image.schrack.com/caddrawing_expanded/c_bm117840--_e.dwg)
+- Rights review: Manufacturer source and unchanged retained native bytes reviewed under the existing no-explicit-prohibition hosting policy. Copyright remains with the publisher; separate written redistribution permission is not claimed.
+- [Rights evidence](https://image.schrack.com/caddrawing_expanded/c_bm117840--_e.dwg)
+- Delivery: source-bundle; ZIP; 27127 bytes
+- Delivery SHA-256: 6e7dfaa260b528e28b23dc51863b815fcaecf7082d63b41fbac9a7d681fac7fd
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

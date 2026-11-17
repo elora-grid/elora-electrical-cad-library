@@ -25,6 +25,7 @@ The supplied configuration is “OT250E12WK”. Keep those frame, mounting and a
 - Manufacturer drawing: OT250E12WK.IGS; OT250E12WK.STP
 - Manufacturer reference: OT250E12WK.IGS; OT250E12WK.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

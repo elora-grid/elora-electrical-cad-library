@@ -25,6 +25,7 @@ Manufacturer reference lsu-122dg-data-sheet-4921240124-uk.pdf; lsu-122dg-fiche-t
 - Manufacturer drawing: lsu-122dg-data-sheet-4921240124-uk.pdf; lsu-122dg-fiche-technique-4921240124-fr.pdf; fas-has-lsu-3d-step-file.zip
 - Manufacturer reference: lsu-122dg-data-sheet-4921240124-uk.pdf; lsu-122dg-fiche-technique-4921240124-fr.pdf; fas-has-lsu-3d-step-file.zip; application-notes-interfacing-deif-equipment-4189340670-fr.pdf
 - Manufacturer lifecycle: Active
+- Standards: IEC 61000-6-1, IEC 61000-6-2, IEC 61000-6-3, IEC 61000-6-4, IEC 60529
 - Listed file formats: PDF, ZIP
 - Listed files: 4
 - Available previews: Manufacturer source / drawing request

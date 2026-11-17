@@ -9,7 +9,7 @@ E6.2 III W TERMINALS SVR UPPER 7200A: ABB manufacturer STEP resource, document 1
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0653
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E6.2 III W TERMINALS SVR UPPER 7200A; ABB document
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0653
 - Model extents (X × Y × Z, mm): 710.0 × 78.4 × 124.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0653&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 563158 bytes
 - Delivery SHA-256: f871d2bcd7932cae8f9ac169901b1380975c72e9102ae6131be08d55be557f71
+
+### 1sdh001252r0653.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1sdh001252r0653.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0653&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-iii-w-terminals-svr-upper-7200a-7eaea1c4/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: f871d2bcd7932cae8f9ac169901b1380975c72e9102ae6131be08d55be557f71
+- Original bytes: 563158
+- Revision: A
+- Retrieved: 2026-11-03T01:36:34.256263+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0653&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0653&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 582117 bytes
+- Delivery SHA-256: 5860612bdeee895b3a0951872ff5edfce771ce617e13e7fa03014b66b53bb6ac
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

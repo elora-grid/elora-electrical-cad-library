@@ -27,6 +27,7 @@ The supplied configuration is “OT1600EM04”. Keep those frame, mounting and a
 - Manufacturer reference: OT1600EM04.STP
 - Document revision: A
 - Model envelope: OT1600EM04.stp: 220 × 429.5 × 372 mm (approximate X × Y × Z bounds of the tessellated source model)
+- Standards: IEC 60947-3
 - Listed file formats: STEP
 - Listed files: 1
 - Available previews: 1 interactive model variants

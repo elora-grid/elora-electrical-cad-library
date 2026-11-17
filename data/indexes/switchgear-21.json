@@ -1,0 +1,2757 @@
+{
+  "schemaVersion": 1,
+  "category": "switchgear",
+  "page": 21,
+  "entries": [
+    {
+      "id": "oem-native-29d004afadec4a246dbbff8f",
+      "name": "EW125JAGU-3P",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-29d004afadec4a246dbbff8f",
+      "recordPath": "equipment/oem-native-29d004afadec4a246dbbff8f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-29d004afadec4a246dbbff8f.json"
+    },
+    {
+      "id": "oem-native-10b7a37e8cb1f5c85b5883a5",
+      "name": "EW125RAGU-3P",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-10b7a37e8cb1f5c85b5883a5",
+      "recordPath": "equipment/oem-native-10b7a37e8cb1f5c85b5883a5.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-10b7a37e8cb1f5c85b5883a5.json"
+    },
+    {
+      "id": "oem-native-59663c9b0ca46b0aa54d2a10",
+      "name": "EW250JAGU-3P",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-59663c9b0ca46b0aa54d2a10",
+      "recordPath": "equipment/oem-native-59663c9b0ca46b0aa54d2a10.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-59663c9b0ca46b0aa54d2a10.json"
+    },
+    {
+      "id": "oem-native-dd1d9136d5ea22e26621faa7",
+      "name": "EW250RAGU-3P",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-dd1d9136d5ea22e26621faa7",
+      "recordPath": "equipment/oem-native-dd1d9136d5ea22e26621faa7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-dd1d9136d5ea22e26621faa7.json"
+    },
+    {
+      "id": "oem-native-4da56ffe2ca5ca63ba91edcb",
+      "name": "BW400EAGU-2P",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-4da56ffe2ca5ca63ba91edcb",
+      "recordPath": "equipment/oem-native-4da56ffe2ca5ca63ba91edcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-4da56ffe2ca5ca63ba91edcb.json"
+    },
+    {
+      "id": "oem-native-1e3728af68820e77972a0b53",
+      "name": "EW400SAGU%2C%20EW400RAGU%2C%20EW400HAGU%20%28STEP%29.zip",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-1e3728af68820e77972a0b53",
+      "recordPath": "equipment/oem-native-1e3728af68820e77972a0b53.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-1e3728af68820e77972a0b53.json"
+    },
+    {
+      "id": "oem-native-f86cdc1f2fad708151c4d1ff",
+      "name": "SA52RCUL/, EA102CUL/",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-f86cdc1f2fad708151c4d1ff",
+      "recordPath": "equipment/oem-native-f86cdc1f2fad708151c4d1ff.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-f86cdc1f2fad708151c4d1ff.json"
+    },
+    {
+      "id": "oem-native-4f2fa86f96d32add4444e440",
+      "name": "SA53RCUL/, EA103CUL/",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-4f2fa86f96d32add4444e440",
+      "recordPath": "equipment/oem-native-4f2fa86f96d32add4444e440.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-4f2fa86f96d32add4444e440.json"
+    },
+    {
+      "id": "oem-native-231c9bcac445e185ad988051",
+      "name": "SA52RCUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-231c9bcac445e185ad988051",
+      "recordPath": "equipment/oem-native-231c9bcac445e185ad988051.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-231c9bcac445e185ad988051.json"
+    },
+    {
+      "id": "oem-native-3bbd6461da66f51faa2b0fb6",
+      "name": "SA53RCUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-3bbd6461da66f51faa2b0fb6",
+      "recordPath": "equipment/oem-native-3bbd6461da66f51faa2b0fb6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-3bbd6461da66f51faa2b0fb6.json"
+    },
+    {
+      "id": "oem-native-1e2903ecdee42f5302c9f524",
+      "name": "EA102CUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-1e2903ecdee42f5302c9f524",
+      "recordPath": "equipment/oem-native-1e2903ecdee42f5302c9f524.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-1e2903ecdee42f5302c9f524.json"
+    },
+    {
+      "id": "oem-native-44a0737b367d66ef6b1ac437",
+      "name": "EA103CUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-44a0737b367d66ef6b1ac437",
+      "recordPath": "equipment/oem-native-44a0737b367d66ef6b1ac437.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-44a0737b367d66ef6b1ac437.json"
+    },
+    {
+      "id": "oem-native-824e00dfb172a7017666f9e7",
+      "name": "SA102BAUL/, SA103BAUL/, SA102RAUL/, SA103RAUL/",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-824e00dfb172a7017666f9e7",
+      "recordPath": "equipment/oem-native-824e00dfb172a7017666f9e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-824e00dfb172a7017666f9e7.json"
+    },
+    {
+      "id": "oem-native-dab8a0000e59c9e619b7d9fd",
+      "name": "SA102BAUL/ L1, SA103BAUL/ L1, SA102RAUL/ L1, SA103RAUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-dab8a0000e59c9e619b7d9fd",
+      "recordPath": "equipment/oem-native-dab8a0000e59c9e619b7d9fd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-dab8a0000e59c9e619b7d9fd.json"
+    },
+    {
+      "id": "oem-native-13fdddcfa345afa4f21d5555",
+      "name": "SA102BAUL/ L, SA103BAUL/ L, SA102RAUL/ L, SA103RAUL/ L",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-13fdddcfa345afa4f21d5555",
+      "recordPath": "equipment/oem-native-13fdddcfa345afa4f21d5555.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-13fdddcfa345afa4f21d5555.json"
+    },
+    {
+      "id": "oem-native-de75312bb2cf57a77f6f4122",
+      "name": "SA202BAUL/, SA203BAUL/, SA202RAUL/, SA203RAUL/",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-de75312bb2cf57a77f6f4122",
+      "recordPath": "equipment/oem-native-de75312bb2cf57a77f6f4122.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-de75312bb2cf57a77f6f4122.json"
+    },
+    {
+      "id": "oem-native-b7145f6cd09f10225e8bd399",
+      "name": "SA202BAUL/L1, SA203BAUL/L1, SA202RAUL/L1, SA203RAUL/L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-b7145f6cd09f10225e8bd399",
+      "recordPath": "equipment/oem-native-b7145f6cd09f10225e8bd399.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-b7145f6cd09f10225e8bd399.json"
+    },
+    {
+      "id": "oem-native-dda3ac6830ef9bb9690698af",
+      "name": "SA202BAUL/ L, SA203BAUL/ L, SA202RAUL/ L, SA203RAUL/ L",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-dda3ac6830ef9bb9690698af",
+      "recordPath": "equipment/oem-native-dda3ac6830ef9bb9690698af.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-dda3ac6830ef9bb9690698af.json"
+    },
+    {
+      "id": "oem-native-1cb30ac224cd0ba9fd5de05f",
+      "name": "SA402BUL/ L1, SA403BUL/ L1, SA402RUL/ L1, SA403RUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-1cb30ac224cd0ba9fd5de05f",
+      "recordPath": "equipment/oem-native-1cb30ac224cd0ba9fd5de05f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-1cb30ac224cd0ba9fd5de05f.json"
+    },
+    {
+      "id": "oem-native-30811d8a2e75c5329a315db4",
+      "name": "SA402BUL/ L, SA403BUL/ L, SA402RUL/ L, SA403RUL/ L",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-30811d8a2e75c5329a315db4",
+      "recordPath": "equipment/oem-native-30811d8a2e75c5329a315db4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-30811d8a2e75c5329a315db4.json"
+    },
+    {
+      "id": "oem-native-0de188e7ce51328259fc3232",
+      "name": "SA603RUL/ L1, SA803RUL/ L1",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-0de188e7ce51328259fc3232",
+      "recordPath": "equipment/oem-native-0de188e7ce51328259fc3232.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-0de188e7ce51328259fc3232.json"
+    },
+    {
+      "id": "oem-native-fa56e2fa2823e763cbd3b32e",
+      "name": "SA603RUL/ L",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-fa56e2fa2823e763cbd3b32e",
+      "recordPath": "equipment/oem-native-fa56e2fa2823e763cbd3b32e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-fa56e2fa2823e763cbd3b32e.json"
+    },
+    {
+      "id": "oem-native-b891d751e93060bfd2fd13ba",
+      "name": "SA803RUL/700L",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-b891d751e93060bfd2fd13ba",
+      "recordPath": "equipment/oem-native-b891d751e93060bfd2fd13ba.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-b891d751e93060bfd2fd13ba.json"
+    },
+    {
+      "id": "oem-native-351f475238d62a2772f9b843",
+      "name": "SA803RUL/800L",
+      "manufacturer": "Fuji Electric",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-351f475238d62a2772f9b843",
+      "recordPath": "equipment/oem-native-351f475238d62a2772f9b843.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-351f475238d62a2772f9b843.json"
+    },
+    {
+      "id": "oem-native-ca3341d612374401b6262f49",
+      "name": "Ex9BD125 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-ca3341d612374401b6262f49",
+      "recordPath": "equipment/oem-native-ca3341d612374401b6262f49.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-ca3341d612374401b6262f49.json"
+    },
+    {
+      "id": "oem-native-6359da5e566ebd400978d90c",
+      "name": "AL31 AXL31-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-6359da5e566ebd400978d90c",
+      "recordPath": "equipment/oem-native-6359da5e566ebd400978d90c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-6359da5e566ebd400978d90c.json"
+    },
+    {
+      "id": "oem-native-5b86b59dce8628739171ac9c",
+      "name": "Ex9UEP 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-5b86b59dce8628739171ac9c",
+      "recordPath": "equipment/oem-native-5b86b59dce8628739171ac9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-5b86b59dce8628739171ac9c.json"
+    },
+    {
+      "id": "oem-native-df5659998a053f77b61c2904",
+      "name": "Ex9IZ 630HV W11·ERH24-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-df5659998a053f77b61c2904",
+      "recordPath": "equipment/oem-native-df5659998a053f77b61c2904.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-df5659998a053f77b61c2904.json"
+    },
+    {
+      "id": "oem-native-994eaca6337dc3a1a2e584e8",
+      "name": "Ex9I125 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-994eaca6337dc3a1a2e584e8",
+      "recordPath": "equipment/oem-native-994eaca6337dc3a1a2e584e8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-994eaca6337dc3a1a2e584e8.json"
+    },
+    {
+      "id": "oem-native-3cf72e97e0cd3b9162bb3b46",
+      "name": "Ex9B125 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-3cf72e97e0cd3b9162bb3b46",
+      "recordPath": "equipment/oem-native-3cf72e97e0cd3b9162bb3b46.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-3cf72e97e0cd3b9162bb3b46.json"
+    },
+    {
+      "id": "oem-native-962035a1af3ba8b94f9ab11a",
+      "name": "Ex9BD125 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-962035a1af3ba8b94f9ab11a",
+      "recordPath": "equipment/oem-native-962035a1af3ba8b94f9ab11a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-962035a1af3ba8b94f9ab11a.json"
+    },
+    {
+      "id": "oem-native-030766b943085d6c3608b9e3",
+      "name": "Ex9UEP 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-030766b943085d6c3608b9e3",
+      "recordPath": "equipment/oem-native-030766b943085d6c3608b9e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-030766b943085d6c3608b9e3.json"
+    },
+    {
+      "id": "oem-native-fb5272c1d277406974e49a2f",
+      "name": "Ex9I125 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-fb5272c1d277406974e49a2f",
+      "recordPath": "equipment/oem-native-fb5272c1d277406974e49a2f.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-fb5272c1d277406974e49a2f.json"
+    },
+    {
+      "id": "oem-native-317b71467f07df4f0c7518cd",
+      "name": "Ex9UE1+2 25 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-317b71467f07df4f0c7518cd",
+      "recordPath": "equipment/oem-native-317b71467f07df4f0c7518cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-317b71467f07df4f0c7518cd.json"
+    },
+    {
+      "id": "oem-native-6ffcf51e6bdc0adbb6115649",
+      "name": "Ex9B125 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-6ffcf51e6bdc0adbb6115649",
+      "recordPath": "equipment/oem-native-6ffcf51e6bdc0adbb6115649.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-6ffcf51e6bdc0adbb6115649.json"
+    },
+    {
+      "id": "oem-native-a032e86d195a139f2de0d6f6",
+      "name": "Ex9C115-185-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a032e86d195a139f2de0d6f6",
+      "recordPath": "equipment/oem-native-a032e86d195a139f2de0d6f6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a032e86d195a139f2de0d6f6.json"
+    },
+    {
+      "id": "oem-native-bd042c995108ee11a3e6b8e1",
+      "name": "Ex9A",
+      "manufacturer": "NOARK",
+      "formats": [
+        "DXF"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-bd042c995108ee11a3e6b8e1",
+      "recordPath": "equipment/oem-native-bd042c995108ee11a3e6b8e1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-bd042c995108ee11a3e6b8e1.json"
+    },
+    {
+      "id": "oem-native-ce98b625ed63c51a6ebb9770",
+      "name": "Ex9BD125 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-ce98b625ed63c51a6ebb9770",
+      "recordPath": "equipment/oem-native-ce98b625ed63c51a6ebb9770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-ce98b625ed63c51a6ebb9770.json"
+    },
+    {
+      "id": "oem-native-38ad7225983b074c161034d9",
+      "name": "Ex9UEP 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-38ad7225983b074c161034d9",
+      "recordPath": "equipment/oem-native-38ad7225983b074c161034d9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-38ad7225983b074c161034d9.json"
+    },
+    {
+      "id": "oem-native-78a1a12c11334ad3d2714482",
+      "name": "Ex9I125 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-78a1a12c11334ad3d2714482",
+      "recordPath": "equipment/oem-native-78a1a12c11334ad3d2714482.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-78a1a12c11334ad3d2714482.json"
+    },
+    {
+      "id": "oem-native-3c0f99a675c013c5435d0a79",
+      "name": "Ex9UE1+2 25 4P、3PN-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-3c0f99a675c013c5435d0a79",
+      "recordPath": "equipment/oem-native-3c0f99a675c013c5435d0a79.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-3c0f99a675c013c5435d0a79.json"
+    },
+    {
+      "id": "oem-native-0e681ab46446e1e5658d125d",
+      "name": "Ex9B125 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-0e681ab46446e1e5658d125d",
+      "recordPath": "equipment/oem-native-0e681ab46446e1e5658d125d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-0e681ab46446e1e5658d125d.json"
+    },
+    {
+      "id": "oem-native-d5fae9c638d9f77a3cf80ac0",
+      "name": "Ex9C09-18-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-d5fae9c638d9f77a3cf80ac0",
+      "recordPath": "equipment/oem-native-d5fae9c638d9f77a3cf80ac0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-d5fae9c638d9f77a3cf80ac0.json"
+    },
+    {
+      "id": "oem-native-626d4420329c41e72166b1e3",
+      "name": "Ex9BD125 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-626d4420329c41e72166b1e3",
+      "recordPath": "equipment/oem-native-626d4420329c41e72166b1e3.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-626d4420329c41e72166b1e3.json"
+    },
+    {
+      "id": "oem-native-b85b7b60f0f12f890b45174e",
+      "name": "MOD23 drawing",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-b85b7b60f0f12f890b45174e",
+      "recordPath": "equipment/oem-native-b85b7b60f0f12f890b45174e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-b85b7b60f0f12f890b45174e.json"
+    },
+    {
+      "id": "oem-native-a85b9a715014a0a7bcedc00c",
+      "name": "B1E 80-125 1P-NOARK.stp",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a85b9a715014a0a7bcedc00c",
+      "recordPath": "equipment/oem-native-a85b9a715014a0a7bcedc00c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a85b9a715014a0a7bcedc00c.json"
+    },
+    {
+      "id": "oem-native-e48446085bf7e61840ac14e2",
+      "name": "Ex9I125 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-e48446085bf7e61840ac14e2",
+      "recordPath": "equipment/oem-native-e48446085bf7e61840ac14e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-e48446085bf7e61840ac14e2.json"
+    },
+    {
+      "id": "oem-native-a29fca3cf1431d8c8cb79d14",
+      "name": "Ex9B125 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a29fca3cf1431d8c8cb79d14",
+      "recordPath": "equipment/oem-native-a29fca3cf1431d8c8cb79d14.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a29fca3cf1431d8c8cb79d14.json"
+    },
+    {
+      "id": "oem-native-ea85981dfaba53dfb97c32e7",
+      "name": "Ex9BL-40 1P+N-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-ea85981dfaba53dfb97c32e7",
+      "recordPath": "equipment/oem-native-ea85981dfaba53dfb97c32e7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-ea85981dfaba53dfb97c32e7.json"
+    },
+    {
+      "id": "oem-native-4061d61e0d51ae72d46fd9bc",
+      "name": "Ex9NLE EL-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-4061d61e0d51ae72d46fd9bc",
+      "recordPath": "equipment/oem-native-4061d61e0d51ae72d46fd9bc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-4061d61e0d51ae72d46fd9bc.json"
+    },
+    {
+      "id": "oem-native-7076adeaad5f94191097ea29",
+      "name": "Ex9C09D-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-7076adeaad5f94191097ea29",
+      "recordPath": "equipment/oem-native-7076adeaad5f94191097ea29.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-7076adeaad5f94191097ea29.json"
+    },
+    {
+      "id": "oem-native-4a6593a9fd6a93cc2171bd47",
+      "name": "OVT31-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-4a6593a9fd6a93cc2171bd47",
+      "recordPath": "equipment/oem-native-4a6593a9fd6a93cc2171bd47.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-4a6593a9fd6a93cc2171bd47.json"
+    },
+    {
+      "id": "oem-native-404b040b7409a0c3f6a627cd",
+      "name": "B1E 80-125 2P-NOARK.stp",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-404b040b7409a0c3f6a627cd",
+      "recordPath": "equipment/oem-native-404b040b7409a0c3f6a627cd.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-404b040b7409a0c3f6a627cd.json"
+    },
+    {
+      "id": "oem-native-a6eea88218f47aef096fa948",
+      "name": "Ex9BL-40 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a6eea88218f47aef096fa948",
+      "recordPath": "equipment/oem-native-a6eea88218f47aef096fa948.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a6eea88218f47aef096fa948.json"
+    },
+    {
+      "id": "oem-native-ea07e42ce48741fb74123b70",
+      "name": "Ex9C225-300-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-ea07e42ce48741fb74123b70",
+      "recordPath": "equipment/oem-native-ea07e42ce48741fb74123b70.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-ea07e42ce48741fb74123b70.json"
+    },
+    {
+      "id": "oem-native-a0034d3b529cdd40ef48c9d1",
+      "name": "Ex9MD3HV STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a0034d3b529cdd40ef48c9d1",
+      "recordPath": "equipment/oem-native-a0034d3b529cdd40ef48c9d1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a0034d3b529cdd40ef48c9d1.json"
+    },
+    {
+      "id": "oem-native-426ee08aa6f4fe72546bc180",
+      "name": "Ex9UE2 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-426ee08aa6f4fe72546bc180",
+      "recordPath": "equipment/oem-native-426ee08aa6f4fe72546bc180.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-426ee08aa6f4fe72546bc180.json"
+    },
+    {
+      "id": "oem-native-21bc93fba68c794410118be2",
+      "name": "Ex9BL-40 3P+N-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-21bc93fba68c794410118be2",
+      "recordPath": "equipment/oem-native-21bc93fba68c794410118be2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-21bc93fba68c794410118be2.json"
+    },
+    {
+      "id": "oem-native-bd76b954c599d8aade58d5be",
+      "name": "SHT31-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-bd76b954c599d8aade58d5be",
+      "recordPath": "equipment/oem-native-bd76b954c599d8aade58d5be.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-bd76b954c599d8aade58d5be.json"
+    },
+    {
+      "id": "oem-native-72587526f63d98f848926ef1",
+      "name": "Ex9MD1 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-72587526f63d98f848926ef1",
+      "recordPath": "equipment/oem-native-72587526f63d98f848926ef1.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-72587526f63d98f848926ef1.json"
+    },
+    {
+      "id": "oem-native-98eff1ff18816c81ea622b0a",
+      "name": "Ex9MSD1 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-98eff1ff18816c81ea622b0a",
+      "recordPath": "equipment/oem-native-98eff1ff18816c81ea622b0a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-98eff1ff18816c81ea622b0a.json"
+    },
+    {
+      "id": "oem-native-d6e05726cf91fdced9c5f984",
+      "name": "Ex9UE2 2P、1PN-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-d6e05726cf91fdced9c5f984",
+      "recordPath": "equipment/oem-native-d6e05726cf91fdced9c5f984.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-d6e05726cf91fdced9c5f984.json"
+    },
+    {
+      "id": "oem-native-e521cec4afb412e67def50ad",
+      "name": "Ex9BL-40 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-e521cec4afb412e67def50ad",
+      "recordPath": "equipment/oem-native-e521cec4afb412e67def50ad.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-e521cec4afb412e67def50ad.json"
+    },
+    {
+      "id": "oem-native-9d1646b4947f0a5b2e0b7c3a",
+      "name": "Ex9C25-38-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-9d1646b4947f0a5b2e0b7c3a",
+      "recordPath": "equipment/oem-native-9d1646b4947f0a5b2e0b7c3a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-9d1646b4947f0a5b2e0b7c3a.json"
+    },
+    {
+      "id": "oem-native-ed4a397419c48b28ec312743",
+      "name": "Ex9C400-500-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-ed4a397419c48b28ec312743",
+      "recordPath": "equipment/oem-native-ed4a397419c48b28ec312743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-ed4a397419c48b28ec312743.json"
+    },
+    {
+      "id": "oem-native-06c6081bc289937e51dc0e58",
+      "name": "UVT31-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-06c6081bc289937e51dc0e58",
+      "recordPath": "equipment/oem-native-06c6081bc289937e51dc0e58.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-06c6081bc289937e51dc0e58.json"
+    },
+    {
+      "id": "oem-native-51f3e6289e8ecb6f02c68f2e",
+      "name": "Ex9MD1 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-51f3e6289e8ecb6f02c68f2e",
+      "recordPath": "equipment/oem-native-51f3e6289e8ecb6f02c68f2e.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-51f3e6289e8ecb6f02c68f2e.json"
+    },
+    {
+      "id": "oem-native-c767c791b7abca5e274426a0",
+      "name": "Ex9MSD2 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-c767c791b7abca5e274426a0",
+      "recordPath": "equipment/oem-native-c767c791b7abca5e274426a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-c767c791b7abca5e274426a0.json"
+    },
+    {
+      "id": "oem-native-facb202544f7c87d24a36527",
+      "name": "Ex9UE2 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-facb202544f7c87d24a36527",
+      "recordPath": "equipment/oem-native-facb202544f7c87d24a36527.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-facb202544f7c87d24a36527.json"
+    },
+    {
+      "id": "oem-native-9922c51b6811d0e7c44c8cf8",
+      "name": "Ex9M1 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-9922c51b6811d0e7c44c8cf8",
+      "recordPath": "equipment/oem-native-9922c51b6811d0e7c44c8cf8.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-9922c51b6811d0e7c44c8cf8.json"
+    },
+    {
+      "id": "oem-native-c76b7d1dd79a145a469964a7",
+      "name": "Ex9C25D-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-c76b7d1dd79a145a469964a7",
+      "recordPath": "equipment/oem-native-c76b7d1dd79a145a469964a7.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-c76b7d1dd79a145a469964a7.json"
+    },
+    {
+      "id": "oem-native-ff086a6a898658e7d394a6f0",
+      "name": "Ex9MSD2 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-ff086a6a898658e7d394a6f0",
+      "recordPath": "equipment/oem-native-ff086a6a898658e7d394a6f0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-ff086a6a898658e7d394a6f0.json"
+    },
+    {
+      "id": "oem-native-43b3592d64fda0e872030570",
+      "name": "Ex9UE2 4P、3PN-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-43b3592d64fda0e872030570",
+      "recordPath": "equipment/oem-native-43b3592d64fda0e872030570.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-43b3592d64fda0e872030570.json"
+    },
+    {
+      "id": "oem-native-e32dbed76d0561984aa496e4",
+      "name": "Ex9M1 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-e32dbed76d0561984aa496e4",
+      "recordPath": "equipment/oem-native-e32dbed76d0561984aa496e4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-e32dbed76d0561984aa496e4.json"
+    },
+    {
+      "id": "oem-native-4d63cf31c782acc9f52083ee",
+      "name": "Ex9MD2 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-4d63cf31c782acc9f52083ee",
+      "recordPath": "equipment/oem-native-4d63cf31c782acc9f52083ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-4d63cf31c782acc9f52083ee.json"
+    },
+    {
+      "id": "oem-native-2ada91d556bd2fbff5c17627",
+      "name": "Ex9MSD2 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-2ada91d556bd2fbff5c17627",
+      "recordPath": "equipment/oem-native-2ada91d556bd2fbff5c17627.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-2ada91d556bd2fbff5c17627.json"
+    },
+    {
+      "id": "oem-native-87be092becc3a50284f3fd1a",
+      "name": "Ex9M1 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-87be092becc3a50284f3fd1a",
+      "recordPath": "equipment/oem-native-87be092becc3a50284f3fd1a.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-87be092becc3a50284f3fd1a.json"
+    },
+    {
+      "id": "oem-native-5734d87c2678e248462bcdc4",
+      "name": "Ex9MD2 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-5734d87c2678e248462bcdc4",
+      "recordPath": "equipment/oem-native-5734d87c2678e248462bcdc4.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-5734d87c2678e248462bcdc4.json"
+    },
+    {
+      "id": "oem-native-102d64fcd173131091729607",
+      "name": "Ex9MSD2 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-102d64fcd173131091729607",
+      "recordPath": "equipment/oem-native-102d64fcd173131091729607.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-102d64fcd173131091729607.json"
+    },
+    {
+      "id": "oem-native-456f850af24fd1c521fdafcb",
+      "name": "Ex9M1 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-456f850af24fd1c521fdafcb",
+      "recordPath": "equipment/oem-native-456f850af24fd1c521fdafcb.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-456f850af24fd1c521fdafcb.json"
+    },
+    {
+      "id": "oem-native-dbb8ff7884c6f35d2981d707",
+      "name": "Ex9C40-65-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-dbb8ff7884c6f35d2981d707",
+      "recordPath": "equipment/oem-native-dbb8ff7884c6f35d2981d707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-dbb8ff7884c6f35d2981d707.json"
+    },
+    {
+      "id": "oem-native-36c041917cf956b9023dd703",
+      "name": "Ex9MD2 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-36c041917cf956b9023dd703",
+      "recordPath": "equipment/oem-native-36c041917cf956b9023dd703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-36c041917cf956b9023dd703.json"
+    },
+    {
+      "id": "oem-native-c1e2ca68c613004e717bbd59",
+      "name": "Ex9MSD3 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-c1e2ca68c613004e717bbd59",
+      "recordPath": "equipment/oem-native-c1e2ca68c613004e717bbd59.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-c1e2ca68c613004e717bbd59.json"
+    },
+    {
+      "id": "oem-native-9c2fe770db94d2ed36338966",
+      "name": "Ex9MD2 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-9c2fe770db94d2ed36338966",
+      "recordPath": "equipment/oem-native-9c2fe770db94d2ed36338966.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-9c2fe770db94d2ed36338966.json"
+    },
+    {
+      "id": "oem-native-933605e2c5dfc7f543d4297c",
+      "name": "Ex9MSD3 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-933605e2c5dfc7f543d4297c",
+      "recordPath": "equipment/oem-native-933605e2c5dfc7f543d4297c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-933605e2c5dfc7f543d4297c.json"
+    },
+    {
+      "id": "oem-native-08b34aa60d3abf0e2cde8705",
+      "name": "Ex9UE3-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-08b34aa60d3abf0e2cde8705",
+      "recordPath": "equipment/oem-native-08b34aa60d3abf0e2cde8705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-08b34aa60d3abf0e2cde8705.json"
+    },
+    {
+      "id": "oem-native-1e64b400e4a6b711d1cce1e2",
+      "name": "Ex9M2 1P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-1e64b400e4a6b711d1cce1e2",
+      "recordPath": "equipment/oem-native-1e64b400e4a6b711d1cce1e2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-1e64b400e4a6b711d1cce1e2.json"
+    },
+    {
+      "id": "oem-native-437d2b0e268f5cff138ec32d",
+      "name": "Ex9MSD4 5 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-437d2b0e268f5cff138ec32d",
+      "recordPath": "equipment/oem-native-437d2b0e268f5cff138ec32d.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-437d2b0e268f5cff138ec32d.json"
+    },
+    {
+      "id": "oem-native-a296275bc3ffbca53736bf2c",
+      "name": "Ex9M2 2P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a296275bc3ffbca53736bf2c",
+      "recordPath": "equipment/oem-native-a296275bc3ffbca53736bf2c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a296275bc3ffbca53736bf2c.json"
+    },
+    {
+      "id": "oem-native-9ca622ea891f8631894b8697",
+      "name": "Ex9C80-100-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-9ca622ea891f8631894b8697",
+      "recordPath": "equipment/oem-native-9ca622ea891f8631894b8697.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-9ca622ea891f8631894b8697.json"
+    },
+    {
+      "id": "oem-native-6f4438962505051aa1b2b0ee",
+      "name": "EX9MD3 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-6f4438962505051aa1b2b0ee",
+      "recordPath": "equipment/oem-native-6f4438962505051aa1b2b0ee.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-6f4438962505051aa1b2b0ee.json"
+    },
+    {
+      "id": "oem-native-0aed713355756c9a808a8776",
+      "name": "Ex9MSD4 5 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-0aed713355756c9a808a8776",
+      "recordPath": "equipment/oem-native-0aed713355756c9a808a8776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-0aed713355756c9a808a8776.json"
+    },
+    {
+      "id": "oem-native-5ac5c082c7885d3ba75cc824",
+      "name": "Ex9M2 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-5ac5c082c7885d3ba75cc824",
+      "recordPath": "equipment/oem-native-5ac5c082c7885d3ba75cc824.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-5ac5c082c7885d3ba75cc824.json"
+    },
+    {
+      "id": "oem-native-3155d52b53fd0fb15ad0fbe9",
+      "name": "EX9MD3 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-3155d52b53fd0fb15ad0fbe9",
+      "recordPath": "equipment/oem-native-3155d52b53fd0fb15ad0fbe9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-3155d52b53fd0fb15ad0fbe9.json"
+    },
+    {
+      "id": "oem-native-a2e6c68186a5d5a1a0764767",
+      "name": "Ex9MSD6 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-a2e6c68186a5d5a1a0764767",
+      "recordPath": "equipment/oem-native-a2e6c68186a5d5a1a0764767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-a2e6c68186a5d5a1a0764767.json"
+    },
+    {
+      "id": "oem-native-20c09b6680687f218e5764d6",
+      "name": "Ex9M2 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-20c09b6680687f218e5764d6",
+      "recordPath": "equipment/oem-native-20c09b6680687f218e5764d6.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-20c09b6680687f218e5764d6.json"
+    },
+    {
+      "id": "oem-native-1eef2fb61af1e2e79a32e3ea",
+      "name": "Ex9MSD6 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-1eef2fb61af1e2e79a32e3ea",
+      "recordPath": "equipment/oem-native-1eef2fb61af1e2e79a32e3ea.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-1eef2fb61af1e2e79a32e3ea.json"
+    },
+    {
+      "id": "oem-native-725a3f96659646365dc90ddc",
+      "name": "Ex9CS06-12-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-725a3f96659646365dc90ddc",
+      "recordPath": "equipment/oem-native-725a3f96659646365dc90ddc.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-725a3f96659646365dc90ddc.json"
+    },
+    {
+      "id": "oem-native-c548c328fb276f65e8716cd2",
+      "name": "Ex9MD4 5 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-c548c328fb276f65e8716cd2",
+      "recordPath": "equipment/oem-native-c548c328fb276f65e8716cd2.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-c548c328fb276f65e8716cd2.json"
+    },
+    {
+      "id": "oem-native-20c6ca7a130d01ec28a0989c",
+      "name": "Ex9M3 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-20c6ca7a130d01ec28a0989c",
+      "recordPath": "equipment/oem-native-20c6ca7a130d01ec28a0989c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-20c6ca7a130d01ec28a0989c.json"
+    },
+    {
+      "id": "oem-native-2cba0834ff352bf864198e9c",
+      "name": "Ex9MD4 5 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-2cba0834ff352bf864198e9c",
+      "recordPath": "equipment/oem-native-2cba0834ff352bf864198e9c.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-2cba0834ff352bf864198e9c.json"
+    },
+    {
+      "id": "oem-native-6f33b7604cde627b761ce9b9",
+      "name": "Ex9M3 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-6f33b7604cde627b761ce9b9",
+      "recordPath": "equipment/oem-native-6f33b7604cde627b761ce9b9.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-6f33b7604cde627b761ce9b9.json"
+    },
+    {
+      "id": "oem-native-26f3e9fb572a054608202291",
+      "name": "Ex9M4 5 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-26f3e9fb572a054608202291",
+      "recordPath": "equipment/oem-native-26f3e9fb572a054608202291.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-26f3e9fb572a054608202291.json"
+    },
+    {
+      "id": "oem-native-94b7eece68687c23eccd51a0",
+      "name": "Ex9M4 5 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-94b7eece68687c23eccd51a0",
+      "recordPath": "equipment/oem-native-94b7eece68687c23eccd51a0.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-94b7eece68687c23eccd51a0.json"
+    },
+    {
+      "id": "oem-native-1445d04b306fd90adfe0636b",
+      "name": "Ex9M6 3P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-1445d04b306fd90adfe0636b",
+      "recordPath": "equipment/oem-native-1445d04b306fd90adfe0636b.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-1445d04b306fd90adfe0636b.json"
+    },
+    {
+      "id": "oem-native-7e98d83dedcdb44777142e91",
+      "name": "Ex9M6 4P-STP",
+      "manufacturer": "NOARK",
+      "formats": [
+        "STEP"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/oem-native-7e98d83dedcdb44777142e91",
+      "recordPath": "equipment/oem-native-7e98d83dedcdb44777142e91.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/oem-native-7e98d83dedcdb44777142e91.json"
+    },
+    {
+      "id": "eplan-oem-698703",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698703",
+      "recordPath": "equipment/eplan-oem-698703.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698703.json"
+    },
+    {
+      "id": "eplan-oem-698704",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 100A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698704",
+      "recordPath": "equipment/eplan-oem-698704.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698704.json"
+    },
+    {
+      "id": "eplan-oem-698705",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698705",
+      "recordPath": "equipment/eplan-oem-698705.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698705.json"
+    },
+    {
+      "id": "eplan-oem-698706",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698706",
+      "recordPath": "equipment/eplan-oem-698706.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698706.json"
+    },
+    {
+      "id": "eplan-oem-698707",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698707",
+      "recordPath": "equipment/eplan-oem-698707.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698707.json"
+    },
+    {
+      "id": "eplan-oem-698708",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 100A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698708",
+      "recordPath": "equipment/eplan-oem-698708.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698708.json"
+    },
+    {
+      "id": "eplan-oem-698709",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698709",
+      "recordPath": "equipment/eplan-oem-698709.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698709.json"
+    },
+    {
+      "id": "eplan-oem-698710",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698710",
+      "recordPath": "equipment/eplan-oem-698710.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698710.json"
+    },
+    {
+      "id": "eplan-oem-698711",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698711",
+      "recordPath": "equipment/eplan-oem-698711.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698711.json"
+    },
+    {
+      "id": "eplan-oem-698718",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698718",
+      "recordPath": "equipment/eplan-oem-698718.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698718.json"
+    },
+    {
+      "id": "eplan-oem-698719",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 125A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698719",
+      "recordPath": "equipment/eplan-oem-698719.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698719.json"
+    },
+    {
+      "id": "eplan-oem-698720",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698720",
+      "recordPath": "equipment/eplan-oem-698720.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698720.json"
+    },
+    {
+      "id": "eplan-oem-698721",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698721",
+      "recordPath": "equipment/eplan-oem-698721.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698721.json"
+    },
+    {
+      "id": "eplan-oem-698722",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 125A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698722",
+      "recordPath": "equipment/eplan-oem-698722.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698722.json"
+    },
+    {
+      "id": "eplan-oem-698723",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698723",
+      "recordPath": "equipment/eplan-oem-698723.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698723.json"
+    },
+    {
+      "id": "eplan-oem-698724",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698724",
+      "recordPath": "equipment/eplan-oem-698724.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698724.json"
+    },
+    {
+      "id": "eplan-oem-698729",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698729",
+      "recordPath": "equipment/eplan-oem-698729.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698729.json"
+    },
+    {
+      "id": "eplan-oem-698730",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698730",
+      "recordPath": "equipment/eplan-oem-698730.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698730.json"
+    },
+    {
+      "id": "eplan-oem-698731",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698731",
+      "recordPath": "equipment/eplan-oem-698731.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698731.json"
+    },
+    {
+      "id": "eplan-oem-698732",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698732",
+      "recordPath": "equipment/eplan-oem-698732.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698732.json"
+    },
+    {
+      "id": "eplan-oem-698733",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698733",
+      "recordPath": "equipment/eplan-oem-698733.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698733.json"
+    },
+    {
+      "id": "eplan-oem-698735",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698735",
+      "recordPath": "equipment/eplan-oem-698735.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698735.json"
+    },
+    {
+      "id": "eplan-oem-698736",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 20A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698736",
+      "recordPath": "equipment/eplan-oem-698736.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698736.json"
+    },
+    {
+      "id": "eplan-oem-698737",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698737",
+      "recordPath": "equipment/eplan-oem-698737.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698737.json"
+    },
+    {
+      "id": "eplan-oem-698738",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698738",
+      "recordPath": "equipment/eplan-oem-698738.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698738.json"
+    },
+    {
+      "id": "eplan-oem-698739",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 20A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698739",
+      "recordPath": "equipment/eplan-oem-698739.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698739.json"
+    },
+    {
+      "id": "eplan-oem-698740",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698740",
+      "recordPath": "equipment/eplan-oem-698740.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698740.json"
+    },
+    {
+      "id": "eplan-oem-698741",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698741",
+      "recordPath": "equipment/eplan-oem-698741.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698741.json"
+    },
+    {
+      "id": "eplan-oem-698743",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698743",
+      "recordPath": "equipment/eplan-oem-698743.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698743.json"
+    },
+    {
+      "id": "eplan-oem-698744",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 25A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698744",
+      "recordPath": "equipment/eplan-oem-698744.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698744.json"
+    },
+    {
+      "id": "eplan-oem-698745",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698745",
+      "recordPath": "equipment/eplan-oem-698745.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698745.json"
+    },
+    {
+      "id": "eplan-oem-698746",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698746",
+      "recordPath": "equipment/eplan-oem-698746.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698746.json"
+    },
+    {
+      "id": "eplan-oem-698747",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 25A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698747",
+      "recordPath": "equipment/eplan-oem-698747.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698747.json"
+    },
+    {
+      "id": "eplan-oem-698748",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698748",
+      "recordPath": "equipment/eplan-oem-698748.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698748.json"
+    },
+    {
+      "id": "eplan-oem-698749",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698749",
+      "recordPath": "equipment/eplan-oem-698749.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698749.json"
+    },
+    {
+      "id": "eplan-oem-698751",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 32A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698751",
+      "recordPath": "equipment/eplan-oem-698751.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698751.json"
+    },
+    {
+      "id": "eplan-oem-698752",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 32A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698752",
+      "recordPath": "equipment/eplan-oem-698752.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698752.json"
+    },
+    {
+      "id": "eplan-oem-698753",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 32A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698753",
+      "recordPath": "equipment/eplan-oem-698753.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698753.json"
+    },
+    {
+      "id": "eplan-oem-698754",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 32A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698754",
+      "recordPath": "equipment/eplan-oem-698754.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698754.json"
+    },
+    {
+      "id": "eplan-oem-698755",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 32A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698755",
+      "recordPath": "equipment/eplan-oem-698755.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698755.json"
+    },
+    {
+      "id": "eplan-oem-698756",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 32A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698756",
+      "recordPath": "equipment/eplan-oem-698756.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698756.json"
+    },
+    {
+      "id": "eplan-oem-698757",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 32A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698757",
+      "recordPath": "equipment/eplan-oem-698757.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698757.json"
+    },
+    {
+      "id": "eplan-oem-698759",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698759",
+      "recordPath": "equipment/eplan-oem-698759.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698759.json"
+    },
+    {
+      "id": "eplan-oem-698760",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 40A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698760",
+      "recordPath": "equipment/eplan-oem-698760.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698760.json"
+    },
+    {
+      "id": "eplan-oem-698761",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698761",
+      "recordPath": "equipment/eplan-oem-698761.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698761.json"
+    },
+    {
+      "id": "eplan-oem-698762",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698762",
+      "recordPath": "equipment/eplan-oem-698762.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698762.json"
+    },
+    {
+      "id": "eplan-oem-698763",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698763",
+      "recordPath": "equipment/eplan-oem-698763.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698763.json"
+    },
+    {
+      "id": "eplan-oem-698764",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 40A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698764",
+      "recordPath": "equipment/eplan-oem-698764.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698764.json"
+    },
+    {
+      "id": "eplan-oem-698765",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698765",
+      "recordPath": "equipment/eplan-oem-698765.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698765.json"
+    },
+    {
+      "id": "eplan-oem-698766",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698766",
+      "recordPath": "equipment/eplan-oem-698766.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698766.json"
+    },
+    {
+      "id": "eplan-oem-698767",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 40A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698767",
+      "recordPath": "equipment/eplan-oem-698767.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698767.json"
+    },
+    {
+      "id": "eplan-oem-698770",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698770",
+      "recordPath": "equipment/eplan-oem-698770.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698770.json"
+    },
+    {
+      "id": "eplan-oem-698771",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 50A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698771",
+      "recordPath": "equipment/eplan-oem-698771.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698771.json"
+    },
+    {
+      "id": "eplan-oem-698772",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698772",
+      "recordPath": "equipment/eplan-oem-698772.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698772.json"
+    },
+    {
+      "id": "eplan-oem-698773",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698773",
+      "recordPath": "equipment/eplan-oem-698773.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698773.json"
+    },
+    {
+      "id": "eplan-oem-698774",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698774",
+      "recordPath": "equipment/eplan-oem-698774.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698774.json"
+    },
+    {
+      "id": "eplan-oem-698775",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 50A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698775",
+      "recordPath": "equipment/eplan-oem-698775.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698775.json"
+    },
+    {
+      "id": "eplan-oem-698776",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698776",
+      "recordPath": "equipment/eplan-oem-698776.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698776.json"
+    },
+    {
+      "id": "eplan-oem-698777",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698777",
+      "recordPath": "equipment/eplan-oem-698777.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698777.json"
+    },
+    {
+      "id": "eplan-oem-698778",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 50A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698778",
+      "recordPath": "equipment/eplan-oem-698778.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698778.json"
+    },
+    {
+      "id": "eplan-oem-698785",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698785",
+      "recordPath": "equipment/eplan-oem-698785.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698785.json"
+    },
+    {
+      "id": "eplan-oem-698786",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 63A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698786",
+      "recordPath": "equipment/eplan-oem-698786.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698786.json"
+    },
+    {
+      "id": "eplan-oem-698787",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698787",
+      "recordPath": "equipment/eplan-oem-698787.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698787.json"
+    },
+    {
+      "id": "eplan-oem-698788",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698788",
+      "recordPath": "equipment/eplan-oem-698788.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698788.json"
+    },
+    {
+      "id": "eplan-oem-698789",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698789",
+      "recordPath": "equipment/eplan-oem-698789.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698789.json"
+    },
+    {
+      "id": "eplan-oem-698790",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 63A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698790",
+      "recordPath": "equipment/eplan-oem-698790.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698790.json"
+    },
+    {
+      "id": "eplan-oem-698791",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698791",
+      "recordPath": "equipment/eplan-oem-698791.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698791.json"
+    },
+    {
+      "id": "eplan-oem-698792",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698792",
+      "recordPath": "equipment/eplan-oem-698792.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698792.json"
+    },
+    {
+      "id": "eplan-oem-698793",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 63A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698793",
+      "recordPath": "equipment/eplan-oem-698793.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698793.json"
+    },
+    {
+      "id": "eplan-oem-698796",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698796",
+      "recordPath": "equipment/eplan-oem-698796.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698796.json"
+    },
+    {
+      "id": "eplan-oem-698797",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 80A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698797",
+      "recordPath": "equipment/eplan-oem-698797.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698797.json"
+    },
+    {
+      "id": "eplan-oem-698798",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698798",
+      "recordPath": "equipment/eplan-oem-698798.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698798.json"
+    },
+    {
+      "id": "eplan-oem-698799",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698799",
+      "recordPath": "equipment/eplan-oem-698799.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698799.json"
+    },
+    {
+      "id": "eplan-oem-698800",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698800",
+      "recordPath": "equipment/eplan-oem-698800.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698800.json"
+    },
+    {
+      "id": "eplan-oem-698801",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 80A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698801",
+      "recordPath": "equipment/eplan-oem-698801.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698801.json"
+    },
+    {
+      "id": "eplan-oem-698802",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698802",
+      "recordPath": "equipment/eplan-oem-698802.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698802.json"
+    },
+    {
+      "id": "eplan-oem-698803",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698803",
+      "recordPath": "equipment/eplan-oem-698803.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698803.json"
+    },
+    {
+      "id": "eplan-oem-698804",
+      "name": "Moulded Case CB Type A, 3-pole,100kA, 80A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698804",
+      "recordPath": "equipment/eplan-oem-698804.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698804.json"
+    },
+    {
+      "id": "eplan-oem-698830",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 150kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698830",
+      "recordPath": "equipment/eplan-oem-698830.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698830.json"
+    },
+    {
+      "id": "eplan-oem-698831",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 150kA, 20A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698831",
+      "recordPath": "equipment/eplan-oem-698831.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698831.json"
+    },
+    {
+      "id": "eplan-oem-698832",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 150kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698832",
+      "recordPath": "equipment/eplan-oem-698832.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698832.json"
+    },
+    {
+      "id": "eplan-oem-698833",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 150kA, 25A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698833",
+      "recordPath": "equipment/eplan-oem-698833.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698833.json"
+    },
+    {
+      "id": "eplan-oem-698834",
+      "name": "Moulded Case Circuit Breaker Type VE, 3-pole, 50kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698834",
+      "recordPath": "equipment/eplan-oem-698834.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698834.json"
+    },
+    {
+      "id": "eplan-oem-698835",
+      "name": "Moulded Case Circuit Breaker Type VE, 4-pole, 50kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698835",
+      "recordPath": "equipment/eplan-oem-698835.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698835.json"
+    },
+    {
+      "id": "eplan-oem-698836",
+      "name": "Circuit Breaker MC2 4p 50kA VE100 plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698836",
+      "recordPath": "equipment/eplan-oem-698836.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698836.json"
+    },
+    {
+      "id": "eplan-oem-698837",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 150kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698837",
+      "recordPath": "equipment/eplan-oem-698837.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698837.json"
+    },
+    {
+      "id": "eplan-oem-698838",
+      "name": "Moulded Case CB Type A, 3-pole,150kA, 100A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698838",
+      "recordPath": "equipment/eplan-oem-698838.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698838.json"
+    },
+    {
+      "id": "eplan-oem-698839",
+      "name": "Moulded Case Circuit Breaker Type VE, 3-pole, 150kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698839",
+      "recordPath": "equipment/eplan-oem-698839.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698839.json"
+    },
+    {
+      "id": "eplan-oem-698840",
+      "name": "MCCB Type VE, 3-p, 150kA, 100A, delayed el. Release, plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698840",
+      "recordPath": "equipment/eplan-oem-698840.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698840.json"
+    },
+    {
+      "id": "eplan-oem-698841",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 150kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698841",
+      "recordPath": "equipment/eplan-oem-698841.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698841.json"
+    },
+    {
+      "id": "eplan-oem-698842",
+      "name": "Moulded Case Circuit Breaker 100A_A, 4p, 150kA, plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698842",
+      "recordPath": "equipment/eplan-oem-698842.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698842.json"
+    },
+    {
+      "id": "eplan-oem-698843",
+      "name": "Moulded Case Circuit Breaker Type VE, 4-pole, 150kA, 100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698843",
+      "recordPath": "equipment/eplan-oem-698843.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698843.json"
+    },
+    {
+      "id": "eplan-oem-698844",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698844",
+      "recordPath": "equipment/eplan-oem-698844.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698844.json"
+    },
+    {
+      "id": "eplan-oem-698845",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698845",
+      "recordPath": "equipment/eplan-oem-698845.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698845.json"
+    },
+    {
+      "id": "eplan-oem-698846",
+      "name": "Moulded Case Circuit Breaker Type M, 4-pole, 25kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698846",
+      "recordPath": "equipment/eplan-oem-698846.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698846.json"
+    },
+    {
+      "id": "eplan-oem-698847",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698847",
+      "recordPath": "equipment/eplan-oem-698847.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698847.json"
+    },
+    {
+      "id": "eplan-oem-698848",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698848",
+      "recordPath": "equipment/eplan-oem-698848.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698848.json"
+    },
+    {
+      "id": "eplan-oem-698849",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698849",
+      "recordPath": "equipment/eplan-oem-698849.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698849.json"
+    },
+    {
+      "id": "eplan-oem-698850",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 150kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698850",
+      "recordPath": "equipment/eplan-oem-698850.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698850.json"
+    },
+    {
+      "id": "eplan-oem-698851",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 150kA, 125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698851",
+      "recordPath": "equipment/eplan-oem-698851.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698851.json"
+    },
+    {
+      "id": "eplan-oem-698852",
+      "name": "Moulded Case Circuit Breaker Type ME, 3-pole, 50kA, 140A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698852",
+      "recordPath": "equipment/eplan-oem-698852.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698852.json"
+    },
+    {
+      "id": "eplan-oem-698853",
+      "name": "Moulded Case Circuit Breaker Type ME, 3-pole, 150kA, 140A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698853",
+      "recordPath": "equipment/eplan-oem-698853.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698853.json"
+    },
+    {
+      "id": "eplan-oem-698854",
+      "name": "MCCB Type ME, 3-p, 100kA, 140A, el. motorprot. , plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698854",
+      "recordPath": "equipment/eplan-oem-698854.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698854.json"
+    },
+    {
+      "id": "eplan-oem-698861",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698861",
+      "recordPath": "equipment/eplan-oem-698861.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698861.json"
+    },
+    {
+      "id": "eplan-oem-698862",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 160A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698862",
+      "recordPath": "equipment/eplan-oem-698862.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698862.json"
+    },
+    {
+      "id": "eplan-oem-698863",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698863",
+      "recordPath": "equipment/eplan-oem-698863.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698863.json"
+    },
+    {
+      "id": "eplan-oem-698864",
+      "name": "Moulded Case Circuit Breaker 160A_M, 3p, 25kA, plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698864",
+      "recordPath": "equipment/eplan-oem-698864.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698864.json"
+    },
+    {
+      "id": "eplan-oem-698865",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698865",
+      "recordPath": "equipment/eplan-oem-698865.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698865.json"
+    },
+    {
+      "id": "eplan-oem-698866",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698866",
+      "recordPath": "equipment/eplan-oem-698866.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698866.json"
+    },
+    {
+      "id": "eplan-oem-698867",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 160A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698867",
+      "recordPath": "equipment/eplan-oem-698867.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698867.json"
+    },
+    {
+      "id": "eplan-oem-698868",
+      "name": "Moulded Case Circuit Breaker Type VE, 3-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698868",
+      "recordPath": "equipment/eplan-oem-698868.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698868.json"
+    },
+    {
+      "id": "eplan-oem-698869",
+      "name": "MCCB TypeVE, 3-p, 50kA, 160A, delayed el. release, plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698869",
+      "recordPath": "equipment/eplan-oem-698869.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698869.json"
+    },
+    {
+      "id": "eplan-oem-698870",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698870",
+      "recordPath": "equipment/eplan-oem-698870.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698870.json"
+    },
+    {
+      "id": "eplan-oem-698871",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698871",
+      "recordPath": "equipment/eplan-oem-698871.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698871.json"
+    },
+    {
+      "id": "eplan-oem-698872",
+      "name": "Moulded Case Circuit Breaker Type A, 4P, 50kA, 160A/100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698872",
+      "recordPath": "equipment/eplan-oem-698872.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698872.json"
+    },
+    {
+      "id": "eplan-oem-698873",
+      "name": "Moulded Case Circuit Breaker Type VE, 4-pole, 50kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698873",
+      "recordPath": "equipment/eplan-oem-698873.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698873.json"
+    },
+    {
+      "id": "eplan-oem-698874",
+      "name": "Moulded Case Circuit Breaker Type VE, 4P, 50kA, 160A/100A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698874",
+      "recordPath": "equipment/eplan-oem-698874.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698874.json"
+    },
+    {
+      "id": "eplan-oem-698875",
+      "name": "Circuit Breaker MC2 4p 50kA VE160 plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698875",
+      "recordPath": "equipment/eplan-oem-698875.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698875.json"
+    },
+    {
+      "id": "eplan-oem-698876",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 150kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698876",
+      "recordPath": "equipment/eplan-oem-698876.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698876.json"
+    },
+    {
+      "id": "eplan-oem-698877",
+      "name": "Moulded Case Circuit Breaker Type VE, 3-pole, 150kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698877",
+      "recordPath": "equipment/eplan-oem-698877.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698877.json"
+    },
+    {
+      "id": "eplan-oem-698878",
+      "name": "MCCB Type VE, 3-p, 150kA, 160A, delayed el. release, plug-in",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698878",
+      "recordPath": "equipment/eplan-oem-698878.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698878.json"
+    },
+    {
+      "id": "eplan-oem-698879",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 150kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698879",
+      "recordPath": "equipment/eplan-oem-698879.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698879.json"
+    },
+    {
+      "id": "eplan-oem-698880",
+      "name": "Moulded Case Circuit Breaker Type VE, 4-pole, 150kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698880",
+      "recordPath": "equipment/eplan-oem-698880.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698880.json"
+    },
+    {
+      "id": "eplan-oem-698881",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 36kA, 160A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698881",
+      "recordPath": "equipment/eplan-oem-698881.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698881.json"
+    },
+    {
+      "id": "eplan-oem-698882",
+      "name": "Moulded Case CB Type A, 3-pole, 36kA, 160A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698882",
+      "recordPath": "equipment/eplan-oem-698882.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698882.json"
+    },
+    {
+      "id": "eplan-oem-698888",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698888",
+      "recordPath": "equipment/eplan-oem-698888.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698888.json"
+    },
+    {
+      "id": "eplan-oem-698889",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 200A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698889",
+      "recordPath": "equipment/eplan-oem-698889.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698889.json"
+    },
+    {
+      "id": "eplan-oem-698890",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 25kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698890",
+      "recordPath": "equipment/eplan-oem-698890.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698890.json"
+    },
+    {
+      "id": "eplan-oem-698891",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698891",
+      "recordPath": "equipment/eplan-oem-698891.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698891.json"
+    },
+    {
+      "id": "eplan-oem-698892",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698892",
+      "recordPath": "equipment/eplan-oem-698892.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698892.json"
+    },
+    {
+      "id": "eplan-oem-698893",
+      "name": "Moulded Case CB Type A, 3-pole, 50kA, 200A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698893",
+      "recordPath": "equipment/eplan-oem-698893.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698893.json"
+    },
+    {
+      "id": "eplan-oem-698894",
+      "name": "Moulded Case Circuit Breaker Type M, 3-pole, 50kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698894",
+      "recordPath": "equipment/eplan-oem-698894.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698894.json"
+    },
+    {
+      "id": "eplan-oem-698895",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 50kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698895",
+      "recordPath": "equipment/eplan-oem-698895.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698895.json"
+    },
+    {
+      "id": "eplan-oem-698896",
+      "name": "Moulded Case Circuit Breaker Type A, 4P, 50kA, 200/125A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698896",
+      "recordPath": "equipment/eplan-oem-698896.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698896.json"
+    },
+    {
+      "id": "eplan-oem-698897",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 150kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698897",
+      "recordPath": "equipment/eplan-oem-698897.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698897.json"
+    },
+    {
+      "id": "eplan-oem-698898",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 150kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698898",
+      "recordPath": "equipment/eplan-oem-698898.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698898.json"
+    },
+    {
+      "id": "eplan-oem-698899",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 36kA, 200A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698899",
+      "recordPath": "equipment/eplan-oem-698899.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698899.json"
+    },
+    {
+      "id": "eplan-oem-698900",
+      "name": "Moulded Case CB Type A, 3-pole, 36kA, 200A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698900",
+      "recordPath": "equipment/eplan-oem-698900.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698900.json"
+    },
+    {
+      "id": "eplan-oem-698901",
+      "name": "Moulded Case Circuit Breaker Type ME, 3-pole, 50kA, 220A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698901",
+      "recordPath": "equipment/eplan-oem-698901.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698901.json"
+    },
+    {
+      "id": "eplan-oem-698902",
+      "name": "Moulded Case Circuit Breaker Type ME, 3-pole, 150kA, 220A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698902",
+      "recordPath": "equipment/eplan-oem-698902.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698902.json"
+    },
+    {
+      "id": "eplan-oem-698907",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 25kA, 250A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698907",
+      "recordPath": "equipment/eplan-oem-698907.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698907.json"
+    },
+    {
+      "id": "eplan-oem-698908",
+      "name": "Moulded Case CB Type A, 3-pole, 25kA, 250A  plug in type",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698908",
+      "recordPath": "equipment/eplan-oem-698908.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698908.json"
+    },
+    {
+      "id": "eplan-oem-698909",
+      "name": "Moulded Case Circuit Breaker Type A, 4-pole, 25kA, 250A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698909",
+      "recordPath": "equipment/eplan-oem-698909.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698909.json"
+    },
+    {
+      "id": "eplan-oem-698910",
+      "name": "Moulded Case Circuit Breaker Type A, 3-pole, 50kA, 250A",
+      "manufacturer": "Schrack",
+      "formats": [
+        "DWG"
+      ],
+      "canonicalUrl": "https://eloragrid.ai/tools/cad-library/equipment/eplan-oem-698910",
+      "recordPath": "equipment/eplan-oem-698910.md",
+      "jsonUrl": "https://eloragrid.ai/tools/cad-library/entries/eplan-oem-698910.json"
+    }
+  ]
+}

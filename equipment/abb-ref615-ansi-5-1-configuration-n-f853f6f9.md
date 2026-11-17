@@ -9,7 +9,7 @@ REF615 ANSI 5.1 configuration N: ABB manufacturer DWG resource, document 2RCA033
 - Part number: Select exact configuration
 - Drawing/document number: 2RCA033130\_REF615\_CONF\_N / dwg
 - Installation applications: substations, switchrooms
-- Formats: DWG
+- Formats: DWG, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -24,8 +24,8 @@ Original DWG drawing for REF615 ANSI 5.1 configuration N; ABB document 2RCA03313
 - Manufacturer: ABB
 - Resource type: Named drawing reference
 - Manufacturer drawing: 2RCA033130\_REF615\_CONF\_N / dwg
-- Listed file formats: DWG
-- Listed files: 1
+- Listed file formats: DWG, DXF
+- Listed files: 2
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
@@ -96,5 +96,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2RCA033130_REF615_CONF_N&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; DWG; 143467 bytes
 - Delivery SHA-256: 00cc51277d7ac4994d21d8e5a83bca325a9cacbf00f18857d2595bcd76240b90
+
+### 2RCA033130\_REF615\_conf\_N.dxf
+
+- Format: DXF
+- Purpose: DXF converted from the manufacturer's original DWG (2RCA033130\_REF615\_conf\_N.dwg).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2RCA033130_REF615_CONF_N&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ref615-ansi-5-1-configuration-n-f853f6f9/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: 00cc51277d7ac4994d21d8e5a83bca325a9cacbf00f18857d2595bcd76240b90
+- Original bytes: 143467
+- Revision: A
+- Retrieved: 2026-11-03T01:41:10.474759+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=2RCA033130_REF615_CONF_N&LanguageCode=en&DocumentPartId=dwg&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=2RCA033130_REF615_CONF_N&LanguageCode=en&DocumentPartId=dwg&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 609981 bytes
+- Delivery SHA-256: 55d1b71c416103b04ef1918f33e8c0bee7a368ec4190a650fbd8e44e74eb47b1
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

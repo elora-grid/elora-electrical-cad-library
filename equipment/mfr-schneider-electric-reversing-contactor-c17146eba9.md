@@ -1,0 +1,129 @@
+# Schneider Electric — REVERSING CONTACTOR
+
+Schneider Electric REVERSING CONTACTOR: original DXF / STEP for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-reversing-contactor-c17146eba9) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-reversing-contactor-c17146eba9.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-schneider-electric-reversing-contactor-c17146eba9.json) · [Official manufacturer source](https://www.se.com/us/en/download/document/LC2D096BD_3D-CAD/)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, STEP
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named REVERSING CONTACTOR.
+
+## Equipment and file summary
+
+- Equipment / resource: REVERSING CONTACTOR
+- Manufacturer: Schneider Electric
+- Resource type: Product
+- Manufacturer drawing identity: REVERSING CONTACTOR
+- Source document: LC1D25BNE\_3D-CAD; revision 1.0
+- Source document: LC2D099BD\_3D-CAD; revision 1.0
+- Source-model envelope: 89.7 × 83.6 × 94.5 mm
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- Listed file formats: DXF, STEP
+- Listed files: 2
+- Available previews: 2 drawing previews; 1 interactive model variants
+- Recorded revisions: 1.0
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: REVERSING CONTACTOR ([source](https://www.se.com/us/en/download/document/LC2D096BD_3D-CAD/))
+- Source document: LC1D25BNE\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=LC1D25BNE_2D-front.dxf&p_Doc_Ref=LC1D25BNE_3D-CAD&p_enDocType=CAD))
+- Source document: LC2D099BD\_3D-CAD; revision 1.0 ([source](https://download.se.com/files?p_File_Name=LC2D099BD_3D-simplified.stp&p_Doc_Ref=LC2D099BD_3D-CAD&p_enDocType=CAD))
+- Source-model envelope: 89.7 × 83.6 × 94.5 mm ([source](https://download.se.com/files?p_File_Name=LC2D099BD_3D-simplified.stp&p_Doc_Ref=LC2D099BD_3D-CAD&p_enDocType=CAD))
+- 2D preview basis: The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions. ([source](https://www.se.com/us/en/download/document/LC2D096BD_3D-CAD/))
+
+## What the equipment does
+
+A contactor is an electrically operated switch. A small control signal operates its mechanism to switch a separate power circuit.
+
+Use LC1D25BNE\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout.
+
+Use LC1D25BNE\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. Use LC2D099BD\_3D-simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified LC2D099BD\_3D-simplified.stp.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match Schneider Electric REVERSING CONTACTOR and the exact source filename shown above.
+- The supplied model has approximate X × Y × Z bounds of 89.7 × 83.6 × 94.5 mm. These are source-model axes; mounting holes and installation clearances must come from the matching manufacturer sheet.
+- The orthographic views are projected from the manufacturer 3D geometry. They are labelled separately from original dimensioned sheets and do not add manufacturer dimensions.
+- The source was checked on 2026-11-11; recorded file revisions: LC1D25BNE\_2D-front.dxf — 1.0; LC2D099BD\_3D-simplified.stp — 1.0. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for REVERSING CONTACTOR?
+
+2 inspected originals for Schneider Electric REVERSING CONTACTOR: LC1D25BNE\_2D-front.dxf (DXF); LC2D099BD\_3D-simplified.stp (STEP).
+
+### Where did these Schneider Electric files come from?
+
+Schneider Electric supplied the original files through https://www.se.com/us/en/download/document/LC2D096BD\_3D-CAD/. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [Schneider Electric official source](https://www.se.com/us/en/download/document/LC2D096BD_3D-CAD/)
+
+## Choosing a file
+
+Use LC1D25BNE\_2D-front.dxf (revision 1.0) to insert the supplied editable drawing into your layout. Use LC2D099BD\_3D-simplified.stp (revision 1.0) to place the original solid geometry in your 3D assembly. The ZIP contains the unmodified LC2D099BD\_3D-simplified.stp.
+
+## Preview
+
+![Schneider Electric REVERSING CONTACTOR: drawing or model preview](https://eloragrid.ai/tools/cad-library/preview/mfr-schneider-electric-reversing-contactor-c17146eba9/se-c1da842398793855c634?asset=cb004364bf12ad0a1427a038193e89ab12054f46a887d30c2b12817ba23a72d9&view=thumb&v=27a003b9a3aca434)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-schneider-electric-reversing-contactor-c17146eba9). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### LC1D25BNE\_2D-front.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://download.se.com/files?p_File_Name=LC1D25BNE_2D-front.dxf&p_Doc_Ref=LC1D25BNE_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-reversing-contactor-c17146eba9/se-afa5fcab840f10cd52ff)
+- Redistribution: unknown
+- Original SHA-256: a5d6baab98bac3a9c1598b5d718ff008854d64b453a2a4a3f3a732512290a366
+- Original bytes: 58071
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:42:40.953691+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/LC1D25BNE_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=LC1D25BNE_2D-front.dxf&p_Doc_Ref=LC1D25BNE_3D-CAD&p_enDocType=CAD)
+- Delivery: original; DXF; 58071 bytes
+- Delivery SHA-256: a5d6baab98bac3a9c1598b5d718ff008854d64b453a2a4a3f3a732512290a366
+
+### LC2D099BD\_3D-simplified.stp
+
+- Format: STEP
+- Purpose: Original manufacturer STEP geometry
+- [Official source](https://download.se.com/files?p_File_Name=LC2D099BD_3D-simplified.stp&p_Doc_Ref=LC2D099BD_3D-CAD&p_enDocType=CAD)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-reversing-contactor-c17146eba9/se-c1da842398793855c634)
+- Redistribution: unknown
+- Original SHA-256: cb004364bf12ad0a1427a038193e89ab12054f46a887d30c2b12817ba23a72d9
+- Original bytes: 1082793
+- Revision: 1.0
+- Retrieved: 2026-11-11T06:15:35.931664+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: Schneider Electric
+- [Hosting evidence](https://www.se.com/us/en/download/document/LC2D099BD_3D-CAD/)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://download.se.com/files?p_File_Name=LC2D099BD_3D-simplified.stp&p_Doc_Ref=LC2D099BD_3D-CAD&p_enDocType=CAD)
+- Delivery: source-bundle; ZIP; 200522 bytes
+- Delivery SHA-256: ea5a33123c8fa8a3dceec3b01ff31d23ca24f6d9185b4fa589779bfa696103ef
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

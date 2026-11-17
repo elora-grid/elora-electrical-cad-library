@@ -25,6 +25,7 @@ The supplied configuration is “OT400M04M1”. Keep those frame, mounting and a
 - Manufacturer drawing: OT400M04M1.IGS; OT400M04M1.STP
 - Manufacturer reference: OT400M04M1.IGS; OT400M04M1.STP
 - Document revision: A
+- Standards: IEC 60947-3
 - Listed file formats: IGS, STEP
 - Listed files: 2
 - Available previews: 1 interactive model variants

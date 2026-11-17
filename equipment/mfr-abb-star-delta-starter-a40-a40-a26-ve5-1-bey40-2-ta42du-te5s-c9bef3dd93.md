@@ -1,0 +1,123 @@
+# ABB — Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S
+
+ABB Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S: original DXF / PDF for motor-control or operating equipment layouts.
+
+[Equipment page and downloads](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93) · [Live Markdown](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93.md) · [Live JSON](https://eloragrid.ai/tools/cad-library/entries/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93.json) · [Official manufacturer source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DWG&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+- Category: Automation & controls
+- Entry type: product
+- Part number: Select exact configuration
+- Installation applications: switchgear, substations, microgrids
+- Formats: DXF, PDF
+- Discovery markets: Global
+- Access: direct
+- Checked: 2026-11-11
+
+Inspected originals are available from this website through the existing download email prompt.
+Manufacturer source discovery; confirm the exact regional equipment configuration and certification separately.
+Use the manufacturer configuration named Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S.
+
+## Equipment and file summary
+
+- Equipment / resource: Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S
+- Manufacturer: ABB
+- Resource type: Product
+- Manufacturer drawing identity: Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S
+- Source document: FPTE307954.DXF
+- Source document: FPTE307954.PDF
+- Listed file formats: DXF, PDF
+- Listed files: 2
+- Available previews: 2 drawing previews
+- Recorded revisions: Confirm the revision with the manufacturer
+- Source checked: 2026-11-11
+- Download access: Email registration for site downloads; official source links are also available
+
+## Source-linked technical facts
+
+- Manufacturer drawing identity: Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S ([source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DWG&LanguageCode=en&DocumentPartId=&Action=Launch))
+- Source document: FPTE307954.DXF ([source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DXF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-))
+- Source document: FPTE307954.PDF ([source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.PDF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-))
+
+## What the equipment does
+
+A star-delta starter starts a suitable motor with one winding connection and then changes to its running connection. This reduces starting demand under the conditions for which the motor and starter are designed.
+
+Use FPTE307954.DXF.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified FPTE307954.DXF.dxf.
+
+Use FPTE307954.DXF.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified FPTE307954.DXF.dxf. Use FPTE307954.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+- **CAD**: Computer-aided design files used to prepare drawings and models.
+- **Revision**: The recorded version of a drawing or model.
+
+- Match ABB Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S and the exact source filename shown above.
+- The source was checked on 2026-11-11. Use Documentation & sources to check for a newer issue.
+
+### Which original files are supplied for Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S?
+
+2 inspected originals for ABB Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S: FPTE307954.DXF.dxf (DXF); FPTE307954.PDF.pdf (PDF).
+
+### Where did these ABB files come from?
+
+ABB supplied the original files through https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DWG&LanguageCode=en&DocumentPartId=&Action=Launch. The source reference, revision, original bytes and checksum are retained with each download.
+
+- [ABB official source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DWG&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+## Choosing a file
+
+Use FPTE307954.DXF.dxf to insert the supplied editable drawing into your layout. The ZIP contains the unmodified FPTE307954.DXF.dxf. Use FPTE307954.PDF.pdf to read the original sheet, including its annotations and any marked dimensions. The selected drawing sheet is page 1.
+
+## Preview
+
+![ABB Star-Delta Starter: A40/A40/A26 + VE5-1 + BEY40-2 + TA42DU + TE5S: drawing or model preview](https://eloragrid.ai/tools/cad-library/drawing-preview/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93/abb-53bbea535edf38fb4481?asset=210f4845baf630674d29cfcc241ca184295591f9d778aa61199dae5e0858e102)
+
+[View the preview and available controls on Elora](https://eloragrid.ai/tools/cad-library/equipment/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93). Illustrations and simplified models are for orientation; use the original CAD for dimensions.
+
+## Equipment references and drawing guides
+
+- [PLC CPU module](https://eloragrid.ai/objects/ga-plc-cpu-module)
+- [HMI touchscreen](https://eloragrid.ai/objects/ga-hmi-touchscreen)
+- [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
+
+Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Files
+
+### FPTE307954.DXF.dxf
+
+- Format: DXF
+- Purpose: Original manufacturer DXF geometry
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DXF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93/abb-53bbea535edf38fb4481)
+- Redistribution: unknown
+- Original SHA-256: 210f4845baf630674d29cfcc241ca184295591f9d778aa61199dae5e0858e102
+- Original bytes: 2650764
+- Revision: Not recorded
+- Retrieved: 2026-11-11T10:13:27.202674+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DXF&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.DXF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: source-bundle; ZIP; 220690 bytes
+- Delivery SHA-256: a993088331935d85280a319d86d62fe29d543bb6a9db9a0c593cbcab456ad754
+
+### FPTE307954.PDF.pdf
+
+- Format: PDF
+- Purpose: Original manufacturer drawing sheet
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.PDF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-star-delta-starter-a40-a40-a26-ve5-1-bey40-2-ta42du-te5s-c9bef3dd93/abb-585b37ae237f9f0c3e10)
+- Redistribution: unknown
+- Original SHA-256: 4f60e39ae99c397372f9a6a24aad449547ece2ff3fa7afef7bc57039e201c93c
+- Original bytes: 233192
+- Revision: Not recorded
+- Retrieved: 2026-11-11T05:46:11.559335+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-11
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.PDF&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public manufacturer/supplier CAD original inspected with its included notices; no explicit applicable reproduction prohibition identified. Rights remain unknown.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=FPTE307954.PDF&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: original; PDF; 233192 bytes
+- Delivery SHA-256: 4f60e39ae99c397372f9a6a24aad449547ece2ff3fa7afef7bc57039e201c93c
+
+Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

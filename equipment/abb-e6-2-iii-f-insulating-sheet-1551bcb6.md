@@ -9,7 +9,7 @@ E6.2 III F INSULATING SHEET: ABB manufacturer STEP resource, document 1SDH001252
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001252R0368
 - Installation applications: switchgear, switchrooms
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-03
@@ -25,8 +25,8 @@ Original STEP 3D geometry for E6.2 III F INSULATING SHEET; ABB document 1SDH0012
 - Resource type: Named drawing reference
 - Manufacturer drawing: 1SDH001252R0368
 - Model extents (X × Y × Z, mm): 892.0 × 2.0 × 455.0
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
@@ -101,5 +101,26 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
 - Delivery: original; STEP; 15335 bytes
 - Delivery SHA-256: b4d267bb16e8221f8bc6ef5f93529a51786b1071b3427f02231050bfeeff9732
+
+### 1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0368\_E6.2\_III\_F\_INSULATING\_SHEET\_AllCATPart.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-iii-f-insulating-sheet-1551bcb6/original-dxf)
+- Redistribution: unknown
+- Original SHA-256: b4d267bb16e8221f8bc6ef5f93529a51786b1071b3427f02231050bfeeff9732
+- Original bytes: 15335
+- Revision: -
+- Retrieved: 2026-11-03T01:30:57.566692+00:00
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-03
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0368&LanguageCode=en&DocumentPartId=&Action=Launch)
+- Rights review: Public ABB Library metadata, original file header and extracted document notices were inspected. No explicit prohibition was identified in this specific original or the library terms link. Copyright remains with ABB; no redistribution licence is asserted.
+- [Rights evidence](https://library.abb.com/)
+- [Rights evidence](https://library.abb.com/privacy)
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0368&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
+- Delivery: converted; DXF; 27563 bytes
+- Delivery SHA-256: 7b9a366d829a8c180721f588aae2beb617b3a3dbae8e3bde2a3c5ee19986d81d
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

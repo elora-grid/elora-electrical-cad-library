@@ -8,7 +8,7 @@ ABB A1 3p PS 50mm UP: breaker or breaker-accessory reference for breaker compart
 - Entry type: drawing
 - Part number: Select exact configuration
 - Drawing/document number: 1SDH001294R0042
-- Formats: STEP
+- Formats: STEP, DXF
 - Discovery markets: Global
 - Access: direct
 - Checked: 2026-11-04
@@ -26,8 +26,8 @@ The supplied configuration is “A1 3p PS 50mm UP”. Keep those frame, mounting
 - Manufacturer reference: 1SDH001294R0042
 - Document revision: A
 - Model envelope: 1SDH001294R0042\_1PA\_001\_00\_A1\_3p\_PS\_50mm\_sup.stp: 32 × 58 × 54 mm (approximate X × Y × Z bounds of the tessellated source model)
-- Listed file formats: STEP
-- Listed files: 1
+- Listed file formats: STEP, DXF
+- Listed files: 2
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
@@ -99,5 +99,24 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0042&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; STEP; 50094 bytes
 - Delivery SHA-256: ae9713d3ff5ba556348a7a5cd42a417047b410d2cd5047462f0d91c3bcde3933
+
+### 1SDH001294R0042\_1PA\_001\_00\_A1\_3p\_PS\_50mm\_sup.dxf
+
+- Format: DXF
+- Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0042\_1PA\_001\_00\_A1\_3p\_PS\_50mm\_sup.stp).
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0042&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a1-3p-ps-50mm-up-57f5e926b4/ae9713d3ff5ba556348a-dxf)
+- Redistribution: unknown
+- Original SHA-256: ae9713d3ff5ba556348a7a5cd42a417047b410d2cd5047462f0d91c3bcde3933
+- Original bytes: 50094
+- Revision: A
+- Retrieved: 2026-11-04T00:56:45Z
+- Hosting basis: no-explicit-prohibition; reviewed 2026-11-04
+- Hosting attribution: ABB
+- [Hosting evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0042&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Rights review: Reviewed the available source, embedded drawing text and archive notices. No explicit applicable redistribution prohibition was identified. Rights remain unknown; no licence or manufacturer endorsement is asserted.
+- [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0042&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
+- Delivery: converted; DXF; 40367 bytes
+- Delivery SHA-256: dd821f585529df56b5cc2c12828e2dc18705b11bba7b2ed2a79d1172e3602b57
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

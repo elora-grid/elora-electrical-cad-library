@@ -26,7 +26,7 @@ The verified native member is Other PLC Products/Terminator Field IO/T1F-08DA-2.
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -88,6 +88,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: c4841b064a627a68e80b2e3be6d0cc005554531f3afc2b8a9cdeecac20e95930
 - Containing archive SHA-256: 9ae4da496d59934a7f46e262100ffe1d1704f4e0c1f69d2341d289966bb4b007
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/tio.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-t1f-08da-2-f52696db883c)
+
+- tio.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

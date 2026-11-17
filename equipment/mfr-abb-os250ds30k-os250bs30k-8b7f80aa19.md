@@ -33,7 +33,7 @@ stp-file, OS250DS30K, OS250BS30K, 1SCA022871R2260, 1SCA022870R8660
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,13 @@ Use OS250\_D\_B\_S30K.STP.stp (revision A) to place the original solid geometry 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-os250ds30k-os250bs30k-8b7f80aa19)
+
+- OS250\_D\_B\_S30K.STP.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

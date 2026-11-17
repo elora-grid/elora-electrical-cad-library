@@ -26,7 +26,7 @@ The acquired source archive contains Other PLC Products/DINnectors/Accessories a
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -97,6 +97,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 438446748ef2bd72ab784869d151e4e8cbb0bbf43bec0fdecdd5d08f5eb80c81
 - Containing archive SHA-256: 62ffc8996c8e69ebf1afd779395e4eaa6b052597283c8b81899e693d1169f884
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/dinnectors.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-dn-clip-fm5-d185c346c0a2)
+
+- dinnectors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- dinnectors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

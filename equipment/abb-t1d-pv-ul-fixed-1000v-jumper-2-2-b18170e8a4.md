@@ -30,7 +30,7 @@ The supplied configuration is “T1D PV UL Fixed 1000V Jumper 2+2”. Keep those
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 1SDH000986R0103\_1DR\_000\_00\_T1D\_PV\_UL\_IV\_FISSO\_1000V\_JUMPER\_22.dxf
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t1d-pv-ul-fixed-1000v-jumper-2-2-b18170e8a4)
+
+- 1SDH000986R0103\_1DR\_000\_00\_T1D\_PV\_UL\_IV\_FISSO\_1000V\_JUMPER\_22.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

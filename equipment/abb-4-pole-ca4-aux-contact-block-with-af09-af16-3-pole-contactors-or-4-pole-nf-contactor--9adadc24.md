@@ -29,7 +29,7 @@ Original DXF drawing for 4-pole CA4 aux. contact block with AF09...AF16 3-pole c
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -73,6 +73,13 @@ Use 1SBB505016D3501.dxf for 4-pole CA4 aux. contact block with AF09...AF16 3-pol
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-4-pole-ca4-aux-contact-block-with-af09-af16-3-pole-contactors-or-4-pole-nf-contactor--9adadc24)
+
+- 1SBB505016D3501.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

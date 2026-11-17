@@ -26,7 +26,7 @@ The exact supplied files are BPG 14.STEP, BPG14.dwg. Use STEP for placing the en
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -102,6 +102,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 5999377011b9b560e9d4eb599cf6a29277e8ec4462d61a05c3c1cb6270108c84
 - Containing archive SHA-256: 4908f8d73874a44eaf051107f493df7451e6e4df9ba9c90b9c32b9bd2dfc3d85
 - [Original publisher source](https://www.abtech-inc.com/downloads/127/bpg.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bpg-14-ecbe565b0238)
+
+- BPG 14.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- bpg.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

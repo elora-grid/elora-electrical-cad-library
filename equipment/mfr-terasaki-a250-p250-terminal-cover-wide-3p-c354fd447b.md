@@ -30,7 +30,7 @@ Use the manufacturer configuration named A250 P250 Terminal Cover Wide 3P.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use Terasaki-A250-P250-Terminal-Cover-Wide-3P-2D-CAD-Block.dwg to insert the sup
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-terasaki-a250-p250-terminal-cover-wide-3p-c354fd447b)
+
+- Terasaki-A250-P250-Terminal-Cover-Wide-3P-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Terasaki-A250-P250-Terminal-Cover-Wide-3P-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Terasaki-A250-P250-Terminal-Cover-Wide-3P-2D-CAD-Block.dwg
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Terasaki-A250-P250-Terminal-Cover-Wide-3P-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10047/Terasaki-A250-P250-Terminal-Cover-Wide-3P-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-terasaki-a250-p250-terminal-cover-wide-3p-c354fd447b/nhp-183209-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 8a85ef59629fd9038ff7298b1b0be7bc2d05d55dcc2c2e3f050476b09e0b8da1
 - Original bytes: 130912

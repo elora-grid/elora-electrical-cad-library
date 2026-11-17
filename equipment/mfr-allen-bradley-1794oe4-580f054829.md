@@ -29,7 +29,7 @@ Use the manufacturer configuration named 1794OE4.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use Allen-Bradley-1794OE4-DWG-2D-CAD-Block.dwg to insert the supplied editable d
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-1794oe4-580f054829)
+
+- Allen-Bradley-1794OE4-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- Allen-Bradley-1794OE4-DWG-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Allen-Bradley-1794OE4-DWG-2D-CAD-Block.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-1794OE4-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-1794OE4-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-1794oe4-580f054829/nhp-206562-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f7a7a3c1b5e5d7d914e8b68ea4baea66b3e9aafc43d823d4c62b4e8566e1cc8d
 - Original bytes: 402682

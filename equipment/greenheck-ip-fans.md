@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,17 @@ Available here: ZIP, DWG, DXF. The individual filenames above distinguish the su
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-ip-fans)
+
+- IP\_LOD200\_AllSizes.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+- IP-10-3D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- IP-10-3D.dxf: review_required (conversion\_access\_review\_required); delivered format DXF, contained formats DXF.
+- IP-11-1.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- IP-11-1.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -118,7 +129,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (IP-10-3D.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/IP-10-3D.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-ip-fans/greenheck-ip-10-3d-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 207acbd775c41fed2236e7275a9ee6137600e876010933c4b9d6bed9c48c2444
 - Original bytes: 637408
@@ -158,7 +169,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (IP-11-1.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/IP-11-1.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-ip-fans/greenheck-ip-11-1-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7218933d11ac451545cc4689c538b9bc8e780c3e14283dfc3ffad1f93810b4e0
 - Original bytes: 472447

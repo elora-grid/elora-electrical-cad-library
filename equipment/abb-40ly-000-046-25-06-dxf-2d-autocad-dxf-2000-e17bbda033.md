@@ -35,7 +35,7 @@ The supplied configuration is “40LY-000-046\_25.06”. Keep those frame, mount
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -105,6 +105,23 @@ Use 40LY\_000\_046\_25.06.dxf revision B for editable DXF drawing geometry. Keep
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-40ly-000-046-25-06-dxf-2d-autocad-dxf-2000-e17bbda033)
+
+- 40LY\_000\_046\_25.06.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 40LY-000-046.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 40LY\_000\_046\_25.06.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 40LY\_000\_046\_23.81.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 40LY\_000\_046\_25.06.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 40LY\_000\_046\_25.06.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 40LY\_000\_046\_23.81.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 40LY\_000\_046\_23.81.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 40LY\_000\_046\_23.81.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 40LY\_000\_046\_26.06.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 40LY\_000\_046\_26.06.sat: public (public\_original); delivered format SAT, contained formats SAT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ Use the manufacturer configuration named MD6PO48M250LG MOD6plus One Panelboard.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use MD6PO48M250LG-MOD6plus-One-Panelboard-2D-CAD-Block.dwg to insert the supplie
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-mod6-md6po48m250lg-mod6plus-one-panelboard-46878859ca)
+
+- MD6PO48M250LG-MOD6plus-One-Panelboard-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- MD6PO48M250LG-MOD6plus-One-Panelboard-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### MD6PO48M250LG-MOD6plus-One-Panelboard-2D-CAD-Block.dwg
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (MD6PO48M250LG-MOD6plus-One-Panelboard-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/MD6PO48M250LG-MOD6plus-One-Panelboard-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-mod6-md6po48m250lg-mod6plus-one-panelboard-46878859ca/nhp-179748-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 1089d5b02abcfd487a0dee3509526516bed509998bb35d2163340baba06012f2
 - Original bytes: 2664477

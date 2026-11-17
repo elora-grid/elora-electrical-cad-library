@@ -32,7 +32,7 @@ Use the manufacturer configuration named XT1 3p PLUG-IN MOD.
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use 1SDH001295R0057.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-xt1-3p-plug-in-mod-00d866ba96)
+
+- 1SDH001295R0057.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0057.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0057.stp
@@ -113,7 +121,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0057.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0057&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt1-3p-plug-in-mod-00d866ba96/abb-8770609a368cf2d2c207-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dab41500ee911eb44da6e19ab5c1bb757e55454959d1acf1fe795dbb41c0f72a
 - Original bytes: 120829

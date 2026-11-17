@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 5 interactive model variants
 - Recorded revisions: 00, 01x, 01, 02x
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,18 @@ Available here: STEP. The individual filenames above distinguish the supplied va
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/victron-energy-quattro)
+
+- DimensionDrawing-24V8kVA230V-48V8kVA230V-48V10kVA230V-48V5kVA120V-12V5kVA230V-12V5kVA120V-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-Quattro-Inverter-12V-24V-48V-3000VA-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- MultiPlus-Quattro-Inverter-24V-48V-5000VA-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- Quattro-24V8kVA230V-48V8kVA230V-48V10kVA230V-48V5kVA120V-(step).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- Quattro-48V-10000VA-120V-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- Quattro-48V-15000VA-230V-277V-(stp).STEP: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

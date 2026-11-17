@@ -31,7 +31,7 @@ The supplied configuration is “XT6 3p Fixed Circuit Breaker”. Keep those fra
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use 1SDH002065A1190.stp revision B for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-3p-fixed-circuit-breaker-b76a30ae0f)
+
+- 1SDH002065A1190.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1190.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1190.stp
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1190.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1190&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-fixed-circuit-breaker-b76a30ae0f/dc9e833e5ddfa1103204-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dc9e833e5ddfa1103204c3c9a449ec141806acc3d294beb806ad3bcc798cadfb
 - Original bytes: 14026056

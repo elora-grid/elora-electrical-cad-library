@@ -29,7 +29,7 @@ Use the manufacturer configuration named TemWay XBP MCCB Chassis XBP80048U4POLE.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use Terasaki-XBP80048U4POLE-2D-CAD-Block.dwg to insert the supplied editable dra
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u4pole-8271022c14)
+
+- Terasaki-XBP80048U4POLE-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Terasaki-XBP80048U4POLE-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Terasaki-XBP80048U4POLE-2D-CAD-Block.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Terasaki-XBP80048U4POLE-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10047/Terasaki-XBP80048U4POLE-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-terasaki-temway-xbp-mccb-chassis-xbp80048u4pole-8271022c14/nhp-182503-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d1f46e7968857ad6d9089cc635e4c63e744a1208e79320d78636af59e51407ac
 - Original bytes: 68816

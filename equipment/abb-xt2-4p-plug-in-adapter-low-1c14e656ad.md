@@ -34,7 +34,7 @@ The supplied configuration is “XT2 4p PLUG-IN ADAPTER LOW”. Keep those frame
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001295R0316\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_BASETTA\_INF.stp revision 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-plug-in-adapter-low-1c14e656ad)
+
+- 1SDH001295R0316\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_BASETTA\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0316\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_BASETTA\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0358\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_BASETTA\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0358\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_BASETTA\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0316\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_BASETTA\_INF.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0316\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_BASETTA\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0316&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-adapter-low-1c14e656ad/5390b8a7a8e26ad17899-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 5390b8a7a8e26ad17899cc25fa569d3be74b2ee09a5599b87c03e871478ffec9
 - Original bytes: 157991
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0358\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_BASETTA\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0358&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-adapter-low-1c14e656ad/25e29682db458346fdcb-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 25e29682db458346fdcb20ab6aa6e24393faf90445f2cbe52180a79c792ce517
 - Original bytes: 158001

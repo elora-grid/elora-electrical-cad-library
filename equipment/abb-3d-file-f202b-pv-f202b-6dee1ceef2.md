@@ -30,7 +30,7 @@ The supplied configuration is “F202B PV, F202B+”. Keep those frame, mounting
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ Use F202\_PV\_B\_\_F202Bplus.stp revision A for the supplied solid assembly in y
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-3d-file-f202b-pv-f202b-6dee1ceef2)
+
+- F202\_PV\_B\_\_F202Bplus.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

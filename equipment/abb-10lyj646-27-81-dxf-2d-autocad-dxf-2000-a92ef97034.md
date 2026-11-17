@@ -34,7 +34,7 @@ The supplied configuration is “10LYJ646\_27.81”. Keep those frame, mounting 
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -90,6 +90,15 @@ Use 10LYJ646\_27.81.dxf revision B for editable DXF drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyj646-27-81-dxf-2d-autocad-dxf-2000-a92ef97034)
+
+- 10LYJ646\_27.81.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 10LYJ646.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYJ646\_27.81.igs: public (public\_original); delivered format IGS, contained formats IGES.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

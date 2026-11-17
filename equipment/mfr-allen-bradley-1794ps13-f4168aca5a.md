@@ -31,7 +31,7 @@ Use the manufacturer configuration named 1794PS13.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use Allen-Bradley-1794PS13-DWG-2D-CAD-Block.dwg to insert the supplied editable 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-1794ps13-f4168aca5a)
+
+- Allen-Bradley-1794PS13-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Allen-Bradley-1794PS13-DWG-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- Allen-Bradley-1794-PS13-STEP-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Allen-Bradley-1794PS13-DWG-2D-CAD-Block.dwg
@@ -109,7 +118,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-1794PS13-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10058/Allen-Bradley-1794PS13-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-1794ps13-f4168aca5a/nhp-206555-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 3e405d4b3f706a365a585a931707a99e4fc230761eae69479f7525e5b3aec0a4
 - Original bytes: 414033

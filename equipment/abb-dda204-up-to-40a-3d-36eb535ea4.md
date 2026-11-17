@@ -30,7 +30,7 @@ The supplied configuration is “DDA204 up to 40A\_3D”. Keep those frame, moun
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ ABB reference 9AKK106930A4052. The file list retains the original source and rec
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-dda204-up-to-40a-3d-36eb535ea4)
+
+- 04160598\_\_\_\_\_\_000\_A0\_DDA200\_4P2M\_\_3D\_PER\_CLIENTI\_FINALI\_\_2PD.igs: public (public\_original); delivered format IGS, contained formats IGES.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

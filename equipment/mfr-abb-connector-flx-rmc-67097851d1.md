@@ -29,7 +29,7 @@ Use the manufacturer configuration named Connector FLX-RMC.
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 9AKK108471A3768.dwg (revision A) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-connector-flx-rmc-67097851d1)
+
+- 9AKK108471A3768.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 9AKK108471A3768.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK108471A3768.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK108471A3768.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3768&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-connector-flx-rmc-67097851d1/abb-4fa7723a110b0ec6e5cd-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c270ab89c0ce7c8ad78caa96d7e9e1e03129e412ebf6b6d2317a528f3e4545a8
 - Original bytes: 112734

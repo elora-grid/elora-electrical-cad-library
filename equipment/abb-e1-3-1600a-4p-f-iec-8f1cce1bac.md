@@ -31,7 +31,7 @@ The supplied configuration is “E1.3 1600A 4p F IEC”. Keep those frame, mount
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use 1SDH002443A1007.stp revision A for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e1-3-1600a-4p-f-iec-8f1cce1bac)
+
+- 1SDH002443A1007.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002443A1007.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002443A1007.stp
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002443A1007.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002443A1007&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-3-1600a-4p-f-iec-8f1cce1bac/a02c4c9e1e1005117ce0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a02c4c9e1e1005117ce0d4fca3dba39d5d6f0937514517114999ba4e5a02bb46
 - Original bytes: 25874936

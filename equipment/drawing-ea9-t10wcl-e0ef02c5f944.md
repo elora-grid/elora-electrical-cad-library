@@ -26,7 +26,7 @@ The verified native member is Operator Interface/Cmore/EA9-T10WCL.dwg. Its ident
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: d58adc11a298a946a7b91ee1def9cd03fc98b50bad78b2fd10ff1251da9ba653
 - Containing archive SHA-256: 22f4917a65b61496a3c1a69e1a421bca857ad9e50845425d4b85f579d3217618
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/cmore.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-ea9-t10wcl-e0ef02c5f944)
+
+- cmore.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

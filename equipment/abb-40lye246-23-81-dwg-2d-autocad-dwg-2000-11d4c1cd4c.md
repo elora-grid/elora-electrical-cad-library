@@ -36,7 +36,7 @@ The supplied configuration is “40LYE246\_23.81”. Keep those frame, mounting 
 - Available previews: 4 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -114,6 +114,27 @@ Use 40LYE246\_23.81.dwg revision F for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-40lye246-23-81-dwg-2d-autocad-dwg-2000-11d4c1cd4c)
+
+- 40LYE246\_23.81.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 40LYE246.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 40LYE246\_23.81.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 40LYE246\_25.06.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 40LYE246\_25.06.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 40LYE246\_26.06.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 40LYE246\_26.06.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 40LYE246\_23.81.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 40LYE246\_23.81.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 40LYE246\_23.81.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 40LYE246\_25.06.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 40LYE246\_25.06.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 40LYE246\_26.06.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 40LYE246\_26.06.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 40LYE246\_26.06.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

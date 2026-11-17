@@ -29,11 +29,11 @@ The supplied configuration is “10LYH956\_30.80”. Keep those frame, mounting 
 - Motor drawing designation (10LYH956): HORZ TEFC 284-6TC CP VECTOR W/HSD38 ENC & COVER
 - Manufacturer reference: 10LYH956
 - Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -90,6 +90,19 @@ Use 10LYH956\_30.80.dwg revision D for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyh956-30-80-dwg-2d-autocad-dwg-2000-c053284bbd)
+
+- 10LYH956\_30.80.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 10LYH956\_30.80.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 10LYH956.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYH956\_30.80.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 10LYH956\_30.80.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 10LYH956\_30.80.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 10LYH956\_30.80.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 10LYH956\_30.80.dwg
@@ -116,7 +129,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (10LYH956\_30.80.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyh956-30-80-dwg-2d-autocad-dwg-2000-c053284bbd/1fceba732c1fe5197f51-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 1fceba732c1fe5197f515d5f99720fcb73b5008a8c4666ca4f95a9d8fd9e97dd
 - Original bytes: 984288
@@ -205,5 +218,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; SLDPRT; 3344384 bytes
 - Delivery SHA-256: 0ae0c05aae97cb3b44a213756c28d764d698dd870646695f774eea0e144acdd8
+
+### 10LYH956\_30.80.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 10LYH956\_30.80, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYH956_30.80&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

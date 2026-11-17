@@ -30,7 +30,7 @@ Use the manufacturer configuration named NHP DTASHT Shunt Trip.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use NHP-DTASHT-Shunt-Trip-2D-CAD-Block.dwg to insert the supplied editable drawi
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-din-t-nhp-dtasht-shunt-trip-5a184e453a)
+
+- NHP-DTASHT-Shunt-Trip-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- NHP-DTASHT-Shunt-Trip-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- NHP-DTASHT-Shunt-Trip-3D-CAD-Block.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### NHP-DTASHT-Shunt-Trip-2D-CAD-Block.dwg
@@ -109,7 +118,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (NHP-DTASHT-Shunt-Trip-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10043/NHP-DTASHT-Shunt-Trip-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-din-t-nhp-dtasht-shunt-trip-5a184e453a/nhp-167940-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 60c67edcd0226096fb73a872be40194d810dd1b93d420dc32a9a2f654d4cbfcf
 - Original bytes: 463284

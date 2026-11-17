@@ -34,7 +34,7 @@ The supplied configuration is “617428-510: Dimension Sheet”. Keep those fram
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -85,6 +85,13 @@ Use 617428-510.pdf revision B to read the original manufacturer sheet and its an
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-617428-510-dimension-sheet-427d7ec5c5)
+
+- 617428-510.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

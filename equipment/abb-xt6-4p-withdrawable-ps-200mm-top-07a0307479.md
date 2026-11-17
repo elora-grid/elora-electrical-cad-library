@@ -31,7 +31,7 @@ The supplied configuration is “XT6 4P Withdrawable PS 200mm top”. Keep those
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1427\_XT6\_4P\_Withdrawable\_PS\_200mm\_top.stp revision A for th
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-4p-withdrawable-ps-200mm-top-07a0307479)
+
+- 1SDH002065A1427\_XT6\_4P\_Withdrawable\_PS\_200mm\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1427\_XT6\_4P\_Withdrawable\_PS\_200mm\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1427\_XT6\_4P\_Withdrawable\_PS\_200mm\_top.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1427\_XT6\_4P\_Withdrawable\_PS\_200mm\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1427&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-4p-withdrawable-ps-200mm-top-07a0307479/f5eb2a61a215284794ed-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f5eb2a61a215284794edfd3a9d76876da8fe5f4c95bf27a7f5da41af29f1dc88
 - Original bytes: 1827033

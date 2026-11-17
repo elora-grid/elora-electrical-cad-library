@@ -26,7 +26,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 3 drawing previews; 3 interactive model variants
 - Recorded revisions: 00, 02
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -60,6 +60,21 @@ Available here: STEP, DWG, DXF. The individual filenames above distinguish the s
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/victron-energy-din35-adapters)
+
+- DimensionDrawing-DIN-35-adapter-large-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-DIN-35-adapter-large.DWG: public (public\_original); delivered format DWG, contained formats DWG.
+- DimensionDrawing-DIN-35-adapter-large.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- DimensionDrawing-DIN-35-adapter-medium-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-DIN-35-adapter-medium.DWG: public (public\_original); delivered format DWG, contained formats DWG.
+- DimensionDrawing-DIN-35-adapter-medium.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- DimensionDrawing-DIN-35-adapter-small-3D.STEP: public (public\_original); delivered format STEP, contained formats STEP.
+- DimensionDrawing-DIN-35-adapter-small.DWG: public (public\_original); delivered format DWG, contained formats DWG.
+- DimensionDrawing-DIN-35-adapter-small.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -110,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing-DIN-35-adapter-large.DWG).
 - [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-DIN-35-adapter-large.DWG)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-large-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 6a734e12cde55b109015df13bcce5800b5e81bd74d056325fff5d1c384f33e6d
 - Original bytes: 561997
@@ -173,7 +188,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing-DIN-35-adapter-medium.DWG).
 - [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-DIN-35-adapter-medium.DWG)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-medium-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 245f1462d2f54bf93edc8bfeec81f542a7891b4c9bca79861bd3b7132fc73596
 - Original bytes: 491212
@@ -236,7 +251,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (DimensionDrawing-DIN-35-adapter-small.DWG).
 - [Official source](https://www.victronenergy.com/upload/documents/DimensionDrawing-DIN-35-adapter-small.DWG)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/victron-energy-din35-adapters/victron-energy-dimensiondrawing-din-35-adapter-small-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b99b1a7869c0a391e7167afeefa2ad5f3b547e2f1cec101dac1a2a65a693bd75
 - Original bytes: 563699

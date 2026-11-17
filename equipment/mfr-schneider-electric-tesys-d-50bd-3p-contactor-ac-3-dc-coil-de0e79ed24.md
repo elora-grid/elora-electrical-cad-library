@@ -34,7 +34,7 @@ TeSys D 50BD - 3P contactor AC-3 DC Coil EN
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: 01
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,13 @@ Use LC1D50BD\_3D-simplified.stp (revision 01) to place the original solid geomet
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-tesys-d-50bd-3p-contactor-ac-3-dc-coil-de0e79ed24)
+
+- LC1D50BD\_3D-simplified.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -35,7 +35,7 @@ Manufacturer reference dq72-3d-pdf.pdf; dq72-3d-step-file.stp; dq96-vdq96-3d-pdf
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,16 @@ dq72-3d-pdf.pdf contains interactive 3D PDF content. Use a compatible PDF applic
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-dq-vdq-ae38c31d8a)
+
+- dq72-3d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- dq72-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- dq96-vdq96-3d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- dq96-vdq96-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

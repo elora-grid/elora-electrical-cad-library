@@ -30,7 +30,7 @@ The supplied configuration is “E4.2-A-E IV W 2500-3200A 2PS DOWN TERM V”. Ke
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 1SDH001252R0550.stp revision A for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-a-e-iv-w-2500-3200a-2ps-down-term-v-5915d94ab8)
+
+- 1SDH001252R0550.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0550.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0550.stp
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0550.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0550&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-a-e-iv-w-2500-3200a-2ps-down-term-v-5915d94ab8/52ddd43b886e3601619a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 52ddd43b886e3601619aac4317155cbfe53c47b247405a1820d5e32365561c43
 - Original bytes: 9685997

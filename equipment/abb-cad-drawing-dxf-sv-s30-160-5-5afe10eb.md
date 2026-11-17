@@ -29,7 +29,7 @@ Original DXF drawing for CAD-Drawing (.DXF) SV/S30.160.5; ABB document 9AKK2017-
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -73,6 +73,13 @@ Use SVS\_301605\_CAD\_XX\_V09\_03.dxf for CAD-Drawing (.DXF) SV/S30.160.5. DXF i
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-cad-drawing-dxf-sv-s30-160-5-5afe10eb)
+
+- SVS\_301605\_CAD\_XX\_V09\_03.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

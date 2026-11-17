@@ -26,7 +26,7 @@ Each archive may cover several variants. Match original drawing title and model 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -54,6 +54,30 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/fuji-ea-ul-sa-ul-series)
+
+- f54003525.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f54003535.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f54003645.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f54003655.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f54003665.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f54003675.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58103795.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58103805.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58103815.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58503835.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58503545a.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58503855.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- F58603435.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58603535.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58804554.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58804584a.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58804644a.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- f58804654a.dxf.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -32,7 +32,7 @@ Use the manufacturer configuration named Flexible extension 3P D115-150A6 to MCC
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use LAD91503111\_2D-front.dxf (revision 1.0) to insert the supplied editable dra
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-flexible-extension-3p-d115-150a6-to-mccb-a7df1c8a22)
+
+- LAD91503111\_2D-front.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- LAD91503111\_3D-simplified.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

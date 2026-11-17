@@ -33,11 +33,11 @@ The supplied configuration is “35LYE2261\_11.63”. Keep those frame, mounting
 - Model envelope: 35LYE2261\_13.00.step: 330.3 × 172.9 × 226 mm (approximate X × Y × Z bounds of the tessellated source model)
 - Manufacturer reference: 35LYE2261
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 16
+- Listed files: 19
 - Available previews: 4 drawing previews; 3 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -118,6 +118,31 @@ Use 35LYE2261\_11.63.dwg revision F for editable DWG drawing geometry. Keep its 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145)
+
+- 35LYE2261\_11.63.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYE2261\_11.63.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYE2261.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYE2261\_11.63.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYE2261\_12.13.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYE2261\_12.13.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYE2261\_12.13.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYE2261\_13.00.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYE2261\_13.00.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYE2261\_13.00.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYE2261\_11.63.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYE2261\_11.63.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYE2261\_12.13.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYE2261\_12.13.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYE2261\_13.00.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYE2261\_13.00.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYE2261\_11.63.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 35LYE2261\_12.13.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 35LYE2261\_13.00.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 35LYE2261\_11.63.dwg
@@ -144,7 +169,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYE2261\_11.63.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_11.63&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145/ba2ac07ad94daba30fa9-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ba2ac07ad94daba30fa9639a8c6827c42e6447baf95c01983443230119fef6c9
 - Original bytes: 591938
@@ -220,7 +245,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYE2261\_12.13.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_12.13&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145/09feaf68193a21b7b82a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 09feaf68193a21b7b82a5f5114380d3f72b5aa1ca32265f965571036a4d30d1f
 - Original bytes: 591866
@@ -277,7 +302,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYE2261\_13.00.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=F)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2261-11-63-dwg-2d-autocad-dwg-2000-6a93fa7145/09ab27b079d101f92bb5-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 09ab27b079d101f92bb55bcfef94b888fc21b034d0ffe44cbfc80279e448926b
 - Original bytes: 595327
@@ -423,5 +448,41 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; SLDPRT; 2317824 bytes
 - Delivery SHA-256: 00c004415bced73f524bfefa64de519f6ab56a1a60e41356d87008810942f067
+
+### 35LYE2261\_11.63.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYE2261\_11.63, revision F. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_11.63&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=F)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: F
+- Retrieved: Not acquired
+
+### 35LYE2261\_12.13.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYE2261\_12.13, revision F. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_12.13&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=F)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: F
+- Retrieved: Not acquired
+
+### 35LYE2261\_13.00.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYE2261\_13.00, revision F. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2261_13.00&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=F)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: F
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

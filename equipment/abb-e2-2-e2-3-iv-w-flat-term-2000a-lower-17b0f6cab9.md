@@ -34,7 +34,7 @@ The supplied configuration is “E2.2/E2.3 IV W FLAT TERM 2000A LOWER”. Keep t
 - Available previews: 2 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001252R0440.stp revision - for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9)
+
+- 1SDH001252R0440.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0440.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0439.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0439.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0440.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0440.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0440&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9/242e13ba06fdd2fd500e-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 242e13ba06fdd2fd500ebb66c7f944fa4f2fdbf646771b3625e508a388a9c31e
 - Original bytes: 1454884
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0439.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0439&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-e2-3-iv-w-flat-term-2000a-lower-17b0f6cab9/c3304a94ba0031aa5a54-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c3304a94ba0031aa5a547ded886c0c5ee255514c095ea7d9ce85541d10ad9abd
 - Original bytes: 1456260

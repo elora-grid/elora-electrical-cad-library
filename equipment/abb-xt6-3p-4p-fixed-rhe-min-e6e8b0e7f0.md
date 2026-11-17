@@ -30,7 +30,7 @@ The supplied configuration is “XT6 3p 4p Fixed RHE min”. Keep those frame, m
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -70,6 +70,14 @@ Use 1SDH002065A1255.stp revision B for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-3p-4p-fixed-rhe-min-e6e8b0e7f0)
+
+- 1SDH002065A1255.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1255.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1255.stp
@@ -96,7 +104,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1255.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1255&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-4p-fixed-rhe-min-e6e8b0e7f0/7f48ead691d2357901b1-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7f48ead691d2357901b147e5d056970ba44886681cb2c119df9e4c96e2e3c12b
 - Original bytes: 88788469

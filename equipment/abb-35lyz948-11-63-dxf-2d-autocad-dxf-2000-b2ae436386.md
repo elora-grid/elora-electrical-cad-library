@@ -37,7 +37,7 @@ The supplied configuration is “35LYZ948\_11.63”. Keep those frame, mounting 
 - Available previews: 3 drawing previews; 3 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -113,6 +113,23 @@ Use 35LYZ948\_11.63.dxf revision D for editable DXF drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lyz948-11-63-dxf-2d-autocad-dxf-2000-b2ae436386)
+
+- 35LYZ948\_11.63.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 35LYZ948.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYZ948\_11.63.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYZ948\_13.00.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 35LYZ948\_13.00.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYZ948\_11.13.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYZ948\_11.13.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYZ948\_11.63.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYZ948\_11.63.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYZ948\_13.00.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYZ948\_13.00.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

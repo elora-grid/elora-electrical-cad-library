@@ -31,7 +31,7 @@ The supplied configuration is “XT2 4p FIXED FLANGE MOE”. Keep those frame, m
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp revision A 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-fixed-flange-moe-bd2fc94a15)
+
+- 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0300\_1PA\_001\_00\_XT2\_4P\_FIXED\_MOSTRINA\_MOE.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0300&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-flange-moe-bd2fc94a15/6c9d58ab7c4c04032255-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 6c9d58ab7c4c04032255dd8be518efbe785fa6f284b8b0e0533409a24dac0da7
 - Original bytes: 22091

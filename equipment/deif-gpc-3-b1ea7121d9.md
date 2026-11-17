@@ -31,7 +31,7 @@ Manufacturer reference application-notes-interfacing-deif-equipment-4189340670-f
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,16 @@ Use application-notes-interfacing-deif-equipment-4189340670-fr.pdf to read the o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-gpc-3-b1ea7121d9)
+
+- application-notes-interfacing-deif-equipment-4189340670-fr.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- option-h6-cummins-gcs-communication-4189340698-uk.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- ml-2-2d-cad-drawings.zip: public (official\_source); delivered format ZIP, contained formats not recorded.
+- option-m15-ea-erweiterungskarten-4x-4-20-ma-eing-4189340542d-de.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

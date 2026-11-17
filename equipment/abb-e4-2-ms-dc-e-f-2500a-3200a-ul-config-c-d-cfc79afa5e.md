@@ -30,7 +30,7 @@ The supplied configuration is “E4.2 MS/DC-E F 2500A-3200A UL config.C&D”. Ke
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,14 @@ Use 1SDH001001R0310.dxf revision B for editable DXF drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-ms-dc-e-f-2500a-3200a-ul-config-c-d-cfc79afa5e)
+
+- 1SDH001001R0310.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 1SDH001001R0310.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ The supplied configuration is “TruCONTROL2.0 Schema elettrico”. Keep those f
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dwg revision A 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-trucontrol2-0-schema-elettrico-b6d5cdff7a)
+
+- 1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SDM000101A1001\_it\_DWG\_A\_TruCONTROL2.0\_Circuit\_diagram.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDM000101A1001&LanguageCode=it&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-trucontrol2-0-schema-elettrico-b6d5cdff7a/bf4cef923eb8dc93b8b2-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: bf4cef923eb8dc93b8b2ac5888b7209ad51aeefaeec449a095f2dda389b95ea2
 - Original bytes: 1511173

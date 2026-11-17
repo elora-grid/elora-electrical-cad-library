@@ -28,7 +28,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -63,6 +63,16 @@ Available here: DWG, DXF, STP. The individual filenames above distinguish the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/europe-lovato-rgk400sa)
+
+- 2d\_RGK400SA.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2d\_RGK400SA.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 3d\_RGK400SA.stp: public (public\_original); delivered format STP, contained formats STEP.
+- 2D\_STGE\_008.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2d\_RGK400SA.dwg
@@ -90,7 +100,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2d\_RGK400SA.dwg).
 - [Official source](https://catalogue.lovatoelectric.com/gb_en/Product/GetDocument?doc=CAD%5C2D%20Drawings%5C2d_RGK400SA.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/europe-lovato-rgk400sa/europe-lovato-rgk400sa-6f1c41697927-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 21ba74e2dad6b2ebd11ffb7339c67e581efcfad749f97609be51e1743ce8e55e
 - Original bytes: 81148

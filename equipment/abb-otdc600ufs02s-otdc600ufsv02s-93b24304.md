@@ -29,7 +29,7 @@ Original DWG drawing for OTDC600UFS02S, OTDC600UFSV02S; ABB document 1SCC307777F
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,14 @@ Use otdc600ufs\_02s\_1SCC307777F0201.dwg for OTDC600UFS02S, OTDC600UFSV02S. DWG 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc600ufs02s-otdc600ufsv02s-93b24304)
+
+- otdc600ufs\_02s\_1SCC307777F0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- otdc600ufs\_02s\_1SCC307777F0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### otdc600ufs\_02s\_1SCC307777F0201.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (otdc600ufs\_02s\_1SCC307777F0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307777F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdc600ufs02s-otdc600ufsv02s-93b24304/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: aa8fb3bc587580606ce9e6b63459769af4a6cfc5119b3eb6e41eabb63ddb7f0e
 - Original bytes: 1869841

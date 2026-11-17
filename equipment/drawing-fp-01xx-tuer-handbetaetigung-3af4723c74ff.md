@@ -26,7 +26,7 @@ The acquired source archive contains ENYSTAR\_Tueren/Handbetaetigung/FP\_01xx\_T
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -97,6 +97,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 019b48c98f9a8eb57edd4f024c763a323f88427164157326d02d5b3fd88304c0
 - Containing archive SHA-256: 121a049909039cf740e36fdefaffeeb50804718738ebbdc8430e7a9e42b2a836
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/ENYSTAR_gesamt.ZIP)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-fp-01xx-tuer-handbetaetigung-3af4723c74ff)
+
+- ENYSTAR\_gesamt.ZIP: public (official\_source); delivered format ZIP, contained formats STEP.
+- ENYSTAR\_Tueren.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -32,7 +32,7 @@ Use the manufacturer configuration named Multi 9 PRD1 75r 1P T1 347V 10kA 420V S
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use MCADFD0002503\_2D-front.dxf (revision 1.0) to insert the supplied editable d
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-multi-9-prd1-75r-1p-t1-347v-10ka-420v-surge-protective-device-57588a4d59)
+
+- MCADFD0002503\_2D-front.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- MCADFD0002503\_3D-simplified.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

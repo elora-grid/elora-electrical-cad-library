@@ -30,7 +30,7 @@ The supplied configuration is “XT7 III-IV withdrawable version with Extended t
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 2TFH001053A1001\_XT7\_III\_IV\_withdrawable\_version\_with\_Extended\_transm
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-iii-iv-withdrawable-version-with-extended-transmitted-rotary-handle-rhe-2af10644f7)
+
+- 2TFH001053A1001\_XT7\_III\_IV\_withdrawable\_version\_with\_Extended\_transmitted\_rotary\_handle\_\_RHE\_.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

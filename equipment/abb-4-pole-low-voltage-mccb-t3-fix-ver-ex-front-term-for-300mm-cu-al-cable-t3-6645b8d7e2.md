@@ -30,7 +30,7 @@ The supplied configuration is “4 Pole low voltage MCCB -T3 - Fix. ver. ex. fro
 - Available previews: 1 drawing previews
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ Use ITSCE\_RH0013111.dxf revision E for editable DXF drawing geometry. Keep its 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-4-pole-low-voltage-mccb-t3-fix-ver-ex-front-term-for-300mm-cu-al-cable-t3-6645b8d7e2)
+
+- ITSCE\_RH0013111.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

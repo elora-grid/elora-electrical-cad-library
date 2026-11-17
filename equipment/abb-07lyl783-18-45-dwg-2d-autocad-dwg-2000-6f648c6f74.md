@@ -30,11 +30,11 @@ The supplied configuration is “07LYL783\_18.45.”. Keep those frame, mounting
 - Drawing views (07LYL783.pdf, page 1): drive end detail
 - Manufacturer reference: 07LYL783
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -95,6 +95,19 @@ Use 07LYL783\_18.45..dwg revision C for editable DWG drawing geometry. Keep its 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-07lyl783-18-45-dwg-2d-autocad-dwg-2000-6f648c6f74)
+
+- 07LYL783\_18.45..dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 07LYL783\_18.45..dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 07LYL783.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 07LYL783\_18.45..igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 07LYL783\_18.45..sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 07LYL783\_18.45..sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 07LYL783\_18.45..dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 07LYL783\_18.45..dwg
@@ -121,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (07LYL783\_18.45..dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lyl783-18-45-dwg-2d-autocad-dwg-2000-6f648c6f74/fd957752477f1824b4a2-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: fd957752477f1824b4a2f6e7dfe37899d9bccb5debffe9149ca17b25bfc77234
 - Original bytes: 1090677
@@ -210,5 +223,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 2629054 bytes
 - Delivery SHA-256: 7a098c55059c584f3dca3df9381d828c604dca84613c3d97760f85ebf5497bc1
+
+### 07LYL783\_18.45..dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 07LYL783\_18.45., revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYL783_18.45.&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -34,7 +34,7 @@ The supplied configuration is “E6.2/E6.3 IV FS W FLAT TERM 6300A LOWER”. Kee
 - Available previews: 2 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001252R0456.stp revision - for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e6-3-iv-fs-w-flat-term-6300a-lower-6da3d4502f)
+
+- 1SDH001252R0456.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0456.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SDH001252R0455.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0455.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0456.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0456.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0456&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iv-fs-w-flat-term-6300a-lower-6da3d4502f/9c2ed654ce5a8a9ce14f-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9c2ed654ce5a8a9ce14f5b812114b4c028e7e47dbbccbdd3a82731c4806d38af
 - Original bytes: 3024386
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0455.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0455&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iv-fs-w-flat-term-6300a-lower-6da3d4502f/1aa76ee8c11f472273fe-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 1aa76ee8c11f472273feaba6cb5364c81893c28208e3ec5f8a32ab301359bc05
 - Original bytes: 3024151

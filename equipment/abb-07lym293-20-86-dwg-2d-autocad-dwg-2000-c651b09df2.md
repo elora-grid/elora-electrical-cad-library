@@ -30,11 +30,11 @@ The supplied configuration is “07LYM293\_20.86”. Keep those frame, mounting 
 - Motor drawing designation (07LYM293): STD HORZ 213-5TC TENV V\*S MASTER VECTOR W/ BEI HS35
 - Manufacturer reference: 07LYM293
 - Listed file formats: DWG, PDF, SLDPRT, STEP, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -92,6 +92,18 @@ Use 07LYM293\_20.86.dwg revision B for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-07lym293-20-86-dwg-2d-autocad-dwg-2000-c651b09df2)
+
+- 07LYM293\_20.86.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 07LYM293\_20.86.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 07LYM293.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 07LYM293\_20.86.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 07LYM293\_20.86.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 07LYM293\_20.86.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -189,5 +201,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYM293_20.86&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; SLDPRT; 1920006 bytes
 - Delivery SHA-256: e4d3261921a54372cb0161782db3f5af5362c9663b15ed9ff9e33f63a3a96c1c
+
+### 07LYM293\_20.86.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 07LYM293\_20.86, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYM293_20.86&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

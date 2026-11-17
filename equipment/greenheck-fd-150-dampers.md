@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,14 @@ Available here: DWG, DXF. The individual filenames above distinguish the supplie
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-fd-150-dampers)
+
+- DFD\_FD\_150\_AND\_350\_MODEL.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- DFD\_FD\_150\_AND\_350\_MODEL.dxf: review_required (conversion\_access\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### DFD\_FD\_150\_AND\_350\_MODEL.dwg
@@ -89,7 +97,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (DFD\_FD\_150\_AND\_350\_MODEL.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/DFD_FD_150_AND_350_MODEL.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-fd-150-dampers/greenheck-dfd-fd-150-and-350-model-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 60af38ba3fdf8f40f8be466b61b2c84d0c0308a99ea9abd416251dfe3a0e4f99
 - Original bytes: 64772

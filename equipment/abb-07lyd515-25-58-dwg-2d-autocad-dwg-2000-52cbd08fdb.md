@@ -29,11 +29,11 @@ The supplied configuration is “07LYD515\_25.58”. Keep those frame, mounting 
 - Motor drawing designation (07LYD515): STD HORZ 213-5TC TEBC 307M INVERTER/VECTOR (THRU-SHAFT ENC)
 - Manufacturer reference: 07LYD515
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -92,6 +92,19 @@ Use 07LYD515\_25.58.dwg revision B for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-07lyd515-25-58-dwg-2d-autocad-dwg-2000-52cbd08fdb)
+
+- 07LYD515\_25.58.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 07LYD515\_25.58.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 07LYD515.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 07LYD515\_25.58.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 07LYD515\_25.58.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 07LYD515\_25.58.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 07LYD515\_25.58.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 07LYD515\_25.58.dwg
@@ -118,7 +131,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (07LYD515\_25.58.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-07lyd515-25-58-dwg-2d-autocad-dwg-2000-52cbd08fdb/fa521ef6b089b8784d6f-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: fa521ef6b089b8784d6ffc60a12c4fd8f924f9d6af77d1f9c9c8e0af2f9c8e14
 - Original bytes: 3097430
@@ -207,5 +220,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=B)
 - Delivery: original; SLDPRT; 7756244 bytes
 - Delivery SHA-256: e14db47687400cc36469b5b01b08010617b413f7d0a3f2f3bfa2c94d14005124
+
+### 07LYD515\_25.58.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 07LYD515\_25.58, revision B. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=07LYD515_25.58&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=B)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: B
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

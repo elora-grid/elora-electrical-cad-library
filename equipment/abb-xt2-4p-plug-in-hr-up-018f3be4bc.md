@@ -34,7 +34,7 @@ The supplied configuration is “XT2 4p PLUG-IN HR UP”. Keep those frame, moun
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001295R0331\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_HR\_SUP.stp revision A for
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-plug-in-hr-up-018f3be4bc)
+
+- 1SDH001295R0331\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_HR\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0331\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_HR\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0373\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_HR\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0373\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_HR\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0331\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_HR\_SUP.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0331\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_HR\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0331&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-hr-up-018f3be4bc/0a36943f01dd06ddade4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0a36943f01dd06ddade42c30694ac140fd34710b0697195ac97af9917ff9dfb4
 - Original bytes: 93982
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0373\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_HR\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0373&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-hr-up-018f3be4bc/c466b1670044f6fde55d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c466b1670044f6fde55d064913d4c7dc6b5b82ed90126912ac5e7fcd86273f9e
 - Original bytes: 93992

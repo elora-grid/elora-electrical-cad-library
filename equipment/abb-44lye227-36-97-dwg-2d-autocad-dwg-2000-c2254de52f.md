@@ -29,11 +29,11 @@ The supplied configuration is “44LYE227\_36.97”. Keep those frame, mounting 
 - Drawing views (44LYE227.pdf, page 1): drive end detail
 - Manufacturer reference: 44LYE227
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -92,6 +92,19 @@ Use 44LYE227\_36.97.dwg revision C for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-44lye227-36-97-dwg-2d-autocad-dwg-2000-c2254de52f)
+
+- 44LYE227\_36.97.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 44LYE227\_36.97.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 44LYE227.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 44LYE227\_36.97.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 44LYE227\_36.97.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 44LYE227\_36.97.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 44LYE227\_36.97.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 44LYE227\_36.97.dwg
@@ -118,7 +131,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (44LYE227\_36.97.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=44LYE227_36.97&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-44lye227-36-97-dwg-2d-autocad-dwg-2000-c2254de52f/02bb1c2c643670761e57-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 02bb1c2c643670761e57fe105d024c9e1280443189859ec3be8e84408152a0a0
 - Original bytes: 771385
@@ -207,5 +220,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=44LYE227_36.97&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 3889852 bytes
 - Delivery SHA-256: aef873ce99927e8fe28ddd9d547883edf77272814a5ad82cd6db2a11e2103eb0
+
+### 44LYE227\_36.97.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 44LYE227\_36.97, revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=44LYE227_36.97&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

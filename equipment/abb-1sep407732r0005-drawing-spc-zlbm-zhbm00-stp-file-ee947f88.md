@@ -30,7 +30,7 @@ Original STEP 3D geometry for 1SEP407732R0005\_drawing\_SPC-ZLBM/ZHBM00(STP-file
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,13 @@ Use 9AKK108468A5085.stp for 1SEP407732R0005\_drawing\_SPC-ZLBM/ZHBM00(STP-file).
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-1sep407732r0005-drawing-spc-zlbm-zhbm00-stp-file-ee947f88)
+
+- 9AKK108468A5085.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

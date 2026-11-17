@@ -30,7 +30,7 @@ The supplied configuration is “T4D PV Fixed 4P 1100V - 1500V Jumper 4PS”. Ke
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 1SDH000779R0102\_1DR\_001\_00\_T4D\_PV\_F\_IV\_1100V\_4PS\_Foglio\_1.dxf rev
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t4d-pv-fixed-4p-1100v-1500v-jumper-4ps-9ba5730b6a)
+
+- 1SDH000779R0102\_1DR\_001\_00\_T4D\_PV\_F\_IV\_1100V\_4PS\_Foglio\_1.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ The supplied configuration is “XT5 4p Fixed FCCuAl 1x750kcmil top UL”. Keep 
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 1SDH002065A1965.stp revision A for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-4p-fixed-fccual-1x750kcmil-top-ul-cdbb3686d9)
+
+- 1SDH002065A1965.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1965.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1965.stp
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1965.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1965&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-4p-fixed-fccual-1x750kcmil-top-ul-cdbb3686d9/0a30aa90b9d18db5852a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0a30aa90b9d18db5852adcf32c51f02063cada690521c0989694d3715172e01c
 - Original bytes: 10253960

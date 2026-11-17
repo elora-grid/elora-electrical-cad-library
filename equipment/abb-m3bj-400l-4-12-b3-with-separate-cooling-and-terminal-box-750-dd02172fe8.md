@@ -30,7 +30,7 @@ Keep the terminal-box side, mounting code and accessories stated in “M3BJ 400L
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 3GZF500740-35.pdf revision B to read the original manufacturer sheet and its
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-m3bj-400l-4-12-b3-with-separate-cooling-and-terminal-box-750-dd02172fe8)
+
+- 3GZF500740-35.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 3GZF500740-35.zip: public (public\_original); delivered format ZIP, contained formats IGES.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

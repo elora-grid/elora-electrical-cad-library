@@ -27,7 +27,7 @@ The manufacturer index maps drawing group PSC\_151 to PSC-15124, PSC-15148. Volt
 - Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,15 @@ Available here: STEP, DWG, DXF. The individual filenames above distinguish the s
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/altech-psc-151)
+
+- PSC\_151.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- PSC\_151\_D.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- PSC\_151\_D.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

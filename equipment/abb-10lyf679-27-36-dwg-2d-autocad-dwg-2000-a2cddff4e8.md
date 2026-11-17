@@ -30,11 +30,11 @@ The supplied configuration is “10LYF679\_27.36”. Keep those frame, mounting 
 - Motor drawing designation (10LYF679): HORZ TENV 284-6T VECT W/THRU SH. ENCODER DESIGN & COVER
 - Manufacturer reference: 10LYF679
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -94,6 +94,19 @@ Use 10LYF679\_27.36.dwg revision F for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyf679-27-36-dwg-2d-autocad-dwg-2000-a2cddff4e8)
+
+- 10LYF679\_27.36.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 10LYF679\_27.36.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 10LYF679.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYF679\_27.36.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 10LYF679\_27.36.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 10LYF679\_27.36.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 10LYF679\_27.36.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -210,5 +223,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF679_27.36&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; SLDPRT; 2853888 bytes
 - Delivery SHA-256: e649ec05c1b1502cac27c1c4b0e7a7528a9e20663b3506fcd1ed58b9842227c9
+
+### 10LYF679\_27.36.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 10LYF679\_27.36, revision F. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYF679_27.36&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=F)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: F
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

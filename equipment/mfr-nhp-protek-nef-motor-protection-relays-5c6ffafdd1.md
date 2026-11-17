@@ -28,7 +28,7 @@ Use the manufacturer configuration named Protek NEF motor protection relays.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ NHP-Protek-NEF-motor-protection-relays-2D-DWG-CAD-Block.ZIP is the original NHP 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-protek-nef-motor-protection-relays-5c6ffafdd1)
+
+- NHP-Protek-NEF-motor-protection-relays-2D-DWG-CAD-Block.ZIP: public (public\_original); delivered format ZIP, contained formats DWG, PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

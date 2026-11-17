@@ -30,7 +30,7 @@ The supplied configuration is “DDA204 up to 40A\_2D”. Keep those frame, moun
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use DDA204\_up\_to\_40\_A.dwg revision - for editable DWG drawing geometry. Keep
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-dda204-up-to-40a-2d-ef8c2cac04)
+
+- DDA204\_up\_to\_40\_A.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- DDA204\_up\_to\_40\_A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### DDA204\_up\_to\_40\_A.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (DDA204\_up\_to\_40\_A.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A3989&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-dda204-up-to-40a-2d-ef8c2cac04/ae2b80650d1b5e70b98c-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ae2b80650d1b5e70b98cbdb33a64d4f9fcfd9f792cd404eec2c25a85806ecba4
 - Original bytes: 307627

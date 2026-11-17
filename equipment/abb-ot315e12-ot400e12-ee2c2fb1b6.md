@@ -31,7 +31,7 @@ The supplied configuration is “OT315E12, OT400E12”. Keep those frame, mounti
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -71,6 +71,13 @@ Use 14OT400E12\_1SCC301284F0001.dwg revision - for editable DWG drawing geometry
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ot315e12-ot400e12-ee2c2fb1b6)
+
+- 14OT400E12\_1SCC301284F0001.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

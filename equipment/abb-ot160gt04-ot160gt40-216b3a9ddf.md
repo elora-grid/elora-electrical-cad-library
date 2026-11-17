@@ -31,7 +31,7 @@ The supplied configuration is “OT160GT04\_, OT160GT40”. Keep those frame, mo
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use Z14\_OT160GT4\_A\_1SCC307514F0201.dwg revision A for editable DWG drawing ge
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ot160gt04-ot160gt40-216b3a9ddf)
+
+- Z14\_OT160GT4\_A\_1SCC307514F0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Z14\_OT160GT4\_A\_1SCC307514F0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Z14\_OT160GT4\_A\_1SCC307514F0201.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Z14\_OT160GT4\_A\_1SCC307514F0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307514F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot160gt04-ot160gt40-216b3a9ddf/0c3da12a024c784c31c6-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0c3da12a024c784c31c69f5de60cc543a95cfe7f2c06e0d1e1933bfb64fda999
 - Original bytes: 283552

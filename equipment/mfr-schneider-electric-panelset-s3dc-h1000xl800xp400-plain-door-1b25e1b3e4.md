@@ -31,7 +31,7 @@ Use the manufacturer configuration named PanelSeT S3DC - H1000xL800xP400 plain d
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: V0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -85,6 +85,14 @@ Use NSYS3DC10840\_2D-front.dxf (revision V0) to insert the supplied editable dra
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-panelset-s3dc-h1000xl800xp400-plain-door-1b25e1b3e4)
+
+- NSYS3DC10840\_2D-front.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- NSYS3DC10840\_3D-simplified.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

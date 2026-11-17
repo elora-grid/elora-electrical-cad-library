@@ -31,7 +31,7 @@ The manufacturer lists this file as “CSV 245kV 6-Cycle 120" Phase Spacing Outl
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,13 @@ The manufacturer lists this file as “CSV 245kV 6-Cycle 120" Phase Spacing Outl
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/southern-states-csv-242-kv-120-inch-phase-spacing)
+
+- 68420a0ed4566f17e0ec0896\_CSV 245kV 6-Cycle 120in Phase Spacing Outline Drawing.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

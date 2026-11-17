@@ -31,7 +31,7 @@ The supplied configuration is “XT6 3p Withdrawable 3x2-0…400 Bottom”. Keep
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1289\_XT6\_3p\_Withdrawable\_3x2\_0...400\_Bottom.stp revision A 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-3p-withdrawable-3x2-0-400-bottom-2b731ec689)
+
+- 1SDH002065A1289\_XT6\_3p\_Withdrawable\_3x2\_0...400\_Bottom.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1289\_XT6\_3p\_Withdrawable\_3x2\_0...400\_Bottom.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1289\_XT6\_3p\_Withdrawable\_3x2\_0...400\_Bottom.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1289\_XT6\_3p\_Withdrawable\_3x2\_0...400\_Bottom.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1289&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-withdrawable-3x2-0-400-bottom-2b731ec689/e28275520c01c9af18aa-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e28275520c01c9af18aa66a3aa35eebfe7934fd36cdeec1d5c3d3cffccee3c48
 - Original bytes: 3980282

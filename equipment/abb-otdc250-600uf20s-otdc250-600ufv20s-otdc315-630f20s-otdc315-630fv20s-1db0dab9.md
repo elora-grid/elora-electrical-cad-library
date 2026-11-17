@@ -29,7 +29,7 @@ Original DWG drawing for OTDC250...600UF20S, OTDC250...600UFV20S, OTDC315...630F
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,14 @@ Use otdc250\_630\_f\_20s\_1SCC307773F0201.dwg for OTDC250...600UF20S, OTDC250...
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc250-600uf20s-otdc250-600ufv20s-otdc315-630f20s-otdc315-630fv20s-1db0dab9)
+
+- otdc250\_630\_f\_20s\_1SCC307773F0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- otdc250\_630\_f\_20s\_1SCC307773F0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### otdc250\_630\_f\_20s\_1SCC307773F0201.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (otdc250\_630\_f\_20s\_1SCC307773F0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307773F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdc250-600uf20s-otdc250-600ufv20s-otdc315-630f20s-otdc315-630fv20s-1db0dab9/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: bb7cbc68006945cde137b3e928ce6811adeed965f16b6d7ab5e60f5c967fbf45
 - Original bytes: 1842611

@@ -26,7 +26,7 @@ Each archive may cover several variants. Match original drawing title and model 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -54,6 +54,65 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/fuji-g-twin-series-circuit-breakers)
+
+- BW125JU2.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW125JU3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- EW125JU3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- EW125U3B.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW250EU3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW400E3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- EW400E3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW630+BTJAL3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW800+BTJAL3.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9N0CA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9N0GA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9N0HA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9N0JA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9V0CA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9V0GA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9V0HA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9V0JA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9F0CA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9F0GA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW9F0HA.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- BW50RAGU-2P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW50RAGU-3P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW100EAGU-2P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW100EAGU-3P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BZ6N10D.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BZ6V10D.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW50RAGU-3P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW100EAGU-2P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW100EAGU-3P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW125JAGU-2P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW125JAGU-3P, BW125RAGU-2P, BW125RAGU-3P (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW125JAGU-3P, BW125RAGU-2P, BW125RAGU-3P (STEP)\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW125JAGU-3P, BW125RAGU-2P, BW125RAGU-3P (STEP)\_1.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9N0CA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9V0CA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW250EAGU, BW250JAGU, BW250RAGU (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9N0GA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9V0GA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW125JAGU, EW125RAGU (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW125JAGU, EW125RAGU (STEP)\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW250JAGU, EW250RAGU (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW250JAGU, EW250RAGU (STEP)\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW400EAGU, BW400SAGU, BW400RAGU, BW400HAGU (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW400EAGU-3P.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9N0HA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9V0HA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW400RAGU-3P.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW400SAGU, EW400RAGU, EW400HAGU (STEP).zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW630RAGU\_HAGU\_3P.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW630RAGU.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- EW630RAGU-3P.zip: public (official\_source); delivered format ZIP, contained formats IGES, PDF, STEP.
+- BW9N0JA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- BW9V0JA\_0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ The supplied configuration is “T7D - T7DM PV Fixed 4P 1100V 2+2 FC”. Keep th
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 1SDH001002R0100\_1DR\_001\_00\_T7D\_T7DM\_PV\_F\_IV\_1100V\_22\_US\_F\_FCCuA
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t7d-t7dm-pv-fixed-4p-1100v-2-2-fc-a8ae82ca38)
+
+- 1SDH001002R0100\_1DR\_001\_00\_T7D\_T7DM\_PV\_F\_IV\_1100V\_22\_US\_F\_FCCuAl\_Foglio\_1.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -29,7 +29,7 @@ Original DWG drawing for OTDC250...400UFS20S, OTDC250...400UFSV20S; ABB document
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,14 @@ Use otdc250\_400ufs\_20s\_1SCC307767F0201.dwg for OTDC250...400UFS20S, OTDC250..
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc250-400ufs20s-otdc250-400ufsv20s-de31e02f)
+
+- otdc250\_400ufs\_20s\_1SCC307767F0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- otdc250\_400ufs\_20s\_1SCC307767F0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### otdc250\_400ufs\_20s\_1SCC307767F0201.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (otdc250\_400ufs\_20s\_1SCC307767F0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307767F0201&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdc250-400ufs20s-otdc250-400ufsv20s-de31e02f/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a8f5d724be9c4f743d12fc09cec1c72239552b67b898f259c752dd55a49c8123
 - Original bytes: 1837104

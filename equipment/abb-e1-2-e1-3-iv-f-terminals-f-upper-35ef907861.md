@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E1.2/E1.3 IV F TER
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001252R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER.stp revision
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861)
+
+- 1SDH001252R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001336R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER\_UL.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER\_UL.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0053&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861/2eaa5a33f96198db3da8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2eaa5a33f96198db3da869a11a1c24c9dde51e60fdf8bb68d5625e260fcaadb8
 - Original bytes: 558470
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0053\_1PA\_001\_00\_E1.2\_IV\_F\_TERMINALS\_F\_UPPER\_UL.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0053&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e1-2-e1-3-iv-f-terminals-f-upper-35ef907861/43d6916c0fa9eda4d146-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 43d6916c0fa9eda4d1461cfb835c96535362389b82bc684ddff67515a4fe62b8
 - Original bytes: 558426

@@ -34,7 +34,7 @@ UL 2D FORMULA A2 3pole drawing
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -90,6 +90,16 @@ Use D 2201 9000-07.DWG.dwg to insert the supplied editable drawing into your lay
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-ul-a2-3pole-circuit-breaker-27e80b4428)
+
+- D 2201 9000-07.DWG.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- D 2201 9000-07.DWG.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- UL\_A2\_3POLE\_F.IGS.igs: public (public\_original); delivered format ZIP, contained formats IGES.
+- D 2201 9000-07.PDF.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### D 2201 9000-07.DWG.dwg
@@ -116,7 +126,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (D 2201 9000-07.DWG.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=D%202201%209000-07.DWG&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ul-a2-3pole-circuit-breaker-27e80b4428/abb-8d27dd863bf121c73dce-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e7f7522e503f8e3adb89bd9516198ada09e3bbfe69a5106c1d3fe5a8072ab277
 - Original bytes: 2336576

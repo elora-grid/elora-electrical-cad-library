@@ -36,7 +36,7 @@ The supplied configuration is “XT2 4p FIXED PS 25mm UP”. Keep those frame, m
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -96,6 +96,18 @@ Use 1SDH001295R0308\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_25mm\_SUP.stp revision A 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469)
+
+- 1SDH001295R0308\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_25mm\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0308\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_25mm\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0351\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_25mm\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0351\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_25mm\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0394\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_25mm\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0394\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_25mm\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0308\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_25mm\_SUP.stp
@@ -122,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0308\_1PA\_001\_00\_XT2\_4P\_FIXED\_PS\_25mm\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0308&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469/96eb72bd4aa2ce6fb5c9-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 96eb72bd4aa2ce6fb5c9001a4bd6b495d414fc98b3d9f5a77bb37220318d2e53
 - Original bytes: 74278
@@ -160,7 +172,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0351\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_25mm\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0351&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469/54ff1811393a1fe70edd-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 54ff1811393a1fe70eddd1aad58261426d0d05f102140f76c08c43a893598953
 - Original bytes: 74291
@@ -198,7 +210,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0394\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_25mm\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0394&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-fixed-ps-25mm-up-86b4d2f469/2a99a372ce19b350c4c8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2a99a372ce19b350c4c886f84eb295032f0b4ce5e9c1093536f755ac3ac39df3
 - Original bytes: 74301

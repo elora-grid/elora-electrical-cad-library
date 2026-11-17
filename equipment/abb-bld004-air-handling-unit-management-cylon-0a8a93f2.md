@@ -29,7 +29,7 @@ Original DWG drawing for BLD004\_Air Handling Unit Management (Cylon); ABB docum
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -74,6 +74,14 @@ Use BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dwg for BLD004\_Air Han
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-bld004-air-handling-unit-management-cylon-0a8a93f2)
+
+- BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (BLD004\_Gestione\_unit\_trattamento\_aria\_\_Cylon\_.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108471A3654&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-bld004-air-handling-unit-management-cylon-0a8a93f2/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 4f3e7895169d6687a5fb28274231d38f12ead8c2f7fd9704bf206a4d037f0270
 - Original bytes: 1697610

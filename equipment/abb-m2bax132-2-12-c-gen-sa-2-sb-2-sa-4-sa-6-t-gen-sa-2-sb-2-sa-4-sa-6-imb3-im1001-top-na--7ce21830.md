@@ -29,7 +29,7 @@ Original PDF drawing for M2BAX132 2-12 (C-gen) SA 2,SB 2,SA 4,SA 6;(T-gen) SA 2,
 - Available previews: 1 drawing previews
 - Recorded revisions: D
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -73,6 +73,13 @@ Use 3GZC500013-40.pdf for M2BAX132 2-12 (C-gen) SA 2,SB 2,SA 4,SA 6;(T-gen) SA 2
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-m2bax132-2-12-c-gen-sa-2-sb-2-sa-4-sa-6-t-gen-sa-2-sb-2-sa-4-sa-6-imb3-im1001-top-na--7ce21830)
+
+- 3GZC500013-40.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

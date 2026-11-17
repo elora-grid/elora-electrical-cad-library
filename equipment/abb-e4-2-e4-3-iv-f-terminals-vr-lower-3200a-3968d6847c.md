@@ -38,7 +38,7 @@ This reference covers the connection or accessory named in “E4.2/E4.3 IV F TER
 - Available previews: 4 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -107,6 +107,20 @@ Use 1SDH001252R0207\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_LOWER\_3200A.stp 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-e4-3-iv-f-terminals-vr-lower-3200a-3968d6847c)
+
+- 1SDH001252R0207\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_LOWER\_3200A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0207\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_LOWER\_3200A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0209\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_UPPER\_3200A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0209\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_UPPER\_3200A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0219\_1PA\_001\_00\_E4.2\_IV\_W\_TERMINALS\_VR\_LOWER\_3200A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0219\_1PA\_001\_00\_E4.2\_IV\_W\_TERMINALS\_VR\_LOWER\_3200A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0221\_1PA\_001\_00\_E4.2\_IV\_W\_TERMINALS\_VR\_UPPER\_3200A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0221\_1PA\_001\_00\_E4.2\_IV\_W\_TERMINALS\_VR\_UPPER\_3200A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0207\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_LOWER\_3200A.stp
@@ -133,7 +147,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0207\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_LOWER\_3200A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0207&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-f-terminals-vr-lower-3200a-3968d6847c/20cd766ab6af5b0f439d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 20cd766ab6af5b0f439d6464ecb71d06c3a28ed817c79714d35531b7e9fa6992
 - Original bytes: 731847
@@ -171,7 +185,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0209\_1PA\_001\_01\_E4.2\_IV\_F\_TERMINALS\_VR\_UPPER\_3200A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0209&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-f-terminals-vr-lower-3200a-3968d6847c/c94765c89945d71dd4a6-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c94765c89945d71dd4a64ebfa76fb7af94f7c197faf106a7c18b5cfb81f339d6
 - Original bytes: 732601
@@ -209,7 +223,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0219\_1PA\_001\_00\_E4.2\_IV\_W\_TERMINALS\_VR\_LOWER\_3200A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0219&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-f-terminals-vr-lower-3200a-3968d6847c/ef1eb4ba156a010d71d0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ef1eb4ba156a010d71d058707c2aaa1d87c581f41a6599a827cb8459efa68060
 - Original bytes: 731490
@@ -247,7 +261,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0221\_1PA\_001\_00\_E4.2\_IV\_W\_TERMINALS\_VR\_UPPER\_3200A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0221&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iv-f-terminals-vr-lower-3200a-3968d6847c/afc255c7acca7796afb0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: afc255c7acca7796afb09b77de038d0782c12251e628dda10ca2577d7f4fecef
 - Original bytes: 732601

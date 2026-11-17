@@ -28,7 +28,7 @@ Use the manufacturer configuration named Sprecher and Schuh Contactors CA5 CA6 C
 - Available previews: 16 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ Sprecher-and-Schuh-Contactors-CA5-CA6-CA7-CA8-2D-CAD-Blocks-CAD-Block.zip is the
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-sprecher-schuh-sprecher-and-schuh-contactors-ca5-ca6-ca7-ca8-9cc47abcbc)
+
+- Sprecher-and-Schuh-Contactors-CA5-CA6-CA7-CA8-2D-CAD-Blocks-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

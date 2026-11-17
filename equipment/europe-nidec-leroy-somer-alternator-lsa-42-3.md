@@ -27,7 +27,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -55,6 +55,82 @@ Available here: DWG, DXF. The individual filenames above distinguish the supplie
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/europe-nidec-leroy-somer-alternator-lsa-42-3)
+
+- lsa423-8-097a.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- lsa423-8-004a.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- lsa423-8-053a.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- lsa423-8-052a.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- lsa423-8-030c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-029c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-028c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-207\_a.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-033d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-032d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-031d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-024c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-023c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-022c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-027d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-026d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-025d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-063e.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-013b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-010b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-014b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-066e.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-012c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-011c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-015c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-064\_e.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- LSA423-8-008\_c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-002b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-003b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-067\_e.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-001\_c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-001c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-009c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-061c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-056b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-054b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-059b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-058b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-057b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-055b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-062e.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-018b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-017b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-016b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-065f.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-021c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-020c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-019c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-157\_b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-036c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-035c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-034c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-098c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-039\_d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-038d.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-037e.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-048c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-047c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-046c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-051c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-050c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-049c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-156\_b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-042c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-041c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-040c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-045c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-044c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-043c.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- lsa423-8-157\_b.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

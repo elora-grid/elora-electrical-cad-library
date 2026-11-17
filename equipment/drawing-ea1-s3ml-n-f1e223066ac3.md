@@ -26,7 +26,7 @@ The verified native member is Operator Interface/Cmore Micro Graphic/EA1-S3ML-N.
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -114,6 +114,16 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 92f84b48fd70efce51d0929b228389baa2c92890db9d2ebe2eff2734e6c83838
 - Containing archive SHA-256: 188e2ffbfe4636d266408b36fe3594903c6aca9d549185122aa4a6932b46c7ee
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/cmore_micro.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-ea1-s3ml-n-f1e223066ac3)
+
+- cmore\_micro.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- cmore\_micro.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- cmore\_micro.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- cmore\_micro.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

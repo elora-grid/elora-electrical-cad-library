@@ -30,11 +30,11 @@ The supplied configuration is “06LYF551\_17.21”. Keep those frame, mounting 
 - Motor drawing designation (06LYF551): STD HORZ 182-4TC TENV INVERTER (THRU-SHAFT ENCODER)
 - Manufacturer reference: 06LYF551
 - Listed file formats: DWG, PDF, SLDPRT, STEP, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -92,6 +92,18 @@ Use 06LYF551\_17.21.dwg revision F for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-06lyf551-17-21-dwg-2d-autocad-dwg-5332ae45df)
+
+- 06LYF551\_17.21.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 06LYF551\_17.21.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 06LYF551.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 06LYF551\_17.21.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 06LYF551\_17.21.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 06LYF551\_17.21.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -189,5 +201,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYF551_17.21&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=F)
 - Delivery: original; SLDPRT; 2326528 bytes
 - Delivery SHA-256: afe960267ddb81316f49d0c943832663a8328324fbd301bdf975ebf7018daa92
+
+### 06LYF551\_17.21.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 06LYF551\_17.21, revision F. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYF551_17.21&LanguageCode=en&DocumentPartId=dxf&Action=Launch&DocumentRevisionId=F)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: F
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

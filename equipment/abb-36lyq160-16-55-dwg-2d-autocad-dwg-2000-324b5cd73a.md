@@ -32,11 +32,11 @@ The supplied configuration is “36LYQ160\_16.55”. Keep those frame, mounting 
 - Manufacturer reference: 36LYQ160\_18.05; 36LYQ160
 - Manufacturer reference: 36LYQ160
 - Listed file formats: DWG, IGS, PDF, SAT, STEP, DXF
-- Listed files: 9
+- Listed files: 11
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -103,6 +103,23 @@ Use 36LYQ160\_16.55.dwg revision A for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-36lyq160-16-55-dwg-2d-autocad-dwg-2000-324b5cd73a)
+
+- 36LYQ160\_16.55.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYQ160\_16.55.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 36LYQ160.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 36LYQ160\_16.55.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 36LYQ160\_18.05.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYQ160\_18.05.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 36LYQ160\_16.55.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYQ160\_18.05.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 36LYQ160\_18.05.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYQ160\_16.55.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+- 36LYQ160\_18.05.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -206,7 +223,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (36LYQ160\_18.05.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-36lyq160-16-55-dwg-2d-autocad-dwg-2000-324b5cd73a/d03ab10de15447350d8a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d03ab10de15447350d8a5f1ee4600e41aa9ed9fe15af2166e74453e16291d3da
 - Original bytes: 449795
@@ -276,5 +293,29 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=sat&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; SAT; 3390074 bytes
 - Delivery SHA-256: c92c31882ce932684d7c4dfbe3949e44937031727455d5b96f87773ae3162b42
+
+### 36LYQ160\_16.55.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 36LYQ160\_16.55, revision A. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_16.55&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: A
+- Retrieved: Not acquired
+
+### 36LYQ160\_18.05.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 36LYQ160\_18.05, revision A. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=36LYQ160_18.05&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: A
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

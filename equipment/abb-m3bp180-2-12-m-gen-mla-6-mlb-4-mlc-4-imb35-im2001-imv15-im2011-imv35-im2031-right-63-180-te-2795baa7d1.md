@@ -30,7 +30,7 @@ Keep the terminal-box side, mounting code and accessories stated in “M3BP180 2
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -70,6 +70,13 @@ ABB reference 3GZF500018-1235. The file list retains the original source and rec
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-m3bp180-2-12-m-gen-mla-6-mlb-4-mlc-4-imb35-im2001-imv15-im2011-imv35-im2031-right-63-180-te-2795baa7d1)
+
+- 3GZF500018-1235.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

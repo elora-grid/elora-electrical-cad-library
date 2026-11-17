@@ -29,7 +29,7 @@ Original DXF drawing for OTDC630...800EPP22, OTDC600UPP22; ABB document 1SCC3074
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -74,6 +74,13 @@ Use 1SCC307453F0001.dxf for OTDC630...800EPP22, OTDC600UPP22. DXF is the supplie
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc630-800epp22-otdc600upp22-e988dca3)
+
+- 1SCC307453F0001.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ This reference covers the connection or accessory named in “T2, 3 Pole plugin 
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,14 @@ Use T2\_3Pole\_plugin\_front\_terminals.dwg revision - for editable DWG drawing 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t2-3-pole-plugin-front-terminals-d3b537eadc)
+
+- T2\_3Pole\_plugin\_front\_terminals.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- T2\_3Pole\_plugin\_front\_terminals.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### T2\_3Pole\_plugin\_front\_terminals.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (T2\_3Pole\_plugin\_front\_terminals.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106103A4773&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-t2-3-pole-plugin-front-terminals-d3b537eadc/cb0ec6839bdad777d42c-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: cb0ec6839bdad777d42c600ac4bbd1af361454054f6b670c7e7d42b7af0f9b79
 - Original bytes: 144559

@@ -30,7 +30,7 @@ Manufacturer reference 9AKK2017-106865 identifies this instrumentation or contro
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,14 @@ Use AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dwg revision A for e
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-cad-drawing-dwg-am-s12-1-3d123f36f3)
+
+- AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dwg
@@ -101,7 +109,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (AMS\_121\_CAD\_XX\_V1\_1\_NGL\_9AKK2017\_106865\_Rev\_A.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK2017-106865&LanguageCode=da&LanguageCode=de&LanguageCode=en&LanguageCode=es&LanguageCode=fi&LanguageCode=fr&LanguageCode=it&LanguageCode=nl&LanguageCode=no&LanguageCode=pl&LanguageCode=pt&LanguageCode=ru&LanguageCode=sv&LanguageCode=zh&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-cad-drawing-dwg-am-s12-1-3d123f36f3/afe4cd46fdc0e854b9b8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: afe4cd46fdc0e854b9b8aa0e95dda85dbc156f80b292a6f1b85074a6c84641b4
 - Original bytes: 150875

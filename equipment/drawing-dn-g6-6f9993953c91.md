@@ -26,7 +26,7 @@ The acquired source archive contains Other PLC Products/DINnectors/Ground Termin
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -88,6 +88,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: bb2ce49262fa712a44d950bb83957440c4bbb7336b33684d9feba48f3f1bf4c9
 - Containing archive SHA-256: 62ffc8996c8e69ebf1afd779395e4eaa6b052597283c8b81899e693d1169f884
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/dinnectors.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-dn-g6-6f9993953c91)
+
+- dinnectors.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

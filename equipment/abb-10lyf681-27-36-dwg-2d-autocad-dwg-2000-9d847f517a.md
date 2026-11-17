@@ -29,11 +29,11 @@ The supplied configuration is “10LYF681\_27.36”. Keep those frame, mounting 
 - Motor drawing designation (10LYF681): HORZ TENV 284-6T INV W/THRU SH ENCODER DESIGN & COVER
 - Manufacturer reference: 10LYF681
 - Listed file formats: DWG, PDF, SLDPRT, DXF
-- Listed files: 4
+- Listed files: 5
 - Available previews: 2 drawing previews
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -88,6 +88,17 @@ Use 10LYF681\_27.36.dwg revision E for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-10lyf681-27-36-dwg-2d-autocad-dwg-2000-9d847f517a)
+
+- 10LYF681\_27.36.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 10LYF681\_27.36.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 10LYF681.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 10LYF681\_27.36.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 10LYF681\_27.36.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 10LYF681\_27.36.dwg
@@ -114,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (10LYF681\_27.36.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-10lyf681-27-36-dwg-2d-autocad-dwg-2000-9d847f517a/fd7f79fa096927ccf1d0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: fd7f79fa096927ccf1d03921f0db4378597bc1839afd7edef096e3e19b4ed60e
 - Original bytes: 3485921
@@ -165,5 +176,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; SLDPRT; 7569963 bytes
 - Delivery SHA-256: 6f243adecc26a86f88e5a5dc48f2fb62e8dcfcf3e66926f2af976a2b76bc55e5
+
+### 10LYF681\_27.36.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 10LYF681\_27.36, revision E. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=10LYF681_27.36&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=E)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: E
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

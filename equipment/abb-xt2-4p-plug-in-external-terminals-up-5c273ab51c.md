@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “XT2 4p PLUG-IN EXT
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001295R0355\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_TERMINALI\_ESTERNI\_S.stp 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c)
+
+- 1SDH001295R0355\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_TERMINALI\_ESTERNI\_S.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0355\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_TERMINALI\_ESTERNI\_S.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0401\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_TERMINALI\_ESTE.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0401\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_TERMINALI\_ESTE.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0355\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_TERMINALI\_ESTERNI\_S.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0355\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_TERMINALI\_ESTERNI\_S.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0355&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c/2ae47013f85d28bb25d6-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2ae47013f85d28bb25d64350099f8561cb30e9b528449fdee3487d52955845ba
 - Original bytes: 124762
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0401\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_TERMINALI\_ESTE.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0401&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-external-terminals-up-5c273ab51c/c37e575e9ee8405a1aab-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c37e575e9ee8405a1aaba2a7a994a82db22e936778e629742dcb877c437d5639
 - Original bytes: 124762

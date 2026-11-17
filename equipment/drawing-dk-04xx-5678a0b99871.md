@@ -26,7 +26,7 @@ The acquired source archive contains ENYCASE\_DK\_Gehäuse/DK\_04xx.stp, a 11,24
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -89,6 +89,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 408d08d231ee7a666c33075935748761635306f8fa337ab2cc43063b8ccc16c5
 - Containing archive SHA-256: 62a1168a4e139a64f6bd9e01fc02a9af554c6558b9026124d88799f5d73ab5c4
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/HENSEL_ENYCASE_DK_KF_Gehaeuse.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-dk-04xx-5678a0b99871)
+
+- HENSEL\_ENYCASE\_DK\_KF\_Gehaeuse.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

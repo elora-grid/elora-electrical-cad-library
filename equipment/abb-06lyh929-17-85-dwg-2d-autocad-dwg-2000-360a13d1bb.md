@@ -29,11 +29,11 @@ The supplied configuration is “06LYH929\_17.85”. Keep those frame, mounting 
 - Motor drawing designation (06LYH929): STD HORZ 182-4TC TENV V\*S MASTER VECTOR W/ BEI HS35
 - Manufacturer reference: 06LYH929
 - Listed file formats: DWG, IGS, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 7
+- Listed files: 8
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,20 @@ Use 06LYH929\_17.85.dwg revision C for editable DWG drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-06lyh929-17-85-dwg-2d-autocad-dwg-2000-360a13d1bb)
+
+- 06LYH929\_17.85.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 06LYH929\_17.85.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 06LYH929.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 06LYH929\_17.85.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 06LYH929\_17.85.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 06LYH929\_17.85.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 06LYH929\_17.85.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 06LYH929\_17.85.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -226,5 +240,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYH929_17.85&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 3415552 bytes
 - Delivery SHA-256: aa57d77a675a43b6a75d890f557a4b55dd9b31248336dc7875814640e77f897e
+
+### 06LYH929\_17.85.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 06LYH929\_17.85, revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYH929_17.85&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

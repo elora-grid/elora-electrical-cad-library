@@ -36,7 +36,7 @@ The supplied configuration is “OX\_30U-250\_2O4\_B”. Keep those frame, mount
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -96,6 +96,15 @@ Use OX\_30U\_250\_2O4\_B\_LIGHT.stp revision A for the supplied solid assembly i
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ox-30u-250-2o4-b-ec2cebbda8)
+
+- OX\_30U\_250\_2O4\_B\_LIGHT.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- OX\_30U\_250\_2S4\_B\_LIGHT.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- OX\_30U\_250\_3X4\_B\_LIGHT.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

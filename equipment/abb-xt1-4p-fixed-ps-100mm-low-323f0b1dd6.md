@@ -34,7 +34,7 @@ The supplied configuration is “XT1 4p FIXED PS 100mm LOW”. Keep those frame,
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001295R0097\_1PA\_001\_00\_XT1\_4P\_FIXED\_PS\_100mm\_INF.stp revision A
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt1-4p-fixed-ps-100mm-low-323f0b1dd6)
+
+- 1SDH001295R0097\_1PA\_001\_00\_XT1\_4P\_FIXED\_PS\_100mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0097\_1PA\_001\_00\_XT1\_4P\_FIXED\_PS\_100mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0140\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_PS\_100mmx68mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0140\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_PS\_100mmx68mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0097\_1PA\_001\_00\_XT1\_4P\_FIXED\_PS\_100mm\_INF.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0097\_1PA\_001\_00\_XT1\_4P\_FIXED\_PS\_100mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0097&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-4p-fixed-ps-100mm-low-323f0b1dd6/2c75e0fc3a67efa8cb31-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 2c75e0fc3a67efa8cb3156614cc20a05c24fd7e1015d6bc7f70745c856f442d5
 - Original bytes: 74597
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0140\_1PA\_001\_00\_XT1\_4P\_PLUG\_IN\_PS\_100mmx68mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0140&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt1-4p-fixed-ps-100mm-low-323f0b1dd6/97b5b00ce7e6a128cf35-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 97b5b00ce7e6a128cf35f4b838caaa761419b0ceac929db3e55fd925ac1d4a6f
 - Original bytes: 75090

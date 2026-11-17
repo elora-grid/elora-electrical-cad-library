@@ -31,7 +31,7 @@ The supplied configuration is “XT4 4p WITHDRAWABLE PS 200mm UP”. Keep those 
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.stp rev
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9)
+
+- 1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0786\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PS\_200mm\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0786&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-4p-withdrawable-ps-200mm-up-a26b1f7bb9/cdf1f522154f1e641f47-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: cdf1f522154f1e641f47eefa60ede4f9bf081ec16719c495c918b985cb5e88e8
 - Original bytes: 94069

@@ -26,7 +26,7 @@ The verified native member is Operator Interface/Cmore Accessories/EA-ADPTR-4.dw
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -86,6 +86,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 6159f664547a901543a3fa3a7f154b11776b4e2644b266291cfe4a02b4a119da
 - Containing archive SHA-256: 8599a3704728e864ea2959f2cdf340b62ea07b4c4cd8018826adf8ae6b2e2c54
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/cmore_acc.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-ea-adptr-4-070bf8f4aaeb)
+
+- cmore\_acc.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

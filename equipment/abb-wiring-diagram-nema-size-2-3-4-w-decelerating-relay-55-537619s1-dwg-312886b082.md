@@ -30,7 +30,7 @@ This is an electrical connection reference. Use a separate equipment outline for
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,15 @@ Use 1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-wiring-diagram-nema-size-2-3-4-w-decelerating-relay-55-537619s1-dwg-312886b082)
+
+- 1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W\_\_DECELERATING\_RELAY\_55\_537619S1\_\_DWG.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W\_\_DECELERATING\_RELAY\_55\_537619S1\_\_DWG.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC913920D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W\_\_DECELERATING\_RELAY\_55\_537619S1\_\_DWG.dwg
@@ -102,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC913920D0201\_en\_DWG\_C\_WIRING\_DIAGRAM\_NEMA\_SIZE\_2\_\_3\_\_\_\_4\_W\_\_DECELERATING\_RELAY\_55\_537619S1\_\_DWG.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913920D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-wiring-diagram-nema-size-2-3-4-w-decelerating-relay-55-537619s1-dwg-312886b082/1584c641bd900ed7f2bd-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 1584c641bd900ed7f2bd9e06d42636c9317bf890e608976d4ed9acc2e1e75db7
 - Original bytes: 245006

@@ -30,7 +30,7 @@ This is an electrical connection reference. Use a separate equipment outline for
 - Available previews: 2 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,15 @@ Use 55\_539665S1.dwg revision A for editable DWG drawing geometry. Keep its orig
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-wiring-diagram-nema-plus-enclosure-kit-3-phase-for-use-with-encl-af-starter-with-cpt-55-539-5cac94e39a)
+
+- 55\_539665S1.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 55\_539665S1.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC912744D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 55\_539665S1.dwg
@@ -102,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (55\_539665S1.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912744D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-wiring-diagram-nema-plus-enclosure-kit-3-phase-for-use-with-encl-af-starter-with-cpt-55-539-5cac94e39a/962aa57f0efa34c98eb6-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 962aa57f0efa34c98eb6ebca2fb4f8cb9c7a72c789303f849ca20eb010d97cad
 - Original bytes: 440763

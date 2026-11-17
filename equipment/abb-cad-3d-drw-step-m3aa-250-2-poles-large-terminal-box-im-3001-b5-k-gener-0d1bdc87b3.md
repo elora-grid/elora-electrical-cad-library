@@ -31,7 +31,7 @@ Keep the terminal-box side, mounting code and accessories stated in “CAD 3D Dr
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,13 @@ Use M3AA\_IE3\_250\_2P\_VOLT.CODE\_S\_B5.stp revision - for the supplied solid a
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-cad-3d-drw-step-m3aa-250-2-poles-large-terminal-box-im-3001-b5-k-gener-0d1bdc87b3)
+
+- M3AA\_IE3\_250\_2P\_VOLT.CODE\_S\_B5.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

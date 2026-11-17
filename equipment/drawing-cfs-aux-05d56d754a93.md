@@ -26,7 +26,7 @@ The verified native member is Power Products/Gladiator CFS Series Disconnects/CF
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -89,6 +89,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: c96b550262ddef5a807ec7c355b5a22889f26a6efdfb15ce87623e58626eced5
 - Containing archive SHA-256: d4a824eec535548e1b3516b542563d17bd8c44f8d93aa4f1c097ea224442f4ae
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/cfsdisconnects.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-cfs-aux-05d56d754a93)
+
+- cfsdisconnects.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

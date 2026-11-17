@@ -32,7 +32,7 @@ E1.2 3D Drawing Emax 2
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -86,6 +86,14 @@ Use 1SDH001252R0057.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-e1-2-e1-3-iv-f-terminals-hr-upper-4e631bcbf5)
+
+- 1SDH001252R0057.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0057.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0057.stp
@@ -112,7 +120,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0057.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0057&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-e1-2-e1-3-iv-f-terminals-hr-upper-4e631bcbf5/abb-ba14d46a80956fbbea30-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 334c2a3df7c6d26171617a3dc5e089cbb630e40b751801d8e902f69b2d5fa37d
 - Original bytes: 1132090

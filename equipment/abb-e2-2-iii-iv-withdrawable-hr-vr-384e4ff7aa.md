@@ -30,7 +30,7 @@ The supplied configuration is “E2.2 III-IV Withdrawable HR-VR”. Keep those f
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: D
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,13 @@ Use 1SDH001000R0102\_1DR\_001\_06\_1SDH001000R0102\_1DR\_001\_06\_TN\_E2.2\_W\_I
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-iii-iv-withdrawable-hr-vr-384e4ff7aa)
+
+- 1SDH001000R0102\_1DR\_001\_06\_1SDH001000R0102\_1DR\_001\_06\_TN\_E2.2\_W\_III\_IV\_TERM\_H\_V.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

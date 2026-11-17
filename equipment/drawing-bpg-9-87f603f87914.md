@@ -26,7 +26,7 @@ The exact supplied files are BPG 9.STEP, BPG9.dwg. Use STEP for placing the encl
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -102,6 +102,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 7315d6241e143844b81ed2459e03d64843528c317b5c5851be397e033b1aad2e
 - Containing archive SHA-256: 4908f8d73874a44eaf051107f493df7451e6e4df9ba9c90b9c32b9bd2dfc3d85
 - [Original publisher source](https://www.abtech-inc.com/downloads/127/bpg.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-bpg-9-87f603f87914)
+
+- BPG 9.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- bpg.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

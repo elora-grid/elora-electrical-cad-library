@@ -28,11 +28,11 @@ The supplied configuration is “35LYE2181\_12.23”. Keep those frame, mounting
 - Document revision: C
 - Manufacturer reference: 35LYE2181
 - Listed file formats: DWG, PDF, SAT, SLDPRT, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,18 @@ Use 35LYE2181\_12.23.dwg revision C for editable DWG drawing geometry. Keep its 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lye2181-12-23-dwg-2d-autocad-dwg-2000-f0b718e9df)
+
+- 35LYE2181\_12.23.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYE2181\_12.23.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 35LYE2181.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYE2181\_12.23.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LYE2181\_12.23.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYE2181\_12.23.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 35LYE2181\_12.23.dwg
@@ -113,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (35LYE2181\_12.23.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-35lye2181-12-23-dwg-2d-autocad-dwg-2000-f0b718e9df/f417a1a51e14570ba071-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f417a1a51e14570ba0713fede4b1b69443fd46b26ed25f3f0631b48222d417da
 - Original bytes: 534132
@@ -183,5 +195,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 1431853 bytes
 - Delivery SHA-256: 109a3bce62a67f916cb015601bb7f4537b92afb6a4a41df85524d05fbc02087e
+
+### 35LYE2181\_12.23.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYE2181\_12.23, revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE2181_12.23&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

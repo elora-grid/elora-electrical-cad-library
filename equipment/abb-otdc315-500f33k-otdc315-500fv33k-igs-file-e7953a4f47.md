@@ -30,7 +30,7 @@ The supplied configuration is “OTDC315...500F33K, OTDC315...500FV33K”. Keep 
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -70,6 +70,14 @@ otdc315\_500f33k.igs is advertised as IGS. Its native format needs separate soft
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc315-500f33k-otdc315-500fv33k-igs-file-e7953a4f47)
+
+- otdc315\_500f33k.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- otdc315\_500f33k.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

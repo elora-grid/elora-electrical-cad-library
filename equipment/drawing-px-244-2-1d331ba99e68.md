@@ -26,7 +26,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-244-2.dwg. Its i
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -97,6 +97,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: dec1a97e75d3d93850c3506c4c3f18569d35081d813eb3b9b843368cce2bd111
 - Containing archive SHA-256: ecfac391a72e937ec5e91a111454d6f36c1427e88d7b1c345c9de8c0315f040f
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/pxio.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-px-244-2-1d331ba99e68)
+
+- pxio.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- pxio.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

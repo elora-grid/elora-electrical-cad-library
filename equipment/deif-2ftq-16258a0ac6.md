@@ -35,7 +35,7 @@ Manufacturer reference 2ftq-x-2evq96-x-3d-pdf.pdf; 2ftq-x-2evq96-x-3d-step-file.
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,16 @@ DEIF reference 2ftq-x-2evq96-x-3d-pdf.pdf; 2ftq-x-2evq96-x-3d-step-file.stp; 2ft
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-2ftq-16258a0ac6)
+
+- 2ftq-x-2evq96-x-3d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- 2ftq-x-2evq96-x-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- 2ftq96-x-3d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- 2ftq96-x-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

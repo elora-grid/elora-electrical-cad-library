@@ -26,7 +26,7 @@ Source and family discovery do not imply complete SKU or accessory coverage. Mat
 - Available previews: 1 drawing previews; 2 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -60,6 +60,15 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/audit-pfan-dtfs)
+
+- 3D-models\_STEP\_DTFS.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ePLAN\_Macros\_DTFS.zip: public (public\_original); delivered format ZIP, contained formats not recorded.
+- Cut-out\_DXF\_DTFS60x1.zip: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ The supplied configuration is “DDA202 up to 40A\_2D”. Keep those frame, moun
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 04160596\_\_\_\_\_\_000\_A0\_DDA202\_40A\_\_2D\_DIMENSIONI\_INGOMBRO\_.dwg r
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-dda202-up-to-40a-2d-bd8cde5df9)
+
+- 04160596\_\_\_\_\_\_000\_A0\_DDA202\_40A\_\_2D\_DIMENSIONI\_INGOMBRO\_.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 04160596\_\_\_\_\_\_000\_A0\_DDA202\_40A\_\_2D\_DIMENSIONI\_INGOMBRO\_.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 04160596\_\_\_\_\_\_000\_A0\_DDA202\_40A\_\_2D\_DIMENSIONI\_INGOMBRO\_.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (04160596\_\_\_\_\_\_000\_A0\_DDA202\_40A\_\_2D\_DIMENSIONI\_INGOMBRO\_.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK106930A3984&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-dda202-up-to-40a-2d-bd8cde5df9/e6a1e6f468a5ac301721-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e6a1e6f468a5ac3017217fc2fcd48c5b54eddb7095708831aa305d35d8951631
 - Original bytes: 356051

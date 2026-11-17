@@ -31,7 +31,7 @@ Use the manufacturer configuration named Legend, plastic, yellow, Ø90, for emer
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,14 @@ Use zby8130-3d\_2D-front.DXF (revision 1.0) to insert the supplied editable draw
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-legend-plastic-yellow-90-for-emergency-stop-marked-arret-d-urgence-with-logo-iso13850-52d25964b4)
+
+- zby8130-3d\_2D-front.DXF: public (public\_original); delivered format ZIP, contained formats DXF.
+- zby8130-3d.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

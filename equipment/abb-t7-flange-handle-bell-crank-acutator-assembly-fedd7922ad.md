@@ -30,7 +30,7 @@ The supplied configuration is “T7 Flange Handle, Bell Crank & Acutator Assembl
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use 2tse730003r1091\_REV\_A.dwg revision - for editable DWG drawing geometry. Ke
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t7-flange-handle-bell-crank-acutator-assembly-fedd7922ad)
+
+- 2tse730003r1091\_REV\_A.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 2tse730003r1091\_REV\_A.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 2tse730003r1091\_REV\_A.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (2tse730003r1091\_REV\_A.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=2TSE730003R1091&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-t7-flange-handle-bell-crank-acutator-assembly-fedd7922ad/dcec6842672fd527b1f8-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: dcec6842672fd527b1f86a249f23998ce7d8e653458231b4f3e25bda49ac276e
 - Original bytes: 1572644

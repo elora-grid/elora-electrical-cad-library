@@ -31,7 +31,7 @@ Manufacturer reference ie-150-engine-drive-data-sheet-4921240685-it.pdf; ie-150-
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -69,6 +69,16 @@ Use ie-150-engine-drive-data-sheet-4921240685-it.pdf to read the original manufa
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-ie-150-6cbe1f2f8e)
+
+- ie-150-engine-drive-data-sheet-4921240685-it.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- ie-150-generator-mains-btb-data-sheet-4921240687-cn.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- ie-150-2d-cad-drawing.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- ie-150-3d-step-file.zip: public (official\_source); delivered format ZIP, contained formats not recorded.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

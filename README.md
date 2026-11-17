@@ -4,7 +4,7 @@ Open catalogue of official manufacturer CAD, BIM and electrical engineering draw
 
 **[Search and download CAD on Elora](https://eloragrid.ai/tools/cad-library)** · [Full JSON (gzip)](data/catalogue.json.gz) · [Equipment directory](equipment/README.md) · [Agent guide](docs/agents.md)
 
-The current snapshot contains **56,512 catalogue entries**, **397 manufacturers**, **19 equipment categories**, and **80,875 site download entries** representing **44,692 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
+The current snapshot contains **56,512 catalogue entries**, **397 manufacturers**, **19 equipment categories**, and **78,018 public Elora download entries** representing **44,692 distinct hosted originals**. [Snapshot hashes and counts](data/manifest.json)
 
 ## Find CAD
 
@@ -16,6 +16,8 @@ The current snapshot contains **56,512 catalogue entries**, **397 manufacturers*
 - [Coverage audit](https://eloragrid.ai/tools/cad-library/coverage): collection gaps and acquisition priorities.
 
 The snapshot includes **1175 individually identified drawing entries** and **35627 entries with preview-image links**. Each equipment page links to its exact live Markdown/JSON exports, manufacturer sources and related drawing references.
+
+The feed lists **84,066 files** in total. Artifact decisions are recorded separately: **81,209 public**, **2,122 requiring a CAD account** and **735 requiring review**. A public classification alone does not mean a hosted attachment is available.
 
 Preview images and interactive 3D controls are served by the canonical website. This repository contains metadata, readable explanations and links; no CAD or model binaries.
 
@@ -29,9 +31,9 @@ USA, Australia, UK and Europe have equal research priority. Market tags support 
 
 ## API and MCP access
 
-Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. The agent-access release is deployed separately from this metadata snapshot. If discovery or v1 capabilities is unavailable, use the existing catalogue API below; never guess an MCP URL. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).
+Start with [live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json) for the versioned API contract, capabilities, skills and configured public MCP endpoint. API and MCP use the published catalogue and current artifact access decisions. Connect through the configured endpoint in discovery; never guess an MCP URL. The existing catalogue API remains available for metadata integrations. [API examples](docs/api.md) · [MCP setup](docs/mcp.md).
 
-The v1 workflows find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account after the access rollout, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.
+The [versioned contract](openapi-v1.json) describes workflows that find exact equipment and related files, then select prepared downloads. Read each artifact’s access policy: public originals need no account, while reviewed exclusive conversions require a free CAD account and scoped consent. Downloads do not start a conversion job.
 
 ## Use with an AI agent
 

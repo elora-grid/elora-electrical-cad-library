@@ -26,7 +26,7 @@ Each archive may cover several variants. Match original drawing title and model 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -54,6 +54,26 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/fuji-sc-next-series)
+
+- SC09XA.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC09XG.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC20\_38XA.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC20\_38XG.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC20\_38DA.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC20\_38DG.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC40\_65XA.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC40\_65XG.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SC40\_65XS.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TR18X.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TR38X.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- TR65X.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SCH4XA4P.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- SCH4XG4P.step\_.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

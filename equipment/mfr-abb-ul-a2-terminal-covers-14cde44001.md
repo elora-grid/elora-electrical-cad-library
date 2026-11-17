@@ -31,7 +31,7 @@ UL 2D FORMULA A2 terminal cover drawing
 - Available previews: 2 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -82,6 +82,15 @@ Use D 2201 9000-010.DWG.dwg to insert the supplied editable drawing into your la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-ul-a2-terminal-covers-14cde44001)
+
+- D 2201 9000-010.DWG.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- D 2201 9000-010.DWG.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- D 2201 9000-010.PDF.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### D 2201 9000-010.DWG.dwg
@@ -108,7 +117,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (D 2201 9000-010.DWG.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=D%202201%209000-010.DWG&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ul-a2-terminal-covers-14cde44001/abb-fdf2452bd33b3b5b3d77-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f5651ee131436731a8eb3772ca417dd8775178fdfd84f556eb7d8cca827f583e
 - Original bytes: 115501

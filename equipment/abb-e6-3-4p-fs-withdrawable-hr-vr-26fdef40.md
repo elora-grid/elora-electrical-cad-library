@@ -29,7 +29,7 @@ Original PDF drawing for E6.3 4p FS Withdrawable HR-VR; ABB document 1SDH002310A
 - Available previews: 1 drawing previews
 - Recorded revisions: D
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -74,6 +74,13 @@ Use 1SDH002310A1230\_PDF.pdf for E6.3 4p FS Withdrawable HR-VR. PDF is the suppl
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-3-4p-fs-withdrawable-hr-vr-26fdef40)
+
+- 1SDH002310A1230\_PDF.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

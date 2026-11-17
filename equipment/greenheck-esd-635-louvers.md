@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,15 @@ Available here: ZIP, DWG, DXF. The individual filenames above distinguish the su
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-esd-635-louvers)
+
+- ESD-635\_LOD200.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+- ESD-635\_DETAILS.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ESD-635\_DETAILS.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -117,7 +126,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ESD-635\_DETAILS.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10004/ESD-635_DETAILS.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-esd-635-louvers/greenheck-esd-635-details-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0b325b345d0bb329f8ae8848265e0bab6db86c8ce47d54af66de8f013251db80
 - Original bytes: 222081

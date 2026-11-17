@@ -31,7 +31,7 @@ The supplied configuration is “XT7-XT7M 3P Withdrawable ES top”. Keep those 
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1444\_XT7\_XT7M\_3P\_Withdrawable\_ES\_top\_Rev\_B.stp revision B
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-xt7m-3p-withdrawable-es-top-567cd1c098)
+
+- 1SDH002065A1444\_XT7\_XT7M\_3P\_Withdrawable\_ES\_top\_Rev\_B.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1444\_XT7\_XT7M\_3P\_Withdrawable\_ES\_top\_Rev\_B.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1444\_XT7\_XT7M\_3P\_Withdrawable\_ES\_top\_Rev\_B.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1444\_XT7\_XT7M\_3P\_Withdrawable\_ES\_top\_Rev\_B.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1444&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-withdrawable-es-top-567cd1c098/e5eeca0e804e4405cff1-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e5eeca0e804e4405cff1b10d924026a85fed729cfb36bdb38454f23de6743478
 - Original bytes: 1672539

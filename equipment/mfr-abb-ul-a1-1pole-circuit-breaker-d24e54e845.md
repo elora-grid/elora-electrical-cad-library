@@ -34,7 +34,7 @@ UL 2D FORMULA A1 1pole drawing
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -90,6 +90,16 @@ Use D 2201 9000-02.DWG.dwg to insert the supplied editable drawing into your lay
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-ul-a1-1pole-circuit-breaker-d24e54e845)
+
+- D 2201 9000-02.DWG.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- D 2201 9000-02.DWG.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- UL\_A1\_1POLE\_F.IGS.igs: public (public\_original); delivered format IGES, contained formats IGES.
+- D 2201 9000-02.PDF.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### D 2201 9000-02.DWG.dwg
@@ -116,7 +126,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (D 2201 9000-02.DWG.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=D%202201%209000-02.DWG&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-ul-a1-1pole-circuit-breaker-d24e54e845/abb-4030531b2cba7b855b0b-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d587921d4a6f4fd0f9b0ffe3377ad6f939dd45b21a1d1aec31a24b29c4b918d7
 - Original bytes: 2296544

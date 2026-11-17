@@ -30,7 +30,7 @@ Tipico impianto chiamata ospedaliera con prodotti Clinos
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -81,6 +81,14 @@ Use 9AKK108473A0394.dwg (revision A) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-bld012-hospital-call-system-solution-with-display-srd-no-audio-fe67fcd32a)
+
+- 9AKK108473A0394.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- 9AKK108473A0394.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK108473A0394.dwg
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK108473A0394.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108473A0394&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-bld012-hospital-call-system-solution-with-display-srd-no-audio-fe67fcd32a/abb-ef3b1c404ca5afb77c4a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 3a3bac7cdbb511e65a4eeb160c8e7e891ae6d99aa65093c83a13c7158edb61a2
 - Original bytes: 1241821

@@ -31,7 +31,7 @@ Original PDF drawing for VD4/R - Overall dimensions, VD4/S; ABB document 1VCD000
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -74,6 +74,13 @@ This source-only entry identifies VD4/R - Overall dimensions, VD4/S, manufacture
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-vd4-r-overall-dimensions-vd4-s-d17d1e7a)
+
+- 1VCD000098.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

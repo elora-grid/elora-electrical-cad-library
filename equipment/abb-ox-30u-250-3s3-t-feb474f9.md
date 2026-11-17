@@ -30,7 +30,7 @@ Original STEP 3D geometry for OX\_30U-250\_3S3\_T\_; ABB document OX\_30U-250\_3
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,13 @@ Use ox\_30u\_250\_3s3\_t\_light.stp for OX\_30U-250\_3S3\_T\_. STEP is the suppl
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ox-30u-250-3s3-t-feb474f9)
+
+- ox\_30u\_250\_3s3\_t\_light.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

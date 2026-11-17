@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 12 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,16 @@ Available here: ZIP, DWG, DXF. The individual filenames above distinguish the su
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-usf-fans)
+
+- USF\_LOD200\_AllFiles.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+- USF\_3DCAD\_AllFiles.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- USF-04-1-B2-Arr10-3.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- USF-04-1-B2-Arr10-3.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -167,7 +177,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (USF-04-1-B2-Arr10-3.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10011/USF-04-1-B2-Arr10-3.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-usf-fans/greenheck-usf-04-1-b2-arr10-3-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e03d147d3b15e4d30deb22e72c1495085662f8179d25cd06f795ea92a312cc9e
 - Original bytes: 450871

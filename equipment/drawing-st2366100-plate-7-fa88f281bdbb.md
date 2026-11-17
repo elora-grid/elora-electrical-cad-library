@@ -26,7 +26,7 @@ The verified native member is ST2366100-PLATE-7.DWG. Its identity was checked ag
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -86,6 +86,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: de99cdcd4e0ff645977d69420e7d02716009248760953e438ab3e1af3b179a32
 - Containing archive SHA-256: 66df407897f42cd8023fa332b4437941f998d21b75c8dd453efd2117fdb03c93
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/trappedkey.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-st2366100-plate-7-fa88f281bdbb)
+
+- trappedkey.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

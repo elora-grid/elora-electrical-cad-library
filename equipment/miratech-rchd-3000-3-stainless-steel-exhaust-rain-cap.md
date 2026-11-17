@@ -27,7 +27,7 @@ Choose the exact drawing configuration and revision; related files are not inter
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,14 @@ Available here: DWG, DXF. The individual filenames above distinguish the supplie
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/miratech-rchd-3000-3-stainless-steel-exhaust-rain-cap)
+
+- RCHD-3000-3\_SD\_0.DWG: public (public\_original); delivered format DWG, contained formats DWG.
+- RCHD-3000-3\_SD\_0.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### RCHD-3000-3\_SD\_0.DWG
@@ -88,7 +96,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (RCHD-3000-3\_SD\_0.DWG).
 - [Official source](https://miratechcorp.com/document_library2/Silencers_Accessories/Drawings/Accessory_Sales_Drawings/Rain_Caps/304_Stainless_Steel/RCHD-3000-3_SD_0.DWG)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/miratech-rchd-3000-3-stainless-steel-exhaust-rain-cap/miratech-rchd-3000-3-sd-0-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 70dadeb06d5f6f723a92c4f168dbbd7e58ffaabb1de9e91fea0f99b489187e6f
 - Original bytes: 405229

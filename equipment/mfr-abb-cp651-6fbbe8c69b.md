@@ -30,7 +30,7 @@ CP651 CAD outline drawin
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use CP651-DIS4361-20141216.dwg to insert the supplied editable drawing into your
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-cp651-6fbbe8c69b)
+
+- CP651-DIS4361-20141216.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- CP651-DIS4361-20141216.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### CP651-DIS4361-20141216.dwg
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (CP651-DIS4361-20141216.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=CP651-DIS4361-20141216&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-cp651-6fbbe8c69b/abb-16f685fbbddb300ecd58-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 6413e0babdffb735fec75a9d9d56961b83f239f7feaa1b144a25a91782af3620
 - Original bytes: 1717860

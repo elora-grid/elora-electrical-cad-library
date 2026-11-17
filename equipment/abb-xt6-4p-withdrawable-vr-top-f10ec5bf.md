@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT6 4p Withdrawable VR top; ABB document 1SDH00206
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH002065A1277\_XT6\_4p\_Withdrawable\_VR\_top.stp for XT6 4p Withdrawable 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-4p-withdrawable-vr-top-f10ec5bf)
+
+- 1SDH002065A1277\_XT6\_4p\_Withdrawable\_VR\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1277\_XT6\_4p\_Withdrawable\_VR\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1277\_XT6\_4p\_Withdrawable\_VR\_top.stp
@@ -108,7 +116,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1277\_XT6\_4p\_Withdrawable\_VR\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1277&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-4p-withdrawable-vr-top-f10ec5bf/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f3d68937b38c6a8762bbc3cd0111a7f10b5b61285dcb4c2147e0445b6218ad4a
 - Original bytes: 529737

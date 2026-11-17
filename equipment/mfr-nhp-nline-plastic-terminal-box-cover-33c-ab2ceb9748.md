@@ -28,7 +28,7 @@ Use the manufacturer configuration named Plastic Terminal Box Cover 33C.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use NHP-NLINE-Plastic-Terminal-Box-Cover-33C-DWG-2D-CAD-Block.dwg to insert the 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-nline-plastic-terminal-box-cover-33c-ab2ceb9748)
+
+- NHP-NLINE-Plastic-Terminal-Box-Cover-33C-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- NHP-NLINE-Plastic-Terminal-Box-Cover-33C-DWG-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### NHP-NLINE-Plastic-Terminal-Box-Cover-33C-DWG-2D-CAD-Block.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (NHP-NLINE-Plastic-Terminal-Box-Cover-33C-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10054/NHP-NLINE-Plastic-Terminal-Box-Cover-33C-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nhp-nline-plastic-terminal-box-cover-33c-ab2ceb9748/nhp-198170-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e13d8d83bf9c82c50c4efcdb3a1ad6906e70f25a2070f32a521584f9a9e37e81
 - Original bytes: 55799

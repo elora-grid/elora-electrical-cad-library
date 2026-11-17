@@ -34,7 +34,7 @@ The supplied configuration is “36LYT259\_22.25”. Keep those frame, mounting 
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -101,6 +101,22 @@ Use 36LYT259\_22.25.dxf revision E for editable DXF drawing geometry. Keep its o
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-36lyt259-22-25-dxf-2d-autocad-dxf-2000-69580ed1c2)
+
+- 36LYT259\_22.25.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 36LYT259.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 36LYT259\_22.25.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 36LYT259\_23.76.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 36LYT259\_23.76.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 36LYT259\_22.25.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 36LYT259\_22.25.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYT259\_22.25.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 36LYT259\_23.76.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 36LYT259\_23.76.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

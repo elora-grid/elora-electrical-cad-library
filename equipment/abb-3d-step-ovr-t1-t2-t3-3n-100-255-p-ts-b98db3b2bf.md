@@ -30,7 +30,7 @@ The supplied configuration is “STEP OVR T1-T2-T3 3N 100-255 P TS”. Keep thos
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ Use 9AKK108467A4032\_en\_B\_3D\_STEP\_OVR\_T1\_T2\_T3\_3N\_100\_255\_P\_TS.stp r
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-3d-step-ovr-t1-t2-t3-3n-100-255-p-ts-b98db3b2bf)
+
+- 9AKK108467A4032\_en\_B\_3D\_STEP\_OVR\_T1\_T2\_T3\_3N\_100\_255\_P\_TS.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

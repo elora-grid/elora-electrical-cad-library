@@ -30,7 +30,7 @@ The supplied configuration is “OTDC600UFS02, OTDC600UFSV02”. Keep those fram
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ otdc600ufsv02.igs is advertised as IGS. Its native format needs separate softwar
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdc600ufs02-otdc600ufsv02-igs-file-70f51b4460)
+
+- otdc600ufsv02.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- otdc600ufsv02.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

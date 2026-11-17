@@ -31,7 +31,7 @@ Use the manufacturer configuration named CMS143 Fuse Holder.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,15 @@ Use Mersen-CMS143-DWG-2D-CAD-Block.dwg to insert the supplied editable drawing i
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-mersen-cms143-fuse-holder-ceae74d175)
+
+- Mersen-CMS143-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- Mersen-CMS143-DWG-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- Mersen-CMS143-STP-3D-CAD-Block.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Mersen-CMS143-DWG-2D-CAD-Block.dwg
@@ -110,7 +119,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Mersen-CMS143-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10053/Mersen-CMS143-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-mersen-cms143-fuse-holder-ceae74d175/nhp-196049-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: b29d24be995e250e208b40f3f72c7c37769a765d9e7af0cff12cbeb752780963
 - Original bytes: 233974

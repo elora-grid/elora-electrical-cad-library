@@ -31,7 +31,7 @@ Use the manufacturer configuration named 1769IQ16K.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use Allen-Bradley-1769IQ16K-Top-2D-CAD-Block.dwg to insert the supplied editable
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-1769iq16k-a20c6c3524)
+
+- Allen-Bradley-1769IQ16K-Top-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Allen-Bradley-1769IQ16K-Top-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- Allen-Bradley-1769IQ16K-3D-CAD-Block.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Allen-Bradley-1769IQ16K-Top-2D-CAD-Block.dwg
@@ -109,7 +118,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-1769IQ16K-Top-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/Allen-Bradley-1769IQ16K-Top-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-1769iq16k-a20c6c3524/nhp-178269-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9db4fb4a943ad1b5afb2a6f2ef00473a9a746ed769be5a2f8b2ee5cc637cda09
 - Original bytes: 31982

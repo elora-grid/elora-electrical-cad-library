@@ -32,7 +32,7 @@ Use the manufacturer configuration named NHP MD6MS Mainswitch.
 - Available previews: 6 drawing previews; 3 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,14 @@ NHP-MD6MS-Mainswitch-2D-CAD-Block.zip is the original NHP Electrical Engineering
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-mod6-nhp-md6ms-mainswitch-761cdde45a)
+
+- NHP-MD6MS-Mainswitch-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- NHP-MD6MS-Mainswitch-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

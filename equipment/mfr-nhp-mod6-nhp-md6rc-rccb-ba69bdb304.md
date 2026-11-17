@@ -32,7 +32,7 @@ Use the manufacturer configuration named NHP MD6RC RCCB.
 - Available previews: 4 drawing previews; 2 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,15 @@ NHP-MD6RC-RCCB-2D-CAD-Block.zip is the original NHP Electrical Engineering Produ
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nhp-mod6-nhp-md6rc-rccb-ba69bdb304)
+
+- NHP-MD6RC-RCCB-2D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- NHP-MD6RC-RCCB-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- NHP-MD6RC-RCCB-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

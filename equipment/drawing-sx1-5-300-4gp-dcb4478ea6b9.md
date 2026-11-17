@@ -26,7 +26,7 @@ The acquired source archive contains SX1.5\_300 4GP.STEP, a 1,999,552-byte STEP 
 - Available previews: 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -95,6 +95,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: d738120813a80d899b9424ba2399e3eb3ce01b65e3fbdeedb1021776016bee67
 - Containing archive SHA-256: dbb12733b68a6c9d6091be6b0de22a5359f0f56e99961abb8b2bff4777ca09de
 - [Original publisher source](https://www.abtech-inc.com/downloads/218/SX1.5_4GP.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-sx1-5-300-4gp-dcb4478ea6b9)
+
+- SX1.5\_4GP.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

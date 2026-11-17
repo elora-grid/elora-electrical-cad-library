@@ -29,7 +29,7 @@ Use the manufacturer configuration named Lighting Contactor 160MC (55-172306).
 - Available previews: 1 drawing previews
 - Recorded revisions: J
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 1SQC911060D0201.dwg (revision J) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-lighting-contactor-160mc-55-172306-e5b7729250)
+
+- 1SQC911060D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC911060D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC911060D0201.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC911060D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC911060D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=J)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-lighting-contactor-160mc-55-172306-e5b7729250/abb-9e5334c28623ad8eecb7-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 81279b1df38642bdd7c54bb5b099a32d1afe5fa39de7e2bb48b7f9d0e6432838
 - Original bytes: 212055

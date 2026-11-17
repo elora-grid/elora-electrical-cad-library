@@ -32,7 +32,7 @@ Original DWG drawing for AF26, AF30, AF38 3-pole contactors with TF42 thermal ov
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,13 @@ This source-only entry identifies AF26, AF30, AF38 3-pole contactors with TF42 t
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-af26-af30-af38-3-pole-contactors-with-tf42-thermal-overload-relay-75b91328)
+
+- 1SBB505036D3501.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -36,7 +36,7 @@ The supplied configuration is “XT3 4p PLUG-IN PSR 90mm LOW”. Keep those fram
 - Available previews: 3 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -96,6 +96,18 @@ Use 1SDH001295R0542\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_INF.stp revisio
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42)
+
+- 1SDH001295R0542\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0542\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0735\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0735\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0779\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_INF.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0779\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_INF.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0542\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_INF.stp
@@ -122,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0542\_1PA\_001\_00\_XT3\_4P\_PLUG\_IN\_PSR\_90mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0542&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42/c490a366f4eecc7a03ad-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c490a366f4eecc7a03aded63d82c38eaafdeb8202ee88b0d226d17c45e8c5d19
 - Original bytes: 67813
@@ -160,7 +172,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0735\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_PSR\_90mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0735&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42/c59adf31af653d54d12d-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: c59adf31af653d54d12d9bc3334e06ae1dd25df8726891b33842e9e82edf29d0
 - Original bytes: 67839
@@ -198,7 +210,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0779\_1PA\_001\_00\_XT4\_4P\_WITHDRAWABLE\_PSR\_90mm\_INF.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0779&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt3-4p-plug-in-psr-90mm-low-dde0d42b42/d964ff94058acc3fc1a4-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d964ff94058acc3fc1a4dc5d0ced24abb87532515086221aedb28af1cc475c1d
 - Original bytes: 67849

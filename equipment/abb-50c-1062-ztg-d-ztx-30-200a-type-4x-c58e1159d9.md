@@ -32,7 +32,7 @@ The supplied configuration is “50C-1062 - ZTG(D)/ZTX 30-200A Type 4X”. Keep 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -75,6 +75,13 @@ Use 50C-1062.pdf revision E to read the original manufacturer sheet and its anno
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-50c-1062-ztg-d-ztx-30-200a-type-4x-c58e1159d9)
+
+- 50C-1062.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ Original STEP 3D geometry for E6.2 III F TERMINALS SVR UPPER 7200A; ABB document
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1sdh001252r0651.stp for E6.2 III F TERMINALS SVR UPPER 7200A. STEP is the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-iii-f-terminals-svr-upper-7200a-6812c605)
+
+- 1sdh001252r0651.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1sdh001252r0651.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1sdh001252r0651.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1sdh001252r0651.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0651&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-iii-f-terminals-svr-upper-7200a-6812c605/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a0f213500d3a04bbf6e6e8f5c0dd89d129eb3d7e40f52cedd08c3c9c1f6031fc
 - Original bytes: 723101

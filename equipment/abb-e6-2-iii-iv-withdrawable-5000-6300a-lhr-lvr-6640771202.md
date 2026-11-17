@@ -31,7 +31,7 @@ The supplied configuration is “E6.2 III-IV Withdrawable 5000/6300A LHR/LVR”.
 - Available previews: 1 drawing previews
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,13 @@ Use 1SDH001060R0117\_enit\_A\_E6.2\_III\_IV\_Withdrawable\_5000\_6300A\_LHR\_LVR
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-iii-iv-withdrawable-5000-6300a-lhr-lvr-6640771202)
+
+- 1SDH001060R0117\_enit\_A\_E6.2\_III\_IV\_Withdrawable\_5000\_6300A\_LHR\_LVR.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

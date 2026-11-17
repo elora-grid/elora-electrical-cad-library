@@ -18,10 +18,21 @@ const hash = {type:'string',pattern:'^[a-f0-9]{64}$'};
 const strings = {type:'array',items:str};
 const enumeration = values => ({type:'string',enum:values});
 const object = (properties,required=Object.keys(properties)) => ({type:'object',properties,required,additionalProperties:false});
+const nullable=schema=>({anyOf:[schema,{type:'null'}]});
+const artifactAccess=object({policyVersion:{const:1},access:enumeration(['public','cad_account','review_required','unavailable']),reason:str});
+const artifact=object({id,name:str,format:str,purpose:str,containedFormats:strings,downloadFormat:str,provenance:enumeration(['manufacturer_source','prepared_conversion']),sourceUrl:url,sourceSha256:nullable(hash),artifactSha256:nullable(hash),bytes:nullable({type:'integer',minimum:1}),archiveMember:nullable(str),revision:nullable(str),access:artifactAccess,downloadUrl:nullable({type:'string',pattern:'^/tools/cad-library/download/[a-z0-9_-]+/[a-z0-9_-]+$'}),customerPrice:{const:0}});
+const reviewIdentity={recordId:id,fileId:id,sourceSha256:hash,artifactSha256:hash,format:str,checkedAt:str};
+const sourceContext=object(Object.fromEntries(['sourceRevision','sourcePurpose','sourceGeometryKind','sourceUnits','manufacturer','partNumber','configuration','sourceUrl','revision','documentNumber','purpose','geometryKind','units'].map(key=>[key,nullable(str)])));
 const file = object({
   id,name:str,format:str,purpose:str,url,availability:enumeration(['direct','account','request']),
   filenameBasis:enumeration(['source-url','response-header','document-reference','manufacturer-metadata']),
   previewGroup:id,
+  readerReview:object({...reviewIdentity,name:str,version:str,reportSha256:hash,outcome:{const:'passed'},scope:{const:'syntax_geometry_independent_roundtrip'}}),
+  accessReview:object({...reviewIdentity,evidenceUrls:{type:'array',items:url},note:str,sourceContext,availability:enumeration(['public_equivalent','exclusive_conversion'])}),
+  geometryKind:enumeration(['2d_drawing','brep_solid','surface_model','mesh','application_native','reference_document']),
+  units:enumeration(['mm','m','in','ft']),
+  officialAlternative:object({sourceFileId:id,sourceSha256:hash,checkedAt:str,evidenceUrls:{type:'array',items:url}}),
+  preparation:object({recipeHash:hash,readerValidation:object({name:str,version:str,checkedAt:str,reportSha256:hash,artifactSha256:hash,recipeHash:hash,evidenceUrl:url,outcome:{const:'passed'}})}),
   conversion:object({fromFileId:id,fromFormat:str,tool:str,convertedAt:str}),
   sourceArchive:object({url,sha256:hash,member:str,publisherMemberChecksumVerified:{type:'boolean'}}),
   publisherChecksum:object({algorithm:{const:'md5'},value:{type:'string',pattern:'^[a-f0-9]{32}$'}}),
@@ -43,7 +54,7 @@ const record = object({
   marketNote:str,kind:enumeration(['product','family','library','configurator','drawing']),partNumber:str,
   sourceUrl:url,officialEvidenceUrl:url,sourcePublisher:str,formats:strings,
   availability:enumeration(['direct','account','configurator','request','catalogue']),accessNote:str,checkedAt:str,
-  files:{type:'array',items:file},standards:strings,standardNote:str,fileClasses:strings,configurationNote:str,canonicalUrl:url,
+  files:{type:'array',items:file},artifacts:{type:'array',items:artifact},relationships:{type:'array',items:object({targetId:id,type:enumeration(['same_equipment_file','revision_of','documented_accessory','family_member','similar_item']),evidenceUrls:{type:'array',items:url},reviewedAt:str})},standards:strings,standardNote:str,fileClasses:strings,configurationNote:str,canonicalUrl:url,
   fileChoiceGuidance:strings,requestTopic:id,
   equipmentFacts:{type:'array',items:object({label:str,value:str})},
   previewImage:{type:'string',pattern:'^/tools/cad-library/(preview|drawing-preview)/'},
@@ -61,10 +72,11 @@ export const SCHEMA = {
 };
 // Deliberately implements only the schema keywords used above. No dependencies.
 export function validateSchema(value,schema,path='$') {
+  if(schema.anyOf){for(const allowed of schema.anyOf){try{validateSchema(value,allowed,path);return;}catch{}}throw Error(`${path}: value does not match an allowed type`);}
   if(schema.const!==undefined && value!==schema.const)throw Error(`${path}: unexpected constant`);
   if(schema.enum && !schema.enum.includes(value))throw Error(`${path}: unexpected enum`);
   if(schema.type){
-    const valid=schema.type==='array'?Array.isArray(value):schema.type==='object'?!!value&&typeof value==='object'&&!Array.isArray(value):schema.type==='integer'?Number.isSafeInteger(value):typeof value===schema.type;
+    const valid=schema.type==='null'?value===null:schema.type==='array'?Array.isArray(value):schema.type==='object'?!!value&&typeof value==='object'&&!Array.isArray(value):schema.type==='integer'?Number.isSafeInteger(value):typeof value===schema.type;
     if(!valid)throw Error(`${path}: expected ${schema.type}`);
   }
   if(schema.minimum!==undefined && value<schema.minimum)throw Error(`${path}: below minimum`);
@@ -99,12 +111,15 @@ export function validateCatalogue(catalogue) {
       if(preview.pathname.includes('/preview/')&&preview.searchParams.get('view')!=='thumb')throw Error('Model binary cannot be used as a preview image');
     }
     for(const reference of r.relatedReferences||[])if(!/^https:\/\/eloragrid\.ai\/objects\/[a-z0-9_-]+$/.test(reference.url))throw Error('Unexpected GA reference URL');
-    const files=new Set();
+    const files=new Set(),artifacts=r.artifacts?new Map(r.artifacts.map(a=>[a.id,a])):null;
+    if(artifacts&&(artifacts.size!==r.artifacts.length||artifacts.size!==r.files.length))throw Error('Incomplete or duplicate artifact manifest');
     for(const f of r.files){
+      const artifact=artifacts?.get(f.id);
+      if(artifacts&&(!artifact||artifact.sourceSha256!==(f.sha256??null)||artifact.artifactSha256!==(f.delivery?.sha256??null)||artifact.bytes!==(f.delivery?.bytes??f.bytes??null)))throw Error('Artifact identity does not match its source and delivery');
       if(files.has(f.id))throw Error('Duplicate file ID');files.add(f.id);
       if(f.downloadUrl){
-        if(!hosted(f)||f.downloadUrl!==`${BASE}/download/${r.id}/${f.id}`)throw Error('Invalid hosted download or rights state');
-      }else if(hosted(f))throw Error('Hosted file missing stable download URL');
+        if(!hosted(f)||(artifact&&artifact.access.access!=='public')||f.downloadUrl!==`${BASE}/download/${r.id}/${f.id}`)throw Error('Invalid hosted download or rights state');
+      }else if(hosted(f)&&(!artifact||artifact.access.access==='public'))throw Error('Hosted public file missing stable download URL');
       if(f.redistribution==='restricted' && (f.hosted||f.downloadUrl))throw Error('Restricted file cannot be hosted');
     }
   }
@@ -122,7 +137,11 @@ export function snapshotCounts(records){return {
   hostedFileEntries:records.flatMap(r=>r.files).filter(f=>f.downloadUrl).length,
   distinctHostedOriginals:new Set(records.flatMap(r=>r.files).filter(f=>f.downloadUrl).map(f=>f.sha256)).size,
   previewableEntries:records.filter(r=>r.previewImage).length,
-  drawingEntries:records.filter(r=>r.drawingReference).length
+  drawingEntries:records.filter(r=>r.drawingReference).length,
+  publicArtifactAccessEntries:records.reduce((n,r)=>n+(r.artifacts||[]).filter(a=>a.access.access==='public').length,0),
+  accountRequiredArtifactEntries:records.reduce((n,r)=>n+(r.artifacts||[]).filter(a=>a.access.access==='cad_account').length,0),
+  reviewRequiredArtifactEntries:records.reduce((n,r)=>n+(r.artifacts||[]).filter(a=>a.access.access==='review_required').length,0),
+  unavailableArtifactEntries:records.reduce((n,r)=>n+(r.artifacts||[]).filter(a=>a.access.access==='unavailable').length,0)
 };}
 export function sourceAuditSummary(audit,counts){
   // This older audit covers source-register records, not expanded per-drawing entries.
@@ -160,6 +179,7 @@ export function entryMarkdown(r){return [
   ...(r.nativeFiles?.length?['## Identified native files','',...r.nativeFiles.flatMap(f=>[
     `### ${md(f.filename)}`,'',`- Format: ${md(f.format)}`,`- Original bytes: ${f.bytes}`,`- Original SHA-256: ${f.sha256}`,`- Containing archive SHA-256: ${f.archiveSha256}`,`- [Original publisher source](${f.sourceUrl})`,''
   ])]:[]),
+  ...(r.artifacts?['## Current artifact access','',`[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/${r.id})`,'',...r.artifacts.map(a=>`- ${md(a.name)}: ${a.access.access} (${md(a.access.reason)}); delivered format ${md(a.downloadFormat)}, contained formats ${a.containedFormats.map(md).join(', ')||'not recorded'}.`),'Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.','']:[]),
   '## Files','',...(r.files.length?r.files.flatMap(f=>[
     `### ${md(f.name)}`,'',`- Format: ${f.format}`,`- Purpose: ${md(f.purpose)}`,`- [Official source](${f.url})`,
     ...(f.archiveMember?[`- Archive member: ${md(f.archiveMember)}`]:[]),

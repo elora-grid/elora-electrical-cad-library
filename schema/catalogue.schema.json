@@ -231,6 +231,379 @@
                   "type": "string",
                   "pattern": "^[a-z0-9_-]+$"
                 },
+                "readerReview": {
+                  "type": "object",
+                  "properties": {
+                    "recordId": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9_-]+$"
+                    },
+                    "fileId": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9_-]+$"
+                    },
+                    "sourceSha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "artifactSha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "format": {
+                      "type": "string"
+                    },
+                    "checkedAt": {
+                      "type": "string"
+                    },
+                    "name": {
+                      "type": "string"
+                    },
+                    "version": {
+                      "type": "string"
+                    },
+                    "reportSha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "outcome": {
+                      "const": "passed"
+                    },
+                    "scope": {
+                      "const": "syntax_geometry_independent_roundtrip"
+                    }
+                  },
+                  "required": [
+                    "recordId",
+                    "fileId",
+                    "sourceSha256",
+                    "artifactSha256",
+                    "format",
+                    "checkedAt",
+                    "name",
+                    "version",
+                    "reportSha256",
+                    "outcome",
+                    "scope"
+                  ],
+                  "additionalProperties": false
+                },
+                "accessReview": {
+                  "type": "object",
+                  "properties": {
+                    "recordId": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9_-]+$"
+                    },
+                    "fileId": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9_-]+$"
+                    },
+                    "sourceSha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "artifactSha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "format": {
+                      "type": "string"
+                    },
+                    "checkedAt": {
+                      "type": "string"
+                    },
+                    "evidenceUrls": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "pattern": "^https://[^\\s]+$"
+                      }
+                    },
+                    "note": {
+                      "type": "string"
+                    },
+                    "sourceContext": {
+                      "type": "object",
+                      "properties": {
+                        "sourceRevision": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "sourcePurpose": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "sourceGeometryKind": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "sourceUnits": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "manufacturer": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "partNumber": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "configuration": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "sourceUrl": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "revision": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "documentNumber": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "purpose": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "geometryKind": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "units": {
+                          "anyOf": [
+                            {
+                              "type": "string"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        }
+                      },
+                      "required": [
+                        "sourceRevision",
+                        "sourcePurpose",
+                        "sourceGeometryKind",
+                        "sourceUnits",
+                        "manufacturer",
+                        "partNumber",
+                        "configuration",
+                        "sourceUrl",
+                        "revision",
+                        "documentNumber",
+                        "purpose",
+                        "geometryKind",
+                        "units"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "availability": {
+                      "type": "string",
+                      "enum": [
+                        "public_equivalent",
+                        "exclusive_conversion"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "recordId",
+                    "fileId",
+                    "sourceSha256",
+                    "artifactSha256",
+                    "format",
+                    "checkedAt",
+                    "evidenceUrls",
+                    "note",
+                    "sourceContext",
+                    "availability"
+                  ],
+                  "additionalProperties": false
+                },
+                "geometryKind": {
+                  "type": "string",
+                  "enum": [
+                    "2d_drawing",
+                    "brep_solid",
+                    "surface_model",
+                    "mesh",
+                    "application_native",
+                    "reference_document"
+                  ]
+                },
+                "units": {
+                  "type": "string",
+                  "enum": [
+                    "mm",
+                    "m",
+                    "in",
+                    "ft"
+                  ]
+                },
+                "officialAlternative": {
+                  "type": "object",
+                  "properties": {
+                    "sourceFileId": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9_-]+$"
+                    },
+                    "sourceSha256": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "checkedAt": {
+                      "type": "string"
+                    },
+                    "evidenceUrls": {
+                      "type": "array",
+                      "items": {
+                        "type": "string",
+                        "pattern": "^https://[^\\s]+$"
+                      }
+                    }
+                  },
+                  "required": [
+                    "sourceFileId",
+                    "sourceSha256",
+                    "checkedAt",
+                    "evidenceUrls"
+                  ],
+                  "additionalProperties": false
+                },
+                "preparation": {
+                  "type": "object",
+                  "properties": {
+                    "recipeHash": {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    "readerValidation": {
+                      "type": "object",
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "version": {
+                          "type": "string"
+                        },
+                        "checkedAt": {
+                          "type": "string"
+                        },
+                        "reportSha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        },
+                        "artifactSha256": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        },
+                        "recipeHash": {
+                          "type": "string",
+                          "pattern": "^[a-f0-9]{64}$"
+                        },
+                        "evidenceUrl": {
+                          "type": "string",
+                          "pattern": "^https://[^\\s]+$"
+                        },
+                        "outcome": {
+                          "const": "passed"
+                        }
+                      },
+                      "required": [
+                        "name",
+                        "version",
+                        "checkedAt",
+                        "reportSha256",
+                        "artifactSha256",
+                        "recipeHash",
+                        "evidenceUrl",
+                        "outcome"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "recipeHash",
+                    "readerValidation"
+                  ],
+                  "additionalProperties": false
+                },
                 "conversion": {
                   "type": "object",
                   "properties": {
@@ -497,6 +870,198 @@
                 "url",
                 "availability",
                 "redistribution"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "artifacts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9_-]+$"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "format": {
+                  "type": "string"
+                },
+                "purpose": {
+                  "type": "string"
+                },
+                "containedFormats": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "downloadFormat": {
+                  "type": "string"
+                },
+                "provenance": {
+                  "type": "string",
+                  "enum": [
+                    "manufacturer_source",
+                    "prepared_conversion"
+                  ]
+                },
+                "sourceUrl": {
+                  "type": "string",
+                  "pattern": "^https://[^\\s]+$"
+                },
+                "sourceSha256": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "artifactSha256": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "pattern": "^[a-f0-9]{64}$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "bytes": {
+                  "anyOf": [
+                    {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "archiveMember": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "revision": {
+                  "anyOf": [
+                    {
+                      "type": "string"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "access": {
+                  "type": "object",
+                  "properties": {
+                    "policyVersion": {
+                      "const": 1
+                    },
+                    "access": {
+                      "type": "string",
+                      "enum": [
+                        "public",
+                        "cad_account",
+                        "review_required",
+                        "unavailable"
+                      ]
+                    },
+                    "reason": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "policyVersion",
+                    "access",
+                    "reason"
+                  ],
+                  "additionalProperties": false
+                },
+                "downloadUrl": {
+                  "anyOf": [
+                    {
+                      "type": "string",
+                      "pattern": "^/tools/cad-library/download/[a-z0-9_-]+/[a-z0-9_-]+$"
+                    },
+                    {
+                      "type": "null"
+                    }
+                  ]
+                },
+                "customerPrice": {
+                  "const": 0
+                }
+              },
+              "required": [
+                "id",
+                "name",
+                "format",
+                "purpose",
+                "containedFormats",
+                "downloadFormat",
+                "provenance",
+                "sourceUrl",
+                "sourceSha256",
+                "artifactSha256",
+                "bytes",
+                "archiveMember",
+                "revision",
+                "access",
+                "downloadUrl",
+                "customerPrice"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "relationships": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "targetId": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9_-]+$"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "same_equipment_file",
+                    "revision_of",
+                    "documented_accessory",
+                    "family_member",
+                    "similar_item"
+                  ]
+                },
+                "evidenceUrls": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "pattern": "^https://[^\\s]+$"
+                  }
+                },
+                "reviewedAt": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "targetId",
+                "type",
+                "evidenceUrls",
+                "reviewedAt"
               ],
               "additionalProperties": false
             }

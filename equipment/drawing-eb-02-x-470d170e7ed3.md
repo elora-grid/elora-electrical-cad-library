@@ -26,7 +26,7 @@ The acquired source archive contains EB Gehäuse\_STP/EB 02 x.stp, a 5,002,807-b
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -89,6 +89,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 6903a41928c098084313f44d96835478de40b663f5e700046c6afc906817214e
 - Containing archive SHA-256: 456637e84ff620524908da65a4d658f6de899877f1f8bf494b6ade19b9578f40
 - [Original publisher source](https://www.hensel-electric.de/media/docs/allgemein/3d-step-dateien/ENYFLEX_EB-Gehaeuse.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-eb-02-x-470d170e7ed3)
+
+- ENYFLEX\_EB-Gehaeuse.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -30,7 +30,7 @@ The supplied configuration is “XR Cassette 1500mm Solid Works”. Keep those f
 - Available previews: No browser preview; original files are downloadable
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -70,6 +70,13 @@ XR\_512.sldprt is the manufacturer’s SOLIDWORKS part file for “XR Cassette 1
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xr-cassette-1500mm-solid-works-aa0fee9387)
+
+- XR\_512.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

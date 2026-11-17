@@ -31,7 +31,7 @@ Use the manufacturer configuration named 1606-XLP72E.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -82,6 +82,14 @@ Use Allen-Bradley-1606-XLP72E-DXF-2D-CAD-Block.dxf to insert the supplied editab
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-1606-xlp72e-b4d3dfaa13)
+
+- Allen-Bradley-1606-XLP72E-DXF-2D-CAD-Block.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+- Allen-Bradley-1606-XLP72E-STEP-3D-CAD-Block.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -31,7 +31,7 @@ Manufacturer reference 1SDH0020651701 identifies this connection-hardware refere
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 1SDH0020651701.stp revision A for the supplied solid assembly in your 3D lay
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-p1-3p-fixed-es-47mm-up-155fbd2ab7)
+
+- 1SDH0020651701.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH0020651701.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH0020651701.stp
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH0020651701.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH0020651701&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-p1-3p-fixed-es-47mm-up-155fbd2ab7/d446f23845b481280eb1-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d446f23845b481280eb1122cbb88ebd7eeab921ccc32801dba0e3b617940d954
 - Original bytes: 1363093

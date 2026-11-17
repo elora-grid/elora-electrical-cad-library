@@ -26,7 +26,7 @@ The verified native member is Power Products/Edison Power Distribution Blocks/HP
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 98802cc7a436f18bab530664e79f51fbd02c53907a4c667be7844c45f5d594a3
 - Containing archive SHA-256: c8aafefeb109de747e070a1cf7f4c3f5e0e5a89c144dcba05e1d43947f4ee2b9
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/edisonpdb.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-hpb101-3-3c9fca73c260)
+
+- edisonpdb.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

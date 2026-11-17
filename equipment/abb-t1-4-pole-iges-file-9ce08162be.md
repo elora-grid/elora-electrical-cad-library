@@ -31,7 +31,7 @@ The supplied configuration is “T1, 4 Pole”. Keep those frame, mounting and a
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ ABB reference 9AKK106103A4767; 9AKK106103A4766. The file list retains the origin
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t1-4-pole-iges-file-9ce08162be)
+
+- 9AKK106103A4767.iges: public (public\_original); delivered format IGES, contained formats IGES.
+- 9AKK106103A4766.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -26,7 +26,7 @@ The verified native member is Other PLC Products/Protos X IO/PX-172-1.dwg. Its i
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -106,6 +106,15 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 2416c723e04fd603d042a1a1c8146b91c20654220eb9d60b8e6536dd79db5f01
 - Containing archive SHA-256: ecfac391a72e937ec5e91a111454d6f36c1427e88d7b1c345c9de8c0315f040f
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/pxio.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-px-172-1-d8d51fdcf49a)
+
+- pxio.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- pxio.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+- pxio.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

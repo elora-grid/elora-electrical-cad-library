@@ -31,7 +31,7 @@ The supplied configuration is “OT125MLE4”. Keep those frame, mounting and ac
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,15 @@ Use OT125MLE4\_1SCC307749F0001.dwg revision A for editable DWG drawing geometry.
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-ot125mle4-e67debdf99)
+
+- OT125MLE4\_1SCC307749F0001.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- OT125MLE4\_1SCC307749F0001.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- OT125MLE4.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### OT125MLE4\_1SCC307749F0001.dwg
@@ -104,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (OT125MLE4\_1SCC307749F0001.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SCC307749F0001&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-ot125mle4-e67debdf99/ec4b0cc6b6b43ff14049-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ec4b0cc6b6b43ff14049bbbe9c6d0397936020f4e69b5294ea5d4d993da1dd37
 - Original bytes: 6399872

@@ -32,7 +32,7 @@ The supplied configuration is “E6.2/E9 IV F”. Keep those frame, mounting and
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH001336R0306\_E6\_2\_E9\_F\_IV\_PROTECTIONS\_AND\_PHASE\_BARRIERS.stp rev
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e9-iv-f-6ba56a6afc)
+
+- 1SDH001336R0306\_E6\_2\_E9\_F\_IV\_PROTECTIONS\_AND\_PHASE\_BARRIERS.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001336R0306\_E6\_2\_E9\_F\_IV\_PROTECTIONS\_AND\_PHASE\_BARRIERS.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001336R0306\_E6\_2\_E9\_F\_IV\_PROTECTIONS\_AND\_PHASE\_BARRIERS.stp
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001336R0306\_E6\_2\_E9\_F\_IV\_PROTECTIONS\_AND\_PHASE\_BARRIERS.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001336R0306&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e9-iv-f-6ba56a6afc/a06c75e022af66156742-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a06c75e022af6615674293146686aa23c038b9e073466009bca6beefbf102e96
 - Original bytes: 3365610

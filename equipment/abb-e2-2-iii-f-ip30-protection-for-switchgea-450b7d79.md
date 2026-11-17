@@ -31,7 +31,7 @@ Original STEP 3D geometry for E2.2 III F IP30 PROTECTION FOR SWITCHGEA; ABB docu
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use 1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGE
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e2-2-iii-f-ip30-protection-for-switchgea-450b7d79)
+
+- 1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGEA.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGEA.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGEA.stp
@@ -108,7 +116,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0167\_1PA\_001\_01\_E2.2\_III\_F\_IP30\_PROTECTION\_FOR\_SWITCHGEA.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0167&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e2-2-iii-f-ip30-protection-for-switchgea-450b7d79/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 657a9ffc26a27331e1f92afcc9a82071570d195cf44f7c97bc2c54cf608c892b
 - Original bytes: 126727

@@ -29,7 +29,7 @@ Use the manufacturer configuration named CP665.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use CP665-DIS4363-20141216.dwg to insert the supplied editable drawing into your
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-cp665-f7d3b48672)
+
+- CP665-DIS4363-20141216.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- CP665-DIS4363-20141216.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### CP665-DIS4363-20141216.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (CP665-DIS4363-20141216.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=CP665-DIS4363-20141216&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-cp665-f7d3b48672/abb-34a71c43da0c2618073a-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 61512d5bbfb1cb2221157246972fd49f70d1a6129caef78954ea7306e67b2973
 - Original bytes: 1741243

@@ -30,11 +30,11 @@ The supplied configuration is “12LY-001-003\_29.001”. Keep those frame, moun
 - Drawing views (12LY-001-003.pdf, page 1): drive end detail
 - Manufacturer reference: 12LY-001-003
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -95,6 +95,19 @@ Use 12LY\_001\_003\_29.001.dwg revision A for editable DWG drawing geometry. Kee
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-12ly-001-003-29-001-dwg-2d-autocad-dwg-2000-c1fd72dc8a)
+
+- 12LY\_001\_003\_29.001.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 12LY\_001\_003\_29.001.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 12LY-001-003.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 12LY\_001\_003\_29.001.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 12LY\_001\_003\_29.001.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 12LY\_001\_003\_29.001.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 12LY-001-003\_29.001.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 12LY\_001\_003\_29.001.dwg
@@ -121,7 +134,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (12LY\_001\_003\_29.001.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-12ly-001-003-29-001-dwg-2d-autocad-dwg-2000-c1fd72dc8a/e5a9ff0fd020e7214d3c-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e5a9ff0fd020e7214d3c5c9b2e392adea2a831b2a32c36d4857900c2e3635b4f
 - Original bytes: 2336696
@@ -210,5 +223,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=A)
 - Delivery: original; SLDPRT; 8969837 bytes
 - Delivery SHA-256: 808a4e3941e2c671d15c75d3b4a34a78a6a8412d5e7977a4d48140e66d98233e
+
+### 12LY-001-003\_29.001.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 12LY-001-003\_29.001, revision A. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LY-001-003_29.001&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=A)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: A
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -27,7 +27,7 @@ Confirm selected size, mounting orientation, revision and installation clearance
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-29
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -62,6 +62,17 @@ Available here: DWG, DXF, ZIP. The individual filenames above distinguish the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/greenheck-sq-mixed-flow-fans)
+
+- SQ\_MixedFlow-3D.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SQ\_MixedFlow-3D.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- SQ-30.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SQ-30.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- SQ\_MixedFlow\_LOD200\_AllSizes.zip: public (public\_original); delivered format ZIP, contained formats PDF, RFA.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SQ\_MixedFlow-3D.dwg
@@ -88,7 +99,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SQ\_MixedFlow-3D.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10013/SQ_MixedFlow-3D.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sq-mixed-flow-fans/greenheck-sq-mixedflow-3d-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9f63c0f03bb202509a5930afc235575e7e55ed2552e3753f6a119c9d5aa17679
 - Original bytes: 7422551
@@ -126,7 +137,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SQ-30.dwg).
 - [Official source](https://content.greenheck.com/public/DAMProd/Original/10012/SQ-30.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/greenheck-sq-mixed-flow-fans/greenheck-sq-30-dwg-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ba2a73a02eba1291a18362f502fbb715885873f36d967cc42db5e53746c9b2d6
 - Original bytes: 407912

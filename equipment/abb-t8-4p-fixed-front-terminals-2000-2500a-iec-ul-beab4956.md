@@ -29,7 +29,7 @@ Original DXF drawing for T8 4p fixed front terminals 2000-2500A IEC UL; ABB docu
 - Available previews: 1 drawing previews
 - Recorded revisions: E
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -74,6 +74,13 @@ Use 1SDH000620R0802.dxf for T8 4p fixed front terminals 2000-2500A IEC UL. DXF i
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-t8-4p-fixed-front-terminals-2000-2500a-iec-ul-beab4956)
+
+- 1SDH000620R0802.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

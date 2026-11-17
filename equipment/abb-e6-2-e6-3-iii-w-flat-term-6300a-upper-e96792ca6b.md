@@ -31,7 +31,7 @@ The supplied configuration is “E6.2/E6.3 III W FLAT TERM 6300A UPPER”. Keep 
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0451.stp revision - for the supplied solid assembly in your 3D la
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e6-3-iii-w-flat-term-6300a-upper-e96792ca6b)
+
+- 1SDH001252R0451.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0451.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0451.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0451.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0451&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iii-w-flat-term-6300a-upper-e96792ca6b/087caa98dded9b7fdc8f-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 087caa98dded9b7fdc8fbf6a2f763cb42b1f300a989b9f06786c0887258ddc63
 - Original bytes: 2764293

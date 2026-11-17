@@ -31,7 +31,7 @@ The supplied configuration is “A3 3p HTC UP”. Keep those frame, mounting and
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.stp revision A for the suppl
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-a3-3p-htc-up-db2b7eaac0)
+
+- 1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001294R0144\_1PA\_001\_00\_A3\_3p\_HTC\_sup.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001294R0144&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-a3-3p-htc-up-db2b7eaac0/37d69ddb8e6c6f1a14fe-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 37d69ddb8e6c6f1a14fed06f218a86faad5ad8a232660a2848abd2e2e41faa2e
 - Original bytes: 253126

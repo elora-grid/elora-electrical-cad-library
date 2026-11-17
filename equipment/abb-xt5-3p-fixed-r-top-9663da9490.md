@@ -31,7 +31,7 @@ The supplied configuration is “XT5 3p Fixed R top”. Keep those frame, mounti
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1133\_9709.stp revision B for the supplied solid assembly in your
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt5-3p-fixed-r-top-9663da9490)
+
+- 1SDH002065A1133\_9709.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1133\_9709.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1133\_9709.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1133\_9709.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1133&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt5-3p-fixed-r-top-9663da9490/9b7197eb75f21cdeb8e7-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9b7197eb75f21cdeb8e7cee6d6826348622d4041340c95ab33ad4d6360f25fd9
 - Original bytes: 3845939

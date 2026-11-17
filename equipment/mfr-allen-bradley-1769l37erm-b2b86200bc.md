@@ -31,7 +31,7 @@ Use the manufacturer configuration named 1769L37ERM.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -83,6 +83,15 @@ Use Allen-Bradley-1769L37ERM-Right-2D-CAD-Block.dwg to insert the supplied edita
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-1769l37erm-b2b86200bc)
+
+- Allen-Bradley-1769L37ERM-Right-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Allen-Bradley-1769L37ERM-Right-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- Allen-Bradley-1769L37ERM-3D-CAD-Block.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Allen-Bradley-1769L37ERM-Right-2D-CAD-Block.dwg
@@ -109,7 +118,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Allen-Bradley-1769L37ERM-Right-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10045/Allen-Bradley-1769L37ERM-Right-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-1769l37erm-b2b86200bc/nhp-178363-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 21876d5209005fc6e0e1aa0364c44f25c2a29128eb5b23e443f36c7a75b49db2
 - Original bytes: 37070

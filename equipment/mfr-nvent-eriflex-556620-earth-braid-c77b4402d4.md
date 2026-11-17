@@ -30,7 +30,7 @@ Use the manufacturer configuration named 556620 Earth Braid.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -78,6 +78,14 @@ Use 556620-Earth-Braid-DWG-2D-CAD-Block.dwg to insert the supplied editable draw
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-nvent-eriflex-556620-earth-braid-c77b4402d4)
+
+- 556620-Earth-Braid-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 556620-Earth-Braid-DWG-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 556620-Earth-Braid-DWG-2D-CAD-Block.dwg
@@ -104,7 +112,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (556620-Earth-Braid-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10055/556620-Earth-Braid-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-nvent-eriflex-556620-earth-braid-c77b4402d4/nhp-198886-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 6cfecd4d6f18e6b0c0d07548a85d0a4ff7ba77fcbd1efb7e54fbf493ebc6c916
 - Original bytes: 32485

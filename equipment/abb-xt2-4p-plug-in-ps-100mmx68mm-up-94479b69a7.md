@@ -34,7 +34,7 @@ The supplied configuration is “XT2 4p PLUG-IN PS 100mmx68mm UP”. Keep those 
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,16 @@ Use 1SDH001295R0347\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_100mmx68mm\_SUP.stp re
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7)
+
+- 1SDH001295R0347\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_100mmx68mm\_SUP.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0347\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_100mmx68mm\_SUP.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001295R0390\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_100mmx68mm\_.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0390\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_100mmx68mm\_.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0347\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_100mmx68mm\_SUP.stp
@@ -115,7 +125,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0347\_1PA\_001\_00\_XT2\_4P\_PLUG\_IN\_PS\_100mmx68mm\_SUP.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0347&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7/9ead6da36a8e24911b34-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9ead6da36a8e24911b34a6eddf026a71ca08bb17e44a606a96308a11f3eea660
 - Original bytes: 75011
@@ -153,7 +163,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0390\_1PA\_001\_00\_XT2\_4P\_WITHDRAWABLE\_PS\_100mmx68mm\_.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0390&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-plug-in-ps-100mmx68mm-up-94479b69a7/9f4e9af92b4d8c30f3c3-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9f4e9af92b4d8c30f3c345ed1734b75674fca5787c36f6ff90dd3f365b17097c
 - Original bytes: 75015

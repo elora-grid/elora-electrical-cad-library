@@ -28,7 +28,7 @@ Use the manufacturer configuration named SENATOR 440P MSL Limit Switch.
 - Available previews: 1 drawing previews
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -76,6 +76,14 @@ Use SENATOR-440P-MSL-Limit-Switch-2D-CAD-Block.dwg to insert the supplied editab
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-allen-bradley-senator-440p-msl-limit-switch-e0e3fbda6d)
+
+- SENATOR-440P-MSL-Limit-Switch-2D-CAD-Block.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- SENATOR-440P-MSL-Limit-Switch-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SENATOR-440P-MSL-Limit-Switch-2D-CAD-Block.dwg
@@ -102,7 +110,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SENATOR-440P-MSL-Limit-Switch-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10050/SENATOR-440P-MSL-Limit-Switch-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-allen-bradley-senator-440p-msl-limit-switch-e0e3fbda6d/nhp-189149-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 541a0f70f5345204f37d303e0db570a3e599a080d7aaddecab40d7d7ab5e6e4b
 - Original bytes: 136082

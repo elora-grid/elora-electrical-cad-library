@@ -30,7 +30,7 @@ Original STEP 3D geometry for XT6 3p Fixed FCCuAl 2x500kcmil top; ABB document 1
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1497\_XT6\_3p\_Fixed\_FCCuAl\_2x500kcmil\_top.stp for XT6 3p Fixe
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt6-3p-fixed-fccual-2x500kcmil-top-7cf21004)
+
+- 1SDH002065A1497\_XT6\_3p\_Fixed\_FCCuAl\_2x500kcmil\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1497\_XT6\_3p\_Fixed\_FCCuAl\_2x500kcmil\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1497\_XT6\_3p\_Fixed\_FCCuAl\_2x500kcmil\_top.stp
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1497\_XT6\_3p\_Fixed\_FCCuAl\_2x500kcmil\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1497&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt6-3p-fixed-fccual-2x500kcmil-top-7cf21004/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 97f6d755c049015b704c8083f74dc807e4e30778051944ed4cb9e7b7676f8d96
 - Original bytes: 966402

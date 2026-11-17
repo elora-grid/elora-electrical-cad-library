@@ -31,7 +31,7 @@ SpaceLogic Modbus Glass Touch Panel, Thermostat with 8 buttons and PIR
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.0
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -81,6 +81,14 @@ Use SLGM08THM.dwg (revision 1.0) to insert the supplied editable drawing into yo
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-slgm08thm-file-19d7c22e02)
+
+- SLGM08THM.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- SLGM08THM.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### SLGM08THM.dwg
@@ -107,7 +115,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (SLGM08THM.dwg).
 - [Official source](https://download.se.com/files?p_Doc_Ref=SLGM08THM_CAD&p_enDocType=CAD)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-schneider-electric-slgm08thm-file-19d7c22e02/se-895f53bffd6f790d69c6-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a257042d7d0a98a04acaf5df48d33211039170563e45d4b0ef7411075bda60b2
 - Original bytes: 636645

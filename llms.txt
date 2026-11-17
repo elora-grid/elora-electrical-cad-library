@@ -4,7 +4,7 @@
 
 ## API and MCP discovery
 
-- [Live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json): versioned API, capabilities, skills and configured public MCP endpoint. Use catalogue HTTP access while the separate agent rollout is unavailable.
+- [Live CAD discovery](https://eloragrid.ai/.well-known/cad-library.json): versioned API, capabilities, skills and configured public MCP endpoint. The public API and six-tool MCP are live; use capabilities for current counts and access policies.
 - [API guide](docs/api.md): v1 workflows, existing catalogue routes, access policies and version recovery.
 - [MCP guide](docs/mcp.md): six public tools and separate scoped exclusive-download access.
 - [Snapshot format](docs/snapshot-format.md): complete lossless gzip JSON and checksum validation.

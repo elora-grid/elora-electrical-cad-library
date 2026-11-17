@@ -26,7 +26,7 @@ The verified native member is PLC Families/P1000/P1-16TR.dwg. Its identity was c
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: ad32f88d0dd608ba89e30342bebbeffdea9860a288a142063a988d8f969130e4
 - Containing archive SHA-256: e0452210104345efa6dc873f83776bbb971cb8b0b41cdc48915bded8116a4662
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/p1000.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-p1-16tr-9f5cdc87fe52)
+
+- p1000.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -26,7 +26,7 @@ Each archive may cover several variants. Match original drawing title and model 
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -54,6 +54,30 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/fuji-orange-line---odyssey-series)
+
+- 4GC0A0, 4GC0F0.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- 4GC0G0.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- 4GC0Q0, 4GC0R0.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- 4GC0H0.zip: public (official\_source); delivered format ZIP, contained formats DXF.
+- 3NC0T0, 3NC1Q0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC2F0, 3NC2H0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC2T0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC3F0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC3H0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC4F0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC4Q0, 3NC4H0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC5F0, 3NC5H0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC6F0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 3NC6H0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 4NC0A0, 4NC0F0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 4NC0G0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 4NC0H0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+- 4NC0Q0, 4NC0R0.zip: public (official\_source); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

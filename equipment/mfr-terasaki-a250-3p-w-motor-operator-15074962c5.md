@@ -30,7 +30,7 @@ Use the manufacturer configuration named A250 3P W Motor Operator.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use Terasaki-A250-3P-W-Motor-Operator-2D-CAD-Block.dwg to insert the supplied ed
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-terasaki-a250-3p-w-motor-operator-15074962c5)
+
+- Terasaki-A250-3P-W-Motor-Operator-2D-CAD-Block.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- Terasaki-A250-3P-W-Motor-Operator-2D-CAD-Block.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Terasaki-A250-3P-W-Motor-Operator-2D-CAD-Block.dwg
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Terasaki-A250-3P-W-Motor-Operator-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10047/Terasaki-A250-3P-W-Motor-Operator-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-terasaki-a250-3p-w-motor-operator-15074962c5/nhp-183201-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e52cd2415cb171ac154856205bb257b3ce2a5370c19484af26b441b78cf5d347
 - Original bytes: 319599

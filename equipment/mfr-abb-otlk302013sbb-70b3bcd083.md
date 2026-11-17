@@ -33,7 +33,7 @@ OTLK302013SBB.stp OTL75A3B 1SCA022555R7580
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: F
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,13 @@ Use OTLK302013SBB.STP.stp (revision F) to place the original solid geometry in y
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-otlk302013sbb-70b3bcd083)
+
+- OTLK302013SBB.STP.stp: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

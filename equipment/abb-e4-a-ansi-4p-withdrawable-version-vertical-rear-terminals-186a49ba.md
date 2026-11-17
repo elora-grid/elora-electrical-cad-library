@@ -29,7 +29,7 @@ Original DXF drawing for E4-A ANSI 4p Withdrawable version Vertical rear termina
 - Available previews: 1 drawing previews
 - Recorded revisions: E
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,13 @@ Use 1SDH000526R0879.dxf for E4-A ANSI 4p Withdrawable version Vertical rear term
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-a-ansi-4p-withdrawable-version-vertical-rear-terminals-186a49ba)
+
+- 1SDH000526R0879.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

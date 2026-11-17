@@ -29,7 +29,7 @@ Use the manufacturer configuration named CR306G STARTER OPEN(55-206936S1).
 - Available previews: 2 drawing previews
 - Recorded revisions: E
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC913449D0201.dwg (revision E) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-cr306g-starter-open-55-206936s1-084126acf9)
+
+- 1SQC913449D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC913449D0201.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 1SQC913449D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC913449D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC913449D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913449D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=E)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-cr306g-starter-open-55-206936s1-084126acf9/abb-99c64f12e5875e7bf708-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: cf7b4ce7794fbf179db0288d193fbde154fa1666404f7f188763e71c91e37c18
 - Original bytes: 412915

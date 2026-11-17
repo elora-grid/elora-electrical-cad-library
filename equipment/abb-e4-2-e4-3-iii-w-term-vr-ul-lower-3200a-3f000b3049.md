@@ -31,7 +31,7 @@ The supplied configuration is “E4.2/E4.3 III W TERM VR UL LOWER 3200A”. Keep
 - Available previews: 1 interactive model variants
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001252R0372\_1PA\_001\_00\_1SDH001252R0372\_1PA\_001\_00\_E4.2\_III\_W\_
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e4-2-e4-3-iii-w-term-vr-ul-lower-3200a-3f000b3049)
+
+- 1SDH001252R0372\_1PA\_001\_00\_1SDH001252R0372\_1PA\_001\_00\_E4.2\_III\_W\_TERM\_V\_UL\_LOWER\_3200A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0372\_1PA\_001\_00\_1SDH001252R0372\_1PA\_001\_00\_E4.2\_III\_W\_TERM\_V\_UL\_LOWER\_3200A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0372\_1PA\_001\_00\_1SDH001252R0372\_1PA\_001\_00\_E4.2\_III\_W\_TERM\_V\_UL\_LOWER\_3200A.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0372\_1PA\_001\_00\_1SDH001252R0372\_1PA\_001\_00\_E4.2\_III\_W\_TERM\_V\_UL\_LOWER\_3200A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0372&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e4-2-e4-3-iii-w-term-vr-ul-lower-3200a-3f000b3049/60a8a706718d15fdd4ab-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 60a8a706718d15fdd4ab0977525ebd958bb5f2df7f72180aa70995c3fe9611e6
 - Original bytes: 3024438

@@ -26,7 +26,7 @@ The exact supplied files are ZP 5 asm.STEP, ZP5.dwg. Use STEP for placing the en
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -102,6 +102,14 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 2374604c3e9c1672c749f340786a923304aba8a6d92fe043b238d368e948d25e
 - Containing archive SHA-256: a370a89a2f4cbec84763c6c1ce74da54c105033038eedd3021468b000191f782
 - [Original publisher source](https://www.abtech-inc.com/downloads/130/zp_2d.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zp-5-asm-740363b61ae8)
+
+- ZP 5.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- zp\_2d.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

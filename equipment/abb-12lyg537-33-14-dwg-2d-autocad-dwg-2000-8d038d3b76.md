@@ -29,11 +29,11 @@ The supplied configuration is “12LYG537\_33.14”. Keep those frame, mounting 
 - Motor drawing designation (12LYG537): HORZ TEFC 324-6T CP INV/VECTOR W/312 BRGS,THRU SH ENC.&COVER
 - Manufacturer reference: 12LYG537
 - Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -90,6 +90,19 @@ Use 12LYG537\_33.14.dwg revision D for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-12lyg537-33-14-dwg-2d-autocad-dwg-2000-8d038d3b76)
+
+- 12LYG537\_33.14.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 12LYG537\_33.14.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 12LYG537.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 12LYG537\_33.14.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 12LYG537\_33.14.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 12LYG537\_33.14.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 12LYG537\_33.14.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 12LYG537\_33.14.dwg
@@ -116,7 +129,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (12LYG537\_33.14.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-12lyg537-33-14-dwg-2d-autocad-dwg-2000-8d038d3b76/d032400f8b747bddf456-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d032400f8b747bddf456163aaaa94cfe8b43cc4767fcaafc2ed9136816739b50
 - Original bytes: 1033656
@@ -205,5 +218,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=sldprt&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; SLDPRT; 3256320 bytes
 - Delivery SHA-256: 335af9ded27e7861d2893198b0a8993402f50707a03006c3617d73a3cee63fbc
+
+### 12LYG537\_33.14.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 12LYG537\_33.14, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=12LYG537_33.14&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

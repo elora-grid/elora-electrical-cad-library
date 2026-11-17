@@ -32,7 +32,7 @@ Use the manufacturer configuration named V7W4 Terminal.
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -84,6 +84,15 @@ Use Sprecher-Schuh-V7W4-Terminal-DWG-2D-CAD-Block.dwg to insert the supplied edi
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-sprecher-schuh-v7w4-terminal-338cb9ff15)
+
+- Sprecher-Schuh-V7W4-Terminal-DWG-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Sprecher-Schuh-V7W4-Terminal-DWG-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- Sprecher-Schuh-V7W4-Terminal-STP-3D-CAD-Block.stp: public (public\_original); delivered format STEP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Sprecher-Schuh-V7W4-Terminal-DWG-2D-CAD-Block.dwg
@@ -110,7 +119,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Sprecher-Schuh-V7W4-Terminal-DWG-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10052/Sprecher-Schuh-V7W4-Terminal-DWG-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-sprecher-schuh-v7w4-terminal-338cb9ff15/nhp-193066-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 184b80edb6ab567cb460f4b23e5acd3ea692c7f591d5eb9885e9f50bd129bd21
 - Original bytes: 41327

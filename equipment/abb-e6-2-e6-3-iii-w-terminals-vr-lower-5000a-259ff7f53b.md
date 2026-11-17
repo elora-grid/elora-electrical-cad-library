@@ -34,7 +34,7 @@ This reference covers the connection or accessory named in “E6.2/E6.3 III W TE
 - Available previews: 2 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -91,6 +91,16 @@ Use 1SDH001252R0245\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_LOWER\_5000A.stp
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-e6-2-e6-3-iii-w-terminals-vr-lower-5000a-259ff7f53b)
+
+- 1SDH001252R0245\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_LOWER\_5000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0245\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_LOWER\_5000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SDH001252R0247\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_UPPER\_5000A.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001252R0247\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_UPPER\_5000A.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001252R0245\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_LOWER\_5000A.stp
@@ -117,7 +127,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0245\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_LOWER\_5000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0245&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iii-w-terminals-vr-lower-5000a-259ff7f53b/a7b0716c27cbaa34adae-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: a7b0716c27cbaa34adaef70444788b7ae3f47efddb0e76ec31ca1f3de001f359
 - Original bytes: 1115615
@@ -155,7 +165,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001252R0247\_1PA\_001\_00\_E6.2\_III\_W\_TERMINALS\_VR\_UPPER\_5000A.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001252R0247&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-e6-2-e6-3-iii-w-terminals-vr-lower-5000a-259ff7f53b/ab0051adbd5b5c1583a0-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: ab0051adbd5b5c1583a0c04f44977b0e75f5e39344bc0e53a434fa460e5d56ed
 - Original bytes: 1117292

@@ -29,11 +29,11 @@ The supplied configuration is “35LYE5479\_16.38”. Keep those frame, mounting
 - Motor drawing designation (35LYE5479): HOR D90S-L TEFC B ODE MOUNT DRV INT SH GND ECS
 - Manufacturer reference: 35LYE5479
 - Listed file formats: DWG, IGS, PDF, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: E
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,19 @@ Use 35LYE5479\_16.38.dwg revision E for editable DWG drawing geometry. Keep its 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35lye5479-16-38-dwg-2d-autocad-dwg-2000-3764b0bb60)
+
+- 35LYE5479\_16.38.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LYE5479\_16.38.dxf: public (public\_equivalent); delivered format DXF, contained formats DXF.
+- 35LYE5479.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LYE5479\_16.38.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LYE5479\_16.38.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 35LYE5479\_16.38.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 35LYE5479\_16.38.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
@@ -205,5 +218,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5479_16.38&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=E)
 - Delivery: original; SLDPRT; 4066694 bytes
 - Delivery SHA-256: eac1bdc65dc90de6bb67dbf27bc1094c5bdc4eaea20df906ae6e9760e983a47f
+
+### 35LYE5479\_16.38.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 35LYE5479\_16.38, revision E. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=35LYE5479_16.38&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=E)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: E
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

@@ -28,11 +28,11 @@ The supplied configuration is “05LYH015\_12.54”. Keep those frame, mounting 
 - Document revision: D
 - Manufacturer reference: 05LYH015
 - Listed file formats: DWG, PDF, SAT, SLDPRT, STEP, DXF
-- Listed files: 6
+- Listed files: 7
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: D
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -89,6 +89,19 @@ Use 05LYH015\_12.54.dwg revision D for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-05lyh015-12-54-dwg-2d-autocad-dwg-2000-ed1de6d221)
+
+- 05LYH015\_12.54.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 05LYH015\_12.54.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 05LYH015.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 05LYH015\_12.54.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 05LYH015\_12.54.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 05LYH015\_12.54.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 05LYH015\_12.54.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 05LYH015\_12.54.dwg
@@ -115,7 +128,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (05LYH015\_12.54.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=D)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-05lyh015-12-54-dwg-2d-autocad-dwg-2000-ed1de6d221/79daac01c69cc86ffd44-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 79daac01c69cc86ffd448aabaef8a462928890e65e98760f620ce8d1952dcc0b
 - Original bytes: 1830219
@@ -204,5 +217,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=D)
 - Delivery: original; SLDPRT; 5230532 bytes
 - Delivery SHA-256: 92bb791105b9c53d8e6597b027ade43966c00910ed0fb2a2b2e73c3f0ec17361
+
+### 05LYH015\_12.54.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 05LYH015\_12.54, revision D. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=05LYH015_12.54&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=D)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: D
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

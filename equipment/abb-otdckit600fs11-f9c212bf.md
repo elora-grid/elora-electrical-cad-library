@@ -30,7 +30,7 @@ Original STEP 3D geometry for OTDCKIT600FS11; ABB document 9AKK108467A8526
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -81,6 +81,15 @@ Use 9AKK108467A8528.dwg (DWG) to read the supplied 2D drawing, and 9AKK108467A85
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-otdckit600fs11-f9c212bf)
+
+- 9AKK108467A8526.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 9AKK108467A8528.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 9AKK108467A8528.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 9AKK108467A8526.stp
@@ -129,7 +138,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (9AKK108467A8528.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A8528&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-otdckit600fs11-f9c212bf/drawing-72d8d4dc-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 7f856e72fdc3fd040ca8f3265eeded113b4af53b88eebd3f6ab66af6f3246a17
 - Original bytes: 1559212

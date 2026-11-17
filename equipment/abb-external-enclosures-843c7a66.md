@@ -29,7 +29,7 @@ Original DWG drawing for External Enclosures; ABB document 9AKK105713A7749
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -75,6 +75,14 @@ Use ABB\_Obudowy\_zewnetrzne\_IP66\_\_\_Gemini\_v2015.dwg for External Enclosure
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-external-enclosures-843c7a66)
+
+- ABB\_Obudowy\_zewnetrzne\_IP66\_\_\_Gemini\_v2015.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- ABB\_Obudowy\_zewnetrzne\_IP66\_\_\_Gemini\_v2015.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### ABB\_Obudowy\_zewnetrzne\_IP66\_\_\_Gemini\_v2015.dwg
@@ -103,7 +111,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (ABB\_Obudowy\_zewnetrzne\_IP66\_\_\_Gemini\_v2015.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=9AKK105713A7749&LanguageCode=pl&DocumentPartId=&Action=Launch&DocumentRevisionId=-)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-external-enclosures-843c7a66/original-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: f969e6512808f9ad964ef881cd50733cfd144d18b97ec249231bea16bce70bb6
 - Original bytes: 147664

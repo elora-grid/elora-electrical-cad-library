@@ -26,7 +26,7 @@ Confirm exact catalogue number, dimensional units, accessories, clearances, volt
 - Available previews: 19 drawing previews; 21 interactive model variants
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-14
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -61,6 +61,34 @@ Available here: ZIP. The individual filenames above distinguish the supplied var
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/uk-abtech-zp)
+
+- zp\_2d.zip: public (public\_original); delivered format ZIP, contained formats DWG.
+- ZP 1.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 2.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 3.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 4.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 5.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 6.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 7.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 8.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 9.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 10.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 11.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 12.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 13.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 14.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 15.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 16.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 17.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 18.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP 19.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP L Foot.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+- ZP R Foot.zip: public (public\_original); delivered format ZIP, contained formats STEP.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

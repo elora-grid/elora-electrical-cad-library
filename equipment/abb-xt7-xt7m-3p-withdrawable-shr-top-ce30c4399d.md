@@ -31,7 +31,7 @@ The supplied configuration is “XT7-XT7M 3P Withdrawable SHR top”. Keep those
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH002065A1450\_XT7\_XT7M\_3P\_Withdrawable\_SHR\_top.stp revision A for th
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt7-xt7m-3p-withdrawable-shr-top-ce30c4399d)
+
+- 1SDH002065A1450\_XT7\_XT7M\_3P\_Withdrawable\_SHR\_top.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH002065A1450\_XT7\_XT7M\_3P\_Withdrawable\_SHR\_top.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH002065A1450\_XT7\_XT7M\_3P\_Withdrawable\_SHR\_top.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH002065A1450\_XT7\_XT7M\_3P\_Withdrawable\_SHR\_top.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH002065A1450&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt7-xt7m-3p-withdrawable-shr-top-ce30c4399d/9e1f2f6e2e7988b4ca5b-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9e1f2f6e2e7988b4ca5b0c57f5137b7d50b673757b9429f0c4637beba8d914f0
 - Original bytes: 1421580

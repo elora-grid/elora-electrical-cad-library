@@ -26,7 +26,7 @@ The verified native member is Pushbuttons Switches Indicators/22mm Non-metal/Eat
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -86,6 +86,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: 1de00a4c9be1016afb1381521294812e1760a5ad5fb019d5a380d2dd9bbf8317
 - Containing archive SHA-256: 5509404c7c683d010ce30b46fe2d023acee8f6bfe2c5e62bade4b74cca128860
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/22mm_nonmetal_pilot.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-e22b1-2a43c0a417b9)
+
+- 22mm\_nonmetal\_pilot.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

@@ -31,7 +31,7 @@ The supplied configuration is “XT2 4p Withdrawable Side connector for Ekip Tou
 - Available previews: 1 interactive model variants
 - Recorded revisions: B
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.stp revision B for the suppl
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4)
+
+- 1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0901\_XT2\_4P\_W\_PLUG\_KIT\_\_Rev01.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0901&LanguageCode=en&DocumentPartId=&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt2-4p-withdrawable-side-connector-for-ekip-touch-hi-touch-a274a614b4/0294b26637a933a15944-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0294b26637a933a15944aec8bd773076b8f49c9141f5d1db8e8f0d05a6db745a
 - Original bytes: 163860

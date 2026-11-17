@@ -30,7 +30,7 @@ Use the manufacturer configuration named P400 P630 Terminal Cover Flush 3P.
 - Available previews: 1 drawing previews; approximate 3D model built from the drawing
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -80,6 +80,14 @@ Use Terasaki-P400-P630-Terminal-Cover-Flush-3P-2D-CAD-Block.dwg to insert the su
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-terasaki-p400-p630-terminal-cover-flush-3p-d46b563d82)
+
+- Terasaki-P400-P630-Terminal-Cover-Flush-3P-2D-CAD-Block.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- Terasaki-P400-P630-Terminal-Cover-Flush-3P-2D-CAD-Block.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### Terasaki-P400-P630-Terminal-Cover-Flush-3P-2D-CAD-Block.dwg
@@ -106,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (Terasaki-P400-P630-Terminal-Cover-Flush-3P-2D-CAD-Block.dwg).
 - [Official source](https://www.nhpnz.co.nz/public/assets/pim/Original/10047/Terasaki-P400-P630-Terminal-Cover-Flush-3P-2D-CAD-Block.dwg)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-terasaki-p400-p630-terminal-cover-flush-3p-d46b563d82/nhp-183203-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 771220b8b624c4b02b9d730c2ac3b793f535681db7a9fb8bf2b44e411093b250
 - Original bytes: 99328

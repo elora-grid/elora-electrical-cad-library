@@ -29,7 +29,7 @@ Use the manufacturer configuration named Lighting Contactor 360L (55-209746).
 - Available previews: 2 drawing previews
 - Recorded revisions: G
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC912139D0201.dwg (revision G) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-lighting-contactor-360l-55-209746-40bdbd75a0)
+
+- 1SQC912139D0201.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 1SQC912139D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC912139D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC912139D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC912139D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC912139D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=G)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-lighting-contactor-360l-55-209746-40bdbd75a0/abb-9bdf1097a5a2d7c67a55-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 0f06b951938a24dc644924b544ce211295fe6ae23906f9eebe8555cb1a908364
 - Original bytes: 335716

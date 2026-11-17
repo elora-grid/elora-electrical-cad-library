@@ -30,7 +30,7 @@ Use the manufacturer configuration named HC2652WP I-Line HCN, HCJ, HCP Panelboar
 - Available previews: 1 drawing previews
 - Recorded revisions: 1.1
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,13 @@ Use PBA475\_EN.dxf (revision 1.1) to insert the supplied editable drawing into y
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-schneider-electric-hc2652wp-i-line-hcn-hcj-hcp-panelboard-enclosure-nema-3r-12-32w-x-48-91h-model-d0e8341238)
+
+- PBA475\_EN.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

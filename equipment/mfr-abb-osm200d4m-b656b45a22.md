@@ -33,7 +33,7 @@ Manufacturer source discovery; confirm the exact regional equipment configuratio
 - Available previews: 2 drawing previews; 1 interactive model variants
 - Recorded revisions: B, A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -88,6 +88,14 @@ Use 1SCC318035F0002.dxf (revision B) to insert the supplied editable drawing int
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-osm200d4m-b656b45a22)
+
+- 1SCC318035F0002.dxf: public (public\_original); delivered format ZIP, contained formats DXF.
+- OSM200D4.IGS.igs: public (public\_original); delivered format ZIP, contained formats IGES.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

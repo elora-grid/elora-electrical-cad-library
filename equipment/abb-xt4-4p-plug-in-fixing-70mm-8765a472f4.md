@@ -31,7 +31,7 @@ The supplied configuration is “XT4 4p PLUG-IN FIXING 70mm”. Keep those frame
 - Available previews: 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,14 @@ Use 1SDH001295R0721\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_FIXING\_70MM.stp revision 
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-xt4-4p-plug-in-fixing-70mm-8765a472f4)
+
+- 1SDH001295R0721\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_FIXING\_70MM.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0721\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_FIXING\_70MM.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0721\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_FIXING\_70MM.stp
@@ -105,7 +113,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0721\_1PA\_001\_00\_XT4\_4P\_PLUG\_IN\_FIXING\_70MM.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0721&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-xt4-4p-plug-in-fixing-70mm-8765a472f4/e7c658922d2c81846f5b-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: e7c658922d2c81846f5b905ab3f588a0fee2ab2562838965688ff8e0b6267560
 - Original bytes: 603277

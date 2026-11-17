@@ -31,7 +31,7 @@ Original DWG drawing for OUTLINE, 3 PHASE OVERLOAD RELAY CR324D (SIZE 2)(55-5315
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: D
 - Source checked: 2026-11-03
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -74,6 +74,13 @@ This source-only entry identifies OUTLINE, 3 PHASE OVERLOAD RELAY CR324D (SIZE 2
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-outline-3-phase-overload-relay-cr324d-size-2-55-531584s1-dwg-4b989de7)
+
+- 1SQC913506D0201\_en\_DWG\_D\_OUTLINE\_\_3\_PHASE\_OVERLOAD\_RELAY\_CR324D\_\_SIZE\_2\_\_55\_531584S1\_\_DWG.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

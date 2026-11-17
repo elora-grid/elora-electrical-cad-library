@@ -29,7 +29,7 @@ Use the manufacturer configuration named 4-polig XT2 4pol Abdeckung Nacharbeit.
 - Available previews: 1 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -77,6 +77,13 @@ Use 9AKK108469A9998.pdf (revision B) to read the original sheet, including its a
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-4-polig-xt2-4pol-abdeckung-nacharbeit-557b6d8f9a)
+
+- 9AKK108469A9998.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

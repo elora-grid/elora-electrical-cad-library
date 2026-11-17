@@ -29,7 +29,7 @@ Original DXF drawing for AF09.S, AF12.S, AF16..-30-10/01S contactors; 4-pole NF.
 - Available previews: 1 drawing previews
 - Recorded revisions: -
 - Source checked: 2026-11-03
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -73,6 +73,13 @@ Use 1SBB505012D3501.dxf for AF09.S, AF12.S, AF16..-30-10/01S contactors; 4-pole 
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-af09-s-af12-s-af16-30-10-01s-contactors-4-pole-nf-s-contactor-relays-with-spring-term-17c669ba)
+
+- 1SBB505012D3501.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

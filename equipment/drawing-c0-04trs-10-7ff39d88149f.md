@@ -26,7 +26,7 @@ The verified native member is PLC Families/CLICK/C0-04TRS-10.DWG. Its identity w
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -88,6 +88,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: d5c8efa40dd58d8a4164f2b4c271443d7d63648644d2003efbbae0008a521f0b
 - Containing archive SHA-256: 71f1c0a03d3b29f0dd574829cadceb608666611411f54ce8f9b16694f7017ce1
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/click.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-c0-04trs-10-7ff39d88149f)
+
+- click.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

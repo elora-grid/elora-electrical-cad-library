@@ -29,11 +29,11 @@ The supplied configuration is “06LYK800\_15.24”. Keep those frame, mounting 
 - Drawing views (06LYK800.pdf, page 1): drive end detail
 - Manufacturer reference: 06LYK800
 - Listed file formats: DWG, PDF, SAT, SLDPRT, DXF
-- Listed files: 5
+- Listed files: 6
 - Available previews: 2 drawing previews
 - Recorded revisions: C
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -90,6 +90,18 @@ Use 06LYK800\_15.24.dwg revision C for editable DWG drawing geometry. Keep its o
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-06lyk800-15-24-dwg-2d-autocad-dwg-2000-6f8900bc9a)
+
+- 06LYK800\_15.24.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 06LYK800\_15.24.dxf: review_required (conversion\_reader\_review\_required); delivered format DXF, contained formats DXF.
+- 06LYK800.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 06LYK800\_15.24.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 06LYK800\_15.24.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+- 06LYK800\_15.24.dxf: public (official\_source); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 06LYK800\_15.24.dwg
@@ -116,7 +128,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (06LYK800\_15.24.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=C)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/abb-06lyk800-15-24-dwg-2d-autocad-dwg-2000-6f8900bc9a/d53e0879c403d86d3cc3-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: d53e0879c403d86d3cc388986afa4104e444bb449b71ef7182c3d9ea770c4fc6
 - Original bytes: 1781597
@@ -186,5 +198,17 @@ Related GA references provide equipment context; a related category does not est
 - [Rights evidence](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=SLDPRT&Action=Launch&DocumentRevisionId=C)
 - Delivery: original; SLDPRT; 5191263 bytes
 - Delivery SHA-256: 3658e67aca318879a4d968da8176c3f966854c0422f7654f018f05c256c3f61b
+
+### 06LYK800\_15.24.dxf
+
+- Format: DXF
+- Purpose: Manufacturer 2D CAD for document 06LYK800\_15.24, revision C. The publisher declares the format; units and geometry have not been independently inspected.
+- [Official source](https://search.abb.com/library/Download.aspx?DocumentID=06LYK800_15.24&LanguageCode=en&DocumentPartId=DXF&Action=Launch&DocumentRevisionId=C)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
+- Redistribution: unknown
+- Original SHA-256: Not acquired
+- Original bytes: Not acquired
+- Revision: C
+- Retrieved: Not acquired
 
 Global tags describe discovery, not certification. Confirm exact configuration, revision and dimensional units. Unknown redistribution rights remain unknown. The catalogue licence does not license manufacturer CAD.

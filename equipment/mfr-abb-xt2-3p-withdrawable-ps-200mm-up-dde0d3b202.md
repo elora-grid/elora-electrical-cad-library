@@ -32,7 +32,7 @@ Use the manufacturer configuration named XT2 3p WITHDRAWABLE PS 200mm UP.
 - Available previews: 1 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -87,6 +87,14 @@ Use 1SDH001295R0262.stp (revision A) to place the original solid geometry in you
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-xt2-3p-withdrawable-ps-200mm-up-dde0d3b202)
+
+- 1SDH001295R0262.stp: public (public\_original); delivered format STEP, contained formats STEP.
+- 1SDH001295R0262.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SDH001295R0262.stp
@@ -113,7 +121,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF 2D views (front, top and side) projected from the manufacturer's original STEP (1SDH001295R0262.stp).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SDH001295R0262&LanguageCode=en&LanguageCode=it&DocumentPartId=&Action=Launch&DocumentRevisionId=A)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-xt2-3p-withdrawable-ps-200mm-up-dde0d3b202/abb-533466e12486d276fdac-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 6cc1b78e15daef932f534f5a95d185aae33cbcdeff92fe88725d78fa9e79104b
 - Original bytes: 68810

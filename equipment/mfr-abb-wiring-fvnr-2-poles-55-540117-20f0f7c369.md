@@ -29,7 +29,7 @@ Use the manufacturer configuration named Wiring , FVNR 2 Poles (55-540117).
 - Available previews: 2 drawing previews
 - Recorded revisions: B
 - Source checked: 2026-11-11
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -79,6 +79,15 @@ Use 1SQC913082D0201.dwg (revision B) to insert the supplied editable drawing int
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
 
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/mfr-abb-wiring-fvnr-2-poles-55-540117-20f0f7c369)
+
+- 1SQC913082D0201.dwg: public (public\_original); delivered format ZIP, contained formats DWG.
+- 1SQC913082D0201.dxf: cad_account (exclusive\_conversion); delivered format DXF, contained formats DXF.
+- 1SQC913082D0201.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
+
 ## Files
 
 ### 1SQC913082D0201.dwg
@@ -105,7 +114,7 @@ Related GA references provide equipment context; a related category does not est
 - Format: DXF
 - Purpose: DXF converted from the manufacturer's original DWG (1SQC913082D0201.dwg).
 - [Official source](https://search.abb.com/library/Download.aspx?DocumentID=1SQC913082D0201&LanguageCode=en&DocumentPartId=DWG&Action=Launch&DocumentRevisionId=B)
-- [Download from Elora](https://eloragrid.ai/tools/cad-library/download/mfr-abb-wiring-fvnr-2-poles-55-540117-20f0f7c369/abb-0b6804a366e5156ead6b-dxf)
+- Site download: unavailable; use the official source or Request CAD on the equipment page.
 - Redistribution: unknown
 - Original SHA-256: 9d80888fcd3458b87c825c5aae5d8705b0629378d975e5ad942a58fd77b1296c
 - Original bytes: 491689

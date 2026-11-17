@@ -32,7 +32,7 @@ Manufacturer reference eq48-2d-cad-drawing.dwg; eq48-2d-pdf.pdf; eq48-3d-step-fi
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-11-04
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -72,6 +72,16 @@ Use eq48-2d-cad-drawing.dwg for editable DWG drawing geometry. Keep its original
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/deif-eq-3349b48df6)
+
+- eq48-2d-cad-drawing.dwg: public (official\_source); delivered format DWG, contained formats DWG.
+- eq48-2d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+- eq48-3d-step-file.stp: public (official\_source); delivered format STEP, contained formats STEP.
+- eq48-3d-pdf.pdf: public (official\_source); delivered format PDF, contained formats PDF.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

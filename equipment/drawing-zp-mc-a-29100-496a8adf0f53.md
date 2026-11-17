@@ -26,7 +26,7 @@ The acquired source archive contains Enclosures and Wiring/ZIPport Multi-Wire Co
 - Available previews: Manufacturer source / drawing request
 - Recorded revisions: Confirm the revision with the manufacturer
 - Source checked: 2026-10-13
-- Download access: Use the official manufacturer source or request the exact drawing
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## What the equipment does
 
@@ -87,6 +87,13 @@ Related GA references provide equipment context; a related category does not est
 - Original SHA-256: e511d53efc439ba1c9ba9a6f996472ce8c93fb1a79890df3e8bf35e9b7c85f9a
 - Containing archive SHA-256: 8ab51fe2a53a06290932ffe66518f5a37e0394db2032728b7f93f344fa2f2c45
 - [Original publisher source](https://ftp.automationdirect.com/support/drawings/zipportmultiwireconn.zip)
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/drawing-zp-mc-a-29100-496a8adf0f53)
+
+- zipportmultiwireconn.zip: public (official\_source); delivered format ZIP, contained formats DWG.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 

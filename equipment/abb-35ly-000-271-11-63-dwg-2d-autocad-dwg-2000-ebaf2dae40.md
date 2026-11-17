@@ -35,7 +35,7 @@ The supplied configuration is “35LY-000-271\_11.63”. Keep those frame, mount
 - Available previews: 3 drawing previews; 1 interactive model variants
 - Recorded revisions: A
 - Source checked: 2026-11-04
-- Download access: Email registration for site downloads; official source links are also available
+- Download access: Public originals need no Elora account or email. Exclusive Elora conversions require a free CAD Library account; conversions without an access review are not released. Manufacturer requirements may apply.
 
 ## Source-linked technical facts
 
@@ -103,6 +103,22 @@ Use 35LY\_000\_271\_11.63.dwg revision A for editable DWG drawing geometry. Keep
 - [Electrical drawing guides](https://eloragrid.ai/tools/electrical-library/guides)
 
 Related GA references provide equipment context; a related category does not establish an exact product match.
+
+## Current artifact access
+
+[Check current API access and prepared downloads](https://eloragrid.ai/api/cad/v1/items/abb-35ly-000-271-11-63-dwg-2d-autocad-dwg-2000-ebaf2dae40)
+
+- 35LY\_000\_271\_11.63.dwg: public (public\_original); delivered format DWG, contained formats DWG.
+- 35LY-000-271.pdf: public (public\_original); delivered format PDF, contained formats PDF.
+- 35LY\_000\_271\_11.63.step: public (public\_original); delivered format STEP, contained formats STEP.
+- 35LY\_000\_271\_13.00.dxf: public (public\_original); delivered format DXF, contained formats DXF.
+- 35LY\_000\_271\_11.63.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 35LY\_000\_271\_11.63.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LY\_000\_271\_12.13.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LY\_000\_271\_13.00.igs: public (public\_original); delivered format IGS, contained formats IGES.
+- 35LY\_000\_271\_13.00.sat: public (public\_original); delivered format SAT, contained formats SAT.
+- 35LY\_000\_271\_13.00.sldprt: public (public\_original); delivered format SLDPRT, contained formats SLDPRT.
+Public originals and reviewed equivalents need no account. Exclusive conversions require a free verified CAD account and separately scoped consent. Review-required files are not ready downloads.
 
 ## Files
 
